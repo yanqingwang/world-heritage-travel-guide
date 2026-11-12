@@ -2,8 +2,8 @@
  "id": "wh-1447",
  "unesco_id": "1447",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 465,
+ "tier": "full",
+ "popularity_rank": 483,
  "popularity_score": 12361,
  "country": "DE",
  "country_zh": "德国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1447.jpg",
-   "title": "Carolingian Westwork and Civitas Corvey",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1447",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2015-05_niedersachsen-fahrt_113.JPG/1280px-2015-05_niedersachsen-fahrt_113.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2015-05 niedersachsen-fahrt 113.JPG",
+   "author": "Ziko",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2015-05_niedersachsen-fahrt_113.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1147_K%C3%B6nig_Konrad_Urkunde_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1147 König Konrad Urkunde (1).png",
+   "author": "Landesarchiv NRW Abteilung Westfalen – Digital-Viewer",
+   "license": "CC BY-SA 4.0",
+   "credit": "Landesarchiv NRW Abteilung Westfalen W 701 / Urkundenselekt, Nr. KU 106, 23. März 1147",
+   "source": "https://commons.wikimedia.org/wiki/File:1147_K%C3%B6nig_Konrad_Urkunde_%281%29.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2015-05_niedersachsen-fahrt_104.JPG/1280px-2015-05_niedersachsen-fahrt_104.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2015-05 niedersachsen-fahrt 104.JPG",
+   "author": "Ziko",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2015-05_niedersachsen-fahrt_104.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2015-05_niedersachsen-fahrt_105.JPG/1280px-2015-05_niedersachsen-fahrt_105.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2015-05 niedersachsen-fahrt 105.JPG",
+   "author": "Ziko",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2015-05_niedersachsen-fahrt_105.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1447",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 40.0,
   "distance_beijing_km": 7645.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Personenfähre Wehrden",
+    "name_en": null,
+    "lat": 51.7123478,
+    "lon": 9.3930614,
+    "distance_km": 7.4,
+    "operator": null
+   },
+   {
+    "name": "Fähre Heinsen",
+    "name_en": null,
+    "lat": 51.8852053,
+    "lon": 9.4362963,
+    "distance_km": 12.1,
+    "operator": "Förderverein Personenfähre Heinsen e.V."
+   },
+   {
+    "name": "Heidbrink",
+    "name_en": null,
+    "lat": 51.8965727,
+    "lon": 9.4090391,
+    "distance_km": 13.2,
+    "operator": null
+   },
+   {
+    "name": "Gierseilfähre Polle",
+    "name_en": null,
+    "lat": 51.8967222,
+    "lon": 9.4078562,
+    "distance_km": 13.2,
+    "operator": "verpachtet vom Landkreis Holzminden"
+   },
+   {
+    "name": "Herstelle-Würgassen",
+    "name_en": null,
+    "lat": 51.6434812,
+    "lon": 9.4186056,
+    "distance_km": 14.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Holzminden",
+    "name_en": null,
+    "lat": 51.8202064,
+    "lon": 9.4538193,
+    "distance_km": 5.6,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Höxter-Ottbergen",
+    "name_en": null,
+    "lat": 51.7109551,
+    "lon": 9.3053907,
+    "distance_km": 10.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Lauenförde-Beverungen",
+    "name_en": null,
+    "lat": 51.6584816,
+    "lon": 9.3927624,
+    "distance_km": 13.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Stadtoldendorf",
+    "name_en": null,
+    "lat": 51.8809556,
+    "lon": 9.6204051,
+    "distance_km": 18.5,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Bodenfelde",
+    "name_en": null,
+    "lat": 51.637133,
+    "lon": 9.561647,
+    "distance_km": 18.8,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Steigenberger Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.9856778,
+   "lon": 9.2528466,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Schloss Schwöbber",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.069125,
+   "lon": 9.2516577,
+   "distance_km": 34.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Niedersachsen",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.7762515,
+   "lon": 9.3805465,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zum Weserdampfschiff",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.6430054,
+   "lon": 9.4507488,
+   "distance_km": 15.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Burg Blomberg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.9423264,
+   "lon": 9.0897381,
+   "distance_km": 28.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -175,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:18Z"
 }

@@ -8,13 +8,13 @@ country: "SV"
 country_zh: "萨尔瓦多"
 country_en: "El Salvador"
 unesco_id: "675"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(iii)(iv)"
 lat: 13.827494444
 lon: -89.356158333
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:53Z"
 ---
 
 # 霍亚－德赛伦考古遗址 / Joya de Cerén Archaeological Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:29Z"
 
 *ES Joya Ceren 05 2012 Estructura 9 Area 2 Tamazcal wide angle 1479.JPG · see Wikimedia Commons file page*
 
-![Joya de Cerén Archaeological Site](https://whc.unesco.org/uploads/sites/site_675.jpg)
+![Ceren (10) sm (4290048934).jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ceren_%2810%29_sm_%284290048934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Joya de Cerén Archaeological Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ceren (10) sm (4290048934).jpg · xorge · CC BY-SA 2.0*
+
+![Ceren (18) sm (4289305623).jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Ceren_%2818%29_sm_%284289305623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ceren (18) sm (4289305623).jpg · xorge · CC BY-SA 2.0*
+
+![Ceren (21) sm (4289305699).jpg](https://upload.wikimedia.org/wikipedia/commons/7/7b/Ceren_%2821%29_sm_%284289305699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ceren (21) sm (4289305699).jpg · xorge · CC BY-SA 2.0*
+
+![Ceren (3) sm (4290048722).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a2/Ceren_%283%29_sm_%284290048722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ceren (3) sm (4290048722).jpg · xorge · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,19 @@ Al igual que las ciudades romanas de Pompeya y Herculano, la comunidad agrícola
 - ✈ **Ilopango International Airport (ILS)** — 29.2 km
 - ✈ **El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez (SAL)** — 53.5 km
 - ✈ **La Aurora International Airport (GUA)** — 151.7 km
+- 🚉 **La Estación** — 13.8 km
+- 🚉 **Estación de Tren FENADESAL** — 24.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13471.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Villa Dovela San Benito** — 19.8 km — star — 3★
+- **Hotel Armonia Hostal** — 20.0 km — star — 3★ · Armonía hostal
+- **Hotel Villa Serena Escalón** — 20.0 km — star — 3★
+- **Hilton San Salvador** — 18.0 km — chain — Hilton
+- **Hotel Sheraton Presidente** — 19.5 km — chain
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

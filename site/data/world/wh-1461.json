@@ -2,8 +2,8 @@
  "id": "wh-1461",
  "unesco_id": "1461",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 439,
+ "tier": "full",
+ "popularity_rank": 455,
  "popularity_score": 13413,
  "country": "TH",
  "country_zh": "泰国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1461.jpg",
-   "title": "Kaeng Krachan Forest Complex",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1461",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1028_user-reallitwyh.jpg/1280px-1028_user-reallitwyh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1028 user-reallitwyh.jpg",
+   "author": "Orapan Rungrotjanaluk",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1028_user-reallitwyh.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ban_Krang_Campsite_01.jpg/1280px-Ban_Krang_Campsite_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ban Krang Campsite 01.jpg",
+   "author": "Codas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Krang_Campsite_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ban_Krang_Campsite_02.jpg/1280px-Ban_Krang_Campsite_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ban Krang Campsite 02.jpg",
+   "author": "Codas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Krang_Campsite_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bear_hug_2024_01.jpg/1280px-Bear_hug_2024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bear hug 2024 01.jpg",
+   "author": "Wadnita",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bear_hug_2024_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1461",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Boathouse Paradise Resort",
+   "name_en": "Boathouse Paradise Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8811667,
+   "lon": 99.6001735,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BanJankapor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.8744975,
+   "lon": 99.6051493,
+   "distance_km": 18.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "resort",
+   "name_en": "resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8826277,
+   "lon": 99.6321146,
+   "distance_km": 21.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pornthana resort",
+   "name_en": "Pornthana resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.911024,
+   "lon": 99.6394517,
+   "distance_km": 23.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "resort sunee",
+   "name_en": "resort sunee",
+   "stars": null,
+   "brand": null,
+   "lat": 12.9138224,
+   "lon": 99.638423,
+   "distance_km": 23.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TH",
   "country_zh": "泰国",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:19Z"
 }

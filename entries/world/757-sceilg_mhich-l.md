@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)"
 lat: 51.771111111
 lon: -10.540555555
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:56Z"
 ---
 
 # 斯凯利格•迈克尔岛 / Sceilg Mhichíl

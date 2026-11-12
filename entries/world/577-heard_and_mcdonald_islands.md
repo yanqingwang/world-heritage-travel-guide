@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "577"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1997"
 criteria: "(viii)(ix)"
 lat: -53.078333333
 lon: 73.5075
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:50Z"
 ---
 
 # 赫德岛和麦克唐纳群岛 / Heard and McDonald Islands
@@ -57,7 +57,14 @@ Heard Island and McDonald Islands are located in the Southern Ocean, approximate
 
 - ✈ **Sir Charles Gaetan Duval Airport (RRG)** — 3806.4 km
 - ✈ **Tôlanaro Airport (FTU)** — 3824.0 km
+- ⛴ **Atlas Cove** — 10.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11154.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

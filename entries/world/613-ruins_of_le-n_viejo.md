@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 12.400547222
 lon: -86.617797222
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:51Z"
 ---
 
 # 莱昂•别霍遗址 / Ruins of León Viejo

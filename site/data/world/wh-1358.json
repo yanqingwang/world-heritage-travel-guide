@@ -2,8 +2,8 @@
  "id": "wh-1358",
  "unesco_id": "1358",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 458,
+ "tier": "full",
+ "popularity_rank": 475,
  "popularity_score": 12535,
  "country": "VN",
  "country_zh": "越南",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1358.jpg",
-   "title": "Citadel of the Ho Dynasty",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1358",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/12-gieng_vua-dan_te_nam_giao.JPG/1280px-12-gieng_vua-dan_te_nam_giao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "12-gieng vua-dan te nam giao.JPG",
+   "author": "Giếng Vua",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:12-gieng_vua-dan_te_nam_giao.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/20-Ng%C3%B3i_%C4%91%E1%BA%A7u_%C4%91ao.jpg/1280px-20-Ng%C3%B3i_%C4%91%E1%BA%A7u_%C4%91ao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20-Ngói đầu đao.jpg",
+   "author": "Nhi NV",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20-Ng%C3%B3i_%C4%91%E1%BA%A7u_%C4%91ao.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/C%E1%BB%95ng_B%E1%BA%AFc_th%C3%A0nh_nh%C3%A0_H%E1%BB%93_.jpg/1280px-C%E1%BB%95ng_B%E1%BA%AFc_th%C3%A0nh_nh%C3%A0_H%E1%BB%93_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cổng Bắc thành nhà Hồ .jpg",
+   "author": "Gieng Cung",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:C%E1%BB%95ng_B%E1%BA%AFc_th%C3%A0nh_nh%C3%A0_H%E1%BB%93_.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/C%E1%BB%95ng_Nam.jpg/1280px-C%E1%BB%95ng_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cổng Nam.jpg",
+   "author": "Cổng Nam Thành Nhà Hồ",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:C%E1%BB%95ng_Nam.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1358",
@@ -102,10 +126,124 @@
   ],
   "nearest_airport_km": 24.3,
   "distance_beijing_km": 2481.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Route 1 Temple Stop",
+    "name_en": null,
+    "lat": 20.2573479,
+    "lon": 105.8985181,
+    "distance_km": 36.6,
+    "operator": null
+   },
+   {
+    "name": "Trang An Boat Tours Finish",
+    "name_en": "Trang An Boat Tours Finish",
+    "lat": 20.252547,
+    "lon": 105.9174185,
+    "distance_km": 38.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bỉm Sơn",
+    "name_en": "Bim Son",
+    "lat": 20.0811623,
+    "lon": 105.855141,
+    "distance_km": 26.2,
+    "operator": null
+   },
+   {
+    "name": "Đò Lèn",
+    "name_en": "Do Len",
+    "lat": 19.9874668,
+    "lon": 105.8448466,
+    "distance_km": 27.0,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Nghĩa Trang",
+    "name_en": null,
+    "lat": 19.9162076,
+    "lon": 105.8135564,
+    "distance_km": 28.3,
+    "operator": null
+   },
+   {
+    "name": "Đồng Giao",
+    "name_en": null,
+    "lat": 20.1380163,
+    "lon": 105.8711123,
+    "distance_km": 28.6,
+    "operator": null
+   },
+   {
+    "name": "Thanh Hóa",
+    "name_en": "Thanh Hoa",
+    "lat": 19.8128131,
+    "lon": 105.7677621,
+    "distance_km": 34.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ninh Binh Legend Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.2744939,
+   "lon": 105.9587265,
+   "distance_km": 42.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hoalu Ecolodge Homestay",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2657178,
+   "lon": 105.9212314,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quang Dũng Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2187906,
+   "lon": 105.9615486,
+   "distance_km": 40.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Khách sạn Phú Cường",
+   "name_en": "Phu Cuong Hotel",
+   "stars": 2,
+   "brand": null,
+   "lat": 19.9196697,
+   "lon": 105.3938316,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thế Vĩnh Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 20.2471149,
+   "lon": 105.9712353,
+   "distance_km": 42.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "VN",
   "country_zh": "越南",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:35Z"
+ "updated_at": "2026-11-12T12:12:16Z"
 }

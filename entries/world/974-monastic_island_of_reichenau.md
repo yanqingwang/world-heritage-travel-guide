@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "974"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)(iv)(vi)"
 lat: 47.693055555
 lon: 9.063055555
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:05Z"
 ---
 
 # 赖谢瑙修道院之岛 / Monastic Island of Reichenau
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *InselReichenau 20090709 MartinSteiger CCBYSA 001.jpg · see Wikimedia Commons file page*
 
-![Monastic Island of Reichenau](https://whc.unesco.org/uploads/sites/site_974.jpg)
+![De-Reichenau.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Monastic Island of Reichenau · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Reichenau.ogg · Jeuwre · CC BY-SA 4.0*
+
+![Blick vom Arenenberg über den Bodensee zur Insel Reichenau 2014-05-08 14-25.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Blick_vom_Arenenberg_%C3%BCber_den_Bodensee_zur_Insel_Reichenau_2014-05-08_14-25.JPG/1280px-Blick_vom_Arenenberg_%C3%BCber_den_Bodensee_zur_Insel_Reichenau_2014-05-08_14-25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Blick vom Arenenberg über den Bodensee zur Insel Reichenau 2014-05-08 14-25.JPG · User:HELFTOM · CC BY-SA 3.0*
+
+![2010-04-27 18 31 55 Switzerland Ermatingen Reichenau.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2010-04-27_18_31_55_Switzerland_Ermatingen_Reichenau.jpg/1280px-2010-04-27_18_31_55_Switzerland_Ermatingen_Reichenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-04-27 18 31 55 Switzerland Ermatingen Reichenau.jpg · Hansueli Krapf · CC BY-SA 3.0*
+
+![Reichenau.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Reichenau.JPG/1280px-Reichenau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Reichenau.JPG · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Die Reichenau (alemannisch: Riichenau) ist eine bewohnte Insel im Landkreis Kons
 - ✈ **Bodensee Airport Friedrichshafen (FDH)** — 33.7 km
 - ✈ **Sankt Gallen Altenrhein Airport (ACH)** — 43.9 km
 - ✈ **Zürich Airport (ZRH)** — 46.6 km
+- 🚉 **Mannenbach-Salenstein** — 2.3 km
+- 🚉 **Ermatingen** — 3.1 km
+- 🚉 **Berlingen** — 3.8 km
+- 🚉 **Tägerwilen-Gottlieben** — 6.4 km
+- 🚉 **Steckborn** — 6.9 km
+- ⛴ **Solarfähre Reichenau** — 0.7 km
+- ⛴ **Reichenau** — 0.8 km
+- ⛴ **Mannenbach (See)** — 2.3 km
+- ⛴ **Solarfähre Mannenbach** — 2.3 km
+- ⛴ **Schiffsanlagestelle Baumann** — 2.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7900.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Inselhotel Konstanz** — 9.2 km — star — 5★
+- **Riva** — 9.8 km — star — 5★
+- **Strandhotel Löchnerhaus** — 0.8 km — star — 4★
+- **Lilienberg** — 2.8 km — star — 4★
+- **Hotel HOERI am Bodensee** — 7.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

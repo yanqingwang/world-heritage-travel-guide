@@ -2,8 +2,8 @@
  "id": "wh-742",
  "unesco_id": "742",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 462,
+ "tier": "full",
+ "popularity_rank": 480,
  "popularity_score": 12429,
  "country": "CO",
  "country_zh": "哥伦比亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_742.jpg",
-   "title": "Historic Centre of Santa Cruz de Mompox",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/742",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Calle_real_3.JPG/1280px-Calle_real_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Calle real 3.JPG",
+   "author": "cesar pineda",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Calle_real_3.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Catedraldemompox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Catedraldemompox.jpg",
+   "author": "Einer3088",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Catedraldemompox.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Iglesia_de_santo_domingo1.JPG/1280px-Iglesia_de_santo_domingo1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Iglesia de santo domingo1.JPG",
+   "author": "cesar pineda",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_santo_domingo1.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Secor_antiguio_alcaldia_de_mompox.JPG/1280px-Secor_antiguio_alcaldia_de_mompox.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Secor antiguio alcaldia de mompox.JPG",
+   "author": "cesar pineda",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Secor_antiguio_alcaldia_de_mompox.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/742",
@@ -101,10 +125,99 @@
   ],
   "nearest_airport_km": 95.0,
   "distance_beijing_km": 14386.4,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Embalse La Union",
+    "name_en": null,
+    "lat": 8.9373371,
+    "lon": -74.4914188,
+    "distance_km": 34.4,
+    "operator": null
+   },
+   {
+    "name": "Puerto de Magangue",
+    "name_en": null,
+    "lat": 9.2344539,
+    "lon": -74.7428486,
+    "distance_km": 34.9,
+    "operator": null
+   },
+   {
+    "name": "Terminal Fluvial De Magangue",
+    "name_en": null,
+    "lat": 9.2361974,
+    "lon": -74.7433835,
+    "distance_km": 34.9,
+    "operator": null
+   },
+   {
+    "name": "Puerto Fluvial (Barranco de Loba)",
+    "name_en": null,
+    "lat": 8.9537314,
+    "lon": -74.1051767,
+    "distance_km": 47.4,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "La Casa del Viajero Mompox",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 9.2321233,
+   "lon": -74.4168007,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Majestic Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2404491,
+   "lon": -74.4249196,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bioma Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2411542,
+   "lon": -74.4248275,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Santa Cruz",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2393436,
+   "lon": -74.4270201,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Albarrada Hotel Boutique",
+   "name_en": null,
+   "stars": null,
+   "brand": "AHB",
+   "lat": 9.2424345,
+   "lon": -74.424326,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CO",
   "country_zh": "哥伦比亚",
@@ -176,5 +289,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:29Z"
+ "updated_at": "2026-11-12T12:11:55Z"
 }

@@ -8,13 +8,13 @@ country: "MU"
 country_zh: "毛里求斯"
 country_en: "Mauritius"
 unesco_id: "1227"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(vi)"
 lat: -20.158611
 lon: 57.503056
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:12Z"
 ---
 
 # 阿普拉瓦西•加特地区 / Aapravasi Ghat
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:34Z"
 
 *Aapravasi Ghat Museum, Mauritius (41).jpg · see Wikimedia Commons file page*
 
-![Aapravasi Ghat](https://whc.unesco.org/uploads/sites/site_1227.jpg)
+![A model at Aapravasi ghat museum, Port Louis, Mauritius.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/A_model_at_Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg/1280px-A_model_at_Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Aapravasi Ghat · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A model at Aapravasi ghat museum, Port Louis, Mauritius.jpg · आशीष भटनागर · CC BY-SA 3.0*
+
+![A Ship at Aapravasi ghat museum, Port Louis, Mauritius.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/A_Ship_at_Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg/1280px-A_Ship_at_Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Ship at Aapravasi ghat museum, Port Louis, Mauritius.jpg · आशीष भटनागर · CC BY-SA 3.0*
+
+![Aapravasi Ghat 2019-09-27 (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aapravasi_Ghat_2019-09-27_%281%29.jpg/1280px-Aapravasi_Ghat_2019-09-27_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aapravasi Ghat 2019-09-27 (1).jpg · Z thomas · CC BY-SA 4.0*
+
+![Aapravasi Ghat 2019-09-27 (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Aapravasi_Ghat_2019-09-27_%282%29.jpg/1280px-Aapravasi_Ghat_2019-09-27_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aapravasi Ghat 2019-09-27 (2).jpg · Z thomas · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Ce site de 1 640 m2 situé dans le district de Port Louis est l’endroit où co
 - ✈ **Sir Seewoosagur Ramgoolam International Airport (MRU)** — 35.6 km
 - ✈ **Roland Garros Airport (RUN)** — 222.1 km
 - ✈ **Saint-Pierre Pierrefonds Airport (ZSE)** — 251.9 km
+- 🚉 **Place d'Armes** — 0.4 km
+- 🚉 **Port Louis Victoria** — 0.7 km
+- 🚉 **St Louis** — 3.7 km
+- 🚉 **Coromandel** — 4.5 km
+- 🚉 **Mahatma Gandhi** — 8.2 km
+- ⛴ **Port Louis** — 0.1 km
+- ⛴ **Terminal passagers** — 0.6 km
+- ⛴ **Ferry and Boats to Ile aux Cerfs** — 31.2 km
+- ⛴ **Boats to Ile aux Cerfs (Pointe Maurice) cheaper** — 32.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9076.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Trou aux Biches Resort & Spa** — 14.9 km — star — 5★
+- **Hilton Mauritius Resort & Spa** — 21.9 km — star — 5★ · Hilton
+- **Hotel Le Paradis** — 36.5 km — star — 5★
+- **Hotel Lux*** — 38.7 km — star — 5★
+- **Anelia Villas & Spa** — 18.7 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "1681"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(vi)"
 lat: -34.53841667
 lon: -58.46361111
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:28Z"
 ---
 
 # 海军机械学院博物馆和纪念地-曾经的秘密拘留、折磨与处决地 / ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *ESMA 2.JPG · see Wikimedia Commons file page*
 
-![ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination](https://whc.unesco.org/uploads/sites/site_1681.jpg)
+![Acto de traspaso de la ESMA.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Acto_de_traspaso_de_la_ESMA.jpg/1280px-Acto_de_traspaso_de_la_ESMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Acto de traspaso de la ESMA.jpg · Mónica Hasenberg · CC BY-SA 3.0*
+
+![Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_01.jpg/1280px-Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 01.jpg · Unknown author Unknown author · CC BY 2.5 ar*
+
+![Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_02.jpg/1280px-Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 02.jpg · Unknown author Unknown author · CC BY 2.5 ar*
+
+![Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_03.jpg/1280px-Alberto_Fern%C3%A1ndez_y_Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_ESMA_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alberto Fernández y Cristina Fernández de Kirchner en la ESMA - 03.jpg · Unknown author Unknown author · CC BY 2.5 ar*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Este predio se encuentra dentro del complejo de la Ex Escuela de Mecánica de la
 - ✈ **Aeroparque Jorge Newbery (AEP)** — 5.0 km
 - ✈ **Ezeiza International Airport - Ministro Pistarini (EZE)** — 32.2 km
 - ✈ **Carrasco General Cesáreo L. Berisso International Airport (MVD)** — 225.3 km
+- 🚉 **Rivadavia** — 0.4 km
+- 🚉 **Núñez** — 1.1 km
+- 🚉 **Aristóbulo del Valle** — 1.3 km
+- 🚉 **Ciudad Universitaria** — 1.5 km
+- 🚉 **Vicente López** — 1.7 km
+- ⛴ **Dársena F** — 7.8 km
+- ⛴ **Dársena E** — 8.6 km
+- ⛴ **Muelle Publico de San Isidro** — 8.8 km
+- ⛴ **Puerto Nuevo** — 9.2 km
+- ⛴ **Dársena D** — 9.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **19258.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Alvear Palace Hotel** — 8.8 km — star — 5★
+- **Palacio Duhau - Park Hyatt Buenos Aires** — 9.1 km — star — 5★ · Park Hyatt
+- **Sofitel Buenos Aires Recoleta** — 9.2 km — star — 5★ · Sofitel
+- **Four Seasons** — 9.4 km — star — 5★ · Four Seasons
+- **Hotel Casa Lucía** — 9.7 km — star — 5★ · Único Hoteles
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

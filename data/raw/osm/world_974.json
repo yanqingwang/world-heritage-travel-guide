@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Steigenberger Inselhotel Konstanz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.664203,
+   "lon": 9.1784727,
+   "distance_km": 9.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Riva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.6673197,
+   "lon": 9.1881312,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Strandhotel Löchnerhaus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6913419,
+   "lon": 9.0532001,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lilienberg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6686421,
+   "lon": 9.0745018,
+   "distance_km": 2.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel HOERI am Bodensee",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6724638,
+   "lon": 8.9687144,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 774,
+ "stations": [
+  {
+   "name": "Mannenbach-Salenstein",
+   "name_en": null,
+   "lat": 47.6736465,
+   "lon": 9.052531,
+   "distance_km": 2.3,
+   "operator": "SBB"
+  },
+  {
+   "name": "Ermatingen",
+   "name_en": null,
+   "lat": 47.6699561,
+   "lon": 9.0856637,
+   "distance_km": 3.1,
+   "operator": "SBB"
+  },
+  {
+   "name": "Berlingen",
+   "name_en": null,
+   "lat": 47.6732578,
+   "lon": 9.0220237,
+   "distance_km": 3.8,
+   "operator": "SBB"
+  },
+  {
+   "name": "Tägerwilen-Gottlieben",
+   "name_en": null,
+   "lat": 47.6595931,
+   "lon": 9.1329282,
+   "distance_km": 6.4,
+   "operator": "SBB"
+  },
+  {
+   "name": "Steckborn",
+   "name_en": null,
+   "lat": 47.664544,
+   "lon": 8.9809916,
+   "distance_km": 6.9,
+   "operator": "SBB"
+  },
+  {
+   "name": "Tägerwilen Dorf",
+   "name_en": null,
+   "lat": 47.6535316,
+   "lon": 9.1394739,
+   "distance_km": 7.2,
+   "operator": "SBB"
+  },
+  {
+   "name": "Radolfzell",
+   "name_en": null,
+   "lat": 47.7361897,
+   "lon": 8.9689062,
+   "distance_km": 8.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Konstanz-Petershausen",
+   "name_en": null,
+   "lat": 47.6737893,
+   "lon": 9.1744445,
+   "distance_km": 8.6,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Solarfähre Reichenau",
+   "name_en": null,
+   "lat": 47.6899513,
+   "lon": 9.0545,
+   "distance_km": 0.7,
+   "operator": "Alexander Stenzel"
+  },
+  {
+   "name": "Reichenau",
+   "name_en": null,
+   "lat": 47.6895387,
+   "lon": 9.0542892,
+   "distance_km": 0.8,
+   "operator": "Schweizerische Schifffahrtsgesellschaft Untersee und Rhein"
+  },
+  {
+   "name": "Mannenbach (See)",
+   "name_en": null,
+   "lat": 47.6753964,
+   "lon": 9.0472806,
+   "distance_km": 2.3,
+   "operator": "URh"
+  },
+  {
+   "name": "Solarfähre Mannenbach",
+   "name_en": null,
+   "lat": 47.6752873,
+   "lon": 9.0474302,
+   "distance_km": 2.3,
+   "operator": "Alexander Stenzel"
+  },
+  {
+   "name": "Schiffsanlagestelle Baumann",
+   "name_en": null,
+   "lat": 47.7153768,
+   "lon": 9.0642222,
+   "distance_km": 2.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:01Z"
+}

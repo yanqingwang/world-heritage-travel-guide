@@ -4,7 +4,7 @@
 Output: data/world.json
 
 Tiering:
-  * top 400 overseas sites by Wikipedia interest: full record, including
+  * top 500 overseas sites by Wikipedia interest: full record, including
     hotels (<=50 km), ferry terminals, railway stations and up to 5 images.
   * every other overseas site: basic record with official multilingual text,
     nearest airports and Beijing distance, but no hotel list.

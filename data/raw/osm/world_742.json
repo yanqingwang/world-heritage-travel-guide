@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "La Casa del Viajero Mompox",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 9.2321233,
+   "lon": -74.4168007,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Majestic Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2404491,
+   "lon": -74.4249196,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bioma Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2411542,
+   "lon": -74.4248275,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Santa Cruz",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.2393436,
+   "lon": -74.4270201,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Albarrada Hotel Boutique",
+   "name_en": null,
+   "stars": null,
+   "brand": "AHB",
+   "lat": 9.2424345,
+   "lon": -74.424326,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 15,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Embalse La Union",
+   "name_en": null,
+   "lat": 8.9373371,
+   "lon": -74.4914188,
+   "distance_km": 34.4,
+   "operator": null
+  },
+  {
+   "name": "Puerto de Magangue",
+   "name_en": null,
+   "lat": 9.2344539,
+   "lon": -74.7428486,
+   "distance_km": 34.9,
+   "operator": null
+  },
+  {
+   "name": "Terminal Fluvial De Magangue",
+   "name_en": null,
+   "lat": 9.2361974,
+   "lon": -74.7433835,
+   "distance_km": 34.9,
+   "operator": null
+  },
+  {
+   "name": "Puerto Fluvial (Barranco de Loba)",
+   "name_en": null,
+   "lat": 8.9537314,
+   "lon": -74.1051767,
+   "distance_km": 47.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:23Z"
+}

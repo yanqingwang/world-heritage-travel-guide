@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)"
 lat: -34.085
 lon: -70.3825
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:12Z"
 ---
 
 # 塞维尔铜矿城 / Sewell Mining Town

@@ -2,8 +2,8 @@
  "id": "wh-606",
  "unesco_id": "606",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 464,
+ "tier": "full",
+ "popularity_rank": 482,
  "popularity_score": 12374,
  "country": "BR",
  "country_zh": "巴西",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_606.jpg",
-   "title": "Serra da Capivara National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/606",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/50_tons_de_verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "50 tons de verde.jpg",
+   "author": "Gervásio Carvalho",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:50_tons_de_verde.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/A_caminho_da_Serra_%287899576488%29.jpg/1280px-A_caminho_da_Serra_%287899576488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A caminho da Serra (7899576488).jpg",
+   "author": "Otávio Nogueira from Fortaleza, BR",
+   "license": "CC BY 2.0",
+   "credit": "A caminho da Serra",
+   "source": "https://commons.wikimedia.org/wiki/File:A_caminho_da_Serra_%287899576488%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/A_caminho_da_Serra_%287899611372%29.jpg/1280px-A_caminho_da_Serra_%287899611372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A caminho da Serra (7899611372).jpg",
+   "author": "Otávio Nogueira from Fortaleza, BR",
+   "license": "CC BY 2.0",
+   "credit": "A caminho da Serra",
+   "source": "https://commons.wikimedia.org/wiki/File:A_caminho_da_Serra_%287899611372%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/A_caminho_da_Serra_%287899623030%29.jpg/1280px-A_caminho_da_Serra_%287899623030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A caminho da Serra (7899623030).jpg",
+   "author": "Otávio Nogueira from Fortaleza, BR",
+   "license": "CC BY 2.0",
+   "credit": "A caminho da Serra",
+   "source": "https://commons.wikimedia.org/wiki/File:A_caminho_da_Serra_%287899623030%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/606",
@@ -96,7 +120,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Pousada Ninho da Siriema",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.9978459,
+   "lon": -42.6823412,
+   "distance_km": 39.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mega Express Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Mega Express Hotel Limitada",
+   "lat": -9.0053878,
+   "lon": -42.6818275,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ecorupestre Hostel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0088301,
+   "lon": -42.6820782,
+   "distance_km": 40.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bella Vista",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0155633,
+   "lon": -42.6880534,
+   "distance_km": 41.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pousada Zabelê",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0147279,
+   "lon": -42.6927354,
+   "distance_km": 41.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BR",
   "country_zh": "巴西",
@@ -168,5 +248,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:28Z"
+ "updated_at": "2026-11-12T12:11:51Z"
 }

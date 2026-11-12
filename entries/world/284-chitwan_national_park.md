@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(ix)(x)"
 lat: 27.5
 lon: 84.333333
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 奇特旺皇家国家公园 / Chitwan National Park

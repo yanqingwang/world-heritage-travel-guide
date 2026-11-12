@@ -2,8 +2,8 @@
  "id": "wh-500",
  "unesco_id": "500",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 482,
+ "tier": "full",
+ "popularity_rank": 500,
  "popularity_score": 11651,
  "country": "PE",
  "country_zh": "秘鲁",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_500.jpg",
-   "title": "Historic Centre of Lima",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/500",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Banderola_%22Todo_es_pol%C3%ADtico%22.png/1280px-Banderola_%22Todo_es_pol%C3%ADtico%22.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Banderola \"Todo es político\".png",
+   "author": "Mikasa0709",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Banderola_%22Todo_es_pol%C3%ADtico%22.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Casona_historica.jpg/1280px-Casona_historica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Casona historica.jpg",
+   "author": "Hastengeims",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Casona_historica.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Edificio_antiguo_de_lima.jpg/1280px-Edificio_antiguo_de_lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Edificio antiguo de lima.jpg",
+   "author": "Hastengeims",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Edificio_antiguo_de_lima.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Esto_no_es_Ska.webm/1280px--Esto_no_es_Ska.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "Esto no es Ska.webm",
+   "author": "Futuropopular",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Esto_no_es_Ska.webm"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/500",
@@ -103,9 +127,90 @@
   "nearest_airport_km": 8.4,
   "distance_beijing_km": 16618.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Santa Clara",
+    "name_en": null,
+    "lat": -12.017093,
+    "lon": -76.893417,
+    "distance_km": 16.7,
+    "operator": null
+   },
+   {
+    "name": "Morón Chaclacayo",
+    "name_en": null,
+    "lat": -11.9790986,
+    "lon": -76.7854931,
+    "distance_km": 29.1,
+    "operator": null
+   },
+   {
+    "name": "Chosica",
+    "name_en": null,
+    "lat": -11.9351915,
+    "lon": -76.6915521,
+    "distance_km": 40.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sheraton Lima Historic Center",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": -12.0572538,
+   "lon": -77.0368817,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Lima Hotel & Convention Center",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Westin",
+   "lat": -12.0917519,
+   "lon": -77.0248697,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Centric San Isidro",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Centric",
+   "lat": -12.0950289,
+   "lon": -77.0363344,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Swissotel Lima",
+   "name_en": "Swissôtel",
+   "stars": 5,
+   "brand": "Swissôtel",
+   "lat": -12.0972483,
+   "lon": -77.0381904,
+   "distance_km": 5.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Suites del Bosque",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Suites del Bosque",
+   "lat": -12.0973086,
+   "lon": -77.0332969,
+   "distance_km": 5.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PE",
   "country_zh": "秘鲁",
@@ -179,5 +284,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:27Z"
+ "updated_at": "2026-11-12T12:11:48Z"
 }

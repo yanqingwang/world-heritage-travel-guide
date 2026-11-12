@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 33.83694
 lon: 135.77639
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 纪伊山地的圣地与参拜道 / Sacred Sites and Pilgrimage Routes in the Kii Mountain Range

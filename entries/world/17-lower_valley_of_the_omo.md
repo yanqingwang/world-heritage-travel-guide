@@ -8,13 +8,13 @@ country: "ET"
 country_zh: "埃塞俄比亚"
 country_en: "Ethiopia"
 unesco_id: "17"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(iii)(iv)"
 lat: 4.4969
 lon: 36.0138
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:32Z"
 ---
 
 # 奥莫低谷 / Lower Valley of the Omo
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Omo River 02.jpg · see Wikimedia Commons file page*
 
-![Lower Valley of the Omo](https://whc.unesco.org/uploads/sites/site_17.jpg)
+![Lake Turkana vicinity.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lake_Turkana_vicinity.jpg/1280px-Lake_Turkana_vicinity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lower Valley of the Omo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Lake Turkana vicinity.jpg · Rudyologist · CC BY-SA 4.0*
+
+![Lower Omo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lower_Omo.jpg/1280px-Lower_Omo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lower Omo.jpg · Chartep · CC BY-SA 4.0*
+
+![Omo (rivière).png](https://upload.wikimedia.org/wikipedia/commons/e/eb/Omo_%28rivi%C3%A8re%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Omo (rivière).png · Openstreetmap contributors · CC BY-SA 4.0*
+
+![Omo OSM.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Omo_OSM.png/1280px-Omo_OSM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Omo OSM.png · Hans Braxmeier & Peter in s , Location map: NordNordWest · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,15 @@ A prehistoric site near Lake Turkana, the lower valley of the Omo is renowned th
 - ✈ **Jinka Airport (BCO)** — 151.9 km
 - ✈ **Arba Minch Airport (AMH)** — 244.7 km
 - ✈ **Mizan Teferi Airport (MTF)** — 278.2 km
+- ⛴ **ኦሞራቴ ጀልባ** — 34.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8748.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Tourist Hotel Omorate (Budget)** — 34.2 km — hotel
+- **Anam House** — 40.5 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

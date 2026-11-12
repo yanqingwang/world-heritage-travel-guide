@@ -2,8 +2,8 @@
  "id": "wh-327",
  "unesco_id": "327",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 405,
+ "tier": "full",
+ "popularity_rank": 421,
  "popularity_score": 15993,
  "country": "JO",
  "country_zh": "约旦",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_327.jpg",
-   "title": "Quseir Amra",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/327",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Qasr_Amra_1.jpg/1280px-Qasr_Amra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qasr Amra 1.jpg",
+   "author": "David Bjorgen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Qasr_Amra_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/2005_0416DesertPalaces0122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2005 0416DesertPalaces0122.jpg",
+   "author": "Daad Dallal",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2005_0416DesertPalaces0122.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/20100922_qasr_amra02.JPG/1280px-20100922_qasr_amra02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100922 qasr amra02.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100922_qasr_amra02.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/20100922_qasr_amra03.JPG/1280px-20100922_qasr_amra03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100922 qasr amra03.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100922_qasr_amra03.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/327",
@@ -104,7 +128,30 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "RSCN Azraq Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.8359285,
+   "lon": 36.8075883,
+   "distance_km": 21.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "إستراحة قصر الأزرق",
+   "name_en": "Azraq Rest House",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8613621,
+   "lon": 36.8071782,
+   "distance_km": 21.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JO",
   "country_zh": "约旦",
@@ -176,5 +223,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:43Z"
 }

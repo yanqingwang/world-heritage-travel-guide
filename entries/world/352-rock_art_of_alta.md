@@ -8,13 +8,13 @@ country: "NO"
 country_zh: "挪威"
 country_en: "Norway"
 unesco_id: "352"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(iii)"
 lat: 69.946944444
 lon: 23.187777777
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:43Z"
 ---
 
 # 阿尔塔岩画 / Rock Art of Alta
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *Alta-Carvings-2012-07-17-12-15-018.jpg · see Wikimedia Commons file page*
 
-![Rock Art of Alta](https://whc.unesco.org/uploads/sites/site_352.jpg)
+![1992.08.08 Helleristninger i Alta II.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/1992.08.08_Helleristninger_i_Alta_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Rock Art of Alta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1992.08.08 Helleristninger i Alta II.jpg · Hans Olav Lien · CC BY-SA 3.0*
+
+![1992.08.08 Helleristninger i Alta III.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/1992.08.08_Helleristninger_i_Alta_III.jpg/1280px-1992.08.08_Helleristninger_i_Alta_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1992.08.08 Helleristninger i Alta III.jpg · Hans Olav Lien · CC BY-SA 3.0*
+
+![1992.08.08 Helleristninger i Alta IV.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1992.08.08_Helleristninger_i_Alta_IV.jpg/1280px-1992.08.08_Helleristninger_i_Alta_IV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1992.08.08 Helleristninger i Alta IV.jpg · Hans Olav Lien · CC BY-SA 3.0*
+
+![20160114arp075.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/20160114arp075.jpg/1280px-20160114arp075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160114arp075.jpg · Karin Tansem · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Bergkunsten i Alta er en stor samling helleristninger og hellemalerier i Alta ko
 - ✈ **Alta Airport (ALF)** — 7.7 km
 - ✈ **Lakselv Airport, Banak (LKL)** — 69.2 km
 - ✈ **Hasvik Airport (HAA)** — 71.8 km
+- ⛴ **Alta Båthavn** — 3.3 km
+- ⛴ **Alta rutebåtterminal** — 6.3 km
+- ⛴ **Alta hurtigbåtterminal** — 6.4 km
+- ⛴ **Terminalkaia** — 6.7 km
+- ⛴ **Mikkelsby kai** — 21.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5985.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Thon Hotel Alta** — 3.8 km — hotel
+- **Scandic Alta** — 3.8 km — hotel — Scandic Hotels
+- **Canyon Hotell Alta** — 4.0 km — hotel
+- **Hotel Kvenvikmoen og Alta Vandrerhjem** — 4.6 km — hotel
+- **Sorrisniva Igloo Hotel** — 10.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

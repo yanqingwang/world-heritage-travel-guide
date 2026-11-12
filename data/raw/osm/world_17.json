@@ -1,0 +1,39 @@
+{
+ "hotels": [
+  {
+   "name": "Tourist Hotel Omorate (Budget)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 4.8024351,
+   "lon": 36.049896,
+   "distance_km": 34.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anam House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 4.1439233,
+   "lon": 35.9243663,
+   "distance_km": 40.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 2,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "ኦሞራቴ ጀልባ",
+   "name_en": "Omorate Ferry Crossing (Brr 150 Per Person)",
+   "lat": 4.8039145,
+   "lon": 36.0488452,
+   "distance_km": 34.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:21Z"
+}

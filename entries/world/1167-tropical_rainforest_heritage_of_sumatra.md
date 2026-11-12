@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(vii)(ix)(x)"
 lat: -2.5
 lon: 101.5
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:10Z"
 ---
 
 # 苏门答腊热带雨林 / Tropical Rainforest Heritage of Sumatra

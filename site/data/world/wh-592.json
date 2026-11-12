@@ -2,8 +2,8 @@
  "id": "wh-592",
  "unesco_id": "592",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 431,
+ "tier": "full",
+ "popularity_rank": 447,
  "popularity_score": 13884,
  "country": "ID",
  "country_zh": "印度尼西亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_592.jpg",
-   "title": "Borobudur Temple Compounds",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/592",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aksara_Borobudur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Aksara Borobudur.jpg",
+   "author": "Fosil73",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aksara_Borobudur.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bekerja_untuk_Kebun_di_sekitar_Candi_Borobudur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bekerja untuk Kebun di sekitar Candi Borobudur.jpg",
+   "author": "Istiadiningdyah",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bekerja_untuk_Kebun_di_sekitar_Candi_Borobudur.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Borobudur_Indonesia_1.jpg/1280px-Borobudur_Indonesia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Borobudur Indonesia 1.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Indonesia_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Borobudur_Indonesia_10.jpg/1280px-Borobudur_Indonesia_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Borobudur Indonesia 10.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Indonesia_10.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/592",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 32.2,
   "distance_beijing_km": 5360.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Loket Perahu",
+    "name_en": null,
+    "lat": -7.9435094,
+    "lon": 110.4892799,
+    "distance_km": 48.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Rewulu",
+    "name_en": null,
+    "lat": -7.7961358,
+    "lon": 110.2842707,
+    "distance_km": 22.8,
+    "operator": "KAI"
+   },
+   {
+    "name": "Patukan",
+    "name_en": null,
+    "lat": -7.7907238,
+    "lon": 110.3253312,
+    "distance_km": 24.4,
+    "operator": "KAI"
+   },
+   {
+    "name": "Sentolo",
+    "name_en": null,
+    "lat": -7.833229,
+    "lon": 110.2202569,
+    "distance_km": 25.1,
+    "operator": "KAI"
+   },
+   {
+    "name": "Yogyakarta",
+    "name_en": null,
+    "lat": -7.7892387,
+    "lon": 110.3634648,
+    "distance_km": 26.8,
+    "operator": "KAI"
+   },
+   {
+    "name": "Lempuyangan",
+    "name_en": null,
+    "lat": -7.7900721,
+    "lon": 110.3753385,
+    "distance_km": 27.7,
+    "operator": "KAI"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Amanjiwo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -7.6317111,
+   "lon": 110.2020129,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Melia Purosani",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Melia",
+   "lat": -7.7969057,
+   "lon": 110.3689789,
+   "distance_km": 27.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crystal Lotus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7593574,
+   "lon": 110.3622608,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tara Yogyakarta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7715364,
+   "lon": 110.36089,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Inna Malioboro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7907566,
+   "lon": 110.3668579,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ID",
   "country_zh": "印度尼西亚",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:28Z"
+ "updated_at": "2026-11-12T12:11:50Z"
 }

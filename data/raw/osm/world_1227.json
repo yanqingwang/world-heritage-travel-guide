@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Trou aux Biches Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.0313562,
+   "lon": 57.5467787,
+   "distance_km": 14.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Mauritius Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -20.3087112,
+   "lon": 57.367255,
+   "distance_km": 21.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Le Paradis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.438381,
+   "lon": 57.3206941,
+   "distance_km": 36.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Lux*",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.4570557,
+   "lon": 57.3117259,
+   "distance_km": 38.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anelia Villas & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -20.2722311,
+   "lon": 57.3714747,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 219,
+ "stations": [
+  {
+   "name": "Place d'Armes",
+   "name_en": null,
+   "lat": -20.1612562,
+   "lon": 57.5007003,
+   "distance_km": 0.4,
+   "operator": "Metro Express Ltd."
+  },
+  {
+   "name": "Port Louis Victoria",
+   "name_en": null,
+   "lat": -20.1625914,
+   "lon": 57.4979793,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "St Louis",
+   "name_en": null,
+   "lat": -20.1809333,
+   "lon": 57.4767721,
+   "distance_km": 3.7,
+   "operator": null
+  },
+  {
+   "name": "Coromandel",
+   "name_en": null,
+   "lat": -20.183681,
+   "lon": 57.469648,
+   "distance_km": 4.5,
+   "operator": null
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "name_en": null,
+   "lat": -20.2323759,
+   "lon": 57.4984753,
+   "distance_km": 8.2,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Barkly",
+   "name_en": null,
+   "lat": -20.2208296,
+   "lon": 57.4583953,
+   "distance_km": 8.3,
+   "operator": null
+  },
+  {
+   "name": "Beau Bassin",
+   "name_en": null,
+   "lat": -20.2267034,
+   "lon": 57.4673856,
+   "distance_km": 8.4,
+   "operator": "Metro Express Ltd."
+  },
+  {
+   "name": "Vandermeersch",
+   "name_en": null,
+   "lat": -20.2354339,
+   "lon": 57.4730815,
+   "distance_km": 9.1,
+   "operator": "Metro Express Ltd."
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Louis",
+   "name_en": null,
+   "lat": -20.1576939,
+   "lon": 57.5026237,
+   "distance_km": 0.1,
+   "operator": null
+  },
+  {
+   "name": "Terminal passagers",
+   "name_en": "Passenger Terminal",
+   "lat": -20.1553482,
+   "lon": 57.4982315,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Ferry and Boats to Ile aux Cerfs",
+   "name_en": null,
+   "lat": -20.2438826,
+   "lon": 57.7881327,
+   "distance_km": 31.2,
+   "operator": null
+  },
+  {
+   "name": "Boats to Ile aux Cerfs (Pointe Maurice) cheaper",
+   "name_en": null,
+   "lat": -20.2577828,
+   "lon": 57.7935418,
+   "distance_km": 32.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:12Z"
+}

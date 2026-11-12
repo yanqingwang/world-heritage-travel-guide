@@ -2,8 +2,8 @@
  "id": "wh-937",
  "unesco_id": "937",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 471,
+ "tier": "full",
+ "popularity_rank": 489,
  "popularity_score": 12095,
  "country": "AR",
  "country_zh": "阿根廷",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_937.jpg",
-   "title": "Península Valdés",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/937",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2012-11-17_Psora_crenata_%28Taylor%29_Reinke_283430.jpg/1280px-2012-11-17_Psora_crenata_%28Taylor%29_Reinke_283430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2012-11-17 Psora crenata (Taylor) Reinke 283430.jpg",
+   "author": "This image was created by user nastassja (Nastassja Noell) at Mushroom Observer , a source for mycological images. You c",
+   "license": "CC BY-SA 3.0",
+   "credit": "This image is Image Number 283430 at Mushroom Observer , a source for mycological images.",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-11-17_Psora_crenata_%28Taylor%29_Reinke_283430.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2012-11-17_Teloschistes_chrysophthalmus_%28L.%29_Th._Fr_283353.jpg/1280px-2012-11-17_Teloschistes_chrysophthalmus_%28L.%29_Th._Fr_283353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2012-11-17 Teloschistes chrysophthalmus (L.) Th. Fr 283353.jpg",
+   "author": "This image was created by user nastassja (Nastassja Noell) at Mushroom Observer , a source for mycological images. You c",
+   "license": "CC BY-SA 3.0",
+   "credit": "This image is Image Number 283353 at Mushroom Observer , a source for mycological images.",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-11-17_Teloschistes_chrysophthalmus_%28L.%29_Th._Fr_283353.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/20170423_Punta_Norte_Argentina_JF.jpg/1280px-20170423_Punta_Norte_Argentina_JF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20170423 Punta Norte Argentina JF.jpg",
+   "author": "Wolves201",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20170423_Punta_Norte_Argentina_JF.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Admiralty_Chart_No_1324_S._America_E._Coast_Sheet_4_Rio_de_la_Plata_to_Cape_Dos_Bahias_%28agdm_10742_full%29%2C_Published_1902.jpg/1280px-Admiralty_Chart_No_1324_S._America_E._Coast_Sheet_4_Rio_de_la_Plata_to_Cape_Dos_Bahias_%28agdm_10742_full%29%2C_Published_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Admiralty Chart No 1324 S. America E. Coast Sheet 4 Rio de la Plata to Cape Dos Bahias (agdm 10742 full), Published 1902.jpg",
+   "author": "United Kingdom Hydrographic Office",
+   "license": "Public domain",
+   "credit": "https://collections.lib.uwm.edu/digital/collection/agdm/id/10742",
+   "source": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1324_S._America_E._Coast_Sheet_4_Rio_de_la_Plata_to_Cape_Dos_Bahias_%28agdm_10742_full%29%2C_Published_1902.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/937",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Del Nomade Eco Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.5700985,
+   "lon": -64.2801583,
+   "distance_km": 29.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "De Luna Rooms and Apartment",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.569989,
+   "lon": -64.2805613,
+   "distance_km": 29.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Las Restingas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.5730487,
+   "lon": -64.2836794,
+   "distance_km": 29.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oceano Patagonia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.5730262,
+   "lon": -64.283377,
+   "distance_km": 29.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Faro Punta Delgada Hotel De Campo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.7654443,
+   "lon": -63.63879,
+   "distance_km": 38.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AR",
   "country_zh": "阿根廷",
@@ -178,5 +258,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:04Z"
 }

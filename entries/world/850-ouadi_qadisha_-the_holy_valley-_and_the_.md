@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 34.282944
 lon: 35.951611
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:12:00Z"
 ---
 
 # 夸底•夸底沙(圣谷)和神杉林 / Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)

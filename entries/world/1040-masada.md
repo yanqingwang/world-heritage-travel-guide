@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: 31.315555555
 lon: 35.353888888
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:07Z"
 ---
 
 # 马萨达 / Masada

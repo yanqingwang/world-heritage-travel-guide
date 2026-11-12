@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1379"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2012"
 criteria: "(i)(iv)"
 lat: 49.944344697
 lon: 11.57866362
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:16Z"
 ---
 
 # 侯爵歌剧院 / Margravial Opera House Bayreuth
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:35Z"
 
 *Markgräfliches Opernhaus Front 2019-07-29.jpg · see Wikimedia Commons file page*
 
-![Margravial Opera House Bayreuth](https://whc.unesco.org/uploads/sites/site_1379.jpg)
+![Bayreuth - Markgräfin Wilhelmine (Büste).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bayreuth_-_Markgr%C3%A4fin_Wilhelmine_%28B%C3%BCste%29.jpg/1280px-Bayreuth_-_Markgr%C3%A4fin_Wilhelmine_%28B%C3%BCste%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Margravial Opera House Bayreuth · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bayreuth - Markgräfin Wilhelmine (Büste).jpg · User:Mattes · Public domain*
+
+![Bayreuth 250 Jahre.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Bayreuth_250_Jahre.jpg/1280px-Bayreuth_250_Jahre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bayreuth 250 Jahre.jpg · Immanuel Giel · Public domain*
+
+![Bayreuth Dachfiguren Opernhaus 01 (sämtliche Figuren), 18.09.06).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bayreuth_Dachfiguren_Opernhaus_01_%28s%C3%A4mtliche_Figuren%29%2C_18.09.06%29.jpg/1280px-Bayreuth_Dachfiguren_Opernhaus_01_%28s%C3%A4mtliche_Figuren%29%2C_18.09.06%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bayreuth Dachfiguren Opernhaus 01 (sämtliche Figuren), 18.09.06).jpg · Bayreuth2009 · CC BY 3.0*
+
+![Bayreuth Dachfiguren Opernhaus 02a (Athene, Kopie), 18.09.06.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2a/Bayreuth_Dachfiguren_Opernhaus_02a_%28Athene%2C_Kopie%29%2C_18.09.06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bayreuth Dachfiguren Opernhaus 02a (Athene, Kopie), 18.09.06.jpg · Bayreuth2009 · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Markgräfliche Opernhaus in der oberfränkischen Stadt Bayreuth ist ein Thea
 - ✈ **Nuremberg Airport (NUE)** — 61.2 km
 - ✈ **Karlovy Vary Airport (KLV)** — 99.6 km
 - ✈ **Erfurt-Weimar Airport (ERF)** — 123.0 km
+- 🚉 **Bayreuth Hbf** — 0.6 km
+- 🚉 **Laineck** — 3.1 km
+- 🚉 **Bindlach** — 4.4 km
+- 🚉 **Stockau** — 6.9 km
+- 🚉 **Harsdorf** — 9.3 km
+- ⛴ **Start Floßfahrten** — 37.3 km
+- ⛴ **Floßanlegestelle** — 39.2 km
+- ⛴ **Frankenfloß Mainfloßfahrten** — 43.4 km
+- ⛴ **Fähre/Lände Bug** — 48.8 km
+- ⛴ **Fähranleger Mühlwörth** — 49.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7683.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Bayerischer Hof** — 0.5 km — star — 4★
+- **Transmar Travel Hotel** — 3.8 km — star — 4★
+- **Reiterhof Wirsberg** — 17.6 km — star — 4★
+- **Hotel Stempferhof** — 25.5 km — star — 4★
+- **Landhaus Sponsel-Regus** — 29.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "힐튼경주",
+   "name_en": "Hilton Gyeongju",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 35.8400329,
+   "lon": 129.2860543,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "코모도호텔경주",
+   "name_en": "Commodore Hotel Gyeonju",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.8443527,
+   "lon": 129.2851266,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "라한셀렉트 경주 (구. 현대호텔)",
+   "name_en": "LAHAN SELECT GYEONGJU (Old. Hyundai Hotel)",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.8504163,
+   "lon": 129.2768989,
+   "distance_km": 8.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "더케이호텔경주",
+   "name_en": "THE-K HOTEL GYEONGJU",
+   "stars": 4,
+   "brand": null,
+   "lat": 35.8379465,
+   "lon": 129.2910955,
+   "distance_km": 8.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "스위트호텔경주",
+   "name_en": "Suites Hotel Gyeongju",
+   "stars": 3,
+   "brand": null,
+   "lat": 35.8538016,
+   "lon": 129.2774384,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 117,
+ "stations": [
+  {
+   "name": "경주",
+   "name_en": "Gyeongju",
+   "lat": 35.7982689,
+   "lon": 129.1389632,
+   "distance_km": 8.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "서경주",
+   "name_en": "Seogyeongju",
+   "lat": 35.8846915,
+   "lon": 129.1808636,
+   "distance_km": 11.4,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "아화",
+   "name_en": "Ahwa",
+   "lat": 35.8986342,
+   "lon": 129.0513788,
+   "distance_km": 20.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "안강",
+   "name_en": "Angang",
+   "lat": 35.9705072,
+   "lon": 129.2334205,
+   "distance_km": 20.2,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "북울산",
+   "name_en": "Bugulsan",
+   "lat": 35.6148687,
+   "lon": 129.3724491,
+   "distance_km": 23.4,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "울산",
+   "name_en": "Ulsan",
+   "lat": 35.5513139,
+   "lon": 129.1379303,
+   "distance_km": 27.6,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "태화강",
+   "name_en": "Taehwagang",
+   "lat": 35.5388089,
+   "lon": 129.3540107,
+   "distance_km": 30.1,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "영천",
+   "name_en": "Yeongcheon",
+   "lat": 35.9590454,
+   "lon": 128.9388909,
+   "distance_km": 32.1,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "꼴지나루터",
+   "name_en": "Ggolji Ferry",
+   "lat": 35.542493,
+   "lon": 129.343262,
+   "distance_km": 29.4,
+   "operator": null
+  },
+  {
+   "name": "포항크루즈",
+   "name_en": null,
+   "lat": 36.0237683,
+   "lon": 129.3775819,
+   "distance_km": 29.4,
+   "operator": null
+  },
+  {
+   "name": "포항여객선터미널",
+   "name_en": "Pohang Passengership terminal",
+   "lat": 36.0515104,
+   "lon": 129.3787972,
+   "distance_km": 32.3,
+   "operator": null
+  },
+  {
+   "name": "구룡포항",
+   "name_en": null,
+   "lat": 35.9871878,
+   "lon": 129.5555541,
+   "distance_km": 36.9,
+   "operator": null
+  },
+  {
+   "name": "방어진항(Bangeojin Bay)",
+   "name_en": null,
+   "lat": 35.4840648,
+   "lon": 129.4297424,
+   "distance_km": 38.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:58Z"
+}

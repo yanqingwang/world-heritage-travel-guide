@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "358"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(i)(iv)"
 lat: 39.371222222
 lon: 38.121583333
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:44Z"
 ---
 
 # 迪夫里伊的大清真寺和医院 / Great Mosque and Hospital of Divriği
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:55:26Z"
 ![Divrigi complex DSCF3028.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Divrigi%20complex%20DSCF3028.jpg?width=1280)
 
 *Divrigi complex DSCF3028.jpg · see Wikimedia Commons file page*
+
+![Divriği Great Mosque and Hospital, Sivas Province.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c0/Divri%C4%9Fi_Great_Mosque_and_Hospital%2C_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Divriği Great Mosque and Hospital, Sivas Province.jpg · Panegyrics of Granovetter · CC BY-SA 2.0*
+
+![Divriği mosque SW gate008.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Divri%C4%9Fi_mosque_SW_gate008.jpg/1280px-Divri%C4%9Fi_mosque_SW_gate008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Divriği mosque SW gate008.jpg · Dosseman · CC BY-SA 4.0*
+
+![View from Mardin to the Mesopotamian plains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_from_Mardin_to_the_Mesopotamian_plains.jpg/1280px-View_from_Mardin_to_the_Mesopotamian_plains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*View from Mardin to the Mesopotamian plains.jpg · Florian Koch French translation by Yolan Chériaux · CC BY-SA 2.0*
 
 ![Great Mosque and Hospital of Divriği](https://whc.unesco.org/uploads/sites/site_358.jpg)
 
@@ -52,7 +64,22 @@ Divriği Ulu Cami ve Darüşşifası, Sivas'ın Divriği ilçesinde bulunan tari
 - ✈ **Malatya Erhaç Airport (MLX)** — 104.1 km
 - ✈ **Sivas Nuri Demirağ Airport (VAS)** — 115.4 km
 - ✈ **Erzincan Airport (ERC)** — 126.3 km
+- 🚉 **Divriği** — 1.6 km
+- 🚉 **Demirdağ** — 4.3 km
+- 🚉 **Cürek** — 11.0 km
+- 🚉 **Bahçeli** — 15.0 km
+- 🚉 **Göçentaşı** — 18.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6525.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Bozkurt Hotel & Restaurant** — 34.5 km — hotel
+- **Kelhasan Köyü Muhtarlığı/Yardımlaşma Ve Dayanışma Konağı** — 47.2 km — hotel
+- **Danışık Köyü Muhtarlığı** — 47.6 km — hotel
+- **Çamkeleş Mezrası** — 48.5 km — hotel
+- **Arapgir Nazar Hotel** — 48.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

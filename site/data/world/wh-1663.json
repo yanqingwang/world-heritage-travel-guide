@@ -2,8 +2,8 @@
  "id": "wh-1663",
  "unesco_id": "1663",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 417,
+ "tier": "full",
+ "popularity_rank": 433,
  "popularity_score": 14700,
  "country": "GT",
  "country_zh": "危地马拉",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1663.jpg",
-   "title": "National Archaeological Park Tak’alik Ab’aj",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1663",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Abaj_Takalik_Stela_5.illus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Abaj Takalik Stela 5.illus.jpg",
+   "author": "Siyajkak",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abaj_Takalik_Stela_5.illus.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ALTAR_12_ESTILO_MAYA_-_TAKALIK_ABAJ.png/1280px-ALTAR_12_ESTILO_MAYA_-_TAKALIK_ABAJ.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ALTAR 12 ESTILO MAYA - TAKALIK ABAJ.png",
+   "author": "Presidencia de Guatemala",
+   "license": "Public domain",
+   "credit": "https://www.flickr.com/photos/75626679@N07/53196778499/",
+   "source": "https://commons.wikimedia.org/wiki/File:ALTAR_12_ESTILO_MAYA_-_TAKALIK_ABAJ.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BKB_2203.jpg/1280px-BKB_2203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BKB 2203.jpg",
+   "author": "Gobierno de Guatemala",
+   "license": "Public domain",
+   "credit": "https://www.flickr.com/photos/guatemalagob/53169460101/",
+   "source": "https://commons.wikimedia.org/wiki/File:BKB_2203.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/BKB_3544.jpg/1280px-BKB_3544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BKB 3544.jpg",
+   "author": "Gobierno de Guatemala",
+   "license": "Public domain",
+   "credit": "https://www.flickr.com/photos/guatemalagob/53169657774/",
+   "source": "https://commons.wikimedia.org/wiki/File:BKB_3544.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1663",
@@ -101,10 +125,100 @@
   ],
   "nearest_airport_km": 14.5,
   "distance_beijing_km": 13276.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Muelle San Juan",
+    "name_en": "San Juan Dock",
+    "lat": 14.6970688,
+    "lon": -91.2831216,
+    "distance_km": 49.1,
+    "operator": null
+   },
+   {
+    "name": "Muelle del Lago Azul",
+    "name_en": null,
+    "lat": 14.6939096,
+    "lon": -91.2757826,
+    "distance_km": 49.8,
+    "operator": null
+   },
+   {
+    "name": "Muelle San Pedro (a Panajachel)",
+    "name_en": "San Pedro Dock (lanchas to Panajachel)",
+    "lat": 14.6950432,
+    "lon": -91.2740039,
+    "distance_km": 50.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Estación Tecún Umán",
+    "name_en": null,
+    "lat": 14.6745098,
+    "lon": -92.1355255,
+    "distance_km": 43.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kasa Kiwi Hostel & Travel Agency",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 14.8319953,
+   "lon": -91.5177796,
+   "distance_km": 31.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Acanthus Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 14.8375063,
+   "lon": -91.5229734,
+   "distance_km": 31.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Los Altos",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 14.8486842,
+   "lon": -91.5147402,
+   "distance_km": 32.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel 6",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 14.8458821,
+   "lon": -91.5138739,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hibiskus",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8337185,
+   "lon": -91.5169836,
+   "distance_km": 31.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GT",
   "country_zh": "危地马拉",
@@ -176,5 +290,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:38Z"
+ "updated_at": "2026-11-12T12:12:27Z"
 }

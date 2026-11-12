@@ -8,13 +8,13 @@ country: "CH"
 country_zh: "瑞士"
 country_en: "Switzerland"
 unesco_id: "884"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iv)"
 lat: 46.192777777
 lon: 9.022222222
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 贝林佐纳三座要塞及防卫墙和集镇 / Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona
@@ -52,7 +52,27 @@ Die drei Burgen von Bellinzona (italienisch Castelli di Bellinzona) sind eine We
 - ✈ **Lugano Airport (LUG)** — 22.7 km
 - ✈ **Milan Malpensa International Airport (MXP)** — 66.5 km
 - ✈ **Il Caravaggio International Airport (BGY)** — 78.8 km
+- 🚉 **Bellinzona** — 0.6 km
+- 🚉 **Giubiasco** — 2.6 km
+- 🚉 **Castione-Arbedo** — 3.8 km
+- 🚉 **Cadenazzo** — 7.6 km
+- 🚉 **Rivera-Bironico** — 10.7 km
+- ⛴ **Magadino (lago)** — 13.9 km
+- ⛴ **Tenero** — 14.0 km
+- ⛴ **Vira** — 14.9 km
+- ⛴ **Locarno** — 17.2 km
+- ⛴ **S. Nazzaro (lago)** — 18.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8054.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Castello del Sole** — 18.2 km — star — 5★
+- **Hotel Giardino Ascona** — 18.5 km — star — 5★
+- **Marina Eden Roc** — 19.8 km — star — 5★
+- **Hotel Meliá Campione** — 24.9 km — star — 5★
+- **La Romantica** — 27.1 km — star — 5★ · Swiss Diamond Group
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

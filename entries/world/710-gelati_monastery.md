@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iv)"
 lat: 42.294722222
 lon: 42.768055555
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:54Z"
 ---
 
 # 格拉蒂修道院 / Gelati Monastery

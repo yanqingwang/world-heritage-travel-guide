@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Pousada Ninho da Siriema",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.9978459,
+   "lon": -42.6823412,
+   "distance_km": 39.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mega Express Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Mega Express Hotel Limitada",
+   "lat": -9.0053878,
+   "lon": -42.6818275,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ecorupestre Hostel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0088301,
+   "lon": -42.6820782,
+   "distance_km": 40.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bella Vista",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0155633,
+   "lon": -42.6880534,
+   "distance_km": 41.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pousada Zabelê",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -9.0147279,
+   "lon": -42.6927354,
+   "distance_km": 41.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 18,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:08Z"
+}

@@ -2,8 +2,8 @@
  "id": "wh-90",
  "unesco_id": "90",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 477,
+ "tier": "full",
+ "popularity_rank": 495,
  "popularity_score": 11860,
  "country": "EG",
  "country_zh": "埃及",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_90.jpg",
-   "title": "Abu Mena",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/90",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Abumena.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Abumena.png",
+   "author": "Academia784",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abumena.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/EG_Abu_Mina_0206_001_%2817204131426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "EG Abu Mina 0206 001 (17204131426).jpg",
+   "author": "Diego Tirira from Quito, Ecuador",
+   "license": "CC BY-SA 2.0",
+   "credit": "EG Abu Mina 0206 001",
+   "source": "https://commons.wikimedia.org/wiki/File:EG_Abu_Mina_0206_001_%2817204131426%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/EG_Abu_Mina_0206_001a_%2817022656727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "EG Abu Mina 0206 001a (17022656727).jpg",
+   "author": "Diego Tirira from Quito, Ecuador",
+   "license": "CC BY-SA 2.0",
+   "credit": "EG Abu Mina 0206 001a",
+   "source": "https://commons.wikimedia.org/wiki/File:EG_Abu_Mina_0206_001a_%2817022656727%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/EG_Abu_Mina_0206_001bn_%2817204130836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "EG Abu Mina 0206 001bn (17204130836).jpg",
+   "author": "Diego Tirira from Quito, Ecuador",
+   "license": "CC BY-SA 2.0",
+   "credit": "EG Abu Mina 0206 001bn",
+   "source": "https://commons.wikimedia.org/wiki/File:EG_Abu_Mina_0206_001bn_%2817204130836%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/90",
@@ -101,10 +125,116 @@
   ],
   "nearest_airport_km": 10.6,
   "distance_beijing_km": 7616.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Sidi Kerir tanker facility",
+    "name_en": null,
+    "lat": 31.0555061,
+    "lon": 29.6696548,
+    "distance_km": 23.9,
+    "operator": "Arab Petroleum Pipelines CO (SUMED)"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "عزبة محمد فريد",
+    "name_en": null,
+    "lat": 30.8619616,
+    "lon": 29.6177923,
+    "distance_km": 4.9,
+    "operator": null
+   },
+   {
+    "name": "برج العرب الجديدة",
+    "name_en": "New Borg El Arab",
+    "lat": 30.8869787,
+    "lon": 29.5936194,
+    "distance_km": 8.4,
+    "operator": null
+   },
+   {
+    "name": "قرية بهيج",
+    "name_en": null,
+    "lat": 30.9215106,
+    "lon": 29.595433,
+    "distance_km": 11.1,
+    "operator": null
+   },
+   {
+    "name": "برج العرب",
+    "name_en": null,
+    "lat": 30.8955044,
+    "lon": 29.5488069,
+    "distance_km": 12.5,
+    "operator": null
+   },
+   {
+    "name": "جبل الحمام",
+    "name_en": "Gabel al Hammam",
+    "lat": 30.8800018,
+    "lon": 29.4977651,
+    "distance_km": 16.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Alexandria King's Ranch",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 30.9823544,
+   "lon": 29.6927761,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Alexandria Green Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.2066358,
+   "lon": 29.9653965,
+   "distance_km": 49.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.1987068,
+   "lon": 29.8928597,
+   "distance_km": 45.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق إيبيروتيل برج العرب",
+   "name_en": "Iberotel Borg El Arab Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.9325692,
+   "lon": 29.4747301,
+   "distance_km": 20.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Adham Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0229342,
+   "lon": 29.7718735,
+   "distance_km": 22.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "EG",
   "country_zh": "埃及",
@@ -176,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:24Z"
+ "updated_at": "2026-11-12T12:11:34Z"
 }

@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "486"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1988"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -17.2
 lon: 145.8
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:47Z"
 ---
 
 # 昆士兰湿热带地区 / Wet Tropics of Queensland
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Daintree National Park.jpg · see Wikimedia Commons file page*
 
-![Wet Tropics of Queensland](https://whc.unesco.org/uploads/sites/site_486.jpg)
+!['Red Tulip Oak' - two sides of the foliage.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/%27Red_Tulip_Oak%27_-_two_sides_of_the_foliage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Wet Tropics of Queensland · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*'Red Tulip Oak' - two sides of the foliage.jpg · Tatiana Gerus · CC BY 2.0*
+
+![A palm on Cape Tribulation beach.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/A_palm_on_Cape_Tribulation_beach.jpg/1280px-A_palm_on_Cape_Tribulation_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A palm on Cape Tribulation beach.jpg · Emily Cox · CC BY-SA 4.0*
+
+![Aglaia-ferruginea-SF23236-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Aglaia-ferruginea-SF23236-01.jpg/1280px-Aglaia-ferruginea-SF23236-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aglaia-ferruginea-SF23236-01.jpg · Steve Fitzgerald · CC BY-SA 4.0*
+
+![Aglaia-ferruginea-SF23236-02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aglaia-ferruginea-SF23236-02.jpg/1280px-Aglaia-ferruginea-SF23236-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aglaia-ferruginea-SF23236-02.jpg · Steve Fitzgerald · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,23 @@ This area, which stretches along the north-east coast of Australia for some 450 
 - ✈ **Cairns International Airport (CNS)** — 36.1 km
 - ✈ **Palm Island Airport (PMK)** — 191.7 km
 - ✈ **Cooktown Airport (CTN)** — 206.1 km
+- 🚉 **Babinda** — 20.8 km
+- 🚉 **Cairns** — 30.7 km
+- 🚉 **Freshwater** — 36.7 km
+- 🚉 **Innisfail** — 43.1 km
+- 🚉 **Barron Falls** — 43.7 km
+- ⛴ **Reef Fleet Terminal** — 31.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7016.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Cairns Central Plaza Apartment Hotel** — 31.0 km — star — 4★ · Central Apartment Group
+- **DoubleTree by Hilton Hotel Cairns** — 31.6 km — star — 4★ · DoubleTree
+- **Pullman Cairns International** — 30.7 km — chain — Pullman
+- **Pullman Reef Hotel Casino** — 30.8 km — chain — Pullman
+- **Pullman Hotel Reef Casino** — 30.8 km — chain — Pullman
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

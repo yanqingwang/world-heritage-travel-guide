@@ -2,8 +2,8 @@
  "id": "wh-1532",
  "unesco_id": "1532",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 425,
+ "tier": "full",
+ "popularity_rank": 441,
  "popularity_score": 14218,
  "country": "KH",
  "country_zh": "柬埔寨",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1532.jpg",
-   "title": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1532",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_2.jpg/1280px-01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 2.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_3.jpg/1280px-01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 3.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/01222025_Sambour%2C_Prasat_Sreng_Treach%2C_Preah_Praying_Rain%2C_600_CE_Hindu_temple_Central_Cambodia_-_1.jpg/1280px-01222025_Sambour%2C_Prasat_Sreng_Treach%2C_Preah_Praying_Rain%2C_600_CE_Hindu_temple_Central_Cambodia_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01222025 Sambour, Prasat Sreng Treach, Preah Praying Rain, 600 CE Hindu temple Central Cambodia - 1.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01222025_Sambour%2C_Prasat_Sreng_Treach%2C_Preah_Praying_Rain%2C_600_CE_Hindu_temple_Central_Cambodia_-_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/600_CE_Ashram_Maha_Rishi_Hindu_temple%2C_N17_Kuk_Vihear_Prasat_Asram_Maha_Rusei%2C_Sambour_Kuk_Cambodia_01.jpg/1280px-600_CE_Ashram_Maha_Rishi_Hindu_temple%2C_N17_Kuk_Vihear_Prasat_Asram_Maha_Rusei%2C_Sambour_Kuk_Cambodia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "600 CE Ashram Maha Rishi Hindu temple, N17 Kuk Vihear Prasat Asram Maha Rusei, Sambour Kuk Cambodia 01.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:600_CE_Ashram_Maha_Rishi_Hindu_temple%2C_N17_Kuk_Vihear_Prasat_Asram_Maha_Rusei%2C_Sambour_Kuk_Cambodia_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1532",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Homestay 5",
+   "name_en": "Homestay 5",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8645076,
+   "lon": 105.0294481,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambor Village",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7106727,
+   "lon": 104.89544,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mittapheap Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7156013,
+   "lon": 104.887937,
+   "distance_km": 23.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambo Prey Kuk Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.715472,
+   "lon": 104.8873784,
+   "distance_km": 23.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stung Sen",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7132176,
+   "lon": 104.8888111,
+   "distance_km": 23.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KH",
   "country_zh": "柬埔寨",
@@ -174,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:22Z"
 }

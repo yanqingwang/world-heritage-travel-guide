@@ -8,13 +8,13 @@ country: "YE"
 country_zh: "也门"
 country_en: "Yemen"
 unesco_id: "611"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(ii)(iv)(vi)"
 lat: 14.2
 lon: 43.316666666
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:51Z"
 ---
 
 # 乍比得历史古城 / Historic Town of Zabid
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:28Z"
 
 *Zabid, Yemen.jpg · see Wikimedia Commons file page*
 
-![Historic Town of Zabid](https://whc.unesco.org/uploads/sites/site_611.jpg)
+![1680 Zibit map detail Nova Persiae Armeniae Natoliae et Arabiae by Frederik de Wit BPL 15919.png](https://upload.wikimedia.org/wikipedia/commons/b/b8/1680_Zibit_map_detail_Nova_Persiae_Armeniae_Natoliae_et_Arabiae_by_Frederik_de_Wit_BPL_15919.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Historic Town of Zabid · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1680 Zibit map detail Nova Persiae Armeniae Natoliae et Arabiae by Frederik de Wit BPL 15919.png · Frederik de Wit · Public domain*
+
+![200612 Yemen-185.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/200612_Yemen-185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*200612 Yemen-185.jpg · aiace telamonio · CC BY 2.0*
+
+![200612 Yemen-197 (354274682).jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/200612_Yemen-197_%28354274682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*200612 Yemen-197 (354274682).jpg · Franco Pecchio from Milano, Italy · CC BY 2.0*
+
+![30 Zabid (12).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/30_Zabid_%2812%29.jpg/1280px-30_Zabid_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*30 Zabid (12).jpg · Ljuba brank · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Zabid's domestic and military architecture and its urban plan make it an outstan
 - ✈ **Sanaa International Airport (SAH)** — 171.9 km
 - ✈ **Aden International Airport (ADE)** — 239.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7547.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

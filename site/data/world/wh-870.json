@@ -2,9 +2,9 @@
  "id": "wh-870",
  "unesco_id": "870",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1182,
- "popularity_score": 19338,
+ "tier": "full",
+ "popularity_rank": 397,
+ "popularity_score": 17522,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -51,6 +51,22 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Todaiji18s3200.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/LocMap_of_WH_Ancient_Nara_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap of WH Ancient Nara 2.png",
+   "author": "Crop/edit: Uploader Original: See template below.",
+   "license": "CC BY-SA 3.0",
+   "credit": "File:WorldMap ja.png Original data: UNEP GRID data GNV19",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_of_WH_Ancient_Nara_2.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LocMap_of_WH_Ancient_Nara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap of WH Ancient Nara.png",
+   "author": "The original uploader was 光合成 at Chinese Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from zh.wikipedia to Commons by Shizhao using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_of_WH_Ancient_Nara.png"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_870.jpg",
@@ -102,10 +118,148 @@
   ],
   "nearest_airport_km": 38.3,
   "distance_beijing_km": 1762.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "枚方船着場",
+    "name_en": null,
+    "lat": 34.8142315,
+    "lon": 135.6354442,
+    "distance_km": 24.2,
+    "operator": null
+   },
+   {
+    "name": "久御山町船着場",
+    "name_en": null,
+    "lat": 34.9017543,
+    "lon": 135.7297633,
+    "distance_km": 27.1,
+    "operator": null
+   },
+   {
+    "name": "背割堤船着場",
+    "name_en": null,
+    "lat": 34.8909411,
+    "lon": 135.6981919,
+    "distance_km": 27.2,
+    "operator": null
+   },
+   {
+    "name": "大阪城公園船着場",
+    "name_en": null,
+    "lat": 34.6896637,
+    "lon": 135.5334244,
+    "distance_km": 28.0,
+    "operator": "特定非営利活動法人大阪水上安全協会"
+   },
+   {
+    "name": "大阪城港",
+    "name_en": "Osaka Jo Pier",
+    "lat": 34.6897375,
+    "lon": 135.532798,
+    "distance_km": 28.1,
+    "operator": "大阪水上バス株式会社"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "京終",
+    "name_en": "Kyōbate",
+    "lat": 34.6699233,
+    "lon": 135.8286658,
+    "distance_km": 1.2,
+    "operator": null
+   },
+   {
+    "name": "近鉄奈良",
+    "name_en": "Kintetsu Nara",
+    "lat": 34.6841376,
+    "lon": 135.8285414,
+    "distance_km": 1.4,
+    "operator": "近畿日本鉄道"
+   },
+   {
+    "name": "奈良",
+    "name_en": "Nara",
+    "lat": 34.6808117,
+    "lon": 135.8189414,
+    "distance_km": 2.0,
+    "operator": "西日本旅客鉄道"
+   },
+   {
+    "name": "新大宮",
+    "name_en": "Shinomiya",
+    "lat": 34.6853702,
+    "lon": 135.8116431,
+    "distance_km": 2.8,
+    "operator": null
+   },
+   {
+    "name": "帯解",
+    "name_en": "Obitoke",
+    "lat": 34.6434293,
+    "lon": 135.8262867,
+    "distance_km": 3.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "ホテル ザ ルーテル",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 34.6835731,
+   "lon": 135.5185415,
+   "distance_km": 29.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大阪マリオネット都ホテル",
+   "name_en": "Osaka Marriott Miyako",
+   "stars": 5,
+   "brand": "Marriott",
+   "lat": 34.6461111,
+   "lon": 135.5132439,
+   "distance_km": 30.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "コンラッド大阪",
+   "name_en": "Conrad Osaka",
+   "stars": 5,
+   "brand": "Conrad",
+   "lat": 34.6935934,
+   "lon": 135.4954682,
+   "distance_km": 31.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ヒルトン大阪",
+   "name_en": "Hilton Osaka",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 34.6999454,
+   "lon": 135.4959683,
+   "distance_km": 31.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテルグランヴィア京都",
+   "name_en": "Hotel Granvia Kyoto",
+   "stars": 5,
+   "brand": null,
+   "lat": 34.9858426,
+   "lon": 135.7598191,
+   "distance_km": 35.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:01Z"
 }

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ix)(x)"
 lat: 7.366666666
 lon: -11.2
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:32Z"
 ---
 
 # 戈拉-蒂瓦伊综合体 / Gola-Tiwai Complex

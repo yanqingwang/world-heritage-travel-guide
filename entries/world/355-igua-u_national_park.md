@@ -8,13 +8,13 @@ country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
 unesco_id: "355"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1986"
 criteria: "(vii)(x)"
 lat: -25.5
 lon: -53.95
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:44Z"
 ---
 
 # 伊瓜苏国家公园 / Iguaçu National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *00 1854 Iguazú-Wasserfälle - Südamerika.jpg · see Wikimedia Commons file page*
 
-![Iguaçu National Park](https://whc.unesco.org/uploads/sites/site_355.jpg)
+![1 Parque Nacional do Iguaçu - Matheus Neumann.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/1_Parque_Nacional_do_Igua%C3%A7u_-_Matheus_Neumann.jpg/1280px-1_Parque_Nacional_do_Igua%C3%A7u_-_Matheus_Neumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Iguaçu National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1 Parque Nacional do Iguaçu - Matheus Neumann.jpg · John Nixx · CC BY-SA 4.0*
+
+![2 Parque Nacional do Iguaçu - Matheus Neumann.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2_Parque_Nacional_do_Igua%C3%A7u_-_Matheus_Neumann.jpg/1280px-2_Parque_Nacional_do_Igua%C3%A7u_-_Matheus_Neumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2 Parque Nacional do Iguaçu - Matheus Neumann.jpg · John Nixx · CC BY-SA 4.0*
+
+![2014 04 24 FOZ 002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2014_04_24_FOZ_002.jpg/1280px-2014_04_24_FOZ_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2014 04 24 FOZ 002.jpg · Guilherme Grudina · CC BY-SA 3.0*
+
+![2016-02-28 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2016-02-28_-_panoramio.jpg/1280px-2016-02-28_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-02-28 - panoramio.jpg · AAlsaiad · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ Parque Nacional do Iguaçu é uma área protegida brasileira, do grupo das Unida
 - ✈ **Cataratas International Airport (IGU)** — 55.1 km
 - ✈ **Cataratas Del Iguazú International Airport (IGR)** — 58.7 km
 - ✈ **Coronel Adalberto Mendes da Silva Airport (CAC)** — 71.6 km
+- ⛴ **Estrada do Colono** — 9.8 km
+- ⛴ **Porto Lupion** — 10.4 km
+- ⛴ **Puerto Andresito** — 10.6 km
+- ⛴ **Puerto Integración** — 31.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **18203.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Surucua Reserva & Ecolodge** — 19.6 km — hotel
+- **Hospedaje Itati** — 21.0 km — hotel
+- **Cabañas los Robles** — 21.4 km — hotel
+- **Hotel Faeli** — 28.6 km — hotel
+- **Hotel Green Blue** — 41.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

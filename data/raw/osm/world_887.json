@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hagen Airport Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8355257,
+   "lon": 144.2988846,
+   "distance_km": 6.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hagen International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8397676,
+   "lon": 144.2830098,
+   "distance_km": 8.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greenfern Eco-Tourism Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8449623,
+   "lon": 144.255667,
+   "distance_km": 10.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kimininga",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8490616,
+   "lon": 144.2402635,
+   "distance_km": 12.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tigo Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8578444,
+   "lon": 144.2375546,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:38Z"
+}

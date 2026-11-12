@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "1358"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iv)"
 lat: 20.078055555
 lon: 105.604722222
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:16Z"
 ---
 
 # 胡朝时期的城堡 / Citadel of the Ho Dynasty
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:35Z"
 
 *Ho dynasty's citadel, Vietnam.jpg · see Wikimedia Commons file page*
 
-![Citadel of the Ho Dynasty](https://whc.unesco.org/uploads/sites/site_1358.jpg)
+![12-gieng vua-dan te nam giao.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/12-gieng_vua-dan_te_nam_giao.JPG/1280px-12-gieng_vua-dan_te_nam_giao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Citadel of the Ho Dynasty · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*12-gieng vua-dan te nam giao.JPG · Giếng Vua · CC BY-SA 3.0*
+
+![20-Ngói đầu đao.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/20-Ng%C3%B3i_%C4%91%E1%BA%A7u_%C4%91ao.jpg/1280px-20-Ng%C3%B3i_%C4%91%E1%BA%A7u_%C4%91ao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20-Ngói đầu đao.jpg · Nhi NV · CC BY-SA 3.0*
+
+![Cổng Bắc thành nhà Hồ .jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/C%E1%BB%95ng_B%E1%BA%AFc_th%C3%A0nh_nh%C3%A0_H%E1%BB%93_.jpg/1280px-C%E1%BB%95ng_B%E1%BA%AFc_th%C3%A0nh_nh%C3%A0_H%E1%BB%93_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cổng Bắc thành nhà Hồ .jpg · Gieng Cung · CC BY-SA 4.0*
+
+![Cổng Nam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/C%E1%BB%95ng_Nam.jpg/1280px-C%E1%BB%95ng_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cổng Nam.jpg · Cổng Nam Thành Nhà Hồ · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Thành nhà Hồ (hay còn gọi là thành Tây Đô, thành An Tôn, thành T�
 - ✈ **Tho Xuan Airport (THD)** — 24.3 km
 - ✈ **Noi Bai International Airport (HAN)** — 128.8 km
 - ✈ **Cat Bi International Airport (HPH)** — 142.7 km
+- 🚉 **Bỉm Sơn** — 26.2 km
+- 🚉 **Đò Lèn** — 27.0 km
+- 🚉 **Nghĩa Trang** — 28.3 km
+- 🚉 **Đồng Giao** — 28.6 km
+- 🚉 **Thanh Hóa** — 34.1 km
+- ⛴ **Route 1 Temple Stop** — 36.6 km
+- ⛴ **Trang An Boat Tours Finish** — 38.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2481.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Ninh Binh Legend Hotel** — 42.9 km — star — 4★
+- **Hoalu Ecolodge Homestay** — 39.1 km — star — 3★
+- **Quang Dũng Hotel** — 40.4 km — star — 3★
+- **Khách sạn Phú Cường** — 28.2 km — star — Phu Cuong Hotel · 2★
+- **Thế Vĩnh Hotel** — 42.6 km — star — 2★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

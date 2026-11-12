@@ -8,13 +8,13 @@ country: "PA"
 country_zh: "巴拿马"
 country_en: "Panama"
 unesco_id: "159"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1981"
 criteria: "(vii)(ix)(x)"
 lat: 7.73611111
 lon: -77.54722222
-updated_at: "2026-11-12T11:55:25Z"
+updated_at: "2026-11-12T12:11:37Z"
 ---
 
 # 达连国家公园 / Darien National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:25Z"
 
 *Pteroglossus-torquatus-001.jpg · see Wikimedia Commons file page*
 
-![Darien National Park](https://whc.unesco.org/uploads/sites/site_159.jpg)
+![Crotophaga-ani-001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Crotophaga-ani-001.jpg/1280px-Crotophaga-ani-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Darien National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Crotophaga-ani-001.jpg · Mdf · CC BY-SA 3.0*
+
+![Darien National Park wikivoyage banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Darien_National_Park_wikivoyage_banner.jpg/1280px-Darien_National_Park_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Darien National Park wikivoyage banner.jpg · Mdf · CC BY-SA 3.0*
+
+![Gymnopithys-leucaspis-001 edit2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gymnopithys-leucaspis-001_edit2.jpg/1280px-Gymnopithys-leucaspis-001_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gymnopithys-leucaspis-001 edit2.jpg · Matt Deres at English Wikipedia ( Original text: Original by en:User:Mdf , edit by en:User:Matt Deres ) · CC BY 3.0*
+
+![Gymnopithys-leucaspis-001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Gymnopithys-leucaspis-001.jpg/1280px-Gymnopithys-leucaspis-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gymnopithys-leucaspis-001.jpg · Mdf · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Nexo natural entre Sudamérica y Centroamérica, el Parque Nacional del Darién 
 - ✈ **Antonio Roldán Betancur Airport (APO)** — 91.9 km
 - ✈ **José Celestino Mutis Airport (BSC)** — 171.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14502.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

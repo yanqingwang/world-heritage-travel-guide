@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(ix)"
 lat: 44.880445
 lon: 15.616035
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:34Z"
 ---
 
 # 布里特威斯湖国家公园 / Plitvice Lakes National Park

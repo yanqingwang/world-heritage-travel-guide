@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "872"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(ii)(iv)"
 lat: 45.763056
 lon: 4.828056
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 里昂历史遗迹 / Historic Site of Lyon
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Vieuxlyon saintjean toits.jpg · see Wikimedia Commons file page*
 
-![Historic Site of Lyon](https://whc.unesco.org/uploads/sites/site_872.jpg)
+![10 rue Lainerie escalier.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/10_rue_Lainerie_escalier.jpg/1280px-10_rue_Lainerie_escalier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Site of Lyon · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*10 rue Lainerie escalier.jpg · Jules Sylvestre · Public domain*
+
+![Arcades Vieux Lyon.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4b/Arcades_Vieux_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arcades Vieux Lyon.jpg · Blaise Laustriat · CC BY-SA 4.0*
+
+![Au dessus du quartier Saint-Jean.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ab/Au_dessus_du_quartier_Saint-Jean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Au dessus du quartier Saint-Jean.jpg · Patrick Verdier, Free On Line Photos · Copyrighted free use*
+
+![Café au Lait in Lyon.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Caf%C3%A9_au_Lait_in_Lyon.JPG/1280px-Caf%C3%A9_au_Lait_in_Lyon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Café au Lait in Lyon.JPG · Cadaverexquisito · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ La longue histoire de Lyon, fondée par les Romains en tant que capitale des Tro
 - ✈ **Lyon Saint-Exupéry Airport (LYS)** — 20.8 km
 - ✈ **Grenoble Alpes Isère Airport (GNB)** — 59.2 km
 - ✈ **Chambéry Aix les Bains airport (CMF)** — 82.9 km
+- 🚉 **Lyon-Saint-Paul** — 0.4 km
+- 🚉 **Fourvière** — 0.5 km
+- 🚉 **Minimes - Théâtres romains** — 0.7 km
+- 🚉 **Saint-Just** — 1.1 km
+- 🚉 **Lyon Perrache** — 1.7 km
+- ⛴ **Terrasses Presquîle** — 0.3 km
+- ⛴ **Bellecour** — 0.4 km
+- ⛴ **Saint-Paul - Hôtel de Ville** — 0.4 km
+- ⛴ **Saint-Vincent** — 0.6 km
+- ⛴ **Vaise** — 1.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8296.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Cour des Loges** — 0.1 km — star — 5★ · Radisson
+- **Villa Florentine** — 0.2 km — star — 5★
+- **Villa Maïa** — 0.6 km — star — 5★
+- **Sofitel Lyon Bellecour** — 1.1 km — star — 5★ · Sofitel
+- **Académie Hôtel** — 0.2 km — star — 4★ · Académie Hôtel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

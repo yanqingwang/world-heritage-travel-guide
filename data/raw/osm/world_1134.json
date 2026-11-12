@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Villa Stenhuset Conference",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.126569,
+   "lon": 12.5085209,
+   "distance_km": 6.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell & Omklädning",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.0642877,
+   "lon": 12.3498797,
+   "distance_km": 6.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell & Restaurang",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.0636734,
+   "lon": 12.3500553,
+   "distance_km": 6.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Varbergs Stadshotell & Asia Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.1052926,
+   "lon": 12.2496461,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell Gästis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.1070592,
+   "lon": 12.2492553,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 28,
+ "stations": [
+  {
+   "name": "Tofta",
+   "name_en": null,
+   "lat": 57.173397,
+   "lon": 12.3004009,
+   "distance_km": 9.1,
+   "operator": null
+  },
+  {
+   "name": "Varberg",
+   "name_en": null,
+   "lat": 57.1119136,
+   "lon": 12.249408,
+   "distance_km": 9.4,
+   "operator": "Jernhusen"
+  },
+  {
+   "name": "Derome",
+   "name_en": null,
+   "lat": 57.2305746,
+   "lon": 12.3200364,
+   "distance_km": 13.9,
+   "operator": null
+  },
+  {
+   "name": "Veddige",
+   "name_en": null,
+   "lat": 57.2667087,
+   "lon": 12.3368418,
+   "distance_km": 17.5,
+   "operator": null
+  },
+  {
+   "name": "Falkenberg",
+   "name_en": null,
+   "lat": 56.9195368,
+   "lon": 12.5082399,
+   "distance_km": 22.5,
+   "operator": null
+  },
+  {
+   "name": "Horred",
+   "name_en": null,
+   "lat": 57.3534143,
+   "lon": 12.4773093,
+   "distance_km": 27.0,
+   "operator": null
+  },
+  {
+   "name": "Åsa",
+   "name_en": null,
+   "lat": 57.3632647,
+   "lon": 12.1356724,
+   "distance_km": 32.1,
+   "operator": null
+  },
+  {
+   "name": "Björketorp",
+   "name_en": null,
+   "lat": 57.4273274,
+   "lon": 12.5234094,
+   "distance_km": 35.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Varbergs Innerhamn",
+   "name_en": null,
+   "lat": 57.111074,
+   "lon": 12.2421305,
+   "distance_km": 9.8,
+   "operator": "Varbergs kommun"
+  },
+  {
+   "name": "Träslövsläges fiskehamn",
+   "name_en": null,
+   "lat": 57.0590542,
+   "lon": 12.2737064,
+   "distance_km": 10.0,
+   "operator": null
+  },
+  {
+   "name": "Farehamnen",
+   "name_en": null,
+   "lat": 57.1159122,
+   "lon": 12.2370007,
+   "distance_km": 10.1,
+   "operator": null
+  },
+  {
+   "name": "Getteröns Småbåtshamn",
+   "name_en": null,
+   "lat": 57.1131948,
+   "lon": 12.2303903,
+   "distance_km": 10.5,
+   "operator": "Föreningen Getterön Marina"
+  },
+  {
+   "name": "Glommens hamn",
+   "name_en": null,
+   "lat": 56.9299553,
+   "lon": 12.3514091,
+   "distance_km": 20.7,
+   "operator": "Glommens Båtklubb"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:05Z"
+}

@@ -8,13 +8,13 @@ country: "SY"
 country_zh: "叙利亚"
 country_en: "Syria"
 unesco_id: "20"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 33.51111222
 lon: 36.30639
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:32Z"
 ---
 
 # 大马士革古城 / Ancient City of Damascus
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Umayyad Mosque, Damascus.jpg · see Wikimedia Commons file page*
 
-![Ancient City of Damascus](https://whc.unesco.org/uploads/sites/site_20.jpg)
+![1.30.4 Souq.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1.30.4_Souq.jpg/1280px-1.30.4_Souq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient City of Damascus · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1.30.4 Souq.jpg · Haubi · CC BY-SA 4.0*
+
+![1.30.5 Souq.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/1.30.5_Souq.jpg/1280px-1.30.5_Souq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1.30.5 Souq.jpg · Haubi · CC BY-SA 4.0*
+
+![Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1416 - Dumbarton Oaks.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1416_-_Dumbarton_Oaks.jpg/1280px-Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1416_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1416 - Dumbarton Oaks.jpg · Frank Kidner · CC BY-SA 4.0*
+
+![Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1423 - Dumbarton Oaks.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1423_-_Dumbarton_Oaks.jpg/1280px-Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1423_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1423 - Dumbarton Oaks.jpg · Frank Kidner · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the 
 - ✈ **Damascus International Airport (DAM)** — 22.3 km
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 83.2 km
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 141.0 km
+- 🚉 **محطة القدم** — 4.2 km
+- 🚉 **محطة قطار الربوة** — 4.3 km
+- 🚉 **محطة الهامة** — 9.2 km
+- 🚉 **داريا** — 9.6 km
+- 🚉 **محطة قطار جديدة الشيباني** — 12.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6928.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق بيت المملوكة** — 0.7 km — star — Beit al-Mamlouka Hotel · 5★
+- **Royal Semiramis Hotel** — 1.1 km — star — Royal Semiramis Hotel · 5★ · Flamingo Hospitality
+- **فندق الفور سيزون** — 1.4 km — star — Four Seasons Hotel · 5★
+- **فندق داما روز** — 2.0 km — star — Dama Rose Hotel · 5★
+- **Sheraton** — 3.0 km — star — 5★ · Sheraton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

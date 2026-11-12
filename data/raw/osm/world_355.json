@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "Surucua Reserva & Ecolodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.5383199,
+   "lon": -54.1401648,
+   "distance_km": 19.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hospedaje Itati",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.6691403,
+   "lon": -54.0434061,
+   "distance_km": 21.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabañas los Robles",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.6728735,
+   "lon": -54.0429619,
+   "distance_km": 21.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Faeli",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2432979,
+   "lon": -53.9738517,
+   "distance_km": 28.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Green Blue",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.1443185,
+   "lon": -53.83736,
+   "distance_km": 41.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 9,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Estrada do Colono",
+   "name_en": null,
+   "lat": -25.5841707,
+   "lon": -53.9803147,
+   "distance_km": 9.8,
+   "operator": null
+  },
+  {
+   "name": "Porto Lupion",
+   "name_en": null,
+   "lat": -25.5896318,
+   "lon": -53.9785302,
+   "distance_km": 10.4,
+   "operator": null
+  },
+  {
+   "name": "Puerto Andresito",
+   "name_en": null,
+   "lat": -25.5878684,
+   "lon": -53.9917108,
+   "distance_km": 10.6,
+   "operator": null
+  },
+  {
+   "name": "Puerto Integración",
+   "name_en": null,
+   "lat": -25.7692795,
+   "lon": -53.8512904,
+   "distance_km": 31.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:54Z"
+}

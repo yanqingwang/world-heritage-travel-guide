@@ -2,8 +2,8 @@
  "id": "wh-977",
  "unesco_id": "977",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 438,
+ "tier": "full",
+ "popularity_rank": 454,
  "popularity_score": 13497,
  "country": "KR",
  "country_zh": "大韩民国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_977.jpg",
-   "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/977",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/20141013%EA%B0%95%ED%99%94%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg/1280px-20141013%EA%B0%95%ED%99%94%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20141013강화역사박물관고인돌.jpg",
+   "author": "Cuhullin",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20141013%EA%B0%95%ED%99%94%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dolmen_at_Ganghwa_Island.jpg/1280px-Dolmen_at_Ganghwa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dolmen at Ganghwa Island.jpg",
+   "author": "Taewangkorea",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolmen_at_Ganghwa_Island.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dolmen_Ganghwa_Island.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Dolmen Ganghwa Island.JPG",
+   "author": "",
+   "license": "CC BY-SA 3.0",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolmen_Ganghwa_Island.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg/1280px-Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Example of a northern-style dolmen at Ganghwa Island.jpg",
+   "author": "Taewangkorea",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/977",
@@ -102,10 +126,124 @@
   ],
   "nearest_airport_km": 20.7,
   "distance_beijing_km": 1054.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "장도선착장",
+    "name_en": null,
+    "lat": 34.8432631,
+    "lon": 127.3493073,
+    "distance_km": 40.7,
+    "operator": null
+   },
+   {
+    "name": "상진포구",
+    "name_en": null,
+    "lat": 34.8154021,
+    "lon": 127.4117995,
+    "distance_km": 47.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "능주",
+    "name_en": "Neungju",
+    "lat": 34.985785,
+    "lon": 126.9642661,
+    "distance_km": 3.8,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "화순",
+    "name_en": "Hwasun",
+    "lat": 35.0513137,
+    "lon": 126.9631644,
+    "distance_km": 9.9,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "이양",
+    "name_en": "Iyang",
+    "lat": 34.8915516,
+    "lon": 126.9898739,
+    "distance_km": 10.0,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "남평",
+    "name_en": "Nampyeong",
+    "lat": 35.0569825,
+    "lon": 126.8719689,
+    "distance_km": 11.3,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "효천",
+    "name_en": "Hyocheon",
+    "lat": 35.1029684,
+    "lon": 126.877049,
+    "distance_km": 15.9,
+    "operator": "한국철도공사"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "중흥골드스파 리조트",
+   "name_en": "Jungheunggoldeuseupa Resort Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.9473531,
+   "lon": 126.8714092,
+   "distance_km": 5.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "도곡미송온천호텔",
+   "name_en": "Dogongmisong Hot Spring Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.02282,
+   "lon": 126.904438,
+   "distance_km": 6.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "도곡온천관광호텔",
+   "name_en": "Dogok Hot Spring Tourist Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.029983,
+   "lon": 126.9021941,
+   "distance_km": 7.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "크리스탈호텔",
+   "name_en": "Crystal Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.055182,
+   "lon": 126.987315,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "듀플렉스호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": "DUPLEX",
+   "lat": 35.0189072,
+   "lon": 126.7932609,
+   "distance_km": 13.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KR",
   "country_zh": "大韩民国",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:05Z"
 }

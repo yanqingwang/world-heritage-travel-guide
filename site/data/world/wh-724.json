@@ -2,8 +2,8 @@
  "id": "wh-724",
  "unesco_id": "724",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 437,
+ "tier": "full",
+ "popularity_rank": 453,
  "popularity_score": 13501,
  "country": "RS",
  "country_zh": "塞尔维亚",
@@ -102,10 +102,124 @@
   ],
   "nearest_airport_km": 63.8,
   "distance_beijing_km": 7516.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Raja",
+    "name_en": null,
+    "lat": 42.2642226,
+    "lon": 20.0098341,
+    "distance_km": 48.9,
+    "operator": null
+   },
+   {
+    "name": "Alpin",
+    "name_en": null,
+    "lat": 42.263889,
+    "lon": 20.003947,
+    "distance_km": 49.1,
+    "operator": "Alpin"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Pejë",
+    "name_en": "Pejë",
+    "lat": 42.6604877,
+    "lon": 20.3049484,
+    "distance_km": 3.2,
+    "operator": "Trainkos"
+   },
+   {
+    "name": "Budisalc",
+    "name_en": null,
+    "lat": 42.6679614,
+    "lon": 20.493858,
+    "distance_km": 18.7,
+    "operator": "Trainkos"
+   },
+   {
+    "name": "Klinë",
+    "name_en": null,
+    "lat": 42.6236507,
+    "lon": 20.5838141,
+    "distance_km": 26.4,
+    "operator": "Trainkos"
+   },
+   {
+    "name": "Ujmirë",
+    "name_en": null,
+    "lat": 42.6144428,
+    "lon": 20.6991745,
+    "distance_km": 35.8,
+    "operator": "Trainkos"
+   },
+   {
+    "name": "Qarrat",
+    "name_en": null,
+    "lat": 42.6046643,
+    "lon": 20.7484669,
+    "distance_km": 40.0,
+    "operator": "Trainkos"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Dukagjini",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.6589647,
+   "lon": 20.2896195,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Leoniti",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.7250644,
+   "lon": 20.3908313,
+   "distance_km": 12.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Seraphine Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.6610993,
+   "lon": 20.2881802,
+   "distance_km": 1.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Jakova",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.3725343,
+   "lon": 20.4388101,
+   "distance_km": 35.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Komovi",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.7339706,
+   "lon": 19.7925729,
+   "distance_km": 39.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RS",
   "country_zh": "塞尔维亚",
@@ -177,5 +291,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:29Z"
+ "updated_at": "2026-11-12T12:11:54Z"
 }

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Twyfelfontein Country Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5712266,
+   "lon": 14.3693963,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Twyfelfontein Adventure Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5301175,
+   "lon": 14.4017091,
+   "distance_km": 7.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mowani Mountain Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.50463,
+   "lon": 14.4230519,
+   "distance_km": 11.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Doro Nawas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.4495395,
+   "lon": 14.3024418,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Malansrus Tented Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5601159,
+   "lon": 14.5493347,
+   "distance_km": 18.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:13Z"
+}

@@ -8,13 +8,13 @@ country: "ZA"
 country_zh: "南非"
 country_en: "South Africa"
 unesco_id: "1575"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2018"
 criteria: "(viii)"
 lat: -33.4
 lon: 22.0
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:24Z"
 ---
 
 # 巴伯顿·玛空瓦山脉 / Barberton Makhonjwa Mountains
@@ -39,9 +39,9 @@ updated_at: "2026-11-12T11:55:37Z"
 
 *Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19919544304).jpg · South African Tourism from South Africa · CC BY 2.0*
 
-![Barberton Makhonjwa Mountains](https://whc.unesco.org/uploads/sites/site_1575.jpg)
+![Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19919656433).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819919656433%29.jpg/1280px-Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819919656433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Barberton Makhonjwa Mountains · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19919656433).jpg · South African Tourism from South Africa · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -58,7 +58,21 @@ Situated in north-eastern South Africa, the Barberton Makhonjwa Mountains compri
 - ✈ **George Airport (GRJ)** — 75.9 km
 - ✈ **Cape Town International Airport (CPT)** — 320.6 km
 - ✈ **Chief Dawid Stuurman International Airport (PLZ)** — 341.0 km
+- 🚉 **Oudtshoorn** — 31.0 km
+- 🚉 **Calitzdorp** — 33.1 km
+- 🚉 **Hazenjacht** — 41.9 km
+- 🚉 **Le Roux** — 46.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12675.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **De Bergkant** — 18.9 km — hotel
+- **Swartberg Hotel** — 19.9 km — hotel
+- **Bella de Karoo** — 20.0 km — hotel
+- **De Opstal Country Lodge** — 24.9 km — hotel
+- **Surval** — 26.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

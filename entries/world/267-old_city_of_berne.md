@@ -8,13 +8,13 @@ country: "CH"
 country_zh: "瑞士"
 country_en: "Switzerland"
 unesco_id: "267"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1983"
 criteria: "(iii)"
 lat: 46.948055555
 lon: 7.450277777
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 伯尔尼古城 / Old City of Berne
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *Bern luftaufnahme-2num.jpg · see Wikimedia Commons file page*
 
-![Old City of Berne](https://whc.unesco.org/uploads/sites/site_267.jpg)
+![Aareschlaufe Bern-East.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aareschlaufe_Bern-East.svg/1280px-Aareschlaufe_Bern-East.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Old City of Berne · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aareschlaufe Bern-East.svg · OpenStreetMap contributors · CC BY-SA 2.0*
+
+![Altstadt 005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Altstadt_005.jpg/1280px-Altstadt_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt 005.jpg · Geri340 · CC BY-SA 3.0*
+
+![Altstadt 09.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Altstadt_09.JPG/1280px-Altstadt_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt 09.JPG · Geri340 · CC BY-SA 3.0*
+
+![Altstadt Bern KGS-Nr 9554 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Altstadt_Bern_KGS-Nr_9554_2.jpg/1280px-Altstadt_Bern_KGS-Nr_9554_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt Bern KGS-Nr 9554 2.jpg · Lightshaper · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Die Berner Altstadt ist der historische Stadtkern der Schweizer Bundesstadt Bern
 - ✈ **Bern Airport (BRN)** — 5.4 km
 - ✈ **EuroAirport Basel–Mulhouse–Freiburg (BSL)** — 72.8 km
 - ✈ **Zürich Airport (ZRH)** — 100.5 km
+- 🚉 **Bern** — 0.8 km
+- 🚉 **Bern Weissenbühl** — 2.1 km
+- 🚉 **Wabern** — 2.2 km
+- 🚉 **Bern Felsenau** — 2.3 km
+- 🚉 **Ostermundigen** — 2.6 km
+- ⛴ **Büren** — 22.1 km
+- ⛴ **Brügg** — 23.2 km
+- ⛴ **Port** — 24.0 km
+- ⛴ **Täuffelen** — 24.0 km
+- ⛴ **Nidau** — 24.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8071.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Bellevue Palace** — 0.3 km — star — 5★
+- **Schweizerhof** — 0.7 km — star — 5★
+- **BEATUS Wellness- & Spa Hotel** — 35.5 km — star — 5★ · HLS Hotels & Spa AG
+- **Palafitte** — 37.3 km — star — 5★
+- **Victoria Jungfrau** — 42.5 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

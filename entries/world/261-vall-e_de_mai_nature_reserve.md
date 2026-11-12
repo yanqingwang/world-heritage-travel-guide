@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -4.329166666
 lon: 55.7375
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 马埃谷地自然保护区 / Vallée de Mai Nature Reserve

@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "540"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 59.938888888
 lon: 30.315555555
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:49Z"
 ---
 
 # 圣彼得堡历史中心及其相关古迹群 / Historic Centre of Saint Petersburg and Related Groups of Monuments
@@ -56,7 +56,27 @@ The 'Venice of the North', with its numerous canals and more than 400 bridges, i
 - ✈ **Pulkovo Airport (LED)** — 15.7 km
 - ✈ **Lappeenranta Airport (LPP)** — 171.0 km
 - ✈ **Savonlinna Airport (SVL)** — 234.8 km
+- 🚉 **Санкт-Петербург-Витебский** — 2.4 km
+- 🚉 **Санкт-Петербург-Главный** — 2.9 km
+- 🚉 **Санкт-Петербург-Финляндский** — 3.2 km
+- 🚉 **Санкт-Петербург-Балтийский** — 3.8 km
+- 🚉 **Глухоозёрская** — 5.2 km
+- ⛴ **Эрмитаж** — 0.3 km
+- ⛴ **Дворцовая пристань** — 0.4 km
+- ⛴ **Спуск со львами** — 0.4 km
+- ⛴ **Зимняя канавка** — 0.5 km
+- ⛴ **Мойка 23** — 0.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6056.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Four Seasons Hotel Lion Palace** — 0.6 km — star — 5★ · Four Seasons
+- **Англетер** — 0.7 km — star — Angleterre · 5★
+- **Гранд Отель Европа** — 0.9 km — star — 5★
+- **Ренессанс Балтик** — 0.9 km — star — 5★
+- **Villa Mr. Pinky** — 2.8 km — star — 5★ · Placebo/25
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

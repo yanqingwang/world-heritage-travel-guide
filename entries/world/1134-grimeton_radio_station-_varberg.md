@@ -8,13 +8,13 @@ country: "SE"
 country_zh: "瑞典"
 country_en: "Sweden"
 unesco_id: "1134"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iv)"
 lat: 57.113983
 lon: 12.404417
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 威堡广播站 / Grimeton Radio Station, Varberg
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:33Z"
 
 *Varberg Radio Station.jpg · see Wikimedia Commons file page*
 
-![Grimeton Radio Station, Varberg](https://whc.unesco.org/uploads/sites/site_1134.jpg)
+![60 polige generator wikipedia panthouse 003.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/60_polige_generator_wikipedia_panthouse_003.svg/1280px-60_polige_generator_wikipedia_panthouse_003.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Grimeton Radio Station, Varberg · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*60 polige generator wikipedia panthouse 003.svg · Henk Broekhuizen · CC BY-SA 4.0*
+
+![Alexanderson Alternator.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Alexanderson_Alternator.jpg/1280px-Alexanderson_Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alexanderson Alternator.jpg · Gunther Tschuch · CC BY 2.5*
+
+![Alexandersson1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Alexandersson1.JPG/1280px-Alexandersson1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alexandersson1.JPG · Dagjoh · CC BY 3.0*
+
+![Bediening machinezender.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bediening_machinezender.jpg/1280px-Bediening_machinezender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bediening machinezender.jpg · Paulus 2 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Radiostationen i Grimeton är en tidigare radiostation och ett industriminne i G
 - ✈ **Halmstad Airport (HAD)** — 53.4 km
 - ✈ **Göteborg Landvetter Airport (GOT)** — 61.5 km
 - ✈ **Læsø Airport (BYR)** — 86.5 km
+- 🚉 **Tofta** — 9.1 km
+- 🚉 **Varberg** — 9.4 km
+- 🚉 **Derome** — 13.9 km
+- 🚉 **Veddige** — 17.5 km
+- 🚉 **Falkenberg** — 22.5 km
+- ⛴ **Varbergs Innerhamn** — 9.8 km
+- ⛴ **Träslövsläges fiskehamn** — 10.0 km
+- ⛴ **Farehamnen** — 10.1 km
+- ⛴ **Getteröns Småbåtshamn** — 10.5 km
+- ⛴ **Glommens hamn** — 20.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7118.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Villa Stenhuset Conference** — 6.4 km — hotel
+- **Hotell & Omklädning** — 6.4 km — hotel
+- **Hotell & Restaurang** — 6.5 km — hotel
+- **Varbergs Stadshotell & Asia Spa** — 9.4 km — hotel
+- **Hotell Gästis** — 9.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

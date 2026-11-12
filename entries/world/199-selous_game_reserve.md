@@ -8,13 +8,13 @@ country: "TZ"
 country_zh: "坦桑尼亚"
 country_en: "Tanzania"
 unesco_id: "199"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1982"
 criteria: "(ix)(x)"
 lat: -9.0
 lon: 37.4
-updated_at: "2026-11-12T11:55:25Z"
+updated_at: "2026-11-12T12:11:39Z"
 ---
 
 # 塞卢斯禁猎区 / Selous Game Reserve
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:25Z"
 
 *SelousSandRivers.jpg · see Wikimedia Commons file page*
 
-![Selous Game Reserve](https://whc.unesco.org/uploads/sites/site_199.jpg)
+![Coastal Aviation on the landing strip at Selous Game Reserve (28755115790).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Coastal_Aviation_on_the_landing_strip_at_Selous_Game_Reserve_%2828755115790%29.jpg/1280px-Coastal_Aviation_on_the_landing_strip_at_Selous_Game_Reserve_%2828755115790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Selous Game Reserve · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Coastal Aviation on the landing strip at Selous Game Reserve (28755115790).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![Entrance to Selous Game Reserve (28422628794).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Entrance_to_Selous_Game_Reserve_%2828422628794%29.jpg/1280px-Entrance_to_Selous_Game_Reserve_%2828422628794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrance to Selous Game Reserve (28422628794).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![FZS plane conducting an aerial survey in Selous Game Reserve, Tanzania.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/FZS_plane_conducting_an_aerial_survey_in_Selous_Game_Reserve%2C_Tanzania.jpg/1280px-FZS_plane_conducting_an_aerial_survey_in_Selous_Game_Reserve%2C_Tanzania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*FZS plane conducting an aerial survey in Selous Game Reserve, Tanzania.jpg · Daniel Rosengren · CC BY 4.0*
+
+![German Steam Engine left by the German troops near Madaba.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/German_Steam_Engine_left_by_the_German_troops_near_Madaba.jpg/1280px-German_Steam_Engine_left_by_the_German_troops_near_Madaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*German Steam Engine left by the German troops near Madaba.jpg · Willem van der Horst · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Hifadhi ya Taifa ya Nyerere (awali: Selous, matamshi: "saluu") ni hifadhi ya tai
 - ✈ **Julius Nyerere International Airport (DAR)** — 309.1 km
 - ✈ **Mtwara Airport (MYW)** — 339.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9479.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "BE"
 country_zh: "比利时"
 country_en: "Belgium"
 unesco_id: "943"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
 lat: 50.635266
 lon: 3.514842
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 比利时和法国钟楼 / Belfries of Belgium and France
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Belfort Brugge.jpg · see Wikimedia Commons file page*
 
-![Belfries of Belgium and France](https://whc.unesco.org/uploads/sites/site_943.jpg)
+![Beffroi de Thuin 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Beffroi_de_Thuin_13.jpg/1280px-Beffroi_de_Thuin_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Belfries of Belgium and France · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Beffroi de Thuin 13.jpg · FrDr · CC BY-SA 4.0*
+
+![Belfort Brugge 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Belfort_Brugge_01.jpg/1280px-Belfort_Brugge_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Belfort Brugge 01.jpg · FrDr · CC BY-SA 4.0*
+
+![Belfort Brugge 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Belfort_Brugge_04.jpg/1280px-Belfort_Brugge_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Belfort Brugge 04.jpg · FrDr · CC BY-SA 4.0*
+
+![Belfort Herentals 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Belfort_Herentals_01.jpg/1280px-Belfort_Herentals_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Belfort Herentals 01.jpg · FrDr · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Vingt-trois beffrois, situés dans le nord de la France, et le beffroi de Gemblo
 - ✈ **Lille Airport (LIL)** — 30.1 km
 - ✈ **Brussels South Charleroi Airport (CRL)** — 69.5 km
 - ✈ **Brussels Airport (BRU)** — 74.3 km
+- 🚉 **Leuze** — 8.2 km
+- 🚉 **Tournai** — 8.7 km
+- 🚉 **Froyennes** — 11.1 km
+- 🚉 **Ronse - Renaix** — 13.4 km
+- 🚉 **Blaton** — 18.0 km
+- ⛴ **Port de plaisance de Wambrechies** — 32.9 km
+- ⛴ **Gare d'eau de Dorignies** — 40.9 km
+- ⛴ **Halte nautique de Douai** — 43.2 km
+- ⛴ **Veerpont Baarle** — 45.1 km
+- ⛴ **Veerpont Sint-Martens-Latem** — 45.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8042.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hôtel Casino Barrière Lille** — 30.8 km — star — 5★
+- **Hermitage Gantois** — 31.5 km — star — 5★
+- **Le Clarance Hôtel** — 32.3 km — star — 5★
+- **Mélissa** — 16.6 km — star — 4★
+- **Mercure Lille Roubaix - Grand Hôtel** — 25.0 km — star — 4★ · Mercure
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

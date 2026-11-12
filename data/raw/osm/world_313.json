@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Eurostars Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.881164,
+   "lon": -4.7857969,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palacio del Bailío",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.8874303,
+   "lon": -4.777421,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eurostars Conquistador",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.8792526,
+   "lon": -4.7786947,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8791968,
+   "lon": -4.782806,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Madinat",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8803934,
+   "lon": -4.7767175,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 111,
+ "stations": [
+  {
+   "name": "Córdoba Julio Anguita",
+   "name_en": null,
+   "lat": 37.8885103,
+   "lon": -4.789516,
+   "distance_km": 1.3,
+   "operator": "Adif"
+  },
+  {
+   "name": "El Higuerón",
+   "name_en": null,
+   "lat": 37.8670309,
+   "lon": -4.8504733,
+   "distance_km": 6.4,
+   "operator": "Adif"
+  },
+  {
+   "name": "Alcolea de Córdoba",
+   "name_en": null,
+   "lat": 37.9329792,
+   "lon": -4.6748063,
+   "distance_km": 11.0,
+   "operator": "Adif"
+  },
+  {
+   "name": "Villarrubia de Córdoba",
+   "name_en": null,
+   "lat": 37.8479706,
+   "lon": -4.9137717,
+   "distance_km": 12.3,
+   "operator": "Adif"
+  },
+  {
+   "name": "Posadas",
+   "name_en": null,
+   "lat": 37.8041466,
+   "lon": -5.1059226,
+   "distance_km": 29.8,
+   "operator": "Adif"
+  },
+  {
+   "name": "Montilla",
+   "name_en": null,
+   "lat": 37.5789991,
+   "lon": -4.6336985,
+   "distance_km": 35.8,
+   "operator": "Adif"
+  },
+  {
+   "name": "Villa del Rio",
+   "name_en": null,
+   "lat": 37.9812868,
+   "lon": -4.2836936,
+   "distance_km": 45.0,
+   "operator": "Adif"
+  },
+  {
+   "name": "Villanueva de Córdoba-Los Pedroches",
+   "name_en": null,
+   "lat": 38.2552415,
+   "lon": -4.5714216,
+   "distance_km": 45.6,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:49Z"
+}

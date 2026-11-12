@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Rotterdam",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 51.92346,
+   "lon": 4.477302,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Huis ter Duin",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2411272,
+   "lon": 4.4279868,
+   "distance_km": 35.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palace Hotel Noordwijk",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Van der Valk",
+   "lat": 52.2417425,
+   "lon": 4.4317068,
+   "distance_km": 35.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Rotterdam Brainpark",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 51.9150827,
+   "lon": 4.5296094,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bastion Hotel Rotterdam Alexander",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Bastion Hotel",
+   "lat": 51.945899,
+   "lon": 4.5352443,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 458,
+ "stations": [
+  {
+   "name": "Rotterdam Centraal",
+   "name_en": null,
+   "lat": 51.9250574,
+   "lon": 4.4692289,
+   "distance_km": 2.5,
+   "operator": null
+  },
+  {
+   "name": "Rotterdam Noord",
+   "name_en": null,
+   "lat": 51.9422622,
+   "lon": 4.4815812,
+   "distance_km": 3.9,
+   "operator": null
+  },
+  {
+   "name": "Rotterdam Zuid",
+   "name_en": null,
+   "lat": 51.9049018,
+   "lon": 4.5098521,
+   "distance_km": 5.6,
+   "operator": null
+  },
+  {
+   "name": "Rotterdam Lombardijen",
+   "name_en": null,
+   "lat": 51.8803596,
+   "lon": 4.5310527,
+   "distance_km": 8.2,
+   "operator": null
+  },
+  {
+   "name": "Rotterdam Alexander",
+   "name_en": null,
+   "lat": 51.9517162,
+   "lon": 4.5524827,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "Delft Campus",
+   "name_en": null,
+   "lat": 51.9911036,
+   "lon": 4.3646868,
+   "distance_km": 8.9,
+   "operator": null
+  },
+  {
+   "name": "Delft",
+   "name_en": null,
+   "lat": 52.0075518,
+   "lon": 4.3565807,
+   "distance_km": 10.8,
+   "operator": null
+  },
+  {
+   "name": "Capelle Schollevaar",
+   "name_en": null,
+   "lat": 51.9541176,
+   "lon": 4.5840957,
+   "distance_km": 10.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Watertaxi - Marconistraat / M4H (87)",
+   "name_en": null,
+   "lat": 51.9120067,
+   "lon": 4.423253,
+   "distance_km": 1.4,
+   "operator": "Watertaxi Rotterdam"
+  },
+  {
+   "name": "Watertaxi - RDM / Heijplaat (92)",
+   "name_en": null,
+   "lat": 51.8974966,
+   "lon": 4.4210516,
+   "distance_km": 2.9,
+   "operator": "Watertaxi Rotterdam"
+  },
+  {
+   "name": "Schiedam, Maasboulevard",
+   "name_en": null,
+   "lat": 51.9012437,
+   "lon": 4.4074951,
+   "distance_km": 3.0,
+   "operator": null
+  },
+  {
+   "name": "Rotterdam, Erasmusbrug",
+   "name_en": null,
+   "lat": 51.908651,
+   "lon": 4.4822359,
+   "distance_km": 3.7,
+   "operator": "Aqualiner"
+  },
+  {
+   "name": "Watertaxi - Charloisse Hoofd (70)",
+   "name_en": null,
+   "lat": 51.8974687,
+   "lon": 4.4700741,
+   "distance_km": 3.8,
+   "operator": "Watertaxi Rotterdam"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:47Z"
+}

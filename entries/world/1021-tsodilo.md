@@ -8,13 +8,13 @@ country: "BW"
 country_zh: "博茨瓦纳"
 country_en: "Botswana"
 unesco_id: "1021"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(i)(iii)(vi)"
 lat: -18.771666666
 lon: 21.754166666
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:07Z"
 ---
 
 # 措迪洛山 / Tsodilo
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Tsodilo rock paintings 1.jpg · see Wikimedia Commons file page*
 
-![Tsodilo](https://whc.unesco.org/uploads/sites/site_1021.jpg)
+![Animals Rock Art Tsodilo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Animals_Rock_Art_Tsodilo.jpg/1280px-Animals_Rock_Art_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tsodilo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Animals Rock Art Tsodilo.jpg · Oliver Vass · CC BY-SA 3.0*
+
+![Closeup of Tsodilo Rock Art.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Closeup_of_Tsodilo_Rock_Art.jpg/1280px-Closeup_of_Tsodilo_Rock_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Closeup of Tsodilo Rock Art.jpg · Oliver Vass · CC BY-SA 3.0*
+
+![Geometric Shapes Tsodilo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Geometric_Shapes_Tsodilo.jpg/1280px-Geometric_Shapes_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Geometric Shapes Tsodilo.jpg · Oliver Vass · CC BY-SA 3.0*
+
+![Giraffe Rock Art Painting Tsodilo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Giraffe_Rock_Art_Painting_Tsodilo.jpg/1280px-Giraffe_Rock_Art_Painting_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Giraffe Rock Art Painting Tsodilo.jpg · Oliver Vass · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ With one of the highest concentrations of rock art in the world, Tsodilo has bee
 - ✈ **Maun International Airport (MUB)** — 220.7 km
 - ✈ **Rundu Airport (NDU)** — 233.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11703.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Drotsky's Cabins** — 40.2 km — hotel
+- **Shakawe River Lodge** — 40.7 km — hotel
+- **Supupa Swamp camp** — 46.7 km — hotel
+- **Sepupa Swamp Stop** — 46.8 km — hotel
+- **Inyankuni houseboat** — 47.6 km — hotel — Inyankuni houseboat
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)(v)"
 lat: 38.788388
 lon: -9.433823
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:54Z"
 ---
 
 # 辛特拉文化景观 / Cultural Landscape of Sintra

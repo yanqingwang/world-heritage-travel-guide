@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "500"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(iv)"
 lat: -12.05138889
 lon: -77.04305556
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:48Z"
 ---
 
 # 利马的历史中心 / Historic Centre of Lima
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Panorama centro de Lima.jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Lima](https://whc.unesco.org/uploads/sites/site_500.jpg)
+![Banderola "Todo es político".png](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Banderola_%22Todo_es_pol%C3%ADtico%22.png/1280px-Banderola_%22Todo_es_pol%C3%ADtico%22.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre of Lima · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Banderola "Todo es político".png · Mikasa0709 · CC BY-SA 4.0*
+
+![Casona historica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Casona_historica.jpg/1280px-Casona_historica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Casona historica.jpg · Hastengeims · CC0*
+
+![Edificio antiguo de lima.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Edificio_antiguo_de_lima.jpg/1280px-Edificio_antiguo_de_lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Edificio antiguo de lima.jpg · Hastengeims · CC0*
+
+![Esto no es Ska.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Esto_no_es_Ska.webm/1280px--Esto_no_es_Ska.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*Esto no es Ska.webm · Futuropopular · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ Lima, la “Ciudad de los Reyes”, fue la urbe y capital más importante de los
 - ✈ **Jorge Chávez International Airport (LIM)** — 8.4 km
 - ✈ **Francisco Carle Airport (JAU)** — 173.4 km
 - ✈ **Alferez Fap David Figueroa Fernandini Airport (HUU)** — 258.3 km
+- 🚉 **Santa Clara** — 16.7 km
+- 🚉 **Morón Chaclacayo** — 29.1 km
+- 🚉 **Chosica** — 40.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16618.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sheraton Lima Historic Center** — 0.9 km — star — 5★ · Sheraton
+- **The Westin Lima Hotel & Convention Center** — 4.9 km — star — 5★ · Westin
+- **Hyatt Centric San Isidro** — 4.9 km — star — 5★ · Hyatt Centric
+- **Swissotel Lima** — 5.1 km — star — Swissôtel · 5★ · Swissôtel
+- **Suites del Bosque** — 5.2 km — star — 5★ · Suites del Bosque
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

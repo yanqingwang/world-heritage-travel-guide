@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel Casino Barrière Lille",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6363698,
+   "lon": 3.0776213,
+   "distance_km": 30.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hermitage Gantois",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6312102,
+   "lon": 3.0682487,
+   "distance_km": 31.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Clarance Hôtel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6389302,
+   "lon": 3.0569405,
+   "distance_km": 32.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mélissa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.4977775,
+   "lon": 3.607196,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Lille Roubaix - Grand Hôtel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 50.6922598,
+   "lon": 3.1721993,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 316,
+ "stations": [
+  {
+   "name": "Leuze",
+   "name_en": null,
+   "lat": 50.6005266,
+   "lon": 3.6166291,
+   "distance_km": 8.2,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Tournai",
+   "name_en": null,
+   "lat": 50.6129289,
+   "lon": 3.3971195,
+   "distance_km": 8.7,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Froyennes",
+   "name_en": null,
+   "lat": 50.6287177,
+   "lon": 3.3571415,
+   "distance_km": 11.1,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Ronse - Renaix",
+   "name_en": null,
+   "lat": 50.7422548,
+   "lon": 3.6017789,
+   "distance_km": 13.4,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Blaton",
+   "name_en": null,
+   "lat": 50.505315,
+   "lon": 3.6662236,
+   "distance_km": 18.0,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Ath",
+   "name_en": null,
+   "lat": 50.6269922,
+   "lon": 3.7772739,
+   "distance_km": 18.5,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Baisieux",
+   "name_en": null,
+   "lat": 50.6185939,
+   "lon": 3.2346663,
+   "distance_km": 19.8,
+   "operator": null
+  },
+  {
+   "name": "Saint-Amand-les-Eaux",
+   "name_en": null,
+   "lat": 50.4432034,
+   "lon": 3.4187801,
+   "distance_km": 22.4,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port de plaisance de Wambrechies",
+   "name_en": null,
+   "lat": 50.6869991,
+   "lon": 3.0548923,
+   "distance_km": 32.9,
+   "operator": null
+  },
+  {
+   "name": "Gare d'eau de Dorignies",
+   "name_en": null,
+   "lat": 50.3935242,
+   "lon": 3.0798059,
+   "distance_km": 40.9,
+   "operator": null
+  },
+  {
+   "name": "Halte nautique de Douai",
+   "name_en": null,
+   "lat": 50.3663902,
+   "lon": 3.0745332,
+   "distance_km": 43.2,
+   "operator": "Mairie de Douai"
+  },
+  {
+   "name": "Veerpont Baarle",
+   "name_en": null,
+   "lat": 51.0356079,
+   "lon": 3.6193745,
+   "distance_km": 45.1,
+   "operator": "De Vlaamse Waterweg nv"
+  },
+  {
+   "name": "Veerpont Sint-Martens-Latem",
+   "name_en": null,
+   "lat": 51.0351848,
+   "lon": 3.6193319,
+   "distance_km": 45.1,
+   "operator": "De Vlaamse Waterweg nv"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:08Z"
+}

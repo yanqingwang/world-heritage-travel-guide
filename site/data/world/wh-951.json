@@ -2,8 +2,8 @@
  "id": "wh-951",
  "unesco_id": "951",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 409,
+ "tier": "full",
+ "popularity_rank": 425,
  "popularity_score": 15540,
  "country": "LA",
  "country_zh": "老挝",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_951.jpg",
-   "title": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/951",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ban_do_Phong_Nha-Ke_Bang.jpg/1280px-Ban_do_Phong_Nha-Ke_Bang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ban do Phong Nha-Ke Bang.jpg",
+   "author": "Viethavvh at Vietnamese Wikipedia",
+   "license": "Public domain",
+   "credit": "Transferred from vi.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_do_Phong_Nha-Ke_Bang.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bar_y_piscina_del_Hotel_Heritage_By_Night%2C_Phong_Nha%2C_Vietnam_%2840523001205%29.jpg/1280px-Bar_y_piscina_del_Hotel_Heritage_By_Night%2C_Phong_Nha%2C_Vietnam_%2840523001205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bar y piscina del Hotel Heritage By Night, Phong Nha, Vietnam (40523001205).jpg",
+   "author": "Edgardo W. Olivera from Montevideo, Uruguay",
+   "license": "CC BY 2.0",
+   "credit": "Bar y piscina del Hotel Heritage By Night, Pnohg Nha, Vietnam",
+   "source": "https://commons.wikimedia.org/wiki/File:Bar_y_piscina_del_Hotel_Heritage_By_Night%2C_Phong_Nha%2C_Vietnam_%2840523001205%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Barquero_en_el_R%C3%ADo_Son%2C_Phong_Nha%2C_Vietnam_%2843409828472%29.jpg/1280px-Barquero_en_el_R%C3%ADo_Son%2C_Phong_Nha%2C_Vietnam_%2843409828472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Barquero en el Río Son, Phong Nha, Vietnam (43409828472).jpg",
+   "author": "Edgardo W. Olivera from Montevideo, Uruguay",
+   "license": "CC BY 2.0",
+   "credit": "Barquero en el Río Son, Phong Nha, Vietnam",
+   "source": "https://commons.wikimedia.org/wiki/File:Barquero_en_el_R%C3%ADo_Son%2C_Phong_Nha%2C_Vietnam_%2843409828472%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bateau_Phong_Nha.jpg/1280px-Bateau_Phong_Nha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bateau Phong Nha.jpg",
+   "author": "Preparetavalise.com",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bateau_Phong_Nha.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/951",
@@ -108,9 +132,106 @@
   "nearest_airport_km": 46.8,
   "distance_beijing_km": 2687.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Lệ Sơn",
+    "name_en": null,
+    "lat": 17.7788849,
+    "lon": 106.2577493,
+    "distance_km": 29.6,
+    "operator": null
+   },
+   {
+    "name": "Ngân Sơn",
+    "name_en": null,
+    "lat": 17.6696591,
+    "lon": 106.3941902,
+    "distance_km": 30.0,
+    "operator": null
+   },
+   {
+    "name": "Minh Lệ",
+    "name_en": null,
+    "lat": 17.7124933,
+    "lon": 106.3705074,
+    "distance_km": 30.7,
+    "operator": null
+   },
+   {
+    "name": "Lạc Sơn",
+    "name_en": null,
+    "lat": 17.811304,
+    "lon": 106.189406,
+    "distance_km": 31.2,
+    "operator": null
+   },
+   {
+    "name": "Ngọc Lâm",
+    "name_en": null,
+    "lat": 17.8291286,
+    "lon": 106.1216994,
+    "distance_km": 33.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hoang Dat Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 17.4970562,
+   "lon": 106.5925472,
+   "distance_km": 47.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chày Lập Farmstay",
+   "name_en": "Chay Lap Farmstay",
+   "stars": null,
+   "brand": null,
+   "lat": 17.6016656,
+   "lon": 106.2546929,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Charm’s Homestay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.5950733,
+   "lon": 106.2855704,
+   "distance_km": 15.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rustic Home",
+   "name_en": "Phong Nha Rustic Home",
+   "stars": null,
+   "brand": null,
+   "lat": 17.5946559,
+   "lon": 106.2862981,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Phong Nha Mountainhouse",
+   "name_en": "Phong Nha Mountainhouse",
+   "stars": null,
+   "brand": null,
+   "lat": 17.5950798,
+   "lon": 106.2870746,
+   "distance_km": 16.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LA",
   "country_zh": "老挝",
@@ -190,5 +311,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:04Z"
 }

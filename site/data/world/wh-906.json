@@ -2,8 +2,8 @@
  "id": "wh-906",
  "unesco_id": "906",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 432,
+ "tier": "full",
+ "popularity_rank": 448,
  "popularity_score": 13883,
  "country": "RO",
  "country_zh": "罗马尼亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_906.jpg",
-   "title": "Dacian Fortresses of the Orastie Mountains",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/906",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/KunsthistorischesMuseumDacianBracelet.jpg/1280px-KunsthistorischesMuseumDacianBracelet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "KunsthistorischesMuseumDacianBracelet.jpg",
+   "author": "CristianChirita",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:KunsthistorischesMuseumDacianBracelet.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthistorischesMuseumDacianGold1.jpg/1280px-KunsthistorischesMuseumDacianGold1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "KunsthistorischesMuseumDacianGold1.jpg",
+   "author": "CristianChirita",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:KunsthistorischesMuseumDacianGold1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/KunsthistorischesMuseumDacianGold4.jpg/1280px-KunsthistorischesMuseumDacianGold4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "KunsthistorischesMuseumDacianGold4.jpg",
+   "author": "CristianChirita",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:KunsthistorischesMuseumDacianGold4.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/KunsthistorischesMuseumDacianTreasures.jpg/1280px-KunsthistorischesMuseumDacianTreasures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "KunsthistorischesMuseumDacianTreasures.jpg",
+   "author": "CristianChirita",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:KunsthistorischesMuseumDacianTreasures.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/906",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 62.8,
   "distance_beijing_km": 7117.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Vaporaș Stelar",
+    "name_en": null,
+    "lat": 45.9100049,
+    "lon": 22.8785697,
+    "distance_km": 46.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Merișor",
+    "name_en": null,
+    "lat": 45.4557289,
+    "lon": 23.2317824,
+    "distance_km": 19.6,
+    "operator": "CFR"
+   },
+   {
+    "name": "Dacic Horse Train",
+    "name_en": null,
+    "lat": 45.7783477,
+    "lon": 23.1859184,
+    "distance_km": 19.8,
+    "operator": "Dacian Horses"
+   },
+   {
+    "name": "Crivadia",
+    "name_en": null,
+    "lat": 45.4636024,
+    "lon": 23.197047,
+    "distance_km": 19.9,
+    "operator": "CFR"
+   },
+   {
+    "name": "Baru Mare",
+    "name_en": null,
+    "lat": 45.474956,
+    "lon": 23.1449281,
+    "distance_km": 21.0,
+    "operator": "CFR"
+   },
+   {
+    "name": "Gara Pui",
+    "name_en": null,
+    "lat": 45.5193461,
+    "lon": 23.0838972,
+    "distance_km": 21.2,
+    "operator": "CFR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Ferdinand",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.6107764,
+   "lon": 22.9491202,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Germisara",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.9342063,
+   "lon": 23.1660565,
+   "distance_km": 36.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Diamond",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.6892879,
+   "lon": 22.8512535,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vila Castelul Maria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.8913909,
+   "lon": 23.0147439,
+   "distance_km": 37.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Wien",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.8774241,
+   "lon": 22.9152915,
+   "distance_km": 41.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RO",
   "country_zh": "罗马尼亚",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:02Z"
 }

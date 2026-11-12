@@ -8,13 +8,13 @@ country: "LY"
 country_zh: "利比亚"
 country_en: "Libya"
 unesco_id: "287"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(iii)"
 lat: 24.833429166
 lon: 10.333319444
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 塔德拉尔特•阿卡库斯石窟 / Rock-Art Sites of Tadrart Acacus
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *Libya 5076 Tadrart Acacus Luca Galuzzi 2007.jpg · see Wikimedia Commons file page*
 
-![Rock-Art Sites of Tadrart Acacus](https://whc.unesco.org/uploads/sites/site_287.jpg)
+![Akakus desert.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Akakus_desert.jpg/1280px-Akakus_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rock-Art Sites of Tadrart Acacus · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Akakus desert.jpg · Jean-Pierre MALAVIALLE · FAL*
+
+![Akakus fozzigiaren.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Akakus_fozzigiaren.jpg/1280px-Akakus_fozzigiaren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Akakus fozzigiaren.jpg · Jean-Pierre MALAVIALLE · FAL*
+
+![Akakus tete rocheuse.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Akakus_tete_rocheuse.jpg/1280px-Akakus_tete_rocheuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Akakus tete rocheuse.jpg · Jean-Pierre MALAVIALLE · FAL*
+
+![Akakus-Gebirge - Bizarre Felsformationen.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Akakus-Gebirge_-_Bizarre_Felsformationen.jpg/1280px-Akakus-Gebirge_-_Bizarre_Felsformationen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Akakus-Gebirge - Bizarre Felsformationen.jpg · Franzfoto · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this r
 - ✈ **Illizi Takhamalt Airport (VVZ)** — 271.1 km
 - ✈ **Zarzaitine - In Aménas Airport (IAM)** — 364.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9628.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق تاسيلي** — 21.4 km — hotel — Tasili Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

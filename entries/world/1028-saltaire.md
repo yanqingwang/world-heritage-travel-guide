@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 53.83717
 lon: -1.79026
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:07Z"
 ---
 
 # 索尔泰尔 / Saltaire

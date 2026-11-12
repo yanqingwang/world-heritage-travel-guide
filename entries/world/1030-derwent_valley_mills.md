@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "1030"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)"
 lat: 53.108
 lon: -1.556
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:07Z"
 ---
 
 # 德文特河谷工业区 / Derwent Valley Mills
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Arkwright Masson Mills.jpg · see Wikimedia Commons file page*
 
-![Derwent Valley Mills](https://whc.unesco.org/uploads/sites/site_1030.jpg)
+![Amelia Noel The Seat of Richard Arkwright, Cromford, near Matlock 1798.png](https://upload.wikimedia.org/wikipedia/commons/5/55/Amelia_Noel_The_Seat_of_Richard_Arkwright%2C_Cromford%2C_near_Matlock_1798.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Derwent Valley Mills · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Amelia Noel The Seat of Richard Arkwright, Cromford, near Matlock 1798.png · Amelia Noel · Public domain*
+
+![BelpermillEast.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BelpermillEast.JPG/1280px-BelpermillEast.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BelpermillEast.JPG · Marilyn11 at English Wikipedia · Public domain*
+
+![Cromford mill watercourses.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/Cromford_mill_watercourses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cromford mill watercourses.jpg · chevin · Public domain*
+
+![Cromford Wharf - Canal end 29-04-06.jpg](https://upload.wikimedia.org/wikipedia/commons/0/03/Cromford_Wharf_-_Canal_end_29-04-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cromford Wharf - Canal end 29-04-06.jpg · Gregory Deryckère · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,23 @@ The Derwent Valley in central England contains a series of 18th- and 19th- centu
 - ✈ **East Midlands Airport (EMA)** — 34.4 km
 - ✈ **Manchester Airport (MAN)** — 55.1 km
 - ✈ **Birmingham Airport (BHX)** — 73.9 km
+- 🚉 **Cromford** — 0.7 km
+- 🚉 **Matlock Bath** — 1.6 km
+- 🚉 **Steeple Grange** — 1.7 km
+- 🚉 **Recreation Ground Halt** — 1.9 km
+- 🚉 **Ravenstor** — 2.3 km
+- ⛴ **Causey Bridge Riverboat Station** — 20.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8088.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Mercure Sheffield Kenwood Hall & Spa** — 28.8 km — star — 5★ · Accor
+- **Horsley Lodge Hotel** — 15.9 km — star — 4★
+- **Ringwood Hall Hotel** — 20.3 km — star — 4★ · BW Signature Collection
+- **DoubleTree by Hilton Hotel Sheffield Park** — 24.7 km — star — 4★ · DoubleTree
+- **Delta Hotels by Marriott Nottingham Belfry** — 25.6 km — star — 4★ · Delta Hotels
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

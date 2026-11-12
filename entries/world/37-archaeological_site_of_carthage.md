@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "37"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(ii)(iii)(vi)"
 lat: 36.85788
 lon: 10.33084
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:33Z"
 ---
 
 # 迦太基遗址 / Archaeological Site of Carthage
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Archaeological Site of Carthage-130237.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Carthage](https://whc.unesco.org/uploads/sites/site_37.jpg)
+![Archaeological Site of Carthage-130237.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeological_Site_of_Carthage-130237.jpg/1280px-Archaeological_Site_of_Carthage-130237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Carthage · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Archaeological Site of Carthage-130237.jpg · Christian Manhart · CC BY-SA 3.0 igo*
+
+![Archaeological Site of Carthage-130238.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Archaeological_Site_of_Carthage-130238.jpg/1280px-Archaeological_Site_of_Carthage-130238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological Site of Carthage-130238.jpg · Christian Manhart · CC BY-SA 3.0 igo*
+
+![Archaeological Site of Carthage-130239.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Archaeological_Site_of_Carthage-130239.jpg/1280px-Archaeological_Site_of_Carthage-130239.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological Site of Carthage-130239.jpg · Christian Manhart · CC BY-SA 3.0 igo*
+
+![Carthage - Nécropole Punique, Chantier des Fouilles.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Carthage_-_N%C3%A9cropole_Punique%2C_Chantier_des_Fouilles.jpg/1280px-Carthage_-_N%C3%A9cropole_Punique%2C_Chantier_des_Fouilles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carthage - Nécropole Punique, Chantier des Fouilles.jpg · E. Le Delcy · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Carthage was founded in the 9th century B.C. on the Gulf of Tunis. From the 6th 
 - ✈ **Tunis Carthage International Airport (TUN)** — 9.3 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 87.5 km
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 128.1 km
+- 🚉 **قرطاج حنبعل** — 0.5 km
+- 🚉 **قرطاج الرئاسة** — 0.6 km
+- 🚉 **قرطاج درمش** — 1.0 km
+- 🚉 **قرطاج أميلكار** — 1.1 km
+- 🚉 **قرطاج بيرصة** — 1.5 km
+- ⛴ **Port de Carthage** — 1.5 km
+- ⛴ **Port Marchand de Carthage** — 1.9 km
+- ⛴ **تونس** — 6.0 km
+- ⛴ **Ferry terminal passengers** — 6.0 km
+- ⛴ **ميناء رادس** — 8.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8635.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فيلا ديدون** — 0.8 km — star — Villa Didon Carthage · 5★
+- **Golden Carthage** — 5.6 km — star — 5★
+- **Le Palace** — 6.5 km — star — 5★
+- **Mövenpick Hotel Du Lac Tunis** — 7.7 km — star — 5★
+- **Carthage Thalasso Resort** — 8.9 km — star — Carthage Thalasso Resort · 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

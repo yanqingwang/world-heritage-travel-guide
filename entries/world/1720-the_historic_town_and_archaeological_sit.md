@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(iv)"
 lat: -3.309166666
 lon: 40.016666666
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:30Z"
 ---
 
 # 格迪古镇和考古遗址 / The Historic Town and Archaeological Site of Gedi
@@ -27,21 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *Great Mosque of Gede.jpg · see Wikimedia Commons file page*
 
-![2011-11-12 Ruins of Gedi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2011-11-12_Ruins_of_Gedi.jpg/1280px-2011-11-12_Ruins_of_Gedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Lamu Old Town.jpg](https://upload.wikimedia.org/wikipedia/commons/2/29/Lamu_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*2011-11-12 Ruins of Gedi.jpg · François Terrier · CC BY 2.0*
+*Lamu Old Town.jpg · Almaddy2022 · CC BY-SA 4.0*
 
-![Ancient foundations and massive trees at Gedi Ruins.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg/1280px-Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Lamu old Town.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/Lamu_old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ancient foundations and massive trees at Gedi Ruins.jpg · Lebu Ayiga · CC BY-SA 4.0*
+*Lamu old Town.jpg · Almaddy2022 · CC BY-SA 4.0*
 
-![Diademmeerkatze in Gede 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Diademmeerkatze_in_Gede_1.jpg/1280px-Diademmeerkatze_in_Gede_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Lamu old town street.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Lamu_old_town_street.jpg/1280px-Lamu_old_town_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Diademmeerkatze in Gede 1.jpg · ordercrazy · CC0*
+*Lamu old town street.jpg · Mzein04 · CC BY-SA 4.0*
 
-![Diademmeerkatze in Gede.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Diademmeerkatze_in_Gede.jpg/1280px-Diademmeerkatze_in_Gede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![The Historic Town and Archaeological Site of Gedi](https://whc.unesco.org/uploads/sites/site_1720.jpg)
 
-*Diademmeerkatze in Gede.jpg · ordercrazy · CC0*
+*The Historic Town and Archaeological Site of Gedi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 

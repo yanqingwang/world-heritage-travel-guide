@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 41.904
 lon: 12.453
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 梵蒂冈城 / Vatican City

@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)(iv)"
 lat: 15.334547
 lon: 76.462162
-updated_at: "2026-11-12T11:55:25Z"
+updated_at: "2026-11-12T12:11:40Z"
 ---
 
 # 汉皮古迹群 / Group of Monuments at Hampi

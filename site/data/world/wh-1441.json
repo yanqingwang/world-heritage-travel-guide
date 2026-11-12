@@ -2,8 +2,8 @@
  "id": "wh-1441",
  "unesco_id": "1441",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 443,
+ "tier": "full",
+ "popularity_rank": 459,
  "popularity_score": 13147,
  "country": "NL",
  "country_zh": "荷兰王国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1441.jpg",
-   "title": "Van Nellefabriek",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1441",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Gedicht_in_staal_en_glas%22.jpg/1280px-%22Gedicht_in_staal_en_glas%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Gedicht in staal en glas\".jpg",
+   "author": "Davidh820",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Gedicht_in_staal_en_glas%22.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/1948_Bouw_van_een_bedrijfspand_aan_de_Giessenweg_in_de_Spaanse_Polder%2C_gezien_vanaf_de_Bornissehaven.jpg/1280px-1948_Bouw_van_een_bedrijfspand_aan_de_Giessenweg_in_de_Spaanse_Polder%2C_gezien_vanaf_de_Bornissehaven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1948 Bouw van een bedrijfspand aan de Giessenweg in de Spaanse Polder, gezien vanaf de Bornissehaven.jpg",
+   "author": "Vervaardiger: Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken) Auteursrechthouder: Gemeente Rotterdam ",
+   "license": "CC BY-SA 4.0",
+   "credit": "1664 Bouw van een bedrijfspand aan de Giessenweg in de Spaanse Polder, gezien vanaf de Bornissehaven. Collectie: Dienst Gemeentewerken / Dienst Gemeentelijke Ge",
+   "source": "https://commons.wikimedia.org/wiki/File:1948_Bouw_van_een_bedrijfspand_aan_de_Giessenweg_in_de_Spaanse_Polder%2C_gezien_vanaf_de_Bornissehaven.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Overzicht_gevel_van_de_fabriek_met_%27Van_Nelle%27_benaming_op_het_dak%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20349703_-_RCE.jpg/1280px-Overzicht_gevel_van_de_fabriek_met_%27Van_Nelle%27_benaming_op_het_dak%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20349703_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Overzicht gevel van de fabriek met 'Van Nelle' benaming op het dak, gezien vanaf de Schuttevaerweg - Rotterdam - 20349703 - RCE.jpg",
+   "author": "Hoogewoud, R. (Fotograaf)",
+   "license": "CC BY-SA 4.0",
+   "credit": "Rijksdienst voor het Cultureel Erfgoed",
+   "source": "https://commons.wikimedia.org/wiki/File:Overzicht_gevel_van_de_fabriek_met_%27Van_Nelle%27_benaming_op_het_dak%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20349703_-_RCE.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Overzicht_van_de_gevel_met_%27Van_Nelle%27_geveltekst%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20535961_-_RCE.jpg/1280px-Overzicht_van_de_gevel_met_%27Van_Nelle%27_geveltekst%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20535961_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Overzicht van de gevel met 'Van Nelle' geveltekst, gezien vanaf de Schuttevaerweg - Rotterdam - 20535961 - RCE.jpg",
+   "author": "Kris Roderburg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Rijksdienst voor het Cultureel Erfgoed",
+   "source": "https://commons.wikimedia.org/wiki/File:Overzicht_van_de_gevel_met_%27Van_Nelle%27_geveltekst%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20535961_-_RCE.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1441",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 3.8,
   "distance_beijing_km": 7869.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Watertaxi - Marconistraat / M4H (87)",
+    "name_en": null,
+    "lat": 51.9120067,
+    "lon": 4.423253,
+    "distance_km": 1.4,
+    "operator": "Watertaxi Rotterdam"
+   },
+   {
+    "name": "Watertaxi - RDM / Heijplaat (92)",
+    "name_en": null,
+    "lat": 51.8974966,
+    "lon": 4.4210516,
+    "distance_km": 2.9,
+    "operator": "Watertaxi Rotterdam"
+   },
+   {
+    "name": "Schiedam, Maasboulevard",
+    "name_en": null,
+    "lat": 51.9012437,
+    "lon": 4.4074951,
+    "distance_km": 3.0,
+    "operator": null
+   },
+   {
+    "name": "Rotterdam, Erasmusbrug",
+    "name_en": null,
+    "lat": 51.908651,
+    "lon": 4.4822359,
+    "distance_km": 3.7,
+    "operator": "Aqualiner"
+   },
+   {
+    "name": "Watertaxi - Charloisse Hoofd (70)",
+    "name_en": null,
+    "lat": 51.8974687,
+    "lon": 4.4700741,
+    "distance_km": 3.8,
+    "operator": "Watertaxi Rotterdam"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Rotterdam Centraal",
+    "name_en": null,
+    "lat": 51.9250574,
+    "lon": 4.4692289,
+    "distance_km": 2.5,
+    "operator": null
+   },
+   {
+    "name": "Rotterdam Noord",
+    "name_en": null,
+    "lat": 51.9422622,
+    "lon": 4.4815812,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Rotterdam Zuid",
+    "name_en": null,
+    "lat": 51.9049018,
+    "lon": 4.5098521,
+    "distance_km": 5.6,
+    "operator": null
+   },
+   {
+    "name": "Rotterdam Lombardijen",
+    "name_en": null,
+    "lat": 51.8803596,
+    "lon": 4.5310527,
+    "distance_km": 8.2,
+    "operator": null
+   },
+   {
+    "name": "Rotterdam Alexander",
+    "name_en": null,
+    "lat": 51.9517162,
+    "lon": 4.5524827,
+    "distance_km": 8.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Rotterdam",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 51.92346,
+   "lon": 4.477302,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Huis ter Duin",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2411272,
+   "lon": 4.4279868,
+   "distance_km": 35.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palace Hotel Noordwijk",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Van der Valk",
+   "lat": 52.2417425,
+   "lon": 4.4317068,
+   "distance_km": 35.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Rotterdam Brainpark",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 51.9150827,
+   "lon": 4.5296094,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bastion Hotel Rotterdam Alexander",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Bastion Hotel",
+   "lat": 51.945899,
+   "lon": 4.5352443,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NL",
   "country_zh": "荷兰王国",
@@ -175,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:18Z"
 }

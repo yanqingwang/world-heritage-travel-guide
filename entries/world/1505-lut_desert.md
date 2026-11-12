@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1505"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2016"
 criteria: "(vii)(viii)"
 lat: 30.263888888
 lon: 59.241111111
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:21Z"
 ---
 
 # 卢特沙漠 / Lut Desert
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *Sand castles - Dasht-e Lut desert - Kerman.JPG · see Wikimedia Commons file page*
 
-![Lut Desert](https://whc.unesco.org/uploads/sites/site_1505.jpg)
+![Map iran biotopes simplified-fr.png](https://upload.wikimedia.org/wikipedia/commons/a/a9/Map_iran_biotopes_simplified-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Lut Desert · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map iran biotopes simplified-fr.png · Fabienkhan · CC BY-SA 2.5*
+
+![- panoramio - iranactor.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/-_panoramio_-_iranactor.jpg/1280px--_panoramio_-_iranactor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*- panoramio - iranactor.jpg · iranactor · CC BY 3.0*
+
+![2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9061 DxO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9061_DxO.jpg/1280px-2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9061_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9061 DxO.jpg · Lrkrol · CC BY 4.0*
+
+![2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9079 DxO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9079_DxO.jpg/1280px-2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9079_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9079 DxO.jpg · Lrkrol · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ The Lut Desert, or Dasht-e-Lut, is located in the south-east of the country. Bet
 - ✈ **Zahedan International Airport (ZAH)** — 182.9 km
 - ✈ **Ayatollah Hashemi Rafsanjani International Airport (KER)** — 220.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5364.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

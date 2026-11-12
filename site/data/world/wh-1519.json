@@ -2,9 +2,9 @@
  "id": "wh-1519",
  "unesco_id": "1519",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 771,
- "popularity_score": 2012,
+ "tier": "full",
+ "popularity_rank": 217,
+ "popularity_score": 43042,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1519.jpg",
-   "title": "Aphrodisias",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1519",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%282%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "09385 Geyre-Karacasu-Aydın, Turkey - panoramio (2).jpg",
+   "author": "Bir_Ege_Hikayesi ©",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161022144054/http://www.panoramio.com/photo/54628189",
+   "source": "https://commons.wikimedia.org/wiki/File:09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%283%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "09385 Geyre-Karacasu-Aydın, Turkey - panoramio (3).jpg",
+   "author": "Bir_Ege_Hikayesi ©",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161019195512/http://www.panoramio.com/photo/54628194",
+   "source": "https://commons.wikimedia.org/wiki/File:09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%283%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%286%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "09385 Geyre-Karacasu-Aydın, Turkey - panoramio (6).jpg",
+   "author": "Bir_Ege_Hikayesi ©",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161023231956/http://www.panoramio.com/photo/54628200",
+   "source": "https://commons.wikimedia.org/wiki/File:09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%286%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%287%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "09385 Geyre-Karacasu-Aydın, Turkey - panoramio (7).jpg",
+   "author": "Bir_Ege_Hikayesi ©",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161022143929/http://www.panoramio.com/photo/54628180",
+   "source": "https://commons.wikimedia.org/wiki/File:09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%287%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1519",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 86.4,
   "distance_beijing_km": 7194.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Horsunlu",
+    "name_en": null,
+    "lat": 37.9147873,
+    "lon": 28.5913502,
+    "distance_km": 25.7,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Buharkent",
+    "name_en": null,
+    "lat": 37.9526579,
+    "lon": 28.7385258,
+    "distance_km": 27.2,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Sarayköy",
+    "name_en": null,
+    "lat": 37.9139646,
+    "lon": 28.9259687,
+    "distance_km": 29.0,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Kuyucak",
+    "name_en": null,
+    "lat": 37.9096934,
+    "lon": 28.4594821,
+    "distance_km": 32.2,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Denizli",
+    "name_en": null,
+    "lat": 37.7869799,
+    "lon": 29.0909657,
+    "distance_km": 33.5,
+    "operator": "TCDD Taşımacılık"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Lycus River Thermal Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.954514,
+   "lon": 29.1097446,
+   "distance_km": 43.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Colossae Thermal Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9547156,
+   "lon": 29.111083,
+   "distance_km": 43.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Polat Thermal Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9570653,
+   "lon": 29.1093458,
+   "distance_km": 43.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pam Thermal Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9627404,
+   "lon": 29.1079264,
+   "distance_km": 44.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Heracles Thermal Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.9598338,
+   "lon": 29.1070952,
+   "distance_km": 43.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -175,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:21Z"
 }

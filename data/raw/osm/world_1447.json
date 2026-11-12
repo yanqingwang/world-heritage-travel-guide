@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Steigenberger Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.9856778,
+   "lon": 9.2528466,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Schloss Schwöbber",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.069125,
+   "lon": 9.2516577,
+   "distance_km": 34.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Niedersachsen",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.7762515,
+   "lon": 9.3805465,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zum Weserdampfschiff",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.6430054,
+   "lon": 9.4507488,
+   "distance_km": 15.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Burg Blomberg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.9423264,
+   "lon": 9.0897381,
+   "distance_km": 28.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 381,
+ "stations": [
+  {
+   "name": "Holzminden",
+   "name_en": null,
+   "lat": 51.8202064,
+   "lon": 9.4538193,
+   "distance_km": 5.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Höxter-Ottbergen",
+   "name_en": null,
+   "lat": 51.7109551,
+   "lon": 9.3053907,
+   "distance_km": 10.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Lauenförde-Beverungen",
+   "name_en": null,
+   "lat": 51.6584816,
+   "lon": 9.3927624,
+   "distance_km": 13.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Stadtoldendorf",
+   "name_en": null,
+   "lat": 51.8809556,
+   "lon": 9.6204051,
+   "distance_km": 18.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bodenfelde",
+   "name_en": null,
+   "lat": 51.637133,
+   "lon": 9.561647,
+   "distance_km": 18.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Uslar",
+   "name_en": null,
+   "lat": 51.6544612,
+   "lon": 9.6552521,
+   "distance_km": 21.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bad Pyrmont",
+   "name_en": null,
+   "lat": 51.9741993,
+   "lon": 9.2726404,
+   "distance_km": 23.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Schieder",
+   "name_en": null,
+   "lat": 51.9222867,
+   "lon": 9.151705,
+   "distance_km": 23.9,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Personenfähre Wehrden",
+   "name_en": null,
+   "lat": 51.7123478,
+   "lon": 9.3930614,
+   "distance_km": 7.4,
+   "operator": null
+  },
+  {
+   "name": "Fähre Heinsen",
+   "name_en": null,
+   "lat": 51.8852053,
+   "lon": 9.4362963,
+   "distance_km": 12.1,
+   "operator": "Förderverein Personenfähre Heinsen e.V."
+  },
+  {
+   "name": "Heidbrink",
+   "name_en": null,
+   "lat": 51.8965727,
+   "lon": 9.4090391,
+   "distance_km": 13.2,
+   "operator": null
+  },
+  {
+   "name": "Gierseilfähre Polle",
+   "name_en": null,
+   "lat": 51.8967222,
+   "lon": 9.4078562,
+   "distance_km": 13.2,
+   "operator": "verpachtet vom Landkreis Holzminden"
+  },
+  {
+   "name": "Herstelle-Würgassen",
+   "name_en": null,
+   "lat": 51.6434812,
+   "lon": 9.4186056,
+   "distance_km": 14.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:33Z"
+}

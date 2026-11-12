@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(iii)(iv)"
 lat: 39.7028565
 lon: 8.9998843
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:59Z"
 ---
 
 # 巴鲁米尼的努拉格 / Su Nuraxi di Barumini

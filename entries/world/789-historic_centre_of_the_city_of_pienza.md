@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)"
 lat: 43.0766
 lon: 11.679
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:58Z"
 ---
 
 # 皮恩扎历史中心 / Historic Centre of the City of Pienza

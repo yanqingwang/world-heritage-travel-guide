@@ -8,13 +8,13 @@ country: "EG"
 country_zh: "埃及"
 country_en: "Egypt"
 unesco_id: "90"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iv)"
 lat: 30.84105
 lon: 29.66349
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:34Z"
 ---
 
 # 阿布米那基督教遗址 / Abu Mena
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Abu Mena Modern Monastery 01.JPG · see Wikimedia Commons file page*
 
-![Abu Mena](https://whc.unesco.org/uploads/sites/site_90.jpg)
+![Abumena.png](https://upload.wikimedia.org/wikipedia/commons/4/45/Abumena.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Abu Mena · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abumena.png · Academia784 · CC BY-SA 4.0*
+
+![EG Abu Mina 0206 001 (17204131426).jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/EG_Abu_Mina_0206_001_%2817204131426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*EG Abu Mina 0206 001 (17204131426).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![EG Abu Mina 0206 001a (17022656727).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4e/EG_Abu_Mina_0206_001a_%2817022656727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*EG Abu Mina 0206 001a (17022656727).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![EG Abu Mina 0206 001bn (17204130836).jpg](https://upload.wikimedia.org/wikipedia/commons/2/28/EG_Abu_Mina_0206_001bn_%2817204130836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*EG Abu Mina 0206 001bn (17204130836).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The church, baptistry, basilicas, public buildings, streets, monasteries, houses
 - ✈ **Alexandria International Airport (HBE)** — 10.6 km
 - ✈ **El Alamein International Airport (DBB)** — 115.1 km
 - ✈ **Sphinx International Airport (SPX)** — 143.5 km
+- 🚉 **عزبة محمد فريد** — 4.9 km
+- 🚉 **برج العرب الجديدة** — 8.4 km
+- 🚉 **قرية بهيج** — 11.1 km
+- 🚉 **برج العرب** — 12.5 km
+- 🚉 **جبل الحمام** — 16.4 km
+- ⛴ **Sidi Kerir tanker facility** — 23.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7616.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Alexandria King's Ranch** — 16.0 km — star — 5★
+- **Hilton Alexandria Green Plaza** — 49.8 km — star — 5★
+- **Holiday Hotel** — 45.4 km — chain
+- **فندق إيبيروتيل برج العرب** — 20.7 km — hotel — Iberotel Borg El Arab Hotel
+- **Adham Hotel** — 22.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

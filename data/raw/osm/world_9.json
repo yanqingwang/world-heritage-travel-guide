@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Simien Mountain Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.2118191,
+   "lon": 37.9780009,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Simien Park Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.1574201,
+   "lon": 37.9048559,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Walya Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.1632471,
+   "lon": 37.8991866,
+   "distance_km": 18.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Giant Lobelia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.1549961,
+   "lon": 37.8979591,
+   "distance_km": 18.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pension Everlasting",
+   "name_en": "Pension Everlasting",
+   "stars": null,
+   "brand": null,
+   "lat": 13.1505027,
+   "lon": 37.8987075,
+   "distance_km": 18.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 17,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:20Z"
+}

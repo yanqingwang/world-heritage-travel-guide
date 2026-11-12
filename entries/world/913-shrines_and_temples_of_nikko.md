@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "913"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(i)(iv)(vi)"
 lat: 36.7565
 lon: 139.5994
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:02Z"
 ---
 
 # 日光神殿和庙宇 / Shrines and Temples of Nikko
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Nikko toshogu shrine.jpg · see Wikimedia Commons file page*
 
-![Shrines and Temples of Nikko](https://whc.unesco.org/uploads/sites/site_913.jpg)
+![Lantern of Nikko World Heritage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Lantern_of_Nikko_World_Heritage.jpg/1280px-Lantern_of_Nikko_World_Heritage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shrines and Temples of Nikko · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Lantern of Nikko World Heritage.jpg · Indiana jo · CC BY-SA 4.0*
+
+![LocMap of WH Shrines and Temples of Nikko.png](https://upload.wikimedia.org/wikipedia/commons/2/21/LocMap_of_WH_Shrines_and_Temples_of_Nikko.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Shrines and Temples of Nikko.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
+
+![Shrines and Temples of Nikkō 2023-08-25 (01).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Shrines_and_Temples_of_Nikk%C5%8D_2023-08-25_%2801%29.jpg/1280px-Shrines_and_Temples_of_Nikk%C5%8D_2023-08-25_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Shrines and Temples of Nikkō 2023-08-25 (01).jpg · Mauricio V. Genta · CC BY-SA 4.0*
+
+![Shrines and Temples of Nikkō 2023-08-25 (02).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Shrines_and_Temples_of_Nikk%C5%8D_2023-08-25_%2802%29.jpg/1280px-Shrines_and_Temples_of_Nikk%C5%8D_2023-08-25_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Shrines and Temples of Nikkō 2023-08-25 (02).jpg · Mauricio V. Genta · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ The shrines and temples of Nikko, together with their natural surroundings, have
 - ✈ **Fukushima Airport (FKS)** — 90.5 km
 - ✈ **Ibaraki Airport (IBR)** — 97.0 km
 - ✈ **Narita International Airport (NRT)** — 130.7 km
+- 🚉 **東武日光** — 2.0 km
+- 🚉 **日光** — 2.3 km
+- 🚉 **上今市** — 8.0 km
+- 🚉 **大谷向** — 8.7 km
+- 🚉 **今市** — 8.8 km
+- ⛴ **船の駅中禅寺** — 9.7 km
+- ⛴ **立木観音前** — 10.1 km
+- ⛴ **大使館別荘記念公園** — 10.9 km
+- ⛴ **菖蒲ヶ浜** — 12.9 km
+- ⛴ **千手ヶ浜** — 15.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2088.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **フェアフィールドバイマリオット栃木日光** — 1.7 km — star — Fairfield by Marriott Tochigi Nikko · 3★ · Fairfield by Marriott
+- **The Ritz-Carlton, Nikko** — 9.3 km — chain — The Ritz-Carlton
+- **日光西町倶楽部 あらとうと** — 0.3 km — hotel
+- **No Yado Tsurukame Daikichi** — 0.4 km — hotel — No Yado Tsurukame Daikichi
+- **日光金谷ホテル** — 0.6 km — hotel — Nikko Kanaya Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

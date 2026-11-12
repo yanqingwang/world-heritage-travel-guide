@@ -2,8 +2,8 @@
  "id": "wh-930",
  "unesco_id": "930",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 469,
+ "tier": "full",
+ "popularity_rank": 487,
  "popularity_score": 12107,
  "country": "ES",
  "country_zh": "西班牙",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_930.jpg",
-   "title": "Palmeral of Elche",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/930",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/1917-03-31_IB%C3%89RICA_03.jpg/1280px-1917-03-31_IB%C3%89RICA_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1917-03-31 IBÉRICA 03.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "Ibérica (magazine)",
+   "source": "https://commons.wikimedia.org/wiki/File:1917-03-31_IB%C3%89RICA_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2003_in_Alicante_%28e%29.jpg/1280px-2003_in_Alicante_%28e%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2003 in Alicante (e).jpg",
+   "author": "Thomas Dahlstrøm Nielsen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2003_in_Alicante_%28e%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/36212-Elche.jpg/1280px-36212-Elche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "36212-Elche.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/49090002698/",
+   "source": "https://commons.wikimedia.org/wiki/File:36212-Elche.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/36272-Elche.jpg/1280px-36272-Elche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "36272-Elche.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/49090010513/",
+   "source": "https://commons.wikimedia.org/wiki/File:36272-Elche.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/930",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 11.7,
   "distance_beijing_km": 9209.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Santa Pola",
+    "name_en": null,
+    "lat": 38.1901756,
+    "lon": -0.5584765,
+    "distance_km": 14.2,
+    "operator": null
+   },
+   {
+    "name": "Cruise Terminal",
+    "name_en": null,
+    "lat": 38.331943,
+    "lon": -0.4851977,
+    "distance_km": 19.5,
+    "operator": null
+   },
+   {
+    "name": "Alicante-Isla de Tabarca",
+    "name_en": null,
+    "lat": 38.3420529,
+    "lon": -0.4848201,
+    "distance_km": 19.9,
+    "operator": null
+   },
+   {
+    "name": "Marina Alicante",
+    "name_en": null,
+    "lat": 38.3390742,
+    "lon": -0.4828435,
+    "distance_km": 20.0,
+    "operator": null
+   },
+   {
+    "name": "Tabarca",
+    "name_en": null,
+    "lat": 38.1674841,
+    "lon": -0.478647,
+    "distance_km": 21.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Elx Carrús",
+    "name_en": null,
+    "lat": 38.2690377,
+    "lon": -0.7062979,
+    "distance_km": 1.4,
+    "operator": "Adif"
+   },
+   {
+    "name": "Gabinete de Circulación Elx Mercaderíes",
+    "name_en": null,
+    "lat": 38.2786537,
+    "lon": -0.655541,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Torrellano",
+    "name_en": null,
+    "lat": 38.2896453,
+    "lon": -0.5827572,
+    "distance_km": 9.8,
+    "operator": null
+   },
+   {
+    "name": "Novelda-Aspe",
+    "name_en": null,
+    "lat": 38.4072636,
+    "lon": -0.7775541,
+    "distance_km": 17.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Alacant Terminal",
+    "name_en": null,
+    "lat": 38.3449804,
+    "lon": -0.496061,
+    "distance_km": 19.2,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hospes Amérigo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3444799,
+   "lon": -0.4825743,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel HUSA Golf",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3749069,
+   "lon": -0.4215182,
+   "distance_km": 26.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Servigroup Montiboli",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.4947211,
+   "lon": -0.2694104,
+   "distance_km": 44.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Palacio de San Juan",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Royal Hideaway Hotel",
+   "lat": 37.9830741,
+   "lon": -1.1267094,
+   "distance_km": 49.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Huerto del Cura",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.2636146,
+   "lon": -0.6923194,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:03Z"
 }

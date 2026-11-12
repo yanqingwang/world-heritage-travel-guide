@@ -8,13 +8,13 @@ country: "PG"
 country_zh: "巴布亚新几内亚"
 country_en: "Papua New Guinea"
 unesco_id: "887"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(iv)"
 lat: -5.7825
 lon: 144.33
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 库克早期农业遗址 / Kuk Early Agricultural Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Kuk New Guinea 2002.jpg · see Wikimedia Commons file page*
 
-![Kuk Early Agricultural Site](https://whc.unesco.org/uploads/sites/site_887.jpg)
+![Journal, L.J. Brass - 6th Archbold Expedition to New Guinea March 14 1959 to January 24, 1960 (IA journalljbrass00bras).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Journal%2C_L.J._Brass_-_6th_Archbold_Expedition_to_New_Guinea_March_14_1959_to_January_24%2C_1960_%28IA_journalljbrass00bras%29.pdf/page1-960px-Journal%2C_L.J._Brass_-_6th_Archbold_Expedition_to_New_Guinea_March_14_1959_to_January_24%2C_1960_%28IA_journalljbrass00bras%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kuk Early Agricultural Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Journal, L.J. Brass - 6th Archbold Expedition to New Guinea March 14 1959 to January 24, 1960 (IA journalljbrass00bras).pdf · Brass, L. J. (Leonard J.) American Museum of Natural History. Department of Mammalogy. Archbold Expeditions Collection A · Public domain*
+
+![Kuk New Guinea 2002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kuk_New_Guinea_2002.jpg/1280px-Kuk_New_Guinea_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kuk New Guinea 2002.jpg · NASA: JPL · Public domain*
+
+![SAFEGUARDING CULTURAL PROPERTY FIRST WORKSHOP TWO PROTOCOLS.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/SAFEGUARDING_CULTURAL_PROPERTY_FIRST_WORKSHOP_TWO_PROTOCOLS.pdf/page1-960px-SAFEGUARDING_CULTURAL_PROPERTY_FIRST_WORKSHOP_TWO_PROTOCOLS.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*SAFEGUARDING CULTURAL PROPERTY FIRST WORKSHOP TWO PROTOCOLS.pdf · UNESCO · CC BY-SA 3.0*
+
+![Safeguarding CULTURAL PROPERTY IN THE PACIFIC First workshop for the 1954 Hague Convention and its Two Protocols.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Safeguarding_CULTURAL_PROPERTY_IN_THE_PACIFIC_First_workshop_for_the_1954_Hague_Convention_and_its_Two_Protocols.pdf/page1-960px-Safeguarding_CULTURAL_PROPERTY_IN_THE_PACIFIC_First_workshop_for_the_1954_Hague_Convention_and_its_Two_Protocols.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Safeguarding CULTURAL PROPERTY IN THE PACIFIC First workshop for the 1954 Hague Convention and its Two Protocols.pdf · UNESCO · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ Kuk Early Agricultural Site consists of 116 ha of swamps in the western highland
 - ✈ **Wapenamanda Airport (WBM)** — 51.1 km
 - ✈ **Chimbu Airport (CMU)** — 75.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5840.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hagen Airport Motel** — 6.8 km — hotel
+- **Hagen International Hotel** — 8.2 km — hotel
+- **Greenfern Eco-Tourism Lodge** — 10.8 km — hotel
+- **Hotel Kimininga** — 12.4 km — hotel
+- **Tigo Inn** — 13.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

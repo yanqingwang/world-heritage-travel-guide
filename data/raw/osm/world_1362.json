@@ -1,0 +1,48 @@
+{
+ "hotels": [],
+ "hotels_nearby_50km": 0,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "父島",
+   "name_en": null,
+   "lat": 27.0951549,
+   "lon": 142.197032,
+   "distance_km": 11.0,
+   "operator": null
+  },
+  {
+   "name": "二見漁港",
+   "name_en": null,
+   "lat": 27.0969013,
+   "lon": 142.200644,
+   "distance_km": 11.3,
+   "operator": null
+  },
+  {
+   "name": "母島漁港",
+   "name_en": null,
+   "lat": 26.6930281,
+   "lon": 142.147432,
+   "distance_km": 34.2,
+   "operator": null
+  },
+  {
+   "name": "母島",
+   "name_en": null,
+   "lat": 26.6386837,
+   "lon": 142.1598606,
+   "distance_km": 40.2,
+   "operator": null
+  },
+  {
+   "name": "沖港",
+   "name_en": null,
+   "lat": 26.636209,
+   "lon": 142.1593238,
+   "distance_km": 40.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:19Z"
+}

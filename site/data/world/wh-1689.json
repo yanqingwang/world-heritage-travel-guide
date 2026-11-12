@@ -2,8 +2,8 @@
  "id": "wh-1689",
  "unesco_id": "1689",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 447,
+ "tier": "full",
+ "popularity_rank": 464,
  "popularity_score": 12871,
  "country": "US",
  "country_zh": "美国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1689.jpg",
-   "title": "Hopewell Ceremonial Earthworks",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1689",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fort_Ancient_Map_UNESCO.png/1280px-Fort_Ancient_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fort Ancient Map UNESCO.png",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://whc.unesco.org/en/list/1689/maps/",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Ancient_Map_UNESCO.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Great_Circle_Earthworks_Map_UNESCO.png/1280px-Great_Circle_Earthworks_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Great Circle Earthworks Map UNESCO.png",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://whc.unesco.org/en/list/1689/maps/",
+   "source": "https://commons.wikimedia.org/wiki/File:Great_Circle_Earthworks_Map_UNESCO.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/High_Bank_Works_Map_UNESCO.png/1280px-High_Bank_Works_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "High Bank Works Map UNESCO.png",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://whc.unesco.org/en/list/1689/maps/",
+   "source": "https://commons.wikimedia.org/wiki/File:High_Bank_Works_Map_UNESCO.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hopeton_Earthworks_Map_UNESCO.png/1280px-Hopeton_Earthworks_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hopeton Earthworks Map UNESCO.png",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://whc.unesco.org/en/list/1689/maps/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hopeton_Earthworks_Map_UNESCO.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1689",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hampton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 40.0249626,
+   "lon": -82.4461252,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 40.0601281,
+   "lon": -82.4011108,
+   "distance_km": 3.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Lakewood Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 39.9601247,
+   "lon": -82.4781258,
+   "distance_km": 10.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 40.0918719,
+   "lon": -82.7869601,
+   "distance_km": 29.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites Columbus East",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 39.9360424,
+   "lon": -82.7855986,
+   "distance_km": 31.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:38Z"
+ "updated_at": "2026-11-12T12:12:28Z"
 }

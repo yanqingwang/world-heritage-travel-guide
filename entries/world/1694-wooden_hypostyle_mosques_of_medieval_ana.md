@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1694"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iv)"
 lat: 38.755036111
 lon: 30.529575
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:28Z"
 ---
 
 # 中世纪安纳托利亚的木柱式清真寺 / Wooden Hypostyle Mosques of Medieval Anatolia
@@ -52,7 +52,22 @@ Anadolu'nun Orta Çağ Dönemi Ahşap Hipostil Camileri, Türkiye'de yer alan ve
 - ✈ **Zafer Airport (KZR)** — 52.5 km
 - ✈ **Süleyman Demirel International Airport (ISE)** — 101.0 km
 - ✈ **Hasan Polatkan Airport (AOE)** — 117.5 km
+- 🚉 **Afyonkarahisar Şehir** — 1.4 km
+- 🚉 **Ali Çetinkaya** — 2.3 km
+- 🚉 **Sülün** — 9.8 km
+- 🚉 **Tınaztepe** — 12.6 km
+- 🚉 **Gecek** — 13.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7084.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **DoubleTree by Hilton Afyonkarahisar** — 2.1 km — star — 4★ · DoubleTree
+- **Polybotum Hotel** — 45.2 km — star — 2★
+- **Opium Hotel** — 0.9 km — hotel
+- **Sabir Hotel (cheap)** — 0.9 km — hotel
+- **Soydan Bussines Hotel** — 1.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

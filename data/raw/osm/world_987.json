@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Monumento Pazo de Orbán e Sangro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.0101918,
+   "lon": -7.5602534,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eurostars Gran Hotel Lugo",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Eurostars Hotel Company",
+   "lat": 43.0049706,
+   "lon": -7.5542919,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Santiago Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.9858833,
+   "lon": -7.5891782,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coto Real",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.1199201,
+   "lon": -7.6272577,
+   "distance_km": 13.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Alfonso IX",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.7765534,
+   "lon": -7.4104725,
+   "distance_km": 29.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 80,
+ "stations": [
+  {
+   "name": "Sarria",
+   "name_en": "Sarria",
+   "lat": 42.7841802,
+   "lon": -7.4189956,
+   "distance_km": 28.0,
+   "operator": "Adif"
+  },
+  {
+   "name": "Curtis",
+   "name_en": "Curtis",
+   "lat": 43.1272997,
+   "lon": -8.1432357,
+   "distance_km": 49.0,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:02Z"
+}

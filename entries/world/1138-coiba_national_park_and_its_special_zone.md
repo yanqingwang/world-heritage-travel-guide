@@ -8,13 +8,13 @@ country: "PA"
 country_zh: "巴拿马"
 country_en: "Panama"
 unesco_id: "1138"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2005"
 criteria: "(ix)(x)"
 lat: 7.48
 lon: -81.79
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 柯义巴岛国家公园及其海洋特别保护区 / Coiba National Park and its Special Zone of Marine Protection
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:33Z"
 
 *Coiba.JPG · see Wikimedia Commons file page*
 
-![Coiba National Park and its Special Zone of Marine Protection](https://whc.unesco.org/uploads/sites/site_1138.jpg)
+![Acanthemblemaria exilispinus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Acanthemblemaria_exilispinus.jpg/1280px-Acanthemblemaria_exilispinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Coiba National Park and its Special Zone of Marine Protection · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Acanthemblemaria exilispinus.jpg · LASZLO ILYES from Cleveland, Ohio, USA · CC BY 2.0*
+
+![Anchor Aweigh (2072307827).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Anchor_Aweigh_%282072307827%29.jpg/1280px-Anchor_Aweigh_%282072307827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anchor Aweigh (2072307827).jpg · LASZLO ILYES from Cleveland, Ohio, USA · CC BY 2.0*
+
+![Antennarius commerson.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Antennarius_commerson.jpg/1280px-Antennarius_commerson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Antennarius commerson.jpg · LASZLO ILYES from Cleveland, Ohio, USA · CC BY 2.0*
+
+![Arothron meleagris 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Arothron_meleagris_1.jpg/1280px-Arothron_meleagris_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arothron meleagris 1.jpg · LASZLO ILYES from Cleveland, Ohio, USA · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ El Parque Nacional de Coiba, situado frente a la costa sudoeste de Panamá, en e
 - ✈ **Alonso Valderrama Airport (CTD)** — 162.2 km
 - ✈ **Capt. J. Montenegro Airport (PDM)** — 192.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14281.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

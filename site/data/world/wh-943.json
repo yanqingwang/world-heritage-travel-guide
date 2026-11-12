@@ -2,8 +2,8 @@
  "id": "wh-943",
  "unesco_id": "943",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 419,
+ "tier": "full",
+ "popularity_rank": 435,
  "popularity_score": 14602,
  "country": "BE",
  "country_zh": "比利时",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_943.jpg",
-   "title": "Belfries of Belgium and France",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/943",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Beffroi_de_Thuin_13.jpg/1280px-Beffroi_de_Thuin_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beffroi de Thuin 13.jpg",
+   "author": "FrDr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beffroi_de_Thuin_13.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Belfort_Brugge_01.jpg/1280px-Belfort_Brugge_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Belfort Brugge 01.jpg",
+   "author": "FrDr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfort_Brugge_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Belfort_Brugge_04.jpg/1280px-Belfort_Brugge_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Belfort Brugge 04.jpg",
+   "author": "FrDr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfort_Brugge_04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Belfort_Herentals_01.jpg/1280px-Belfort_Herentals_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Belfort Herentals 01.jpg",
+   "author": "FrDr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfort_Herentals_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/943",
@@ -107,10 +131,148 @@
   ],
   "nearest_airport_km": 30.1,
   "distance_beijing_km": 8042.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de plaisance de Wambrechies",
+    "name_en": null,
+    "lat": 50.6869991,
+    "lon": 3.0548923,
+    "distance_km": 32.9,
+    "operator": null
+   },
+   {
+    "name": "Gare d'eau de Dorignies",
+    "name_en": null,
+    "lat": 50.3935242,
+    "lon": 3.0798059,
+    "distance_km": 40.9,
+    "operator": null
+   },
+   {
+    "name": "Halte nautique de Douai",
+    "name_en": null,
+    "lat": 50.3663902,
+    "lon": 3.0745332,
+    "distance_km": 43.2,
+    "operator": "Mairie de Douai"
+   },
+   {
+    "name": "Veerpont Baarle",
+    "name_en": null,
+    "lat": 51.0356079,
+    "lon": 3.6193745,
+    "distance_km": 45.1,
+    "operator": "De Vlaamse Waterweg nv"
+   },
+   {
+    "name": "Veerpont Sint-Martens-Latem",
+    "name_en": null,
+    "lat": 51.0351848,
+    "lon": 3.6193319,
+    "distance_km": 45.1,
+    "operator": "De Vlaamse Waterweg nv"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Leuze",
+    "name_en": null,
+    "lat": 50.6005266,
+    "lon": 3.6166291,
+    "distance_km": 8.2,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Tournai",
+    "name_en": null,
+    "lat": 50.6129289,
+    "lon": 3.3971195,
+    "distance_km": 8.7,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Froyennes",
+    "name_en": null,
+    "lat": 50.6287177,
+    "lon": 3.3571415,
+    "distance_km": 11.1,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Ronse - Renaix",
+    "name_en": null,
+    "lat": 50.7422548,
+    "lon": 3.6017789,
+    "distance_km": 13.4,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Blaton",
+    "name_en": null,
+    "lat": 50.505315,
+    "lon": 3.6662236,
+    "distance_km": 18.0,
+    "operator": "NMBS/SNCB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Casino Barrière Lille",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6363698,
+   "lon": 3.0776213,
+   "distance_km": 30.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hermitage Gantois",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6312102,
+   "lon": 3.0682487,
+   "distance_km": 31.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Clarance Hôtel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6389302,
+   "lon": 3.0569405,
+   "distance_km": 32.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mélissa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.4977775,
+   "lon": 3.607196,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Lille Roubaix - Grand Hôtel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 50.6922598,
+   "lon": 3.1721993,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BE",
   "country_zh": "比利时",
@@ -193,5 +355,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:04Z"
 }

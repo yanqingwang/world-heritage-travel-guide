@@ -2,8 +2,8 @@
  "id": "wh-1346",
  "unesco_id": "1346",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 455,
+ "tier": "full",
+ "popularity_rank": 472,
  "popularity_score": 12617,
  "country": "IR",
  "country_zh": "伊朗",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1346.jpg",
-   "title": "Tabriz Historic Bazaar Complex",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1346",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1241.JewelryBazaar.Tabriz_%281470548513%29.jpg/1280px-1241.JewelryBazaar.Tabriz_%281470548513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1241.JewelryBazaar.Tabriz (1470548513).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "1241.JewelryBazaar.Tabriz",
+   "source": "https://commons.wikimedia.org/wiki/File:1241.JewelryBazaar.Tabriz_%281470548513%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1243.Bazaar.Tabriz_%281470548939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1243.Bazaar.Tabriz (1470548939).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "1243.Bazaar.Tabriz",
+   "source": "https://commons.wikimedia.org/wiki/File:1243.Bazaar.Tabriz_%281470548939%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1244.Bazaar.Tabriz_%281470550699%29.jpg/1280px-1244.Bazaar.Tabriz_%281470550699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1244.Bazaar.Tabriz (1470550699).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "1244.Bazaar.Tabriz",
+   "source": "https://commons.wikimedia.org/wiki/File:1244.Bazaar.Tabriz_%281470550699%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1246.Bazaar.Tabriz_%281470551499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1246.Bazaar.Tabriz (1470551499).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "1246.Bazaar.Tabriz",
+   "source": "https://commons.wikimedia.org/wiki/File:1246.Bazaar.Tabriz_%281470551499%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1346",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 7.7,
   "distance_beijing_km": 5908.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "تبریز",
+    "name_en": "Tabriz",
+    "lat": 38.0718589,
+    "lon": 46.2281879,
+    "distance_km": 5.7,
+    "operator": null
+   },
+   {
+    "name": "ایستگاه راه آهن خاوران",
+    "name_en": "Khavaran",
+    "lat": 38.0040211,
+    "lon": 46.4138849,
+    "distance_km": 13.6,
+    "operator": null
+   },
+   {
+    "name": "عباسی",
+    "name_en": "Abbasi",
+    "lat": 38.01128,
+    "lon": 46.0835219,
+    "distance_km": 19.8,
+    "operator": null
+   },
+   {
+    "name": "سهلان",
+    "name_en": "Sahlan",
+    "lat": 38.1973266,
+    "lon": 46.097973,
+    "distance_km": 21.4,
+    "operator": null
+   },
+   {
+    "name": "صوفیان",
+    "name_en": "Sufian",
+    "lat": 38.2730164,
+    "lon": 46.0026595,
+    "distance_km": 33.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل بین المللی شهریار",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.050148,
+   "lon": 46.3488854,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل لاله پارک",
+   "name_en": "Laleh Park Hotel",
+   "stars": 5,
+   "brand": "kaya hotels",
+   "lat": 38.0720852,
+   "lon": 46.369322,
+   "distance_km": 6.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارس ائل گؤلی",
+   "name_en": "Pars El-Goli Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 38.0205878,
+   "lon": 46.3679173,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پتروشیمی تبریز",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.0629757,
+   "lon": 46.3385284,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل آیدا",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 38.0707082,
+   "lon": 46.311059,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:35Z"
+ "updated_at": "2026-11-12T12:12:15Z"
 }

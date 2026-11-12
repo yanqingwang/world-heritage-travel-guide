@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Sheraton Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.8142801,
+   "lon": 47.477,
+   "distance_km": 10.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Convention and Spa Antananarivo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.8728008,
+   "lon": 47.5225103,
+   "distance_km": 13.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.9146483,
+   "lon": 47.5177982,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tamboho",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -18.8917155,
+   "lon": 47.5266784,
+   "distance_km": 15.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Colbert",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -18.9111389,
+   "lon": 47.5254925,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 229,
+ "stations": [
+  {
+   "name": "Soarano",
+   "name_en": null,
+   "lat": -18.9031635,
+   "lon": 47.5210347,
+   "distance_km": 16.6,
+   "operator": "Madarail"
+  },
+  {
+   "name": "Amoronakona",
+   "name_en": null,
+   "lat": -18.9299868,
+   "lon": 47.5832831,
+   "distance_km": 19.1,
+   "operator": null
+  },
+  {
+   "name": "Mandroseza",
+   "name_en": null,
+   "lat": -18.937645,
+   "lon": 47.5537405,
+   "distance_km": 19.9,
+   "operator": null
+  },
+  {
+   "name": "Soanierana",
+   "name_en": null,
+   "lat": -18.9403485,
+   "lon": 47.5220256,
+   "distance_km": 20.6,
+   "operator": null
+  },
+  {
+   "name": "Ambohimanambola",
+   "name_en": null,
+   "lat": -18.9431249,
+   "lon": 47.5995604,
+   "distance_km": 20.8,
+   "operator": null
+  },
+  {
+   "name": "Androndrakely",
+   "name_en": null,
+   "lat": -18.9475518,
+   "lon": 47.5336952,
+   "distance_km": 21.2,
+   "operator": null
+  },
+  {
+   "name": "Manjakandriana",
+   "name_en": null,
+   "lat": -18.9249853,
+   "lon": 47.8144705,
+   "distance_km": 32.3,
+   "operator": null
+  },
+  {
+   "name": "Ambatolaona",
+   "name_en": null,
+   "lat": -18.927697,
+   "lon": 47.8831677,
+   "distance_km": 38.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "bar manga",
+   "name_en": null,
+   "lat": -18.9129024,
+   "lon": 47.5142819,
+   "distance_km": 17.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:51Z"
+}

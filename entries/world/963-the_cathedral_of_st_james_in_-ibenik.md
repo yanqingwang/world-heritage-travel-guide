@@ -8,13 +8,13 @@ country: "HR"
 country_zh: "克罗地亚"
 country_en: "Croatia"
 unesco_id: "963"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(i)(ii)(iv)"
 lat: 43.735555555
 lon: 15.889166666
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:05Z"
 ---
 
 # 西贝尼克的圣詹姆斯大教堂 / The Cathedral of St James in Šibenik
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *HR-Sibenik-Kathedrale-01.jpg · see Wikimedia Commons file page*
 
-![The Cathedral of St James in Šibenik](https://whc.unesco.org/uploads/sites/site_963.jpg)
+![Artistic trinities of the cathedral in Sibenik.JPG](https://upload.wikimedia.org/wikipedia/commons/f/f9/Artistic_trinities_of_the_cathedral_in_Sibenik.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*The Cathedral of St James in Šibenik · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Artistic trinities of the cathedral in Sibenik.JPG · Conveyance · CC BY-SA 3.0*
+
+![Cathedral of St. James 聖雅各伯主教座堂 - panoramio - lienyuan lee (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cathedral_of_St._James_%E8%81%96%E9%9B%85%E5%90%84%E4%BC%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82_-_panoramio_-_lienyuan_lee_%281%29.jpg/1280px-Cathedral_of_St._James_%E8%81%96%E9%9B%85%E5%90%84%E4%BC%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82_-_panoramio_-_lienyuan_lee_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cathedral of St. James 聖雅各伯主教座堂 - panoramio - lienyuan lee (1).jpg · lienyuan lee · CC BY 3.0*
+
+![Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1365.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1365.jpg/1280px-Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1365.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1365.jpg · Jean-Auguste Brutails · Public domain*
+
+![Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1366.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1366.jpg/1280px-Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1366.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1366.jpg · Jean-Auguste Brutails · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Katedrala sv. Jakova u Šibeniku značajno je graditeljsko ostvarenje 15. i 16. 
 - ✈ **Split Saint Jerome Airport (SPU)** — 39.5 km
 - ✈ **Zadar Airport (ZAD)** — 58.8 km
 - ✈ **Brač Airport (BWK)** — 81.0 km
+- 🚉 **Šibenik** — 0.9 km
+- 🚉 **Ražine** — 4.3 km
+- 🚉 **Perković** — 19.5 km
+- 🚉 **Žitnić** — 23.2 km
+- 🚉 **Unešić** — 23.5 km
+- ⛴ **Šibenik** — 0.2 km
+- ⛴ **Taxi Boat** — 0.3 km
+- ⛴ **Luka Šibenik** — 0.7 km
+- ⛴ **Gat Vrulje** — 0.8 km
+- ⛴ **D-Marin Mandalina** — 1.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7767.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Martinis Marchi** — 45.5 km — star — 5★
+- **Life palace** — 0.1 km — star — 4★
+- **King Krešimir Heritage Hotel** — 0.1 km — star — 4★
+- **Hotel Andrija** — 4.3 km — star — 4★
+- **Hotel Ivan** — 4.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

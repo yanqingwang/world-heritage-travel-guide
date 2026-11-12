@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "174"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 43.77306
 lon: 11.25611111
-updated_at: "2026-11-12T11:55:25Z"
+updated_at: "2026-11-12T12:11:38Z"
 ---
 
 # 佛罗伦萨历史中心 / Historic Centre of Florence
@@ -60,7 +60,26 @@ Il centro storico di Firenze è la parte della città compresa entro i viali di 
 - ✈ **Florence Airport, Peretola (FLR)** — 5.8 km
 - ✈ **Pisa International Airport (PSA)** — 70.1 km
 - ✈ **Forlì-Luigi Ridolfi International Airport (FRL)** — 80.3 km
+- 🚉 **Firenze Santa Maria Novella** — 0.9 km
+- 🚉 **Firenze Statuto** — 1.7 km
+- 🚉 **Firenze Campo di Marte** — 1.7 km
+- 🚉 **Firenze San Marco Vecchio** — 2.2 km
+- 🚉 **Firenze Rifredi** — 3.4 km
+- ⛴ **Molo di Bandella** — 43.5 km
+- ⛴ **Comignolo** — 47.6 km
+- ⛴ **Ca' di Sopra** — 47.8 km
+- ⛴ **Vergherete** — 47.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8071.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Savoy** — 0.2 km — star — 5★
+- **Helvetia & Bristol** — 0.3 km — star — 5★
+- **Golden Tower** — 0.4 km — star — 5★
+- **Tivoli Palazzo Gaddi** — 0.4 km — star — 5★ · NH Collection Hotels
+- **Hotel Bernini** — 0.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

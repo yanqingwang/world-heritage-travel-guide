@@ -8,13 +8,13 @@ country: "AO"
 country_zh: "安哥拉"
 country_en: "Angola"
 unesco_id: "1511"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(iii)(iv)"
 lat: -6.266666666
 lon: 14.25
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:21Z"
 ---
 
 # 姆班扎剛果 / Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *The Bansa, or residence of the King of Kongo, called St. Salvador (M'Banza Kongo), Astley 1745.jpg · see Wikimedia Commons file page*
 
-![Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo](https://whc.unesco.org/uploads/sites/site_1511.jpg)
+![59 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11127176004).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/59_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811127176004%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*59 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11127176004).jpg · The British Library · No restrictions*
+
+![Angolan woman with children outside health clinic (5686703351).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Angolan_woman_with_children_outside_health_clinic_%285686703351%29.jpg/1280px-Angolan_woman_with_children_outside_health_clinic_%285686703351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Angolan woman with children outside health clinic (5686703351).jpg · USAID Africa Bureau · Public domain*
+
+![AO-M'banza Kongo.png](https://upload.wikimedia.org/wikipedia/commons/6/61/AO-M%27banza_Kongo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AO-M'banza Kongo.png · User Acntx on en.wikipedia · CC BY-SA 3.0*
+
+![Bansa or Salvador the chief citÿ of ye kingdom of Congo, 1670 – BEIC IE8933391.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bansa_or_Salvador_the_chief_cit%C3%BF_of_ye_kingdom_of_Congo%2C_1670_%E2%80%93_BEIC_IE8933391.jpg/1280px-Bansa_or_Salvador_the_chief_cit%C3%BF_of_ye_kingdom_of_Congo%2C_1670_%E2%80%93_BEIC_IE8933391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bansa or Salvador the chief citÿ of ye kingdom of Congo, 1670 – BEIC IE8933391.jpg · Public domain*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ M'banza Congo, também grafada como M'banza Kongo e Mabanza Congo, é uma cidade
 - ✈ **Negage Airport (GXG)** — 201.2 km
 - ✈ **Soyo Airport (SZA)** — 208.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11504.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Estrela de Congo** — 0.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Finisterre",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.3442863,
+   "lon": -99.1447144,
+   "distance_km": 4.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Maison México Roma",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Lomas Hospitality",
+   "lat": 19.4178053,
+   "lon": -99.1675343,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 19.42293,
+   "lon": -99.1742051,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz-Carlton, Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 19.4239552,
+   "lon": -99.1757289,
+   "distance_km": 10.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Marquis Reforma",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.4250374,
+   "lon": -99.1737889,
+   "distance_km": 10.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 516,
+ "stations": [
+  {
+   "name": "Las Torres",
+   "name_en": null,
+   "lat": 19.3408028,
+   "lon": -99.1434188,
+   "distance_km": 4.8,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Ciudad Jardín",
+   "name_en": null,
+   "lat": 19.3357508,
+   "lon": -99.1418589,
+   "distance_km": 4.9,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "La Virgen",
+   "name_en": null,
+   "lat": 19.3316668,
+   "lon": -99.1405977,
+   "distance_km": 5.0,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Xotepingo",
+   "name_en": null,
+   "lat": 19.3274803,
+   "lon": -99.1392952,
+   "distance_km": 5.1,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Tasqueña",
+   "name_en": null,
+   "lat": 19.3436739,
+   "lon": -99.1404751,
+   "distance_km": 5.2,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Nezahualpilli",
+   "name_en": null,
+   "lat": 19.3238035,
+   "lon": -99.1381552,
+   "distance_km": 5.3,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Textitlan",
+   "name_en": null,
+   "lat": 19.3125522,
+   "lon": -99.1405772,
+   "distance_km": 5.4,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  },
+  {
+   "name": "Registro Federal",
+   "name_en": null,
+   "lat": 19.317876,
+   "lon": -99.1388101,
+   "distance_km": 5.4,
+   "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Estación AIFA",
+   "name_en": null,
+   "lat": 19.7353213,
+   "lon": -99.0262167,
+   "distance_km": 47.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:16Z"
+}

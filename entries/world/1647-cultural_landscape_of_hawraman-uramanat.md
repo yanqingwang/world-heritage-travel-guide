@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(v)"
 lat: 35.107358333
 lon: 46.47785
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:26Z"
 ---
 
 # 豪拉曼/乌拉玛纳特文化景观 / Cultural Landscape of Hawraman/Uramanat

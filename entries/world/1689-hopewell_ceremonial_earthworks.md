@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "1689"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(i)(iii)"
 lat: 40.053658333
 lon: -82.446061111
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:28Z"
 ---
 
 # 霍普维尔仪式用土筑 / Hopewell Ceremonial Earthworks
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *Hopewell Culture National Historical Park.jpg · see Wikimedia Commons file page*
 
-![Hopewell Ceremonial Earthworks](https://whc.unesco.org/uploads/sites/site_1689.jpg)
+![Fort Ancient Map UNESCO.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fort_Ancient_Map_UNESCO.png/1280px-Fort_Ancient_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hopewell Ceremonial Earthworks · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Fort Ancient Map UNESCO.png · Unknown author Unknown author · Public domain*
+
+![Great Circle Earthworks Map UNESCO.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Great_Circle_Earthworks_Map_UNESCO.png/1280px-Great_Circle_Earthworks_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Great Circle Earthworks Map UNESCO.png · Unknown author Unknown author · Public domain*
+
+![High Bank Works Map UNESCO.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/High_Bank_Works_Map_UNESCO.png/1280px-High_Bank_Works_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*High Bank Works Map UNESCO.png · Unknown author Unknown author · Public domain*
+
+![Hopeton Earthworks Map UNESCO.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hopeton_Earthworks_Map_UNESCO.png/1280px-Hopeton_Earthworks_Map_UNESCO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hopeton Earthworks Map UNESCO.png · Unknown author Unknown author · Public domain*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ This property is a series of eight monumental earthen enclosure complexes built 
 - ✈ **Rickenbacker International Airport (LCK)** — 49.0 km
 - ✈ **Mid Ohio Valley Regional Airport (PKB)** — 116.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10894.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hampton** — 3.2 km — chain — Hampton
+- **DoubleTree by Hilton** — 3.9 km — chain — DoubleTree
+- **Best Western Lakewood Inn** — 10.8 km — chain — Best Western
+- **Hampton Inn & Suites** — 29.3 km — chain — Hampton Inn & Suites
+- **Holiday Inn Express & Suites Columbus East** — 31.7 km — chain — Holiday Inn Express & Suites
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

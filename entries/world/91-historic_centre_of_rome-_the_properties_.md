@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 41.8928
 lon: 12.4866
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:34Z"
 ---
 
 # 罗马历史中心，享受治外法权的罗马教廷建筑和缪拉圣保罗弗利 / Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura

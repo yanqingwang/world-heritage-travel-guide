@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "354"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1995"
 criteria: "(vii)(ix)"
 lat: 48.996055555
 lon: -113.904166666
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:44Z"
 ---
 
 # 沃特顿冰川国际和平公园 / Waterton Glacier International Peace Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *GlacierNP L7 20010701.jpg · see Wikimedia Commons file page*
 
-![Waterton Glacier International Peace Park](https://whc.unesco.org/uploads/sites/site_354.jpg)
+![2006-07-30 - 02 - Road Trip - Day 07 - Canada - Alberta - Waterton-Glacier International Peace Park 4888709783.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2006-07-30_-_02_-_Road_Trip_-_Day_07_-_Canada_-_Alberta_-_Waterton-Glacier_International_Peace_Park_4888709783.jpg/1280px-2006-07-30_-_02_-_Road_Trip_-_Day_07_-_Canada_-_Alberta_-_Waterton-Glacier_International_Peace_Park_4888709783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Waterton Glacier International Peace Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2006-07-30 - 02 - Road Trip - Day 07 - Canada - Alberta - Waterton-Glacier International Peace Park 4888709783.jpg · CGP Grey · CC BY 2.0*
+
+![49 parallel waterton.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f3/49_parallel_waterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*49 parallel waterton.jpg · Traveler100 · CC BY-SA 3.0*
+
+![A Waterton Lakes employee leads an International Peace Park hike (53171873638).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_Waterton_Lakes_employee_leads_an_International_Peace_Park_hike_%2853171873638%29.jpg/1280px-A_Waterton_Lakes_employee_leads_an_International_Peace_Park_hike_%2853171873638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Waterton Lakes employee leads an International Peace Park hike (53171873638).jpg · GlacierNPS · Public domain*
+
+![Border Marker June 2011.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fc/Border_Marker_June_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Border Marker June 2011.jpg · Alexander Cohen from Ottawa, ON, Canada · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ En 1932, le parc national des Lacs-Waterton (Alberta, Canada) et le Glacier Nati
 - ✈ **Lethbridge County Airport (YQL)** — 106.7 km
 - ✈ **Cranbrook/Canadian Rockies International Airport (YXC)** — 152.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8987.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Northland Lodge** — 6.1 km — hotel
+- **Waterton Lakes Lodge Resort** — 6.2 km — hotel
+- **Waterton Glacier Suites** — 6.3 km — hotel
+- **Aspen Village** — 6.3 km — hotel
+- **Bayshore Inn** — 6.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

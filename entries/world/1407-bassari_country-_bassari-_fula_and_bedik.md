@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(v)(vi)"
 lat: 12.593333333
 lon: -12.845833333
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:17Z"
 ---
 
 # 巴萨里乡村 / Bassari Country: Bassari, Fula and Bedik Cultural Landscapes

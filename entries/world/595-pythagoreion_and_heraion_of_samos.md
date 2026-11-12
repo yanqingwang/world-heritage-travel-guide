@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(iii)"
 lat: 37.672043
 lon: 26.886635
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:51Z"
 ---
 
 # 萨莫斯岛的毕达哥利翁及赫拉神殿 / Pythagoreion and Heraion of Samos

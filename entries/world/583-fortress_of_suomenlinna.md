@@ -8,13 +8,13 @@ country: "FI"
 country_zh: "芬兰"
 country_en: "Finland"
 unesco_id: "583"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iv)"
 lat: 60.143611111
 lon: 24.984444444
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:50Z"
 ---
 
 # 苏奥曼斯纳城堡 / Fortress of Suomenlinna
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:28Z"
 
 *Suomenlinna.jpg · see Wikimedia Commons file page*
 
-![Fortress of Suomenlinna](https://whc.unesco.org/uploads/sites/site_583.jpg)
+![102-мм единорог.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/102-%D0%BC%D0%BC_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3.jpg/1280px-102-%D0%BC%D0%BC_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Fortress of Suomenlinna · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*102-мм единорог.jpg · George Shuklin · CC BY-SA 1.0*
+
+![2003年 芬兰赫尔辛基 Helsinki, Suomi - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2003%E5%B9%B4_%E8%8A%AC%E5%85%B0%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA_Helsinki%2C_Suomi_-_panoramio.jpg/1280px-2003%E5%B9%B4_%E8%8A%AC%E5%85%B0%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA_Helsinki%2C_Suomi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2003年 芬兰赫尔辛基 Helsinki, Suomi - panoramio.jpg · wanghongliu · CC BY-SA 3.0*
+
+![Bridge between Iso Mustasaari and Susisaari in July 2024.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridge_between_Iso_Mustasaari_and_Susisaari_in_July_2024.jpg/1280px-Bridge_between_Iso_Mustasaari_and_Susisaari_in_July_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bridge between Iso Mustasaari and Susisaari in July 2024.jpg · JIP · CC BY-SA 4.0*
+
+![Bridge view in Suomenlinna In Helsinki.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bridge_view_in_Suomenlinna_In_Helsinki.jpg/1280px-Bridge_view_in_Suomenlinna_In_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bridge view in Suomenlinna In Helsinki.jpg · John Samuel · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Suomenlinna, myös Viapori, (ruots. Sveaborg) on Helsingin edustalla sijaitseva 
 - ✈ **Helsinki Vantaa Airport (HEL)** — 19.5 km
 - ✈ **Lennart Meri Tallinn Airport (TLL)** — 81.7 km
 - ✈ **Turku Airport (TKU)** — 155.4 km
+- 🚉 **Koirasaaret** — 2.8 km
+- 🚉 **Haakoninlahdenpuisto** — 3.1 km
+- 🚉 **Kruunuvuori** — 3.3 km
+- 🚉 **Hopealaakso** — 3.4 km
+- 🚉 **Korkeasaari** — 3.7 km
+- ⛴ **Suomenlinna (Tykistölahti)** — 0.2 km
+- ⛴ **Suomenlinna (Kuninkaanportti)** — 0.5 km
+- ⛴ **Suomenlinna, huoltolaituri** — 0.5 km
+- ⛴ **Kuninkaanportti** — 0.5 km
+- ⛴ **Suomenlinna, päälaituri** — 0.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6307.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Kämp** — 3.4 km — star — 5★
+- **Radisson Blu Seaside** — 3.9 km — star — 4★ · Radisson Blu
+- **Clarion Hotel Helsinki** — 3.9 km — star — 4★ · Clarion
+- **Hilton Helsinki Strand** — 4.1 km — star — 4★ · Hilton
+- **Original Sokos Hotel Presidentti** — 4.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

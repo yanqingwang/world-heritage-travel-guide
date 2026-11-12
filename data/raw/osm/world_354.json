@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Northland Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0501012,
+   "lon": -113.9164244,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waterton Lakes Lodge Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0517403,
+   "lon": -113.9095478,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waterton Glacier Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0529777,
+   "lon": -113.909887,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aspen Village",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0526189,
+   "lon": -113.9087825,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bayshore Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0522637,
+   "lon": -113.906359,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 18,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:54Z"
+}

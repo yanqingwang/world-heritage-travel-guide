@@ -8,13 +8,13 @@ country: "GT"
 country_zh: "危地马拉"
 country_en: "Guatemala"
 unesco_id: "1663"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iii)"
 lat: 14.645833333
 lon: -91.736111111
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:27Z"
 ---
 
 # 塔卡利克·阿巴赫国家考古公园 / National Archaeological Park Tak’alik Ab’aj
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *ESTRUCTURA 12 MUSEO AL AIRE LIBRE FACHADA OESTE - TAKALIK ABAJ.png · see Wikimedia Commons file page*
 
-![National Archaeological Park Tak’alik Ab’aj](https://whc.unesco.org/uploads/sites/site_1663.jpg)
+![Abaj Takalik Stela 5.illus.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2d/Abaj_Takalik_Stela_5.illus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*National Archaeological Park Tak’alik Ab’aj · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abaj Takalik Stela 5.illus.jpg · Siyajkak · CC BY-SA 3.0*
+
+![ALTAR 12 ESTILO MAYA - TAKALIK ABAJ.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ALTAR_12_ESTILO_MAYA_-_TAKALIK_ABAJ.png/1280px-ALTAR_12_ESTILO_MAYA_-_TAKALIK_ABAJ.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ALTAR 12 ESTILO MAYA - TAKALIK ABAJ.png · Presidencia de Guatemala · Public domain*
+
+![BKB 2203.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BKB_2203.jpg/1280px-BKB_2203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BKB 2203.jpg · Gobierno de Guatemala · Public domain*
+
+![BKB 3544.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/BKB_3544.jpg/1280px-BKB_3544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BKB 3544.jpg · Gobierno de Guatemala · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ Tak'alik Ab'aj es un sitio arqueológico situado en la costa del Pacífico de Gu
 - ✈ **Retalhuleu Airport (RER)** — 14.5 km
 - ✈ **Quezaltenango Airport (AAZ)** — 35.1 km
 - ✈ **Tapachula International Airport (TAP)** — 70.1 km
+- 🚉 **Estación Tecún Umán** — 43.1 km
+- ⛴ **Muelle San Juan** — 49.1 km
+- ⛴ **Muelle del Lago Azul** — 49.8 km
+- ⛴ **Muelle San Pedro (a Panajachel)** — 50.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13276.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kasa Kiwi Hostel & Travel Agency** — 31.3 km — star — 5★
+- **Acanthus Boutique Hotel** — 31.3 km — star — 4★
+- **Hotel Los Altos** — 32.8 km — star — 2★
+- **Hotel 6** — 32.6 km — star — 1★
+- **Hotel Hibiskus** — 31.5 km — chain
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

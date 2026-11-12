@@ -1,0 +1,120 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Patilla",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 39.4849729,
+   "lon": -1.0868365,
+   "distance_km": 34.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Muralleta",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 39.5483296,
+   "lon": -0.5649525,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Emilio",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 40.0968908,
+   "lon": -1.2587355,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Apartamento Rural \"Las Cambrillas\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7061769,
+   "lon": -1.1007221,
+   "distance_km": 11.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostal Fidel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.5953181,
+   "lon": -0.9727955,
+   "distance_km": 22.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 48,
+ "stations": [
+  {
+   "name": "Utiel",
+   "name_en": null,
+   "lat": 39.570619,
+   "lon": -1.2024619,
+   "distance_km": 28.4,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Requena - Utiel",
+   "name_en": null,
+   "lat": 39.5217526,
+   "lon": -1.1347266,
+   "distance_km": 31.1,
+   "operator": "Adif"
+  },
+  {
+   "name": "Barracas",
+   "name_en": null,
+   "lat": 40.0115585,
+   "lon": -0.696416,
+   "distance_km": 37.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Mora de Rubielos",
+   "name_en": null,
+   "lat": 40.1178431,
+   "lon": -0.7734666,
+   "distance_km": 42.7,
+   "operator": "Adif"
+  },
+  {
+   "name": "Caudiel",
+   "name_en": null,
+   "lat": 39.9472816,
+   "lon": -0.572196,
+   "distance_km": 43.1,
+   "operator": "Adif"
+  },
+  {
+   "name": "Sarrión",
+   "name_en": null,
+   "lat": 40.1461535,
+   "lon": -0.823583,
+   "distance_km": 43.4,
+   "operator": "Adif"
+  },
+  {
+   "name": "Puebla de Valverde",
+   "name_en": null,
+   "lat": 40.2123934,
+   "lon": -0.9439513,
+   "distance_km": 47.6,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:35Z"
+}

@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)"
 lat: 55.667222222
 lon: 37.670833333
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:52Z"
 ---
 
 # 科罗缅斯克的耶稣升天教堂 / Church of the Ascension, Kolomenskoye

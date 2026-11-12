@@ -2,8 +2,8 @@
  "id": "wh-20",
  "unesco_id": "20",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 404,
+ "tier": "full",
+ "popularity_rank": 420,
  "popularity_score": 16011,
  "country": "SY",
  "country_zh": "叙利亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_20.jpg",
-   "title": "Ancient City of Damascus",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/20",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1.30.4_Souq.jpg/1280px-1.30.4_Souq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1.30.4 Souq.jpg",
+   "author": "Haubi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1.30.4_Souq.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/1.30.5_Souq.jpg/1280px-1.30.5_Souq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1.30.5 Souq.jpg",
+   "author": "Haubi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1.30.5_Souq.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1416_-_Dumbarton_Oaks.jpg/1280px-Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1416_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1416 - Dumbarton Oaks.jpg",
+   "author": "Frank Kidner",
+   "license": "CC BY-SA 4.0",
+   "credit": "Dumbarton Oaks",
+   "source": "https://commons.wikimedia.org/wiki/File:Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1416_-_Dumbarton_Oaks.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1423_-_Dumbarton_Oaks.jpg/1280px-Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1423_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Urban Landscape and Scenes of Everyday Life, Damascus (دمشق), Syria - Old city souq at night - PHBZ024 2016 1423 - Dumbarton Oaks.jpg",
+   "author": "Frank Kidner",
+   "license": "CC BY-SA 4.0",
+   "credit": "Dumbarton Oaks",
+   "source": "https://commons.wikimedia.org/wiki/File:Urban_Landscape_and_Scenes_of_Everyday_Life%2C_Damascus_%28%D8%AF%D9%85%D8%B4%D9%82%29%2C_Syria_-_Old_city_souq_at_night_-_PHBZ024_2016_1423_-_Dumbarton_Oaks.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/20",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 22.3,
   "distance_beijing_km": 6928.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "محطة القدم",
+    "name_en": "Qadam Station",
+    "lat": 33.4760789,
+    "lon": 36.2907213,
+    "distance_km": 4.2,
+    "operator": "Syrian Railways"
+   },
+   {
+    "name": "محطة قطار الربوة",
+    "name_en": null,
+    "lat": 33.51712,
+    "lon": 36.2601151,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "محطة الهامة",
+    "name_en": "El Hamah Station",
+    "lat": 33.5522108,
+    "lon": 36.2199284,
+    "distance_km": 9.2,
+    "operator": null
+   },
+   {
+    "name": "داريا",
+    "name_en": null,
+    "lat": 33.4541205,
+    "lon": 36.2292289,
+    "distance_km": 9.6,
+    "operator": null
+   },
+   {
+    "name": "محطة قطار جديدة الشيباني",
+    "name_en": null,
+    "lat": 33.5695049,
+    "lon": 36.194952,
+    "distance_km": 12.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق بيت المملوكة",
+   "name_en": "Beit al-Mamlouka Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5126495,
+   "lon": 36.3136866,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Semiramis Hotel",
+   "name_en": "Royal Semiramis Hotel",
+   "stars": 5,
+   "brand": "Flamingo Hospitality",
+   "lat": 33.5131973,
+   "lon": 36.2949713,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الفور سيزون",
+   "name_en": "Four Seasons Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5140324,
+   "lon": 36.2911924,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق داما روز",
+   "name_en": "Dama Rose Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5139921,
+   "lon": 36.2847398,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 33.5131629,
+   "lon": 36.2737475,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SY",
   "country_zh": "叙利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:24Z"
+ "updated_at": "2026-11-12T12:11:32Z"
 }

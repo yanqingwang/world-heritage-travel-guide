@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "972"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)(vi)"
 lat: 26.2086
 lon: 127.683
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:05Z"
 ---
 
 # 琉球王国时期的遗迹 / Gusuku Sites and Related Properties of the Kingdom of Ryukyu
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:55:32Z"
 ![Naha Shuri Castle16s5s3200.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Shuri%20Castle16s5s3200.jpg?width=1280)
 
 *Naha Shuri Castle16s5s3200.jpg · see Wikimedia Commons file page*
+
+![LocMap of WH the Kingdom of Ryukyu ja.png](https://upload.wikimedia.org/wikipedia/commons/a/a5/LocMap_of_WH_the_Kingdom_of_Ryukyu_ja.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH the Kingdom of Ryukyu ja.png · CC BY-SA 3.0*
+
+![LocMap of WH the Kingdom of Ryukyu.png](https://upload.wikimedia.org/wikipedia/commons/4/43/LocMap_of_WH_the_Kingdom_of_Ryukyu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH the Kingdom of Ryukyu.png · The original uploader was 光合成 at Chinese Wikipedia . · CC BY-SA 3.0*
 
 ![Gusuku Sites and Related Properties of the Kingdom of Ryukyu](https://whc.unesco.org/uploads/sites/site_972.jpg)
 
@@ -52,7 +60,27 @@ Five hundred years of Ryukyuan history (12th-17th century) are represented by th
 - ✈ **Naha International Airport (OKA)** — 4.7 km
 - ✈ **Aguni Airport (AGJ)** — 61.4 km
 - ✈ **Kumejima Airport (UEO)** — 98.1 km
+- 🚉 **壺川** — 0.6 km
+- 🚉 **県庁前** — 0.7 km
+- 🚉 **旭橋** — 0.8 km
+- 🚉 **美栄橋** — 1.2 km
+- 🚉 **奥武山公園** — 1.2 km
+- ⛴ **那覇港フェリーターミナル** — 1.3 km
+- ⛴ **那覇港** — 1.4 km
+- ⛴ **那覇（泊）** — 1.7 km
+- ⛴ **泊港** — 1.9 km
+- ⛴ **Naha Cruise Terminal** — 2.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1852.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **ダブルツリー・バイ・ヒルトン那覇** — 0.9 km — star — DoubleTree by Hilton Hotel Naha · 4★
+- **ダブルツリー by ヒルトンホテル那覇首里城** — 3.1 km — star — DoubleTree by Hilton Naha Shuri Castle · 4★ · Hilton
+- **DoubleTree by Hilton Okinawa Chatan Resort** — 14.0 km — star — 4★ · DoubleTree
+- **Hilton Okinawa Chatan Resort** — 14.2 km — star — 4★ · Hilton
+- **コーラルガーデンセブンプールす** — 24.0 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

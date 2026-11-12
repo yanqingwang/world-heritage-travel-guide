@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Four Seasons Hotel Lion Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 59.934905,
+   "lon": 30.3075696,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Англетер",
+   "name_en": "Angleterre",
+   "stars": 5,
+   "brand": null,
+   "lat": 59.9336765,
+   "lon": 30.3093911,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гранд Отель Европа",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 59.9358815,
+   "lon": 30.3303546,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ренессанс Балтик",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 59.9325515,
+   "lon": 30.3047197,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Mr. Pinky",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Placebo/25",
+   "lat": 59.9170432,
+   "lon": 30.2914209,
+   "distance_km": 2.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 949,
+ "stations": [
+  {
+   "name": "Санкт-Петербург-Витебский",
+   "name_en": null,
+   "lat": 59.9187911,
+   "lon": 30.3306243,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "Санкт-Петербург-Главный",
+   "name_en": "St. Petersburg Glavny",
+   "lat": 59.9273677,
+   "lon": 30.3631099,
+   "distance_km": 2.9,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Санкт-Петербург-Финляндский",
+   "name_en": "St Petersburg–Finlyandsky",
+   "lat": 59.9581823,
+   "lon": 30.3581566,
+   "distance_km": 3.2,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Санкт-Петербург-Балтийский",
+   "name_en": "Baltiysky railway station",
+   "lat": 59.905817,
+   "lon": 30.2988172,
+   "distance_km": 3.8,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Глухоозёрская",
+   "name_en": null,
+   "lat": 59.9090382,
+   "lon": 30.3874886,
+   "distance_km": 5.2,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Новый порт",
+   "name_en": null,
+   "lat": 59.9093033,
+   "lon": 30.2374901,
+   "distance_km": 5.5,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Волковская",
+   "name_en": null,
+   "lat": 59.8954651,
+   "lon": 30.3612033,
+   "distance_km": 5.5,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Цветочная",
+   "name_en": null,
+   "lat": 59.8872249,
+   "lon": 30.333871,
+   "distance_km": 5.8,
+   "operator": "ОАО «РЖД»"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Эрмитаж",
+   "name_en": null,
+   "lat": 59.9414451,
+   "lon": 30.3122928,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Дворцовая пристань",
+   "name_en": null,
+   "lat": 59.9420846,
+   "lon": 30.3140442,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Спуск со львами",
+   "name_en": null,
+   "lat": 59.9397988,
+   "lon": 30.3082343,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Зимняя канавка",
+   "name_en": null,
+   "lat": 59.9431848,
+   "lon": 30.3178759,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Мойка 23",
+   "name_en": null,
+   "lat": 59.9418766,
+   "lon": 30.3217209,
+   "distance_km": 0.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:12Z"
+}

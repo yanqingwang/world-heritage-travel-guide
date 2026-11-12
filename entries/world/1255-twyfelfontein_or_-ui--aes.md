@@ -8,13 +8,13 @@ country: "NA"
 country_zh: "纳米比亚"
 country_en: "Namibia"
 unesco_id: "1255"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(iii)(v)"
 lat: -20.595583333
 lon: 14.372583333
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:13Z"
 ---
 
 # 推菲尔泉岩画 / Twyfelfontein or /Ui-//aes
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:34Z"
 
 *Rock Paintig Twyfelfontein Namibia.jpg · see Wikimedia Commons file page*
 
-![Twyfelfontein or /Ui-//aes](https://whc.unesco.org/uploads/sites/site_1255.jpg)
+![Kunene Region, Namibia - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunene_Region%2C_Namibia_-_panoramio_%281%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Twyfelfontein or /Ui-//aes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Kunene Region, Namibia - panoramio (1).jpg · mroszewski · CC BY-SA 3.0*
+
+![Kunene Region, Namibia - panoramio (11).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kunene_Region%2C_Namibia_-_panoramio_%2811%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kunene Region, Namibia - panoramio (11).jpg · mroszewski · CC BY-SA 3.0*
+
+![Kunene Region, Namibia - panoramio (12).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Kunene_Region%2C_Namibia_-_panoramio_%2812%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kunene Region, Namibia - panoramio (12).jpg · mroszewski · CC BY-SA 3.0*
+
+![Kunene Region, Namibia - panoramio (9).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kunene_Region%2C_Namibia_-_panoramio_%289%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kunene Region, Namibia - panoramio (9).jpg · mroszewski · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ Twyfelfontein or /Ui-//aes has one of the largest concentrations of [...] petrog
 - ✈ **Halali Airport (HAL)** — 279.2 km
 - ✈ **Ondangwa Airport (OND)** — 344.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12609.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Twyfelfontein Country Lodge** — 2.7 km — hotel
+- **Twyfelfontein Adventure Camp** — 7.9 km — hotel
+- **Mowani Mountain Camp** — 11.4 km — hotel
+- **Doro Nawas** — 17.8 km — hotel
+- **Malansrus Tented Camp** — 18.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

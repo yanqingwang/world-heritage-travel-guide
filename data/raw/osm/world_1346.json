@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "هتل بین المللی شهریار",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.050148,
+   "lon": 46.3488854,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل لاله پارک",
+   "name_en": "Laleh Park Hotel",
+   "stars": 5,
+   "brand": "kaya hotels",
+   "lat": 38.0720852,
+   "lon": 46.369322,
+   "distance_km": 6.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارس ائل گؤلی",
+   "name_en": "Pars El-Goli Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 38.0205878,
+   "lon": 46.3679173,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پتروشیمی تبریز",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.0629757,
+   "lon": 46.3385284,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل آیدا",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 38.0707082,
+   "lon": 46.311059,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 60,
+ "stations": [
+  {
+   "name": "تبریز",
+   "name_en": "Tabriz",
+   "lat": 38.0718589,
+   "lon": 46.2281879,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه راه آهن خاوران",
+   "name_en": "Khavaran",
+   "lat": 38.0040211,
+   "lon": 46.4138849,
+   "distance_km": 13.6,
+   "operator": null
+  },
+  {
+   "name": "عباسی",
+   "name_en": "Abbasi",
+   "lat": 38.01128,
+   "lon": 46.0835219,
+   "distance_km": 19.8,
+   "operator": null
+  },
+  {
+   "name": "سهلان",
+   "name_en": "Sahlan",
+   "lat": 38.1973266,
+   "lon": 46.097973,
+   "distance_km": 21.4,
+   "operator": null
+  },
+  {
+   "name": "صوفیان",
+   "name_en": "Sufian",
+   "lat": 38.2730164,
+   "lon": 46.0026595,
+   "distance_km": 33.1,
+   "operator": null
+  },
+  {
+   "name": "زارعی خاصبان",
+   "name_en": "Zareei",
+   "lat": 37.9058751,
+   "lon": 45.9407535,
+   "distance_km": 36.4,
+   "operator": null
+  },
+  {
+   "name": "ایمناب",
+   "name_en": "Enab",
+   "lat": 37.9119574,
+   "lon": 46.6809487,
+   "distance_km": 38.9,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه قطار اختصاصی دانشگاه",
+   "name_en": "Azerbaijan University",
+   "lat": 37.8125642,
+   "lon": 45.9363283,
+   "distance_km": 43.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:16Z"
+}

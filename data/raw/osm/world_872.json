@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Cour des Loges",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 45.7632815,
+   "lon": 4.8273992,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Florentine",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7629609,
+   "lon": 4.8258206,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Maïa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7593058,
+   "lon": 4.823205,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Lyon Bellecour",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 45.7544834,
+   "lon": 4.8341639,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Académie Hôtel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Académie Hôtel",
+   "lat": 45.7652661,
+   "lon": 4.827835,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 396,
+ "stations": [
+  {
+   "name": "Lyon-Saint-Paul",
+   "name_en": null,
+   "lat": 45.7661226,
+   "lon": 4.8266713,
+   "distance_km": 0.4,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Fourvière",
+   "name_en": null,
+   "lat": 45.762381,
+   "lon": 4.8214507,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Minimes - Théâtres romains",
+   "name_en": null,
+   "lat": 45.7586387,
+   "lon": 4.8213322,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Saint-Just",
+   "name_en": null,
+   "lat": 45.7571457,
+   "lon": 4.8162851,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Lyon Perrache",
+   "name_en": null,
+   "lat": 45.7483223,
+   "lon": 4.8253267,
+   "distance_km": 1.7,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Lyon Jean Macé",
+   "name_en": null,
+   "lat": 45.7449628,
+   "lon": 4.841834,
+   "distance_km": 2.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Lyon Part-Dieu",
+   "name_en": null,
+   "lat": 45.7605725,
+   "lon": 4.8601628,
+   "distance_km": 2.5,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Lyon Vaise",
+   "name_en": null,
+   "lat": 45.7802777,
+   "lon": 4.8035346,
+   "distance_km": 2.7,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Terrasses Presquîle",
+   "name_en": null,
+   "lat": 45.7620143,
+   "lon": 4.8311362,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Bellecour",
+   "name_en": null,
+   "lat": 45.7599243,
+   "lon": 4.8298853,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Saint-Paul - Hôtel de Ville",
+   "name_en": null,
+   "lat": 45.766636,
+   "lon": 4.8284734,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Saint-Vincent",
+   "name_en": null,
+   "lat": 45.7682408,
+   "lon": 4.8246571,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Vaise",
+   "name_en": null,
+   "lat": 45.7736641,
+   "lon": 4.8099585,
+   "distance_km": 1.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:43Z"
+}

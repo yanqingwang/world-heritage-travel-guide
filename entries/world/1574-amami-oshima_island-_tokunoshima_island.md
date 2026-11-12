@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(x)"
 lat: 28.279166666
 lon: 129.378333333
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:24Z"
 ---
 
 # 奄美大岛、德之岛、冲绳岛北部及西表岛 / Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island

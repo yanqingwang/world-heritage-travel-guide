@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Savoy",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7717214,
+   "lon": 11.2545542,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Helvetia & Bristol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7717275,
+   "lon": 11.2522361,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Tower",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7706328,
+   "lon": 11.252031,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tivoli Palazzo Gaddi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 43.774188,
+   "lon": 11.2515486,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bernini",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7693614,
+   "lon": 11.2575861,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 778,
+ "stations": [
+  {
+   "name": "Firenze Santa Maria Novella",
+   "name_en": "Firenze Santa Maria Novella",
+   "lat": 43.7775719,
+   "lon": 11.2474177,
+   "distance_km": 0.9,
+   "operator": "Rete Ferroviaria Italiana;Grandi Stazioni"
+  },
+  {
+   "name": "Firenze Statuto",
+   "name_en": null,
+   "lat": 43.7873323,
+   "lon": 11.2499596,
+   "distance_km": 1.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Campo di Marte",
+   "name_en": null,
+   "lat": 43.7775989,
+   "lon": 11.2766652,
+   "distance_km": 1.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze San Marco Vecchio",
+   "name_en": null,
+   "lat": 43.790718,
+   "lon": 11.2676516,
+   "distance_km": 2.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Rifredi",
+   "name_en": null,
+   "lat": 43.8000848,
+   "lon": 11.2361813,
+   "distance_km": 3.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Rovezzano",
+   "name_en": null,
+   "lat": 43.7688762,
+   "lon": 11.3088448,
+   "distance_km": 4.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Castello",
+   "name_en": null,
+   "lat": 43.8198547,
+   "lon": 11.2187241,
+   "distance_km": 6.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Zambra",
+   "name_en": null,
+   "lat": 43.8257998,
+   "lon": 11.2059378,
+   "distance_km": 7.1,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Molo di Bandella",
+   "name_en": null,
+   "lat": 43.5104232,
+   "lon": 11.6572264,
+   "distance_km": 43.5,
+   "operator": null
+  },
+  {
+   "name": "Comignolo",
+   "name_en": null,
+   "lat": 43.8489275,
+   "lon": 11.8398884,
+   "distance_km": 47.6,
+   "operator": null
+  },
+  {
+   "name": "Ca' di Sopra",
+   "name_en": null,
+   "lat": 43.8603721,
+   "lon": 11.8394674,
+   "distance_km": 47.8,
+   "operator": null
+  },
+  {
+   "name": "Vergherete",
+   "name_en": null,
+   "lat": 43.873325,
+   "lon": 11.8352099,
+   "distance_km": 47.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:37Z"
+}

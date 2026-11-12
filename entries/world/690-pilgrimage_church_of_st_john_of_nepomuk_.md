@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iv)"
 lat: 49.58
 lon: 15.94194
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:53Z"
 ---
 
 # 泽莱纳山的内波穆克圣约翰朝圣教堂 / Pilgrimage Church of St John of Nepomuk at Zelená Hora

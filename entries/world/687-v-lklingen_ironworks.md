@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "687"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(ii)(iv)"
 lat: 49.25056
 lon: 6.84528
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:53Z"
 ---
 
 # 弗尔克林根钢铁厂 / Völklingen Ironworks
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:29Z"
 
 *Aerial image of the Völklingen Ironworks (view from the south).jpg · see Wikimedia Commons file page*
 
-![Völklingen Ironworks](https://whc.unesco.org/uploads/sites/site_687.jpg)
+![2024-10-04-Völklinger Hütte-0010.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-0010.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-0010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Völklingen Ironworks · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2024-10-04-Völklinger Hütte-0010.jpg · Superbass · CC BY-SA 4.0*
+
+![2024-10-04-Völklinger Hütte-DJI 20241004142056 0003 D.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142056_0003_D.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142056_0003_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2024-10-04-Völklinger Hütte-DJI 20241004142056 0003 D.jpg · Superbass · CC BY-SA 4.0*
+
+![2024-10-04-Völklinger Hütte-DJI 20241004142128 0006 D.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142128_0006_D.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142128_0006_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2024-10-04-Völklinger Hütte-DJI 20241004142128 0006 D.jpg · Superbass · CC BY-SA 4.0*
+
+![20240514 Völklingen Ironworks 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20240514_V%C3%B6lklingen_Ironworks_02.jpg/1280px-20240514_V%C3%B6lklingen_Ironworks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20240514 Völklingen Ironworks 02.jpg · Flocci Nivis · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Die Völklinger Hütte ist ein 1873 gegründetes ehemaliges Eisenwerk in der saa
 - ✈ **Saarbrücken Airport (SCN)** — 19.6 km
 - ✈ **Metz-Nancy-Lorraine Airport (ETZ)** — 52.5 km
 - ✈ **Luxembourg-Findel International Airport (LUX)** — 62.0 km
+- 🚉 **Völklingen** — 0.3 km
+- 🚉 **Luisenthal (Saar)** — 4.3 km
+- 🚉 **Bous (Saar)** — 4.8 km
+- 🚉 **Saarbrücken-Burbach Mitte** — 7.3 km
+- 🚉 **Ensdorf (Saar)** — 7.7 km
+- ⛴ **Saarhafen Saarlouis/Dillingen** — 13.2 km
+- ⛴ **Port de plaisance de Sarreguemines** — 22.6 km
+- ⛴ **Port de Sarreguemines-Steinbach** — 23.7 km
+- ⛴ **Fahrgastanlegestelle Besseringen** — 31.1 km
+- ⛴ **Maria Croon** — 32.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7926.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Le domaine de la Klauss** — 38.8 km — star — 5★
+- **Parkhotel** — 1.5 km — star — 4★
+- **Mercure SB City** — 10.5 km — star — 4★ · Mercure
+- **Hotel Am Triller** — 10.9 km — star — 4★
+- **Best Western Victor's Residenz-Hotel Rodenhof** — 11.1 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

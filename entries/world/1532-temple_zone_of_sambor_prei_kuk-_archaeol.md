@@ -8,13 +8,13 @@ country: "KH"
 country_zh: "柬埔寨"
 country_en: "Cambodia"
 unesco_id: "1532"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(iii)(vi)"
 lat: 12.867283
 lon: 105.040025
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:22Z"
 ---
 
 # 三博波雷古寺 / Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *600 CE Ashram Maha Rishi Hindu temple, N17 Kuk Vihear Prasat Asram Maha Rusei, Sambour Kuk Cambodia 01.jpg · see Wikimedia Commons file page*
 
-![Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura](https://whc.unesco.org/uploads/sites/site_1532.jpg)
+![01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_2.jpg/1280px-01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 2.jpg · Ms Sarah Welch · CC0*
+
+![01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_3.jpg/1280px-01222025_Sambour%2C_Prasat_Srang_Preah_Praying_Rain%2C_Hindu_temple_Central_Cambodia_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01222025 Sambour, Prasat Srang Preah Praying Rain, Hindu temple Central Cambodia - 3.jpg · Ms Sarah Welch · CC0*
+
+![01222025 Sambour, Prasat Sreng Treach, Preah Praying Rain, 600 CE Hindu temple Central Cambodia - 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/01222025_Sambour%2C_Prasat_Sreng_Treach%2C_Preah_Praying_Rain%2C_600_CE_Hindu_temple_Central_Cambodia_-_1.jpg/1280px-01222025_Sambour%2C_Prasat_Sreng_Treach%2C_Preah_Praying_Rain%2C_600_CE_Hindu_temple_Central_Cambodia_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01222025 Sambour, Prasat Sreng Treach, Preah Praying Rain, 600 CE Hindu temple Central Cambodia - 1.jpg · Ms Sarah Welch · CC0*
+
+![600 CE Ashram Maha Rishi Hindu temple, N17 Kuk Vihear Prasat Asram Maha Rusei, Sambour Kuk Cambodia 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/600_CE_Ashram_Maha_Rishi_Hindu_temple%2C_N17_Kuk_Vihear_Prasat_Asram_Maha_Rusei%2C_Sambour_Kuk_Cambodia_01.jpg/1280px-600_CE_Ashram_Maha_Rishi_Hindu_temple%2C_N17_Kuk_Vihear_Prasat_Asram_Maha_Rusei%2C_Sambour_Kuk_Cambodia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*600 CE Ashram Maha Rishi Hindu temple, N17 Kuk Vihear Prasat Asram Maha Rusei, Sambour Kuk Cambodia 01.jpg · Ms Sarah Welch · CC0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The archaeological site of Sambor Prei Kuk, “the temple in the richness of the
 - ✈ **Techo International Airport (KTI)** — 168.1 km
 - ✈ **Battambang Airport (BBM)** — 198.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3206.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Homestay 5** — 1.2 km — hotel — Homestay 5
+- **Sambor Village** — 23.4 km — hotel
+- **Mittapheap Hotel** — 23.6 km — hotel
+- **Sambo Prey Kuk Hotel** — 23.6 km — hotel
+- **Stung Sen** — 23.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

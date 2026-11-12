@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Electra Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6331789,
+   "lon": 22.9411462,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bristol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6344457,
+   "lon": 22.9374407,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Thessaloniki",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Holiday Inn",
+   "lat": 40.6417173,
+   "lon": 22.9337941,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Μακεδονία Παλλάς",
+   "name_en": "Makedonia Palace",
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6183726,
+   "lon": 22.9523897,
+   "distance_km": 2.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lazart Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6586575,
+   "lon": 22.9318221,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 176,
+ "stations": [
+  {
+   "name": "Θεσσαλονίκη",
+   "name_en": "Thessaloniki",
+   "lat": 40.6451119,
+   "lon": 22.9291851,
+   "distance_km": 1.7,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Λαχανόκηποι",
+   "name_en": "Lachanokipi Railway Station",
+   "lat": 40.7059806,
+   "lon": 22.8373737,
+   "distance_km": 12.0,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Σίνδος",
+   "name_en": null,
+   "lat": 40.674065,
+   "lon": 22.8053363,
+   "distance_km": 12.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Αγχίαλος Μακεδονίας",
+   "name_en": "Anchialos of Macedonia Railway Station",
+   "lat": 40.6975934,
+   "lon": 22.7979425,
+   "distance_km": 14.2,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Νέα Φιλαδέλφεια Τούμπας",
+   "name_en": "Nea Philadelphia Toumbas",
+   "lat": 40.7964257,
+   "lon": 22.8487786,
+   "distance_km": 19.4,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Γέφυρα",
+   "name_en": "Gefyra Railway Station",
+   "lat": 40.7274281,
+   "lon": 22.6929857,
+   "distance_km": 23.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Γαλλικός",
+   "name_en": "Gallikos Railway Station",
+   "lat": 40.8591026,
+   "lon": 22.8847041,
+   "distance_km": 25.1,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Άδενδρο",
+   "name_en": null,
+   "lat": 40.6744281,
+   "lon": 22.6027357,
+   "distance_km": 29.4,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Θεσσαλονίκη",
+   "name_en": "Thessaloniki",
+   "lat": 40.6352174,
+   "lon": 22.9327947,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "Καραβάκια Θεσσαλονίκη",
+   "name_en": "Karavakia - Thessaloniki Waterbus. Thessaloniki Port Stop",
+   "lat": 40.6316272,
+   "lon": 22.9344557,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Καραβάκια Θεσσαλονίκη - Στάση Περαία",
+   "name_en": "Karavakia - Thessaloniki Waterbus. Pereia Stop.",
+   "lat": 40.5109287,
+   "lon": 22.9243281,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "Καραβάκια Θεσσαλονίκη - Στάση Νέοι Επιβάτες",
+   "name_en": "Karavakia - Thessaloniki Waterbus. Nei Epivates Stop",
+   "lat": 40.5066678,
+   "lon": 22.9066489,
+   "distance_km": 15.1,
+   "operator": null
+  },
+  {
+   "name": "Επανομή",
+   "name_en": "Epanomi",
+   "lat": 40.4072258,
+   "lon": 22.8947639,
+   "distance_km": 26.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:02Z"
+}

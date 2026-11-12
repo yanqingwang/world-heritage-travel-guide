@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel Kama'Aka",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 9.6685427,
+   "lon": 1.1381341,
+   "distance_km": 48.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tata Touristique Koubetti",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1811453,
+   "lon": 1.1045683,
+   "distance_km": 9.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tata",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1809385,
+   "lon": 1.1074763,
+   "distance_km": 10.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.9599451,
+   "lon": 1.0415943,
+   "distance_km": 15.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Otammari Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1871081,
+   "lon": 1.2021067,
+   "distance_km": 17.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 32,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:10Z"
+}

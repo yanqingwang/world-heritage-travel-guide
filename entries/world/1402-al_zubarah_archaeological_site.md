@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(iv)(v)"
 lat: 25.9833949
 lon: 51.0272187
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:17Z"
 ---
 
 # 祖巴拉 / Al Zubarah Archaeological Site
@@ -27,21 +27,21 @@ updated_at: "2026-11-12T11:55:35Z"
 
 *Ruins in Zubarah on a cloudy day.jpg · see Wikimedia Commons file page*
 
-![2 - Al Zubarah archaeological fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2_-_Al_Zubarah_archaeological_fort.jpg/1280px-2_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Copper coin found in Zubarah on display near Zubarah Fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Copper_coin_found_in_Zubarah_on_display_near_Zubarah_Fort.jpg/1280px-Copper_coin_found_in_Zubarah_on_display_near_Zubarah_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*2 - Al Zubarah archaeological fort.jpg · Mr fahad.k · CC BY-SA 4.0*
+*Copper coin found in Zubarah on display near Zubarah Fort.jpg · Alex Sergeev (www.asergeev.com) · CC BY-SA 3.0*
 
-![4 - Al Zubarah archaeological fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/4_-_Al_Zubarah_archaeological_fort.jpg/1280px-4_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Desertedtownzubarah.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Desertedtownzubarah.jpg/1280px-Desertedtownzubarah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*4 - Al Zubarah archaeological fort.jpg · Mr fahad.k · CC BY-SA 4.0*
+*Desertedtownzubarah.jpg · Colleen Morgan · CC BY 2.0*
 
-![Qatar, Zubarah (10), ruined city.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG/1280px-Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Excavations at the archaeological site of Zubarah in 2010.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ad/Excavations_at_the_archaeological_site_of_Zubarah_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Qatar, Zubarah (10), ruined city.JPG · Vincent van Zeijst · CC BY-SA 3.0*
+*Excavations at the archaeological site of Zubarah in 2010.jpg · Alex Sergeev (www.asergeev.com) · CC BY-SA 3.0*
 
-![Al Zubarah Archaeological Site](https://whc.unesco.org/uploads/sites/site_1402.jpg)
+![Headstones at Zubarah Cemetary in northern Qatar.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Headstones_at_Zubarah_Cemetary_in_northern_Qatar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Al Zubarah Archaeological Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Headstones at Zubarah Cemetary in northern Qatar.jpg · Alex Sergeev (www.asergeev.com) · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

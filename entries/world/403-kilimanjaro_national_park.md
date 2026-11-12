@@ -8,13 +8,13 @@ country: "TZ"
 country_zh: "坦桑尼亚"
 country_en: "Tanzania"
 unesco_id: "403"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(vii)"
 lat: -3.066666666
 lon: 37.366666666
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:45Z"
 ---
 
 # 乞力马扎罗国家公园 / Kilimanjaro National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Entrance to Kilimanjaro National Park.JPG · see Wikimedia Commons file page*
 
-![Kilimanjaro National Park](https://whc.unesco.org/uploads/sites/site_403.jpg)
+![Climbers Barranco Wall Kilimanjaro Tanzania.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Climbers_Barranco_Wall_Kilimanjaro_Tanzania.jpg/1280px-Climbers_Barranco_Wall_Kilimanjaro_Tanzania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kilimanjaro National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Climbers Barranco Wall Kilimanjaro Tanzania.jpg · Altezzatravel · CC BY-SA 4.0*
+
+![Commemorating plaque for Ian McKeever on Mount Kilimanjaro.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Commemorating_plaque_for_Ian_McKeever_on_Mount_Kilimanjaro.jpg/1280px-Commemorating_plaque_for_Ian_McKeever_on_Mount_Kilimanjaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Commemorating plaque for Ian McKeever on Mount Kilimanjaro.jpg · Frederik Beuk · CC BY-SA 4.0*
+
+![Entrance to Kilimanjaro National Park.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Entrance_to_Kilimanjaro_National_Park.JPG/1280px-Entrance_to_Kilimanjaro_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrance to Kilimanjaro National Park.JPG · CC BY-SA 3.0*
+
+![Giant Groundsels michael peter.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Giant_Groundsels_michael_peter.jpg/1280px-Giant_Groundsels_michael_peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Giant Groundsels michael peter.jpg · Michael Mwakalundwa · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ Hifadhi ya Mlima Kilimanjaro ni hifadhi ya taifa inayopatikananchini Tanzania, l
 - ✈ **Amboseli Airport (ASV)** — 48.6 km
 - ✈ **Kilimanjaro International Airport (JRO)** — 51.6 km
 - ✈ **Arusha Airport (ARK)** — 88.0 km
+- 🚉 **Moshi** — 31.7 km
+- 🚉 **Kikuletwa** — 44.3 km
+- 🚉 **Kahe** — 48.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9293.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Ndarakwai Camp** — 40.9 km — star — 4★
+- **Kibo Slopes Cottages** — 22.6 km — hotel
+- **Rombo executive hotel** — 23.2 km — hotel
+- **New Tarakea guesthouse** — 23.2 km — hotel
+- **Kilemakyaro Lodge** — 24.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

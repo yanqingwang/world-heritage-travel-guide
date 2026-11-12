@@ -8,13 +8,13 @@ country: "OM"
 country_zh: "阿曼"
 country_en: "Oman"
 unesco_id: "433"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(iv)"
 lat: 22.9644
 lon: 57.3007
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:46Z"
 ---
 
 # 巴赫莱要塞 / Bahla Fort
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Bahla Fort.jpg · see Wikimedia Commons file page*
 
-![Bahla Fort](https://whc.unesco.org/uploads/sites/site_433.jpg)
+![Another Courtyard (225446783).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Another_Courtyard_%28225446783%29.jpeg/1280px-Another_Courtyard_%28225446783%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bahla Fort · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Another Courtyard (225446783).jpeg · Francisco Anzola · CC BY 3.0*
+
+![Bahla Fort (225446829).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahla_Fort_%28225446829%29.jpeg/1280px-Bahla_Fort_%28225446829%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahla Fort (225446829).jpeg · Francisco Anzola · CC BY 3.0*
+
+![Bahla Fort - Oman.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bahla_Fort_-_Oman.jpg/1280px-Bahla_Fort_-_Oman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahla Fort - Oman.jpg · Fabio Achilli from Milano, Italy · CC BY 2.0*
+
+![Bahla Fort - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahla_Fort_-_panoramio_%281%29.jpg/1280px-Bahla_Fort_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahla Fort - panoramio (1).jpg · Gonzo Gooner · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The oasis of Bahla owes its prosperity to the Banu Nebhan, the dominant tribe in
 - ✈ **Suhar International Airport (OHS)** — 172.4 km
 - ✈ **Al Ain International Airport (AAN)** — 224.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5696.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Alila Jabal Akhdar** — 31.1 km — star — 5★ · Alila
+- **Anantara Al Jabal Al Akhdar Resort** — 39.5 km — star — 5★
+- **جولدن توليب** — 32.9 km — star — Golden Tulip Nizwa · 4★ · Golden Tulip
+- **Sahab Hotel** — 39.5 km — star — 4★
+- **Falaj Daris** — 24.8 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

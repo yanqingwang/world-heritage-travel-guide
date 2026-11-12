@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)"
 lat: 50.7617
 lon: -111.485
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:34Z"
 ---
 
 # 艾伯塔省恐龙公园 / Dinosaur Provincial Park

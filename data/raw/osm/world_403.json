@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Ndarakwai Camp",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.0153903,
+   "lon": 37.0016016,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kibo Slopes Cottages",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.921608,
+   "lon": 37.5086606,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rombo executive hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.0015976,
+   "lon": 37.5651595,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Tarakea guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.001901,
+   "lon": 37.5652377,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kilemakyaro Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.2813171,
+   "lon": 37.3330622,
+   "distance_km": 24.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 79,
+ "stations": [
+  {
+   "name": "Moshi",
+   "name_en": null,
+   "lat": -3.351198,
+   "lon": 37.3460001,
+   "distance_km": 31.7,
+   "operator": "Tanzania Railways Corporation"
+  },
+  {
+   "name": "Kikuletwa",
+   "name_en": null,
+   "lat": -3.3788479,
+   "lon": 37.1184917,
+   "distance_km": 44.3,
+   "operator": "Tanzania Railways Corporation"
+  },
+  {
+   "name": "Kahe",
+   "name_en": null,
+   "lat": -3.494514,
+   "lon": 37.4361661,
+   "distance_km": 48.2,
+   "operator": "Tanzania Railways Corporation"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:59Z"
+}

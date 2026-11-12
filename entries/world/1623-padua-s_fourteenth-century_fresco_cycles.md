@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)"
 lat: 45.411888888
 lon: 11.879611111
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:25Z"
 ---
 
 # 绘画之都帕多瓦，乔托的斯克洛维尼礼拜堂及帕多瓦14世纪壁画群 / Padua’s fourteenth-century fresco cycles

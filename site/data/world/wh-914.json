@@ -2,8 +2,8 @@
  "id": "wh-914",
  "unesco_id": "914",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 434,
+ "tier": "full",
+ "popularity_rank": 450,
  "popularity_score": 13631,
  "country": "MZ",
  "country_zh": "莫桑比克",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_914.jpg",
-   "title": "iSimangaliso Wetland Park – Maputo National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/914",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ayamda_Khoza_at_work.jpg/1280px-Ayamda_Khoza_at_work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ayamda Khoza at work.jpg",
+   "author": "Dwergenpaartje",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ayamda_Khoza_at_work.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Buffalo_sand_sculpture.jpg/1280px-Buffalo_sand_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buffalo sand sculpture.jpg",
+   "author": "Dwergenpaartje",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buffalo_sand_sculpture.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Coastal_dune_forest_and_grassland%2C_Eastern_Shores%2C_iSimangaliso_Wetland_Park.jpg/1280px-Coastal_dune_forest_and_grassland%2C_Eastern_Shores%2C_iSimangaliso_Wetland_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Coastal dune forest and grassland, Eastern Shores, iSimangaliso Wetland Park.jpg",
+   "author": "Bernard DUPONT",
+   "license": "CC BY-SA 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:Coastal_dune_forest_and_grassland%2C_Eastern_Shores%2C_iSimangaliso_Wetland_Park.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Greater_St._Lucia_Wetland_Park%2CSouth_Africa.jpg/1280px-Greater_St._Lucia_Wetland_Park%2CSouth_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Greater St. Lucia Wetland Park,South Africa.jpg",
+   "author": "Christian Wörtz ( woertz )",
+   "license": "CC BY-SA 2.5",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Greater_St._Lucia_Wetland_Park%2CSouth_Africa.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/914",
@@ -106,10 +130,92 @@
   ],
   "nearest_airport_km": 61.1,
   "distance_beijing_km": 11512.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Siyabonga Jetty",
+    "name_en": null,
+    "lat": -28.36936,
+    "lon": 32.4099617,
+    "distance_km": 42.0,
+    "operator": null
+   },
+   {
+    "name": "Estuary Boat Cruise",
+    "name_en": null,
+    "lat": -28.3793373,
+    "lon": 32.4078346,
+    "distance_km": 43.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Hluhluwe",
+    "name_en": null,
+    "lat": -28.0240576,
+    "lon": 32.2798356,
+    "distance_km": 21.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Leopard Tree Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3752419,
+   "lon": 32.4200271,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maputaland Guest House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3750542,
+   "lon": 32.4183304,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Leopard Corner Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3772402,
+   "lon": 32.4185861,
+   "distance_km": 42.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Elephant Lake Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -28.3736103,
+   "lon": 32.4114508,
+   "distance_km": 42.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fazala Game Park and Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.9953733,
+   "lon": 32.3438717,
+   "distance_km": 15.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MZ",
   "country_zh": "莫桑比克",
@@ -189,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:02Z"
 }

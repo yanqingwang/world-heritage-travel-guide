@@ -2,8 +2,8 @@
  "id": "wh-1362",
  "unesco_id": "1362",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 401,
+ "tier": "full",
+ "popularity_rank": 417,
  "popularity_score": 16203,
  "country": "JP",
  "country_zh": "日本",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1362.jpg",
-   "title": "Ogasawara Islands",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1362",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/37_30_N._in_East_Asia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "37 30 N. in East Asia.png",
+   "author": "LlywelynII",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:37_30_N._in_East_Asia.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HPD0084-20020310-105552.3670-SHHD-Front-1920x1080_HDCAM-1o4--NoImpose-Santjordia_pagesi-Dhugal_Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm/1280px--thumbnail.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "HPD0084-20020310-105552.3670-SHHD-Front-1920x1080 HDCAM-1o4--NoImpose-Santjordia pagesi-Dhugal Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm",
+   "author": "Lindsay, D. J. (2023)",
+   "license": "CC BY 4.0",
+   "credit": "Lindsay, D. J. (2023). In situ ROV video of Santjordia pagesi second individual. Zenodo. doi : 10.5281/zenodo.6480798",
+   "source": "https://commons.wikimedia.org/wiki/File:HPD0084-20020310-105552.3670-SHHD-Front-1920x1080_HDCAM-1o4--NoImpose-Santjordia_pagesi-Dhugal_Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/In_situ_video_of_Santjordia_pagesi_holotype_specimen_HD84GS1_%28DLSI063%29_as_recorded_by_remotely_operated_underwater_vehicle_Hyper-Dolphin.webm/1280px--In_situ_video_of_Santjordia_pagesi_holotype_specimen_HD84GS1_%28DLSI063%29_as_recorded_by_remotely_operated_underwater_vehicle_Hyper-Dolphin.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "In situ video of Santjordia pagesi holotype specimen HD84GS1 (DLSI063) as recorded by remotely operated underwater vehicle Hyper-Dolphin.webm",
+   "author": "Lindsay, D. J. (2023)",
+   "license": "CC BY 4.0",
+   "credit": "Lindsay, D. J. (2023). In situ ROV video of Santjordia pagesi holotype specimen HD84GS1 (DLSI063). Zenodo. doi:10.5281/zenodo.6426355",
+   "source": "https://commons.wikimedia.org/wiki/File:In_situ_video_of_Santjordia_pagesi_holotype_specimen_HD84GS1_%28DLSI063%29_as_recorded_by_remotely_operated_underwater_vehicle_Hyper-Dolphin.webm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Japan_Ogasawara_Parliament_2023.svg/1280px-Japan_Ogasawara_Parliament_2023.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Japan Ogasawara Parliament 2023.svg",
+   "author": "User:基準点なアセスメント",
+   "license": "Public domain",
+   "credit": "Parliament diagram tool",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan_Ogasawara_Parliament_2023.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1362",
@@ -92,7 +116,48 @@
   ],
   "nearest_airport_km": 717.4,
   "distance_beijing_km": 2203.3,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "父島",
+    "name_en": null,
+    "lat": 27.0951549,
+    "lon": 142.197032,
+    "distance_km": 11.0,
+    "operator": null
+   },
+   {
+    "name": "二見漁港",
+    "name_en": null,
+    "lat": 27.0969013,
+    "lon": 142.200644,
+    "distance_km": 11.3,
+    "operator": null
+   },
+   {
+    "name": "母島漁港",
+    "name_en": null,
+    "lat": 26.6930281,
+    "lon": 142.147432,
+    "distance_km": 34.2,
+    "operator": null
+   },
+   {
+    "name": "母島",
+    "name_en": null,
+    "lat": 26.6386837,
+    "lon": 142.1598606,
+    "distance_km": 40.2,
+    "operator": null
+   },
+   {
+    "name": "沖港",
+    "name_en": null,
+    "lat": 26.636209,
+    "lon": 142.1593238,
+    "distance_km": 40.5,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
  "hotels": [],
@@ -166,5 +231,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:35Z"
+ "updated_at": "2026-11-12T12:12:16Z"
 }

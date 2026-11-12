@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 36.869758
 lon: 10.341014
-updated_at: "2026-11-12T11:55:39Z"
+updated_at: "2026-11-12T12:12:33Z"
 ---
 
 # 西迪布赛义德村 / Village of Sidi Bou Saïd

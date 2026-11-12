@@ -2,8 +2,8 @@
  "id": "wh-1675",
  "unesco_id": "1675",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 440,
+ "tier": "full",
+ "popularity_rank": 456,
  "popularity_score": 13378,
  "country": "TJ",
  "country_zh": "塔吉克斯坦",
@@ -63,12 +63,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1675.jpg",
-   "title": "Silk Roads: Zarafshan-Karakum Corridor",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1675",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Akja_Gala_Caravanserai_-_general_view.jpg/1280px-Akja_Gala_Caravanserai_-_general_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akja Gala Caravanserai - general view.jpg",
+   "author": "A. T. Orazow",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://whc.unesco.org/en/documents/200156",
+   "source": "https://commons.wikimedia.org/wiki/File:Akja_Gala_Caravanserai_-_general_view.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gyzylja_Gala_-_Caravanserai_general_view_to_the_site.jpg/1280px-Gyzylja_Gala_-_Caravanserai_general_view_to_the_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gyzylja Gala - Caravanserai general view to the site.jpg",
+   "author": "A. T. Orazow",
+   "license": "CC BY-SA 3.0",
+   "credit": "whc.unesco.org/en/documents/200158",
+   "source": "https://commons.wikimedia.org/wiki/File:Gyzylja_Gala_-_Caravanserai_general_view_to_the_site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Khisorak_settlement_Aerial_view.jpg/1280px-Khisorak_settlement_Aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Khisorak settlement Aerial view.jpg",
+   "author": "IICAS",
+   "license": "CC BY-SA 3.0",
+   "credit": "whc.unesco.org/en/documents/200406",
+   "source": "https://commons.wikimedia.org/wiki/File:Khisorak_settlement_Aerial_view.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kum_settlement_View_to_east_aerial_view.jpg/1280px-Kum_settlement_View_to_east_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kum settlement View to east aerial view.jpg",
+   "author": "P.B. Lurje",
+   "license": "CC BY-SA 3.0",
+   "credit": "whc.unesco.org/en/documents/200405",
+   "source": "https://commons.wikimedia.org/wiki/File:Kum_settlement_View_to_east_aerial_view.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1675",
@@ -117,7 +141,41 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Шаҳром",
+   "name_en": "Shahrom Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.4120228,
+   "lon": 69.3217664,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "гост.Дилбар",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.8415373,
+   "lon": 69.5455012,
+   "distance_km": 46.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gostinitsa Ozgorush",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7701534,
+   "lon": 70.0645475,
+   "distance_km": 48.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TJ",
   "country_zh": "塔吉克斯坦",
@@ -208,5 +266,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:38Z"
+ "updated_at": "2026-11-12T12:12:28Z"
 }

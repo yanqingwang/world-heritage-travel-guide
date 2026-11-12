@@ -8,13 +8,13 @@ country: "CI"
 country_zh: "科特迪瓦"
 country_en: "Ivory Coast"
 unesco_id: "1322"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2012"
 criteria: "(iii)(iv)"
 lat: 5.2
 lon: -3.733333333
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:15Z"
 ---
 
 # 大巴萨姆历史古镇 / Historic Town of Grand-Bassam
@@ -23,13 +23,25 @@ updated_at: "2026-11-12T11:55:35Z"
 
 ## 图片 / Images
 
-![2021-08-10 Historic Town of Grand-Bassam by Benoit Soubeyran 01.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/2021-08-10%20Historic%20Town%20of%20Grand-Bassam%20by%20Benoit%20Soubeyran%2001.jpg?width=1280)
+![800px-Grand-Bassam.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/800px-Grand-Bassam.jpg?width=1280)
 
-*2021-08-10 Historic Town of Grand-Bassam by Benoit Soubeyran 01.jpg · see Wikimedia Commons file page*
+*800px-Grand-Bassam.jpg · see Wikimedia Commons file page*
 
-![Historic Town of Grand-Bassam](https://whc.unesco.org/uploads/sites/site_1322.jpg)
+![A Grand-Bassam, un patrimoine dégradé en passe d’être sauvé par des riverains 1215ef0d-54fa-491b-8714-4215d67d5a5c 720p.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_Grand-Bassam%2C_un_patrimoine_d%C3%A9grad%C3%A9_en_passe_d%E2%80%99%C3%AAtre_sauv%C3%A9_par_des_riverains_1215ef0d-54fa-491b-8714-4215d67d5a5c_720p.webm/1280px--A_Grand-Bassam%2C_un_patrimoine_d%C3%A9grad%C3%A9_en_passe_d%E2%80%99%C3%AAtre_sauv%C3%A9_par_des_riverains_1215ef0d-54fa-491b-8714-4215d67d5a5c_720p.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Historic Town of Grand-Bassam · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Grand-Bassam, un patrimoine dégradé en passe d’être sauvé par des riverains 1215ef0d-54fa-491b-8714-4215d67d5a5c 720p.webm · Divers · Public domain*
+
+![AFR V3 D282 Women of Grand Bassam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/AFR_V3_D282_Women_of_Grand_Bassam.jpg/1280px-AFR_V3_D282_Women_of_Grand_Bassam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AFR V3 D282 Women of Grand Bassam.jpg · Élisee Reclus, Translated by Augustus Henry Keane, 1833-1912 · Public domain*
+
+![Banderole numérique Club wikimedia Grand Bassam 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_01.jpg/1280px-Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banderole numérique Club wikimedia Grand Bassam 01.jpg · Gmpapa · CC BY-SA 4.0*
+
+![Banderole numérique Club wikimedia Grand Bassam 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_02.jpg/1280px-Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banderole numérique Club wikimedia Grand Bassam 02.jpg · Gmpapa · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Première capitale de Côte d’Ivoire, la ville de Grand-Bassam est un exemple 
 - ✈ **Félix-Houphouët-Boigny International Airport (ABJ)** — 22.4 km
 - ✈ **Takoradi Airport (TKD)** — 219.6 km
 - ✈ **Sunyani Airport (NYI)** — 286.2 km
+- 🚉 **Gare de Treichville** — 33.0 km
+- 🚉 **Gare Abidjan-Lagune** — 34.3 km
+- 🚉 **Gare du Plateau** — 35.2 km
+- 🚉 **Gare d’Adjamé** — 37.1 km
+- ⛴ **Bac de Eloka** — 9.1 km
+- ⛴ **Gare lagunaire Aqualines Abatta** — 25.1 km
+- ⛴ **Pinasse M’Badon–Koumassi 05** — 26.0 km
+- ⛴ **Gare pinasse Koumassi - M'Badon** — 26.5 km
+- ⛴ **Gare Pinasse Koumassi marché 32 - Sans fil** — 27.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12135.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Etoile du Sud** — 0.8 km — star — 5★
+- **Sofitel Abidjan Hôtel Ivoire** — 33.2 km — star — 5★ · Sofitel
+- **Hotel Pullman Abidjan** — 33.9 km — star — 5★
+- **Hôtel Tiama** — 34.7 km — star — 5★
+- **Hôtel Le Tereso** — 1.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

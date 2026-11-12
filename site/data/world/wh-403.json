@@ -2,8 +2,8 @@
  "id": "wh-403",
  "unesco_id": "403",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 436,
+ "tier": "full",
+ "popularity_rank": 452,
  "popularity_score": 13513,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_403.jpg",
-   "title": "Kilimanjaro National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/403",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Climbers_Barranco_Wall_Kilimanjaro_Tanzania.jpg/1280px-Climbers_Barranco_Wall_Kilimanjaro_Tanzania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Climbers Barranco Wall Kilimanjaro Tanzania.jpg",
+   "author": "Altezzatravel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Climbers_Barranco_Wall_Kilimanjaro_Tanzania.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Commemorating_plaque_for_Ian_McKeever_on_Mount_Kilimanjaro.jpg/1280px-Commemorating_plaque_for_Ian_McKeever_on_Mount_Kilimanjaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Commemorating plaque for Ian McKeever on Mount Kilimanjaro.jpg",
+   "author": "Frederik Beuk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Commemorating_plaque_for_Ian_McKeever_on_Mount_Kilimanjaro.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Entrance_to_Kilimanjaro_National_Park.JPG/1280px-Entrance_to_Kilimanjaro_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Entrance to Kilimanjaro National Park.JPG",
+   "author": "",
+   "license": "CC BY-SA 3.0",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Kilimanjaro_National_Park.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Giant_Groundsels_michael_peter.jpg/1280px-Giant_Groundsels_michael_peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Giant Groundsels michael peter.jpg",
+   "author": "Michael Mwakalundwa",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Giant_Groundsels_michael_peter.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/403",
@@ -103,9 +127,90 @@
   "nearest_airport_km": 48.6,
   "distance_beijing_km": 9293.9,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Moshi",
+    "name_en": null,
+    "lat": -3.351198,
+    "lon": 37.3460001,
+    "distance_km": 31.7,
+    "operator": "Tanzania Railways Corporation"
+   },
+   {
+    "name": "Kikuletwa",
+    "name_en": null,
+    "lat": -3.3788479,
+    "lon": 37.1184917,
+    "distance_km": 44.3,
+    "operator": "Tanzania Railways Corporation"
+   },
+   {
+    "name": "Kahe",
+    "name_en": null,
+    "lat": -3.494514,
+    "lon": 37.4361661,
+    "distance_km": 48.2,
+    "operator": "Tanzania Railways Corporation"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ndarakwai Camp",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.0153903,
+   "lon": 37.0016016,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kibo Slopes Cottages",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.921608,
+   "lon": 37.5086606,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rombo executive hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.0015976,
+   "lon": 37.5651595,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Tarakea guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.001901,
+   "lon": 37.5652377,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kilemakyaro Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.2813171,
+   "lon": 37.3330622,
+   "distance_km": 24.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TZ",
   "country_zh": "坦桑尼亚",
@@ -178,5 +283,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:27Z"
+ "updated_at": "2026-11-12T12:11:45Z"
 }

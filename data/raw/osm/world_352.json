@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Thon Hotel Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.965077,
+   "lon": 23.2709369,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scandic Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": "Scandic Hotels",
+   "lat": 69.966058,
+   "lon": 23.269179,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Canyon Hotell Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.9668331,
+   "lon": 23.2743731,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kvenvikmoen og Alta Vandrerhjem",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.9224453,
+   "lon": 23.0913478,
+   "distance_km": 4.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sorrisniva Igloo Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.865153,
+   "lon": 23.318202,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Alta Båthavn",
+   "name_en": null,
+   "lat": 69.9711534,
+   "lon": 23.2399784,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "Alta rutebåtterminal",
+   "name_en": null,
+   "lat": 69.9769052,
+   "lon": 23.3283141,
+   "distance_km": 6.3,
+   "operator": null
+  },
+  {
+   "name": "Alta hurtigbåtterminal",
+   "name_en": null,
+   "lat": 69.9781363,
+   "lon": 23.3300582,
+   "distance_km": 6.4,
+   "operator": null
+  },
+  {
+   "name": "Terminalkaia",
+   "name_en": null,
+   "lat": 69.9800041,
+   "lon": 23.3345952,
+   "distance_km": 6.7,
+   "operator": null
+  },
+  {
+   "name": "Mikkelsby kai",
+   "name_en": null,
+   "lat": 70.1373734,
+   "lon": 23.3272718,
+   "distance_km": 21.8,
+   "operator": "Altafjord Oppdrett AS"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:56Z"
+}

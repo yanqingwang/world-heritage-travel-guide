@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Is Arenas Resort - Nature & Charme",
+   "name_en": null,
+   "stars": 5,
+   "brand": "mirahotels",
+   "lat": 40.0587502,
+   "lon": 8.4745785,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sardegna Grand Hotel Terme",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9993604,
+   "lon": 8.8070617,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Centro Benessere SPA e Terme",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9981298,
+   "lon": 8.8068088,
+   "distance_km": 15.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sa Muvara",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9491942,
+   "lon": 9.1912758,
+   "distance_km": 25.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Regina d'Arborea",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9037677,
+   "lon": 8.5917807,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 102,
+ "stations": [
+  {
+   "name": "Abbasanta",
+   "name_en": null,
+   "lat": 40.1267532,
+   "lon": 8.8160122,
+   "distance_km": 12.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Sorgono",
+   "name_en": null,
+   "lat": 40.0272174,
+   "lon": 9.1054778,
+   "distance_km": 14.6,
+   "operator": null
+  },
+  {
+   "name": "Paulilatino",
+   "name_en": null,
+   "lat": 40.0772724,
+   "lon": 8.775799,
+   "distance_km": 14.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Borore",
+   "name_en": null,
+   "lat": 40.2189489,
+   "lon": 8.8095263,
+   "distance_km": 19.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Meana Sardo",
+   "name_en": null,
+   "lat": 39.9292298,
+   "lon": 9.0926994,
+   "distance_km": 21.1,
+   "operator": null
+  },
+  {
+   "name": "Desulo-Tonara",
+   "name_en": null,
+   "lat": 39.9932081,
+   "lon": 9.1814221,
+   "distance_km": 22.1,
+   "operator": null
+  },
+  {
+   "name": "Bortigali",
+   "name_en": null,
+   "lat": 40.2794429,
+   "lon": 8.8421861,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "Bauladu-Milis",
+   "name_en": null,
+   "lat": 40.0206307,
+   "lon": 8.6870554,
+   "distance_km": 23.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Porto industriale di Oristano",
+   "name_en": null,
+   "lat": 39.8661446,
+   "lon": 8.5544243,
+   "distance_km": 41.6,
+   "operator": null
+  },
+  {
+   "name": "Porto turistico di Oristano",
+   "name_en": null,
+   "lat": 39.903941,
+   "lon": 8.4914942,
+   "distance_km": 44.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:45Z"
+}

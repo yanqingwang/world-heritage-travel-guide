@@ -8,13 +8,13 @@ country: "MZ"
 country_zh: "莫桑比克"
 country_en: "Mozambique"
 unesco_id: "914"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1999"
 criteria: "(vii)(ix)(x)"
 lat: -28.0
 lon: 32.5
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:02Z"
 ---
 
 # 伊西曼格利索湿地公园 / iSimangaliso Wetland Park – Maputo National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Greater St. Lucia Wetland Park,South Africa.jpg · see Wikimedia Commons file page*
 
-![iSimangaliso Wetland Park – Maputo National Park](https://whc.unesco.org/uploads/sites/site_914.jpg)
+![Ayamda Khoza at work.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ayamda_Khoza_at_work.jpg/1280px-Ayamda_Khoza_at_work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*iSimangaliso Wetland Park – Maputo National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ayamda Khoza at work.jpg · Dwergenpaartje · CC BY-SA 4.0*
+
+![Buffalo sand sculpture.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Buffalo_sand_sculpture.jpg/1280px-Buffalo_sand_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buffalo sand sculpture.jpg · Dwergenpaartje · CC BY-SA 4.0*
+
+![Coastal dune forest and grassland, Eastern Shores, iSimangaliso Wetland Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Coastal_dune_forest_and_grassland%2C_Eastern_Shores%2C_iSimangaliso_Wetland_Park.jpg/1280px-Coastal_dune_forest_and_grassland%2C_Eastern_Shores%2C_iSimangaliso_Wetland_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Coastal dune forest and grassland, Eastern Shores, iSimangaliso Wetland Park.jpg · Bernard DUPONT · CC BY-SA 2.0*
+
+![Greater St. Lucia Wetland Park,South Africa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Greater_St._Lucia_Wetland_Park%2CSouth_Africa.jpg/1280px-Greater_St._Lucia_Wetland_Park%2CSouth_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Greater St. Lucia Wetland Park,South Africa.jpg · Christian Wörtz ( woertz ) · CC BY-SA 2.5*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ O complexo que forma o parque da zona húmida (português europeu) ou úmida (po
 - ✈ **Mkuze Airport (MZQ)** — 61.1 km
 - ✈ **Richards Bay Airport (RCB)** — 91.6 km
 - ✈ **King Mswati III International Airport (SHO)** — 198.3 km
+- 🚉 **Hluhluwe** — 21.8 km
+- ⛴ **Siyabonga Jetty** — 42.0 km
+- ⛴ **Estuary Boat Cruise** — 43.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11512.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Leopard Tree Lodge** — 42.5 km — star — 4★
+- **Maputaland Guest House** — 42.5 km — star — 4★
+- **Leopard Corner Lodge** — 42.7 km — star — 4★
+- **Elephant Lake Hotel** — 42.4 km — star — 3★
+- **Fazala Game Park and Spa** — 15.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

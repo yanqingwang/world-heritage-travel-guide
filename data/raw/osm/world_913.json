@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "フェアフィールドバイマリオット栃木日光",
+   "name_en": "Fairfield by Marriott Tochigi Nikko",
+   "stars": 3,
+   "brand": "Fairfield by Marriott",
+   "lat": 36.7617723,
+   "lon": 139.6179056,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz-Carlton, Nikko",
+   "name_en": null,
+   "stars": null,
+   "brand": "The Ritz-Carlton",
+   "lat": 36.7383789,
+   "lon": 139.4976874,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "日光西町倶楽部 あらとうと",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.7554697,
+   "lon": 139.596646,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "No Yado Tsurukame Daikichi",
+   "name_en": "No Yado Tsurukame Daikichi",
+   "stars": null,
+   "brand": null,
+   "lat": 36.7531678,
+   "lon": 139.5998172,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "日光金谷ホテル",
+   "name_en": "Nikko Kanaya Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.7520969,
+   "lon": 139.6040483,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 287,
+ "stations": [
+  {
+   "name": "東武日光",
+   "name_en": "Tobu-Nikko",
+   "lat": 36.7478743,
+   "lon": 139.6194559,
+   "distance_km": 2.0,
+   "operator": null
+  },
+  {
+   "name": "日光",
+   "name_en": "Nikko",
+   "lat": 36.7471805,
+   "lon": 139.6219414,
+   "distance_km": 2.3,
+   "operator": null
+  },
+  {
+   "name": "上今市",
+   "name_en": "Kami-Imaichi",
+   "lat": 36.7277842,
+   "lon": 139.6814776,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "大谷向",
+   "name_en": "Daiyamuko",
+   "lat": 36.7324624,
+   "lon": 139.691952,
+   "distance_km": 8.7,
+   "operator": null
+  },
+  {
+   "name": "今市",
+   "name_en": "Imaichi",
+   "lat": 36.720468,
+   "lon": 139.6872715,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "下今市",
+   "name_en": "Shimo-Imaichi",
+   "lat": 36.725635,
+   "lon": 139.6927992,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "大桑",
+   "name_en": "Okuwa",
+   "lat": 36.7604507,
+   "lon": 139.71335,
+   "distance_km": 10.2,
+   "operator": null
+  },
+  {
+   "name": "新高徳",
+   "name_en": "Shin-Takatoku Station",
+   "lat": 36.779461,
+   "lon": 139.7111778,
+   "distance_km": 10.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "船の駅中禅寺",
+   "name_en": "Excursion Ship Pier",
+   "lat": 36.739198,
+   "lon": 139.4927888,
+   "distance_km": 9.7,
+   "operator": null
+  },
+  {
+   "name": "立木観音前",
+   "name_en": "Tachikikannon Statue",
+   "lat": 36.7315397,
+   "lon": 139.4905193,
+   "distance_km": 10.1,
+   "operator": null
+  },
+  {
+   "name": "大使館別荘記念公園",
+   "name_en": "Embassy Villa Memorial Park Pier",
+   "lat": 36.7239544,
+   "lon": 139.4839576,
+   "distance_km": 10.9,
+   "operator": null
+  },
+  {
+   "name": "菖蒲ヶ浜",
+   "name_en": "Shobugahama Excursion Ship Pier",
+   "lat": 36.7511965,
+   "lon": 139.4551041,
+   "distance_km": 12.9,
+   "operator": null
+  },
+  {
+   "name": "千手ヶ浜",
+   "name_en": "Senjugahama",
+   "lat": 36.7483825,
+   "lon": 139.4226011,
+   "distance_km": 15.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:46Z"
+}

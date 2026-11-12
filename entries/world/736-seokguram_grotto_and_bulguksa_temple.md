@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(i)(iv)"
 lat: 35.766667
 lon: 129.333333
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:55Z"
 ---
 
 # 石窟庵和佛国寺 / Seokguram Grotto and Bulguksa Temple

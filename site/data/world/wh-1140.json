@@ -2,8 +2,8 @@
  "id": "wh-1140",
  "unesco_id": "1140",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 468,
+ "tier": "full",
+ "popularity_rank": 486,
  "popularity_score": 12196,
  "country": "BJ",
  "country_zh": "贝宁",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1140.jpg",
-   "title": "Koutammakou, the Land of the Batammariba",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1140",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Alyssa_K._Barry_Koutammakou%2CTogo_%28banner%29.jpg/1280px-Alyssa_K._Barry_Koutammakou%2CTogo_%28banner%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alyssa K. Barry Koutammakou,Togo (banner).jpg",
+   "author": "Kalyss",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alyssa_K._Barry_Koutammakou%2CTogo_%28banner%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Alyssa_K._Barry_Koutammakou%2CTogo.jpg/1280px-Alyssa_K._Barry_Koutammakou%2CTogo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alyssa K. Barry Koutammakou,Togo.jpg",
+   "author": "Kalyss",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alyssa_K._Barry_Koutammakou%2CTogo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Batammariba-Sch%C3%A9ma_de_r%C3%A9partition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Batammariba-Schéma de répartition.jpg",
+   "author": "Ji-Elle",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Batammariba-Sch%C3%A9ma_de_r%C3%A9partition.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/B%C3%A2timents_du_village.jpg/1280px-B%C3%A2timents_du_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bâtiments du village.jpg",
+   "author": "Hermannkass",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:B%C3%A2timents_du_village.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1140",
@@ -113,7 +137,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Kama'Aka",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 9.6685427,
+   "lon": 1.1381341,
+   "distance_km": 48.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tata Touristique Koubetti",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1811453,
+   "lon": 1.1045683,
+   "distance_km": 9.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tata",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1809385,
+   "lon": 1.1074763,
+   "distance_km": 10.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.9599451,
+   "lon": 1.0415943,
+   "distance_km": 15.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Otammari Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1871081,
+   "lon": 1.2021067,
+   "distance_km": 17.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BJ",
   "country_zh": "贝宁",
@@ -194,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:33Z"
+ "updated_at": "2026-11-12T12:12:09Z"
 }

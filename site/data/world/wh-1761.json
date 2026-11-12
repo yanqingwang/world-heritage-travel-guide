@@ -2,8 +2,8 @@
  "id": "wh-1761",
  "unesco_id": "1761",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 403,
+ "tier": "full",
+ "popularity_rank": 419,
  "popularity_score": 16073,
  "country": "TH",
  "country_zh": "泰国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1761.jpg",
-   "title": "Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1761",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Buddha_with_clothing%2C_Wat_Phra_Mahathat%2C_Ayutthaya%2C_Thailand_-_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%2C_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%2C_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%2810226483225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Buddha with clothing, Wat Phra Mahathat, Ayutthaya, Thailand - วัดมหาธาตุ, พระนครศรีอยุธยา, ประเทศไทย (10226483225).jpg",
+   "author": "Romain Pontida",
+   "license": "CC BY-SA 2.0",
+   "credit": "Buddha with clothing, Wat Phra Mahathat, Ayutthaya, Thailand - วัดมหาธาตุ, พระนครศรีอยุธยา, ประเทศไทย",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_with_clothing%2C_Wat_Phra_Mahathat%2C_Ayutthaya%2C_Thailand_-_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%2C_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%2C_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%2810226483225%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Detail_Chedi_Wat_Mahathat_Nakhon_Si_Thammarat.jpg/1280px-Detail_Chedi_Wat_Mahathat_Nakhon_Si_Thammarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Detail Chedi Wat Mahathat Nakhon Si Thammarat.jpg",
+   "author": "Media lib",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Detail_Chedi_Wat_Mahathat_Nakhon_Si_Thammarat.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Detail_Wat_Mahathat_Nakhon_Si_Thammarat.jpg/1280px-Detail_Wat_Mahathat_Nakhon_Si_Thammarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Detail Wat Mahathat Nakhon Si Thammarat.jpg",
+   "author": "Media lib",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Detail_Wat_Mahathat_Nakhon_Si_Thammarat.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/King_Taksin_at_Wat_Phra_Borom_That.JPG/960px-King_Taksin_at_Wat_Phra_Borom_That.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "King Taksin at Wat Phra Borom That.JPG",
+   "author": "2T",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:King_Taksin_at_Wat_Phra_Borom_That.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1761",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 14.5,
   "distance_beijing_km": 3875.9,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "นครศรีธรรมราช",
+    "name_en": "Nakhon Si Thammarat",
+    "lat": 8.4395129,
+    "lon": 99.9596411,
+    "distance_km": 3.2,
+    "operator": null
+   },
+   {
+    "name": "โคกคราม",
+    "name_en": "Khok Khram",
+    "lat": 8.2505904,
+    "lon": 99.9427088,
+    "distance_km": 18.1,
+    "operator": null
+   },
+   {
+    "name": "บ้านทุ่งหล่อ",
+    "name_en": "Ban Thung Lo",
+    "lat": 8.2222369,
+    "lon": 99.921567,
+    "distance_km": 21.6,
+    "operator": null
+   },
+   {
+    "name": "ชุมทางเขาชุมทอง",
+    "name_en": "Khao Chum Thong Junction",
+    "lat": 8.1478375,
+    "lon": 99.8822058,
+    "distance_km": 30.7,
+    "operator": null
+   },
+   {
+    "name": "ร่อนพิบูลย์",
+    "name_en": "Ron Phibun",
+    "lat": 8.1541306,
+    "lon": 99.8407292,
+    "distance_km": 31.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Laekhon Nonbai",
+   "name_en": "Laekhon Nonbai",
+   "stars": null,
+   "brand": null,
+   "lat": 8.4174387,
+   "lon": 99.9748403,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kiatnakhon hotel",
+   "name_en": "Kiatnakhon hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 8.4049456,
+   "lon": 99.9759788,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ทวินโลตัส",
+   "name_en": "Twin Lotus",
+   "stars": null,
+   "brand": null,
+   "lat": 8.3992642,
+   "lon": 99.9774771,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maharaj grand",
+   "name_en": "Nakhonsi",
+   "stars": null,
+   "brand": null,
+   "lat": 8.3896922,
+   "lon": 99.9698423,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "350thb hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.4335562,
+   "lon": 99.9608153,
+   "distance_km": 2.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TH",
   "country_zh": "泰国",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:38Z"
+ "updated_at": "2026-11-12T12:12:33Z"
 }

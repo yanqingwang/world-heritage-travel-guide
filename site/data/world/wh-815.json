@@ -2,8 +2,8 @@
  "id": "wh-815",
  "unesco_id": "815",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 448,
+ "tier": "full",
+ "popularity_rank": 465,
  "popularity_score": 12849,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_815.jpg",
-   "title": "Hospicio Cabañas, Guadalajara",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/815",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/01-03-2013_DISCURSO_EN_EL_INSTITUTO_CULTURAL_CABA%C3%91AS.jpg/1280px-01-03-2013_DISCURSO_EN_EL_INSTITUTO_CULTURAL_CABA%C3%91AS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01-03-2013 DISCURSO EN EL INSTITUTO CULTURAL CABAÑAS.jpg",
+   "author": "Aristóteles Sandoval",
+   "license": "CC BY-SA 2.0",
+   "credit": "Flickr : 01-03-2013 DISCURSO EN EL INSTITUTO CULTURAL CABAÑAS",
+   "source": "https://commons.wikimedia.org/wiki/File:01-03-2013_DISCURSO_EN_EL_INSTITUTO_CULTURAL_CABA%C3%91AS.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/A_mis_espaldas_fuente_Quetzalcoatl_al_frente_Hospicio_Caba%C3%B1as_-_panoramio.jpg/1280px-A_mis_espaldas_fuente_Quetzalcoatl_al_frente_Hospicio_Caba%C3%B1as_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A mis espaldas fuente Quetzalcoatl al frente Hospicio Cabañas - panoramio.jpg",
+   "author": "picalele",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161014031820/http://www.panoramio.com/photo/24213051",
+   "source": "https://commons.wikimedia.org/wiki/File:A_mis_espaldas_fuente_Quetzalcoatl_al_frente_Hospicio_Caba%C3%B1as_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Again%2C_Impressive_Architecture_%2817143622117%29.jpg/1280px-Again%2C_Impressive_Architecture_%2817143622117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Again, Impressive Architecture (17143622117).jpg",
+   "author": "cogdogblog",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/cogdog/17143622117/",
+   "source": "https://commons.wikimedia.org/wiki/File:Again%2C_Impressive_Architecture_%2817143622117%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Again%2C_the_Promises_of_Politicians_%2817325073636%29.jpg/1280px-Again%2C_the_Promises_of_Politicians_%2817325073636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Again, the Promises of Politicians (17325073636).jpg",
+   "author": "cogdogblog",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/cogdog/17325073636/",
+   "source": "https://commons.wikimedia.org/wiki/File:Again%2C_the_Promises_of_Politicians_%2817325073636%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/815",
@@ -103,9 +127,74 @@
   "nearest_airport_km": 17.3,
   "distance_beijing_km": 12110.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Estación La Capilla",
+    "name_en": null,
+    "lat": 20.4465211,
+    "lon": -103.1936189,
+    "distance_km": 29.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Misión Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.6634796,
+   "lon": -103.349984,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Plaza Guadalajara",
+   "name_en": null,
+   "stars": 5,
+   "brand": "RIU",
+   "lat": 20.6658275,
+   "lon": -103.3937283,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HOTEL Sta. Maria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.663512,
+   "lon": -103.3477996,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Krystal Urban Guadalajara",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Krystal Hotels & Resorts",
+   "lat": 20.6730298,
+   "lon": -103.380681,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Platino Expo",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.6492647,
+   "lon": -103.3973585,
+   "distance_km": 7.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -177,5 +266,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:30Z"
+ "updated_at": "2026-11-12T12:11:59Z"
 }

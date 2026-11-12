@@ -2,8 +2,8 @@
  "id": "wh-37",
  "unesco_id": "37",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 479,
+ "tier": "full",
+ "popularity_rank": 497,
  "popularity_score": 11821,
  "country": "TN",
  "country_zh": "突尼斯",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_37.jpg",
-   "title": "Archaeological Site of Carthage",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/37",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeological_Site_of_Carthage-130237.jpg/1280px-Archaeological_Site_of_Carthage-130237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Archaeological Site of Carthage-130237.jpg",
+   "author": "Christian Manhart",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Carthage-130237.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Archaeological_Site_of_Carthage-130238.jpg/1280px-Archaeological_Site_of_Carthage-130238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Archaeological Site of Carthage-130238.jpg",
+   "author": "Christian Manhart",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Carthage-130238.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Archaeological_Site_of_Carthage-130239.jpg/1280px-Archaeological_Site_of_Carthage-130239.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Archaeological Site of Carthage-130239.jpg",
+   "author": "Christian Manhart",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Carthage-130239.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Carthage_-_N%C3%A9cropole_Punique%2C_Chantier_des_Fouilles.jpg/1280px-Carthage_-_N%C3%A9cropole_Punique%2C_Chantier_des_Fouilles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Carthage - Nécropole Punique, Chantier des Fouilles.jpg",
+   "author": "E. Le Delcy",
+   "license": "Public domain",
+   "credit": "own collection",
+   "source": "https://commons.wikimedia.org/wiki/File:Carthage_-_N%C3%A9cropole_Punique%2C_Chantier_des_Fouilles.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/37",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 9.3,
   "distance_beijing_km": 8635.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Carthage",
+    "name_en": null,
+    "lat": 36.8456504,
+    "lon": 10.3248036,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "Port Marchand de Carthage",
+    "name_en": null,
+    "lat": 36.8414507,
+    "lon": 10.3248504,
+    "distance_km": 1.9,
+    "operator": null
+   },
+   {
+    "name": "تونس",
+    "name_en": "Tunis",
+    "lat": 36.8099967,
+    "lon": 10.3005044,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Ferry terminal passengers",
+    "name_en": null,
+    "lat": 36.8084103,
+    "lon": 10.3048379,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "ميناء رادس",
+    "name_en": null,
+    "lat": 36.8031119,
+    "lon": 10.265804,
+    "distance_km": 8.4,
+    "operator": "ديوان البحرية التجارية والموانئ"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "قرطاج حنبعل",
+    "name_en": "Carthage Hannibal",
+    "lat": 36.8535473,
+    "lon": 10.3289965,
+    "distance_km": 0.5,
+    "operator": "شركة النقل بتونس"
+   },
+   {
+    "name": "قرطاج الرئاسة",
+    "name_en": "Carthage Présidence",
+    "lat": 36.8616645,
+    "lon": 10.3350247,
+    "distance_km": 0.6,
+    "operator": "TGM"
+   },
+   {
+    "name": "قرطاج درمش",
+    "name_en": "Carthage Dermech",
+    "lat": 36.8501973,
+    "lon": 10.325696,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "قرطاج أميلكار",
+    "name_en": "Carthage Amilcar",
+    "lat": 36.8666146,
+    "lon": 10.3375137,
+    "distance_km": 1.1,
+    "operator": "TGM"
+   },
+   {
+    "name": "قرطاج بيرصة",
+    "name_en": "Carthage Byrsa",
+    "lat": 36.8462307,
+    "lon": 10.32184,
+    "distance_km": 1.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فيلا ديدون",
+   "name_en": "Villa Didon Carthage",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8523767,
+   "lon": 10.3250922,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Carthage",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9057072,
+   "lon": 10.3119727,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9154203,
+   "lon": 10.3152599,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mövenpick Hotel Du Lac Tunis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8355613,
+   "lon": 10.2486822,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Carthage Thalasso Resort",
+   "name_en": "Carthage Thalasso Resort",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9251718,
+   "lon": 10.2773081,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:24Z"
+ "updated_at": "2026-11-12T12:11:33Z"
 }

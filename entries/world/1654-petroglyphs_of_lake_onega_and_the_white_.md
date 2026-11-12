@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)"
 lat: 61.7299
 lon: 36.012639
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:27Z"
 ---
 
 # 奥涅加湖和白海的岩刻 / Petroglyphs of Lake Onega and the White Sea

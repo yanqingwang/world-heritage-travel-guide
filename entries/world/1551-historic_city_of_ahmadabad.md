@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(v)"
 lat: 23.021944444
 lon: 72.579722222
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:22Z"
 ---
 
 # 艾哈迈达巴德 / Historic City of Ahmadabad

@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "592"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(i)(ii)(vi)"
 lat: -7.60778
 lon: 110.20361
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:50Z"
 ---
 
 # 婆罗浮屠寺庙群 / Borobudur Temple Compounds
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:28Z"
 
 *Borobudur-Nothwest-view.jpg · see Wikimedia Commons file page*
 
-![Borobudur Temple Compounds](https://whc.unesco.org/uploads/sites/site_592.jpg)
+![Aksara Borobudur.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Aksara_Borobudur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Borobudur Temple Compounds · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aksara Borobudur.jpg · Fosil73 · CC BY-SA 4.0*
+
+![Bekerja untuk Kebun di sekitar Candi Borobudur.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8f/Bekerja_untuk_Kebun_di_sekitar_Candi_Borobudur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bekerja untuk Kebun di sekitar Candi Borobudur.jpg · Istiadiningdyah · CC BY-SA 4.0*
+
+![Borobudur Indonesia 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Borobudur_Indonesia_1.jpg/1280px-Borobudur_Indonesia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Borobudur Indonesia 1.jpg · Philip Nalangan · CC BY 4.0*
+
+![Borobudur Indonesia 10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Borobudur_Indonesia_10.jpg/1280px-Borobudur_Indonesia_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Borobudur Indonesia 10.jpg · Philip Nalangan · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,23 @@ This famous Buddhist temple, dating from the 8th and 9th centuries, is located i
 - ✈ **Adisutjipto International Airport (JOG)** — 32.2 km
 - ✈ **Yogyakarta International Airport (YIA)** — 36.8 km
 - ✈ **Adisoemarmo International Airport (SOC)** — 61.9 km
+- 🚉 **Rewulu** — 22.8 km
+- 🚉 **Patukan** — 24.4 km
+- 🚉 **Sentolo** — 25.1 km
+- 🚉 **Yogyakarta** — 26.8 km
+- 🚉 **Lempuyangan** — 27.7 km
+- ⛴ **Loket Perahu** — 48.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5360.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Amanjiwo** — 2.7 km — star — 5★
+- **Hotel Melia Purosani** — 27.8 km — star — 5★ · Melia
+- **Crystal Lotus** — 24.3 km — star — 4★
+- **Hotel Tara Yogyakarta** — 25.1 km — star — 4★
+- **Grand Inna Malioboro** — 27.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

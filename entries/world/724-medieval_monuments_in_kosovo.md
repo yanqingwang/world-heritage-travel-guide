@@ -8,13 +8,13 @@ country: "RS"
 country_zh: "塞尔维亚"
 country_en: "Serbia"
 unesco_id: "724"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 42.661111111
 lon: 20.265555555
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:54Z"
 ---
 
 # 科索沃中世纪古迹 / Medieval Monuments in Kosovo
@@ -52,7 +52,24 @@ The four edifices of the site reflect the high points of the Byzantine-Romanesqu
 - ✈ **Priština Adem Jashari International Airport (PRN)** — 63.8 km
 - ✈ **Podgorica Airport / Podgorica Golubovci Airbase (TGD)** — 89.6 km
 - ✈ **Tivat Airport (TIV)** — 129.5 km
+- 🚉 **Pejë** — 3.2 km
+- 🚉 **Budisalc** — 18.7 km
+- 🚉 **Klinë** — 26.4 km
+- 🚉 **Ujmirë** — 35.8 km
+- 🚉 **Qarrat** — 40.0 km
+- ⛴ **Raja** — 48.9 km
+- ⛴ **Alpin** — 49.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7516.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Dukagjini** — 2.0 km — star — 5★
+- **Leoniti** — 12.5 km — star — 5★
+- **Seraphine Plaza** — 1.9 km — star — 4★
+- **Hotel Jakova** — 35.1 km — star — 3★
+- **Hotel Komovi** — 39.5 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

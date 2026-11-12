@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 29.935
 lon: 52.89
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:35Z"
 ---
 
 # 波斯波利斯 / Persepolis

@@ -8,13 +8,13 @@ country: "CZ"
 country_zh: "捷克"
 country_en: "Czech Republic"
 unesco_id: "763"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(ii)(iv)"
 lat: 48.7758
 lon: 16.775
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:56Z"
 ---
 
 # 莱德尼采－瓦尔季采文化景观 / Lednice-Valtice Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:30Z"
 
 *Lednice–Valtice Cultural Landscape Montage II.jpg · see Wikimedia Commons file page*
 
-![Lednice-Valtice Cultural Landscape](https://whc.unesco.org/uploads/sites/site_763.jpg)
+![5.díl html 2d1d5b71.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4c/5.d%C3%ADl_html_2d1d5b71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Lednice-Valtice Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*5.díl html 2d1d5b71.jpg · I.Sáček, senior · CC0*
+
+![5.díl html 63e6b8e8.png](https://upload.wikimedia.org/wikipedia/commons/2/21/5.d%C3%ADl_html_63e6b8e8.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*5.díl html 63e6b8e8.png · I.Sáček, senior · CC0*
+
+![6.díl html m637edeb3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/6.d%C3%ADl_html_m637edeb3.jpg/1280px-6.d%C3%ADl_html_m637edeb3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*6.díl html m637edeb3.jpg · I.Sáček, senior · CC0*
+
+![Katzelsdorfská myslivna.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Katzelsdorfsk%C3%A1_myslivna.jpg/1280px-Katzelsdorfsk%C3%A1_myslivna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Katzelsdorfská myslivna.jpg · Petr Gabriel Photo · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Lednicko-valtický areál je krajinný celek o rozloze 283,09 km² v okrese Bře
 - ✈ **Brno-Tuřany Airport (BRQ)** — 42.2 km
 - ✈ **M. R. Štefánik Airport (BTS)** — 74.7 km
 - ✈ **Vienna International Airport (VIE)** — 75.5 km
+- 🚉 **Valtice** — 3.9 km
+- 🚉 **Sedlec u Mikulova** — 5.7 km
+- 🚉 **Boří les** — 8.0 km
+- 🚉 **Břeclav** — 9.0 km
+- 🚉 **Podivín** — 9.0 km
+- ⛴ **Přístaviště Zámek** — 3.9 km
+- ⛴ **Minaret** — 5.2 km
+- ⛴ **Janohrad** — 5.2 km
+- ⛴ **Přístav Kemp Mars Šakvice** — 11.4 km
+- ⛴ **Přístav Pavlov** — 13.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7378.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Grand Palace Brno** — 47.9 km — star — 5★
+- **Hotel Hraniční zámeček** — 1.4 km — star — 4★
+- **Zámecký hotel Lednice** — 3.5 km — star — 4★
+- **Spa Resort Lednice** — 3.5 km — star — 4★
+- **Hotel Galant** — 3.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

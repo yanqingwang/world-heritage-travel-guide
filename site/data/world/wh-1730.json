@@ -2,8 +2,8 @@
  "id": "wh-1730",
  "unesco_id": "1730",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 480,
+ "tier": "full",
+ "popularity_rank": 498,
  "popularity_score": 11690,
  "country": "IT",
  "country_zh": "意大利",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1730.jpg",
-   "title": "Funerary Tradition in the Prehistory of Sardinia – <em>The domus de janas</em>",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1730",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bonorva_Pala-Larga-III.jpg/1280px-Bonorva_Pala-Larga-III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bonorva Pala-Larga-III.jpg",
+   "author": "Nicola Castangia",
+   "license": "CC BY 3.0",
+   "credit": "https://whc.unesco.org/fr/list/1730/gallery/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bonorva_Pala-Larga-III.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Buddus%C3%B2-_Domus_de_janas_di_Borucca.jpg/1280px-Buddus%C3%B2-_Domus_de_janas_di_Borucca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buddusò- Domus de janas di Borucca.jpg",
+   "author": "ArcheoBudduso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddus%C3%B2-_Domus_de_janas_di_Borucca.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Castiadas_-_Domus_de_Janas_1.JPG/1280px-Castiadas_-_Domus_de_Janas_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Castiadas - Domus de Janas 1.JPG",
+   "author": "Foto realizzata da me",
+   "license": "CC BY-SA 3.0",
+   "credit": "Opera mia",
+   "source": "https://commons.wikimedia.org/wiki/File:Castiadas_-_Domus_de_Janas_1.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Domus_de_janas_-_Funtana_su_rettori.jpg/1280px-Domus_de_janas_-_Funtana_su_rettori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Domus de janas - Funtana su rettori.jpg",
+   "author": "Rops84",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Domus_de_janas_-_Funtana_su_rettori.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1730",
@@ -102,10 +126,124 @@
   ],
   "nearest_airport_km": 82.6,
   "distance_beijing_km": 8483.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Porto industriale di Oristano",
+    "name_en": null,
+    "lat": 39.8661446,
+    "lon": 8.5544243,
+    "distance_km": 41.6,
+    "operator": null
+   },
+   {
+    "name": "Porto turistico di Oristano",
+    "name_en": null,
+    "lat": 39.903941,
+    "lon": 8.4914942,
+    "distance_km": 44.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Abbasanta",
+    "name_en": null,
+    "lat": 40.1267532,
+    "lon": 8.8160122,
+    "distance_km": 12.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Sorgono",
+    "name_en": null,
+    "lat": 40.0272174,
+    "lon": 9.1054778,
+    "distance_km": 14.6,
+    "operator": null
+   },
+   {
+    "name": "Paulilatino",
+    "name_en": null,
+    "lat": 40.0772724,
+    "lon": 8.775799,
+    "distance_km": 14.9,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Borore",
+    "name_en": null,
+    "lat": 40.2189489,
+    "lon": 8.8095263,
+    "distance_km": 19.1,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Meana Sardo",
+    "name_en": null,
+    "lat": 39.9292298,
+    "lon": 9.0926994,
+    "distance_km": 21.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Is Arenas Resort - Nature & Charme",
+   "name_en": null,
+   "stars": 5,
+   "brand": "mirahotels",
+   "lat": 40.0587502,
+   "lon": 8.4745785,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sardegna Grand Hotel Terme",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9993604,
+   "lon": 8.8070617,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Centro Benessere SPA e Terme",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9981298,
+   "lon": 8.8068088,
+   "distance_km": 15.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sa Muvara",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9491942,
+   "lon": 9.1912758,
+   "distance_km": 25.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Regina d'Arborea",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.9037677,
+   "lon": 8.5917807,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:38Z"
+ "updated_at": "2026-11-12T12:12:31Z"
 }

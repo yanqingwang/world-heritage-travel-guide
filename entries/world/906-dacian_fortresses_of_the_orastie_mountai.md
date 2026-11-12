@@ -8,13 +8,13 @@ country: "RO"
 country_zh: "罗马尼亚"
 country_en: "Romania"
 unesco_id: "906"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iii)(iv)"
 lat: 45.6231
 lon: 23.3119
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:02Z"
 ---
 
 # 奥拉斯迪山的达亚恩城堡 / Dacian Fortresses of the Orastie Mountains
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Sarmizegetusa temples.jpg · see Wikimedia Commons file page*
 
-![Dacian Fortresses of the Orastie Mountains](https://whc.unesco.org/uploads/sites/site_906.jpg)
+![KunsthistorischesMuseumDacianBracelet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/KunsthistorischesMuseumDacianBracelet.jpg/1280px-KunsthistorischesMuseumDacianBracelet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Dacian Fortresses of the Orastie Mountains · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*KunsthistorischesMuseumDacianBracelet.jpg · CristianChirita · CC0*
+
+![KunsthistorischesMuseumDacianGold1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthistorischesMuseumDacianGold1.jpg/1280px-KunsthistorischesMuseumDacianGold1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*KunsthistorischesMuseumDacianGold1.jpg · CristianChirita · CC BY-SA 3.0*
+
+![KunsthistorischesMuseumDacianGold4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/KunsthistorischesMuseumDacianGold4.jpg/1280px-KunsthistorischesMuseumDacianGold4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*KunsthistorischesMuseumDacianGold4.jpg · CristianChirita · CC0*
+
+![KunsthistorischesMuseumDacianTreasures.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/KunsthistorischesMuseumDacianTreasures.jpg/1280px-KunsthistorischesMuseumDacianTreasures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*KunsthistorischesMuseumDacianTreasures.jpg · CristianChirita · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ Construite în stilul murus dacicus, cele șase fortărețe dacice din Munții �
 - ✈ **Sibiu International Airport (SBZ)** — 62.8 km
 - ✈ **Târgu Mureş Transilvania International Airport (TGM)** — 126.6 km
 - ✈ **Avram Iancu Cluj International Airport (CLJ)** — 132.5 km
+- 🚉 **Merișor** — 19.6 km
+- 🚉 **Dacic Horse Train** — 19.8 km
+- 🚉 **Crivadia** — 19.9 km
+- 🚉 **Baru Mare** — 21.0 km
+- 🚉 **Gara Pui** — 21.2 km
+- ⛴ **Vaporaș Stelar** — 46.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7117.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Ferdinand** — 28.2 km — star — 4★
+- **Hotel Germisara** — 36.4 km — star — 4★
+- **Hotel Diamond** — 36.6 km — star — 4★
+- **Vila Castelul Maria** — 37.7 km — star — 4★
+- **Hotel Wien** — 41.8 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

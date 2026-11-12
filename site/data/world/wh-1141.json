@@ -2,8 +2,8 @@
  "id": "wh-1141",
  "unesco_id": "1141",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 430,
+ "tier": "full",
+ "popularity_rank": 446,
  "popularity_score": 13888,
  "country": "TJ",
  "country_zh": "塔吉克斯坦",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1141.jpg",
-   "title": "Proto-urban Site of Sarazm",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1141",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/046_-_senasis_Sarazmas.jpg/1280px-046_-_senasis_Sarazmas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "046 - senasis Sarazmas.jpg",
+   "author": "Aurimaz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:046_-_senasis_Sarazmas.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/12-petalled_flower_MNAT_SZM001.jpg/1280px-12-petalled_flower_MNAT_SZM001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "12-petalled flower MNAT SZM001.jpg",
+   "author": "Marie-Lan Nguyen",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:12-petalled_flower_MNAT_SZM001.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bouton_fermoir_Sarazm.jpg/1280px-Bouton_fermoir_Sarazm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bouton fermoir Sarazm.jpg",
+   "author": "Zunkir",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bouton_fermoir_Sarazm.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Collier_constitu%C3%A9_de_perles_bi-triconiques_pleines.jpg/1280px-Collier_constitu%C3%A9_de_perles_bi-triconiques_pleines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Collier constitué de perles bi-triconiques pleines.jpg",
+   "author": "Zythème",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Collier_constitu%C3%A9_de_perles_bi-triconiques_pleines.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1141",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 54.2,
   "distance_beijing_km": 4175.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Jartepa",
+    "name_en": null,
+    "lat": 39.5276298,
+    "lon": 67.3845367,
+    "distance_km": 15.7,
+    "operator": "O‘zbekiston temir yo‘llari"
+   },
+   {
+    "name": "Urgut",
+    "name_en": null,
+    "lat": 39.4395065,
+    "lon": 67.2297593,
+    "distance_km": 30.2,
+    "operator": "O‘zbekiston temir yo‘llari"
+   },
+   {
+    "name": "Paxtaboshi",
+    "name_en": null,
+    "lat": 39.8030835,
+    "lon": 67.3662339,
+    "distance_km": 36.2,
+    "operator": null
+   },
+   {
+    "name": "No 20",
+    "name_en": null,
+    "lat": 39.7860641,
+    "lon": 67.3256824,
+    "distance_km": 36.4,
+    "operator": null
+   },
+   {
+    "name": "No 19",
+    "name_en": null,
+    "lat": 39.8276082,
+    "lon": 67.4184915,
+    "distance_km": 36.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Samarkand Regency",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 39.6599488,
+   "lon": 67.0594674,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Samarkand Sogd",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 39.6558265,
+   "lon": 67.0573159,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Samarkand Afrosiyob",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 39.6562269,
+   "lon": 67.0554834,
+   "distance_km": 46.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Savitskiy Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6605728,
+   "lon": 67.056792,
+   "distance_km": 46.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dacha",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 39.4483027,
+   "lon": 67.9364428,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TJ",
   "country_zh": "塔吉克斯坦",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:33Z"
+ "updated_at": "2026-11-12T12:12:09Z"
 }

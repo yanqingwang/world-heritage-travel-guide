@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)(x)"
 lat: 32.0
 lon: -113.91666667
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:17Z"
 ---
 
 # 皮纳卡特和格兰德沙漠阿尔塔生物圈保护区 / El Pinacate and Gran Desierto de Altar Biosphere Reserve

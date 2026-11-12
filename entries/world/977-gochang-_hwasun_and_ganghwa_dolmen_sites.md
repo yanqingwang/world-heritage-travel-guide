@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "977"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)"
 lat: 34.96667
 lon: 126.92917
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:05Z"
 ---
 
 # 高昌、华森和江华的史前墓遗址 / Gochang, Hwasun and Ganghwa Dolmen Sites
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Ganghwado.jpg · see Wikimedia Commons file page*
 
-![Gochang, Hwasun and Ganghwa Dolmen Sites](https://whc.unesco.org/uploads/sites/site_977.jpg)
+![20141013강화역사박물관고인돌.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/20141013%EA%B0%95%ED%99%94%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg/1280px-20141013%EA%B0%95%ED%99%94%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Gochang, Hwasun and Ganghwa Dolmen Sites · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20141013강화역사박물관고인돌.jpg · Cuhullin · CC BY-SA 4.0*
+
+![Dolmen at Ganghwa Island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dolmen_at_Ganghwa_Island.jpg/1280px-Dolmen_at_Ganghwa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dolmen at Ganghwa Island.jpg · Taewangkorea · CC BY-SA 4.0*
+
+![Dolmen Ganghwa Island.JPG](https://upload.wikimedia.org/wikipedia/commons/2/21/Dolmen_Ganghwa_Island.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Dolmen Ganghwa Island.JPG · CC BY-SA 3.0*
+
+![Example of a northern-style dolmen at Ganghwa Island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg/1280px-Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Example of a northern-style dolmen at Ganghwa Island.jpg · Taewangkorea · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ The prehistoric cemeteries at Gochang, Hwasun, and Ganghwa contain many hundreds
 - ✈ **Gwangju Airport (KWJ)** — 20.7 km
 - ✈ **Muan International Airport (MWX)** — 49.9 km
 - ✈ **Yeosu Airport (RSU)** — 64.2 km
+- 🚉 **능주** — 3.8 km
+- 🚉 **화순** — 9.9 km
+- 🚉 **이양** — 10.0 km
+- 🚉 **남평** — 11.3 km
+- 🚉 **효천** — 15.9 km
+- ⛴ **장도선착장** — 40.7 km
+- ⛴ **상진포구** — 47.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1054.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **중흥골드스파 리조트** — 5.7 km — hotel — Jungheunggoldeuseupa Resort Hotel
+- **도곡미송온천호텔** — 6.6 km — hotel — Dogongmisong Hot Spring Hotel
+- **도곡온천관광호텔** — 7.5 km — hotel — Dogok Hot Spring Tourist Hotel
+- **크리스탈호텔** — 11.2 km — hotel — Crystal Hotel
+- **듀플렉스호텔** — 13.7 km — hotel — DUPLEX
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

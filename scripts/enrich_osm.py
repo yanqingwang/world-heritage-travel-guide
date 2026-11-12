@@ -3,7 +3,7 @@
 OpenStreetMap via Overpass.
 
 China 5A sites: hotels within 30 km, railway stations within 60 km.
-Overseas "full" tier (top 300): hotels within 50 km, stations and ferry
+Overseas "full" tier (top 500): hotels within 50 km, stations and ferry
 terminals within 50 km.  Overseas "basic" tier intentionally skips hotels.
 
 Caching / rotation:

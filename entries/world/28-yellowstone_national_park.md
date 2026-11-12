@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 44.6
 lon: -110.5
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:33Z"
 ---
 
 # 黄石国家公园 / Yellowstone National Park

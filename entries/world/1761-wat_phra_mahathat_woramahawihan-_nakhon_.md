@@ -8,13 +8,13 @@ country: "TH"
 country_zh: "泰国"
 country_en: "Thailand"
 unesco_id: "1761"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2026"
 criteria: "(ii)(vi)"
 lat: 8.411388888
 lon: 99.966666666
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:33Z"
 ---
 
 # 洛坤府的玛哈泰寺 / Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *วัดพระมหาธาตุวรมหาวิหาร.jpg · see Wikimedia Commons file page*
 
-![Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat](https://whc.unesco.org/uploads/sites/site_1761.jpg)
+![Buddha with clothing, Wat Phra Mahathat, Ayutthaya, Thailand - วัดมหาธาตุ, พระนครศรีอยุธยา, ประเทศไทย (10226483225).jpg](https://upload.wikimedia.org/wikipedia/commons/e/e2/Buddha_with_clothing%2C_Wat_Phra_Mahathat%2C_Ayutthaya%2C_Thailand_-_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%2C_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%2C_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%2810226483225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Buddha with clothing, Wat Phra Mahathat, Ayutthaya, Thailand - วัดมหาธาตุ, พระนครศรีอยุธยา, ประเทศไทย (10226483225).jpg · Romain Pontida · CC BY-SA 2.0*
+
+![Detail Chedi Wat Mahathat Nakhon Si Thammarat.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Detail_Chedi_Wat_Mahathat_Nakhon_Si_Thammarat.jpg/1280px-Detail_Chedi_Wat_Mahathat_Nakhon_Si_Thammarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Detail Chedi Wat Mahathat Nakhon Si Thammarat.jpg · Media lib · CC BY-SA 3.0*
+
+![Detail Wat Mahathat Nakhon Si Thammarat.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Detail_Wat_Mahathat_Nakhon_Si_Thammarat.jpg/1280px-Detail_Wat_Mahathat_Nakhon_Si_Thammarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Detail Wat Mahathat Nakhon Si Thammarat.jpg · Media lib · CC BY-SA 3.0*
+
+![King Taksin at Wat Phra Borom That.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/King_Taksin_at_Wat_Phra_Borom_That.JPG/960px-King_Taksin_at_Wat_Phra_Borom_That.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*King Taksin at Wat Phra Borom That.JPG · 2T · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Wat Phra Mahathat Woramahawihan (or Phra Mahathat monastery), located in Nakhon 
 - ✈ **Nakhon Si Thammarat Airport (NST)** — 14.5 km
 - ✈ **Trang Airport (TST)** — 107.5 km
 - ✈ **Krabi International Airport (KBV)** — 113.2 km
+- 🚉 **นครศรีธรรมราช** — 3.2 km
+- 🚉 **โคกคราม** — 18.1 km
+- 🚉 **บ้านทุ่งหล่อ** — 21.6 km
+- 🚉 **ชุมทางเขาชุมทอง** — 30.7 km
+- 🚉 **ร่อนพิบูลย์** — 31.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3875.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Laekhon Nonbai** — 1.1 km — hotel — Laekhon Nonbai
+- **Kiatnakhon hotel** — 1.3 km — hotel — Kiatnakhon hotel
+- **ทวินโลตัส** — 1.8 km — hotel — Twin Lotus
+- **Maharaj grand** — 2.4 km — hotel — Nakhonsi
+- **350thb hotel** — 2.5 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

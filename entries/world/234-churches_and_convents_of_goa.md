@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "234"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(ii)(iv)(vi)"
 lat: 15.5024
 lon: 73.9117
-updated_at: "2026-11-12T11:55:25Z"
+updated_at: "2026-11-12T12:11:40Z"
 ---
 
 # 果阿的教堂和修道院 / Churches and Convents of Goa
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:25Z"
 
 *Goa-StFrancis-Facade1.jpg · see Wikimedia Commons file page*
 
-![Churches and Convents of Goa](https://whc.unesco.org/uploads/sites/site_234.jpg)
+![Churches and Convents of Goa-109264.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Churches_and_Convents_of_Goa-109264.jpg/1280px-Churches_and_Convents_of_Goa-109264.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Churches and Convents of Goa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Churches and Convents of Goa-109264.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Churches and Convents of Goa-109269.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Churches_and_Convents_of_Goa-109269.jpg/1280px-Churches_and_Convents_of_Goa-109269.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Churches and Convents of Goa-109269.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Churches and Convents of Goa-109272.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Churches_and_Convents_of_Goa-109272.jpg/1280px-Churches_and_Convents_of_Goa-109272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Churches and Convents of Goa-109272.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Churches and Convents of Goa-109273.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Churches_and_Convents_of_Goa-109273.jpg/1280px-Churches_and_Convents_of_Goa-109273.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Churches and Convents of Goa-109273.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ The churches and convents of Goa, the former capital of the Portuguese Indies �
 - ✈ **Goa Dabolim International Airport (GOI)** — 16.0 km
 - ✈ **Manohar International Airport (GOX)** — 27.4 km
 - ✈ **Sindhudurg Airport (SDW)** — 69.0 km
+- 🚉 **Karmali** — 1.9 km
+- 🚉 **Dabolim** — 14.3 km
+- 🚉 **Thivim** — 14.7 km
+- 🚉 **Sankaval** — 15.3 km
+- 🚉 **Verna** — 16.5 km
+- ⛴ **Dhauji** — 3.0 km
+- ⛴ **Tolto** — 3.1 km
+- ⛴ **Gandaulim** — 3.7 km
+- ⛴ **Divar Jetty** — 3.7 km
+- ⛴ **Cumbarjua** — 3.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4955.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **DoubleTree by Hilton Goa - Panaji** — 3.0 km — star — 5★ · DoubleTree by Hilton
+- **Grand Hyatt** — 8.6 km — star — 5★
+- **Taj Holiday Village** — 15.2 km — star — 5★
+- **Taj Fort Aguada Resort & Spa** — 15.5 km — star — 5★
+- **Hilton Garden Inn Goa Calangute** — 16.1 km — star — 5★ · Hilton Garden Inn
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Alexandria King's Ranch",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 30.9823544,
+   "lon": 29.6927761,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Alexandria Green Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.2066358,
+   "lon": 29.9653965,
+   "distance_km": 49.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.1987068,
+   "lon": 29.8928597,
+   "distance_km": 45.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق إيبيروتيل برج العرب",
+   "name_en": "Iberotel Borg El Arab Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.9325692,
+   "lon": 29.4747301,
+   "distance_km": 20.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Adham Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0229342,
+   "lon": 29.7718735,
+   "distance_km": 22.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 41,
+ "stations": [
+  {
+   "name": "عزبة محمد فريد",
+   "name_en": null,
+   "lat": 30.8619616,
+   "lon": 29.6177923,
+   "distance_km": 4.9,
+   "operator": null
+  },
+  {
+   "name": "برج العرب الجديدة",
+   "name_en": "New Borg El Arab",
+   "lat": 30.8869787,
+   "lon": 29.5936194,
+   "distance_km": 8.4,
+   "operator": null
+  },
+  {
+   "name": "قرية بهيج",
+   "name_en": null,
+   "lat": 30.9215106,
+   "lon": 29.595433,
+   "distance_km": 11.1,
+   "operator": null
+  },
+  {
+   "name": "برج العرب",
+   "name_en": null,
+   "lat": 30.8955044,
+   "lon": 29.5488069,
+   "distance_km": 12.5,
+   "operator": null
+  },
+  {
+   "name": "جبل الحمام",
+   "name_en": "Gabel al Hammam",
+   "lat": 30.8800018,
+   "lon": 29.4977651,
+   "distance_km": 16.4,
+   "operator": null
+  },
+  {
+   "name": "Ikingi Maryut",
+   "name_en": null,
+   "lat": 30.9979606,
+   "lon": 29.7645395,
+   "distance_km": 19.9,
+   "operator": null
+  },
+  {
+   "name": "Station",
+   "name_en": null,
+   "lat": 31.0182579,
+   "lon": 29.7983194,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "El Hamam HSR Station",
+   "name_en": "El Hamam HSR Station",
+   "lat": 30.8249753,
+   "lon": 29.3491953,
+   "distance_km": 30.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sidi Kerir tanker facility",
+   "name_en": null,
+   "lat": 31.0555061,
+   "lon": 29.6696548,
+   "distance_km": 23.9,
+   "operator": "Arab Petroleum Pipelines CO (SUMED)"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:32Z"
+}

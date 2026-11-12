@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(vi)"
 lat: 35.897777777
 lon: 14.5125
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:35Z"
 ---
 
 # 瓦莱塔古城 / City of Valletta

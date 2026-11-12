@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(i)(iii)(v)"
 lat: -27.072877
 lon: -109.348579
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:54Z"
 ---
 
 # 拉帕努伊国家公园 / Rapa Nui National Park

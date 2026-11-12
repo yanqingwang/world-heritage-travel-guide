@@ -2,8 +2,8 @@
  "id": "wh-1021",
  "unesco_id": "1021",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 476,
+ "tier": "full",
+ "popularity_rank": 494,
  "popularity_score": 11919,
  "country": "BW",
  "country_zh": "博茨瓦纳",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1021.jpg",
-   "title": "Tsodilo",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1021",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Animals_Rock_Art_Tsodilo.jpg/1280px-Animals_Rock_Art_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Animals Rock Art Tsodilo.jpg",
+   "author": "Oliver Vass",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Animals_Rock_Art_Tsodilo.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Closeup_of_Tsodilo_Rock_Art.jpg/1280px-Closeup_of_Tsodilo_Rock_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Closeup of Tsodilo Rock Art.jpg",
+   "author": "Oliver Vass",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_Tsodilo_Rock_Art.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Geometric_Shapes_Tsodilo.jpg/1280px-Geometric_Shapes_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Geometric Shapes Tsodilo.jpg",
+   "author": "Oliver Vass",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Geometric_Shapes_Tsodilo.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Giraffe_Rock_Art_Painting_Tsodilo.jpg/1280px-Giraffe_Rock_Art_Painting_Tsodilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Giraffe Rock Art Painting Tsodilo.jpg",
+   "author": "Oliver Vass",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Giraffe_Rock_Art_Painting_Tsodilo.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1021",
@@ -103,7 +127,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Drotsky's Cabins",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4263333,
+   "lon": 21.8664333,
+   "distance_km": 40.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shakawe River Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4343972,
+   "lon": 21.9053011,
+   "distance_km": 40.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Supupa Swamp camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.7451873,
+   "lon": 22.1966575,
+   "distance_km": 46.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sepupa Swamp Stop",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.7458167,
+   "lon": 22.1973833,
+   "distance_km": 46.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Inyankuni houseboat",
+   "name_en": "Inyankuni houseboat",
+   "stars": null,
+   "brand": null,
+   "lat": -18.3508176,
+   "lon": 21.8386108,
+   "distance_km": 47.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BW",
   "country_zh": "博茨瓦纳",
@@ -176,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:07Z"
 }

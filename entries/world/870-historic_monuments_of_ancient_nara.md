@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "870"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.67556
 lon: 135.83944
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 古奈良的历史遗迹 / Historic Monuments of Ancient Nara
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:55:31Z"
 ![Todaiji18s3200.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Todaiji18s3200.jpg?width=1280)
 
 *Todaiji18s3200.jpg · see Wikimedia Commons file page*
+
+![LocMap of WH Ancient Nara 2.png](https://upload.wikimedia.org/wikipedia/commons/1/16/LocMap_of_WH_Ancient_Nara_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Ancient Nara 2.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
+
+![LocMap of WH Ancient Nara.png](https://upload.wikimedia.org/wikipedia/commons/2/26/LocMap_of_WH_Ancient_Nara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Ancient Nara.png · The original uploader was 光合成 at Chinese Wikipedia . · CC BY-SA 3.0*
 
 ![Historic Monuments of Ancient Nara](https://whc.unesco.org/uploads/sites/site_870.jpg)
 
@@ -52,7 +60,27 @@ Nara was the capital of Japan from 710 to 784. During this period the framework 
 - ✈ **Osaka Itami International Airport (ITM)** — 38.3 km
 - ✈ **Kobe Airport (UKB)** — 56.5 km
 - ✈ **Kansai International Airport (KIX)** — 61.1 km
+- 🚉 **京終** — 1.2 km
+- 🚉 **近鉄奈良** — 1.4 km
+- 🚉 **奈良** — 2.0 km
+- 🚉 **新大宮** — 2.8 km
+- 🚉 **帯解** — 3.8 km
+- ⛴ **枚方船着場** — 24.2 km
+- ⛴ **久御山町船着場** — 27.1 km
+- ⛴ **背割堤船着場** — 27.2 km
+- ⛴ **大阪城公園船着場** — 28.0 km
+- ⛴ **大阪城港** — 28.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1762.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **ホテル ザ ルーテル** — 29.4 km — star — 5★
+- **大阪マリオネット都ホテル** — 30.0 km — star — Osaka Marriott Miyako · 5★ · Marriott
+- **コンラッド大阪** — 31.5 km — star — Conrad Osaka · 5★ · Conrad
+- **ヒルトン大阪** — 31.5 km — star — Hilton Osaka · 5★ · Hilton
+- **ホテルグランヴィア京都** — 35.3 km — star — Hotel Granvia Kyoto · 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

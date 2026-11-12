@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "930"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(v)"
 lat: 38.264444444
 lon: -0.690833333
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:03Z"
 ---
 
 # 埃尔切的帕梅拉尔 / Palmeral of Elche
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Arcoiris en el Palmeral de Elche.jpg · see Wikimedia Commons file page*
 
-![Palmeral of Elche](https://whc.unesco.org/uploads/sites/site_930.jpg)
+![1917-03-31 IBÉRICA 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/1917-03-31_IB%C3%89RICA_03.jpg/1280px-1917-03-31_IB%C3%89RICA_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Palmeral of Elche · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1917-03-31 IBÉRICA 03.jpg · Unknown author Unknown author · Public domain*
+
+![2003 in Alicante (e).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2003_in_Alicante_%28e%29.jpg/1280px-2003_in_Alicante_%28e%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2003 in Alicante (e).jpg · Thomas Dahlstrøm Nielsen · CC BY-SA 4.0*
+
+![36212-Elche.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/36212-Elche.jpg/1280px-36212-Elche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*36212-Elche.jpg · xiquinhosilva · CC BY 2.0*
+
+![36272-Elche.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/36272-Elche.jpg/1280px-36272-Elche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*36272-Elche.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ El paisaje formado por los huertos de palmeras de Elche, con sus complejos siste
 - ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 11.7 km
 - ✈ **Region of Murcia International Airport (RMU)** — 63.9 km
 - ✈ **Valencia Airport (VLC)** — 137.4 km
+- 🚉 **Elx Carrús** — 1.4 km
+- 🚉 **Gabinete de Circulación Elx Mercaderíes** — 3.5 km
+- 🚉 **Torrellano** — 9.8 km
+- 🚉 **Novelda-Aspe** — 17.6 km
+- 🚉 **Alacant Terminal** — 19.2 km
+- ⛴ **Santa Pola** — 14.2 km
+- ⛴ **Cruise Terminal** — 19.5 km
+- ⛴ **Alicante-Isla de Tabarca** — 19.9 km
+- ⛴ **Marina Alicante** — 20.0 km
+- ⛴ **Tabarca** — 21.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9209.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hospes Amérigo** — 20.2 km — star — 5★
+- **Hotel HUSA Golf** — 26.5 km — star — 5★
+- **Hotel Servigroup Montiboli** — 44.8 km — star — 5★
+- **Hotel Palacio de San Juan** — 49.3 km — star — 5★ · Royal Hideaway Hotel
+- **Hotel Huerto del Cura** — 0.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

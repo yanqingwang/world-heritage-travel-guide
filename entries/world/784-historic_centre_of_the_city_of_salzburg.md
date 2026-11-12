@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)(vi)"
 lat: 47.7997
 lon: 13.0486
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:57Z"
 ---
 
 # 萨尔茨堡市历史中心 / Historic Centre of the City of Salzburg

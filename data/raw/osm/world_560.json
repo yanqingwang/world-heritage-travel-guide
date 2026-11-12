@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Estancia universal",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3736046,
+   "lon": -107.9484677,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa del Nopal",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3742363,
+   "lon": -107.947925,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pueblo del Soul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.368959,
+   "lon": -107.9542407,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Casa de los Vientos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3745699,
+   "lon": -107.9472133,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Paquime",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.4177635,
+   "lon": -107.9149091,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 10,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:05Z"
+}

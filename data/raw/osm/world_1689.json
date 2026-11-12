@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hampton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 40.0249626,
+   "lon": -82.4461252,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 40.0601281,
+   "lon": -82.4011108,
+   "distance_km": 3.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Lakewood Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 39.9601247,
+   "lon": -82.4781258,
+   "distance_km": 10.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 40.0918719,
+   "lon": -82.7869601,
+   "distance_km": 29.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites Columbus East",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 39.9360424,
+   "lon": -82.7855986,
+   "distance_km": 31.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 152,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:42Z"
+}

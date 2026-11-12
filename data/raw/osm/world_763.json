@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Palace Brno",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.1921304,
+   "lon": 16.6055663,
+   "distance_km": 47.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hraniční zámeček",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7807715,
+   "lon": 16.7569444,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zámecký hotel Lednice",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.8008191,
+   "lon": 16.8039571,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Spa Resort Lednice",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7956599,
+   "lon": 16.8115586,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Galant",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.8030689,
+   "lon": 16.8014646,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 206,
+ "stations": [
+  {
+   "name": "Valtice",
+   "name_en": null,
+   "lat": 48.7475532,
+   "lon": 16.7427548,
+   "distance_km": 3.9,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Sedlec u Mikulova",
+   "name_en": null,
+   "lat": 48.7747792,
+   "lon": 16.6966426,
+   "distance_km": 5.7,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Boří les",
+   "name_en": null,
+   "lat": 48.7378902,
+   "lon": 16.8671204,
+   "distance_km": 8.0,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Břeclav",
+   "name_en": null,
+   "lat": 48.7539713,
+   "lon": 16.8932662,
+   "distance_km": 9.0,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Podivín",
+   "name_en": null,
+   "lat": 48.8374706,
+   "lon": 16.8540642,
+   "distance_km": 9.0,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Mikulov na Moravě",
+   "name_en": null,
+   "lat": 48.8021174,
+   "lon": 16.6254526,
+   "distance_km": 11.3,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Zaječí",
+   "name_en": null,
+   "lat": 48.8896688,
+   "lon": 16.7815009,
+   "distance_km": 12.7,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Velké Pavlovice",
+   "name_en": null,
+   "lat": 48.8897949,
+   "lon": 16.8235945,
+   "distance_km": 13.2,
+   "operator": "Správa železnic"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Přístaviště Zámek",
+   "name_en": null,
+   "lat": 48.8033136,
+   "lon": 16.8082706,
+   "distance_km": 3.9,
+   "operator": null
+  },
+  {
+   "name": "Minaret",
+   "name_en": null,
+   "lat": 48.8143338,
+   "lon": 16.8154068,
+   "distance_km": 5.2,
+   "operator": null
+  },
+  {
+   "name": "Janohrad",
+   "name_en": null,
+   "lat": 48.8044204,
+   "lon": 16.8310559,
+   "distance_km": 5.2,
+   "operator": null
+  },
+  {
+   "name": "Přístav Kemp Mars Šakvice",
+   "name_en": null,
+   "lat": 48.872894,
+   "lon": 16.7253728,
+   "distance_km": 11.4,
+   "operator": "Lodní doprava Břeclav"
+  },
+  {
+   "name": "Přístav Pavlov",
+   "name_en": null,
+   "lat": 48.8782491,
+   "lon": 16.6810814,
+   "distance_km": 13.3,
+   "operator": "Lodní doprava Břeclav"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:31Z"
+}

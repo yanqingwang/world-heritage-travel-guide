@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "660"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.614275
 lon: 135.734236
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:52Z"
 ---
 
 # 法隆寺地区的佛教古迹 / Buddhist Monuments in the Horyu-ji Area
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:55:28Z"
 ![Horyu-ji10s3200.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Horyu-ji10s3200.jpg?width=1280)
 
 *Horyu-ji10s3200.jpg · see Wikimedia Commons file page*
+
+![LocMap of WH Horyu-ji Area.png](https://upload.wikimedia.org/wikipedia/commons/3/3e/LocMap_of_WH_Horyu-ji_Area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Horyu-ji Area.png · Original uploader was 光合成 at zh.wikipedia · CC BY-SA 3.0*
 
 ![Buddhist Monuments in the Horyu-ji Area](https://whc.unesco.org/uploads/sites/site_660.jpg)
 
@@ -52,7 +56,27 @@ There are around 48 Buddhist monuments in the Horyu-ji area, in Nara Prefecture.
 - ✈ **Osaka Itami International Airport (ITM)** — 32.6 km
 - ✈ **Kobe Airport (UKB)** — 46.7 km
 - ✈ **Kansai International Airport (KIX)** — 49.5 km
+- 🚉 **法隆寺** — 1.5 km
+- 🚉 **竜田川** — 2.7 km
+- 🚉 **大和小泉** — 2.8 km
+- 🚉 **大輪田** — 3.1 km
+- 🚉 **勢野北口** — 3.2 km
+- ⛴ **大阪城港** — 20.2 km
+- ⛴ **大阪城公園船着場** — 20.2 km
+- ⛴ **御座船のりば** — 20.8 km
+- ⛴ **桜ノ宮港** — 21.3 km
+- ⛴ **八軒家浜船着場** — 21.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1762.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **大阪マリオネット都ホテル** — 20.5 km — star — Osaka Marriott Miyako · 5★ · Marriott
+- **ホテル ザ ルーテル** — 21.2 km — star — 5★
+- **コンラッド大阪** — 23.6 km — star — Conrad Osaka · 5★ · Conrad
+- **ヒルトン大阪** — 23.8 km — star — Hilton Osaka · 5★ · Hilton
+- **ホテルグランヴィア京都** — 41.4 km — star — Hotel Granvia Kyoto · 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

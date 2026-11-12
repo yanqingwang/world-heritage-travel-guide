@@ -8,13 +8,13 @@ country: "ET"
 country_zh: "埃塞俄比亚"
 country_en: "Ethiopia"
 unesco_id: "9"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1978"
 criteria: "(vii)(x)"
 lat: 13.183333333
 lon: 38.066666666
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:32Z"
 ---
 
 # 塞米恩国家公园 / Simien National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Simienské hory.jpg · see Wikimedia Commons file page*
 
-![Simien National Park](https://whc.unesco.org/uploads/sites/site_9.jpg)
+![Chennek Camp.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chennek_Camp.jpg/1280px-Chennek_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Simien National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chennek Camp.jpg · Bernard Gagnon · CC BY-SA 3.0*
+
+![Cliffs of the Simien Mountains.jpg](https://upload.wikimedia.org/wikipedia/commons/1/13/Cliffs_of_the_Simien_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cliffs of the Simien Mountains.jpg · Barrowbob · CC BY-SA 4.0*
+
+![Clouds in the Simien Mountains.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b3/Clouds_in_the_Simien_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Clouds in the Simien Mountains.jpg · Barrowbob · CC BY-SA 4.0*
+
+![Ethiopia (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ethiopia_%281%29.jpg/1280px-Ethiopia_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ethiopia (1).jpg · Martino's doodles from London, UK · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ Massive erosion over the years on the Ethiopian plateau has created one of the m
 - ✈ **Shire Inda Selassie Airport (SHC)** — 101.7 km
 - ✈ **Axum Airport (AXU)** — 131.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8198.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Simien Mountain Lodge** — 10.1 km — hotel
+- **Simien Park Hotel** — 17.8 km — hotel
+- **Walya Lodge** — 18.3 km — hotel
+- **Giant Lobelia Hotel** — 18.5 km — hotel
+- **Pension Everlasting** — 18.5 km — hotel — Pension Everlasting
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

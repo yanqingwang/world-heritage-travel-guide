@@ -8,13 +8,13 @@ country: "TJ"
 country_zh: "塔吉克斯坦"
 country_en: "Tajikistan"
 unesco_id: "1675"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iii)(v)"
 lat: 39.441488888
 lon: 69.685558333
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:28Z"
 ---
 
 # 丝绸之路：扎拉夫尚-卡拉库姆廊道 / Silk Roads: Zarafshan-Karakum Corridor
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *Rabat Malik 12-50.JPG · see Wikimedia Commons file page*
 
-![Silk Roads: Zarafshan-Karakum Corridor](https://whc.unesco.org/uploads/sites/site_1675.jpg)
+![Akja Gala Caravanserai - general view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Akja_Gala_Caravanserai_-_general_view.jpg/1280px-Akja_Gala_Caravanserai_-_general_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Silk Roads: Zarafshan-Karakum Corridor · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Akja Gala Caravanserai - general view.jpg · A. T. Orazow · CC BY-SA 3.0*
+
+![Gyzylja Gala - Caravanserai general view to the site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gyzylja_Gala_-_Caravanserai_general_view_to_the_site.jpg/1280px-Gyzylja_Gala_-_Caravanserai_general_view_to_the_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gyzylja Gala - Caravanserai general view to the site.jpg · A. T. Orazow · CC BY-SA 3.0*
+
+![Khisorak settlement Aerial view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Khisorak_settlement_Aerial_view.jpg/1280px-Khisorak_settlement_Aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Khisorak settlement Aerial view.jpg · IICAS · CC BY-SA 3.0*
+
+![Kum settlement View to east aerial view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kum_settlement_View_to_east_aerial_view.jpg/1280px-Kum_settlement_View_to_east_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kum settlement View to east aerial view.jpg · P.B. Lurje · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,14 @@ The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asi
 - ✈ **Dushanbe International Airport (DYU)** — 124.6 km
 - ✈ **Zomin Airport (OMN)** — 126.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3937.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Шаҳром** — 31.4 km — hotel — Shahrom Hotel
+- **гост.Дилбар** — 46.1 km — hotel
+- **Gostinitsa Ozgorush** — 48.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

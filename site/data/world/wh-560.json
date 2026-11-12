@@ -2,8 +2,8 @@
  "id": "wh-560",
  "unesco_id": "560",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 411,
+ "tier": "full",
+ "popularity_rank": 427,
  "popularity_score": 15228,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -132,7 +132,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Estancia universal",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3736046,
+   "lon": -107.9484677,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa del Nopal",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3742363,
+   "lon": -107.947925,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pueblo del Soul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.368959,
+   "lon": -107.9542407,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Casa de los Vientos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3745699,
+   "lon": -107.9472133,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Paquime",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.4177635,
+   "lon": -107.9149091,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -204,5 +260,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:28Z"
+ "updated_at": "2026-11-12T12:11:49Z"
 }

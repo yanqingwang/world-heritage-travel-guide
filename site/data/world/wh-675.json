@@ -2,8 +2,8 @@
  "id": "wh-675",
  "unesco_id": "675",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 413,
+ "tier": "full",
+ "popularity_rank": 429,
  "popularity_score": 14919,
  "country": "SV",
  "country_zh": "萨尔瓦多",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_675.jpg",
-   "title": "Joya de Cerén Archaeological Site",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/675",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ceren_%2810%29_sm_%284290048934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ceren (10) sm (4290048934).jpg",
+   "author": "xorge",
+   "license": "CC BY-SA 2.0",
+   "credit": "ceren (10)_sm",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceren_%2810%29_sm_%284290048934%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ceren_%2818%29_sm_%284289305623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ceren (18) sm (4289305623).jpg",
+   "author": "xorge",
+   "license": "CC BY-SA 2.0",
+   "credit": "ceren (18)_sm",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceren_%2818%29_sm_%284289305623%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ceren_%2821%29_sm_%284289305699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ceren (21) sm (4289305699).jpg",
+   "author": "xorge",
+   "license": "CC BY-SA 2.0",
+   "credit": "ceren (21)_sm",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceren_%2821%29_sm_%284289305699%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ceren_%283%29_sm_%284290048722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ceren (3) sm (4290048722).jpg",
+   "author": "xorge",
+   "license": "CC BY-SA 2.0",
+   "credit": "ceren (3)_sm",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceren_%283%29_sm_%284290048722%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/675",
@@ -103,9 +127,82 @@
   "nearest_airport_km": 29.2,
   "distance_beijing_km": 13471.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "La Estación",
+    "name_en": null,
+    "lat": 13.8069691,
+    "lon": -89.2297487,
+    "distance_km": 13.8,
+    "operator": null
+   },
+   {
+    "name": "Estación de Tren FENADESAL",
+    "name_en": null,
+    "lat": 13.7010139,
+    "lon": -89.1760131,
+    "distance_km": 24.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Villa Dovela San Benito",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.6888266,
+   "lon": -89.2406179,
+   "distance_km": 19.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Armonia Hostal",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Armonía hostal",
+   "lat": 13.719743,
+   "lon": -89.2076849,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa Serena Escalón",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.7024872,
+   "lon": -89.2230801,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton San Salvador",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 13.7097284,
+   "lon": -89.2412114,
+   "distance_km": 18.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sheraton Presidente",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.691336,
+   "lon": -89.2416896,
+   "distance_km": 19.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SV",
   "country_zh": "萨尔瓦多",
@@ -177,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:29Z"
+ "updated_at": "2026-11-12T12:11:53Z"
 }

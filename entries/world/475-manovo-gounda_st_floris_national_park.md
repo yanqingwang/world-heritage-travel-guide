@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ix)(x)"
 lat: 8.5
 lon: 21.5
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:47Z"
 ---
 
 # 马诺沃贡达圣绅罗里斯国家公园 / Manovo-Gounda St Floris National Park

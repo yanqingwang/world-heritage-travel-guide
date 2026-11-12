@@ -2,8 +2,8 @@
  "id": "wh-1136",
  "unesco_id": "1136",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 450,
+ "tier": "full",
+ "popularity_rank": 467,
  "popularity_score": 12748,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1136.jpg",
-   "title": "Luis Barragán House and Studio",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1136",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Barragan_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Barragan 001.JPG",
+   "author": "Aromgom",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Barragan_001.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Casa_Barragan-Torre_del_agua_-_panoramio.jpg/1280px-Casa_Barragan-Torre_del_agua_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Casa Barragan-Torre del agua - panoramio.jpg",
+   "author": "JavierDo",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161026155216/http://www.panoramio.com/photo/22904187",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_Barragan-Torre_del_agua_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Casa_Gilardi_de_Luis_Barrag%C3%A1n%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Casa Gilardi de Luis Barragán, 2024.jpg",
+   "author": "TSolange",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_Gilardi_de_Luis_Barrag%C3%A1n%2C_2024.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Corner_of_Luis_Barrag%C3%A0n_House_roof_with_tree_in_the_background.jpg/1280px-Corner_of_Luis_Barrag%C3%A0n_House_roof_with_tree_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Corner of Luis Barragàn House roof with tree in the background.jpg",
+   "author": "Daniel Case",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Corner_of_Luis_Barrag%C3%A0n_House_roof_with_tree_in_the_background.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1136",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 13.1,
   "distance_beijing_km": 12436.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Estación AIFA",
+    "name_en": null,
+    "lat": 19.7353213,
+    "lon": -99.0262167,
+    "distance_km": 40.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Buenavista",
+    "name_en": null,
+    "lat": 19.44738,
+    "lon": -99.1520066,
+    "distance_km": 5.9,
+    "operator": "Ferrocarriles Suburbanos"
+   },
+   {
+    "name": "Estación Río Hondo",
+    "name_en": null,
+    "lat": 19.4413935,
+    "lon": -99.252226,
+    "distance_km": 7.1,
+    "operator": null
+   },
+   {
+    "name": "Fortuna",
+    "name_en": null,
+    "lat": 19.4917527,
+    "lon": -99.1710681,
+    "distance_km": 9.2,
+    "operator": "Ferrocarriles Suburbanos"
+   },
+   {
+    "name": "Tasqueña",
+    "name_en": null,
+    "lat": 19.3436739,
+    "lon": -99.1404751,
+    "distance_km": 9.3,
+    "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+   },
+   {
+    "name": "Las Torres",
+    "name_en": null,
+    "lat": 19.3408028,
+    "lon": -99.1434188,
+    "distance_km": 9.4,
+    "operator": "Servicio de Transportes Eléctricos de la Ciudad de México"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Ritz-Carlton, Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 19.4239552,
+   "lon": -99.1757289,
+   "distance_km": 2.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 19.42293,
+   "lon": -99.1742051,
+   "distance_km": 2.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Marquis Reforma",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.4250374,
+   "lon": -99.1737889,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "St. Regis Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "St. Regis",
+   "lat": 19.4256625,
+   "lon": -99.1723556,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Maison México Roma",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Lomas Hospitality",
+   "lat": 19.4178053,
+   "lon": -99.1675343,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:33Z"
+ "updated_at": "2026-11-12T12:12:09Z"
 }

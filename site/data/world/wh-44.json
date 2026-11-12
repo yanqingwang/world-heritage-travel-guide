@@ -2,8 +2,8 @@
  "id": "wh-44",
  "unesco_id": "44",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 414,
+ "tier": "full",
+ "popularity_rank": 430,
  "popularity_score": 14909,
  "country": "BG",
  "country_zh": "保加利亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_44.jpg",
-   "title": "Thracian Tomb of Kazanlak",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/44",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buk9994.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Buk9994.JPG",
+   "author": "The original uploader was Kani at Esperanto Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from eo.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Buk9994.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Garland_01.JPG/1280px-Garland_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Garland 01.JPG",
+   "author": "SashaCoachman",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Garland_01.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Garland_02.JPG/1280px-Garland_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Garland 02.JPG",
+   "author": "SashaCoachman",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Garland_02.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Info_on_Kazanlak_tomb_copy.jpg/1280px-Info_on_Kazanlak_tomb_copy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Info on Kazanlak tomb copy.jpg",
+   "author": "Galileo01",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Info_on_Kazanlak_tomb_copy.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/44",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 76.7,
   "distance_beijing_km": 7286.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Казанлък",
+    "name_en": "Kazanlak",
+    "lat": 42.6138328,
+    "lon": 25.3915575,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "Черганово",
+    "name_en": "Cherganovo",
+    "lat": 42.588489,
+    "lon": 25.4747329,
+    "distance_km": 7.4,
+    "operator": null
+   },
+   {
+    "name": "Дунавци",
+    "name_en": null,
+    "lat": 42.6590686,
+    "lon": 25.3023217,
+    "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Тулово",
+    "name_en": "Tulovo",
+    "lat": 42.5720906,
+    "lon": 25.5544722,
+    "distance_km": 14.0,
+    "operator": "НКЖИ"
+   },
+   {
+    "name": "Сахране",
+    "name_en": null,
+    "lat": 42.6459524,
+    "lon": 25.2230126,
+    "distance_km": 14.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kings' Valley Medical & Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5816406,
+   "lon": 25.4284411,
+   "distance_km": 5.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Diana mar",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5977797,
+   "lon": 25.2110307,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Княз Павел",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5997669,
+   "lon": 25.2056259,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Спа хотел-ресторант \"Стара Загора\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.4448192,
+   "lon": 25.6352725,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Казанлък",
+   "name_en": "Kazanlak Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.6192487,
+   "lon": 25.3940307,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BG",
   "country_zh": "保加利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:24Z"
+ "updated_at": "2026-11-12T12:11:33Z"
 }

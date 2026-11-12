@@ -8,13 +8,13 @@ country: "NL"
 country_zh: "荷兰王国"
 country_en: "Kingdom of the Netherlands"
 unesco_id: "1441"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iv)"
 lat: 51.922778
 lon: 4.433611
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:18Z"
 ---
 
 # 范內勒工廠 / Van Nellefabriek
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *Rotterdam van nelle fabriek.jpg · see Wikimedia Commons file page*
 
-![Van Nellefabriek](https://whc.unesco.org/uploads/sites/site_1441.jpg)
+!["Gedicht in staal en glas".jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Gedicht_in_staal_en_glas%22.jpg/1280px-%22Gedicht_in_staal_en_glas%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Van Nellefabriek · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Gedicht in staal en glas".jpg · Davidh820 · CC BY-SA 4.0*
+
+![1948 Bouw van een bedrijfspand aan de Giessenweg in de Spaanse Polder, gezien vanaf de Bornissehaven.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/1948_Bouw_van_een_bedrijfspand_aan_de_Giessenweg_in_de_Spaanse_Polder%2C_gezien_vanaf_de_Bornissehaven.jpg/1280px-1948_Bouw_van_een_bedrijfspand_aan_de_Giessenweg_in_de_Spaanse_Polder%2C_gezien_vanaf_de_Bornissehaven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1948 Bouw van een bedrijfspand aan de Giessenweg in de Spaanse Polder, gezien vanaf de Bornissehaven.jpg · Vervaardiger: Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken) Auteursrechthouder: Gemeente Rotterdam  · CC BY-SA 4.0*
+
+![Overzicht gevel van de fabriek met 'Van Nelle' benaming op het dak, gezien vanaf de Schuttevaerweg - Rotterdam - 20349703 - RCE.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Overzicht_gevel_van_de_fabriek_met_%27Van_Nelle%27_benaming_op_het_dak%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20349703_-_RCE.jpg/1280px-Overzicht_gevel_van_de_fabriek_met_%27Van_Nelle%27_benaming_op_het_dak%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20349703_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Overzicht gevel van de fabriek met 'Van Nelle' benaming op het dak, gezien vanaf de Schuttevaerweg - Rotterdam - 20349703 - RCE.jpg · Hoogewoud, R. (Fotograaf) · CC BY-SA 4.0*
+
+![Overzicht van de gevel met 'Van Nelle' geveltekst, gezien vanaf de Schuttevaerweg - Rotterdam - 20535961 - RCE.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Overzicht_van_de_gevel_met_%27Van_Nelle%27_geveltekst%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20535961_-_RCE.jpg/1280px-Overzicht_van_de_gevel_met_%27Van_Nelle%27_geveltekst%2C_gezien_vanaf_de_Schuttevaerweg_-_Rotterdam_-_20535961_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Overzicht van de gevel met 'Van Nelle' geveltekst, gezien vanaf de Schuttevaerweg - Rotterdam - 20535961 - RCE.jpg · Kris Roderburg · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ De voormalige Van Nellefabriek aan de Delfshavense Schie in Rotterdam geldt als 
 - ✈ **Rotterdam The Hague Airport (RTM)** — 3.8 km
 - ✈ **Amsterdam Airport Schiphol (AMS)** — 48.5 km
 - ✈ **Antwerp International Airport (Deurne) (ANR)** — 81.4 km
+- 🚉 **Rotterdam Centraal** — 2.5 km
+- 🚉 **Rotterdam Noord** — 3.9 km
+- 🚉 **Rotterdam Zuid** — 5.6 km
+- 🚉 **Rotterdam Lombardijen** — 8.2 km
+- 🚉 **Rotterdam Alexander** — 8.8 km
+- ⛴ **Watertaxi - Marconistraat / M4H (87)** — 1.4 km
+- ⛴ **Watertaxi - RDM / Heijplaat (92)** — 2.9 km
+- ⛴ **Schiedam, Maasboulevard** — 3.0 km
+- ⛴ **Rotterdam, Erasmusbrug** — 3.7 km
+- ⛴ **Watertaxi - Charloisse Hoofd (70)** — 3.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7869.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Rotterdam** — 3.0 km — star — 5★ · Hilton
+- **Grand Hotel Huis ter Duin** — 35.4 km — star — 5★
+- **Palace Hotel Noordwijk** — 35.5 km — star — 5★ · Van der Valk
+- **Novotel Rotterdam Brainpark** — 6.6 km — star — 4★ · Novotel
+- **Bastion Hotel Rotterdam Alexander** — 7.4 km — star — 4★ · Bastion Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

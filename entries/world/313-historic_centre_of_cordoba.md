@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "313"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1984"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.879194444
 lon: -4.779722222
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:42Z"
 ---
 
 # 科尔多瓦历史中心 / Historic Centre of Cordoba
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *Centro Histórico, 16.9 -- 2023 -- Córdoba, España.jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Cordoba](https://whc.unesco.org/uploads/sites/site_313.jpg)
+![Centro histórico de Córdoba, Mezquita.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Centro_hist%C3%B3rico_de_C%C3%B3rdoba%2C_Mezquita.jpg/1280px-Centro_hist%C3%B3rico_de_C%C3%B3rdoba%2C_Mezquita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre of Cordoba · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Centro histórico de Córdoba, Mezquita.jpg · D.Rovchak · CC BY-SA 4.0*
+
+![Centro histórico de Córdoba, Puerta del Puente.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Centro_hist%C3%B3rico_de_C%C3%B3rdoba%2C_Puerta_del_Puente.jpg/1280px-Centro_hist%C3%B3rico_de_C%C3%B3rdoba%2C_Puerta_del_Puente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Centro histórico de Córdoba, Puerta del Puente.jpg · D.Rovchak · CC BY-SA 4.0*
+
+![Centro Histórico, 16.9 -- 2023 -- Córdoba, España.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Centro_Hist%C3%B3rico%2C_16.9_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg/1280px-Centro_Hist%C3%B3rico%2C_16.9_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Centro Histórico, 16.9 -- 2023 -- Córdoba, España.jpg · Jose María Ligero Loarte · CC BY-SA 4.0*
+
+![Centro Histórico, 3.2 -- 2023 -- Córdoba, España.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Centro_Hist%C3%B3rico%2C_3.2_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg/1280px-Centro_Hist%C3%B3rico%2C_3.2_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Centro Histórico, 3.2 -- 2023 -- Córdoba, España.jpg · José Ligero Loarte · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ El período de gloria de Córdoba comenzó en el siglo VIII, después de su conq
 - ✈ **Córdoba Airport (ODB)** — 7.3 km
 - ✈ **Seville Airport (SVQ)** — 110.6 km
 - ✈ **F.G.L. Airport Granada-Jaén Airport (GRX)** — 117.1 km
+- 🚉 **Córdoba Julio Anguita** — 1.3 km
+- 🚉 **El Higuerón** — 6.4 km
+- 🚉 **Alcolea de Córdoba** — 11.0 km
+- 🚉 **Villarrubia de Córdoba** — 12.3 km
+- 🚉 **Posadas** — 29.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9498.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Eurostars Palace** — 0.6 km — star — 5★ · Eurostars Hotel Company
+- **Palacio del Bailío** — 0.9 km — star — 5★
+- **Eurostars Conquistador** — 0.1 km — star — 4★ · Eurostars Hotel Company
+- **NH Collection** — 0.3 km — star — 4★
+- **Madinat** — 0.3 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

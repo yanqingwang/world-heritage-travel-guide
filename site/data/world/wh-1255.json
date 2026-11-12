@@ -2,8 +2,8 @@
  "id": "wh-1255",
  "unesco_id": "1255",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 452,
+ "tier": "full",
+ "popularity_rank": 469,
  "popularity_score": 12686,
  "country": "NA",
  "country_zh": "纳米比亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1255.jpg",
-   "title": "Twyfelfontein or /Ui-//aes",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1255",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunene_Region%2C_Namibia_-_panoramio_%281%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kunene Region, Namibia - panoramio (1).jpg",
+   "author": "mroszewski",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161017212134/http://www.panoramio.com/photo/44287276",
+   "source": "https://commons.wikimedia.org/wiki/File:Kunene_Region%2C_Namibia_-_panoramio_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kunene_Region%2C_Namibia_-_panoramio_%2811%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kunene Region, Namibia - panoramio (11).jpg",
+   "author": "mroszewski",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161017090435/http://www.panoramio.com/photo/44287302",
+   "source": "https://commons.wikimedia.org/wiki/File:Kunene_Region%2C_Namibia_-_panoramio_%2811%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Kunene_Region%2C_Namibia_-_panoramio_%2812%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kunene Region, Namibia - panoramio (12).jpg",
+   "author": "mroszewski",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161017230009/http://www.panoramio.com/photo/44287298",
+   "source": "https://commons.wikimedia.org/wiki/File:Kunene_Region%2C_Namibia_-_panoramio_%2812%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kunene_Region%2C_Namibia_-_panoramio_%289%29.jpg/1280px-Kunene_Region%2C_Namibia_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kunene Region, Namibia - panoramio (9).jpg",
+   "author": "mroszewski",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161016184924/http://www.panoramio.com/photo/44287281",
+   "source": "https://commons.wikimedia.org/wiki/File:Kunene_Region%2C_Namibia_-_panoramio_%289%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1255",
@@ -106,7 +130,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Twyfelfontein Country Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5712266,
+   "lon": 14.3693963,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Twyfelfontein Adventure Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5301175,
+   "lon": 14.4017091,
+   "distance_km": 7.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mowani Mountain Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.50463,
+   "lon": 14.4230519,
+   "distance_km": 11.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Doro Nawas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.4495395,
+   "lon": 14.3024418,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Malansrus Tented Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.5601159,
+   "lon": 14.5493347,
+   "distance_km": 18.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NA",
   "country_zh": "纳米比亚",
@@ -186,5 +266,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:34Z"
+ "updated_at": "2026-11-12T12:12:13Z"
 }

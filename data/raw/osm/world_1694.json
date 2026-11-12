@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Afyonkarahisar",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 38.7711919,
+   "lon": 30.5428506,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Polybotum Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 38.7105532,
+   "lon": 31.0480685,
+   "distance_km": 45.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Opium Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.7621135,
+   "lon": 30.5333253,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sabir Hotel (cheap)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.7546787,
+   "lon": 30.5398639,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soydan Bussines Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.7580056,
+   "lon": 30.5401597,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 25,
+ "stations": [
+  {
+   "name": "Afyonkarahisar Şehir",
+   "name_en": null,
+   "lat": 38.7670863,
+   "lon": 30.5355037,
+   "distance_km": 1.4,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Ali Çetinkaya",
+   "name_en": null,
+   "lat": 38.7642103,
+   "lon": 30.5530757,
+   "distance_km": 2.3,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Sülün",
+   "name_en": null,
+   "lat": 38.7117586,
+   "lon": 30.6277311,
+   "distance_km": 9.8,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Tınaztepe",
+   "name_en": null,
+   "lat": 38.7451016,
+   "lon": 30.385035,
+   "distance_km": 12.6,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Gecek",
+   "name_en": null,
+   "lat": 38.8509226,
+   "lon": 30.4263257,
+   "distance_km": 13.9,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Balmahmut",
+   "name_en": null,
+   "lat": 38.809467,
+   "lon": 30.3435535,
+   "distance_km": 17.2,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Çobanlar",
+   "name_en": null,
+   "lat": 38.6882335,
+   "lon": 30.73887,
+   "distance_km": 19.6,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Gazlıgöl",
+   "name_en": null,
+   "lat": 38.9319316,
+   "lon": 30.5007014,
+   "distance_km": 19.8,
+   "operator": "TCDD Taşımacılık"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:40Z"
+}

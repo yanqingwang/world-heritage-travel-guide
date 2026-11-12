@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iv)"
 lat: 44.838888888
 lon: -0.572222222
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:13Z"
 ---
 
 # 波尔多月亮港 / Bordeaux, Port of the Moon

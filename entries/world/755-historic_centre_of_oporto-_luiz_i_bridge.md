@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)"
 lat: 41.143191
 lon: -8.612974
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:56Z"
 ---
 
 # 波尔图历史中心 / Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar

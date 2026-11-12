@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "815"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 20.676897222
 lon: -103.337333333
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:59Z"
 ---
 
 # 瓜达拉哈拉的卡瓦尼亚斯救济所 / Hospicio Cabañas, Guadalajara
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:30Z"
 
 *Hospicio Cabañas, Guadalajara, Jalisco - 14.jpg · see Wikimedia Commons file page*
 
-![Hospicio Cabañas, Guadalajara](https://whc.unesco.org/uploads/sites/site_815.jpg)
+![01-03-2013 DISCURSO EN EL INSTITUTO CULTURAL CABAÑAS.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/01-03-2013_DISCURSO_EN_EL_INSTITUTO_CULTURAL_CABA%C3%91AS.jpg/1280px-01-03-2013_DISCURSO_EN_EL_INSTITUTO_CULTURAL_CABA%C3%91AS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hospicio Cabañas, Guadalajara · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*01-03-2013 DISCURSO EN EL INSTITUTO CULTURAL CABAÑAS.jpg · Aristóteles Sandoval · CC BY-SA 2.0*
+
+![A mis espaldas fuente Quetzalcoatl al frente Hospicio Cabañas - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/A_mis_espaldas_fuente_Quetzalcoatl_al_frente_Hospicio_Caba%C3%B1as_-_panoramio.jpg/1280px-A_mis_espaldas_fuente_Quetzalcoatl_al_frente_Hospicio_Caba%C3%B1as_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A mis espaldas fuente Quetzalcoatl al frente Hospicio Cabañas - panoramio.jpg · picalele · CC BY 3.0*
+
+![Again, Impressive Architecture (17143622117).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Again%2C_Impressive_Architecture_%2817143622117%29.jpg/1280px-Again%2C_Impressive_Architecture_%2817143622117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Again, Impressive Architecture (17143622117).jpg · cogdogblog · CC BY 2.0*
+
+![Again, the Promises of Politicians (17325073636).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Again%2C_the_Promises_of_Politicians_%2817325073636%29.jpg/1280px-Again%2C_the_Promises_of_Politicians_%2817325073636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Again, the Promises of Politicians (17325073636).jpg · cogdogblog · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ Este hospicio se creó a principios del siglo XIX para dispensar cuidados y ofre
 - ✈ **Guadalajara International Airport (GDL)** — 17.3 km
 - ✈ **Aguascalientes International Airport (AGU)** — 155.2 km
 - ✈ **Licenciado Miguel de la Madrid International Airport (CLQ)** — 157.7 km
+- 🚉 **Estación La Capilla** — 29.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12110.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Misión Carlton** — 2.0 km — star — 5★
+- **Hotel Riu Plaza Guadalajara** — 6.0 km — star — 5★ · RIU
+- **HOTEL Sta. Maria** — 1.8 km — star — 4★
+- **Krystal Urban Guadalajara** — 4.5 km — star — 4★ · Krystal Hotels & Resorts
+- **Hotel Platino Expo** — 7.0 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

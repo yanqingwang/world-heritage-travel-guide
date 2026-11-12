@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Homestay 5",
+   "name_en": "Homestay 5",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8645076,
+   "lon": 105.0294481,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambor Village",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7106727,
+   "lon": 104.89544,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mittapheap Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7156013,
+   "lon": 104.887937,
+   "distance_km": 23.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambo Prey Kuk Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.715472,
+   "lon": 104.8873784,
+   "distance_km": 23.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stung Sen",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.7132176,
+   "lon": 104.8888111,
+   "distance_km": 23.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 18,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:31Z"
+}

@@ -2,8 +2,8 @@
  "id": "wh-287",
  "unesco_id": "287",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 446,
+ "tier": "full",
+ "popularity_rank": 463,
  "popularity_score": 12949,
  "country": "LY",
  "country_zh": "利比亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_287.jpg",
-   "title": "Rock-Art Sites of Tadrart Acacus",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/287",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Akakus_desert.jpg/1280px-Akakus_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akakus desert.jpg",
+   "author": "Jean-Pierre MALAVIALLE",
+   "license": "FAL",
+   "credit": "Desert of Akakus",
+   "source": "https://commons.wikimedia.org/wiki/File:Akakus_desert.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Akakus_fozzigiaren.jpg/1280px-Akakus_fozzigiaren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akakus fozzigiaren.jpg",
+   "author": "Jean-Pierre MALAVIALLE",
+   "license": "FAL",
+   "credit": "Arche de Fozzigiaren",
+   "source": "https://commons.wikimedia.org/wiki/File:Akakus_fozzigiaren.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Akakus_tete_rocheuse.jpg/1280px-Akakus_tete_rocheuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akakus tete rocheuse.jpg",
+   "author": "Jean-Pierre MALAVIALLE",
+   "license": "FAL",
+   "credit": "Tête rocheuse",
+   "source": "https://commons.wikimedia.org/wiki/File:Akakus_tete_rocheuse.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Akakus-Gebirge_-_Bizarre_Felsformationen.jpg/1280px-Akakus-Gebirge_-_Bizarre_Felsformationen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akakus-Gebirge - Bizarre Felsformationen.jpg",
+   "author": "Franzfoto",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Akakus-Gebirge_-_Bizarre_Felsformationen.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/287",
@@ -103,7 +127,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق تاسيلي",
+   "name_en": "Tasili Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.9612991,
+   "lon": 10.1743971,
+   "distance_km": 21.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LY",
   "country_zh": "利比亚",
@@ -175,5 +211,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:41Z"
 }

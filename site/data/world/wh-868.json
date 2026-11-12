@@ -2,9 +2,9 @@
  "id": "wh-868",
  "unesco_id": "868",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1180,
- "popularity_score": 22066,
+ "tier": "full",
+ "popularity_rank": 364,
+ "popularity_score": 19936,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Moustey%20borne%20st%20jacques.JPG",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/L%27%C3%89pine_Unesco_plaque.jpg/1280px-L%27%C3%89pine_Unesco_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "L'Épine Unesco plaque.jpg",
+   "author": "Palauenc05",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:L%27%C3%89pine_Unesco_plaque.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Saint-Gilles_%2830%29_Plaque_Chemins_de_Saint-Jacques-de-Compostelle_779.jpg/1280px-Saint-Gilles_%2830%29_Plaque_Chemins_de_Saint-Jacques-de-Compostelle_779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Saint-Gilles (30) Plaque Chemins de Saint-Jacques-de-Compostelle 779.jpg",
+   "author": "GFreihalter",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint-Gilles_%2830%29_Plaque_Chemins_de_Saint-Jacques-de-Compostelle_779.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Ext%C3%A9rieur_-_09.jpg/1280px-V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Ext%C3%A9rieur_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Vézelay - Basilique Sainte-Marie-Madeleine - Extérieur - 09.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Ext%C3%A9rieur_-_09.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_868.jpg",
@@ -105,10 +129,148 @@
   ],
   "nearest_airport_km": 39.5,
   "distance_beijing_km": 8692.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Ponton de l'île Nouvelle",
+    "name_en": null,
+    "lat": 45.1413842,
+    "lon": -0.6784051,
+    "distance_km": 5.9,
+    "operator": null
+   },
+   {
+    "name": "Halte nautique de Blaye",
+    "name_en": null,
+    "lat": 45.1255594,
+    "lon": -0.6673174,
+    "distance_km": 7.8,
+    "operator": null
+   },
+   {
+    "name": "Bac de Blaye-Lamarque",
+    "name_en": null,
+    "lat": 45.1230323,
+    "lon": -0.6655415,
+    "distance_km": 8.1,
+    "operator": "Département de la Gironde"
+   },
+   {
+    "name": "Port de Lamarque",
+    "name_en": null,
+    "lat": 45.0990882,
+    "lon": -0.6935648,
+    "distance_km": 9.7,
+    "operator": "Département de la Gironde"
+   },
+   {
+    "name": "Embarcadère de Vitrezay",
+    "name_en": null,
+    "lat": 45.3279032,
+    "lon": -0.7163589,
+    "distance_km": 16.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Pauillac",
+    "name_en": null,
+    "lat": 45.203816,
+    "lon": -0.7551762,
+    "distance_km": 3.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Margaux",
+    "name_en": null,
+    "lat": 45.0358496,
+    "lon": -0.6854735,
+    "distance_km": 16.7,
+    "operator": null
+   },
+   {
+    "name": "Macau",
+    "name_en": null,
+    "lat": 45.0041853,
+    "lon": -0.6200812,
+    "distance_km": 21.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Lesparre",
+    "name_en": null,
+    "lat": 45.3036181,
+    "lon": -0.9453635,
+    "distance_km": 21.9,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Saint-Mariens - Saint-Yzan",
+    "name_en": null,
+    "lat": 45.1391609,
+    "lon": -0.3914684,
+    "distance_km": 26.5,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel des Quinconces",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.8475495,
+   "lon": -0.574977,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "YNDO",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.844267,
+   "lon": -0.583407,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Burdigala",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Inwood Hotels",
+   "lat": 44.839889,
+   "lon": -0.586726,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "InterContinental Bordeaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 44.8424337,
+   "lon": -0.5748304,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Château de Mirambeau",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.3750881,
+   "lon": -0.5662093,
+   "distance_km": 24.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -180,5 +342,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:01Z"
 }

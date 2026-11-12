@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1447"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 51.777778
 lon: 9.41
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:18Z"
 ---
 
 # 科尔维修道院西部建筑 / Carolingian Westwork and Civitas Corvey
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *Corvey Anlage vom Torhaus.jpg · see Wikimedia Commons file page*
 
-![Carolingian Westwork and Civitas Corvey](https://whc.unesco.org/uploads/sites/site_1447.jpg)
+![2015-05 niedersachsen-fahrt 113.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2015-05_niedersachsen-fahrt_113.JPG/1280px-2015-05_niedersachsen-fahrt_113.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Carolingian Westwork and Civitas Corvey · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2015-05 niedersachsen-fahrt 113.JPG · Ziko · CC BY-SA 4.0*
+
+![1147 König Konrad Urkunde (1).png](https://upload.wikimedia.org/wikipedia/commons/e/ee/1147_K%C3%B6nig_Konrad_Urkunde_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1147 König Konrad Urkunde (1).png · Landesarchiv NRW Abteilung Westfalen – Digital-Viewer · CC BY-SA 4.0*
+
+![2015-05 niedersachsen-fahrt 104.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2015-05_niedersachsen-fahrt_104.JPG/1280px-2015-05_niedersachsen-fahrt_104.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2015-05 niedersachsen-fahrt 104.JPG · Ziko · CC BY-SA 4.0*
+
+![2015-05 niedersachsen-fahrt 105.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2015-05_niedersachsen-fahrt_105.JPG/1280px-2015-05_niedersachsen-fahrt_105.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2015-05 niedersachsen-fahrt 105.JPG · Ziko · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Corvey (auch Corvei, Korvei, Korvey; mittellateinisch Corbeia nova) ist eine ehe
 - ✈ **Kassel Airport (KSF)** — 40.0 km
 - ✈ **Paderborn Lippstadt Airport (PAD)** — 57.6 km
 - ✈ **Hannover Airport (HAJ)** — 78.3 km
+- 🚉 **Holzminden** — 5.6 km
+- 🚉 **Höxter-Ottbergen** — 10.3 km
+- 🚉 **Lauenförde-Beverungen** — 13.3 km
+- 🚉 **Stadtoldendorf** — 18.5 km
+- 🚉 **Bodenfelde** — 18.8 km
+- ⛴ **Personenfähre Wehrden** — 7.4 km
+- ⛴ **Fähre Heinsen** — 12.1 km
+- ⛴ **Heidbrink** — 13.2 km
+- ⛴ **Gierseilfähre Polle** — 13.2 km
+- ⛴ **Herstelle-Würgassen** — 14.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7645.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Hotel** — 25.5 km — star — 5★
+- **Schloss Schwöbber** — 34.2 km — star — 5★
+- **Niedersachsen** — 2.0 km — star — 4★
+- **Zum Weserdampfschiff** — 15.2 km — star — 4★
+- **Burg Blomberg** — 28.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

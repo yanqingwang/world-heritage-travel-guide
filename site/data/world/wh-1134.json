@@ -2,8 +2,8 @@
  "id": "wh-1134",
  "unesco_id": "1134",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 451,
+ "tier": "full",
+ "popularity_rank": 468,
  "popularity_score": 12689,
  "country": "SE",
  "country_zh": "瑞典",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1134.jpg",
-   "title": "Grimeton Radio Station, Varberg",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1134",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/60_polige_generator_wikipedia_panthouse_003.svg/1280px-60_polige_generator_wikipedia_panthouse_003.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "60 polige generator wikipedia panthouse 003.svg",
+   "author": "Henk Broekhuizen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:60_polige_generator_wikipedia_panthouse_003.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Alexanderson_Alternator.jpg/1280px-Alexanderson_Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alexanderson Alternator.jpg",
+   "author": "Gunther Tschuch",
+   "license": "CC BY 2.5",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alexanderson_Alternator.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Alexandersson1.JPG/1280px-Alexandersson1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alexandersson1.JPG",
+   "author": "Dagjoh",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alexandersson1.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bediening_machinezender.jpg/1280px-Bediening_machinezender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bediening machinezender.jpg",
+   "author": "Paulus 2",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bediening_machinezender.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1134",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 53.4,
   "distance_beijing_km": 7118.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Varbergs Innerhamn",
+    "name_en": null,
+    "lat": 57.111074,
+    "lon": 12.2421305,
+    "distance_km": 9.8,
+    "operator": "Varbergs kommun"
+   },
+   {
+    "name": "Träslövsläges fiskehamn",
+    "name_en": null,
+    "lat": 57.0590542,
+    "lon": 12.2737064,
+    "distance_km": 10.0,
+    "operator": null
+   },
+   {
+    "name": "Farehamnen",
+    "name_en": null,
+    "lat": 57.1159122,
+    "lon": 12.2370007,
+    "distance_km": 10.1,
+    "operator": null
+   },
+   {
+    "name": "Getteröns Småbåtshamn",
+    "name_en": null,
+    "lat": 57.1131948,
+    "lon": 12.2303903,
+    "distance_km": 10.5,
+    "operator": "Föreningen Getterön Marina"
+   },
+   {
+    "name": "Glommens hamn",
+    "name_en": null,
+    "lat": 56.9299553,
+    "lon": 12.3514091,
+    "distance_km": 20.7,
+    "operator": "Glommens Båtklubb"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tofta",
+    "name_en": null,
+    "lat": 57.173397,
+    "lon": 12.3004009,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "Varberg",
+    "name_en": null,
+    "lat": 57.1119136,
+    "lon": 12.249408,
+    "distance_km": 9.4,
+    "operator": "Jernhusen"
+   },
+   {
+    "name": "Derome",
+    "name_en": null,
+    "lat": 57.2305746,
+    "lon": 12.3200364,
+    "distance_km": 13.9,
+    "operator": null
+   },
+   {
+    "name": "Veddige",
+    "name_en": null,
+    "lat": 57.2667087,
+    "lon": 12.3368418,
+    "distance_km": 17.5,
+    "operator": null
+   },
+   {
+    "name": "Falkenberg",
+    "name_en": null,
+    "lat": 56.9195368,
+    "lon": 12.5082399,
+    "distance_km": 22.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Villa Stenhuset Conference",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.126569,
+   "lon": 12.5085209,
+   "distance_km": 6.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell & Omklädning",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.0642877,
+   "lon": 12.3498797,
+   "distance_km": 6.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell & Restaurang",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.0636734,
+   "lon": 12.3500553,
+   "distance_km": 6.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Varbergs Stadshotell & Asia Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.1052926,
+   "lon": 12.2496461,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotell Gästis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 57.1070592,
+   "lon": 12.2492553,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SE",
   "country_zh": "瑞典",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:33Z"
+ "updated_at": "2026-11-12T12:12:09Z"
 }

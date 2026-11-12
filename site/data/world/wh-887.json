@@ -2,8 +2,8 @@
  "id": "wh-887",
  "unesco_id": "887",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 467,
+ "tier": "full",
+ "popularity_rank": 485,
  "popularity_score": 12230,
  "country": "PG",
  "country_zh": "巴布亚新几内亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_887.jpg",
-   "title": "Kuk Early Agricultural Site",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/887",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Journal%2C_L.J._Brass_-_6th_Archbold_Expedition_to_New_Guinea_March_14_1959_to_January_24%2C_1960_%28IA_journalljbrass00bras%29.pdf/page1-960px-Journal%2C_L.J._Brass_-_6th_Archbold_Expedition_to_New_Guinea_March_14_1959_to_January_24%2C_1960_%28IA_journalljbrass00bras%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Journal, L.J. Brass - 6th Archbold Expedition to New Guinea March 14 1959 to January 24, 1960 (IA journalljbrass00bras).pdf",
+   "author": "Brass, L. J. (Leonard J.) American Museum of Natural History. Department of Mammalogy. Archbold Expeditions Collection A",
+   "license": "Public domain",
+   "credit": "https://archive.org/details/journalljbrass00bras https://archive.org/download/journalljbrass00bras/journalljbrass00bras.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Journal%2C_L.J._Brass_-_6th_Archbold_Expedition_to_New_Guinea_March_14_1959_to_January_24%2C_1960_%28IA_journalljbrass00bras%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kuk_New_Guinea_2002.jpg/1280px-Kuk_New_Guinea_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kuk New Guinea 2002.jpg",
+   "author": "NASA: JPL",
+   "license": "Public domain",
+   "credit": "http://photojournal.jpl.nasa.gov/catalog/PIA13090",
+   "source": "https://commons.wikimedia.org/wiki/File:Kuk_New_Guinea_2002.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/SAFEGUARDING_CULTURAL_PROPERTY_FIRST_WORKSHOP_TWO_PROTOCOLS.pdf/page1-960px-SAFEGUARDING_CULTURAL_PROPERTY_FIRST_WORKSHOP_TWO_PROTOCOLS.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "SAFEGUARDING CULTURAL PROPERTY FIRST WORKSHOP TWO PROTOCOLS.pdf",
+   "author": "UNESCO",
+   "license": "CC BY-SA 3.0",
+   "credit": "UNESCO Docs",
+   "source": "https://commons.wikimedia.org/wiki/File:SAFEGUARDING_CULTURAL_PROPERTY_FIRST_WORKSHOP_TWO_PROTOCOLS.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Safeguarding_CULTURAL_PROPERTY_IN_THE_PACIFIC_First_workshop_for_the_1954_Hague_Convention_and_its_Two_Protocols.pdf/page1-960px-Safeguarding_CULTURAL_PROPERTY_IN_THE_PACIFIC_First_workshop_for_the_1954_Hague_Convention_and_its_Two_Protocols.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Safeguarding CULTURAL PROPERTY IN THE PACIFIC First workshop for the 1954 Hague Convention and its Two Protocols.pdf",
+   "author": "UNESCO",
+   "license": "CC BY-SA 3.0",
+   "credit": "http://unesdoc.unesco.org/images/0024/002473/247342e.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Safeguarding_CULTURAL_PROPERTY_IN_THE_PACIFIC_First_workshop_for_the_1954_Hague_Convention_and_its_Two_Protocols.pdf"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/887",
@@ -104,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hagen Airport Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8355257,
+   "lon": 144.2988846,
+   "distance_km": 6.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hagen International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8397676,
+   "lon": 144.2830098,
+   "distance_km": 8.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greenfern Eco-Tourism Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8449623,
+   "lon": 144.255667,
+   "distance_km": 10.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kimininga",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8490616,
+   "lon": 144.2402635,
+   "distance_km": 12.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tigo Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -5.8578444,
+   "lon": 144.2375546,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PG",
   "country_zh": "巴布亚新几内亚",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:01Z"
 }

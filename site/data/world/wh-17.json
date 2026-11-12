@@ -2,8 +2,8 @@
  "id": "wh-17",
  "unesco_id": "17",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 418,
+ "tier": "full",
+ "popularity_rank": 434,
  "popularity_score": 14604,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_17.jpg",
-   "title": "Lower Valley of the Omo",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/17",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lake_Turkana_vicinity.jpg/1280px-Lake_Turkana_vicinity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lake Turkana vicinity.jpg",
+   "author": "Rudyologist",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Turkana_vicinity.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lower_Omo.jpg/1280px-Lower_Omo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lower Omo.jpg",
+   "author": "Chartep",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lower_Omo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Omo_%28rivi%C3%A8re%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Omo (rivière).png",
+   "author": "Openstreetmap contributors",
+   "license": "CC BY-SA 4.0",
+   "credit": "Description Omo (rivière).png This map was created from OpenStreetMap project data, collected by the OpenStreetMap community. This map may be incomplete, and ma",
+   "source": "https://commons.wikimedia.org/wiki/File:Omo_%28rivi%C3%A8re%29.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Omo_OSM.png/1280px-Omo_OSM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Omo OSM.png",
+   "author": "Hans Braxmeier & Peter in s , Location map: NordNordWest",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://maps-for-free.com/ , https://maps.lib.utexas.edu/maps/imw/ , Location map: https://commons.wikimedia.org/wiki/File:Ethiopia_adm_location_map.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Omo_OSM.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/17",
@@ -102,10 +126,42 @@
   ],
   "nearest_airport_km": 151.9,
   "distance_beijing_km": 8748.3,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "ኦሞራቴ ጀልባ",
+    "name_en": "Omorate Ferry Crossing (Brr 150 Per Person)",
+    "lat": 4.8039145,
+    "lon": 36.0488452,
+    "distance_km": 34.4,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Tourist Hotel Omorate (Budget)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 4.8024351,
+   "lon": 36.049896,
+   "distance_km": 34.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anam House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 4.1439233,
+   "lon": 35.9243663,
+   "distance_km": 40.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ET",
   "country_zh": "埃塞俄比亚",
@@ -177,5 +233,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:24Z"
+ "updated_at": "2026-11-12T12:11:32Z"
 }

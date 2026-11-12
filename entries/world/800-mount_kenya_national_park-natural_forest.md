@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(vii)(ix)"
 lat: -0.123888888
 lon: 37.336666666
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:58Z"
 ---
 
 # 肯尼亚山国家公园 / Mount Kenya National Park/Natural Forest

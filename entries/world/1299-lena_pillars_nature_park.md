@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(viii)"
 lat: 61.106944444
 lon: 127.361666666
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:14Z"
 ---
 
 # 勒那河柱状岩自然公园 / Lena Pillars Nature Park

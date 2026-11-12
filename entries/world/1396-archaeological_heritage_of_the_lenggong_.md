@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(iv)"
 lat: 5.06791
 lon: 100.972
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:17Z"
 ---
 
 # 玲珑谷考古遗产 / Archaeological Heritage of the Lenggong Valley

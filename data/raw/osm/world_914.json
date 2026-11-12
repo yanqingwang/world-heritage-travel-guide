@@ -1,0 +1,89 @@
+{
+ "hotels": [
+  {
+   "name": "Leopard Tree Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3752419,
+   "lon": 32.4200271,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maputaland Guest House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3750542,
+   "lon": 32.4183304,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Leopard Corner Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -28.3772402,
+   "lon": 32.4185861,
+   "distance_km": 42.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Elephant Lake Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -28.3736103,
+   "lon": 32.4114508,
+   "distance_km": 42.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fazala Game Park and Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.9953733,
+   "lon": 32.3438717,
+   "distance_km": 15.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 35,
+ "stations": [
+  {
+   "name": "Hluhluwe",
+   "name_en": null,
+   "lat": -28.0240576,
+   "lon": 32.2798356,
+   "distance_km": 21.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Siyabonga Jetty",
+   "name_en": null,
+   "lat": -28.36936,
+   "lon": 32.4099617,
+   "distance_km": 42.0,
+   "operator": null
+  },
+  {
+   "name": "Estuary Boat Cruise",
+   "name_en": null,
+   "lat": -28.3793373,
+   "lon": 32.4078346,
+   "distance_km": 43.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:44Z"
+}

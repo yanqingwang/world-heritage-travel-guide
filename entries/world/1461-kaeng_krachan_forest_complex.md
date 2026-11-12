@@ -8,13 +8,13 @@ country: "TH"
 country_zh: "泰国"
 country_en: "Thailand"
 unesco_id: "1461"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2021"
 criteria: "(x)"
 lat: 12.798888888
 lon: 99.453333333
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:19Z"
 ---
 
 # 岗卡章森林保护区 / Kaeng Krachan Forest Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:36Z"
 
 *Kaeng Krachan.jpg · see Wikimedia Commons file page*
 
-![Kaeng Krachan Forest Complex](https://whc.unesco.org/uploads/sites/site_1461.jpg)
+![1028 user-reallitwyh.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1028_user-reallitwyh.jpg/1280px-1028_user-reallitwyh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kaeng Krachan Forest Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1028 user-reallitwyh.jpg · Orapan Rungrotjanaluk · CC BY-SA 3.0*
+
+![Ban Krang Campsite 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ban_Krang_Campsite_01.jpg/1280px-Ban_Krang_Campsite_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ban Krang Campsite 01.jpg · Codas · CC BY-SA 4.0*
+
+![Ban Krang Campsite 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ban_Krang_Campsite_02.jpg/1280px-Ban_Krang_Campsite_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ban Krang Campsite 02.jpg · Codas · CC BY-SA 4.0*
+
+![Bear hug 2024 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bear_hug_2024_01.jpg/1280px-Bear_hug_2024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bear hug 2024 01.jpg · Wadnita · CC0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The site is located along the Thailand side of the Tenasserim mountain range, pa
 - ✈ **Myeik Airport (MGZ)** — 98.7 km
 - ✈ **U-Tapao–Rayong–Pattaya International Airport (UTP)** — 168.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3458.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Boathouse Paradise Resort** — 18.4 km — hotel — Boathouse Paradise Resort
+- **BanJankapor** — 18.5 km — hotel
+- **resort** — 21.5 km — hotel — resort
+- **Pornthana resort** — 23.7 km — hotel — Pornthana resort
+- **resort sunee** — 23.8 km — hotel — resort sunee
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

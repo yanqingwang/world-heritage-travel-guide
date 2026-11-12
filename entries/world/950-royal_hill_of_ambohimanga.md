@@ -8,13 +8,13 @@ country: "MG"
 country_zh: "马达加斯加"
 country_en: "Madagascar"
 unesco_id: "950"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: -18.759167
 lon: 47.562778
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 安布希曼加的皇家蓝山行宫 / Royal Hill of Ambohimanga
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Ambohimanga 14.jpg · see Wikimedia Commons file page*
 
-![Royal Hill of Ambohimanga](https://whc.unesco.org/uploads/sites/site_950.jpg)
+!["Fandroana" lieu rituel du bain royal, tradition annuelle malgache au Rova d'Ambohidratrimo, Analamanga, Madagascar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_au_Rova_d%27Ambohidratrimo%2C_Analamanga%2C_Madagascar.jpg/1280px-%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_au_Rova_d%27Ambohidratrimo%2C_Analamanga%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Royal Hill of Ambohimanga · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Fandroana" lieu rituel du bain royal, tradition annuelle malgache au Rova d'Ambohidratrimo, Analamanga, Madagascar.jpg · Anai171 · CC BY-SA 4.0*
+
+!["Fandroana" lieu rituel du bain royal, tradition annuelle malgache Rova d'Ambohidratrimo, Analamanga.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_Rova_d%27Ambohidratrimo%2C_Analamanga.jpg/1280px-%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_Rova_d%27Ambohidratrimo%2C_Analamanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Fandroana" lieu rituel du bain royal, tradition annuelle malgache Rova d'Ambohidratrimo, Analamanga.jpg · Anai171 · CC BY-SA 4.0*
+
+![Ambatomiatendro Ambohimanga.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ambatomiatendro_Ambohimanga.jpg/1280px-Ambatomiatendro_Ambohimanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ambatomiatendro Ambohimanga.jpg · Gaël RALANTONIRINA · CC0*
+
+![Ambohimanga (3189638857).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ambohimanga_%283189638857%29.jpg/1280px-Ambohimanga_%283189638857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ambohimanga (3189638857).jpg · mwanasimba from La Réunion · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ La colline royale d'Ambohimanga se compose d'une cité royale, d'un site funéra
 - ✈ **Ivato International Airport (TNR)** — 9.8 km
 - ✈ **Toamasina Ambalamanasy Airport (TMM)** — 205.9 km
 - ✈ **Tsaratanana Airport (TTS)** — 223.4 km
+- 🚉 **Soarano** — 16.6 km
+- 🚉 **Amoronakona** — 19.1 km
+- 🚉 **Mandroseza** — 19.9 km
+- 🚉 **Soanierana** — 20.6 km
+- 🚉 **Ambohimanambola** — 20.8 km
+- ⛴ **bar manga** — 17.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9683.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sheraton Hotel** — 10.9 km — star — 5★
+- **Novotel Convention and Spa Antananarivo** — 13.3 km — star — 5★
+- **Hôtel Carlton** — 17.9 km — star — 5★
+- **Hôtel Tamboho** — 15.2 km — star — 4★
+- **Colbert** — 17.3 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

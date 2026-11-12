@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "720"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1995"
 criteria: "(viii)"
 lat: 49.9175
 lon: 8.756667
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:54Z"
 ---
 
 # 麦塞尔化石遗址 / Messel Pit Fossil Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:29Z"
 
 *MesselFossilPit081310.JPG · see Wikimedia Commons file page*
 
-![Messel Pit Fossil Site](https://whc.unesco.org/uploads/sites/site_720.jpg)
+![20060827 Gesamtbild Eozaen Grube-Messel Germany.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ca/20060827_Gesamtbild_Eozaen_Grube-Messel_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Messel Pit Fossil Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20060827 Gesamtbild Eozaen Grube-Messel Germany.jpg · Amaltheus · CC BY-SA 4.0*
+
+![20060827 Oelschiefer Eozaen Grube-Messel Germany.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/20060827_Oelschiefer_Eozaen_Grube-Messel_Germany.jpg/1280px-20060827_Oelschiefer_Eozaen_Grube-Messel_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20060827 Oelschiefer Eozaen Grube-Messel Germany.jpg · Amaltheus · CC BY-SA 4.0*
+
+![Ameisen-Weibchen (Titanomyrma gigantea) 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ameisen-Weibchen_%28Titanomyrma_gigantea%29_01.jpg/1280px-Ameisen-Weibchen_%28Titanomyrma_gigantea%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ameisen-Weibchen (Titanomyrma gigantea) 01.jpg · JensKunstfreund · CC BY-SA 4.0*
+
+![Ameisen-Weibchen (Titanomyrma gigantea) 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ameisen-Weibchen_%28Titanomyrma_gigantea%29_02.jpg/1280px-Ameisen-Weibchen_%28Titanomyrma_gigantea%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ameisen-Weibchen (Titanomyrma gigantea) 02.jpg · JensKunstfreund · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Die Grube Messel ist ein stillgelegter Ölschiefer-Tagebau und eine internationa
 - ✈ **Frankfurt Main Airport (FRA)** — 18.7 km
 - ✈ **Mannheim-City Airport (MHG)** — 52.4 km
 - ✈ **Frankfurt-Hahn Airport (HHN)** — 107.0 km
+- 🚉 **Messel** — 0.9 km
+- 🚉 **Darmstadt-Kranichstein** — 5.6 km
+- 🚉 **Dieburg** — 6.2 km
+- 🚉 **Rödermark-Urberach** — 7.1 km
+- 🚉 **Dreieich-Offenthal** — 7.2 km
+- ⛴ **Fähre Seligenstadt** — 21.2 km
+- ⛴ **Flußhafen Gutleut** — 21.2 km
+- ⛴ **Fähre Großwelzheim** — 21.3 km
+- ⛴ **Bootshaus** — 21.4 km
+- ⛴ **Frankfurt - Eiserner Steg** — 21.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7788.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Airport Hotel Frankfurt** — 19.7 km — star — 5★
+- **Kennedy 89 - The Unbound Collection by Hyatt** — 20.8 km — star — 5★ · Hyatt
+- **Le Méridien Parkhotel Frankfurt** — 21.9 km — star — 5★ · Le Méridien
+- **Kimpton Main Frankfurt** — 22.5 km — star — 5★ · Kimpton
+- **The Westin Grand Frankfurt** — 22.6 km — star — 5★ · Westin
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

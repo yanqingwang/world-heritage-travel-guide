@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(viii)"
 lat: 49.538611111
 lon: -63.245277777
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:28Z"
 ---
 
 # 安蒂科斯蒂 / Anticosti

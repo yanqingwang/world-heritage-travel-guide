@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)"
 lat: -47.15
 lon: -70.666666666
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 洛斯马诺斯岩画（1999年） / Cueva de las Manos, Río Pinturas

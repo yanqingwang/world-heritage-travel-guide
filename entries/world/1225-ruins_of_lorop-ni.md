@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)"
 lat: 10.310277777
 lon: -3.563055555
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:12Z"
 ---
 
 # 洛罗佩尼遗址 / Ruins of Loropéni

@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "987"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iv)"
 lat: 43.014194444
 lon: -7.559888888
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:06Z"
 ---
 
 # 卢戈的罗马城墙 / Roman Walls of Lugo
@@ -52,7 +52,19 @@ La muralla de Lugo fue construida a finales de siglo II para defender la ciudad 
 - ✈ **Santiago-Rosalía de Castro Airport (SCQ)** — 70.8 km
 - ✈ **A Coruña Airport (LCG)** — 73.6 km
 - ✈ **Vigo Airport (VGO)** — 123.2 km
+- 🚉 **Sarria** — 28.0 km
+- 🚉 **Curtis** — 49.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9262.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Monumento Pazo de Orbán e Sangro** — 0.4 km — star — 4★
+- **Eurostars Gran Hotel Lugo** — 1.1 km — star — 4★ · Eurostars Hotel Company
+- **Hotel Santiago Spa** — 3.9 km — star — 4★
+- **Coto Real** — 13.0 km — star — 4★
+- **Hotel Alfonso IX** — 29.1 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

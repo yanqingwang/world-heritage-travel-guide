@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)"
 lat: 17.347
 lon: -62.836
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:02Z"
 ---
 
 # 硫磺石山要塞国家公园 / Brimstone Hill Fortress National Park

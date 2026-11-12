@@ -2,8 +2,8 @@
  "id": "wh-872",
  "unesco_id": "872",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 402,
+ "tier": "full",
+ "popularity_rank": 418,
  "popularity_score": 16127,
  "country": "FR",
  "country_zh": "法国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_872.jpg",
-   "title": "Historic Site of Lyon",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/872",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/10_rue_Lainerie_escalier.jpg/1280px-10_rue_Lainerie_escalier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10 rue Lainerie escalier.jpg",
+   "author": "Jules Sylvestre",
+   "license": "Public domain",
+   "credit": "https://numelyo.bm-lyon.fr/BML:BML_01ICO001014ccb0d2fe144a?&query",
+   "source": "https://commons.wikimedia.org/wiki/File:10_rue_Lainerie_escalier.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Arcades_Vieux_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Arcades Vieux Lyon.jpg",
+   "author": "Blaise Laustriat",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arcades_Vieux_Lyon.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Au_dessus_du_quartier_Saint-Jean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Au dessus du quartier Saint-Jean.jpg",
+   "author": "Patrick Verdier, Free On Line Photos",
+   "license": "Copyrighted free use",
+   "credit": "Photo: http://www.folp.free.fr/Open.php?getTabSigIdeImg=903&getModeGrdFormat=1 Description: http://www.folp.free.fr/AddComment.php?getTabComIdeImg=903",
+   "source": "https://commons.wikimedia.org/wiki/File:Au_dessus_du_quartier_Saint-Jean.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Caf%C3%A9_au_Lait_in_Lyon.JPG/1280px-Caf%C3%A9_au_Lait_in_Lyon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Café au Lait in Lyon.JPG",
+   "author": "Cadaverexquisito",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_au_Lait_in_Lyon.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/872",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 20.8,
   "distance_beijing_km": 8296.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Terrasses Presquîle",
+    "name_en": null,
+    "lat": 45.7620143,
+    "lon": 4.8311362,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Bellecour",
+    "name_en": null,
+    "lat": 45.7599243,
+    "lon": 4.8298853,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Saint-Paul - Hôtel de Ville",
+    "name_en": null,
+    "lat": 45.766636,
+    "lon": 4.8284734,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Saint-Vincent",
+    "name_en": null,
+    "lat": 45.7682408,
+    "lon": 4.8246571,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Vaise",
+    "name_en": null,
+    "lat": 45.7736641,
+    "lon": 4.8099585,
+    "distance_km": 1.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Lyon-Saint-Paul",
+    "name_en": null,
+    "lat": 45.7661226,
+    "lon": 4.8266713,
+    "distance_km": 0.4,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Fourvière",
+    "name_en": null,
+    "lat": 45.762381,
+    "lon": 4.8214507,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Minimes - Théâtres romains",
+    "name_en": null,
+    "lat": 45.7586387,
+    "lon": 4.8213322,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Saint-Just",
+    "name_en": null,
+    "lat": 45.7571457,
+    "lon": 4.8162851,
+    "distance_km": 1.1,
+    "operator": null
+   },
+   {
+    "name": "Lyon Perrache",
+    "name_en": null,
+    "lat": 45.7483223,
+    "lon": 4.8253267,
+    "distance_km": 1.7,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Cour des Loges",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 45.7632815,
+   "lon": 4.8273992,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Florentine",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7629609,
+   "lon": 4.8258206,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Maïa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7593058,
+   "lon": 4.823205,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Lyon Bellecour",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 45.7544834,
+   "lon": 4.8341639,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Académie Hôtel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Académie Hôtel",
+   "lat": 45.7652661,
+   "lon": 4.827835,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:01Z"
 }

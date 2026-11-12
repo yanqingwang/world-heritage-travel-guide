@@ -2,8 +2,8 @@
  "id": "wh-963",
  "unesco_id": "963",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 416,
+ "tier": "full",
+ "popularity_rank": 432,
  "popularity_score": 14790,
  "country": "HR",
  "country_zh": "克罗地亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_963.jpg",
-   "title": "The Cathedral of St James in Šibenik",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/963",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Artistic_trinities_of_the_cathedral_in_Sibenik.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Artistic trinities of the cathedral in Sibenik.JPG",
+   "author": "Conveyance",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Artistic_trinities_of_the_cathedral_in_Sibenik.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cathedral_of_St._James_%E8%81%96%E9%9B%85%E5%90%84%E4%BC%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82_-_panoramio_-_lienyuan_lee_%281%29.jpg/1280px-Cathedral_of_St._James_%E8%81%96%E9%9B%85%E5%90%84%E4%BC%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82_-_panoramio_-_lienyuan_lee_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cathedral of St. James 聖雅各伯主教座堂 - panoramio - lienyuan lee (1).jpg",
+   "author": "lienyuan lee",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161103054336/http://www.panoramio.com/photo/133992832",
+   "source": "https://commons.wikimedia.org/wiki/File:Cathedral_of_St._James_%E8%81%96%E9%9B%85%E5%90%84%E4%BC%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82_-_panoramio_-_lienyuan_lee_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1365.jpg/1280px-Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1365.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1365.jpg",
+   "author": "Jean-Auguste Brutails",
+   "license": "Public domain",
+   "credit": "You are free to reuse this document. If you do so, please credit the image as : « Jean-Auguste Brutails - Cathédrale Saint-Jacques de Šibenik - image n°108 - Un",
+   "source": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1365.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1366.jpg/1280px-Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1366.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cathédrale Saint-Jacques de Šibenik - J-A Brutails - Université Bordeaux Montaigne - 1366.jpg",
+   "author": "Jean-Auguste Brutails",
+   "license": "Public domain",
+   "credit": "You are free to reuse this document. If you do so, please credit the image as : « Jean-Auguste Brutails - Cathédrale Saint-Jacques de Šibenik - image n°109 - Un",
+   "source": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Jacques_de_%C5%A0ibenik_-_J-A_Brutails_-_Universit%C3%A9_Bordeaux_Montaigne_-_1366.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/963",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 39.5,
   "distance_beijing_km": 7767.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Šibenik",
+    "name_en": null,
+    "lat": 43.7338926,
+    "lon": 15.8908106,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Taxi Boat",
+    "name_en": null,
+    "lat": 43.7336241,
+    "lon": 15.8913256,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Luka Šibenik",
+    "name_en": "Port of Šibenik",
+    "lat": 43.7307542,
+    "lon": 15.894045,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Gat Vrulje",
+    "name_en": null,
+    "lat": 43.7302643,
+    "lon": 15.8949799,
+    "distance_km": 0.8,
+    "operator": "Državna lučka uprava"
+   },
+   {
+    "name": "D-Marin Mandalina",
+    "name_en": null,
+    "lat": 43.7201321,
+    "lon": 15.8982053,
+    "distance_km": 1.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Šibenik",
+    "name_en": null,
+    "lat": 43.7301538,
+    "lon": 15.897717,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Ražine",
+    "name_en": null,
+    "lat": 43.7054087,
+    "lon": 15.9231589,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "Perković",
+    "name_en": null,
+    "lat": 43.6756208,
+    "lon": 16.1177964,
+    "distance_km": 19.5,
+    "operator": null
+   },
+   {
+    "name": "Žitnić",
+    "name_en": null,
+    "lat": 43.8318746,
+    "lon": 16.1458174,
+    "distance_km": 23.2,
+    "operator": null
+   },
+   {
+    "name": "Unešić",
+    "name_en": null,
+    "lat": 43.7415,
+    "lon": 16.181513,
+    "distance_km": 23.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Martinis Marchi",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.3976009,
+   "lon": 16.206573,
+   "distance_km": 45.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Life palace",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.7351981,
+   "lon": 15.8906883,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "King Krešimir Heritage Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.735023,
+   "lon": 15.890772,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Andrija",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.6972991,
+   "lon": 15.8897416,
+   "distance_km": 4.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ivan",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.6959942,
+   "lon": 15.8878617,
+   "distance_km": 4.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HR",
   "country_zh": "克罗地亚",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:05Z"
 }

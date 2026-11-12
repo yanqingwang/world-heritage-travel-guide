@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Amanjiwo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -7.6317111,
+   "lon": 110.2020129,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Melia Purosani",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Melia",
+   "lat": -7.7969057,
+   "lon": 110.3689789,
+   "distance_km": 27.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crystal Lotus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7593574,
+   "lon": 110.3622608,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tara Yogyakarta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7715364,
+   "lon": 110.36089,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Inna Malioboro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7907566,
+   "lon": 110.3668579,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 645,
+ "stations": [
+  {
+   "name": "Rewulu",
+   "name_en": null,
+   "lat": -7.7961358,
+   "lon": 110.2842707,
+   "distance_km": 22.8,
+   "operator": "KAI"
+  },
+  {
+   "name": "Patukan",
+   "name_en": null,
+   "lat": -7.7907238,
+   "lon": 110.3253312,
+   "distance_km": 24.4,
+   "operator": "KAI"
+  },
+  {
+   "name": "Sentolo",
+   "name_en": null,
+   "lat": -7.833229,
+   "lon": 110.2202569,
+   "distance_km": 25.1,
+   "operator": "KAI"
+  },
+  {
+   "name": "Yogyakarta",
+   "name_en": null,
+   "lat": -7.7892387,
+   "lon": 110.3634648,
+   "distance_km": 26.8,
+   "operator": "KAI"
+  },
+  {
+   "name": "Lempuyangan",
+   "name_en": null,
+   "lat": -7.7900721,
+   "lon": 110.3753385,
+   "distance_km": 27.7,
+   "operator": "KAI"
+  },
+  {
+   "name": "Wates",
+   "name_en": null,
+   "lat": -7.8594893,
+   "lon": 110.1576295,
+   "distance_km": 28.4,
+   "operator": "KAI"
+  },
+  {
+   "name": "Jenar",
+   "name_en": null,
+   "lat": -7.8026595,
+   "lon": 110.00135,
+   "distance_km": 31.1,
+   "operator": "KAI Commuter"
+  },
+  {
+   "name": "Kedundang",
+   "name_en": null,
+   "lat": -7.878169,
+   "lon": 110.0993397,
+   "distance_km": 32.2,
+   "operator": "KAI"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Loket Perahu",
+   "name_en": null,
+   "lat": -7.9435094,
+   "lon": 110.4892799,
+   "distance_km": 48.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:16Z"
+}

@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 13.440881
 lon: 103.859081
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:52Z"
 ---
 
 # 吴哥窟 / Angkor

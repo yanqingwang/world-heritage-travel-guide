@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "868"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(ii)(iv)(vi)"
 lat: 45.184055555
 lon: -0.722944444
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 法国圣地亚哥——德孔波斯特拉朝圣之路 / Routes of Santiago de Compostela in France
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:55:31Z"
 ![Moustey borne st jacques.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Moustey%20borne%20st%20jacques.JPG?width=1280)
 
 *Moustey borne st jacques.JPG · see Wikimedia Commons file page*
+
+![L'Épine Unesco plaque.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/L%27%C3%89pine_Unesco_plaque.jpg/1280px-L%27%C3%89pine_Unesco_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*L'Épine Unesco plaque.jpg · Palauenc05 · CC BY-SA 4.0*
+
+![Saint-Gilles (30) Plaque Chemins de Saint-Jacques-de-Compostelle 779.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Saint-Gilles_%2830%29_Plaque_Chemins_de_Saint-Jacques-de-Compostelle_779.jpg/1280px-Saint-Gilles_%2830%29_Plaque_Chemins_de_Saint-Jacques-de-Compostelle_779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Saint-Gilles (30) Plaque Chemins de Saint-Jacques-de-Compostelle 779.jpg · GFreihalter · CC BY-SA 4.0*
+
+![Vézelay - Basilique Sainte-Marie-Madeleine - Extérieur - 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Ext%C3%A9rieur_-_09.jpg/1280px-V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Ext%C3%A9rieur_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Vézelay - Basilique Sainte-Marie-Madeleine - Extérieur - 09.jpg · Benjamin Smith · CC BY-SA 4.0*
 
 ![Routes of Santiago de Compostela in France](https://whc.unesco.org/uploads/sites/site_868.jpg)
 
@@ -52,7 +64,27 @@ Tout au long du Moyen Âge, Saint-Jacques-de-Compostelle fut la plus importante 
 - ✈ **Bordeaux–Mérignac Airport (BOD)** — 39.5 km
 - ✈ **Bergerac Dordogne-Périgord airport (EGC)** — 105.4 km
 - ✈ **La Rochelle Île de Ré Airport (LRH)** — 116.6 km
+- 🚉 **Pauillac** — 3.3 km
+- 🚉 **Margaux** — 16.7 km
+- 🚉 **Macau** — 21.6 km
+- 🚉 **Lesparre** — 21.9 km
+- 🚉 **Saint-Mariens - Saint-Yzan** — 26.5 km
+- ⛴ **Ponton de l'île Nouvelle** — 5.9 km
+- ⛴ **Halte nautique de Blaye** — 7.8 km
+- ⛴ **Bac de Blaye-Lamarque** — 8.1 km
+- ⛴ **Port de Lamarque** — 9.7 km
+- ⛴ **Embarcadère de Vitrezay** — 16.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8692.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hôtel des Quinconces** — 39.2 km — star — 5★
+- **YNDO** — 39.3 km — star — 5★
+- **Hôtel Burdigala** — 39.7 km — star — 5★ · Inwood Hotels
+- **InterContinental Bordeaux** — 39.7 km — star — 5★ · InterContinental
+- **Château de Mirambeau** — 24.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

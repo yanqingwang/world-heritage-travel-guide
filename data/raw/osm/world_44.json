@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Kings' Valley Medical & Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5816406,
+   "lon": 25.4284411,
+   "distance_km": 5.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Diana mar",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5977797,
+   "lon": 25.2110307,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Княз Павел",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.5997669,
+   "lon": 25.2056259,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Спа хотел-ресторант \"Стара Загора\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.4448192,
+   "lon": 25.6352725,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Казанлък",
+   "name_en": "Kazanlak Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.6192487,
+   "lon": 25.3940307,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 172,
+ "stations": [
+  {
+   "name": "Казанлък",
+   "name_en": "Kazanlak",
+   "lat": 42.6138328,
+   "lon": 25.3915575,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Черганово",
+   "name_en": "Cherganovo",
+   "lat": 42.588489,
+   "lon": 25.4747329,
+   "distance_km": 7.4,
+   "operator": null
+  },
+  {
+   "name": "Дунавци",
+   "name_en": null,
+   "lat": 42.6590686,
+   "lon": 25.3023217,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "Тулово",
+   "name_en": "Tulovo",
+   "lat": 42.5720906,
+   "lon": 25.5544722,
+   "distance_km": 14.0,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Сахране",
+   "name_en": null,
+   "lat": 42.6459524,
+   "lon": 25.2230126,
+   "distance_km": 14.6,
+   "operator": null
+  },
+  {
+   "name": "Радунци",
+   "name_en": "Raduntsi",
+   "lat": 42.6780427,
+   "lon": 25.5961866,
+   "distance_km": 17.1,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Дъбово",
+   "name_en": "Dabovo",
+   "lat": 42.6141841,
+   "lon": 25.6375806,
+   "distance_km": 19.5,
+   "operator": "БДЖ"
+  },
+  {
+   "name": "Змейово",
+   "name_en": "Zmeyovo",
+   "lat": 42.4989283,
+   "lon": 25.5961436,
+   "distance_km": 21.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:32Z"
+}

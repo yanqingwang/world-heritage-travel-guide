@@ -2,8 +2,8 @@
  "id": "wh-687",
  "unesco_id": "687",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 422,
+ "tier": "full",
+ "popularity_rank": 438,
  "popularity_score": 14405,
  "country": "DE",
  "country_zh": "德国",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_687.jpg",
-   "title": "Völklingen Ironworks",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/687",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-0010.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-0010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2024-10-04-Völklinger Hütte-0010.jpg",
+   "author": "Superbass",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-10-04-V%C3%B6lklinger_H%C3%BCtte-0010.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142056_0003_D.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142056_0003_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2024-10-04-Völklinger Hütte-DJI 20241004142056 0003 D.jpg",
+   "author": "Superbass",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142056_0003_D.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142128_0006_D.jpg/1280px-2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142128_0006_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2024-10-04-Völklinger Hütte-DJI 20241004142128 0006 D.jpg",
+   "author": "Superbass",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-10-04-V%C3%B6lklinger_H%C3%BCtte-DJI_20241004142128_0006_D.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20240514_V%C3%B6lklingen_Ironworks_02.jpg/1280px-20240514_V%C3%B6lklingen_Ironworks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20240514 Völklingen Ironworks 02.jpg",
+   "author": "Flocci Nivis",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20240514_V%C3%B6lklingen_Ironworks_02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/687",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 19.6,
   "distance_beijing_km": 7926.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Saarhafen Saarlouis/Dillingen",
+    "name_en": null,
+    "lat": 49.3394036,
+    "lon": 6.7246463,
+    "distance_km": 13.2,
+    "operator": null
+   },
+   {
+    "name": "Port de plaisance de Sarreguemines",
+    "name_en": null,
+    "lat": 49.1111424,
+    "lon": 7.0719072,
+    "distance_km": 22.6,
+    "operator": null
+   },
+   {
+    "name": "Port de Sarreguemines-Steinbach",
+    "name_en": null,
+    "lat": 49.1014081,
+    "lon": 7.0783908,
+    "distance_km": 23.7,
+    "operator": null
+   },
+   {
+    "name": "Fahrgastanlegestelle Besseringen",
+    "name_en": null,
+    "lat": 49.4783063,
+    "lon": 6.5961733,
+    "distance_km": 31.1,
+    "operator": null
+   },
+   {
+    "name": "Maria Croon",
+    "name_en": null,
+    "lat": 49.493505,
+    "lon": 6.5916057,
+    "distance_km": 32.7,
+    "operator": "Frankenfeld GmbH"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Völklingen",
+    "name_en": null,
+    "lat": 49.2488073,
+    "lon": 6.8492341,
+    "distance_km": 0.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Luisenthal (Saar)",
+    "name_en": null,
+    "lat": 49.2495394,
+    "lon": 6.9042635,
+    "distance_km": 4.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Bous (Saar)",
+    "name_en": null,
+    "lat": 49.2760766,
+    "lon": 6.7923999,
+    "distance_km": 4.8,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Saarbrücken-Burbach Mitte",
+    "name_en": null,
+    "lat": 49.2436247,
+    "lon": 6.9450981,
+    "distance_km": 7.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Ensdorf (Saar)",
+    "name_en": null,
+    "lat": 49.3028763,
+    "lon": 6.7760966,
+    "distance_km": 7.7,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Le domaine de la Klauss",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4192419,
+   "lon": 6.3758272,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parkhotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2618594,
+   "lon": 6.8568447,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure SB City",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 49.2373289,
+   "lon": 6.9891847,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Am Triller",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2288734,
+   "lon": 6.9910191,
+   "distance_km": 10.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Victor's Residenz-Hotel Rodenhof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2464736,
+   "lon": 6.998442,
+   "distance_km": 11.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:29Z"
+ "updated_at": "2026-11-12T12:11:53Z"
 }

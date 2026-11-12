@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Samarkand Regency",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 39.6599488,
+   "lon": 67.0594674,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Samarkand Sogd",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 39.6558265,
+   "lon": 67.0573159,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Samarkand Afrosiyob",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 39.6562269,
+   "lon": 67.0554834,
+   "distance_km": 46.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Savitskiy Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6605728,
+   "lon": 67.056792,
+   "distance_km": 46.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dacha",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 39.4483027,
+   "lon": 67.9364428,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 24,
+ "stations": [
+  {
+   "name": "Jartepa",
+   "name_en": null,
+   "lat": 39.5276298,
+   "lon": 67.3845367,
+   "distance_km": 15.7,
+   "operator": "O‘zbekiston temir yo‘llari"
+  },
+  {
+   "name": "Urgut",
+   "name_en": null,
+   "lat": 39.4395065,
+   "lon": 67.2297593,
+   "distance_km": 30.2,
+   "operator": "O‘zbekiston temir yo‘llari"
+  },
+  {
+   "name": "Paxtaboshi",
+   "name_en": null,
+   "lat": 39.8030835,
+   "lon": 67.3662339,
+   "distance_km": 36.2,
+   "operator": null
+  },
+  {
+   "name": "No 20",
+   "name_en": null,
+   "lat": 39.7860641,
+   "lon": 67.3256824,
+   "distance_km": 36.4,
+   "operator": null
+  },
+  {
+   "name": "No 19",
+   "name_en": null,
+   "lat": 39.8276082,
+   "lon": 67.4184915,
+   "distance_km": 36.8,
+   "operator": null
+  },
+  {
+   "name": "Bulungʻur",
+   "name_en": null,
+   "lat": 39.7636642,
+   "lon": 67.2669273,
+   "distance_km": 37.6,
+   "operator": null
+  },
+  {
+   "name": "No 21",
+   "name_en": null,
+   "lat": 39.7269715,
+   "lon": 67.1877164,
+   "distance_km": 40.0,
+   "operator": null
+  },
+  {
+   "name": "No 18",
+   "name_en": null,
+   "lat": 39.8813907,
+   "lon": 67.4492139,
+   "distance_km": 41.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:11Z"
+}

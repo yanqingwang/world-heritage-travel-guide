@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1250"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(i)(ii)(iv)"
 lat: 19.33222222
 lon: -99.18805556
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:12Z"
 ---
 
 # 墨西哥国立自治大学大学城的核心校区 / Central University City Campus of the Universidad Nacional Autónoma de México (UNAM)
@@ -52,7 +52,23 @@ Edificado entre 1949 y 1952, el campus central de la Universidad Nacional Autón
 - ✈ **Mexico City Benito Juárez International Airport (MEX)** — 16.9 km
 - ✈ **Adolfo López Mateos International Airport (TLC)** — 39.6 km
 - ✈ **Felipe Ángeles International Airport (NLU)** — 49.2 km
+- 🚉 **Las Torres** — 4.8 km
+- 🚉 **Ciudad Jardín** — 4.9 km
+- 🚉 **La Virgen** — 5.0 km
+- 🚉 **Xotepingo** — 5.1 km
+- 🚉 **Tasqueña** — 5.2 km
+- ⛴ **Estación AIFA** — 47.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12436.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Finisterre** — 4.7 km — star — 5★
+- **Hotel Maison México Roma** — 9.8 km — star — 5★ · Lomas Hospitality
+- **Four Seasons Hotel Mexico City** — 10.2 km — star — 5★ · Four Seasons
+- **The Ritz-Carlton, Mexico City** — 10.3 km — star — 5★ · The Ritz-Carlton
+- **Hotel Marquis Reforma** — 10.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

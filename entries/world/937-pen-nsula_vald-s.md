@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "937"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1999"
 criteria: "(x)"
 lat: -42.5
 lon: -63.933333
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 瓦尔德斯半岛 / Península Valdés
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:31Z"
 
 *Peninsula Valdés STS-68.jpg · see Wikimedia Commons file page*
 
-![Península Valdés](https://whc.unesco.org/uploads/sites/site_937.jpg)
+![2012-11-17 Psora crenata (Taylor) Reinke 283430.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2012-11-17_Psora_crenata_%28Taylor%29_Reinke_283430.jpg/1280px-2012-11-17_Psora_crenata_%28Taylor%29_Reinke_283430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Península Valdés · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2012-11-17 Psora crenata (Taylor) Reinke 283430.jpg · This image was created by user nastassja (Nastassja Noell) at Mushroom Observer , a source for mycological images. You c · CC BY-SA 3.0*
+
+![2012-11-17 Teloschistes chrysophthalmus (L.) Th. Fr 283353.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2012-11-17_Teloschistes_chrysophthalmus_%28L.%29_Th._Fr_283353.jpg/1280px-2012-11-17_Teloschistes_chrysophthalmus_%28L.%29_Th._Fr_283353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2012-11-17 Teloschistes chrysophthalmus (L.) Th. Fr 283353.jpg · This image was created by user nastassja (Nastassja Noell) at Mushroom Observer , a source for mycological images. You c · CC BY-SA 3.0*
+
+![20170423 Punta Norte Argentina JF.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/20170423_Punta_Norte_Argentina_JF.jpg/1280px-20170423_Punta_Norte_Argentina_JF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20170423 Punta Norte Argentina JF.jpg · Wolves201 · CC BY-SA 4.0*
+
+![Admiralty Chart No 1324 S. America E. Coast Sheet 4 Rio de la Plata to Cape Dos Bahias (agdm 10742 full), Published 1902.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Admiralty_Chart_No_1324_S._America_E._Coast_Sheet_4_Rio_de_la_Plata_to_Cape_Dos_Bahias_%28agdm_10742_full%29%2C_Published_1902.jpg/1280px-Admiralty_Chart_No_1324_S._America_E._Coast_Sheet_4_Rio_de_la_Plata_to_Cape_Dos_Bahias_%28agdm_10742_full%29%2C_Published_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 1324 S. America E. Coast Sheet 4 Rio de la Plata to Cape Dos Bahias (agdm 10742 full), Published 1902.jpg · United Kingdom Hydrographic Office · Public domain*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Situada en Patagonia, la Península Valdés es un lugar de preservación de mam�
 - ✈ **Almirante Marco Andres Zar Airport (REL)** — 134.6 km
 - ✈ **Gobernador Castello Airport (VDM)** — 197.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **19685.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Del Nomade Eco Hotel** — 29.5 km — hotel
+- **De Luna Rooms and Apartment** — 29.5 km — hotel
+- **Las Restingas** — 29.8 km — hotel
+- **Oceano Patagonia** — 29.8 km — hotel
+- **Faro Punta Delgada Hotel De Campo** — 38.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

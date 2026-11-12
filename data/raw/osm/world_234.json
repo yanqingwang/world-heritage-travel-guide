@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Goa - Panaji",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree by Hilton",
+   "lat": 15.4968401,
+   "lon": 73.8839011,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hyatt",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.4514479,
+   "lon": 73.8508004,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Holiday Village",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.4999998,
+   "lon": 73.7699372,
+   "distance_km": 15.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Fort Aguada Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.4976094,
+   "lon": 73.7670984,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Goa Calangute",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton Garden Inn",
+   "lat": 15.5312509,
+   "lon": 73.7647284,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 619,
+ "stations": [
+  {
+   "name": "Karmali",
+   "name_en": null,
+   "lat": 15.4904538,
+   "lon": 73.9245522,
+   "distance_km": 1.9,
+   "operator": "KR"
+  },
+  {
+   "name": "Dabolim",
+   "name_en": null,
+   "lat": 15.3871766,
+   "lon": 73.8515245,
+   "distance_km": 14.3,
+   "operator": "SWR"
+  },
+  {
+   "name": "Thivim",
+   "name_en": null,
+   "lat": 15.6298781,
+   "lon": 73.8770455,
+   "distance_km": 14.7,
+   "operator": "KR"
+  },
+  {
+   "name": "Sankaval",
+   "name_en": null,
+   "lat": 15.3710315,
+   "lon": 73.8685824,
+   "distance_km": 15.3,
+   "operator": "SWR"
+  },
+  {
+   "name": "Verna",
+   "name_en": null,
+   "lat": 15.3538506,
+   "lon": 73.9124939,
+   "distance_km": 16.5,
+   "operator": "KR"
+  },
+  {
+   "name": "Cansaulim",
+   "name_en": null,
+   "lat": 15.3449171,
+   "lon": 73.8975655,
+   "distance_km": 17.6,
+   "operator": "SWR"
+  },
+  {
+   "name": "Majorda Junction",
+   "name_en": null,
+   "lat": 15.3137925,
+   "lon": 73.9219348,
+   "distance_km": 21.0,
+   "operator": "KR"
+  },
+  {
+   "name": "Pernem",
+   "name_en": null,
+   "lat": 15.7089964,
+   "lon": 73.8167602,
+   "distance_km": 25.1,
+   "operator": "KR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Dhauji",
+   "name_en": null,
+   "lat": 15.5212131,
+   "lon": 73.9322526,
+   "distance_km": 3.0,
+   "operator": null
+  },
+  {
+   "name": "Tolto",
+   "name_en": null,
+   "lat": 15.5221578,
+   "lon": 73.9320517,
+   "distance_km": 3.1,
+   "operator": null
+  },
+  {
+   "name": "Gandaulim",
+   "name_en": null,
+   "lat": 15.514013,
+   "lon": 73.9441237,
+   "distance_km": 3.7,
+   "operator": null
+  },
+  {
+   "name": "Divar Jetty",
+   "name_en": null,
+   "lat": 15.5005797,
+   "lon": 73.8775892,
+   "distance_km": 3.7,
+   "operator": null
+  },
+  {
+   "name": "Cumbarjua",
+   "name_en": null,
+   "lat": 15.5139627,
+   "lon": 73.944912,
+   "distance_km": 3.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:46Z"
+}

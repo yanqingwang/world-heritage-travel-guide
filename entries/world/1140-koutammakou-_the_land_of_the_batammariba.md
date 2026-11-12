@@ -8,13 +8,13 @@ country: "BJ"
 country_zh: "贝宁"
 country_en: "Benin"
 unesco_id: "1140"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(v)(vi)"
 lat: 10.1
 lon: 1.066666666
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 古帕玛库，巴塔马利巴人之地 / Koutammakou, the Land of the Batammariba
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:33Z"
 
 *Togo Taberma house 02.jpg · see Wikimedia Commons file page*
 
-![Koutammakou, the Land of the Batammariba](https://whc.unesco.org/uploads/sites/site_1140.jpg)
+![Alyssa K. Barry Koutammakou,Togo (banner).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Alyssa_K._Barry_Koutammakou%2CTogo_%28banner%29.jpg/1280px-Alyssa_K._Barry_Koutammakou%2CTogo_%28banner%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Koutammakou, the Land of the Batammariba · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Alyssa K. Barry Koutammakou,Togo (banner).jpg · Kalyss · CC BY-SA 4.0*
+
+![Alyssa K. Barry Koutammakou,Togo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Alyssa_K._Barry_Koutammakou%2CTogo.jpg/1280px-Alyssa_K._Barry_Koutammakou%2CTogo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alyssa K. Barry Koutammakou,Togo.jpg · Kalyss · CC BY-SA 4.0*
+
+![Batammariba-Schéma de répartition.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c1/Batammariba-Sch%C3%A9ma_de_r%C3%A9partition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Batammariba-Schéma de répartition.jpg · Ji-Elle · CC BY-SA 4.0*
+
+![Bâtiments du village.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/B%C3%A2timents_du_village.jpg/1280px-B%C3%A2timents_du_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bâtiments du village.jpg · Hermannkass · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Le paysage du Koutammakou, dans le nord-est du Togo et le Bénin voisin, abrite 
 - ✈ **Ouagadougou Thomas Sankara International Airport (OUA)** — 376.7 km
 - ✈ **Diori Hamani International Airport (NIM)** — 395.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11558.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hôtel Kama'Aka** — 48.6 km — star — 3★
+- **Tata Touristique Koubetti** — 9.9 km — hotel
+- **Hôtel Tata** — 10.0 km — hotel
+- **Auberge** — 15.8 km — hotel
+- **Otammari Lodge** — 17.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

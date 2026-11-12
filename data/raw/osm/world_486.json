@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Cairns Central Plaza Apartment Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Central Apartment Group",
+   "lat": -16.9228522,
+   "lon": 145.7718226,
+   "distance_km": 31.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Cairns",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": -16.9171857,
+   "lon": 145.7740979,
+   "distance_km": 31.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Cairns International",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9242178,
+   "lon": 145.7788783,
+   "distance_km": 30.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Reef Hotel Casino",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9237787,
+   "lon": 145.779414,
+   "distance_km": 30.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Hotel Reef Casino",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9240664,
+   "lon": 145.7797388,
+   "distance_km": 30.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 68,
+ "stations": [
+  {
+   "name": "Babinda",
+   "name_en": null,
+   "lat": -17.3431683,
+   "lon": 145.9253626,
+   "distance_km": 20.8,
+   "operator": "Queensland Railways"
+  },
+  {
+   "name": "Cairns",
+   "name_en": null,
+   "lat": -16.9256672,
+   "lon": 145.7712597,
+   "distance_km": 30.7,
+   "operator": "Queensland Rail"
+  },
+  {
+   "name": "Freshwater",
+   "name_en": null,
+   "lat": -16.8810024,
+   "lon": 145.7097699,
+   "distance_km": 36.7,
+   "operator": "Queensland Rail Travel"
+  },
+  {
+   "name": "Innisfail",
+   "name_en": null,
+   "lat": -17.5261536,
+   "lon": 146.0190677,
+   "distance_km": 43.1,
+   "operator": "QueenslandRail"
+  },
+  {
+   "name": "Barron Falls",
+   "name_en": null,
+   "lat": -16.8364435,
+   "lon": 145.6429785,
+   "distance_km": 43.7,
+   "operator": "Queensland Rail"
+  },
+  {
+   "name": "Kuranda",
+   "name_en": null,
+   "lat": -16.818485,
+   "lon": 145.6390891,
+   "distance_km": 45.7,
+   "operator": "Queensland Rail"
+  },
+  {
+   "name": "Mareeba",
+   "name_en": null,
+   "lat": -16.9930814,
+   "lon": 145.4212025,
+   "distance_km": 46.4,
+   "operator": null
+  },
+  {
+   "name": "Herberton",
+   "name_en": null,
+   "lat": -17.3855195,
+   "lon": 145.3849919,
+   "distance_km": 48.7,
+   "operator": "Atherton-Herberton Historic Railway Incorporated"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Reef Fleet Terminal",
+   "name_en": null,
+   "lat": -16.9216604,
+   "lon": 145.7804131,
+   "distance_km": 31.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:02Z"
+}

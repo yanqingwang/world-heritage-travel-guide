@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Etoile du Sud",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.1947846,
+   "lon": -3.7377027,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Abidjan Hôtel Ivoire",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 5.326457,
+   "lon": -4.0047983,
+   "distance_km": 33.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pullman Abidjan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.322153,
+   "lon": -4.0137818,
+   "distance_km": 33.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tiama",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.3262196,
+   "lon": -4.0199524,
+   "distance_km": 34.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Tereso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 5.1966201,
+   "lon": -3.7471101,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 414,
+ "stations": [
+  {
+   "name": "Gare de Treichville",
+   "name_en": null,
+   "lat": 5.3005629,
+   "lon": -4.0140867,
+   "distance_km": 33.0,
+   "operator": "Société internationale de transport africain par rail (SITARAIL)"
+  },
+  {
+   "name": "Gare Abidjan-Lagune",
+   "name_en": null,
+   "lat": 5.316077,
+   "lon": -4.0204967,
+   "distance_km": 34.3,
+   "operator": "Société internationale de transport africain par rail (SITARAIL)"
+  },
+  {
+   "name": "Gare du Plateau",
+   "name_en": null,
+   "lat": 5.3279801,
+   "lon": -4.0245321,
+   "distance_km": 35.2,
+   "operator": "Société internationale de transport africain par rail (SITARAIL)"
+  },
+  {
+   "name": "Gare d’Adjamé",
+   "name_en": null,
+   "lat": 5.3578342,
+   "lon": -4.028365,
+   "distance_km": 37.1,
+   "operator": "Société internationale de transport africain par rail (SITARAIL)"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Bac de Eloka",
+   "name_en": null,
+   "lat": 5.2663948,
+   "lon": -3.7819365,
+   "distance_km": 9.1,
+   "operator": null
+  },
+  {
+   "name": "Gare lagunaire Aqualines Abatta",
+   "name_en": null,
+   "lat": 5.3264181,
+   "lon": -3.9212044,
+   "distance_km": 25.1,
+   "operator": null
+  },
+  {
+   "name": "Pinasse M’Badon–Koumassi 05",
+   "name_en": null,
+   "lat": 5.3256714,
+   "lon": -3.9318077,
+   "distance_km": 26.0,
+   "operator": null
+  },
+  {
+   "name": "Gare pinasse Koumassi - M'Badon",
+   "name_en": null,
+   "lat": 5.3159501,
+   "lon": -3.9421271,
+   "distance_km": 26.5,
+   "operator": null
+  },
+  {
+   "name": "Gare Pinasse Koumassi marché 32 - Sans fil",
+   "name_en": null,
+   "lat": 5.3074981,
+   "lon": -3.9529548,
+   "distance_km": 27.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:16Z"
+}

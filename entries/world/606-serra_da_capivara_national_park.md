@@ -8,13 +8,13 @@ country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
 unesco_id: "606"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iii)"
 lat: -8.6667
 lon: -42.55
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:51Z"
 ---
 
 # 卡皮瓦拉山国家公园 / Serra da Capivara National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:28Z"
 
 *20030924PPedraFurada9.jpg · see Wikimedia Commons file page*
 
-![Serra da Capivara National Park](https://whc.unesco.org/uploads/sites/site_606.jpg)
+![50 tons de verde.jpg](https://upload.wikimedia.org/wikipedia/commons/6/69/50_tons_de_verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Serra da Capivara National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*50 tons de verde.jpg · Gervásio Carvalho · CC BY-SA 3.0*
+
+![A caminho da Serra (7899576488).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/A_caminho_da_Serra_%287899576488%29.jpg/1280px-A_caminho_da_Serra_%287899576488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A caminho da Serra (7899576488).jpg · Otávio Nogueira from Fortaleza, BR · CC BY 2.0*
+
+![A caminho da Serra (7899611372).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/A_caminho_da_Serra_%287899611372%29.jpg/1280px-A_caminho_da_Serra_%287899611372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A caminho da Serra (7899611372).jpg · Otávio Nogueira from Fortaleza, BR · CC BY 2.0*
+
+![A caminho da Serra (7899623030).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/A_caminho_da_Serra_%287899623030%29.jpg/1280px-A_caminho_da_Serra_%287899623030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A caminho da Serra (7899623030).jpg · Otávio Nogueira from Fortaleza, BR · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,6 +64,16 @@ O Parque Nacional Serra da Capivara é uma unidade de conservação brasileira d
 - ✈ **Senador Nilo Coelho Airport (PNZ)** — 230.9 km
 - ✈ **Orlando Bezerra de Menezes Airport (JDO)** — 395.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **15920.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Pousada Ninho da Siriema** — 39.6 km — hotel
+- **Mega Express Hotel** — 40.3 km — hotel — Mega Express Hotel Limitada
+- **Ecorupestre Hostel** — 40.7 km — hotel
+- **Hotel Bella Vista** — 41.7 km — hotel
+- **Pousada Zabelê** — 41.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

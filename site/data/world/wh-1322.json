@@ -2,8 +2,8 @@
  "id": "wh-1322",
  "unesco_id": "1322",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 442,
+ "tier": "full",
+ "popularity_rank": 458,
  "popularity_score": 13252,
  "country": "CI",
  "country_zh": "科特迪瓦",
@@ -45,20 +45,44 @@
  "intro_local_source": "unesco_official",
  "images": [
   {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2021-08-10%20Historic%20Town%20of%20Grand-Bassam%20by%20Benoit%20Soubeyran%2001.jpg?width=1280",
-   "title": "2021-08-10 Historic Town of Grand-Bassam by Benoit Soubeyran 01.jpg",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/800px-Grand-Bassam.jpg?width=1280",
+   "title": "800px-Grand-Bassam.jpg",
    "author": "",
    "license": "see Wikimedia Commons file page",
-   "source": "https://commons.wikimedia.org/wiki/File:2021-08-10%20Historic%20Town%20of%20Grand-Bassam%20by%20Benoit%20Soubeyran%2001.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:800px-Grand-Bassam.jpg",
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1322.jpg",
-   "title": "Historic Town of Grand-Bassam",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1322",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_Grand-Bassam%2C_un_patrimoine_d%C3%A9grad%C3%A9_en_passe_d%E2%80%99%C3%AAtre_sauv%C3%A9_par_des_riverains_1215ef0d-54fa-491b-8714-4215d67d5a5c_720p.webm/1280px--A_Grand-Bassam%2C_un_patrimoine_d%C3%A9grad%C3%A9_en_passe_d%E2%80%99%C3%AAtre_sauv%C3%A9_par_des_riverains_1215ef0d-54fa-491b-8714-4215d67d5a5c_720p.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "A Grand-Bassam, un patrimoine dégradé en passe d’être sauvé par des riverains 1215ef0d-54fa-491b-8714-4215d67d5a5c 720p.webm",
+   "author": "Divers",
+   "license": "Public domain",
+   "credit": "VOA Afrique, https://www.voaafrique.com/z/6138",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Grand-Bassam%2C_un_patrimoine_d%C3%A9grad%C3%A9_en_passe_d%E2%80%99%C3%AAtre_sauv%C3%A9_par_des_riverains_1215ef0d-54fa-491b-8714-4215d67d5a5c_720p.webm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/AFR_V3_D282_Women_of_Grand_Bassam.jpg/1280px-AFR_V3_D282_Women_of_Grand_Bassam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AFR V3 D282 Women of Grand Bassam.jpg",
+   "author": "Élisee Reclus, Translated by Augustus Henry Keane, 1833-1912",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: africatheearth03recluoft",
+   "source": "https://commons.wikimedia.org/wiki/File:AFR_V3_D282_Women_of_Grand_Bassam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_01.jpg/1280px-Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Banderole numérique Club wikimedia Grand Bassam 01.jpg",
+   "author": "Gmpapa",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_02.jpg/1280px-Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Banderole numérique Club wikimedia Grand Bassam 02.jpg",
+   "author": "Gmpapa",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Banderole_num%C3%A9rique_Club_wikimedia_Grand_Bassam_02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1322",
@@ -102,10 +126,140 @@
   ],
   "nearest_airport_km": 22.4,
   "distance_beijing_km": 12135.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bac de Eloka",
+    "name_en": null,
+    "lat": 5.2663948,
+    "lon": -3.7819365,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "Gare lagunaire Aqualines Abatta",
+    "name_en": null,
+    "lat": 5.3264181,
+    "lon": -3.9212044,
+    "distance_km": 25.1,
+    "operator": null
+   },
+   {
+    "name": "Pinasse M’Badon–Koumassi 05",
+    "name_en": null,
+    "lat": 5.3256714,
+    "lon": -3.9318077,
+    "distance_km": 26.0,
+    "operator": null
+   },
+   {
+    "name": "Gare pinasse Koumassi - M'Badon",
+    "name_en": null,
+    "lat": 5.3159501,
+    "lon": -3.9421271,
+    "distance_km": 26.5,
+    "operator": null
+   },
+   {
+    "name": "Gare Pinasse Koumassi marché 32 - Sans fil",
+    "name_en": null,
+    "lat": 5.3074981,
+    "lon": -3.9529548,
+    "distance_km": 27.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Gare de Treichville",
+    "name_en": null,
+    "lat": 5.3005629,
+    "lon": -4.0140867,
+    "distance_km": 33.0,
+    "operator": "Société internationale de transport africain par rail (SITARAIL)"
+   },
+   {
+    "name": "Gare Abidjan-Lagune",
+    "name_en": null,
+    "lat": 5.316077,
+    "lon": -4.0204967,
+    "distance_km": 34.3,
+    "operator": "Société internationale de transport africain par rail (SITARAIL)"
+   },
+   {
+    "name": "Gare du Plateau",
+    "name_en": null,
+    "lat": 5.3279801,
+    "lon": -4.0245321,
+    "distance_km": 35.2,
+    "operator": "Société internationale de transport africain par rail (SITARAIL)"
+   },
+   {
+    "name": "Gare d’Adjamé",
+    "name_en": null,
+    "lat": 5.3578342,
+    "lon": -4.028365,
+    "distance_km": 37.1,
+    "operator": "Société internationale de transport africain par rail (SITARAIL)"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Etoile du Sud",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.1947846,
+   "lon": -3.7377027,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Abidjan Hôtel Ivoire",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 5.326457,
+   "lon": -4.0047983,
+   "distance_km": 33.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pullman Abidjan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.322153,
+   "lon": -4.0137818,
+   "distance_km": 33.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tiama",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.3262196,
+   "lon": -4.0199524,
+   "distance_km": 34.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Tereso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 5.1966201,
+   "lon": -3.7471101,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CI",
   "country_zh": "科特迪瓦",
@@ -174,5 +328,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:35Z"
+ "updated_at": "2026-11-12T12:12:15Z"
 }

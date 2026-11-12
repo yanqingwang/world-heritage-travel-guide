@@ -2,9 +2,9 @@
  "id": "wh-352",
  "unesco_id": "352",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1034,
- "popularity_score": 13573,
+ "tier": "full",
+ "popularity_rank": 477,
+ "popularity_score": 12473,
  "country": "NO",
  "country_zh": "挪威",
  "country_en": "Norway",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_352.jpg",
-   "title": "Rock Art of Alta",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/352",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1992.08.08_Helleristninger_i_Alta_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1992.08.08 Helleristninger i Alta II.jpg",
+   "author": "Hans Olav Lien",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1992.08.08_Helleristninger_i_Alta_II.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/1992.08.08_Helleristninger_i_Alta_III.jpg/1280px-1992.08.08_Helleristninger_i_Alta_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1992.08.08 Helleristninger i Alta III.jpg",
+   "author": "Hans Olav Lien",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1992.08.08_Helleristninger_i_Alta_III.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1992.08.08_Helleristninger_i_Alta_IV.jpg/1280px-1992.08.08_Helleristninger_i_Alta_IV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1992.08.08 Helleristninger i Alta IV.jpg",
+   "author": "Hans Olav Lien",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1992.08.08_Helleristninger_i_Alta_IV.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/20160114arp075.jpg/1280px-20160114arp075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160114arp075.jpg",
+   "author": "Karin Tansem",
+   "license": "CC BY-SA 4.0",
+   "credit": "http://altarockart.no/fotoweb/archives/5000-Browse-in-Norwegian/+/kfjord/del-1/",
+   "source": "https://commons.wikimedia.org/wiki/File:20160114arp075.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/352",
@@ -102,10 +126,107 @@
   ],
   "nearest_airport_km": 7.7,
   "distance_beijing_km": 5985.1,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Alta Båthavn",
+    "name_en": null,
+    "lat": 69.9711534,
+    "lon": 23.2399784,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Alta rutebåtterminal",
+    "name_en": null,
+    "lat": 69.9769052,
+    "lon": 23.3283141,
+    "distance_km": 6.3,
+    "operator": null
+   },
+   {
+    "name": "Alta hurtigbåtterminal",
+    "name_en": null,
+    "lat": 69.9781363,
+    "lon": 23.3300582,
+    "distance_km": 6.4,
+    "operator": null
+   },
+   {
+    "name": "Terminalkaia",
+    "name_en": null,
+    "lat": 69.9800041,
+    "lon": 23.3345952,
+    "distance_km": 6.7,
+    "operator": null
+   },
+   {
+    "name": "Mikkelsby kai",
+    "name_en": null,
+    "lat": 70.1373734,
+    "lon": 23.3272718,
+    "distance_km": 21.8,
+    "operator": "Altafjord Oppdrett AS"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Thon Hotel Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.965077,
+   "lon": 23.2709369,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scandic Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": "Scandic Hotels",
+   "lat": 69.966058,
+   "lon": 23.269179,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Canyon Hotell Alta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.9668331,
+   "lon": 23.2743731,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kvenvikmoen og Alta Vandrerhjem",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.9224453,
+   "lon": 23.0913478,
+   "distance_km": 4.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sorrisniva Igloo Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 69.865153,
+   "lon": 23.318202,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NO",
   "country_zh": "挪威",
@@ -179,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:43Z"
 }

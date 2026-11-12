@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Villa Dovela San Benito",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.6888266,
+   "lon": -89.2406179,
+   "distance_km": 19.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Armonia Hostal",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Armonía hostal",
+   "lat": 13.719743,
+   "lon": -89.2076849,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa Serena Escalón",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.7024872,
+   "lon": -89.2230801,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton San Salvador",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 13.7097284,
+   "lon": -89.2412114,
+   "distance_km": 18.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sheraton Presidente",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.691336,
+   "lon": -89.2416896,
+   "distance_km": 19.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 221,
+ "stations": [
+  {
+   "name": "La Estación",
+   "name_en": null,
+   "lat": 13.8069691,
+   "lon": -89.2297487,
+   "distance_km": 13.8,
+   "operator": null
+  },
+  {
+   "name": "Estación de Tren FENADESAL",
+   "name_en": null,
+   "lat": 13.7010139,
+   "lon": -89.1760131,
+   "distance_km": 24.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:14Z"
+}

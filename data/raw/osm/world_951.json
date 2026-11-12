@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hoang Dat Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 17.4970562,
+   "lon": 106.5925472,
+   "distance_km": 47.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chày Lập Farmstay",
+   "name_en": "Chay Lap Farmstay",
+   "stars": null,
+   "brand": null,
+   "lat": 17.6016656,
+   "lon": 106.2546929,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Charm’s Homestay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.5950733,
+   "lon": 106.2855704,
+   "distance_km": 15.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rustic Home",
+   "name_en": "Phong Nha Rustic Home",
+   "stars": null,
+   "brand": null,
+   "lat": 17.5946559,
+   "lon": 106.2862981,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Phong Nha Mountainhouse",
+   "name_en": "Phong Nha Mountainhouse",
+   "stars": null,
+   "brand": null,
+   "lat": 17.5950798,
+   "lon": 106.2870746,
+   "distance_km": 16.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 58,
+ "stations": [
+  {
+   "name": "Lệ Sơn",
+   "name_en": null,
+   "lat": 17.7788849,
+   "lon": 106.2577493,
+   "distance_km": 29.6,
+   "operator": null
+  },
+  {
+   "name": "Ngân Sơn",
+   "name_en": null,
+   "lat": 17.6696591,
+   "lon": 106.3941902,
+   "distance_km": 30.0,
+   "operator": null
+  },
+  {
+   "name": "Minh Lệ",
+   "name_en": null,
+   "lat": 17.7124933,
+   "lon": 106.3705074,
+   "distance_km": 30.7,
+   "operator": null
+  },
+  {
+   "name": "Lạc Sơn",
+   "name_en": null,
+   "lat": 17.811304,
+   "lon": 106.189406,
+   "distance_km": 31.2,
+   "operator": null
+  },
+  {
+   "name": "Ngọc Lâm",
+   "name_en": null,
+   "lat": 17.8291286,
+   "lon": 106.1216994,
+   "distance_km": 33.0,
+   "operator": null
+  },
+  {
+   "name": "Thọ Lộc",
+   "name_en": null,
+   "lat": 17.6192164,
+   "lon": 106.4589551,
+   "distance_km": 34.1,
+   "operator": null
+  },
+  {
+   "name": "Hoàn Lão",
+   "name_en": null,
+   "lat": 17.5763612,
+   "lon": 106.5223639,
+   "distance_km": 39.8,
+   "operator": null
+  },
+  {
+   "name": "Đồng Lê",
+   "name_en": "Dong Le",
+   "lat": 17.8881795,
+   "lon": 106.022186,
+   "distance_km": 41.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:49Z"
+}

@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1346"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(ii)(iii)(iv)"
 lat: 38.080772222
 lon: 46.292286111
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:15Z"
 ---
 
 # 大不里士的集市区 / Tabriz Historic Bazaar Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:35Z"
 
 *GRAND BAZAR OF TABRIZ.jpg · see Wikimedia Commons file page*
 
-![Tabriz Historic Bazaar Complex](https://whc.unesco.org/uploads/sites/site_1346.jpg)
+![1241.JewelryBazaar.Tabriz (1470548513).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1241.JewelryBazaar.Tabriz_%281470548513%29.jpg/1280px-1241.JewelryBazaar.Tabriz_%281470548513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tabriz Historic Bazaar Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1241.JewelryBazaar.Tabriz (1470548513).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![1243.Bazaar.Tabriz (1470548939).jpg](https://upload.wikimedia.org/wikipedia/commons/9/9b/1243.Bazaar.Tabriz_%281470548939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1243.Bazaar.Tabriz (1470548939).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![1244.Bazaar.Tabriz (1470550699).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1244.Bazaar.Tabriz_%281470550699%29.jpg/1280px-1244.Bazaar.Tabriz_%281470550699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1244.Bazaar.Tabriz (1470550699).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![1246.Bazaar.Tabriz (1470551499).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5b/1246.Bazaar.Tabriz_%281470551499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1246.Bazaar.Tabriz (1470551499).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Tabriz has been a place of cultural exchange since antiquity and its historic ba
 - ✈ **Tabriz International Airport (TBZ)** — 7.7 km
 - ✈ **Urmia Airport (OMH)** — 116.8 km
 - ✈ **Nakhchivan International Airport (NAJ)** — 142.9 km
+- 🚉 **تبریز** — 5.7 km
+- 🚉 **ایستگاه راه آهن خاوران** — 13.6 km
+- 🚉 **عباسی** — 19.8 km
+- 🚉 **سهلان** — 21.4 km
+- 🚉 **صوفیان** — 33.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5908.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **هتل بین المللی شهریار** — 6.0 km — star — 5★
+- **هتل لاله پارک** — 6.8 km — star — Laleh Park Hotel · 5★ · kaya hotels
+- **هتل پارس ائل گؤلی** — 9.4 km — star — Pars El-Goli Hotel · 5★
+- **هتل پتروشیمی تبریز** — 4.5 km — star — 4★
+- **هتل آیدا** — 2.0 km — star — 2★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

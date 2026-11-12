@@ -2,8 +2,8 @@
  "id": "wh-267",
  "unesco_id": "267",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 410,
+ "tier": "full",
+ "popularity_rank": 426,
  "popularity_score": 15292,
  "country": "CH",
  "country_zh": "瑞士",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_267.jpg",
-   "title": "Old City of Berne",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/267",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aareschlaufe_Bern-East.svg/1280px-Aareschlaufe_Bern-East.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aareschlaufe Bern-East.svg",
+   "author": "OpenStreetMap contributors",
+   "license": "CC BY-SA 2.0",
+   "credit": "OpenStreetMap.org",
+   "source": "https://commons.wikimedia.org/wiki/File:Aareschlaufe_Bern-East.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Altstadt_005.jpg/1280px-Altstadt_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt 005.jpg",
+   "author": "Geri340",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_005.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Altstadt_09.JPG/1280px-Altstadt_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt 09.JPG",
+   "author": "Geri340",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_09.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Altstadt_Bern_KGS-Nr_9554_2.jpg/1280px-Altstadt_Bern_KGS-Nr_9554_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt Bern KGS-Nr 9554 2.jpg",
+   "author": "Lightshaper",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_Bern_KGS-Nr_9554_2.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/267",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 5.4,
   "distance_beijing_km": 8071.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Büren",
+    "name_en": null,
+    "lat": 47.1403389,
+    "lon": 7.374014,
+    "distance_km": 22.1,
+    "operator": "BSG"
+   },
+   {
+    "name": "Brügg",
+    "name_en": null,
+    "lat": 47.1221371,
+    "lon": 7.281541,
+    "distance_km": 23.2,
+    "operator": "BSG"
+   },
+   {
+    "name": "Port",
+    "name_en": null,
+    "lat": 47.1183679,
+    "lon": 7.256603,
+    "distance_km": 24.0,
+    "operator": "BSG"
+   },
+   {
+    "name": "Täuffelen",
+    "name_en": null,
+    "lat": 47.070533,
+    "lon": 7.1900997,
+    "distance_km": 24.0,
+    "operator": null
+   },
+   {
+    "name": "Nidau",
+    "name_en": null,
+    "lat": 47.1217045,
+    "lon": 7.2433384,
+    "distance_km": 24.9,
+    "operator": "BSG"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bern",
+    "name_en": null,
+    "lat": 46.9489092,
+    "lon": 7.4399554,
+    "distance_km": 0.8,
+    "operator": "SBB"
+   },
+   {
+    "name": "Bern Weissenbühl",
+    "name_en": null,
+    "lat": 46.9357904,
+    "lon": 7.430045,
+    "distance_km": 2.1,
+    "operator": "BLS"
+   },
+   {
+    "name": "Wabern",
+    "name_en": null,
+    "lat": 46.9286847,
+    "lon": 7.4459497,
+    "distance_km": 2.2,
+    "operator": "BLS"
+   },
+   {
+    "name": "Bern Felsenau",
+    "name_en": null,
+    "lat": 46.9687092,
+    "lon": 7.4443048,
+    "distance_km": 2.3,
+    "operator": "RBS"
+   },
+   {
+    "name": "Ostermundigen",
+    "name_en": null,
+    "lat": 46.9567757,
+    "lon": 7.4814383,
+    "distance_km": 2.6,
+    "operator": "SBB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Bellevue Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.9465303,
+   "lon": 7.446704,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Schweizerhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.9488149,
+   "lon": 7.4410493,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BEATUS Wellness- & Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "HLS Hotels & Spa AG",
+   "lat": 46.6963047,
+   "lon": 7.7376523,
+   "distance_km": 35.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palafitte",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.0042595,
+   "lon": 6.9654102,
+   "distance_km": 37.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Victoria Jungfrau",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.686602,
+   "lon": 7.8574679,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CH",
   "country_zh": "瑞士",
@@ -180,5 +342,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:41Z"
 }

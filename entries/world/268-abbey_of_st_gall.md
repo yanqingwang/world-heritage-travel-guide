@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(ii)(iv)"
 lat: 47.423055555
 lon: 9.377222222
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:41Z"
 ---
 
 # 圣加尔修道院 / Abbey of St Gall

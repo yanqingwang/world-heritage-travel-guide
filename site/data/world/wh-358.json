@@ -2,9 +2,9 @@
  "id": "wh-358",
  "unesco_id": "358",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1040,
- "popularity_score": 14281,
+ "tier": "full",
+ "popularity_rank": 460,
+ "popularity_score": 13089,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Divrigi%20complex%20DSCF3028.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Divri%C4%9Fi_Great_Mosque_and_Hospital%2C_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Divriği Great Mosque and Hospital, Sivas Province.jpg",
+   "author": "Panegyrics of Granovetter",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/sarah_c_murray/4831147031/",
+   "source": "https://commons.wikimedia.org/wiki/File:Divri%C4%9Fi_Great_Mosque_and_Hospital%2C_Sivas_Province.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Divri%C4%9Fi_mosque_SW_gate008.jpg/1280px-Divri%C4%9Fi_mosque_SW_gate008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Divriği mosque SW gate008.jpg",
+   "author": "Dosseman",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Divri%C4%9Fi_mosque_SW_gate008.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_from_Mardin_to_the_Mesopotamian_plains.jpg/1280px-View_from_Mardin_to_the_Mesopotamian_plains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "View from Mardin to the Mesopotamian plains.jpg",
+   "author": "Florian Koch French translation by Yolan Chériaux",
+   "license": "CC BY-SA 2.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Mardin_to_the_Mesopotamian_plains.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_358.jpg",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 104.1,
   "distance_beijing_km": 6525.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Divriği",
+    "name_en": null,
+    "lat": 39.3840272,
+    "lon": 38.1141305,
+    "distance_km": 1.6,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Demirdağ",
+    "name_en": null,
+    "lat": 39.4080185,
+    "lon": 38.1077999,
+    "distance_km": 4.3,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Cürek",
+    "name_en": null,
+    "lat": 39.4446881,
+    "lon": 38.035577,
+    "distance_km": 11.0,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Bahçeli",
+    "name_en": null,
+    "lat": 39.412995,
+    "lon": 37.955142,
+    "distance_km": 15.0,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Göçentaşı",
+    "name_en": null,
+    "lat": 39.4076525,
+    "lon": 37.9083879,
+    "distance_km": 18.8,
+    "operator": "TCDD Taşımacılık"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Bozkurt Hotel & Restaurant",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.2621892,
+   "lon": 38.4970244,
+   "distance_km": 34.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kelhasan Köyü Muhtarlığı/Yardımlaşma Ve Dayanışma Konağı",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7600612,
+   "lon": 37.9001915,
+   "distance_km": 47.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Danışık Köyü Muhtarlığı",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7566986,
+   "lon": 37.8805478,
+   "distance_km": 47.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Çamkeleş Mezrası",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7713944,
+   "lon": 37.8971775,
+   "distance_km": 48.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Arapgir Nazar Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.0408991,
+   "lon": 38.4932224,
+   "distance_km": 48.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -176,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:44Z"
 }

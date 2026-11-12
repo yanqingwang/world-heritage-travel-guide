@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Misión Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.6634796,
+   "lon": -103.349984,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Plaza Guadalajara",
+   "name_en": null,
+   "stars": 5,
+   "brand": "RIU",
+   "lat": 20.6658275,
+   "lon": -103.3937283,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HOTEL Sta. Maria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.663512,
+   "lon": -103.3477996,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Krystal Urban Guadalajara",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Krystal Hotels & Resorts",
+   "lat": 20.6730298,
+   "lon": -103.380681,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Platino Expo",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.6492647,
+   "lon": -103.3973585,
+   "distance_km": 7.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 123,
+ "stations": [
+  {
+   "name": "Estación La Capilla",
+   "name_en": null,
+   "lat": 20.4465211,
+   "lon": -103.1936189,
+   "distance_km": 29.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:27Z"
+}

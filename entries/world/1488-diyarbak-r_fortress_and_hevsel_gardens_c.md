@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iv)"
 lat: 37.9075
 lon: 40.2475
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:20Z"
 ---
 
 # 迪亚巴克要塞和哈乌塞尔花园文化景观 / Diyarbakır Fortress and Hevsel Gardens Cultural Landscape

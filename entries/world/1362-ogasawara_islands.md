@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1362"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2011"
 criteria: "(ix)"
 lat: 27.0
 lon: 142.16667
-updated_at: "2026-11-12T11:55:35Z"
+updated_at: "2026-11-12T12:12:16Z"
 ---
 
 # Ogasawara Islands，日本 / Ogasawara Islands
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:35Z"
 
 *Wai-Beach.jpg · see Wikimedia Commons file page*
 
-![Ogasawara Islands](https://whc.unesco.org/uploads/sites/site_1362.jpg)
+![37 30 N. in East Asia.png](https://upload.wikimedia.org/wikipedia/commons/c/c5/37_30_N._in_East_Asia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ogasawara Islands · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*37 30 N. in East Asia.png · LlywelynII · CC BY-SA 4.0*
+
+![HPD0084-20020310-105552.3670-SHHD-Front-1920x1080 HDCAM-1o4--NoImpose-Santjordia pagesi-Dhugal Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HPD0084-20020310-105552.3670-SHHD-Front-1920x1080_HDCAM-1o4--NoImpose-Santjordia_pagesi-Dhugal_Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm/1280px--thumbnail.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*HPD0084-20020310-105552.3670-SHHD-Front-1920x1080 HDCAM-1o4--NoImpose-Santjordia pagesi-Dhugal Lindsay-SEKIJUUJIKURAGE-843m-2ndspecimen-20020310T015552.3670Z-h264.webm · Lindsay, D. J. (2023) · CC BY 4.0*
+
+![In situ video of Santjordia pagesi holotype specimen HD84GS1 (DLSI063) as recorded by remotely operated underwater vehicle Hyper-Dolphin.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/In_situ_video_of_Santjordia_pagesi_holotype_specimen_HD84GS1_%28DLSI063%29_as_recorded_by_remotely_operated_underwater_vehicle_Hyper-Dolphin.webm/1280px--In_situ_video_of_Santjordia_pagesi_holotype_specimen_HD84GS1_%28DLSI063%29_as_recorded_by_remotely_operated_underwater_vehicle_Hyper-Dolphin.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*In situ video of Santjordia pagesi holotype specimen HD84GS1 (DLSI063) as recorded by remotely operated underwater vehicle Hyper-Dolphin.webm · Lindsay, D. J. (2023) · CC BY 4.0*
+
+![Japan Ogasawara Parliament 2023.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Japan_Ogasawara_Parliament_2023.svg/1280px-Japan_Ogasawara_Parliament_2023.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan Ogasawara Parliament 2023.svg · User:基準点なアセスメント · Public domain*
 
 ## 简介 / Introduction
 
@@ -51,7 +63,18 @@ The property numbers more than 30 islands clustered in three groups and covers s
 
 - ✈ **Hachijojima Airport (HAC)** — 717.4 km
 - ✈ **Miyakejima Airport (MYE)** — 825.1 km
+- ⛴ **父島** — 11.0 km
+- ⛴ **二見漁港** — 11.3 km
+- ⛴ **母島漁港** — 34.2 km
+- ⛴ **母島** — 40.2 km
+- ⛴ **沖港** — 40.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2203.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

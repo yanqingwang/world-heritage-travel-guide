@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iii)(iv)"
 lat: 39.47416667
 lon: -6.37
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:45Z"
 ---
 
 # 卡塞雷斯古城 / Old Town of Cáceres

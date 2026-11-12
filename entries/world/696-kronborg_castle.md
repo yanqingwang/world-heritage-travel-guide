@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 56.038611111
 lon: 12.621944444
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:53Z"
 ---
 
 # 科隆博格城堡 / Kronborg Castle

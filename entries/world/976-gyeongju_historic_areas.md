@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "976"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)"
 lat: 35.78888889
 lon: 129.22666667
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:05Z"
 ---
 
 # 庆州历史区 / Gyeongju Historic Areas
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:55:32Z"
 ![Пояс парка Тумули.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D1%8F%D1%81%20%D0%BF%D0%B0%D1%80%D0%BA%D0%B0%20%D0%A2%D1%83%D0%BC%D1%83%D0%BB%D0%B8.jpg?width=1280)
 
 *Пояс парка Тумули.jpg · see Wikimedia Commons file page*
+
+![Gyeongju Historic Areas 01.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gyeongju_Historic_Areas_01.JPG/1280px-Gyeongju_Historic_Areas_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gyeongju Historic Areas 01.JPG · Abasaa · Public domain*
+
+![Sungsinjeon.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sungsinjeon.JPG/1280px-Sungsinjeon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sungsinjeon.JPG · Abasaa · Public domain*
+
+![경주 밀레니엄 파크.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/%EA%B2%BD%EC%A3%BC_%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84_%ED%8C%8C%ED%81%AC.JPG/1280px-%EA%B2%BD%EC%A3%BC_%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84_%ED%8C%8C%ED%81%AC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*경주 밀레니엄 파크.JPG · Noenemy · CC BY-SA 3.0*
 
 ![Gyeongju Historic Areas](https://whc.unesco.org/uploads/sites/site_976.jpg)
 
@@ -52,7 +64,27 @@ The Gyeongju Historic Areas contain a remarkable concentration of outstanding ex
 - ✈ **Ulsan Airport (USN)** — 24.5 km
 - ✈ **Pohang Airport (G-815/K-3) (KPO)** — 28.2 km
 - ✈ **Daegu International Airport (TAE)** — 52.7 km
+- 🚉 **경주** — 8.0 km
+- 🚉 **서경주** — 11.4 km
+- 🚉 **아화** — 20.0 km
+- 🚉 **안강** — 20.2 km
+- 🚉 **북울산** — 23.4 km
+- ⛴ **꼴지나루터** — 29.4 km
+- ⛴ **포항크루즈** — 29.4 km
+- ⛴ **포항여객선터미널** — 32.3 km
+- ⛴ **구룡포항** — 36.9 km
+- ⛴ **방어진항(Bangeojin Bay)** — 38.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1225.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **힐튼경주** — 7.8 km — star — Hilton Gyeongju · 5★ · Hilton
+- **코모도호텔경주** — 8.1 km — star — Commodore Hotel Gyeonju · 5★
+- **라한셀렉트 경주 (구. 현대호텔)** — 8.2 km — star — LAHAN SELECT GYEONGJU (Old. Hyundai Hotel) · 5★
+- **더케이호텔경주** — 8.0 km — star — THE-K HOTEL GYEONGJU · 4★
+- **스위트호텔경주** — 8.5 km — star — Suites Hotel Gyeongju · 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

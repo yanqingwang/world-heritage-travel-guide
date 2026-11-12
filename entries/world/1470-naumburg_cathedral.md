@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1470"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(i)(ii)"
 lat: 51.154722222
 lon: 11.803888888
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:19Z"
 ---
 
 # 瑙姆堡大教堂 / Naumburg Cathedral
@@ -64,7 +64,27 @@ Der heute evangelische Naumburger Dom St. Peter und Paul in Naumburg (Saale) ist
 - ✈ **Leipzig/Halle Airport (LEJ)** — 42.0 km
 - ✈ **Erfurt-Weimar Airport (ERF)** — 62.1 km
 - ✈ **Karlovy Vary Airport (KLV)** — 131.6 km
+- 🚉 **Naumburg (Saale) Hauptbahnhof** — 1.0 km
+- 🚉 **Naumburg (Saale) Ost** — 1.4 km
+- 🚉 **Bad Kösen** — 6.5 km
+- 🚉 **Prittitz** — 9.3 km
+- 🚉 **Großheringen** — 11.5 km
+- ⛴ **Blütengrund** — 2.4 km
+- ⛴ **Naumburg Blütengrund** — 2.4 km
+- ⛴ **Fähre Schellsitz - Anleger Naumburg** — 2.8 km
+- ⛴ **Fähre Schellsitz - Anleger Schellsitz** — 2.8 km
+- ⛴ **Freyburg** — 6.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7489.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Elephant** — 38.5 km — star — 5★
+- **Lumière Boutiquehotel im Fürstenhof** — 44.9 km — star — 5★
+- **Zur Alten Schmiede** — 0.3 km — star — 4★
+- **Weinberghotel Edelacker** — 6.6 km — star — 4★
+- **Atrium Hotel Amadeus** — 12.1 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

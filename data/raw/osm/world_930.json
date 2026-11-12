@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hospes Amérigo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3444799,
+   "lon": -0.4825743,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel HUSA Golf",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3749069,
+   "lon": -0.4215182,
+   "distance_km": 26.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Servigroup Montiboli",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.4947211,
+   "lon": -0.2694104,
+   "distance_km": 44.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Palacio de San Juan",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Royal Hideaway Hotel",
+   "lat": 37.9830741,
+   "lon": -1.1267094,
+   "distance_km": 49.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Huerto del Cura",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.2636146,
+   "lon": -0.6923194,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 201,
+ "stations": [
+  {
+   "name": "Elx Carrús",
+   "name_en": null,
+   "lat": 38.2690377,
+   "lon": -0.7062979,
+   "distance_km": 1.4,
+   "operator": "Adif"
+  },
+  {
+   "name": "Gabinete de Circulación Elx Mercaderíes",
+   "name_en": null,
+   "lat": 38.2786537,
+   "lon": -0.655541,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Torrellano",
+   "name_en": null,
+   "lat": 38.2896453,
+   "lon": -0.5827572,
+   "distance_km": 9.8,
+   "operator": null
+  },
+  {
+   "name": "Novelda-Aspe",
+   "name_en": null,
+   "lat": 38.4072636,
+   "lon": -0.7775541,
+   "distance_km": 17.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Alacant Terminal",
+   "name_en": null,
+   "lat": 38.3449804,
+   "lon": -0.496061,
+   "distance_km": 19.2,
+   "operator": "Adif"
+  },
+  {
+   "name": "Luceros",
+   "name_en": null,
+   "lat": 38.3460283,
+   "lon": -0.4906238,
+   "distance_km": 19.7,
+   "operator": null
+  },
+  {
+   "name": "Mercado",
+   "name_en": null,
+   "lat": 38.3481553,
+   "lon": -0.4848257,
+   "distance_km": 20.2,
+   "operator": null
+  },
+  {
+   "name": "MARQ-Castillo",
+   "name_en": null,
+   "lat": 38.3520855,
+   "lon": -0.4756717,
+   "distance_km": 21.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Santa Pola",
+   "name_en": null,
+   "lat": 38.1901756,
+   "lon": -0.5584765,
+   "distance_km": 14.2,
+   "operator": null
+  },
+  {
+   "name": "Cruise Terminal",
+   "name_en": null,
+   "lat": 38.331943,
+   "lon": -0.4851977,
+   "distance_km": 19.5,
+   "operator": null
+  },
+  {
+   "name": "Alicante-Isla de Tabarca",
+   "name_en": null,
+   "lat": 38.3420529,
+   "lon": -0.4848201,
+   "distance_km": 19.9,
+   "operator": null
+  },
+  {
+   "name": "Marina Alicante",
+   "name_en": null,
+   "lat": 38.3390742,
+   "lon": -0.4828435,
+   "distance_km": 20.0,
+   "operator": null
+  },
+  {
+   "name": "Tabarca",
+   "name_en": null,
+   "lat": 38.1674841,
+   "lon": -0.478647,
+   "distance_km": 21.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:50Z"
+}

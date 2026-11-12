@@ -1,0 +1,97 @@
+{
+ "hotels": [
+  {
+   "name": "Kasa Kiwi Hostel & Travel Agency",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 14.8319953,
+   "lon": -91.5177796,
+   "distance_km": 31.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Acanthus Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 14.8375063,
+   "lon": -91.5229734,
+   "distance_km": 31.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Los Altos",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 14.8486842,
+   "lon": -91.5147402,
+   "distance_km": 32.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel 6",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 14.8458821,
+   "lon": -91.5138739,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hibiskus",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8337185,
+   "lon": -91.5169836,
+   "distance_km": 31.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 195,
+ "stations": [
+  {
+   "name": "Estación Tecún Umán",
+   "name_en": null,
+   "lat": 14.6745098,
+   "lon": -92.1355255,
+   "distance_km": 43.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Muelle San Juan",
+   "name_en": "San Juan Dock",
+   "lat": 14.6970688,
+   "lon": -91.2831216,
+   "distance_km": 49.1,
+   "operator": null
+  },
+  {
+   "name": "Muelle del Lago Azul",
+   "name_en": null,
+   "lat": 14.6939096,
+   "lon": -91.2757826,
+   "distance_km": 49.8,
+   "operator": null
+  },
+  {
+   "name": "Muelle San Pedro (a Panajachel)",
+   "name_en": "San Pedro Dock (lanchas to Panajachel)",
+   "lat": 14.6950432,
+   "lon": -91.2740039,
+   "distance_km": 50.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:36Z"
+}

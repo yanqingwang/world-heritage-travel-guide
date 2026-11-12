@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1502"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2016"
 criteria: "(iv)(vi)"
 lat: 25.136797222
 lon: 85.443827777
-updated_at: "2026-11-12T11:55:36Z"
+updated_at: "2026-11-12T12:12:21Z"
 ---
 
 # 那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀 / Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar
@@ -64,7 +64,19 @@ The Nalanda Mahavihara site is in the State of Bihar, in north-eastern India. It
 - ✈ **Jay Prakash Narayan Airport (PAT)** — 61.9 km
 - ✈ **Gaya Airport (GAY)** — 66.1 km
 - ✈ **Darbhanga Airport (DBR)** — 126.6 km
+- 🚉 **Nalanda** — 2.5 km
+- 🚉 **Silao** — 5.9 km
+- 🚉 **Pawapuri Road** — 7.3 km
+- 🚉 **Karahdih** — 7.4 km
+- 🚉 **Rajgir** — 11.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3329.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Gokhool Hotel** — 46.6 km — hotel
+- **Hotel Rajgrih and Restaurant** — 46.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

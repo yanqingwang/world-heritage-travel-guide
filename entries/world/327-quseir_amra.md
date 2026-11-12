@@ -8,13 +8,13 @@ country: "JO"
 country_zh: "约旦"
 country_en: "Jordan"
 unesco_id: "327"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 31.80175
 lon: 36.587305555
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:43Z"
 ---
 
 # 库塞尔阿姆拉 / Quseir Amra
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:26Z"
 
 *Qasr Amra.jpg · see Wikimedia Commons file page*
 
-![Quseir Amra](https://whc.unesco.org/uploads/sites/site_327.jpg)
+![Qasr Amra 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Qasr_Amra_1.jpg/1280px-Qasr_Amra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Quseir Amra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Qasr Amra 1.jpg · David Bjorgen · CC BY-SA 4.0*
+
+![2005 0416DesertPalaces0122.jpg](https://upload.wikimedia.org/wikipedia/commons/7/78/2005_0416DesertPalaces0122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2005 0416DesertPalaces0122.jpg · Daad Dallal · CC BY-SA 4.0*
+
+![20100922 qasr amra02.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/20100922_qasr_amra02.JPG/1280px-20100922_qasr_amra02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100922 qasr amra02.JPG · Jean Housen · CC BY-SA 3.0*
+
+![20100922 qasr amra03.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/20100922_qasr_amra03.JPG/1280px-20100922_qasr_amra03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100922 qasr amra03.JPG · Jean Housen · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,13 @@ Built in the early 8th century, this exceptionally well-preserved desert castle 
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 59.4 km
 - ✈ **Gurayat Domestic Airport (URY)** — 78.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7069.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **RSCN Azraq Lodge** — 21.2 km — hotel
+- **إستراحة قصر الأزرق** — 21.8 km — hotel — Azraq Rest House
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

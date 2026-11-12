@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Le domaine de la Klauss",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4192419,
+   "lon": 6.3758272,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parkhotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2618594,
+   "lon": 6.8568447,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure SB City",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 49.2373289,
+   "lon": 6.9891847,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Am Triller",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2288734,
+   "lon": 6.9910191,
+   "distance_km": 10.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Victor's Residenz-Hotel Rodenhof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2464736,
+   "lon": 6.998442,
+   "distance_km": 11.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 317,
+ "stations": [
+  {
+   "name": "Völklingen",
+   "name_en": null,
+   "lat": 49.2488073,
+   "lon": 6.8492341,
+   "distance_km": 0.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Luisenthal (Saar)",
+   "name_en": null,
+   "lat": 49.2495394,
+   "lon": 6.9042635,
+   "distance_km": 4.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bous (Saar)",
+   "name_en": null,
+   "lat": 49.2760766,
+   "lon": 6.7923999,
+   "distance_km": 4.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Saarbrücken-Burbach Mitte",
+   "name_en": null,
+   "lat": 49.2436247,
+   "lon": 6.9450981,
+   "distance_km": 7.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Ensdorf (Saar)",
+   "name_en": null,
+   "lat": 49.3028763,
+   "lon": 6.7760966,
+   "distance_km": 7.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Forbach",
+   "name_en": null,
+   "lat": 49.1894859,
+   "lon": 6.9010985,
+   "distance_km": 7.9,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Saarbrücken-Burbach",
+   "name_en": null,
+   "lat": 49.2422612,
+   "lon": 6.956123,
+   "distance_km": 8.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Saarbrücken Hauptbahnhof",
+   "name_en": "Saarbrücken Central Station",
+   "lat": 49.2411972,
+   "lon": 6.990794,
+   "distance_km": 10.6,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Saarhafen Saarlouis/Dillingen",
+   "name_en": null,
+   "lat": 49.3394036,
+   "lon": 6.7246463,
+   "distance_km": 13.2,
+   "operator": null
+  },
+  {
+   "name": "Port de plaisance de Sarreguemines",
+   "name_en": null,
+   "lat": 49.1111424,
+   "lon": 7.0719072,
+   "distance_km": 22.6,
+   "operator": null
+  },
+  {
+   "name": "Port de Sarreguemines-Steinbach",
+   "name_en": null,
+   "lat": 49.1014081,
+   "lon": 7.0783908,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "Fahrgastanlegestelle Besseringen",
+   "name_en": null,
+   "lat": 49.4783063,
+   "lon": 6.5961733,
+   "distance_km": 31.1,
+   "operator": null
+  },
+  {
+   "name": "Maria Croon",
+   "name_en": null,
+   "lat": 49.493505,
+   "lon": 6.5916057,
+   "distance_km": 32.7,
+   "operator": "Frankenfeld GmbH"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:21Z"
+}

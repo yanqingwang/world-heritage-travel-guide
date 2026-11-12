@@ -2,8 +2,8 @@
  "id": "wh-763",
  "unesco_id": "763",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 407,
+ "tier": "full",
+ "popularity_rank": 423,
  "popularity_score": 15776,
  "country": "CZ",
  "country_zh": "捷克",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_763.jpg",
-   "title": "Lednice-Valtice Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/763",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/5.d%C3%ADl_html_2d1d5b71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "5.díl html 2d1d5b71.jpg",
+   "author": "I.Sáček, senior",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:5.d%C3%ADl_html_2d1d5b71.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/5.d%C3%ADl_html_63e6b8e8.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "5.díl html 63e6b8e8.png",
+   "author": "I.Sáček, senior",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:5.d%C3%ADl_html_63e6b8e8.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/6.d%C3%ADl_html_m637edeb3.jpg/1280px-6.d%C3%ADl_html_m637edeb3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "6.díl html m637edeb3.jpg",
+   "author": "I.Sáček, senior",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:6.d%C3%ADl_html_m637edeb3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Katzelsdorfsk%C3%A1_myslivna.jpg/1280px-Katzelsdorfsk%C3%A1_myslivna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Katzelsdorfská myslivna.jpg",
+   "author": "Petr Gabriel Photo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Katzelsdorfsk%C3%A1_myslivna.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/763",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 42.2,
   "distance_beijing_km": 7378.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Přístaviště Zámek",
+    "name_en": null,
+    "lat": 48.8033136,
+    "lon": 16.8082706,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Minaret",
+    "name_en": null,
+    "lat": 48.8143338,
+    "lon": 16.8154068,
+    "distance_km": 5.2,
+    "operator": null
+   },
+   {
+    "name": "Janohrad",
+    "name_en": null,
+    "lat": 48.8044204,
+    "lon": 16.8310559,
+    "distance_km": 5.2,
+    "operator": null
+   },
+   {
+    "name": "Přístav Kemp Mars Šakvice",
+    "name_en": null,
+    "lat": 48.872894,
+    "lon": 16.7253728,
+    "distance_km": 11.4,
+    "operator": "Lodní doprava Břeclav"
+   },
+   {
+    "name": "Přístav Pavlov",
+    "name_en": null,
+    "lat": 48.8782491,
+    "lon": 16.6810814,
+    "distance_km": 13.3,
+    "operator": "Lodní doprava Břeclav"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Valtice",
+    "name_en": null,
+    "lat": 48.7475532,
+    "lon": 16.7427548,
+    "distance_km": 3.9,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Sedlec u Mikulova",
+    "name_en": null,
+    "lat": 48.7747792,
+    "lon": 16.6966426,
+    "distance_km": 5.7,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Boří les",
+    "name_en": null,
+    "lat": 48.7378902,
+    "lon": 16.8671204,
+    "distance_km": 8.0,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Břeclav",
+    "name_en": null,
+    "lat": 48.7539713,
+    "lon": 16.8932662,
+    "distance_km": 9.0,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Podivín",
+    "name_en": null,
+    "lat": 48.8374706,
+    "lon": 16.8540642,
+    "distance_km": 9.0,
+    "operator": "Správa železnic"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Grand Palace Brno",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.1921304,
+   "lon": 16.6055663,
+   "distance_km": 47.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hraniční zámeček",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7807715,
+   "lon": 16.7569444,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zámecký hotel Lednice",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.8008191,
+   "lon": 16.8039571,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Spa Resort Lednice",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7956599,
+   "lon": 16.8115586,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Galant",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.8030689,
+   "lon": 16.8014646,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CZ",
   "country_zh": "捷克",
@@ -178,5 +340,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:30Z"
+ "updated_at": "2026-11-12T12:11:56Z"
 }

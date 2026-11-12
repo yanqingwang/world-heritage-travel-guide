@@ -2,9 +2,9 @@
  "id": "wh-354",
  "unesco_id": "354",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1036,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 414,
+ "popularity_score": 16618,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_354.jpg",
-   "title": "Waterton Glacier International Peace Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/354",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2006-07-30_-_02_-_Road_Trip_-_Day_07_-_Canada_-_Alberta_-_Waterton-Glacier_International_Peace_Park_4888709783.jpg/1280px-2006-07-30_-_02_-_Road_Trip_-_Day_07_-_Canada_-_Alberta_-_Waterton-Glacier_International_Peace_Park_4888709783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2006-07-30 - 02 - Road Trip - Day 07 - Canada - Alberta - Waterton-Glacier International Peace Park 4888709783.jpg",
+   "author": "CGP Grey",
+   "license": "CC BY 2.0",
+   "credit": "2006-07-30 - 02 - Road Trip - Day 07 - Canada - Alberta - Waterton-Glacier International Peace Park",
+   "source": "https://commons.wikimedia.org/wiki/File:2006-07-30_-_02_-_Road_Trip_-_Day_07_-_Canada_-_Alberta_-_Waterton-Glacier_International_Peace_Park_4888709783.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/49_parallel_waterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "49 parallel waterton.jpg",
+   "author": "Traveler100",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:49_parallel_waterton.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_Waterton_Lakes_employee_leads_an_International_Peace_Park_hike_%2853171873638%29.jpg/1280px-A_Waterton_Lakes_employee_leads_an_International_Peace_Park_hike_%2853171873638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Waterton Lakes employee leads an International Peace Park hike (53171873638).jpg",
+   "author": "GlacierNPS",
+   "license": "Public domain",
+   "credit": "A Waterton Lakes employee leads an International Peace Park hike",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Waterton_Lakes_employee_leads_an_International_Peace_Park_hike_%2853171873638%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Border_Marker_June_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Border Marker June 2011.jpg",
+   "author": "Alexander Cohen from Ottawa, ON, Canada",
+   "license": "CC BY-SA 2.0",
+   "credit": "Border Marker 1, Canada-US Border, Montana-Alberta Uploaded by Skeezix1000",
+   "source": "https://commons.wikimedia.org/wiki/File:Border_Marker_June_2011.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/354",
@@ -110,7 +134,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Northland Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0501012,
+   "lon": -113.9164244,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waterton Lakes Lodge Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0517403,
+   "lon": -113.9095478,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waterton Glacier Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0529777,
+   "lon": -113.909887,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aspen Village",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0526189,
+   "lon": -113.9087825,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bayshore Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.0522637,
+   "lon": -113.906359,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -192,5 +272,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:26Z"
+ "updated_at": "2026-11-12T12:11:44Z"
 }

@@ -2,8 +2,8 @@
  "id": "wh-1470",
  "unesco_id": "1470",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 475,
+ "tier": "full",
+ "popularity_rank": 493,
  "popularity_score": 11920,
  "country": "DE",
  "country_zh": "德国",
@@ -126,10 +126,148 @@
   ],
   "nearest_airport_km": 42.0,
   "distance_beijing_km": 7489.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Blütengrund",
+    "name_en": null,
+    "lat": 51.1760817,
+    "lon": 11.8028918,
+    "distance_km": 2.4,
+    "operator": null
+   },
+   {
+    "name": "Naumburg Blütengrund",
+    "name_en": null,
+    "lat": 51.1761981,
+    "lon": 11.8022571,
+    "distance_km": 2.4,
+    "operator": null
+   },
+   {
+    "name": "Fähre Schellsitz - Anleger Naumburg",
+    "name_en": null,
+    "lat": 51.1538347,
+    "lon": 11.8443006,
+    "distance_km": 2.8,
+    "operator": null
+   },
+   {
+    "name": "Fähre Schellsitz - Anleger Schellsitz",
+    "name_en": null,
+    "lat": 51.1541843,
+    "lon": 11.84406,
+    "distance_km": 2.8,
+    "operator": "Fährverein Schellsitz"
+   },
+   {
+    "name": "Freyburg",
+    "name_en": null,
+    "lat": 51.2080084,
+    "lon": 11.7713168,
+    "distance_km": 6.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Naumburg (Saale) Hauptbahnhof",
+    "name_en": null,
+    "lat": 51.1629266,
+    "lon": 11.7966387,
+    "distance_km": 1.0,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Naumburg (Saale) Ost",
+    "name_en": null,
+    "lat": 51.1553401,
+    "lon": 11.8237954,
+    "distance_km": 1.4,
+    "operator": "ZossenRail Betriebsgesellschaft"
+   },
+   {
+    "name": "Bad Kösen",
+    "name_en": null,
+    "lat": 51.130808,
+    "lon": 11.7182716,
+    "distance_km": 6.5,
+    "operator": "DB InfraGO"
+   },
+   {
+    "name": "Prittitz",
+    "name_en": null,
+    "lat": 51.1583828,
+    "lon": 11.9373734,
+    "distance_km": 9.3,
+    "operator": "DB InfraGO"
+   },
+   {
+    "name": "Großheringen",
+    "name_en": null,
+    "lat": 51.1061843,
+    "lon": 11.6578518,
+    "distance_km": 11.5,
+    "operator": "DB InfraGO"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Elephant",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.9787127,
+   "lon": 11.3300736,
+   "distance_km": 38.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lumière Boutiquehotel im Fürstenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.3447996,
+   "lon": 12.3727524,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zur Alten Schmiede",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.1540999,
+   "lon": 11.8073833,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weinberghotel Edelacker",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.2119427,
+   "lon": 11.7767002,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Atrium Hotel Amadeus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.0839975,
+   "lon": 11.9353913,
+   "distance_km": 12.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -201,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:36Z"
+ "updated_at": "2026-11-12T12:12:19Z"
 }

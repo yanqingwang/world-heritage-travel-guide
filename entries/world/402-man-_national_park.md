@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "402"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(ix)(x)"
 lat: -12.14
 lon: -71.66
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:45Z"
 ---
 
 # 玛努国家公园 / Manú National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Manu riverbank.jpg · see Wikimedia Commons file page*
 
-![Manú National Park](https://whc.unesco.org/uploads/sites/site_402.jpg)
+![14 - Chipitiere - Août 2008.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/14_-_Chipitiere_-_Ao%C3%BBt_2008.jpg/1280px-14_-_Chipitiere_-_Ao%C3%BBt_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Manú National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*14 - Chipitiere - Août 2008.jpg · Martin St-Amant ( S23678 ) · CC BY-SA 3.0*
+
+![Amazon Views.jpg](https://upload.wikimedia.org/wikipedia/commons/0/02/Amazon_Views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Amazon Views.jpg · Beyond The Ultimate Llc Race Director Wes Crutcher · CC BY 3.0*
+
+![Dangerous road.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Dangerous_road.jpg/1280px-Dangerous_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dangerous road.jpg · Ludovico Alcorta · CC BY-SA 4.0*
+
+![Despertar de luz.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/Despertar_de_luz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Despertar de luz.jpg · Santiagolopez i · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Este inmenso parque de 1.500.000 hectáreas posee una gran variedad de vegetaci�
 - ✈ **Andahuaylas Airport (ANS)** — 252.8 km
 - ✈ **Padre Aldamiz International Airport (PEM)** — 269.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16948.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

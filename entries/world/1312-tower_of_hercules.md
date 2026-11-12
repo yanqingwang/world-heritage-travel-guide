@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)"
 lat: 43.385833333
 lon: -8.406388888
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:14Z"
 ---
 
 # 海格力斯塔 / Tower of Hercules

@@ -8,13 +8,13 @@ country: "TJ"
 country_zh: "塔吉克斯坦"
 country_en: "Tajikistan"
 unesco_id: "1141"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(ii)(iii)"
 lat: 39.516666666
 lon: 67.566666666
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 萨拉子目古城的原型城市遗址 / Proto-urban Site of Sarazm
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:33Z"
 
 *Sarazm,area12-W.jpg · see Wikimedia Commons file page*
 
-![Proto-urban Site of Sarazm](https://whc.unesco.org/uploads/sites/site_1141.jpg)
+![046 - senasis Sarazmas.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/046_-_senasis_Sarazmas.jpg/1280px-046_-_senasis_Sarazmas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Proto-urban Site of Sarazm · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*046 - senasis Sarazmas.jpg · Aurimaz · CC BY-SA 4.0*
+
+![12-petalled flower MNAT SZM001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/12-petalled_flower_MNAT_SZM001.jpg/1280px-12-petalled_flower_MNAT_SZM001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*12-petalled flower MNAT SZM001.jpg · Marie-Lan Nguyen · Public domain*
+
+![Bouton fermoir Sarazm.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bouton_fermoir_Sarazm.jpg/1280px-Bouton_fermoir_Sarazm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bouton fermoir Sarazm.jpg · Zunkir · CC BY-SA 4.0*
+
+![Collier constitué de perles bi-triconiques pleines.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Collier_constitu%C3%A9_de_perles_bi-triconiques_pleines.jpg/1280px-Collier_constitu%C3%A9_de_perles_bi-triconiques_pleines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Collier constitué de perles bi-triconiques pleines.jpg · Zythème · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Sarazm, which means “where the land begins”, is an archaeological site beari
 - ✈ **Samarkand International Airport (SKD)** — 54.2 km
 - ✈ **Zomin Airport (OMN)** — 90.9 km
 - ✈ **Dushanbe International Airport (DYU)** — 153.2 km
+- 🚉 **Jartepa** — 15.7 km
+- 🚉 **Urgut** — 30.2 km
+- 🚉 **Paxtaboshi** — 36.2 km
+- 🚉 **No 20** — 36.4 km
+- 🚉 **No 19** — 36.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4175.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Samarkand Regency** — 46.3 km — star — 5★ · Hilton
+- **Hilton Garden Inn Samarkand Sogd** — 46.3 km — star — 4★ · Hilton Garden Inn
+- **Hilton Garden Inn Samarkand Afrosiyob** — 46.5 km — star — 4★ · Hilton Garden Inn
+- **Savitskiy Plaza** — 46.5 km — star — 4★
+- **Dacha** — 32.6 km — star — 1★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

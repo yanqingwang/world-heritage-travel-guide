@@ -2,8 +2,8 @@
  "id": "wh-486",
  "unesco_id": "486",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 406,
+ "tier": "full",
+ "popularity_rank": 422,
  "popularity_score": 15824,
  "country": "AU",
  "country_zh": "澳大利亚",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_486.jpg",
-   "title": "Wet Tropics of Queensland",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/486",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%27Red_Tulip_Oak%27_-_two_sides_of_the_foliage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "'Red Tulip Oak' - two sides of the foliage.jpg",
+   "author": "Tatiana Gerus",
+   "license": "CC BY 2.0",
+   "credit": "Flickr : 'Red Tulip Oak' - two sides of the foliage",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Red_Tulip_Oak%27_-_two_sides_of_the_foliage.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/A_palm_on_Cape_Tribulation_beach.jpg/1280px-A_palm_on_Cape_Tribulation_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A palm on Cape Tribulation beach.jpg",
+   "author": "Emily Cox",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_palm_on_Cape_Tribulation_beach.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Aglaia-ferruginea-SF23236-01.jpg/1280px-Aglaia-ferruginea-SF23236-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aglaia-ferruginea-SF23236-01.jpg",
+   "author": "Steve Fitzgerald",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aglaia-ferruginea-SF23236-01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aglaia-ferruginea-SF23236-02.jpg/1280px-Aglaia-ferruginea-SF23236-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aglaia-ferruginea-SF23236-02.jpg",
+   "author": "Steve Fitzgerald",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aglaia-ferruginea-SF23236-02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/486",
@@ -101,10 +125,116 @@
   ],
   "nearest_airport_km": 36.1,
   "distance_beijing_km": 7016.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Reef Fleet Terminal",
+    "name_en": null,
+    "lat": -16.9216604,
+    "lon": 145.7804131,
+    "distance_km": 31.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Babinda",
+    "name_en": null,
+    "lat": -17.3431683,
+    "lon": 145.9253626,
+    "distance_km": 20.8,
+    "operator": "Queensland Railways"
+   },
+   {
+    "name": "Cairns",
+    "name_en": null,
+    "lat": -16.9256672,
+    "lon": 145.7712597,
+    "distance_km": 30.7,
+    "operator": "Queensland Rail"
+   },
+   {
+    "name": "Freshwater",
+    "name_en": null,
+    "lat": -16.8810024,
+    "lon": 145.7097699,
+    "distance_km": 36.7,
+    "operator": "Queensland Rail Travel"
+   },
+   {
+    "name": "Innisfail",
+    "name_en": null,
+    "lat": -17.5261536,
+    "lon": 146.0190677,
+    "distance_km": 43.1,
+    "operator": "QueenslandRail"
+   },
+   {
+    "name": "Barron Falls",
+    "name_en": null,
+    "lat": -16.8364435,
+    "lon": 145.6429785,
+    "distance_km": 43.7,
+    "operator": "Queensland Rail"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Cairns Central Plaza Apartment Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Central Apartment Group",
+   "lat": -16.9228522,
+   "lon": 145.7718226,
+   "distance_km": 31.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Cairns",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": -16.9171857,
+   "lon": 145.7740979,
+   "distance_km": 31.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Cairns International",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9242178,
+   "lon": 145.7788783,
+   "distance_km": 30.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Reef Hotel Casino",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9237787,
+   "lon": 145.779414,
+   "distance_km": 30.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Hotel Reef Casino",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.9240664,
+   "lon": 145.7797388,
+   "distance_km": 30.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AU",
   "country_zh": "澳大利亚",
@@ -176,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:27Z"
+ "updated_at": "2026-11-12T12:11:47Z"
 }

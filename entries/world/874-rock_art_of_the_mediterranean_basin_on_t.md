@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "874"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(iii)"
 lat: 39.79
 lon: -1.033333333
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 伊比利亚半岛地中海盆地的石壁画艺术 / Rock Art of the Mediterranean Basin on the Iberian Peninsula
@@ -52,7 +52,22 @@ Situados a lo largo del litoral mediterráneo de la Península Ibérica, estos s
 - ✈ **Valencia Airport (VLC)** — 57.9 km
 - ✈ **Castellón-Costa Azahar Airport (CDT)** — 105.4 km
 - ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 172.6 km
+- 🚉 **Utiel** — 28.4 km
+- 🚉 **Requena - Utiel** — 31.1 km
+- 🚉 **Barracas** — 37.9 km
+- 🚉 **Mora de Rubielos** — 42.7 km
+- 🚉 **Caudiel** — 43.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9107.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Patilla** — 34.2 km — star — 3★
+- **La Muralleta** — 48.3 km — star — 3★
+- **Casa Emilio** — 39.2 km — star — 2★
+- **Apartamento Rural "Las Cambrillas"** — 11.0 km — hotel
+- **Hostal Fidel** — 22.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

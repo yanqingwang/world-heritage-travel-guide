@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Ferdinand",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.6107764,
+   "lon": 22.9491202,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Germisara",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.9342063,
+   "lon": 23.1660565,
+   "distance_km": 36.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Diamond",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.6892879,
+   "lon": 22.8512535,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vila Castelul Maria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.8913909,
+   "lon": 23.0147439,
+   "distance_km": 37.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Wien",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.8774241,
+   "lon": 22.9152915,
+   "distance_km": 41.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 118,
+ "stations": [
+  {
+   "name": "Merișor",
+   "name_en": null,
+   "lat": 45.4557289,
+   "lon": 23.2317824,
+   "distance_km": 19.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Dacic Horse Train",
+   "name_en": null,
+   "lat": 45.7783477,
+   "lon": 23.1859184,
+   "distance_km": 19.8,
+   "operator": "Dacian Horses"
+  },
+  {
+   "name": "Crivadia",
+   "name_en": null,
+   "lat": 45.4636024,
+   "lon": 23.197047,
+   "distance_km": 19.9,
+   "operator": "CFR"
+  },
+  {
+   "name": "Baru Mare",
+   "name_en": null,
+   "lat": 45.474956,
+   "lon": 23.1449281,
+   "distance_km": 21.0,
+   "operator": "CFR"
+  },
+  {
+   "name": "Gara Pui",
+   "name_en": null,
+   "lat": 45.5193461,
+   "lon": 23.0838972,
+   "distance_km": 21.2,
+   "operator": "CFR"
+  },
+  {
+   "name": "Petroşani",
+   "name_en": null,
+   "lat": 45.4232283,
+   "lon": 23.3661654,
+   "distance_km": 22.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Bretea Streiului",
+   "name_en": null,
+   "lat": 45.6529215,
+   "lon": 22.9963271,
+   "distance_km": 24.8,
+   "operator": "CFR"
+  },
+  {
+   "name": "Subcetate",
+   "name_en": null,
+   "lat": 45.5950051,
+   "lon": 22.992571,
+   "distance_km": 25.0,
+   "operator": "CFR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Vaporaș Stelar",
+   "name_en": null,
+   "lat": 45.9100049,
+   "lon": 22.8785697,
+   "distance_km": 46.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:41Z"
+}

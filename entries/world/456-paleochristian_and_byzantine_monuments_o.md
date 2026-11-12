@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "456"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(i)(ii)(iv)"
 lat: 40.6386
 lon: 22.9478
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:47Z"
 ---
 
 # 塞萨洛尼基古建筑 / Paleochristian and Byzantine Monuments of Thessalonika
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Ναός Αγίου Δημητρίου, Θεσσαλονίκη 3785.jpg · see Wikimedia Commons file page*
 
-![Paleochristian and Byzantine Monuments of Thessalonika](https://whc.unesco.org/uploads/sites/site_456.jpg)
+![2006 July 30, Thessaloniki 24.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2006_July_30%2C_Thessaloniki_24.jpg/1280px-2006_July_30%2C_Thessaloniki_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Paleochristian and Byzantine Monuments of Thessalonika · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2006 July 30, Thessaloniki 24.jpg · Syced · CC0*
+
+![AgiosGeorgiosEfk.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/AgiosGeorgiosEfk.jpg/1280px-AgiosGeorgiosEfk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AgiosGeorgiosEfk.jpg · Own work · Public domain*
+
+![Arch in Hagia Sophia Thessaloniki.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Arch_in_Hagia_Sophia_Thessaloniki.jpg/1280px-Arch_in_Hagia_Sophia_Thessaloniki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arch in Hagia Sophia Thessaloniki.jpg · Liekkikoira · CC0*
+
+![Byzantine and Romanesque architecture (1913) (14589563550).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Byzantine_and_Romanesque_architecture_%281913%29_%2814589563550%29.jpg/1280px-Byzantine_and_Romanesque_architecture_%281913%29_%2814589563550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Byzantine and Romanesque architecture (1913) (14589563550).jpg · Internet Archive Book Images · No restrictions*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Founded in 315 B.C., the provincial capital and sea port of Thessalonika was one
 - ✈ **Thessaloniki Macedonia International Airport (SKG)** — 13.4 km
 - ✈ **Kozani National Airport Filippos (KZI)** — 101.5 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 142.4 km
+- 🚉 **Θεσσαλονίκη** — 1.7 km
+- 🚉 **Λαχανόκηποι** — 12.0 km
+- 🚉 **Σίνδος** — 12.6 km
+- 🚉 **Αγχίαλος Μακεδονίας** — 14.2 km
+- 🚉 **Νέα Φιλαδέλφεια Τούμπας** — 19.4 km
+- ⛴ **Θεσσαλονίκη** — 1.3 km
+- ⛴ **Καραβάκια Θεσσαλονίκη** — 1.4 km
+- ⛴ **Καραβάκια Θεσσαλονίκη - Στάση Περαία** — 14.3 km
+- ⛴ **Καραβάκια Θεσσαλονίκη - Στάση Νέοι Επιβάτες** — 15.1 km
+- ⛴ **Επανομή** — 26.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7512.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Electra Palace** — 0.8 km — star — 5★
+- **Hotel Bristol** — 1.0 km — star — 5★
+- **Holiday Inn Thessaloniki** — 1.2 km — star — 5★ · Holiday Inn
+- **Μακεδονία Παλλάς** — 2.3 km — star — Makedonia Palace · 5★
+- **Lazart Hotel** — 2.6 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -4,7 +4,7 @@
 Score = 2 * Chinese Wikipedia pageviews + English Wikipedia pageviews over the
 last 12 months.  This is a transparent popularity proxy for "most popular
 overseas destinations" among Chinese travellers; it is not a visitor-count
-dataset.  The top 300 non-China sites receive the full data tier.
+dataset.  The top 500 non-China sites receive the full data tier.
 
 Output: data/raw/unesco_rank.json
 """
@@ -18,7 +18,7 @@ from datetime import date, timedelta
 from common import CACHE, RAW, get_json, load_json, now_iso, save_json
 
 CACHE_FILE = RAW / "pageviews.json"
-TOP_FULL = 400  # records that get hotels, ferries and a full gallery
+TOP_FULL = 500  # records that get hotels, ferries and a full gallery
 
 
 def trailing_year() -> tuple[str, str]:

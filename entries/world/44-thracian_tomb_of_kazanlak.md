@@ -8,13 +8,13 @@ country: "BG"
 country_zh: "保加利亚"
 country_en: "Bulgaria"
 unesco_id: "44"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(iii)(iv)"
 lat: 42.625555555
 lon: 25.399166666
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:33Z"
 ---
 
 # 卡赞利克的色雷斯古墓 / Thracian Tomb of Kazanlak
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:24Z"
 
 *Kazanłyk H17-35.jpg · see Wikimedia Commons file page*
 
-![Thracian Tomb of Kazanlak](https://whc.unesco.org/uploads/sites/site_44.jpg)
+![Buk9994.JPG](https://upload.wikimedia.org/wikipedia/commons/2/2b/Buk9994.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Thracian Tomb of Kazanlak · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Buk9994.JPG · The original uploader was Kani at Esperanto Wikipedia . · CC BY-SA 3.0*
+
+![Garland 01.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Garland_01.JPG/1280px-Garland_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Garland 01.JPG · SashaCoachman · CC BY-SA 3.0*
+
+![Garland 02.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Garland_02.JPG/1280px-Garland_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Garland 02.JPG · SashaCoachman · CC BY-SA 3.0*
+
+![Info on Kazanlak tomb copy.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Info_on_Kazanlak_tomb_copy.jpg/1280px-Info_on_Kazanlak_tomb_copy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Info on Kazanlak tomb copy.jpg · Galileo01 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Discovered in 1944, this tomb dates from the Hellenistic period, around the end 
 - ✈ **Plovdiv International Airport (PDV)** — 76.7 km
 - ✈ **Sofia Airport (SOF)** — 162.2 km
 - ✈ **Burgas Airport (BOJ)** — 173.3 km
+- 🚉 **Казанлък** — 1.4 km
+- 🚉 **Черганово** — 7.4 km
+- 🚉 **Дунавци** — 8.8 km
+- 🚉 **Тулово** — 14.0 km
+- 🚉 **Сахране** — 14.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7286.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kings' Valley Medical & Spa Hotel** — 5.4 km — star — 5★
+- **Diana mar** — 15.7 km — star — 5★
+- **Княз Павел** — 16.1 km — star — 5★
+- **Спа хотел-ресторант "Стара Загора"** — 27.9 km — star — 5★
+- **Хотел Казанлък** — 0.8 km — star — Kazanlak Hotel · 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

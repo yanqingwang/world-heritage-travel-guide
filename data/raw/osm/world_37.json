@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "فيلا ديدون",
+   "name_en": "Villa Didon Carthage",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8523767,
+   "lon": 10.3250922,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Carthage",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9057072,
+   "lon": 10.3119727,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9154203,
+   "lon": 10.3152599,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mövenpick Hotel Du Lac Tunis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8355613,
+   "lon": 10.2486822,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Carthage Thalasso Resort",
+   "name_en": "Carthage Thalasso Resort",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9251718,
+   "lon": 10.2773081,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 162,
+ "stations": [
+  {
+   "name": "قرطاج حنبعل",
+   "name_en": "Carthage Hannibal",
+   "lat": 36.8535473,
+   "lon": 10.3289965,
+   "distance_km": 0.5,
+   "operator": "شركة النقل بتونس"
+  },
+  {
+   "name": "قرطاج الرئاسة",
+   "name_en": "Carthage Présidence",
+   "lat": 36.8616645,
+   "lon": 10.3350247,
+   "distance_km": 0.6,
+   "operator": "TGM"
+  },
+  {
+   "name": "قرطاج درمش",
+   "name_en": "Carthage Dermech",
+   "lat": 36.8501973,
+   "lon": 10.325696,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "قرطاج أميلكار",
+   "name_en": "Carthage Amilcar",
+   "lat": 36.8666146,
+   "lon": 10.3375137,
+   "distance_km": 1.1,
+   "operator": "TGM"
+  },
+  {
+   "name": "قرطاج بيرصة",
+   "name_en": "Carthage Byrsa",
+   "lat": 36.8462307,
+   "lon": 10.32184,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "سيدي بوسعيد",
+   "name_en": "Sidi Bou Saïd",
+   "lat": 36.8706146,
+   "lon": 10.342087,
+   "distance_km": 1.7,
+   "operator": "TGM"
+  },
+  {
+   "name": "سيدي الظريف",
+   "name_en": "Sidi Dhrif",
+   "lat": 36.8757592,
+   "lon": 10.3397454,
+   "distance_km": 2.1,
+   "operator": "TGM"
+  },
+  {
+   "name": "قرطاج صلامبو",
+   "name_en": "Carthage Salammbô",
+   "lat": 36.8416949,
+   "lon": 10.31914,
+   "distance_km": 2.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port de Carthage",
+   "name_en": null,
+   "lat": 36.8456504,
+   "lon": 10.3248036,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "Port Marchand de Carthage",
+   "name_en": null,
+   "lat": 36.8414507,
+   "lon": 10.3248504,
+   "distance_km": 1.9,
+   "operator": null
+  },
+  {
+   "name": "تونس",
+   "name_en": "Tunis",
+   "lat": 36.8099967,
+   "lon": 10.3005044,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "Ferry terminal passengers",
+   "name_en": null,
+   "lat": 36.8084103,
+   "lon": 10.3048379,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "ميناء رادس",
+   "name_en": null,
+   "lat": 36.8031119,
+   "lon": 10.265804,
+   "distance_km": 8.4,
+   "operator": "ديوان البحرية التجارية والموانئ"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:04:24Z"
+}

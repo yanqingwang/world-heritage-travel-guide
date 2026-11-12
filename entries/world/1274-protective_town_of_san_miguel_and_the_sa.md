@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iv)"
 lat: 20.91444444
 lon: -100.7463889
-updated_at: "2026-11-12T11:55:34Z"
+updated_at: "2026-11-12T12:12:13Z"
 ---
 
 # 圣米格尔保护镇和耶稣纳萨雷诺阿托托尼尔科圣殿 / Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco

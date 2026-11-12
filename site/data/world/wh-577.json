@@ -2,9 +2,9 @@
  "id": "wh-577",
  "unesco_id": "577",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1071,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 35,
+ "popularity_score": 370164,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -116,7 +116,16 @@
   ],
   "nearest_airport_km": 3806.4,
   "distance_beijing_km": 11154.2,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Atlas Cove",
+    "name_en": null,
+    "lat": -53.0206468,
+    "lon": 73.3919227,
+    "distance_km": 10.0,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
  "hotels": [],
@@ -191,5 +200,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:28Z"
+ "updated_at": "2026-11-12T12:11:50Z"
 }

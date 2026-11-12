@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Steigenberger Airport Hotel Frankfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.0584385,
+   "lon": 8.5894962,
+   "distance_km": 19.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kennedy 89 - The Unbound Collection by Hyatt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 50.0965651,
+   "lon": 8.6701506,
+   "distance_km": 20.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien Parkhotel Frankfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Le Méridien",
+   "lat": 50.1058177,
+   "lon": 8.6662921,
+   "distance_km": 21.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kimpton Main Frankfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Kimpton",
+   "lat": 50.1126901,
+   "lon": 8.6744618,
+   "distance_km": 22.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Grand Frankfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 50.1158048,
+   "lon": 8.6872999,
+   "distance_km": 22.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1150,
+ "stations": [
+  {
+   "name": "Messel",
+   "name_en": null,
+   "lat": 49.9217115,
+   "lon": 8.7459623,
+   "distance_km": 0.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Darmstadt-Kranichstein",
+   "name_en": null,
+   "lat": 49.9071438,
+   "lon": 8.6798879,
+   "distance_km": 5.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Dieburg",
+   "name_en": null,
+   "lat": 49.9035686,
+   "lon": 8.8410366,
+   "distance_km": 6.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Rödermark-Urberach",
+   "name_en": null,
+   "lat": 49.9749314,
+   "lon": 8.7985468,
+   "distance_km": 7.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Dreieich-Offenthal",
+   "name_en": null,
+   "lat": 49.9818144,
+   "lon": 8.7497004,
+   "distance_km": 7.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Darmstadt Ost",
+   "name_en": null,
+   "lat": 49.8744389,
+   "lon": 8.6741181,
+   "distance_km": 7.6,
+   "operator": null
+  },
+  {
+   "name": "Darmstadt Nord",
+   "name_en": null,
+   "lat": 49.8921078,
+   "lon": 8.6540718,
+   "distance_km": 7.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Darmstadt-Arheilgen",
+   "name_en": null,
+   "lat": 49.9133043,
+   "lon": 8.6455227,
+   "distance_km": 8.0,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Fähre Seligenstadt",
+   "name_en": null,
+   "lat": 50.0438719,
+   "lon": 8.9788303,
+   "distance_km": 21.2,
+   "operator": null
+  },
+  {
+   "name": "Flußhafen Gutleut",
+   "name_en": null,
+   "lat": 50.0913438,
+   "lon": 8.6352893,
+   "distance_km": 21.2,
+   "operator": "HFM Managementgesellschaft für Hafen und Markt mbH"
+  },
+  {
+   "name": "Fähre Großwelzheim",
+   "name_en": null,
+   "lat": 50.0445814,
+   "lon": 8.9801147,
+   "distance_km": 21.3,
+   "operator": null
+  },
+  {
+   "name": "Bootshaus",
+   "name_en": null,
+   "lat": 50.102209,
+   "lon": 8.6702393,
+   "distance_km": 21.4,
+   "operator": null
+  },
+  {
+   "name": "Frankfurt - Eiserner Steg",
+   "name_en": null,
+   "lat": 50.1082058,
+   "lon": 8.6824422,
+   "distance_km": 21.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:29Z"
+}

@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Ninh Binh Legend Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.2744939,
+   "lon": 105.9587265,
+   "distance_km": 42.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hoalu Ecolodge Homestay",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2657178,
+   "lon": 105.9212314,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quang Dũng Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2187906,
+   "lon": 105.9615486,
+   "distance_km": 40.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Khách sạn Phú Cường",
+   "name_en": "Phu Cuong Hotel",
+   "stars": 2,
+   "brand": null,
+   "lat": 19.9196697,
+   "lon": 105.3938316,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thế Vĩnh Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 20.2471149,
+   "lon": 105.9712353,
+   "distance_km": 42.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 172,
+ "stations": [
+  {
+   "name": "Bỉm Sơn",
+   "name_en": "Bim Son",
+   "lat": 20.0811623,
+   "lon": 105.855141,
+   "distance_km": 26.2,
+   "operator": null
+  },
+  {
+   "name": "Đò Lèn",
+   "name_en": "Do Len",
+   "lat": 19.9874668,
+   "lon": 105.8448466,
+   "distance_km": 27.0,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Nghĩa Trang",
+   "name_en": null,
+   "lat": 19.9162076,
+   "lon": 105.8135564,
+   "distance_km": 28.3,
+   "operator": null
+  },
+  {
+   "name": "Đồng Giao",
+   "name_en": null,
+   "lat": 20.1380163,
+   "lon": 105.8711123,
+   "distance_km": 28.6,
+   "operator": null
+  },
+  {
+   "name": "Thanh Hóa",
+   "name_en": "Thanh Hoa",
+   "lat": 19.8128131,
+   "lon": 105.7677621,
+   "distance_km": 34.1,
+   "operator": null
+  },
+  {
+   "name": "Ghềnh",
+   "name_en": null,
+   "lat": 20.1697572,
+   "lon": 105.9416304,
+   "distance_km": 36.6,
+   "operator": null
+  },
+  {
+   "name": "Cầu Yên",
+   "name_en": null,
+   "lat": 20.2030548,
+   "lon": 105.9656783,
+   "distance_km": 40.2,
+   "operator": null
+  },
+  {
+   "name": "Yên Thái",
+   "name_en": null,
+   "lat": 19.7184847,
+   "lon": 105.707701,
+   "distance_km": 41.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Route 1 Temple Stop",
+   "name_en": null,
+   "lat": 20.2573479,
+   "lon": 105.8985181,
+   "distance_km": 36.6,
+   "operator": null
+  },
+  {
+   "name": "Trang An Boat Tours Finish",
+   "name_en": "Trang An Boat Tours Finish",
+   "lat": 20.252547,
+   "lon": 105.9174185,
+   "distance_km": 38.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:06:19Z"
+}

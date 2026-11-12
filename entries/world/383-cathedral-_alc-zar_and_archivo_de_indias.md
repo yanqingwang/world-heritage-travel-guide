@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 37.38384
 lon: -5.99155
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:45Z"
 ---
 
 # 塞维利亚大教堂、城堡和西印度群岛档案馆 / Cathedral, Alcázar and Archivo de Indias in Seville

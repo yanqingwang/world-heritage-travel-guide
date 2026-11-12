@@ -2,8 +2,8 @@
  "id": "wh-950",
  "unesco_id": "950",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 424,
+ "tier": "full",
+ "popularity_rank": 440,
  "popularity_score": 14287,
  "country": "MG",
  "country_zh": "马达加斯加",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_950.jpg",
-   "title": "Royal Hill of Ambohimanga",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/950",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_au_Rova_d%27Ambohidratrimo%2C_Analamanga%2C_Madagascar.jpg/1280px-%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_au_Rova_d%27Ambohidratrimo%2C_Analamanga%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Fandroana\" lieu rituel du bain royal, tradition annuelle malgache au Rova d'Ambohidratrimo, Analamanga, Madagascar.jpg",
+   "author": "Anai171",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_au_Rova_d%27Ambohidratrimo%2C_Analamanga%2C_Madagascar.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_Rova_d%27Ambohidratrimo%2C_Analamanga.jpg/1280px-%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_Rova_d%27Ambohidratrimo%2C_Analamanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Fandroana\" lieu rituel du bain royal, tradition annuelle malgache Rova d'Ambohidratrimo, Analamanga.jpg",
+   "author": "Anai171",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Fandroana%22_lieu_rituel_du_bain_royal%2C_tradition_annuelle_malgache_Rova_d%27Ambohidratrimo%2C_Analamanga.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ambatomiatendro_Ambohimanga.jpg/1280px-Ambatomiatendro_Ambohimanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ambatomiatendro Ambohimanga.jpg",
+   "author": "Gaël RALANTONIRINA",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambatomiatendro_Ambohimanga.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ambohimanga_%283189638857%29.jpg/1280px-Ambohimanga_%283189638857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ambohimanga (3189638857).jpg",
+   "author": "mwanasimba from La Réunion",
+   "license": "CC BY-SA 2.0",
+   "credit": "Ambohimanga",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambohimanga_%283189638857%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/950",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 9.8,
   "distance_beijing_km": 9683.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "bar manga",
+    "name_en": null,
+    "lat": -18.9129024,
+    "lon": 47.5142819,
+    "distance_km": 17.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Soarano",
+    "name_en": null,
+    "lat": -18.9031635,
+    "lon": 47.5210347,
+    "distance_km": 16.6,
+    "operator": "Madarail"
+   },
+   {
+    "name": "Amoronakona",
+    "name_en": null,
+    "lat": -18.9299868,
+    "lon": 47.5832831,
+    "distance_km": 19.1,
+    "operator": null
+   },
+   {
+    "name": "Mandroseza",
+    "name_en": null,
+    "lat": -18.937645,
+    "lon": 47.5537405,
+    "distance_km": 19.9,
+    "operator": null
+   },
+   {
+    "name": "Soanierana",
+    "name_en": null,
+    "lat": -18.9403485,
+    "lon": 47.5220256,
+    "distance_km": 20.6,
+    "operator": null
+   },
+   {
+    "name": "Ambohimanambola",
+    "name_en": null,
+    "lat": -18.9431249,
+    "lon": 47.5995604,
+    "distance_km": 20.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sheraton Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.8142801,
+   "lon": 47.477,
+   "distance_km": 10.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Convention and Spa Antananarivo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.8728008,
+   "lon": 47.5225103,
+   "distance_km": 13.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -18.9146483,
+   "lon": 47.5177982,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Tamboho",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -18.8917155,
+   "lon": 47.5266784,
+   "distance_km": 15.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Colbert",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -18.9111389,
+   "lon": 47.5254925,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MG",
   "country_zh": "马达加斯加",
@@ -178,5 +308,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:04Z"
 }

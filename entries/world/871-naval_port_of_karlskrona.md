@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 56.166666666
 lon: 15.583333333
-updated_at: "2026-11-12T11:55:31Z"
+updated_at: "2026-11-12T12:12:01Z"
 ---
 
 # 卡尔斯克鲁纳军港 / Naval Port of Karlskrona

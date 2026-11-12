@@ -2,8 +2,8 @@
  "id": "wh-976",
  "unesco_id": "976",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 453,
+ "tier": "full",
+ "popularity_rank": 470,
  "popularity_score": 12658,
  "country": "KR",
  "country_zh": "大韩民国",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%8F%D1%81%20%D0%BF%D0%B0%D1%80%D0%BA%D0%B0%20%D0%A2%D1%83%D0%BC%D1%83%D0%BB%D0%B8.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gyeongju_Historic_Areas_01.JPG/1280px-Gyeongju_Historic_Areas_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gyeongju Historic Areas 01.JPG",
+   "author": "Abasaa",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gyeongju_Historic_Areas_01.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sungsinjeon.JPG/1280px-Sungsinjeon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sungsinjeon.JPG",
+   "author": "Abasaa",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sungsinjeon.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/%EA%B2%BD%EC%A3%BC_%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84_%ED%8C%8C%ED%81%AC.JPG/1280px-%EA%B2%BD%EC%A3%BC_%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84_%ED%8C%8C%ED%81%AC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "경주 밀레니엄 파크.JPG",
+   "author": "Noenemy",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84_%ED%8C%8C%ED%81%AC.JPG"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_976.jpg",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 24.5,
   "distance_beijing_km": 1225.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "꼴지나루터",
+    "name_en": "Ggolji Ferry",
+    "lat": 35.542493,
+    "lon": 129.343262,
+    "distance_km": 29.4,
+    "operator": null
+   },
+   {
+    "name": "포항크루즈",
+    "name_en": null,
+    "lat": 36.0237683,
+    "lon": 129.3775819,
+    "distance_km": 29.4,
+    "operator": null
+   },
+   {
+    "name": "포항여객선터미널",
+    "name_en": "Pohang Passengership terminal",
+    "lat": 36.0515104,
+    "lon": 129.3787972,
+    "distance_km": 32.3,
+    "operator": null
+   },
+   {
+    "name": "구룡포항",
+    "name_en": null,
+    "lat": 35.9871878,
+    "lon": 129.5555541,
+    "distance_km": 36.9,
+    "operator": null
+   },
+   {
+    "name": "방어진항(Bangeojin Bay)",
+    "name_en": null,
+    "lat": 35.4840648,
+    "lon": 129.4297424,
+    "distance_km": 38.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "경주",
+    "name_en": "Gyeongju",
+    "lat": 35.7982689,
+    "lon": 129.1389632,
+    "distance_km": 8.0,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "서경주",
+    "name_en": "Seogyeongju",
+    "lat": 35.8846915,
+    "lon": 129.1808636,
+    "distance_km": 11.4,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "아화",
+    "name_en": "Ahwa",
+    "lat": 35.8986342,
+    "lon": 129.0513788,
+    "distance_km": 20.0,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "안강",
+    "name_en": "Angang",
+    "lat": 35.9705072,
+    "lon": 129.2334205,
+    "distance_km": 20.2,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "북울산",
+    "name_en": "Bugulsan",
+    "lat": 35.6148687,
+    "lon": 129.3724491,
+    "distance_km": 23.4,
+    "operator": "한국철도공사"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "힐튼경주",
+   "name_en": "Hilton Gyeongju",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 35.8400329,
+   "lon": 129.2860543,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "코모도호텔경주",
+   "name_en": "Commodore Hotel Gyeonju",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.8443527,
+   "lon": 129.2851266,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "라한셀렉트 경주 (구. 현대호텔)",
+   "name_en": "LAHAN SELECT GYEONGJU (Old. Hyundai Hotel)",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.8504163,
+   "lon": 129.2768989,
+   "distance_km": 8.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "더케이호텔경주",
+   "name_en": "THE-K HOTEL GYEONGJU",
+   "stars": 4,
+   "brand": null,
+   "lat": 35.8379465,
+   "lon": 129.2910955,
+   "distance_km": 8.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "스위트호텔경주",
+   "name_en": "Suites Hotel Gyeongju",
+   "stars": 3,
+   "brand": null,
+   "lat": 35.8538016,
+   "lon": 129.2774384,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KR",
   "country_zh": "大韩民国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:32Z"
+ "updated_at": "2026-11-12T12:12:05Z"
 }

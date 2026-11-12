@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "560"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(iii)(iv)"
 lat: 30.37583
 lon: -107.95556
-updated_at: "2026-11-12T11:55:28Z"
+updated_at: "2026-11-12T12:11:49Z"
 ---
 
 # 大卡萨斯的帕魁姆考古区 / Archaeological Zone of Paquimé, Casas Grandes
@@ -65,6 +65,16 @@ Paquimé (Casas Grandes) desempeñó un papel clave en las relaciones comerciale
 - ✈ **El Paso International Airport (ELP)** — 219.2 km
 - ✈ **Las Cruces International Airport (LRU)** — 234.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10893.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Estancia universal** — 0.7 km — hotel
+- **Casa del Nopal** — 0.8 km — hotel
+- **Pueblo del Soul** — 0.8 km — hotel
+- **Hotel Casa de los Vientos** — 0.8 km — hotel
+- **Hotel Paquime** — 6.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

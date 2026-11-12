@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 25.720555555
 lon: 32.610277777
-updated_at: "2026-11-12T11:55:24Z"
+updated_at: "2026-11-12T12:11:34Z"
 ---
 
 # 底比斯古城及其墓地 / Ancient Thebes with its Necropolis

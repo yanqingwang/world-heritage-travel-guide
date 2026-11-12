@@ -8,13 +8,13 @@ country: "LA"
 country_zh: "老挝"
 country_en: "Laos"
 unesco_id: "951"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2003"
 criteria: "(viii)(ix)(x)"
 lat: 17.533333333
 lon: 106.15
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 峰牙-己榜国家公园 / Phong Nha-Ke Bang National Park and Hin Nam No National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:32Z"
 
 *Phongnhatourism.jpg · see Wikimedia Commons file page*
 
-![Phong Nha-Ke Bang National Park and Hin Nam No National Park](https://whc.unesco.org/uploads/sites/site_951.jpg)
+![Ban do Phong Nha-Ke Bang.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ban_do_Phong_Nha-Ke_Bang.jpg/1280px-Ban_do_Phong_Nha-Ke_Bang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Phong Nha-Ke Bang National Park and Hin Nam No National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ban do Phong Nha-Ke Bang.jpg · Viethavvh at Vietnamese Wikipedia · Public domain*
+
+![Bar y piscina del Hotel Heritage By Night, Phong Nha, Vietnam (40523001205).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bar_y_piscina_del_Hotel_Heritage_By_Night%2C_Phong_Nha%2C_Vietnam_%2840523001205%29.jpg/1280px-Bar_y_piscina_del_Hotel_Heritage_By_Night%2C_Phong_Nha%2C_Vietnam_%2840523001205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bar y piscina del Hotel Heritage By Night, Phong Nha, Vietnam (40523001205).jpg · Edgardo W. Olivera from Montevideo, Uruguay · CC BY 2.0*
+
+![Barquero en el Río Son, Phong Nha, Vietnam (43409828472).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Barquero_en_el_R%C3%ADo_Son%2C_Phong_Nha%2C_Vietnam_%2843409828472%29.jpg/1280px-Barquero_en_el_R%C3%ADo_Son%2C_Phong_Nha%2C_Vietnam_%2843409828472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Barquero en el Río Son, Phong Nha, Vietnam (43409828472).jpg · Edgardo W. Olivera from Montevideo, Uruguay · CC BY 2.0*
+
+![Bateau Phong Nha.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bateau_Phong_Nha.jpg/1280px-Bateau_Phong_Nha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bateau Phong Nha.jpg · Preparetavalise.com · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ This transboundary property, located along the border between Viet Nam and the L
 - ✈ **Dong Hoi Airport (VDH)** — 46.8 km
 - ✈ **Vinh Airport (VII)** — 143.2 km
 - ✈ **Nakhon Phanom Airport (KOP)** — 160.7 km
+- 🚉 **Lệ Sơn** — 29.6 km
+- 🚉 **Ngân Sơn** — 30.0 km
+- 🚉 **Minh Lệ** — 30.7 km
+- 🚉 **Lạc Sơn** — 31.2 km
+- 🚉 **Ngọc Lâm** — 33.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2687.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hoang Dat Hotel** — 47.1 km — star — 1★
+- **Chày Lập Farmstay** — 13.5 km — hotel — Chay Lap Farmstay
+- **Charm’s Homestay** — 15.9 km — hotel
+- **Rustic Home** — 16.0 km — hotel — Phong Nha Rustic Home
+- **Phong Nha Mountainhouse** — 16.1 km — hotel — Phong Nha Mountainhouse
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

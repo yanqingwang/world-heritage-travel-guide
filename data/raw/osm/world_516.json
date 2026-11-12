@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Respect Etranch",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4354889,
+   "lon": -3.3072713,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Femme Dogon",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4620076,
+   "lon": -3.3039745,
+   "distance_km": 5.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Deux Caimans",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4634162,
+   "lon": -3.3045173,
+   "distance_km": 5.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Camp Sangha",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4654133,
+   "lon": -3.3068838,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Cempement Kastor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4690922,
+   "lon": -3.3018903,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 17,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:05:04Z"
+}

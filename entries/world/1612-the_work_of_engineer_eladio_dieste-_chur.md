@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iv)"
 lat: -34.744
 lon: -55.766
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:25Z"
 ---
 
 # 工程师埃拉蒂奥·迪埃斯特的作品：阿特兰蒂达教堂 / The work of engineer Eladio Dieste: Church of Atlántida

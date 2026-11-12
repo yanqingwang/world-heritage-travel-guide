@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ix)"
 lat: 37.4215
 lon: 55.7243
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:24Z"
 ---
 
 # 希尔卡尼亚森林 / Hyrcanian Forests

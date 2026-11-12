@@ -2,8 +2,8 @@
  "id": "wh-516",
  "unesco_id": "516",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 412,
+ "tier": "full",
+ "popularity_rank": 428,
  "popularity_score": 15007,
  "country": "ML",
  "country_zh": "马里",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_516.jpg",
-   "title": "Cliff of Bandiagara (Land of the Dogons)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/516",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ASC_Leiden_-_F._van_der_Kraaij_Collection_-_04_-_027_-_Une_vue_de_la_falaise_de_Bandiagara_-_R%C3%A9gion_de_Mopti_pr%C3%A8s_de_Sangha%2C_Mali_-_1972.tiff/lossy-page1-1280px-ASC_Leiden_-_F._van_der_Kraaij_Collection_-_04_-_027_-_Une_vue_de_la_falaise_de_Bandiagara_-_R%C3%A9gion_de_Mopti_pr%C3%A8s_de_Sangha%2C_Mali_-_1972.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ASC Leiden - F. van der Kraaij Collection - 04 - 027 - Une vue de la falaise de Bandiagara - Région de Mopti près de Sangha, Mali - 1972.tiff",
+   "author": "Fred van der Kraaij",
+   "license": "CC BY-SA 4.0",
+   "credit": "Fred van der Kraaij collection",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_F._van_der_Kraaij_Collection_-_04_-_027_-_Une_vue_de_la_falaise_de_Bandiagara_-_R%C3%A9gion_de_Mopti_pr%C3%A8s_de_Sangha%2C_Mali_-_1972.tiff"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_01_-_A_schoolboy_between_the_sitting_stones_of_the_Tireli_market%2C_Mali_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "ASC Leiden - W.E.A. van Beek Collection - Dogon markets 01 - A schoolboy between the sitting stones of the Tireli market, Mali 1984.jpg",
+   "author": "Wouter van Beek",
+   "license": "CC BY-SA 4.0",
+   "credit": "Dogon collection W.E.A. van Beek",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_01_-_A_schoolboy_between_the_sitting_stones_of_the_Tireli_market%2C_Mali_1984.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_02_-_Meat_snacks_at_Tireli_market%2C_Mali_1990.jpg/1280px-ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_02_-_Meat_snacks_at_Tireli_market%2C_Mali_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ASC Leiden - W.E.A. van Beek Collection - Dogon markets 02 - Meat snacks at Tireli market, Mali 1990.jpg",
+   "author": "Wouter van Beek",
+   "license": "CC BY-SA 4.0",
+   "credit": "Dogon collection W.E.A. van Beek",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_02_-_Meat_snacks_at_Tireli_market%2C_Mali_1990.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_22_-_The_women_from_each_ward_have_their_own_spot_for_selling_beer%2C_Tireli%2C_Mali_1980.jpg/1280px-ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_22_-_The_women_from_each_ward_have_their_own_spot_for_selling_beer%2C_Tireli%2C_Mali_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ASC Leiden - W.E.A. van Beek Collection - Dogon markets 22 - The women from each ward have their own spot for selling beer, Tireli, Mali 1980.jpg",
+   "author": "Wouter van Beek",
+   "license": "CC BY-SA 4.0",
+   "credit": "Dogon collection W.E.A. van Beek",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_22_-_The_women_from_each_ward_have_their_own_spot_for_selling_beer%2C_Tireli%2C_Mali_1980.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/516",
@@ -104,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Respect Etranch",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4354889,
+   "lon": -3.3072713,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Femme Dogon",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4620076,
+   "lon": -3.3039745,
+   "distance_km": 5.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Deux Caimans",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4634162,
+   "lon": -3.3045173,
+   "distance_km": 5.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Camp Sangha",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4654133,
+   "lon": -3.3068838,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Cempement Kastor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.4690922,
+   "lon": -3.3018903,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ML",
   "country_zh": "马里",
@@ -176,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:27Z"
+ "updated_at": "2026-11-12T12:11:48Z"
 }

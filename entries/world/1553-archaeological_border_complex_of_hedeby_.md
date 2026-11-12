@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)"
 lat: 54.461944
 lon: 9.454111
-updated_at: "2026-11-12T11:55:37Z"
+updated_at: "2026-11-12T12:12:23Z"
 ---
 
 # 赫德比边境古景观及土墙 / Archaeological Border complex of Hedeby and the Danevirke

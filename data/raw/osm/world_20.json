@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "فندق بيت المملوكة",
+   "name_en": "Beit al-Mamlouka Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5126495,
+   "lon": 36.3136866,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Semiramis Hotel",
+   "name_en": "Royal Semiramis Hotel",
+   "stars": 5,
+   "brand": "Flamingo Hospitality",
+   "lat": 33.5131973,
+   "lon": 36.2949713,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الفور سيزون",
+   "name_en": "Four Seasons Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5140324,
+   "lon": 36.2911924,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق داما روز",
+   "name_en": "Dama Rose Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.5139921,
+   "lon": 36.2847398,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 33.5131629,
+   "lon": 36.2737475,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 128,
+ "stations": [
+  {
+   "name": "محطة القدم",
+   "name_en": "Qadam Station",
+   "lat": 33.4760789,
+   "lon": 36.2907213,
+   "distance_km": 4.2,
+   "operator": "Syrian Railways"
+  },
+  {
+   "name": "محطة قطار الربوة",
+   "name_en": null,
+   "lat": 33.51712,
+   "lon": 36.2601151,
+   "distance_km": 4.3,
+   "operator": null
+  },
+  {
+   "name": "محطة الهامة",
+   "name_en": "El Hamah Station",
+   "lat": 33.5522108,
+   "lon": 36.2199284,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "داريا",
+   "name_en": null,
+   "lat": 33.4541205,
+   "lon": 36.2292289,
+   "distance_km": 9.6,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار جديدة الشيباني",
+   "name_en": null,
+   "lat": 33.5695049,
+   "lon": 36.194952,
+   "distance_km": 12.2,
+   "operator": null
+  },
+  {
+   "name": "محطة مدينة المعارض",
+   "name_en": "Damascus International Fairground station",
+   "lat": 33.4188014,
+   "lon": 36.3967852,
+   "distance_km": 13.3,
+   "operator": null
+  },
+  {
+   "name": "محطة الكسوة",
+   "name_en": null,
+   "lat": 33.356149,
+   "lon": 36.2567268,
+   "distance_km": 17.8,
+   "operator": null
+  },
+  {
+   "name": "قطنا",
+   "name_en": null,
+   "lat": 33.4404984,
+   "lon": 36.070367,
+   "distance_km": 23.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:21Z"
+}

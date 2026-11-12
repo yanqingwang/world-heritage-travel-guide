@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Divinus",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.5491412,
+   "lon": 21.6299718,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hunguest Hotel Aqua-Sol",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hunguest Hotels",
+   "lat": 47.4511735,
+   "lon": 21.4009922,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hunguest Hotel Apollo",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hunguest Hotels",
+   "lat": 47.4537346,
+   "lon": 21.4046814,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nelson Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.4437537,
+   "lon": 21.3906992,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Silver",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.4540217,
+   "lon": 21.4060986,
+   "distance_km": 24.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 94,
+ "stations": [
+  {
+   "name": "Hortobágy",
+   "name_en": null,
+   "lat": 47.58607,
+   "lon": 21.1545048,
+   "distance_km": 1.0,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Hortobágy-Halastó",
+   "name_en": null,
+   "lat": 47.6053361,
+   "lon": 21.0696234,
+   "distance_km": 6.6,
+   "operator": "Hortobágyi NP"
+  },
+  {
+   "name": "Lukas Hoffmann",
+   "name_en": null,
+   "lat": 47.6133499,
+   "lon": 21.0731196,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Balmazújváros",
+   "name_en": null,
+   "lat": 47.6138623,
+   "lon": 21.3479517,
+   "distance_km": 14.5,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Ohat-Pusztakócs",
+   "name_en": null,
+   "lat": 47.6233784,
+   "lon": 20.9510519,
+   "distance_km": 15.8,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Egyek",
+   "name_en": null,
+   "lat": 47.6166317,
+   "lon": 20.8839237,
+   "distance_km": 20.6,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Nagymacs",
+   "name_en": null,
+   "lat": 47.5686129,
+   "lon": 21.4806892,
+   "distance_km": 24.5,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Kaba",
+   "name_en": null,
+   "lat": 47.3689609,
+   "lon": 21.2595445,
+   "distance_km": 26.2,
+   "operator": "MÁV"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Girincs",
+   "name_en": null,
+   "lat": 47.9641112,
+   "lon": 20.9858961,
+   "distance_km": 43.0,
+   "operator": null
+  },
+  {
+   "name": "Sajószöged",
+   "name_en": null,
+   "lat": 47.9637574,
+   "lon": 20.9861256,
+   "distance_km": 43.0,
+   "operator": null
+  },
+  {
+   "name": "Dinnyéshát-Tiszaderzs kerékpáros komp",
+   "name_en": null,
+   "lat": 47.5147408,
+   "lon": 20.5764138,
+   "distance_km": 44.4,
+   "operator": null
+  },
+  {
+   "name": "Muhi",
+   "name_en": null,
+   "lat": 47.9855349,
+   "lon": 20.9449722,
+   "distance_km": 46.3,
+   "operator": null
+  },
+  {
+   "name": "Köröm",
+   "name_en": null,
+   "lat": 47.9858921,
+   "lon": 20.9453278,
+   "distance_km": 46.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:02Z"
+}

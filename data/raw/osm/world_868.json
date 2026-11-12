@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel des Quinconces",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.8475495,
+   "lon": -0.574977,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "YNDO",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.844267,
+   "lon": -0.583407,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Burdigala",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Inwood Hotels",
+   "lat": 44.839889,
+   "lon": -0.586726,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "InterContinental Bordeaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 44.8424337,
+   "lon": -0.5748304,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Château de Mirambeau",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.3750881,
+   "lon": -0.5662093,
+   "distance_km": 24.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 235,
+ "stations": [
+  {
+   "name": "Pauillac",
+   "name_en": null,
+   "lat": 45.203816,
+   "lon": -0.7551762,
+   "distance_km": 3.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Margaux",
+   "name_en": null,
+   "lat": 45.0358496,
+   "lon": -0.6854735,
+   "distance_km": 16.7,
+   "operator": null
+  },
+  {
+   "name": "Macau",
+   "name_en": null,
+   "lat": 45.0041853,
+   "lon": -0.6200812,
+   "distance_km": 21.6,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Lesparre",
+   "name_en": null,
+   "lat": 45.3036181,
+   "lon": -0.9453635,
+   "distance_km": 21.9,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Saint-Mariens - Saint-Yzan",
+   "name_en": null,
+   "lat": 45.1391609,
+   "lon": -0.3914684,
+   "distance_km": 26.5,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Montendre",
+   "name_en": null,
+   "lat": 45.2805727,
+   "lon": -0.3960114,
+   "distance_km": 27.8,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Aubie - Saint-Antoine",
+   "name_en": null,
+   "lat": 45.0152913,
+   "lon": -0.4197605,
+   "distance_km": 30.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Blanquefort",
+   "name_en": null,
+   "lat": 44.9175914,
+   "lon": -0.6237518,
+   "distance_km": 30.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ponton de l'île Nouvelle",
+   "name_en": null,
+   "lat": 45.1413842,
+   "lon": -0.6784051,
+   "distance_km": 5.9,
+   "operator": null
+  },
+  {
+   "name": "Halte nautique de Blaye",
+   "name_en": null,
+   "lat": 45.1255594,
+   "lon": -0.6673174,
+   "distance_km": 7.8,
+   "operator": null
+  },
+  {
+   "name": "Bac de Blaye-Lamarque",
+   "name_en": null,
+   "lat": 45.1230323,
+   "lon": -0.6655415,
+   "distance_km": 8.1,
+   "operator": "Département de la Gironde"
+  },
+  {
+   "name": "Port de Lamarque",
+   "name_en": null,
+   "lat": 45.0990882,
+   "lon": -0.6935648,
+   "distance_km": 9.7,
+   "operator": "Département de la Gironde"
+  },
+  {
+   "name": "Embarcadère de Vitrezay",
+   "name_en": null,
+   "lat": 45.3279032,
+   "lon": -0.7163589,
+   "distance_km": 16.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:05:35Z"
+}

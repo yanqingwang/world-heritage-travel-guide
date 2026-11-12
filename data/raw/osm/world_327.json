@@ -1,0 +1,30 @@
+{
+ "hotels": [
+  {
+   "name": "RSCN Azraq Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.8359285,
+   "lon": 36.8075883,
+   "distance_km": 21.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "إستراحة قصر الأزرق",
+   "name_en": "Azraq Rest House",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8613621,
+   "lon": 36.8071782,
+   "distance_km": 21.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 2,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:04:51Z"
+}

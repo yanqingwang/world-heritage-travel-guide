@@ -2,8 +2,8 @@
  "id": "wh-884",
  "unesco_id": "884",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 460,
+ "tier": "full",
+ "popularity_rank": 478,
  "popularity_score": 12443,
  "country": "CH",
  "country_zh": "瑞士",
@@ -102,10 +102,148 @@
   ],
   "nearest_airport_km": 22.7,
   "distance_beijing_km": 8054.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Magadino (lago)",
+    "name_en": null,
+    "lat": 46.1477962,
+    "lon": 8.8544779,
+    "distance_km": 13.9,
+    "operator": "Navigazione Laghi"
+   },
+   {
+    "name": "Tenero",
+    "name_en": null,
+    "lat": 46.1735988,
+    "lon": 8.8430462,
+    "distance_km": 14.0,
+    "operator": "Navigazione Laghi"
+   },
+   {
+    "name": "Vira",
+    "name_en": null,
+    "lat": 46.1449193,
+    "lon": 8.8413117,
+    "distance_km": 14.9,
+    "operator": "NLM"
+   },
+   {
+    "name": "Locarno",
+    "name_en": null,
+    "lat": 46.1700102,
+    "lon": 8.801675,
+    "distance_km": 17.2,
+    "operator": "Navigazione Laghi"
+   },
+   {
+    "name": "S. Nazzaro (lago)",
+    "name_en": null,
+    "lat": 46.1333912,
+    "lon": 8.8041573,
+    "distance_km": 18.0,
+    "operator": "Navigazione Laghi"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bellinzona",
+    "name_en": null,
+    "lat": 46.1951237,
+    "lon": 9.0290235,
+    "distance_km": 0.6,
+    "operator": "SBB"
+   },
+   {
+    "name": "Giubiasco",
+    "name_en": null,
+    "lat": 46.1737876,
+    "lon": 9.0036369,
+    "distance_km": 2.6,
+    "operator": "SBB"
+   },
+   {
+    "name": "Castione-Arbedo",
+    "name_en": null,
+    "lat": 46.2243003,
+    "lon": 9.0416237,
+    "distance_km": 3.8,
+    "operator": "SBB"
+   },
+   {
+    "name": "Cadenazzo",
+    "name_en": null,
+    "lat": 46.1525515,
+    "lon": 8.941726,
+    "distance_km": 7.6,
+    "operator": "SBB"
+   },
+   {
+    "name": "Rivera-Bironico",
+    "name_en": null,
+    "lat": 46.1240899,
+    "lon": 8.9249644,
+    "distance_km": 10.7,
+    "operator": "SBB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Castello del Sole",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.1519648,
+   "lon": 8.7927642,
+   "distance_km": 18.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Giardino Ascona",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.1504251,
+   "lon": 8.790056,
+   "distance_km": 18.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marina Eden Roc",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.1512666,
+   "lon": 8.7722451,
+   "distance_km": 19.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Meliá Campione",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.9719244,
+   "lon": 8.9718671,
+   "distance_km": 24.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Romantica",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swiss Diamond Group",
+   "lat": 45.9533064,
+   "lon": 8.9540215,
+   "distance_km": 27.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CH",
   "country_zh": "瑞士",
@@ -180,5 +318,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:55:31Z"
+ "updated_at": "2026-11-12T12:12:01Z"
 }

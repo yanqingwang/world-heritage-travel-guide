@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Шаҳром",
+   "name_en": "Shahrom Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.4120228,
+   "lon": 69.3217664,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "гост.Дилбар",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.8415373,
+   "lon": 69.5455012,
+   "distance_km": 46.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gostinitsa Ozgorush",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.7701534,
+   "lon": 70.0645475,
+   "distance_km": 48.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:36Z"
+}

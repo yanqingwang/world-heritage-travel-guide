@@ -8,13 +8,13 @@ country: "ML"
 country_zh: "马里"
 country_en: "Mali"
 unesco_id: "516"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1989"
 criteria: "(v)(vii)"
 lat: 14.416666666
 lon: -3.316666666
-updated_at: "2026-11-12T11:55:27Z"
+updated_at: "2026-11-12T12:11:48Z"
 ---
 
 # 邦贾加拉悬崖(多贡斯土地) / Cliff of Bandiagara (Land of the Dogons)
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:27Z"
 
 *Bandiagara escarpment 1.jpg · see Wikimedia Commons file page*
 
-![Cliff of Bandiagara (Land of the Dogons)](https://whc.unesco.org/uploads/sites/site_516.jpg)
+![ASC Leiden - F. van der Kraaij Collection - 04 - 027 - Une vue de la falaise de Bandiagara - Région de Mopti près de Sangha, Mali - 1972.tiff](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ASC_Leiden_-_F._van_der_Kraaij_Collection_-_04_-_027_-_Une_vue_de_la_falaise_de_Bandiagara_-_R%C3%A9gion_de_Mopti_pr%C3%A8s_de_Sangha%2C_Mali_-_1972.tiff/lossy-page1-1280px-ASC_Leiden_-_F._van_der_Kraaij_Collection_-_04_-_027_-_Une_vue_de_la_falaise_de_Bandiagara_-_R%C3%A9gion_de_Mopti_pr%C3%A8s_de_Sangha%2C_Mali_-_1972.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cliff of Bandiagara (Land of the Dogons) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*ASC Leiden - F. van der Kraaij Collection - 04 - 027 - Une vue de la falaise de Bandiagara - Région de Mopti près de Sangha, Mali - 1972.tiff · Fred van der Kraaij · CC BY-SA 4.0*
+
+![ASC Leiden - W.E.A. van Beek Collection - Dogon markets 01 - A schoolboy between the sitting stones of the Tireli market, Mali 1984.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_01_-_A_schoolboy_between_the_sitting_stones_of_the_Tireli_market%2C_Mali_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*ASC Leiden - W.E.A. van Beek Collection - Dogon markets 01 - A schoolboy between the sitting stones of the Tireli market, Mali 1984.jpg · Wouter van Beek · CC BY-SA 4.0*
+
+![ASC Leiden - W.E.A. van Beek Collection - Dogon markets 02 - Meat snacks at Tireli market, Mali 1990.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_02_-_Meat_snacks_at_Tireli_market%2C_Mali_1990.jpg/1280px-ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_02_-_Meat_snacks_at_Tireli_market%2C_Mali_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ASC Leiden - W.E.A. van Beek Collection - Dogon markets 02 - Meat snacks at Tireli market, Mali 1990.jpg · Wouter van Beek · CC BY-SA 4.0*
+
+![ASC Leiden - W.E.A. van Beek Collection - Dogon markets 22 - The women from each ward have their own spot for selling beer, Tireli, Mali 1980.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_22_-_The_women_from_each_ward_have_their_own_spot_for_selling_beer%2C_Tireli%2C_Mali_1980.jpg/1280px-ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_markets_22_-_The_women_from_each_ward_have_their_own_spot_for_selling_beer%2C_Tireli%2C_Mali_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ASC Leiden - W.E.A. van Beek Collection - Dogon markets 22 - The women from each ward have their own spot for selling beer, Tireli, Mali 1980.jpg · Wouter van Beek · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Banjagara (tubabukan: Bandiagara) ye Mali ka dugu ye.
 - ✈ **Tombouktou Airport (TOM)** — 259.4 km
 - ✈ **Ouagadougou Thomas Sankara International Airport (OUA)** — 301.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11397.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Respect Etranch** — 2.3 km — hotel
+- **Hotel Femme Dogon** — 5.2 km — hotel
+- **Hotel Deux Caimans** — 5.4 km — hotel
+- **Hotel Camp Sangha** — 5.5 km — hotel
+- **Hotel Cempement Kastor** — 6.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

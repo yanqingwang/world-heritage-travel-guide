@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Boathouse Paradise Resort",
+   "name_en": "Boathouse Paradise Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8811667,
+   "lon": 99.6001735,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BanJankapor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.8744975,
+   "lon": 99.6051493,
+   "distance_km": 18.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "resort",
+   "name_en": "resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.8826277,
+   "lon": 99.6321146,
+   "distance_km": 21.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pornthana resort",
+   "name_en": "Pornthana resort",
+   "stars": null,
+   "brand": null,
+   "lat": 12.911024,
+   "lon": 99.6394517,
+   "distance_km": 23.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "resort sunee",
+   "name_en": "resort sunee",
+   "stars": null,
+   "brand": null,
+   "lat": 12.9138224,
+   "lon": 99.638423,
+   "distance_km": 23.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 20,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:06:23Z"
+}

@@ -8,13 +8,13 @@ country: "MN"
 country_zh: "蒙古国"
 country_en: "Mongolia"
 unesco_id: "769"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2003"
 criteria: "(ix)(x)"
 lat: 50.338055555
 lon: 92.7575
-updated_at: "2026-11-12T11:55:30Z"
+updated_at: "2026-11-12T12:11:56Z"
 ---
 
 # 乌布苏盆地 / Uvs Nuur Basin
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:30Z"
 
 *Uvs-nuur.jpg · see Wikimedia Commons file page*
 
-![Uvs Nuur Basin](https://whc.unesco.org/uploads/sites/site_769.jpg)
+![RUSMARKA-1681.jpg](https://upload.wikimedia.org/wikipedia/commons/9/98/RUSMARKA-1681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Uvs Nuur Basin · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*RUSMARKA-1681.jpg · Stamp issuing authority - MARKA Publishing & Trading Centre. Printer - Association GOZNAK of the Ministry of Finance of  · Public domain*
+
+![Бархан в песках Цугээр-Элс.jpg](https://upload.wikimedia.org/wikipedia/commons/3/30/%D0%91%D0%B0%D1%80%D1%85%D0%B0%D0%BD_%D0%B2_%D0%BF%D0%B5%D1%81%D0%BA%D0%B0%D1%85_%D0%A6%D1%83%D0%B3%D1%8D%D1%8D%D1%80-%D0%AD%D0%BB%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Бархан в песках Цугээр-Элс.jpg · Shalexm · CC BY-SA 4.0*
+
+![Вид на озеро Тере-Холь.jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE_%D0%A2%D0%B5%D1%80%D0%B5-%D0%A5%D0%BE%D0%BB%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Вид на озеро Тере-Холь.jpg · Shalexm · CC BY-SA 4.0*
+
+![Горный останец.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D1%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Горный останец.jpg · Shalexm · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of
 - ✈ **Kyzyl Airport (KYZ)** — 187.4 km
 - ✈ **Ölgii Mongolei International Airport (ULG)** — 252.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2216.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "CO"
 country_zh: "哥伦比亚"
 country_en: "Colombia"
 unesco_id: "742"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iv)(v)"
 lat: 9.239444444
 lon: -74.425
-updated_at: "2026-11-12T11:55:29Z"
+updated_at: "2026-11-12T12:11:55Z"
 ---
 
 # 蒙波斯的圣克鲁斯历史中心 / Historic Centre of Santa Cruz de Mompox
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:29Z"
 
 *Mompox - Vista dal Rio Magdalena.jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Santa Cruz de Mompox](https://whc.unesco.org/uploads/sites/site_742.jpg)
+![Calle real 3.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Calle_real_3.JPG/1280px-Calle_real_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre of Santa Cruz de Mompox · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Calle real 3.JPG · cesar pineda · CC BY-SA 3.0*
+
+![Catedraldemompox.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3e/Catedraldemompox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Catedraldemompox.jpg · Einer3088 · Public domain*
+
+![Iglesia de santo domingo1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Iglesia_de_santo_domingo1.JPG/1280px-Iglesia_de_santo_domingo1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Iglesia de santo domingo1.JPG · cesar pineda · CC BY-SA 3.0*
+
+![Secor antiguio alcaldia de mompox.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Secor_antiguio_alcaldia_de_mompox.JPG/1280px-Secor_antiguio_alcaldia_de_mompox.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Secor antiguio alcaldia de mompox.JPG · cesar pineda · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ Fundada en 1540, a orillas del rí­o Magdalena, Mompox desempeñó un important
 - ✈ **Las Brujas Airport (CZU)** — 95.0 km
 - ✈ **Golfo de Morrosquillo Airport (TLU)** — 130.8 km
 - ✈ **Los Garzones Airport (MTR)** — 160.6 km
+- ⛴ **Embalse La Union** — 34.4 km
+- ⛴ **Puerto de Magangue** — 34.9 km
+- ⛴ **Terminal Fluvial De Magangue** — 34.9 km
+- ⛴ **Puerto Fluvial (Barranco de Loba)** — 47.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14386.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **La Casa del Viajero Mompox** — 1.2 km — star — 1★
+- **Majestic Plaza** — 0.1 km — hotel
+- **Bioma Boutique Hotel** — 0.2 km — hotel
+- **Hotel Santa Cruz** — 0.2 km — hotel
+- **Albarrada Hotel Boutique** — 0.3 km — hotel — AHB
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

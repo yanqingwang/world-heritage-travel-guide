@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(vii)(viii)"
 lat: -9.4
 lon: -77.4
-updated_at: "2026-11-12T11:55:26Z"
+updated_at: "2026-11-12T12:11:43Z"
 ---
 
 # 瓦斯卡兰国家公园 / Huascarán National Park

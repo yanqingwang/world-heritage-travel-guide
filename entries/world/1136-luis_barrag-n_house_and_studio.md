@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1136"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(i)(ii)"
 lat: 19.41111111
 lon: -99.1925
-updated_at: "2026-11-12T11:55:33Z"
+updated_at: "2026-11-12T12:12:09Z"
 ---
 
 # 路易斯•巴拉干故居和工作室 / Luis Barragán House and Studio
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:33Z"
 
 *Luis Barragan House exterior 02.jpg · see Wikimedia Commons file page*
 
-![Luis Barragán House and Studio](https://whc.unesco.org/uploads/sites/site_1136.jpg)
+![Barragan 001.JPG](https://upload.wikimedia.org/wikipedia/commons/3/30/Barragan_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Luis Barragán House and Studio · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Barragan 001.JPG · Aromgom · CC BY-SA 4.0*
+
+![Casa Barragan-Torre del agua - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Casa_Barragan-Torre_del_agua_-_panoramio.jpg/1280px-Casa_Barragan-Torre_del_agua_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Casa Barragan-Torre del agua - panoramio.jpg · JavierDo · CC BY-SA 3.0*
+
+![Casa Gilardi de Luis Barragán, 2024.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f7/Casa_Gilardi_de_Luis_Barrag%C3%A1n%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Casa Gilardi de Luis Barragán, 2024.jpg · TSolange · CC BY-SA 4.0*
+
+![Corner of Luis Barragàn House roof with tree in the background.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Corner_of_Luis_Barrag%C3%A0n_House_roof_with_tree_in_the_background.jpg/1280px-Corner_of_Luis_Barrag%C3%A0n_House_roof_with_tree_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Corner of Luis Barragàn House roof with tree in the background.jpg · Daniel Case · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ Construida en 1948 en los arrabales de la Ciudad de México, la casa-taller del 
 - ✈ **Mexico City Benito Juárez International Airport (MEX)** — 13.1 km
 - ✈ **Adolfo López Mateos International Airport (TLC)** — 40.0 km
 - ✈ **Felipe Ángeles International Airport (NLU)** — 41.4 km
+- 🚉 **Buenavista** — 5.9 km
+- 🚉 **Estación Río Hondo** — 7.1 km
+- 🚉 **Fortuna** — 9.2 km
+- 🚉 **Tasqueña** — 9.3 km
+- 🚉 **Las Torres** — 9.4 km
+- ⛴ **Estación AIFA** — 40.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12436.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Ritz-Carlton, Mexico City** — 2.3 km — star — 5★ · The Ritz-Carlton
+- **Four Seasons Hotel Mexico City** — 2.3 km — star — 5★ · Four Seasons
+- **Hotel Marquis Reforma** — 2.5 km — star — 5★
+- **St. Regis Mexico City** — 2.7 km — star — 5★ · St. Regis
+- **Hotel Maison México Roma** — 2.7 km — star — 5★ · Lomas Hospitality
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

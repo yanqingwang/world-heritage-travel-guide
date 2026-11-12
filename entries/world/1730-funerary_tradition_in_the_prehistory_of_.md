@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1730"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(iii)"
 lat: 40.085
 lon: 8.951
-updated_at: "2026-11-12T11:55:38Z"
+updated_at: "2026-11-12T12:12:31Z"
 ---
 
 # 撒丁岛史前时期的丧葬传统——仙女之家 / Funerary Tradition in the Prehistory of Sardinia – The domus de janas
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:55:38Z"
 
 *Sassari - Domus de jamas di Molafà (03).JPG · see Wikimedia Commons file page*
 
-![Funerary Tradition in the Prehistory of Sardinia – <em>The domus de janas</em>](https://whc.unesco.org/uploads/sites/site_1730.jpg)
+![Bonorva Pala-Larga-III.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bonorva_Pala-Larga-III.jpg/1280px-Bonorva_Pala-Larga-III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Funerary Tradition in the Prehistory of Sardinia – <em>The domus de janas</em> · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bonorva Pala-Larga-III.jpg · Nicola Castangia · CC BY 3.0*
+
+![Buddusò- Domus de janas di Borucca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Buddus%C3%B2-_Domus_de_janas_di_Borucca.jpg/1280px-Buddus%C3%B2-_Domus_de_janas_di_Borucca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buddusò- Domus de janas di Borucca.jpg · ArcheoBudduso · CC BY-SA 4.0*
+
+![Castiadas - Domus de Janas 1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Castiadas_-_Domus_de_Janas_1.JPG/1280px-Castiadas_-_Domus_de_Janas_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Castiadas - Domus de Janas 1.JPG · Foto realizzata da me · CC BY-SA 3.0*
+
+![Domus de janas - Funtana su rettori.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Domus_de_janas_-_Funtana_su_rettori.jpg/1280px-Domus_de_janas_-_Funtana_su_rettori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Domus de janas - Funtana su rettori.jpg · Rops84 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Le domus de janas (case delle fate in lingua sarda) sono tombe preistoriche scav
 - ✈ **Alghero-Fertilia Airport (AHO)** — 82.6 km
 - ✈ **Cagliari Elmas Airport (CAG)** — 93.1 km
 - ✈ **Olbia Costa Smeralda Airport (OLB)** — 102.4 km
+- 🚉 **Abbasanta** — 12.4 km
+- 🚉 **Sorgono** — 14.6 km
+- 🚉 **Paulilatino** — 14.9 km
+- 🚉 **Borore** — 19.1 km
+- 🚉 **Meana Sardo** — 21.1 km
+- ⛴ **Porto industriale di Oristano** — 41.6 km
+- ⛴ **Porto turistico di Oristano** — 44.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8483.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Is Arenas Resort - Nature & Charme** — 40.6 km — star — 5★ · mirahotels
+- **Sardegna Grand Hotel Terme** — 15.5 km — star — 4★
+- **Centro Benessere SPA e Terme** — 15.6 km — star — 4★
+- **Hotel Sa Muvara** — 25.4 km — star — 4★
+- **Hotel Regina d'Arborea** — 36.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

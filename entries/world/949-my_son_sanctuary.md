@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)"
 lat: 15.76324
 lon: 108.124446
-updated_at: "2026-11-12T11:55:32Z"
+updated_at: "2026-11-12T12:12:04Z"
 ---
 
 # 圣子修道院 / My Son Sanctuary
