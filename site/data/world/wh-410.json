@@ -2,7 +2,7 @@
  "id": "wh-410",
  "unesco_id": "410",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 598,
  "popularity_score": 8094,
  "country": "MX",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_410.jpg",
-   "title": "Sian Ka'an",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/410",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2019-02-15_074_Roseate_spoonbill_%28Platalea_ajaja%29_at_Sian_Ka%27an_Biosphere_Reserve%2C_Mexico.jpg/1280px-2019-02-15_074_Roseate_spoonbill_%28Platalea_ajaja%29_at_Sian_Ka%27an_Biosphere_Reserve%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2019-02-15 074 Roseate spoonbill (Platalea ajaja) at Sian Ka'an Biosphere Reserve, Mexico.jpg",
+   "author": "Gordon Leggett",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-02-15_074_Roseate_spoonbill_%28Platalea_ajaja%29_at_Sian_Ka%27an_Biosphere_Reserve%2C_Mexico.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Approdo_nella_Riserva_di_Sian_Kan.jpg/1280px-Approdo_nella_Riserva_di_Sian_Kan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Approdo nella Riserva di Sian Kan.jpg",
+   "author": "Pmk58",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Approdo_nella_Riserva_di_Sian_Kan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg/1280px-Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bird watch at a tower in Sian Ka'an - panoramio.jpg",
+   "author": "Flexman",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161012061430/http://www.panoramio.com/photo/15279646",
+   "source": "https://commons.wikimedia.org/wiki/File:Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bird_Watching_Place_at_Sian_Ka%27an_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bird Watching Place at Sian Ka'an - panoramio.jpg",
+   "author": "Flexman",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161012190541/http://www.panoramio.com/photo/15860004",
+   "source": "https://commons.wikimedia.org/wiki/File:Bird_Watching_Place_at_Sian_Ka%27an_-_panoramio.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/410",
@@ -105,7 +129,41 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "El Faisan y el Venado",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5792339,
+   "lon": -88.0439573,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Esquivel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5775074,
+   "lon": -88.0459642,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel María José",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5789616,
+   "lon": -88.0463336,
+   "distance_km": 34.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -177,5 +235,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:46Z"
+ "updated_at": "2026-11-12T12:41:59Z"
 }

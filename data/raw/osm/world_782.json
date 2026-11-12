@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Balneario Resort Las Arenas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.4666552,
+   "lon": -0.32404,
+   "distance_km": 4.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel & SPA Plaza Mercado",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.4734487,
+   "lon": -0.3775192,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vincci Mercat",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Vincci Hoteles",
+   "lat": 39.4720342,
+   "lon": -0.3789898,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Meliá Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Meliá",
+   "lat": 39.4710216,
+   "lon": -0.3769836,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Helen Berger Hotel & Bar",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.4723383,
+   "lon": -0.3726124,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 219,
+ "stations": [
+  {
+   "name": "València - Estació del Nord",
+   "name_en": "Valencia - North Station",
+   "lat": 39.4669126,
+   "lon": -0.3771908,
+   "distance_km": 0.8,
+   "operator": "Adif"
+  },
+  {
+   "name": "València Joaquín Sorolla",
+   "name_en": null,
+   "lat": 39.4600472,
+   "lon": -0.3812078,
+   "distance_km": 1.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "València - La Font de Sant Lluís",
+   "name_en": null,
+   "lat": 39.441528,
+   "lon": -0.3714612,
+   "distance_km": 3.7,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Alfafar - Benetússer",
+   "name_en": null,
+   "lat": 39.422329,
+   "lon": -0.3925914,
+   "distance_km": 5.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Massanassa",
+   "name_en": null,
+   "lat": 39.4091688,
+   "lon": -0.3953228,
+   "distance_km": 7.4,
+   "operator": "Adif"
+  },
+  {
+   "name": "Aldaia",
+   "name_en": null,
+   "lat": 39.4609623,
+   "lon": -0.4637445,
+   "distance_km": 7.5,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Catarroja",
+   "name_en": null,
+   "lat": 39.4000723,
+   "lon": -0.399188,
+   "distance_km": 8.5,
+   "operator": "Adif"
+  },
+  {
+   "name": "Silla",
+   "name_en": null,
+   "lat": 39.3617545,
+   "lon": -0.4149384,
+   "distance_km": 12.9,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Mundo Marino Catamaranes",
+   "name_en": null,
+   "lat": 39.4611668,
+   "lon": -0.3254872,
+   "distance_km": 4.8,
+   "operator": "Mundo Marino"
+  },
+  {
+   "name": "Terminal Acciona-Trasmediterránea",
+   "name_en": null,
+   "lat": 39.454859,
+   "lon": -0.326857,
+   "distance_km": 4.9,
+   "operator": "Acciona-Trasmediterránea"
+  },
+  {
+   "name": "GNV Ticket Office",
+   "name_en": null,
+   "lat": 39.4506047,
+   "lon": -0.3241696,
+   "distance_km": 5.4,
+   "operator": null
+  },
+  {
+   "name": "GNV Ferry Terminal",
+   "name_en": null,
+   "lat": 39.4509472,
+   "lon": -0.3235744,
+   "distance_km": 5.4,
+   "operator": null
+  },
+  {
+   "name": "Terminal Baleària",
+   "name_en": null,
+   "lat": 39.4463849,
+   "lon": -0.3254862,
+   "distance_km": 5.5,
+   "operator": "Baleària Eurolíneas Marítimas S.A."
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:15Z"
+}

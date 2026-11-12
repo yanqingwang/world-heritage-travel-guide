@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "730"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iv)(v)"
 lat: 45.596666666
 lon: 9.536111111
-updated_at: "2026-11-12T12:11:55Z"
+updated_at: "2026-11-12T12:42:04Z"
 ---
 
 # 阿达的克里斯匹 / Crespi d'Adda
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:55Z"
 
 *Vista di Crespi d'Adda.JPG · see Wikimedia Commons file page*
 
-![Crespi d'Adda](https://whc.unesco.org/uploads/sites/site_730.jpg)
+![Abandoned building near spillway on east bank of Adda at Crespi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Abandoned_building_near_spillway_on_east_bank_of_Adda_at_Crespi.jpg/1280px-Abandoned_building_near_spillway_on_east_bank_of_Adda_at_Crespi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Crespi d'Adda · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abandoned building near spillway on east bank of Adda at Crespi.jpg · Daniel Case · CC BY-SA 3.0*
+
+![Adda da Crespi.JPG](https://upload.wikimedia.org/wikipedia/commons/e/ee/Adda_da_Crespi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Adda da Crespi.JPG · Cruccone · CC BY-SA 3.0*
+
+![Auditorium Silvio Benigno Crespi, Crespi d'Adda, Italy.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Auditorium_Silvio_Benigno_Crespi%2C_Crespi_d%27Adda%2C_Italy.jpg/1280px-Auditorium_Silvio_Benigno_Crespi%2C_Crespi_d%27Adda%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Auditorium Silvio Benigno Crespi, Crespi d'Adda, Italy.jpg · Fabio Pani · CC BY-SA 4.0*
+
+![Autumn (189331799).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Autumn_%28189331799%29.jpeg/1280px-Autumn_%28189331799%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Autumn (189331799).jpeg · Andrea Pagani · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Crespi d'Adda (AFI: [ˈkrɛspi ˈdadːa]; Grèssp o Crèssp [ˈɡɾɛsp], ['cɾ�
 - ✈ **Il Caravaggio International Airport (BGY)** — 15.7 km
 - ✈ **Milano Linate Airport (LIN)** — 26.3 km
 - ✈ **Milan Malpensa International Airport (MXP)** — 63.0 km
+- 🚉 **Verdello-Dalmine** — 6.6 km
+- 🚉 **Treviglio Ovest** — 9.0 km
+- 🚉 **Cassano d’Adda** — 9.3 km
+- 🚉 **Treviglio** — 10.0 km
+- 🚉 **Terno** — 10.2 km
+- ⛴ **Concesa** — 0.8 km
+- ⛴ **Casa del custode delle acque** — 2.6 km
+- ⛴ **Imbersago** — 13.8 km
+- ⛴ **Villa d'Adda** — 13.9 km
+- ⛴ **Approdo** — 17.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8030.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Piazza Lorenzo Mascheroni** — 15.5 km — star — 5★
+- **Bianca Relais** — 26.6 km — star — 5★
+- **Excelsior Hotel Gallia** — 28.8 km — star — 5★
+- **Chateau Monfort** — 29.3 km — star — 5★
+- **Fifty House** — 29.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

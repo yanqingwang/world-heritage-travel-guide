@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Bale Mountain Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.7134709,
+   "lon": 39.7257306,
+   "distance_km": 4.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ሆቴል",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.0132867,
+   "lon": 39.9735227,
+   "distance_km": 38.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ጎባ ዋቤ ሸበሌ ሆቴል",
+   "name_en": "Goba Wabe Shebele Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 7.0244415,
+   "lon": 39.9796229,
+   "distance_km": 39.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tokuma International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1016963,
+   "lon": 40.0005414,
+   "distance_km": 47.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waan Gaarii Guesthouse",
+   "name_en": "Waan Gaarii Guesthouse",
+   "stars": null,
+   "brand": null,
+   "lat": 7.1158939,
+   "lon": 40.0028961,
+   "distance_km": 49.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:18Z"
+}

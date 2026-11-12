@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Forest Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.5575103,
+   "lon": 16.3119949,
+   "distance_km": 26.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chateau Herálec",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.5306577,
+   "lon": 15.454491,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "OREA resort Devět skal",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.6680052,
+   "lon": 16.0896445,
+   "distance_km": 14.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Líšenský Dvůr",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.6399495,
+   "lon": 16.1384587,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alzheimer centrum",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.4114587,
+   "lon": 15.5767368,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 166,
+ "stations": [
+  {
+   "name": "Žďár nad Sázavou",
+   "name_en": null,
+   "lat": 49.5537932,
+   "lon": 15.9391698,
+   "distance_km": 2.9,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Sázava u Žďáru",
+   "name_en": null,
+   "lat": 49.5628608,
+   "lon": 15.8474594,
+   "distance_km": 7.1,
+   "operator": "cz:SŽDC"
+  },
+  {
+   "name": "Ostrov nad Oslavou",
+   "name_en": null,
+   "lat": 49.495779,
+   "lon": 15.9919516,
+   "distance_km": 10.0,
+   "operator": "cz:SŽDC"
+  },
+  {
+   "name": "Nové Město na Moravě",
+   "name_en": null,
+   "lat": 49.5685819,
+   "lon": 16.0803386,
+   "distance_km": 10.1,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Přibyslav",
+   "name_en": null,
+   "lat": 49.5697093,
+   "lon": 15.7427931,
+   "distance_km": 14.4,
+   "operator": "cz:SŽDC"
+  },
+  {
+   "name": "Ždírec nad Doubravou",
+   "name_en": null,
+   "lat": 49.7000629,
+   "lon": 15.8044146,
+   "distance_km": 16.6,
+   "operator": null
+  },
+  {
+   "name": "Sklené nad Oslavou",
+   "name_en": null,
+   "lat": 49.4371313,
+   "lon": 16.0541631,
+   "distance_km": 17.8,
+   "operator": "cz:SŽDC"
+  },
+  {
+   "name": "Pohled",
+   "name_en": null,
+   "lat": 49.6003086,
+   "lon": 15.6570508,
+   "distance_km": 20.7,
+   "operator": "cz:SŽDC"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Koněšín",
+   "name_en": null,
+   "lat": 49.1793382,
+   "lon": 16.0381326,
+   "distance_km": 45.1,
+   "operator": null
+  },
+  {
+   "name": "Třesov",
+   "name_en": null,
+   "lat": 49.165904,
+   "lon": 16.0742605,
+   "distance_km": 47.0,
+   "operator": null
+  },
+  {
+   "name": "Autokemp Wilsonka",
+   "name_en": null,
+   "lat": 49.1567928,
+   "lon": 16.0850886,
+   "distance_km": 48.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:04Z"
+}

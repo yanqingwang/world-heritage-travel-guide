@@ -2,7 +2,7 @@
  "id": "wh-768",
  "unesco_id": "768",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 593,
  "popularity_score": 8261,
  "country": "RU",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_768.jpg",
-   "title": "Golden Mountains of Altai",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/768",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_Mountains_of_Altai-113325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Golden Mountains of Altai-113325.jpg",
+   "author": "Francesco Bandarin",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Mountains_of_Altai-113325.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Golden_Mountains_of_Altai-113327.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Golden Mountains of Altai-113327.jpg",
+   "author": "Francesco Bandarin",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Mountains_of_Altai-113327.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Mountains_of_Altai-113328.jpg/1280px-Golden_Mountains_of_Altai-113328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Golden Mountains of Altai-113328.jpg",
+   "author": "Francesco Bandarin",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Mountains_of_Altai-113328.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Golden_Mountains_of_Altai-113330.jpg/1280px-Golden_Mountains_of_Altai-113330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Golden Mountains of Altai-113330.jpg",
+   "author": "Francesco Bandarin",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Mountains_of_Altai-113330.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/768",
@@ -108,7 +132,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Уймонская жемчужина",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.1833006,
+   "lon": 85.9825517,
+   "distance_km": 31.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Глобус",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.73648,
+   "lon": 86.157951,
+   "distance_km": 32.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Харлей",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7466257,
+   "lon": 86.139269,
+   "distance_km": 32.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Кок-Бору",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7500488,
+   "lon": 86.1352561,
+   "distance_km": 32.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Лидия",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7511556,
+   "lon": 86.1339239,
+   "distance_km": 33.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -180,5 +260,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:56Z"
+ "updated_at": "2026-11-12T12:42:05Z"
 }

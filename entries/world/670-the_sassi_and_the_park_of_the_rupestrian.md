@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iii)(iv)(v)"
 lat: 40.666388888
 lon: 16.610277777
-updated_at: "2026-11-12T12:11:53Z"
+updated_at: "2026-11-12T12:42:03Z"
 ---
 
 # 马泰拉的石窟民居和石头教堂花园 / The Sassi and the Park of the Rupestrian Churches of Matera

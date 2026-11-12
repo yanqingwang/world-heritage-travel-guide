@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 43.77306
 lon: 11.25611111
-updated_at: "2026-11-12T12:11:38Z"
+updated_at: "2026-11-12T12:41:54Z"
 ---
 
 # 佛罗伦萨历史中心 / Historic Centre of Florence

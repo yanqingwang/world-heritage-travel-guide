@@ -8,13 +8,13 @@ country: "KI"
 country_zh: "基里巴斯"
 country_en: "Kiribati"
 unesco_id: "1325"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2010"
 criteria: "(vii)(ix)"
 lat: -3.64972222
 lon: -172.8575
-updated_at: "2026-11-12T12:12:15Z"
+updated_at: "2026-11-12T12:42:17Z"
 ---
 
 # 菲尼克斯群岛保护区 / Phoenix Islands Protected Area
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:15Z"
 
 *3dPerspective wSeamounts NoRefs.jpg · see Wikimedia Commons file page*
 
-![Phoenix Islands Protected Area](https://whc.unesco.org/uploads/sites/site_1325.jpg)
+![3dPerspective wSeamounts NoRefs.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/3dPerspective_wSeamounts_NoRefs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Phoenix Islands Protected Area · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*3dPerspective wSeamounts NoRefs.jpg · Kerry Lagueux, New England Aquarium. · CC BY-SA 3.0*
+
+![Phoenix Islands Protected Area-114862.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Phoenix_Islands_Protected_Area-114862.jpg/1280px-Phoenix_Islands_Protected_Area-114862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Phoenix Islands Protected Area-114862.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Phoenix Islands Protected Area-114868.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Phoenix_Islands_Protected_Area-114868.jpg/1280px-Phoenix_Islands_Protected_Area-114868.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Phoenix Islands Protected Area-114868.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Phoenix Islands Protected Area-114872.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Islands_Protected_Area-114872.jpg/1280px-Phoenix_Islands_Protected_Area-114872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Phoenix Islands Protected Area-114872.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -46,6 +58,12 @@ The Phoenix Island Protected Area (PIPA) is a 408,250 sq.km expanse of marine an
 - ✈ **Funafuti International Airport (FUN)** — 1032.0 km
 - ✈ **Hihifo Airport (WLS)** — 1127.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8638.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

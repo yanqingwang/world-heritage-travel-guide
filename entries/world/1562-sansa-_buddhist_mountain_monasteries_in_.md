@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "1562"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(iii)"
 lat: 34.996581
 lon: 127.331118
-updated_at: "2026-11-12T12:12:23Z"
+updated_at: "2026-11-12T12:42:22Z"
 ---
 
 # 山寺，韩国佛教名山寺庙 / Sansa, Buddhist Mountain Monasteries in Korea
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T12:12:23Z"
 ![Korea-Boeun-Beopjusa Palsangjeon 1782-06.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Boeun-Beopjusa%20Palsangjeon%201782-06.JPG?width=1280)
 
 *Korea-Boeun-Beopjusa Palsangjeon 1782-06.JPG · see Wikimedia Commons file page*
+
+![Sansa Besucherzahlen 2011-2015.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sansa_Besucherzahlen_2011-2015.png/1280px-Sansa_Besucherzahlen_2011-2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sansa Besucherzahlen 2011-2015.png · ManuBu · CC BY-SA 4.0*
 
 ![Sansa, Buddhist Mountain Monasteries in Korea](https://whc.unesco.org/uploads/sites/site_1562.jpg)
 
@@ -52,7 +56,27 @@ The Sansa are Buddhist mountain monasteries located throughout the southern prov
 - ✈ **Yeosu Airport (RSU)** — 31.2 km
 - ✈ **Gwangju Airport (KWJ)** — 49.9 km
 - ✈ **Sacheon Airport / Sacheon Air Base (HIN)** — 68.2 km
+- 🚉 **순천** — 16.7 km
+- 🚉 **벌교** — 17.3 km
+- 🚉 **구례구** — 21.6 km
+- 🚉 **조성** — 22.4 km
+- 🚉 **광양** — 23.8 km
+- ⛴ **동천나루터** — 16.4 km
+- ⛴ **장도선착장** — 17.1 km
+- ⛴ **상진포구** — 21.4 km
+- ⛴ **광양항국제여객터미널** — 34.4 km
+- ⛴ **망덕포구** — 39.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1133.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **four seasons pension** — 19.9 km — chain
+- **유심천스포츠관광호텔** — 14.1 km — hotel — Yusimcheon Sports Tourist Hotel
+- **유심천관광호텔** — 14.1 km — hotel
+- **순천각호텔** — 14.9 km — hotel — Suncheongak Hotel
+- **태종각호텔** — 15.2 km — hotel — Taejonggak Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

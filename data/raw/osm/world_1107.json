@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "חאן חי נגב",
+   "name_en": "Chai Negev",
+   "stars": null,
+   "brand": null,
+   "lat": 31.0434962,
+   "lon": 34.717597,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון 48",
+   "name_en": "Hotel 48",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2384459,
+   "lon": 34.7900334,
+   "distance_km": 20.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון לאונרדו נגב",
+   "name_en": "Leonardo Hotel Negev",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2477186,
+   "lon": 34.8010307,
+   "distance_km": 21.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "U-Tel Guest Appartments",
+   "name_en": "U-Tel Guest Appartments",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2626101,
+   "lon": 34.7967042,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון קדמא",
+   "name_en": "Kedma Hotel",
+   "stars": null,
+   "brand": "Isrotel",
+   "lat": 30.8751521,
+   "lon": 34.7893433,
+   "distance_km": 27.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 19,
+ "stations": [
+  {
+   "name": "שרידים של תחנת רכבת טורקית",
+   "name_en": null,
+   "lat": 30.9382949,
+   "lon": 34.661839,
+   "distance_km": 17.7,
+   "operator": null
+  },
+  {
+   "name": "באר שבע מרכז",
+   "name_en": "Be'er Sheva Merkaz",
+   "lat": 31.2430764,
+   "lon": 34.7983837,
+   "distance_km": 21.0,
+   "operator": null
+  },
+  {
+   "name": "באר שבע צפון-אוניברסיטה",
+   "name_en": "Beer Sheva North - University",
+   "lat": 31.2618954,
+   "lon": 34.8093958,
+   "distance_km": 23.3,
+   "operator": null
+  },
+  {
+   "name": "אופקים",
+   "name_en": "Ofakim",
+   "lat": 31.3215098,
+   "lon": 34.6342302,
+   "distance_km": 25.0,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "להבים רהט",
+   "name_en": "Lehavim Rahat",
+   "lat": 31.3698184,
+   "lon": 34.7981649,
+   "distance_km": 33.1,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "דימונה",
+   "name_en": "Dimona",
+   "lat": 31.0689229,
+   "lon": 35.0118331,
+   "distance_km": 33.9,
+   "operator": null
+  },
+  {
+   "name": "נתיבות",
+   "name_en": "Netivot",
+   "lat": 31.4107487,
+   "lon": 34.5717114,
+   "distance_km": 35.8,
+   "operator": null
+  },
+  {
+   "name": "שדרות",
+   "name_en": "Sderot",
+   "lat": 31.515774,
+   "lon": 34.5854269,
+   "distance_km": 47.0,
+   "operator": "Israel Railways"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:52Z"
+}

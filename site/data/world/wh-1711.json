@@ -2,7 +2,7 @@
  "id": "wh-1711",
  "unesco_id": "1711",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 519,
  "popularity_score": 10880,
  "country": "IN",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1711.jpg",
-   "title": "Moidams – the Mound-Burial System of the Ahom Dynasty",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1711",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_1.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 1.jpg",
+   "author": "Mozzworld",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_4.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 4.jpg",
+   "author": "Mozzworld",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_4.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_6.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 6.jpg",
+   "author": "Mozzworld",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_6.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_7.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 7.jpg",
+   "author": "Mozzworld",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_7.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1711",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 61.7,
   "distance_beijing_km": 2425.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Lakswa",
+    "name_en": null,
+    "lat": 27.0052163,
+    "lon": 94.8445527,
+    "distance_km": 7.5,
+    "operator": "NFR"
+   },
+   {
+    "name": "Mahutgaon",
+    "name_en": null,
+    "lat": 26.9643383,
+    "lon": 94.7940882,
+    "distance_km": 8.3,
+    "operator": "NFR"
+   },
+   {
+    "name": "Safrai",
+    "name_en": null,
+    "lat": 27.0281263,
+    "lon": 94.9408681,
+    "distance_km": 11.4,
+    "operator": "NFR"
+   },
+   {
+    "name": "Simaluguri Junction",
+    "name_en": "Simaluguri Junction",
+    "lat": 26.9174084,
+    "lon": 94.7559815,
+    "distance_km": 12.2,
+    "operator": "NFR"
+   },
+   {
+    "name": "Nazira",
+    "name_en": "Nazira",
+    "lat": 26.9032579,
+    "lon": 94.7224246,
+    "distance_km": 15.8,
+    "operator": "NFR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Borluit Dhaba",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.1277306,
+   "lon": 94.8230905,
+   "distance_km": 21.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sivsagar",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0704182,
+   "lon": 94.6891135,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Aryan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9868907,
+   "lon": 94.6384558,
+   "distance_km": 23.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shiva Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9845376,
+   "lon": 94.6370273,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel picollo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9834754,
+   "lon": 94.6342744,
+   "distance_km": 24.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -179,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:29Z"
+ "updated_at": "2026-11-12T12:42:25Z"
 }

@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ix)(x)"
 lat: 41.702222222
 lon: 41.951111111
-updated_at: "2026-11-12T12:12:25Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 科尔基斯雨林及湿地 / Colchic Rainforests and Wetlands

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)"
 lat: 53.010277777
 lon: 18.604722222
-updated_at: "2026-11-12T12:11:59Z"
+updated_at: "2026-11-12T12:42:07Z"
 ---
 
 # 中世纪古镇托伦 / Medieval Town of Toruń

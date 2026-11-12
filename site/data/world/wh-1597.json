@@ -2,7 +2,7 @@
  "id": "wh-1597",
  "unesco_id": "1597",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 509,
  "popularity_score": 11278,
  "country": "CA",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1597.jpg",
-   "title": "Writing-on-Stone / Áísínai’pi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1597",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/%28Writing-on-the-stone_Provincial_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "(Writing-on-the-stone Provincial Park - panoramio.jpg",
+   "author": "R. Sieben",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161011083238/http://www.panoramio.com/photo/6191849",
+   "source": "https://commons.wikimedia.org/wiki/File:%28Writing-on-the-stone_Provincial_Park_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A_farmstead_at_Writing-On-Stone_%284454801201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A farmstead at Writing-On-Stone (4454801201).jpg",
+   "author": "Galt Museum & Archives on The Commons",
+   "license": "No restrictions",
+   "credit": "https://www.flickr.com/photos/galt-museum/4454801201/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_farmstead_at_Writing-On-Stone_%284454801201%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/A.L._Webb%3F_1919_%286022228239%29.jpg/1280px-A.L._Webb%3F_1919_%286022228239%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A.L. Webb? 1919 (6022228239).jpg",
+   "author": "eileenmak",
+   "license": "CC BY 2.0",
+   "credit": "A.L. Webb? 1919",
+   "source": "https://commons.wikimedia.org/wiki/File:A.L._Webb%3F_1919_%286022228239%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Across_the_Valley_%286022193689%29.jpg/1280px-Across_the_Valley_%286022193689%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Across the Valley (6022193689).jpg",
+   "author": "eileenmak",
+   "license": "CC BY 2.0",
+   "credit": "Across the Valley",
+   "source": "https://commons.wikimedia.org/wiki/File:Across_the_Valley_%286022193689%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1597",
@@ -105,7 +129,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Glocca Morra Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.9951218,
+   "lon": -111.9626522,
+   "distance_km": 27.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -178,5 +214,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:25Z"
+ "updated_at": "2026-11-12T12:42:23Z"
 }

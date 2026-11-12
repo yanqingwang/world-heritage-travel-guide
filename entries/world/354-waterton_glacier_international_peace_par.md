@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(ix)"
 lat: 48.996055555
 lon: -113.904166666
-updated_at: "2026-11-12T12:11:44Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 沃特顿冰川国际和平公园 / Waterton Glacier International Peace Park

@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "824"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iii)"
 lat: 45.39953
 lon: 11.880682
-updated_at: "2026-11-12T12:11:59Z"
+updated_at: "2026-11-12T12:42:07Z"
 ---
 
 # 帕多瓦植物园 / Botanical Garden (Orto Botanico), Padua
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:59Z"
 
 *Orto botanico padova.JPG · see Wikimedia Commons file page*
 
-![Botanical Garden (Orto Botanico), Padua](https://whc.unesco.org/uploads/sites/site_824.jpg)
+![Heritage Plaque 10-07 to 22 1399.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Heritage_Plaque_10-07_to_22_1399.jpg/1280px-Heritage_Plaque_10-07_to_22_1399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Botanical Garden (Orto Botanico), Padua · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Heritage Plaque 10-07 to 22 1399.jpg · Chris Light · CC BY-SA 4.0*
+
+![L'Orto Bontanico 10-07 to 22 1395.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/L%27Orto_Bontanico_10-07_to_22_1395.jpg/1280px-L%27Orto_Bontanico_10-07_to_22_1395.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*L'Orto Bontanico 10-07 to 22 1395.jpg · Chris Light · CC BY-SA 4.0*
+
+![OrtoBotPadova Ingresso.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/OrtoBotPadova_Ingresso.jpg/1280px-OrtoBotPadova_Ingresso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*OrtoBotPadova Ingresso.jpg · Semolo75 · Public domain*
+
+![Entrance 10-18 1400.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Entrance_10-18_1400.jpg/1280px-Entrance_10-18_1400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrance 10-18 1400.jpg · Chris Light · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ L'orto botanico di Padova, fondato nel 1545, è il più antico orto botanico al 
 - ✈ **Treviso Airport (TSF)** — 36.9 km
 - ✈ **Venice Marco Polo Airport (VCE)** — 38.6 km
 - ✈ **Verona Villafranca Valerio Catullo Airport (VRN)** — 77.6 km
+- 🚉 **Padova** — 2.0 km
+- 🚉 **Vigodarzere** — 6.0 km
+- 🚉 **Terme Euganee - Abano - Montegrotto** — 10.4 km
+- 🚉 **Dolo** — 16.1 km
+- 🚉 **Grisignano di Zocco** — 16.4 km
+- ⛴ **Villa Pisani** — 10.4 km
+- ⛴ **Villa Widmann** — 21.3 km
+- ⛴ **Villa Foscari** — 25.4 km
+- ⛴ **VeCON** — 29.1 km
+- ⛴ **Venice Fusina Ferry Terminal** — 29.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7882.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Tritone Terme** — 9.5 km — star — 5★
+- **Due Torri** — 9.5 km — star — 5★
+- **Hotel Première** — 9.9 km — star — 5★ · V Hotels
+- **Eslpanade Tergesteo** — 10.4 km — star — 5★
+- **Grand Hotel Terme** — 10.5 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,7 +2,7 @@
  "id": "wh-195",
  "unesco_id": "195",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 551,
  "popularity_score": 9701,
  "country": "CI",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_195.jpg",
-   "title": "Taï National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/195",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Centropus_Nationalpark_Tai.jpg/1280px-Centropus_Nationalpark_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Centropus Nationalpark Tai.jpg",
+   "author": "Gregor Rom",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Centropus_Nationalpark_Tai.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cercocebus_atys_atys_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Cercocebus atys atys area.png",
+   "author": "User:Luis Fernández García",
+   "license": "CC BY-SA 3.0",
+   "credit": "Information from Santiago, M. L. & al. (2005). Simian immunodeficiency virus infection in free-ranging sooty mangabeys (Cercocebus atys atys) from the Tai Fores",
+   "source": "https://commons.wikimedia.org/wiki/File:Cercocebus_atys_atys_area.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chimpanzee_in_Tai_National_Forest.jpg/1280px-Chimpanzee_in_Tai_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chimpanzee in Tai National Forest.jpg",
+   "author": "Wild Expeditions",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Chimpanzee_in_Tai_National_Forest.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Fliege_1_Nationalpark_Tai.jpg/1280px-Fliege_1_Nationalpark_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fliege 1 Nationalpark Tai.jpg",
+   "author": "Gregor Rom",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Fliege_1_Nationalpark_Tai.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/195",
@@ -104,7 +128,41 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.5803488,
+   "lon": -6.8298863,
+   "distance_km": 37.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge Beau Séjour",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.872893,
+   "lon": -7.4559121,
+   "distance_km": 39.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ecotel Touraco",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.3899275,
+   "lon": -7.251913,
+   "distance_km": 42.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CI",
   "country_zh": "科特迪瓦",
@@ -176,5 +234,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:39Z"
+ "updated_at": "2026-11-12T12:41:55Z"
 }

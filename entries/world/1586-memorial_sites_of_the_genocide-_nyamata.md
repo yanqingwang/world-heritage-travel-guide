@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(vi)"
 lat: -2.5282157
 lon: 29.2758463
-updated_at: "2026-11-12T12:12:24Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 种族大屠杀纪念地：恩亚玛塔、穆拉姆比、吉索兹和比瑟瑟罗 / Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero

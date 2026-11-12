@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "מלון כינורות",
+   "name_en": "Kinorot Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.797661,
+   "lon": 35.5318128,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "פרנק",
+   "name_en": "Frank",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.0084377,
+   "lon": 35.0907448,
+   "distance_km": 34.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "King Koresh",
+   "name_en": "King Koresh",
+   "stars": 2,
+   "brand": null,
+   "lat": 32.3306017,
+   "lon": 34.8534814,
+   "distance_km": 48.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bar-On Holiday Home",
+   "name_en": "Bar-On Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 33.0041351,
+   "lon": 35.1152543,
+   "distance_km": 33.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "יערות הכרמל",
+   "name_en": "Carmel Forest",
+   "stars": null,
+   "brand": null,
+   "lat": 32.7072668,
+   "lon": 35.0094567,
+   "distance_km": 11.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 158,
+ "stations": [
+  {
+   "name": "יקנעם - כפר יהושע",
+   "name_en": "Yokneam – Kfar Yehoshua",
+   "lat": 32.6810411,
+   "lon": 35.125769,
+   "distance_km": 2.6,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מגדל העמק - כפר ברוך",
+   "name_en": "Migdal HaEmek – Kfar Baruch",
+   "lat": 32.6472074,
+   "lon": 35.2094541,
+   "distance_km": 9.9,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מרכזית המפרץ - קו החוף",
+   "name_en": "HaMifrats Central Station",
+   "lat": 32.7938923,
+   "lon": 35.0370881,
+   "distance_km": 13.1,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מרכזית המפרץ - קו העמק",
+   "name_en": "HaMifrats Central Station - HaEmek Line",
+   "lat": 32.7928083,
+   "lon": 35.0331437,
+   "distance_km": 13.3,
+   "operator": null
+  },
+  {
+   "name": "חוצות המפרץ",
+   "name_en": "Hutzot Hamifratz",
+   "lat": 32.8094005,
+   "lon": 35.0544169,
+   "distance_km": 13.6,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "קרית חיים",
+   "name_en": "Kiryat Haim",
+   "lat": 32.8248135,
+   "lon": 35.0642744,
+   "distance_km": 14.7,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "קרית מוצקין",
+   "name_en": "Kiryat Motzkin",
+   "lat": 32.8329575,
+   "lon": 35.0699238,
+   "distance_km": 15.3,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מרכז הכרמל",
+   "name_en": "Carmel Center",
+   "lat": 32.8046778,
+   "lon": 34.9879087,
+   "distance_km": 17.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "dfh",
+   "name_en": "dfh",
+   "lat": 32.8237727,
+   "lon": 35.0201013,
+   "distance_km": 16.7,
+   "operator": null
+  },
+  {
+   "name": "Haifa-Akko Ferry",
+   "name_en": null,
+   "lat": 32.9190782,
+   "lon": 35.0705478,
+   "distance_km": 24.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:30Z"
+}

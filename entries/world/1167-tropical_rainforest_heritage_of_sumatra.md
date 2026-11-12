@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "1167"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2004"
 criteria: "(vii)(ix)(x)"
 lat: -2.5
 lon: 101.5
-updated_at: "2026-11-12T12:12:10Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 苏门答腊热带雨林 / Tropical Rainforest Heritage of Sumatra
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:10Z"
 
 *Man of the woods.JPG · see Wikimedia Commons file page*
 
-![Tropical Rainforest Heritage of Sumatra](https://whc.unesco.org/uploads/sites/site_1167.jpg)
+![Hutan Hujan Tropis dengan Sentuhan Awan, Pegunungan Mugajah, Aceh.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hutan_Hujan_Tropis_dengan_Sentuhan_Awan%2C_Pegunungan_Mugajah%2C_Aceh.jpg/1280px-Hutan_Hujan_Tropis_dengan_Sentuhan_Awan%2C_Pegunungan_Mugajah%2C_Aceh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tropical Rainforest Heritage of Sumatra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Hutan Hujan Tropis dengan Sentuhan Awan, Pegunungan Mugajah, Aceh.jpg · Hugo Rio Aditya · CC BY-SA 4.0*
+
+![Induk Orangutan Sumatera sedang memberi makan anaknya.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Induk_Orangutan_Sumatera_sedang_memberi_makan_anaknya.jpg/1280px-Induk_Orangutan_Sumatera_sedang_memberi_makan_anaknya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Induk Orangutan Sumatera sedang memberi makan anaknya.jpg · Pratechno · CC BY-SA 4.0*
+
+![LocMap of WH Sumatra.png](https://upload.wikimedia.org/wikipedia/commons/3/35/LocMap_of_WH_Sumatra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Sumatra.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
+
+![Pegunungan Mugajah Menjelang Malam, Pegunungan Mugajah, Aceh.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Pegunungan_Mugajah_Menjelang_Malam%2C_Pegunungan_Mugajah%2C_Aceh.jpg/1280px-Pegunungan_Mugajah_Menjelang_Malam%2C_Pegunungan_Mugajah%2C_Aceh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Pegunungan Mugajah Menjelang Malam, Pegunungan Mugajah, Aceh.jpg · Hugo Rio Aditya · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Warisan Hutan Hujan Tropis Sumatra adalah tempat pelestarian bagi hutan hujan tr
 - ✈ **Muko Muko Airport (MPC)** — 46.0 km
 - ✈ **Muara Bungo Airport (BUU)** — 130.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4935.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kayu Manis** — 49.7 km — star
+- **Hotel Abyan Mukomuko** — 44.7 km — hotel
+- **Abyan Hotel** — 44.7 km — hotel — Abyan Hotel
+- **hotel mahkota** — 47.7 km — hotel
+- **Hotel Matahari 2** — 48.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

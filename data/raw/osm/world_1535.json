@@ -1,0 +1,52 @@
+{
+ "hotels": [
+  {
+   "name": "三国屋旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.8997101,
+   "lon": 130.4350065,
+   "distance_km": 48.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "小呂島市営渡船場",
+   "name_en": null,
+   "lat": 33.8633508,
+   "lon": 130.0352292,
+   "distance_km": 42.9,
+   "operator": null
+  },
+  {
+   "name": "小呂島",
+   "name_en": null,
+   "lat": 33.8632695,
+   "lon": 130.0349724,
+   "distance_km": 42.9,
+   "operator": null
+  },
+  {
+   "name": "小呂島漁港",
+   "name_en": null,
+   "lat": 33.8610258,
+   "lon": 130.0362396,
+   "distance_km": 43.2,
+   "operator": null
+  },
+  {
+   "name": "大島港フェリーターミナル",
+   "name_en": null,
+   "lat": 33.8970043,
+   "lon": 130.4349458,
+   "distance_km": 49.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:34:35Z"
+}

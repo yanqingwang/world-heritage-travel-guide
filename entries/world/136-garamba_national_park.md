@@ -8,13 +8,13 @@ country: "CD"
 country_zh: "刚果民主共和国"
 country_en: "Democratic Republic of the Congo"
 unesco_id: "136"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1980"
 criteria: "(ix)(x)"
 lat: 4.0
 lon: 29.25
-updated_at: "2026-11-12T12:11:35Z"
+updated_at: "2026-11-12T12:41:53Z"
 ---
 
 # 加兰巴国家公园 / Garamba National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:35Z"
 
 *Elephants in garamba national park.jpg · see Wikimedia Commons file page*
 
-![Garamba National Park](https://whc.unesco.org/uploads/sites/site_136.jpg)
+![Elephants in garamba national park.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cc/Elephants_in_garamba_national_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Garamba National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Elephants in garamba national park.jpg · USAID · Public domain*
+
+![Garamba National Park banner.jpg](https://upload.wikimedia.org/wikipedia/commons/1/11/Garamba_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Garamba National Park banner.jpg · Nuria Ortega · CC BY-SA 3.0*
+
+![Garamba National Park overhead.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1d/Garamba_National_Park_overhead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Garamba National Park overhead.jpg · Nuria Ortega · CC BY-SA 3.0*
+
+![Ian and Rangers Garamba National Park, Congo 2003.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ian_and_Rangers_Garamba_National_Park%2C_Congo_2003.jpg/1280px-Ian_and_Rangers_Garamba_National_Park%2C_Congo_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ian and Rangers Garamba National Park, Congo 2003.jpg · Ian J. Saunders · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Le bien, situé dans le nord-est de la République démocratique du Congo, fait 
 - ✈ **Matari Airport (IRP)** — 225.9 km
 - ✈ **Juba International Airport (JUB)** — 278.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9421.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

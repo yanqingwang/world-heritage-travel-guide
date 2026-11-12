@@ -2,7 +2,7 @@
  "id": "wh-111",
  "unesco_id": "111",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 567,
  "popularity_score": 9289,
  "country": "ET",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_111.jpg",
-   "title": "Bale Mountains National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/111",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bale_Mountains_Vervet_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bale Mountains Vervet area.png",
+   "author": "Chermundy",
+   "license": "CC BY-SA 3.0",
+   "credit": "Base map derived from File:BlankMap-World.png . Distribution data from IUCN Red List of Threatened Species (English) . iucnredlist.org . Retrieved on 2025-09-01",
+   "source": "https://commons.wikimedia.org/wiki/File:Bale_Mountains_Vervet_area.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jubbarivermap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Jubbarivermap.png",
+   "author": "Kmusser",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work , Elevation data from SRTM , drainage basin from GTOPO [1] , all other features from Vector Map . [2] and [3] and the Rand McNally \"New International A",
+   "source": "https://commons.wikimedia.org/wiki/File:Jubbarivermap.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bale_Mountain_Lodge_and_surroundings_%2810%29_%2828660927963%29.jpg/1280px-Bale_Mountain_Lodge_and_surroundings_%2810%29_%2828660927963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bale Mountain Lodge and surroundings (10) (28660927963).jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "credit": "Bale Mountain Lodge and surroundings (10)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bale_Mountain_Lodge_and_surroundings_%2810%29_%2828660927963%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bale_Mountain_Lodge_and_surroundings_%2811%29_%2828993584490%29.jpg/1280px-Bale_Mountain_Lodge_and_surroundings_%2811%29_%2828993584490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bale Mountain Lodge and surroundings (11) (28993584490).jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "credit": "Bale Mountain Lodge and surroundings (11)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bale_Mountain_Lodge_and_surroundings_%2811%29_%2828993584490%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/111",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Bale Mountain Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.7134709,
+   "lon": 39.7257306,
+   "distance_km": 4.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ሆቴል",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.0132867,
+   "lon": 39.9735227,
+   "distance_km": 38.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ጎባ ዋቤ ሸበሌ ሆቴል",
+   "name_en": "Goba Wabe Shebele Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 7.0244415,
+   "lon": 39.9796229,
+   "distance_km": 39.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tokuma International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1016963,
+   "lon": 40.0005414,
+   "distance_km": 47.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waan Gaarii Guesthouse",
+   "name_en": "Waan Gaarii Guesthouse",
+   "stars": null,
+   "brand": null,
+   "lat": 7.1158939,
+   "lon": 40.0028961,
+   "distance_km": 49.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ET",
   "country_zh": "埃塞俄比亚",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:35Z"
+ "updated_at": "2026-11-12T12:41:53Z"
 }

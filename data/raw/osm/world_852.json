@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Hotel Kempinski Riga",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9490626,
+   "lon": 24.1130717,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Riga Old Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 56.9521982,
+   "lon": 24.1053675,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Palace Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9502107,
+   "lon": 24.1029599,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Baltic Beach Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9755841,
+   "lon": 23.79667,
+   "distance_km": 19.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Old City Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 56.9486788,
+   "lon": 24.1121242,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 176,
+ "stations": [
+  {
+   "name": "Rīgas Centrālā stacija",
+   "name_en": "Riga Central",
+   "lat": 56.9463999,
+   "lon": 24.1229108,
+   "distance_km": 0.9,
+   "operator": null
+  },
+  {
+   "name": "Torņakalns",
+   "name_en": null,
+   "lat": 56.9326665,
+   "lon": 24.0891593,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "Bieriņi/Bērnu slimnīca",
+   "name_en": null,
+   "lat": 56.9219983,
+   "lon": 24.0816248,
+   "distance_km": 3.4,
+   "operator": null
+  },
+  {
+   "name": "Zemitāni",
+   "name_en": null,
+   "lat": 56.9654952,
+   "lon": 24.1562997,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Iļģuciema Kravas stacija",
+   "name_en": null,
+   "lat": 56.972654,
+   "lon": 24.070684,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Zasulauks",
+   "name_en": null,
+   "lat": 56.9409622,
+   "lon": 24.0522052,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Brasa",
+   "name_en": null,
+   "lat": 56.9774697,
+   "lon": 24.1463585,
+   "distance_km": 4.0,
+   "operator": "Pasažieru Vilciens"
+  },
+  {
+   "name": "Iļģuciems",
+   "name_en": null,
+   "lat": 56.9611888,
+   "lon": 24.0456661,
+   "distance_km": 4.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Bastejkalns",
+   "name_en": null,
+   "lat": 56.9518619,
+   "lon": 24.1117926,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Radio iela",
+   "name_en": null,
+   "lat": 56.9481855,
+   "lon": 24.1170291,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Kronvalda",
+   "name_en": null,
+   "lat": 56.9561863,
+   "lon": 24.1046348,
+   "distance_km": 0.9,
+   "operator": null
+  },
+  {
+   "name": "Rīga",
+   "name_en": "Riga",
+   "lat": 56.9567469,
+   "lon": 24.0954343,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Riga Ferry Terminal",
+   "name_en": null,
+   "lat": 56.9593039,
+   "lon": 24.0946922,
+   "distance_km": 1.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:40Z"
+}

@@ -2,7 +2,7 @@
  "id": "wh-546",
  "unesco_id": "546",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 505,
  "popularity_score": 11441,
  "country": "DE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_546.jpg",
-   "title": "Maulbronn Monastery Complex",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/546",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/00_0185_Kloster_Maulbronn.jpg/1280px-00_0185_Kloster_Maulbronn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 0185 Kloster Maulbronn.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_0185_Kloster_Maulbronn.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/00_0193_Kloster_Maulbronn%2C_Geb%C3%A4ude_der_ehemaligen_Klosterverwaltung.jpg/1280px-00_0193_Kloster_Maulbronn%2C_Geb%C3%A4ude_der_ehemaligen_Klosterverwaltung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 0193 Kloster Maulbronn, Gebäude der ehemaligen Klosterverwaltung.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_0193_Kloster_Maulbronn%2C_Geb%C3%A4ude_der_ehemaligen_Klosterverwaltung.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/111_of_%27Father_Rhine._%28An_account_of_a_summer_tour._With_plates.%29%27_%2811290357094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "111 of 'Father Rhine. (An account of a summer tour. With plates.)' (11290357094).jpg",
+   "author": "The British Library",
+   "license": "No restrictions",
+   "credit": "Image taken from page 111 of 'Father Rhine. [An account of a summer tour. With plates.]'",
+   "source": "https://commons.wikimedia.org/wiki/File:111_of_%27Father_Rhine._%28An_account_of_a_summer_tour._With_plates.%29%27_%2811290357094%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Aerial_image_of_the_Maulbronn_Monastery_Complex_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_the_Maulbronn_Monastery_Complex_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial image of the Maulbronn Monastery Complex (view from the southeast).jpg",
+   "author": "Carsten Steger",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Maulbronn_Monastery_Complex_%28view_from_the_southeast%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/546",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 45.8,
   "distance_beijing_km": 7845.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Schiffsanleger Besigheim",
+    "name_en": null,
+    "lat": 49.0008653,
+    "lon": 9.1490325,
+    "distance_km": 24.5,
+    "operator": null
+   },
+   {
+    "name": "Schiffsanleger \"Neckar Käpt'n\" Besigheim",
+    "name_en": null,
+    "lat": 49.0006818,
+    "lon": 9.1498157,
+    "distance_km": 24.6,
+    "operator": "Neckar Käpt'n"
+   },
+   {
+    "name": "Schiffsanlegestelle Kirchheim am Neckar",
+    "name_en": null,
+    "lat": 49.0374758,
+    "lon": 9.1514605,
+    "distance_km": 25.0,
+    "operator": null
+   },
+   {
+    "name": "Bootslände Felsengartenkellerei",
+    "name_en": null,
+    "lat": 48.9976541,
+    "lon": 9.1753859,
+    "distance_km": 26.4,
+    "operator": "Neckar Käpt'n"
+   },
+   {
+    "name": "Bootslände Hessigheim",
+    "name_en": null,
+    "lat": 48.997505,
+    "lon": 9.1919518,
+    "distance_km": 27.7,
+    "operator": "Neckar Käpt'n"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Maulbronn Stadt/Kloster",
+    "name_en": null,
+    "lat": 48.9965651,
+    "lon": 8.8026758,
+    "distance_km": 0.9,
+    "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+   },
+   {
+    "name": "Maulbronn West AVG",
+    "name_en": null,
+    "lat": 48.9838813,
+    "lon": 8.7821552,
+    "distance_km": 2.9,
+    "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+   },
+   {
+    "name": "Maulbronn West",
+    "name_en": null,
+    "lat": 48.9838385,
+    "lon": 8.7814485,
+    "distance_km": 3.0,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Mühlacker",
+    "name_en": null,
+    "lat": 48.9530851,
+    "lon": 8.8458301,
+    "distance_km": 5.9,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Gölshausen",
+    "name_en": null,
+    "lat": 49.0448835,
+    "lon": 8.7247207,
+    "distance_km": 8.1,
+    "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Steigenberger Graf Zeppelin",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7835931,
+   "lon": 9.1795102,
+   "distance_km": 36.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Le Méridien",
+   "lat": 48.7837988,
+   "lon": 9.1889071,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Heidelberg Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4151691,
+   "lon": 8.7066598,
+   "distance_km": 46.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romantikhotel Kleiner Prinz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7572134,
+   "lon": 8.2419934,
+   "distance_km": 49.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maison Messmer",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7595659,
+   "lon": 8.2371142,
+   "distance_km": 49.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:49Z"
+ "updated_at": "2026-11-12T12:42:01Z"
 }

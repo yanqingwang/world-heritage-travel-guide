@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Mercure Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Mercure",
+   "lat": -22.9525708,
+   "lon": -43.189868,
+   "distance_km": 6.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Corinto Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -22.9221445,
+   "lon": -43.2485025,
+   "distance_km": 6.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rio Like a Carioca apartaments",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rio Like a Carioca",
+   "lat": -22.9651022,
+   "lon": -43.1745717,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Copacabana Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Belmond",
+   "lat": -22.9670112,
+   "lon": -43.1791682,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -22.9719755,
+   "lon": -43.3748967,
+   "distance_km": 20.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 341,
+ "stations": [
+  {
+   "name": "Central do Brasil",
+   "name_en": null,
+   "lat": -22.9035467,
+   "lon": -43.1914186,
+   "distance_km": 0.8,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "CTO",
+   "name_en": null,
+   "lat": -22.9045375,
+   "lon": -43.1943349,
+   "distance_km": 1.1,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "Praça da Bandeira",
+   "name_en": null,
+   "lat": -22.9098928,
+   "lon": -43.2129559,
+   "distance_km": 3.0,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "São Cristóvão",
+   "name_en": null,
+   "lat": -22.9095328,
+   "lon": -43.2228219,
+   "distance_km": 3.9,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "Maracanã",
+   "name_en": null,
+   "lat": -22.9092963,
+   "lon": -43.2332875,
+   "distance_km": 4.9,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "Mangueira / Jamelão",
+   "name_en": null,
+   "lat": -22.9085075,
+   "lon": -43.2368314,
+   "distance_km": 5.2,
+   "operator": "SuperVia"
+  },
+  {
+   "name": "Morro do Inglês",
+   "name_en": null,
+   "lat": -22.9463258,
+   "lon": -43.2021371,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "Triagem",
+   "name_en": null,
+   "lat": -22.8967174,
+   "lon": -43.2440972,
+   "distance_km": 5.8,
+   "operator": "SuperVia"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Praça XV",
+   "name_en": null,
+   "lat": -22.9020367,
+   "lon": -43.1714401,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Estação Praça XV",
+   "name_en": null,
+   "lat": -22.9026317,
+   "lon": -43.1719858,
+   "distance_km": 1.7,
+   "operator": "Barcas Rio"
+  },
+  {
+   "name": "Ilha Fiscal",
+   "name_en": null,
+   "lat": -22.8976233,
+   "lon": -43.1669128,
+   "distance_km": 2.1,
+   "operator": "Marinha do Brasil"
+  },
+  {
+   "name": "Estaleiro Inhaúma",
+   "name_en": null,
+   "lat": -22.8711418,
+   "lon": -43.2086386,
+   "distance_km": 3.6,
+   "operator": "Petrobras"
+  },
+  {
+   "name": "Terminal Brasco Caju",
+   "name_en": null,
+   "lat": -22.8694507,
+   "lon": -43.2114085,
+   "distance_km": 3.9,
+   "operator": "Wilsonsons"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:34:40Z"
+}

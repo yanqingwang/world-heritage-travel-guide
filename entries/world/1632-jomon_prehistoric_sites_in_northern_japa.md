@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1632"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(iii)(v)"
 lat: 41.065555555
 lon: 140.552216666
-updated_at: "2026-11-12T12:12:26Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 日本北部的绳纹史前遗址群 / Jomon Prehistoric Sites in Northern Japan
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:26Z"
 
 *140913 Sannai-Maruyama site Aomori Japan01bs6bs6.jpg · see Wikimedia Commons file page*
 
-![Jomon Prehistoric Sites in Northern Japan](https://whc.unesco.org/uploads/sites/site_1632.jpg)
+![Body temperature & Hand sanitizer in Goshono Site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Body_temperature_%26_Hand_sanitizer_in_Goshono_Site.jpg/1280px-Body_temperature_%26_Hand_sanitizer_in_Goshono_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jomon Prehistoric Sites in Northern Japan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Body temperature & Hand sanitizer in Goshono Site.jpg · Indiana jo · CC BY-SA 4.0*
+
+![COVID-19 disease control guideline in Futatsumori Shell Midden Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/COVID-19_disease_control_guideline_in_Futatsumori_Shell_Midden_Museum.jpg/1280px-COVID-19_disease_control_guideline_in_Futatsumori_Shell_Midden_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*COVID-19 disease control guideline in Futatsumori Shell Midden Museum.jpg · Indiana jo · CC BY-SA 4.0*
+
+![COVID-19 disease control guideline in Goshono Site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/COVID-19_disease_control_guideline_in_Goshono_Site.jpg/1280px-COVID-19_disease_control_guideline_in_Goshono_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*COVID-19 disease control guideline in Goshono Site.jpg · Indiana jo · CC BY-SA 4.0*
+
+![COVID-19 disease control guideline in Hakodate Jomon Culture Center.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/COVID-19_disease_control_guideline_in_Hakodate_Jomon_Culture_Center.jpg/1280px-COVID-19_disease_control_guideline_in_Hakodate_Jomon_Culture_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*COVID-19 disease control guideline in Hakodate Jomon Culture Center.jpg · Indiana jo · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ The property consists of 17 archaeological sites in the southern part of Hokkaid
 - ✈ **Aomori Airport (AOJ)** — 38.7 km
 - ✈ **Misawa Airport / Misawa Air Base (MSJ)** — 79.5 km
 - ✈ **Hakodate Airport (HKD)** — 81.5 km
+- 🚉 **大平** — 0.6 km
+- 🚉 **中小国** — 4.1 km
+- 🚉 **蟹田** — 8.2 km
+- 🚉 **奥津軽いまべつ** — 9.4 km
+- 🚉 **津軽二股** — 9.4 km
+- ⛴ **蟹田港フェリーターミナル** — 8.1 km
+- ⛴ **瀬辺地漁港** — 10.5 km
+- ⛴ **今別漁港** — 14.4 km
+- ⛴ **今別浜名漁港** — 15.4 km
+- ⛴ **大泊漁港** — 16.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2035.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **中村旅館** — 8.1 km — hotel
+- **平舘不老不死温泉** — 11.5 km — hotel
+- **今別ホテル** — 14.3 km — hotel
+- **小山内旅館** — 14.4 km — hotel
+- **坂田 旅館** — 14.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

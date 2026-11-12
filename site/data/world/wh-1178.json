@@ -2,7 +2,7 @@
  "id": "wh-1178",
  "unesco_id": "1178",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 555,
  "popularity_score": 9562,
  "country": "CL",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1178.jpg",
-   "title": "Humberstone and Santa Laura Saltpeter Works",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1178",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2005.11.14_24_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2005.11.14 24 Humberstone Chile.jpg",
+   "author": "Hermann Luyken",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:2005.11.14_24_Humberstone_Chile.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2005.11.14_26_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2005.11.14 26 Humberstone Chile.jpg",
+   "author": "Hermann Luyken",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:2005.11.14_26_Humberstone_Chile.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/2005.11.14_34_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2005.11.14 34 Humberstone Chile.jpg",
+   "author": "Hermann Luyken",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:2005.11.14_34_Humberstone_Chile.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ambientaci%C3%B3n_de_lo_que_fue_cocinas_t%C3%ADpicas_de_las_viviendas_en_Humberstone.jpg/1280px-Ambientaci%C3%B3n_de_lo_que_fue_cocinas_t%C3%ADpicas_de_las_viviendas_en_Humberstone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ambientación de lo que fue cocinas típicas de las viviendas en Humberstone.jpg",
+   "author": "Tefy fd",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambientaci%C3%B3n_de_lo_que_fue_cocinas_t%C3%ADpicas_de_las_viviendas_en_Humberstone.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1178",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 54.4,
   "distance_beijing_km": 17748.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Puerto de Iquique",
+    "name_en": null,
+    "lat": -20.209095,
+    "lon": -70.1594379,
+    "distance_km": 38.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "La Noria",
+    "name_en": null,
+    "lat": -20.3841836,
+    "lon": -69.8583066,
+    "distance_km": 20.7,
+    "operator": "Ferronor"
+   },
+   {
+    "name": "Central",
+    "name_en": null,
+    "lat": -20.369917,
+    "lon": -69.9195993,
+    "distance_km": 22.2,
+    "operator": "Ferronor"
+   },
+   {
+    "name": "San Antonio",
+    "name_en": null,
+    "lat": -20.4200349,
+    "lon": -69.8780693,
+    "distance_km": 25.1,
+    "operator": "Ferronor"
+   },
+   {
+    "name": "Las Carpas",
+    "name_en": null,
+    "lat": -20.3154132,
+    "lon": -70.0200189,
+    "distance_km": 26.4,
+    "operator": "Ferronor"
+   },
+   {
+    "name": "Gallinazos",
+    "name_en": null,
+    "lat": -20.4956811,
+    "lon": -69.7981263,
+    "distance_km": 32.0,
+    "operator": "Ferronor"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Holiday Inn Express",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": -20.2396751,
+   "lon": -70.1456467,
+   "distance_km": 36.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn iquique",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2374039,
+   "lon": -70.147197,
+   "distance_km": 36.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ibis Iquique",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2200839,
+   "lon": -70.1512849,
+   "distance_km": 37.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostal Tata Inti",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2579697,
+   "lon": -69.7849347,
+   "distance_km": 5.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Estancia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2608941,
+   "lon": -69.7856788,
+   "distance_km": 5.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CL",
   "country_zh": "智利",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:10Z"
+ "updated_at": "2026-11-12T12:42:15Z"
 }

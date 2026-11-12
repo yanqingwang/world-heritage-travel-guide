@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "782"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(iv)"
 lat: 39.474444444
 lon: -0.378333333
-updated_at: "2026-11-12T12:11:57Z"
+updated_at: "2026-11-12T12:42:06Z"
 ---
 
 # 瓦伦西亚丝绸交易厅 / La Lonja de la Seda de Valencia
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:57Z"
 
 *Consulado del Mar y Lonja de la Seda en Valencia.jpg · see Wikimedia Commons file page*
 
-![La Lonja de la Seda de Valencia](https://whc.unesco.org/uploads/sites/site_782.jpg)
+![Plaçamercat.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pla%C3%A7amercat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*La Lonja de la Seda de Valencia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Plaçamercat.jpg · Felivet · Public domain*
+
+![La Llotja de València el 1704 (plànol del pare Tosca).jpg](https://upload.wikimedia.org/wikipedia/commons/8/81/La_Llotja_de_Val%C3%A8ncia_el_1704_%28pl%C3%A0nol_del_pare_Tosca%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*La Llotja de València el 1704 (plànol del pare Tosca).jpg · Tomàs Vicent Tosca i Mascó (1651 - 1723) · Public domain*
+
+![Llotja pla.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f5/Llotja_pla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Llotja pla.jpg · Felivet · Public domain*
+
+![057 Llotja de la Seda, pl. del Mercat 31 (València).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/057_Llotja_de_la_Seda%2C_pl._del_Mercat_31_%28Val%C3%A8ncia%29.jpg/1280px-057_Llotja_de_la_Seda%2C_pl._del_Mercat_31_%28Val%C3%A8ncia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*057 Llotja de la Seda, pl. del Mercat 31 (València).jpg · Enric · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Construido entre 1482 y 1533, este conjunto de edificios se destinó desde un pr
 - ✈ **Valencia Airport (VLC)** — 9.0 km
 - ✈ **Castellón-Costa Azahar Airport (CDT)** — 90.8 km
 - ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 133.5 km
+- 🚉 **València - Estació del Nord** — 0.8 km
+- 🚉 **València Joaquín Sorolla** — 1.6 km
+- 🚉 **València - La Font de Sant Lluís** — 3.7 km
+- 🚉 **Alfafar - Benetússer** — 5.9 km
+- 🚉 **Massanassa** — 7.4 km
+- ⛴ **Mundo Marino Catamaranes** — 4.8 km
+- ⛴ **Terminal Acciona-Trasmediterránea** — 4.9 km
+- ⛴ **GNV Ticket Office** — 5.4 km
+- ⛴ **GNV Ferry Terminal** — 5.4 km
+- ⛴ **Terminal Baleària** — 5.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9107.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Balneario Resort Las Arenas** — 4.7 km — star — 5★
+- **Hotel & SPA Plaza Mercado** — 0.1 km — star — 4★
+- **Hotel Vincci Mercat** — 0.3 km — star — 4★ · Vincci Hoteles
+- **Meliá Plaza** — 0.4 km — star — 4★ · Meliá
+- **Helen Berger Hotel & Bar** — 0.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

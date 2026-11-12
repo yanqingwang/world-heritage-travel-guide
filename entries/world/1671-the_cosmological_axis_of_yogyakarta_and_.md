@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iii)"
 lat: -7.8013889
 lon: 110.3647778
-updated_at: "2026-11-12T12:12:28Z"
+updated_at: "2026-11-12T12:42:24Z"
 ---
 
 # 日惹的宇宙中轴线及其历史地标 / The Cosmological Axis of Yogyakarta and its Historic Landmarks

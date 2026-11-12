@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(vi)"
 lat: 50.98333333
 lon: 11.31666667
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 古典魏玛 / Classical Weimar

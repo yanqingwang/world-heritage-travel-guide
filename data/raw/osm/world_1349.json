@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Rosewood Amsterdam",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rosewood",
+   "lat": 52.3654297,
+   "lon": 4.8833807,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel 717",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3647878,
+   "lon": 4.8853244,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andaz Amsterdam Prinsengracht, by Hyatt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 52.3679082,
+   "lon": 4.8828827,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Dylan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3692835,
+   "lon": 4.8840074,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel de l'Europe",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3676444,
+   "lon": 4.8944657,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 872,
+ "stations": [
+  {
+   "name": "Amsterdam Centraal",
+   "name_en": "Amsterdam Central Station",
+   "lat": 52.378901,
+   "lon": 4.9005805,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam Muiderpoort",
+   "name_en": null,
+   "lat": 52.3607255,
+   "lon": 4.9312484,
+   "distance_km": 3.1,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam RAI",
+   "name_en": null,
+   "lat": 52.3370349,
+   "lon": 4.8902289,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam Zuid",
+   "name_en": null,
+   "lat": 52.3386906,
+   "lon": 4.8705251,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam Lelylaan",
+   "name_en": null,
+   "lat": 52.3578369,
+   "lon": 4.8340268,
+   "distance_km": 3.6,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam Sloterdijk",
+   "name_en": null,
+   "lat": 52.3890317,
+   "lon": 4.8381062,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Amsterdam Science Park",
+   "name_en": null,
+   "lat": 52.352926,
+   "lon": 4.948315,
+   "distance_km": 4.5,
+   "operator": null
+  },
+  {
+   "name": "Diemen",
+   "name_en": null,
+   "lat": 52.3452067,
+   "lon": 4.967465,
+   "distance_km": 6.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Centraal Station",
+   "name_en": null,
+   "lat": 52.3806768,
+   "lon": 4.8993817,
+   "distance_km": 1.8,
+   "operator": "Gemeentelijk Vervoerbedrijf"
+  },
+  {
+   "name": "Buiksloterweg",
+   "name_en": null,
+   "lat": 52.3821461,
+   "lon": 4.9031727,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "IJplein",
+   "name_en": null,
+   "lat": 52.3816386,
+   "lon": 4.9085707,
+   "distance_km": 2.3,
+   "operator": "GVB"
+  },
+  {
+   "name": "Passenger Terminal Amsterdam",
+   "name_en": null,
+   "lat": 52.3778116,
+   "lon": 4.9153293,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "Pontsteiger",
+   "name_en": null,
+   "lat": 52.3919497,
+   "lon": 4.8858668,
+   "distance_km": 2.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:45Z"
+}

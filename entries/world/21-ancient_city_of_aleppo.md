@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iii)(iv)"
 lat: 36.18333333
 lon: 37.15
-updated_at: "2026-11-12T12:11:32Z"
+updated_at: "2026-11-12T12:41:51Z"
 ---
 
 # 阿勒颇古城 / Ancient City of Aleppo

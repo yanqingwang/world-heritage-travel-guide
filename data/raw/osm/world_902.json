@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.544596,
+   "lon": 24.5618246,
+   "distance_km": 40.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Perla",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5263879,
+   "lon": 24.54187,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Europa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5389267,
+   "lon": 24.5695987,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Imperial",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5418975,
+   "lon": 24.575715,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Adria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5465703,
+   "lon": 24.5861336,
+   "distance_km": 39.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 146,
+ "stations": [
+  {
+   "name": "Daneș",
+   "name_en": null,
+   "lat": 46.2250083,
+   "lon": 24.7033572,
+   "distance_km": 6.9,
+   "operator": "CFR"
+  },
+  {
+   "name": "Dumbrăveni",
+   "name_en": null,
+   "lat": 46.2159157,
+   "lon": 24.5633427,
+   "distance_km": 17.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Cristur",
+   "name_en": null,
+   "lat": 46.2935195,
+   "lon": 25.0389097,
+   "distance_km": 20.8,
+   "operator": "CFR"
+  },
+  {
+   "name": "Bălăușeri",
+   "name_en": null,
+   "lat": 46.4068466,
+   "lon": 24.6997699,
+   "distance_km": 22.2,
+   "operator": "Regiotrans"
+  },
+  {
+   "name": "Fântânele",
+   "name_en": null,
+   "lat": 46.4165515,
+   "lon": 24.7609414,
+   "distance_km": 22.2,
+   "operator": "Regiotrans"
+  },
+  {
+   "name": "Ațel",
+   "name_en": null,
+   "lat": 46.1966956,
+   "lon": 24.4746304,
+   "distance_km": 24.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Coroiu",
+   "name_en": null,
+   "lat": 46.4021547,
+   "lon": 24.6127638,
+   "distance_km": 24.7,
+   "operator": "Regiotrans"
+  },
+  {
+   "name": "Bahnea",
+   "name_en": null,
+   "lat": 46.3827273,
+   "lon": 24.4889986,
+   "distance_km": 29.6,
+   "operator": "Regiotrans"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:41Z"
+}

@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 15.25
 lon: -84.73
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 雷奥普拉塔诺生物圈保留地 / Río Plátano Biosphere Reserve

@@ -8,13 +8,13 @@ country: "IL"
 country_zh: "以色列"
 country_en: "Israel"
 unesco_id: "1107"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(iii)(v)"
 lat: 31.0975
 lon: 34.657777777
-updated_at: "2026-11-12T12:12:09Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 熏香之路——内盖夫的沙漠城镇 / Incense Route - Desert Cities in the Negev
@@ -22,6 +22,10 @@ updated_at: "2026-11-12T12:12:09Z"
 > 以色列 · Negev Region · 文化遗产
 
 ## 图片 / Images
+
+![Shivta ruins in the Negev.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Shivta%20ruins%20in%20the%20Negev.jpg?width=1280)
+
+*Shivta ruins in the Negev.jpg · see Wikimedia Commons file page*
 
 ![84401 chirbet ketzra PikiWiki Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/84401_chirbet_ketzra_PikiWiki_Israel.jpg/1280px-84401_chirbet_ketzra_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -31,17 +35,13 @@ updated_at: "2026-11-12T12:12:09Z"
 
 *93489 spice route PikiWiki Israel.jpg · israel zeller ישראל זלר · CC BY 2.5*
 
-![Incense Route - Desert Cities in the Negev.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b0/Incense_Route_-_Desert_Cities_in_the_Negev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Bible-Lands-Museum-Yemen-3028.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bible-Lands-Museum-Yemen-3028.jpg/1280px-Bible-Lands-Museum-Yemen-3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Incense Route - Desert Cities in the Negev.jpg · captioning by: user:Ori~ and User:יוסי_הראשון Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC · Public domain*
+*Bible-Lands-Museum-Yemen-3028.jpg · Bukvoed · CC BY 4.0*
 
-![Israel Hiking Map חורבת קצרה.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94.jpeg/1280px-Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![IHM חורבת קצרה 1.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94_1.jpeg/1280px-IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94_1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Israel Hiking Map חורבת קצרה.jpeg · IsraelHikingMap · CC BY-SA 4.0*
-
-![Incense Route - Desert Cities in the Negev](https://whc.unesco.org/uploads/sites/site_1107.jpg)
-
-*Incense Route - Desert Cities in the Negev · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*IHM חורבת קצרה 1.jpeg · חיליק אגמון · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -64,7 +64,22 @@ The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associa
 - ✈ **El Arish International Airport (AAC)** — 79.2 km
 - ✈ **Ben Gurion International Airport (TLV)** — 103.9 km
 - ✈ **Queen Alia International Airport (AMM)** — 144.5 km
+- 🚉 **שרידים של תחנת רכבת טורקית** — 17.7 km
+- 🚉 **באר שבע מרכז** — 21.0 km
+- 🚉 **באר שבע צפון-אוניברסיטה** — 23.3 km
+- 🚉 **אופקים** — 25.0 km
+- 🚉 **להבים רהט** — 33.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7282.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **חאן חי נגב** — 8.3 km — hotel — Chai Negev
+- **מלון 48** — 20.1 km — hotel — Hotel 48
+- **מלון לאונרדו נגב** — 21.6 km — hotel — Leonardo Hotel Negev
+- **U-Tel Guest Appartments** — 22.6 km — hotel — U-Tel Guest Appartments
+- **מלון קדמא** — 27.7 km — hotel — Kedma Hotel · Isrotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

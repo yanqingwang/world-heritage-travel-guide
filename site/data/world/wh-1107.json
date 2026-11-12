@@ -2,7 +2,7 @@
  "id": "wh-1107",
  "unesco_id": "1107",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 521,
  "popularity_score": 10834,
  "country": "IL",
@@ -45,6 +45,14 @@
  "intro_local_source": "wikipedia",
  "images": [
   {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shivta%20ruins%20in%20the%20Negev.jpg?width=1280",
+   "title": "Shivta ruins in the Negev.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Shivta%20ruins%20in%20the%20Negev.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/84401_chirbet_ketzra_PikiWiki_Israel.jpg/1280px-84401_chirbet_ketzra_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "84401 chirbet ketzra PikiWiki Israel.jpg",
    "author": "זאב שטיין",
@@ -61,28 +69,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:93489_spice_route_PikiWiki_Israel.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Incense_Route_-_Desert_Cities_in_the_Negev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Incense Route - Desert Cities in the Negev.jpg",
-   "author": "captioning by: user:Ori~ and User:יוסי_הראשון Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC",
-   "license": "Public domain",
-   "credit": "based on Image:Satellite image of Israel in January 2003.jpg , itself cropped from original: http://visibleearth.nasa.gov/view_rec.php?id=4969",
-   "source": "https://commons.wikimedia.org/wiki/File:Incense_Route_-_Desert_Cities_in_the_Negev.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bible-Lands-Museum-Yemen-3028.jpg/1280px-Bible-Lands-Museum-Yemen-3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bible-Lands-Museum-Yemen-3028.jpg",
+   "author": "Bukvoed",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bible-Lands-Museum-Yemen-3028.jpg"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94.jpeg/1280px-Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Israel Hiking Map חורבת קצרה.jpeg",
-   "author": "IsraelHikingMap",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94_1.jpeg/1280px-IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94_1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "IHM חורבת קצרה 1.jpeg",
+   "author": "חיליק אגמון",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94.jpeg"
-  },
-  {
-   "url": "https://whc.unesco.org/uploads/sites/site_1107.jpg",
-   "title": "Incense Route - Desert Cities in the Negev",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1107",
-   "provider": "unesco"
+   "source": "https://commons.wikimedia.org/wiki/File:IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A7%D7%A6%D7%A8%D7%94_1.jpeg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1107",
@@ -130,9 +130,106 @@
   "nearest_airport_km": 79.2,
   "distance_beijing_km": 7282.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "שרידים של תחנת רכבת טורקית",
+    "name_en": null,
+    "lat": 30.9382949,
+    "lon": 34.661839,
+    "distance_km": 17.7,
+    "operator": null
+   },
+   {
+    "name": "באר שבע מרכז",
+    "name_en": "Be'er Sheva Merkaz",
+    "lat": 31.2430764,
+    "lon": 34.7983837,
+    "distance_km": 21.0,
+    "operator": null
+   },
+   {
+    "name": "באר שבע צפון-אוניברסיטה",
+    "name_en": "Beer Sheva North - University",
+    "lat": 31.2618954,
+    "lon": 34.8093958,
+    "distance_km": 23.3,
+    "operator": null
+   },
+   {
+    "name": "אופקים",
+    "name_en": "Ofakim",
+    "lat": 31.3215098,
+    "lon": 34.6342302,
+    "distance_km": 25.0,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "להבים רהט",
+    "name_en": "Lehavim Rahat",
+    "lat": 31.3698184,
+    "lon": 34.7981649,
+    "distance_km": 33.1,
+    "operator": "Israel Railways"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "חאן חי נגב",
+   "name_en": "Chai Negev",
+   "stars": null,
+   "brand": null,
+   "lat": 31.0434962,
+   "lon": 34.717597,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון 48",
+   "name_en": "Hotel 48",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2384459,
+   "lon": 34.7900334,
+   "distance_km": 20.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון לאונרדו נגב",
+   "name_en": "Leonardo Hotel Negev",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2477186,
+   "lon": 34.8010307,
+   "distance_km": 21.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "U-Tel Guest Appartments",
+   "name_en": "U-Tel Guest Appartments",
+   "stars": null,
+   "brand": null,
+   "lat": 31.2626101,
+   "lon": 34.7967042,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון קדמא",
+   "name_en": "Kedma Hotel",
+   "stars": null,
+   "brand": "Isrotel",
+   "lat": 30.8751521,
+   "lon": 34.7893433,
+   "distance_km": 27.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IL",
   "country_zh": "以色列",
@@ -205,5 +302,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:09Z"
+ "updated_at": "2026-11-12T12:42:13Z"
 }

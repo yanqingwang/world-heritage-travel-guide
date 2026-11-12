@@ -2,7 +2,7 @@
  "id": "wh-380",
  "unesco_id": "380",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 588,
  "popularity_score": 8365,
  "country": "ES",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_380.jpg",
-   "title": "Garajonay National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/380",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/0_view_from_Alto_de_Garajonay_to_Ermita_de_San_Francisco_de_As%C3%ADs_La_Gomera.jpg/1280px-0_view_from_Alto_de_Garajonay_to_Ermita_de_San_Francisco_de_As%C3%ADs_La_Gomera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 view from Alto de Garajonay to Ermita de San Francisco de Asís La Gomera.jpg",
+   "author": "Herbert wie",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_view_from_Alto_de_Garajonay_to_Ermita_de_San_Francisco_de_As%C3%ADs_La_Gomera.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/0_view_from_Alto_de_Garajonay_to_Monta%C3%B1a_de_Igualero_La_Gomera.jpg/1280px-0_view_from_Alto_de_Garajonay_to_Monta%C3%B1a_de_Igualero_La_Gomera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 view from Alto de Garajonay to Montaña de Igualero La Gomera.jpg",
+   "author": "Herbert wie",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_view_from_Alto_de_Garajonay_to_Monta%C3%B1a_de_Igualero_La_Gomera.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2011125.Laguna_Grande.La_Gomera.-011.jpg/1280px-2011125.Laguna_Grande.La_Gomera.-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2011125.Laguna Grande.La Gomera.-011.jpg",
+   "author": "Bybbisch94, Christian Gebhardt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2011125.Laguna_Grande.La_Gomera.-011.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2011125.Laguna_Grande.La_Gomera.-012.jpg/1280px-2011125.Laguna_Grande.La_Gomera.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2011125.Laguna Grande.La Gomera.-012.jpg",
+   "author": "Bybbisch94, Christian Gebhardt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2011125.Laguna_Grande.La_Gomera.-012.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/380",
@@ -102,10 +126,107 @@
   ],
   "nearest_airport_km": 11.0,
   "distance_beijing_km": 11063.0,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Fred. Olsen Express - Benchi Express Terminal",
+    "name_en": null,
+    "lat": 28.0795189,
+    "lon": -17.3330635,
+    "distance_km": 10.7,
+    "operator": "Fred. Olsen Express"
+   },
+   {
+    "name": "Naviera Armas",
+    "name_en": null,
+    "lat": 28.0792581,
+    "lon": -17.332892,
+    "distance_km": 10.7,
+    "operator": "Naviera Armas"
+   },
+   {
+    "name": "Embarcadero El Cabrito",
+    "name_en": null,
+    "lat": 28.060339,
+    "lon": -17.1441793,
+    "distance_km": 11.7,
+    "operator": null
+   },
+   {
+    "name": "Fred. Olsen Express - Bechi Express Terminal",
+    "name_en": null,
+    "lat": 28.0265857,
+    "lon": -17.1970991,
+    "distance_km": 11.8,
+    "operator": "Fred. Olsen Express (Benchi Express)"
+   },
+   {
+    "name": "Marina La Gomera (San Sebastian)",
+    "name_en": null,
+    "lat": 28.0886213,
+    "lon": -17.1085563,
+    "distance_km": 13.3,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Gran Meliá Palacio de Isora (TUI Sensatori Tenerife)",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Gran Meliá (TUI Sensatori)",
+   "lat": 28.2046395,
+   "lon": -16.832399,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ritz - Carlton Abama",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 28.1709384,
+   "lon": -16.8012279,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Los Jardines de Abama Suites & Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Abama Hotels",
+   "lat": 28.1712446,
+   "lon": -16.7872377,
+   "distance_km": 44.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Roca Nivaria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Adrian Hoteles",
+   "lat": 28.1208034,
+   "lon": -16.7774376,
+   "distance_km": 45.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Melia Hacienda del Conde",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Meliá",
+   "lat": 28.3698494,
+   "lon": -16.8592993,
+   "distance_km": 45.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:45Z"
+ "updated_at": "2026-11-12T12:41:58Z"
 }

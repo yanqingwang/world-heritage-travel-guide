@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Steigenberger Graf Zeppelin",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7835931,
+   "lon": 9.1795102,
+   "distance_km": 36.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Le Méridien",
+   "lat": 48.7837988,
+   "lon": 9.1889071,
+   "distance_km": 36.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Heidelberg Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4151691,
+   "lon": 8.7066598,
+   "distance_km": 46.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romantikhotel Kleiner Prinz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7572134,
+   "lon": 8.2419934,
+   "distance_km": 49.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maison Messmer",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.7595659,
+   "lon": 8.2371142,
+   "distance_km": 49.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1083,
+ "stations": [
+  {
+   "name": "Maulbronn Stadt/Kloster",
+   "name_en": null,
+   "lat": 48.9965651,
+   "lon": 8.8026758,
+   "distance_km": 0.9,
+   "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+  },
+  {
+   "name": "Maulbronn West AVG",
+   "name_en": null,
+   "lat": 48.9838813,
+   "lon": 8.7821552,
+   "distance_km": 2.9,
+   "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+  },
+  {
+   "name": "Maulbronn West",
+   "name_en": null,
+   "lat": 48.9838385,
+   "lon": 8.7814485,
+   "distance_km": 3.0,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Mühlacker",
+   "name_en": null,
+   "lat": 48.9530851,
+   "lon": 8.8458301,
+   "distance_km": 5.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Gölshausen",
+   "name_en": null,
+   "lat": 49.0448835,
+   "lon": 8.7247207,
+   "distance_km": 8.1,
+   "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+  },
+  {
+   "name": "Bauerbach",
+   "name_en": null,
+   "lat": 49.0738979,
+   "lon": 8.7481914,
+   "distance_km": 9.4,
+   "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+  },
+  {
+   "name": "Illingen (Württemberg)",
+   "name_en": null,
+   "lat": 48.9566217,
+   "lon": 8.9219059,
+   "distance_km": 9.4,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Flehingen",
+   "name_en": null,
+   "lat": 49.0846969,
+   "lon": 8.7835616,
+   "distance_km": 9.5,
+   "operator": "Albtal-Verkehrs-Gesellschaft mbH"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Schiffsanleger Besigheim",
+   "name_en": null,
+   "lat": 49.0008653,
+   "lon": 9.1490325,
+   "distance_km": 24.5,
+   "operator": null
+  },
+  {
+   "name": "Schiffsanleger \"Neckar Käpt'n\" Besigheim",
+   "name_en": null,
+   "lat": 49.0006818,
+   "lon": 9.1498157,
+   "distance_km": 24.6,
+   "operator": "Neckar Käpt'n"
+  },
+  {
+   "name": "Schiffsanlegestelle Kirchheim am Neckar",
+   "name_en": null,
+   "lat": 49.0374758,
+   "lon": 9.1514605,
+   "distance_km": 25.0,
+   "operator": null
+  },
+  {
+   "name": "Bootslände Felsengartenkellerei",
+   "name_en": null,
+   "lat": 48.9976541,
+   "lon": 9.1753859,
+   "distance_km": 26.4,
+   "operator": "Neckar Käpt'n"
+  },
+  {
+   "name": "Bootslände Hessigheim",
+   "name_en": null,
+   "lat": 48.997505,
+   "lon": 9.1919518,
+   "distance_km": 27.7,
+   "operator": "Neckar Käpt'n"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:30:13Z"
+}

@@ -8,13 +8,13 @@ country: "RO"
 country_zh: "罗马尼亚"
 country_en: "Romania"
 unesco_id: "598"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(i)(iv)"
 lat: 47.733
 lon: 25.933
-updated_at: "2026-11-12T12:11:51Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 苏切维察修道院的复活教堂 / Churches of Moldavia
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:51Z"
 
 *Voronet church.jpg · see Wikimedia Commons file page*
 
-![Churches of Moldavia](https://whc.unesco.org/uploads/sites/site_598.jpg)
+![Arbore (1) (7013721927).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Arbore_%281%29_%287013721927%29.jpg/1280px-Arbore_%281%29_%287013721927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Churches of Moldavia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Arbore (1) (7013721927).jpg · KLMircea · CC BY-SA 2.0*
+
+![Arbore (18) (7013719883).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arbore_%2818%29_%287013719883%29.jpg/1280px-Arbore_%2818%29_%287013719883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arbore (18) (7013719883).jpg · KLMircea from Focsani, Romania · CC BY-SA 2.0*
+
+![Arbore (2) (6867611150).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Arbore_%282%29_%286867611150%29.jpg/1280px-Arbore_%282%29_%286867611150%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arbore (2) (6867611150).jpg · KLMircea from Focsani, Romania · CC BY-SA 2.0*
+
+![Arbore (22) (6867608010).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Arbore_%2822%29_%286867608010%29.jpg/1280px-Arbore_%2822%29_%286867608010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arbore (22) (6867608010).jpg · KLMircea from Focsani, Romania · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Bisericile pictate din nordul Moldovei, au fost construite la sfârșitul secolu
 - ✈ **Suceava Ștefan cel Mare International Airport (SCV)** — 31.9 km
 - ✈ **Iaşi International Airport (IAS)** — 141.1 km
 - ✈ **Bacău George Enescu International  Airport (BCM)** — 153.6 km
+- 🚉 **Milișăuți** — 9.9 km
+- 🚉 **Cacica** — 10.5 km
+- 🚉 **Rădăuți** — 12.0 km
+- 🚉 **Virfu Dealului** — 14.9 km
+- 🚉 **Dărmănești** — 15.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6861.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Gerald's Hotel** — 12.4 km — star — 4★
+- **Hotel Buchenland** — 20.1 km — star — 4★
+- **Lions p***** — 20.5 km — star — 4★
+- **Hotel Curtea Bizantină** — 23.3 km — star — 4★
+- **Sonnenhoff** — 25.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

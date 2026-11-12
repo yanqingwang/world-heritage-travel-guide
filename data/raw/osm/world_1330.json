@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Harmonie",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Hostel Harmonie",
+   "lat": 47.8522367,
+   "lon": 25.8970299,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "George Palace",
+   "name_en": "George Palace",
+   "stars": null,
+   "brand": null,
+   "lat": 48.2978395,
+   "lon": 25.9290862,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Вокзал",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.300623,
+   "lon": 25.9308693,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Магнат",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.296994,
+   "lon": 25.9344509,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Брістоль",
+   "name_en": "Bristol",
+   "stars": null,
+   "brand": null,
+   "lat": 48.2943748,
+   "lon": 25.9337209,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 58,
+ "stations": [
+  {
+   "name": "Чернівці",
+   "name_en": "Chernivtsi",
+   "lat": 48.3010524,
+   "lon": 25.9299818,
+   "distance_km": 0.6,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Чернівці-Північна",
+   "name_en": null,
+   "lat": 48.3177301,
+   "lon": 25.9178779,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "Чернівці-Південна",
+   "name_en": null,
+   "lat": 48.2654418,
+   "lon": 25.9576228,
+   "distance_km": 4.2,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Садгора",
+   "name_en": null,
+   "lat": 48.3324752,
+   "lon": 25.9482283,
+   "distance_km": 4.3,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Калинівська",
+   "name_en": null,
+   "lat": 48.3223097,
+   "lon": 25.9694501,
+   "distance_km": 4.4,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Магала",
+   "name_en": null,
+   "lat": 48.289214,
+   "lon": 26.0235255,
+   "distance_km": 7.3,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Мамаївці",
+   "name_en": null,
+   "lat": 48.3527346,
+   "lon": 25.8342046,
+   "distance_km": 9.2,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Великий Кучурів",
+   "name_en": null,
+   "lat": 48.2025999,
+   "lon": 25.9075766,
+   "distance_km": 10.5,
+   "operator": "Укрзалізниця"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Перебиківці",
+   "name_en": null,
+   "lat": 48.5729156,
+   "lon": 26.1416356,
+   "distance_km": 34.6,
+   "operator": null
+  },
+  {
+   "name": "Вільховець",
+   "name_en": null,
+   "lat": 48.5729305,
+   "lon": 26.143959,
+   "distance_km": 34.7,
+   "operator": null
+  },
+  {
+   "name": "Худіківці",
+   "name_en": null,
+   "lat": 48.599551,
+   "lon": 26.1444193,
+   "distance_km": 37.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:11Z"
+}

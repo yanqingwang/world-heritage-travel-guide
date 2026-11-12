@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1239"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(ii)(iv)"
 lat: 52.448333
 lon: 13.45
-updated_at: "2026-11-12T12:12:12Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 柏林现代主义住宅区 / Berlin Modernism Housing Estates
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:12:12Z"
 ![Berlin Hufeisensiedlung UAV 04-2017.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Hufeisensiedlung%20UAV%2004-2017.jpg?width=1280)
 
 *Berlin Hufeisensiedlung UAV 04-2017.jpg · see Wikimedia Commons file page*
+
+![Berlin - Berlin Modernism Housing Estates - 20190825124055.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825124055.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825124055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Berlin - Berlin Modernism Housing Estates - 20190825124055.jpg · Messc · CC BY-SA 4.0*
+
+![Berlin - Berlin Modernism Housing Estates - 20190825131820.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131820.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Berlin - Berlin Modernism Housing Estates - 20190825131820.jpg · Messc · CC BY-SA 4.0*
+
+![Berlin - Berlin Modernism Housing Estates - 20190825131931.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131931.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Berlin - Berlin Modernism Housing Estates - 20190825131931.jpg · Messc · CC BY-SA 4.0*
 
 ![Berlin Modernism Housing Estates](https://whc.unesco.org/uploads/sites/site_1239.jpg)
 
@@ -52,7 +64,27 @@ Siedlungen der Berliner Moderne ist eine zusammenfassende Bezeichnung für siebe
 - ✈ **Berlin Brandenburg Airport (BER)** — 10.3 km
 - ✈ **Leipzig/Halle Airport (LEJ)** — 141.5 km
 - ✈ **Dresden Airport (DRS)** — 147.8 km
+- 🚉 **Kalenderplatz** — 2.3 km
+- 🚉 **Neukölln** — 2.4 km
+- 🚉 **Buckower Damm** — 2.5 km
+- 🚉 **Hermannstraße** — 2.5 km
+- 🚉 **Baumschulenweg** — 3.4 km
+- ⛴ **Baumschulenstraße/Fähre** — 4.1 km
+- ⛴ **Wilhelmstrand** — 4.3 km
+- ⛴ **Hafen Anleger MS Diva** — 4.7 km
+- ⛴ **Hafen Treptow** — 5.1 km
+- ⛴ **Hafen Treptow Brücke 5** — 5.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7357.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Berlin** — 8.1 km — star — 5★ · Hilton
+- **Hotel de Rome** — 8.4 km — star — 5★ · Rocco Forte Hotels
+- **Grand Hyatt Berlin** — 8.5 km — star — 5★ · Grand Hyatt
+- **The Westin Grand Berlin** — 8.6 km — star — 5★ · Westin
+- **The Ritz-Carlton** — 8.6 km — star — 5★ · The Ritz-Carlton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

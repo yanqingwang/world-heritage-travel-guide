@@ -8,13 +8,13 @@ country: "LV"
 country_zh: "拉脱维亚"
 country_en: "Latvia"
 unesco_id: "852"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)"
 lat: 56.9485
 lon: 24.1082
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 里加历史中心 / Historic Centre of Riga
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:00Z"
 
 *Riga (33844464828).jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Riga](https://whc.unesco.org/uploads/sites/site_852.jpg)
+![2014 - panoramio (69).jpg](https://upload.wikimedia.org/wikipedia/commons/c/cc/2014_-_panoramio_%2869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Historic Centre of Riga · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2014 - panoramio (69).jpg · Валерий Дед · CC BY 3.0*
+
+![20150504 19 Riga - Old City (17454794942).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20150504_19_Riga_-_Old_City_%2817454794942%29.jpg/1280px-20150504_19_Riga_-_Old_City_%2817454794942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20150504 19 Riga - Old City (17454794942).jpg · Sjaak Kempe from Groningen, The Netherlands · CC BY 2.0*
+
+![20150504 21 Riga - Old City (17270558769).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20150504_21_Riga_-_Old_City_%2817270558769%29.jpg/1280px-20150504_21_Riga_-_Old_City_%2817270558769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20150504 21 Riga - Old City (17270558769).jpg · Sjaak Kempe from Groningen, The Netherlands · CC BY 2.0*
+
+![22. 60g 1k 1134 1.f - FORUM CINEMAS - RIGA, LATVIA 2009 (4017621579).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/22._60g_1k_1134_1.f_-_FORUM_CINEMAS_-_RIGA%2C_LATVIA_2009_%284017621579%29.jpg/1280px-22._60g_1k_1134_1.f_-_FORUM_CINEMAS_-_RIGA%2C_LATVIA_2009_%284017621579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*22. 60g 1k 1134 1.f - FORUM CINEMAS - RIGA, LATVIA 2009 (4017621579).jpg · EuroAsia Vizion · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Vecrīga, (apkaimes nosaukums Vecpilsēta) arī Iekšrīga, ir Rīgas pilsētas 
 - ✈ **Riga International Airport (RIX)** — 8.9 km
 - ✈ **Pärnu Airport (EPU)** — 164.9 km
 - ✈ **Kuressaare Airport (URE)** — 171.4 km
+- 🚉 **Rīgas Centrālā stacija** — 0.9 km
+- 🚉 **Torņakalns** — 2.1 km
+- 🚉 **Bieriņi/Bērnu slimnīca** — 3.4 km
+- 🚉 **Zemitāni** — 3.5 km
+- 🚉 **Iļģuciema Kravas stacija** — 3.5 km
+- ⛴ **Bastejkalns** — 0.4 km
+- ⛴ **Radio iela** — 0.5 km
+- ⛴ **Kronvalda** — 0.9 km
+- ⛴ **Rīga** — 1.2 km
+- ⛴ **Riga Ferry Terminal** — 1.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6520.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Grand Hotel Kempinski Riga** — 0.3 km — star — 5★
+- **Pullman Riga Old Town** — 0.4 km — star — 5★ · Pullman
+- **Grand Palace Hotel** — 0.4 km — star — 5★
+- **Baltic Beach Hotel** — 19.1 km — star — 5★
+- **Old City Boutique Hotel** — 0.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

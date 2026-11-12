@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "737"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iv)(vi)"
 lat: 35.801611111
 lon: 128.098722222
-updated_at: "2026-11-12T12:11:55Z"
+updated_at: "2026-11-12T12:42:05Z"
 ---
 
 # 海印寺及八万大藏经藏经处 / Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:55Z"
 
 *합천 해인사 장경판전.jpg · see Wikimedia Commons file page*
 
-![Haeinsa Temple Janggyeong Panjeon, the Depositories for the <em>Tripitaka Koreana</em> Woodblocks](https://whc.unesco.org/uploads/sites/site_737.jpg)
+![2018-07-09 belfry of Haeinsa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2018-07-09_belfry_of_Haeinsa.jpg/1280px-2018-07-09_belfry_of_Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Haeinsa Temple Janggyeong Panjeon, the Depositories for the <em>Tripitaka Koreana</em> Woodblocks · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2018-07-09 belfry of Haeinsa.jpg · xiquinhosilva · CC BY 2.0*
+
+![2018-07-09 two halves of a Buddha statue at Haeinsa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2018-07-09_two_halves_of_a_Buddha_statue_at_Haeinsa.jpg/1280px-2018-07-09_two_halves_of_a_Buddha_statue_at_Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2018-07-09 two halves of a Buddha statue at Haeinsa.jpg · xiquinhosilva · CC BY 2.0*
+
+![54174-Haeinsa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/54174-Haeinsa.jpg/1280px-54174-Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*54174-Haeinsa.jpg · xiquinhosilva · CC BY 2.0*
+
+![Bell pavilion IMG 20161002 120143.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Bell_pavilion_IMG_20161002_120143.jpg/1280px-Bell_pavilion_IMG_20161002_120143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bell pavilion IMG 20161002 120143.jpg · G41rn8 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The Temple of Haeinsa, on Mount Gaya, is home to the Tripitaka Koreana , the mos
 - ✈ **Daegu International Airport (TAE)** — 51.4 km
 - ✈ **Sacheon Airport / Sacheon Air Base (HIN)** — 79.3 km
 - ✈ **Gimhae International Airport (PUS)** — 102.8 km
+- 🚉 **왜관** — 34.5 km
+- 🚉 **김천(구미)** — 35.4 km
+- 🚉 **약목** — 35.5 km
+- 🚉 **김천** — 35.9 km
+- 🚉 **북삼** — 35.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1154.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **대구 메리어트 호텔** — 48.4 km — star — Marriott Daegu · 5★ · Marriott
+- **(주)백운국민관광호텔 (Baekungungmin Tourist Hotel)** — 3.7 km — hotel — Baekungungmin Tourist Hotel
+- **가야호텔** — 4.0 km — hotel
+- **파인밸리리조트** — 11.2 km — hotel — Painbaelli Resort Hotel
+- **채빈모텔** — 19.5 km — hotel — Chaebin Motel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

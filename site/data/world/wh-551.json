@@ -2,7 +2,7 @@
  "id": "wh-551",
  "unesco_id": "551",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 512,
  "popularity_score": 11211,
  "country": "NZ",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_551.jpg",
-   "title": "Te Wahipounamu – South West New Zealand",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/551",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fiordland_National_Park%2C_Part_II_-_Fiordland9056.jpg/1280px-Fiordland_National_Park%2C_Part_II_-_Fiordland9056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fiordland National Park, Part II - Fiordland9056.jpg",
+   "author": "lumoplank",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/199350666@N08/55405028552",
+   "source": "https://commons.wikimedia.org/wiki/File:Fiordland_National_Park%2C_Part_II_-_Fiordland9056.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Haast_Visitor_Centre_MRD_02.jpg/1280px-Haast_Visitor_Centre_MRD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Haast Visitor Centre MRD 02.jpg",
+   "author": "Mike Dickison",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Haast_Visitor_Centre_MRD_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Mount_Tasman_and_Mount_Cook_in_evening_sunlight_behind_paddock_with_cows_on_the_West_Coast.jpg/1280px-Mount_Tasman_and_Mount_Cook_in_evening_sunlight_behind_paddock_with_cows_on_the_West_Coast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Tasman and Mount Cook in evening sunlight behind paddock with cows on the West Coast.jpg",
+   "author": "Pseudopanax at English Wikipedia",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Tasman_and_Mount_Cook_in_evening_sunlight_behind_paddock_with_cows_on_the_West_Coast.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/NZ_Te_Wahipounamu_NTNL_parks.svg/1280px-NZ_Te_Wahipounamu_NTNL_parks.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "NZ Te Wahipounamu NTNL parks.svg",
+   "author": "Costello",
+   "license": "CC BY-SA 3.0",
+   "credit": "self-made, based on Image:NZ Locator Blank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:NZ_Te_Wahipounamu_NTNL_parks.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/551",
@@ -104,7 +128,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Fiordland National Park Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -45.1989576,
+   "lon": 167.8223314,
+   "distance_km": 43.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NZ",
   "country_zh": "新西兰",
@@ -178,5 +214,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:49Z"
+ "updated_at": "2026-11-12T12:42:01Z"
 }

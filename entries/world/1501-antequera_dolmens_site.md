@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "1501"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2016"
 criteria: "(i)(iii)(iv)"
 lat: 37.023333333
 lon: -4.548055555
-updated_at: "2026-11-12T12:12:21Z"
+updated_at: "2026-11-12T12:42:21Z"
 ---
 
 # 安特克拉石墓遗址 / Antequera Dolmens Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:21Z"
 
 *Viera and Menga Dolmens, Antequera, Spain; July 2008.JPG · see Wikimedia Commons file page*
 
-![Antequera Dolmens Site](https://whc.unesco.org/uploads/sites/site_1501.jpg)
+![Aula Encarnación Cabré.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aula_Encarnaci%C3%B3n_Cabr%C3%A9.jpg/1280px-Aula_Encarnaci%C3%B3n_Cabr%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Antequera Dolmens Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aula Encarnación Cabré.jpg · Mentxuwiki · CC BY-SA 4.0*
+
+![Conjunto Arqueológico Dólmenes de Antequera.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Conjunto_Arqueol%C3%B3gico_D%C3%B3lmenes_de_Antequera.jpg/1280px-Conjunto_Arqueol%C3%B3gico_D%C3%B3lmenes_de_Antequera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Conjunto Arqueológico Dólmenes de Antequera.jpg · Mentxuwiki · CC BY-SA 4.0*
+
+![Dolmen3 (23278503283).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Dolmen3_%2823278503283%29.jpg/1280px-Dolmen3_%2823278503283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dolmen3 (23278503283).jpg · IMBiblio · CC BY-SA 2.0*
+
+![Entrata Dolmen Antequera.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Entrata_Dolmen_Antequera.jpg/1280px-Entrata_Dolmen_Antequera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrata Dolmen Antequera.jpg · Effepi93 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Situado al sur de España, en la Andalucía meridional, este sitio comprende tre
 - ✈ **Málaga-Costa del Sol Airport (AGP)** — 38.6 km
 - ✈ **F.G.L. Airport Granada-Jaén Airport (GRX)** — 70.8 km
 - ✈ **Córdoba Airport (ODB)** — 94.8 km
+- 🚉 **Antequera Alta Velocidad** — 1.4 km
+- 🚉 **Antequera-Santa Ana** — 16.1 km
+- 🚉 **Bobadilla** — 16.1 km
+- 🚉 **Fuente de Piedra** — 21.0 km
+- 🚉 **Las Mellizas** — 22.6 km
+- ⛴ **Catamarán Mundo Marino** — 36.0 km
+- ⛴ **Estación Marítima de Málaga** — 36.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9575.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **La Bobadilla, a Royal Hideway Hotel** — 27.6 km — star — 5★ · Barceló Hotel Group
+- **Hotel Vincci Selección Posada del Patio** — 35.4 km — star — 5★ · Vincci Hotels
+- **Only You Hotel Málaga** — 35.8 km — star — 5★
+- **Gran Hotel Miramar** — 36.0 km — star — 5★
+- **Vincci Selección Aleysa;Vincci Seleccion Aleysa Boutique & Spa** — 47.9 km — star — 5★ · Vincci Hoteles
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

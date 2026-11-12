@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "380"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1986"
 criteria: "(vii)(ix)"
 lat: 28.12625
 lon: -17.23722222
-updated_at: "2026-11-12T12:11:45Z"
+updated_at: "2026-11-12T12:41:58Z"
 ---
 
 # 加拉霍艾国家公园 / Garajonay National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:45Z"
 
 *Bosque Encantado, Parque nacional de Garajonay, La Gomera, España, 2012-12-14, DD 19.jpg · see Wikimedia Commons file page*
 
-![Garajonay National Park](https://whc.unesco.org/uploads/sites/site_380.jpg)
+![0 view from Alto de Garajonay to Ermita de San Francisco de Asís La Gomera.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/0_view_from_Alto_de_Garajonay_to_Ermita_de_San_Francisco_de_As%C3%ADs_La_Gomera.jpg/1280px-0_view_from_Alto_de_Garajonay_to_Ermita_de_San_Francisco_de_As%C3%ADs_La_Gomera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Garajonay National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0 view from Alto de Garajonay to Ermita de San Francisco de Asís La Gomera.jpg · Herbert wie · CC BY-SA 4.0*
+
+![0 view from Alto de Garajonay to Montaña de Igualero La Gomera.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/0_view_from_Alto_de_Garajonay_to_Monta%C3%B1a_de_Igualero_La_Gomera.jpg/1280px-0_view_from_Alto_de_Garajonay_to_Monta%C3%B1a_de_Igualero_La_Gomera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0 view from Alto de Garajonay to Montaña de Igualero La Gomera.jpg · Herbert wie · CC BY-SA 4.0*
+
+![2011125.Laguna Grande.La Gomera.-011.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2011125.Laguna_Grande.La_Gomera.-011.jpg/1280px-2011125.Laguna_Grande.La_Gomera.-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2011125.Laguna Grande.La Gomera.-011.jpg · Bybbisch94, Christian Gebhardt · CC BY-SA 4.0*
+
+![2011125.Laguna Grande.La Gomera.-012.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2011125.Laguna_Grande.La_Gomera.-012.jpg/1280px-2011125.Laguna_Grande.La_Gomera.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2011125.Laguna Grande.La Gomera.-012.jpg · Bybbisch94, Christian Gebhardt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Situado en el centro de la Isla de La Gomera, en el archipiélago de las Canaria
 - ✈ **La Gomera Airport (GMZ)** — 11.0 km
 - ✈ **Tenerife Sur Airport (TFS)** — 65.8 km
 - ✈ **El Hierro Airport (VDE)** — 72.6 km
+- ⛴ **Fred. Olsen Express - Benchi Express Terminal** — 10.7 km
+- ⛴ **Naviera Armas** — 10.7 km
+- ⛴ **Embarcadero El Cabrito** — 11.7 km
+- ⛴ **Fred. Olsen Express - Bechi Express Terminal** — 11.8 km
+- ⛴ **Marina La Gomera (San Sebastian)** — 13.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11063.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Gran Meliá Palacio de Isora (TUI Sensatori Tenerife)** — 40.6 km — star — 5★ · Gran Meliá (TUI Sensatori)
+- **Ritz - Carlton Abama** — 43.0 km — star — 5★ · The Ritz-Carlton
+- **Los Jardines de Abama Suites & Villas** — 44.4 km — star — 5★ · Abama Hotels
+- **Gran Hotel Roca Nivaria** — 45.1 km — star — 5★ · Adrian Hoteles
+- **Melia Hacienda del Conde** — 45.9 km — star — 5★ · Meliá
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

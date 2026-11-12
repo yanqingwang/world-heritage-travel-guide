@@ -2,7 +2,7 @@
  "id": "wh-690",
  "unesco_id": "690",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 599,
  "popularity_score": 8024,
  "country": "CZ",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_690.jpg",
-   "title": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/690",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%281%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kostel svatého Jana Nepomuckého (1).jpg",
+   "author": "Aqalexor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%282%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kostel svatého Jana Nepomuckého (2).jpg",
+   "author": "Aqalexor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%283%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kostel svatého Jana Nepomuckého (3).jpg",
+   "author": "Aqalexor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%283%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%287%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kostel svatého Jana Nepomuckého (7).jpg",
+   "author": "Aqalexor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%287%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/690",
@@ -101,10 +125,132 @@
   ],
   "nearest_airport_km": 50.5,
   "distance_beijing_km": 7380.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Koněšín",
+    "name_en": null,
+    "lat": 49.1793382,
+    "lon": 16.0381326,
+    "distance_km": 45.1,
+    "operator": null
+   },
+   {
+    "name": "Třesov",
+    "name_en": null,
+    "lat": 49.165904,
+    "lon": 16.0742605,
+    "distance_km": 47.0,
+    "operator": null
+   },
+   {
+    "name": "Autokemp Wilsonka",
+    "name_en": null,
+    "lat": 49.1567928,
+    "lon": 16.0850886,
+    "distance_km": 48.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Žďár nad Sázavou",
+    "name_en": null,
+    "lat": 49.5537932,
+    "lon": 15.9391698,
+    "distance_km": 2.9,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Sázava u Žďáru",
+    "name_en": null,
+    "lat": 49.5628608,
+    "lon": 15.8474594,
+    "distance_km": 7.1,
+    "operator": "cz:SŽDC"
+   },
+   {
+    "name": "Ostrov nad Oslavou",
+    "name_en": null,
+    "lat": 49.495779,
+    "lon": 15.9919516,
+    "distance_km": 10.0,
+    "operator": "cz:SŽDC"
+   },
+   {
+    "name": "Nové Město na Moravě",
+    "name_en": null,
+    "lat": 49.5685819,
+    "lon": 16.0803386,
+    "distance_km": 10.1,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Přibyslav",
+    "name_en": null,
+    "lat": 49.5697093,
+    "lon": 15.7427931,
+    "distance_km": 14.4,
+    "operator": "cz:SŽDC"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Forest Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.5575103,
+   "lon": 16.3119949,
+   "distance_km": 26.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chateau Herálec",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.5306577,
+   "lon": 15.454491,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "OREA resort Devět skal",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.6680052,
+   "lon": 16.0896445,
+   "distance_km": 14.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Líšenský Dvůr",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.6399495,
+   "lon": 16.1384587,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alzheimer centrum",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.4114587,
+   "lon": 15.5767368,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CZ",
   "country_zh": "捷克",
@@ -177,5 +323,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:53Z"
+ "updated_at": "2026-11-12T12:42:04Z"
 }

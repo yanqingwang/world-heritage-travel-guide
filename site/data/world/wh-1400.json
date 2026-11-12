@@ -2,7 +2,7 @@
  "id": "wh-1400",
  "unesco_id": "1400",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 586,
  "popularity_score": 8538,
  "country": "TD",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1400.jpg",
-   "title": "Lakes of Ounianga",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1400",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ajous_Lake_%2823903561003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ajous Lake (23903561003).jpg",
+   "author": "David Stanley from Nanaimo, Canada",
+   "license": "CC BY 2.0",
+   "credit": "Ajous Lake",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajous_Lake_%2823903561003%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lac_Katam.jpg/1280px-Lac_Katam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lac Katam.jpg",
+   "author": "Jacques Taberlet",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lac_Katam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lac_yoa1.jpg/1280px-Lac_yoa1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lac yoa1.jpg",
+   "author": "Jacques Taberlet",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lac_yoa1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lac_Yoa2.jpg/1280px-Lac_Yoa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lac Yoa2.jpg",
+   "author": "Jacques Taberlet",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lac_Yoa2.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1400",
@@ -165,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:17Z"
+ "updated_at": "2026-11-12T12:42:19Z"
 }

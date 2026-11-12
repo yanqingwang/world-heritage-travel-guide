@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "El Faisan y el Venado",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5792339,
+   "lon": -88.0439573,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Esquivel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5775074,
+   "lon": -88.0459642,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel María José",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.5789616,
+   "lon": -88.0463336,
+   "distance_km": 34.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:50Z"
+}

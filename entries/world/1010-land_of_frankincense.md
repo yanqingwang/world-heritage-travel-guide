@@ -8,13 +8,13 @@ country: "OM"
 country_zh: "阿曼"
 country_en: "Oman"
 unesco_id: "1010"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)(iv)"
 lat: 18.253333333
 lon: 53.647591666
-updated_at: "2026-11-12T12:12:06Z"
+updated_at: "2026-11-12T12:42:12Z"
 ---
 
 # 乳香之路 / Land of Frankincense
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:06Z"
 
 *Ruins6.JPG · see Wikimedia Commons file page*
 
-![Land of Frankincense](https://whc.unesco.org/uploads/sites/site_1010.jpg)
+![Khor Rori, the site of the ancient fortified port city of Sumhuram, was abandoned in the 5th century most likely due to the formation of the sandbar blocking the estuary.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Khor_Rori%2C_the_site_of_the_ancient_fortified_port_city_of_Sumhuram%2C_was_abandoned_in_the_5th_century_most_likely_due_to_the_formation_of_the_sandbar_blocking_the_estuary.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Land of Frankincense · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Khor Rori, the site of the ancient fortified port city of Sumhuram, was abandoned in the 5th century most likely due to the formation of the sandbar blocking the estuary.jpg · Richard N Horne · CC BY-SA 4.0*
+
+![Land of Frankincense-114279.jpg](https://upload.wikimedia.org/wikipedia/commons/4/43/Land_of_Frankincense-114279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Land of Frankincense-114279.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Land of Frankincense-114282.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Land_of_Frankincense-114282.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Land of Frankincense-114282.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Land of Frankincense-118840.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c4/Land_of_Frankincense-118840.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Land of Frankincense-118840.jpg · Giovanni Boccardi · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -52,6 +64,12 @@ The frankincense trees of Wadi Dawkah and the remains of the caravan oasis of Sh
 - ✈ **Salalah International Airport (SLL)** — 143.0 km
 - ✈ **Al Ghaydah International Airport (AAY)** — 277.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6474.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

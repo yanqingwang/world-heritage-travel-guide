@@ -2,7 +2,7 @@
  "id": "wh-1009",
  "unesco_id": "1009",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 552,
  "popularity_score": 9625,
  "country": "BE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1009.jpg",
-   "title": "Notre-Dame Cathedral in Tournai",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1009",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/0_Tournai_-_L%27Escaut%2C_le_beffroi_et_la_cath%C3%A9drale_Notre-Dame.JPG/1280px-0_Tournai_-_L%27Escaut%2C_le_beffroi_et_la_cath%C3%A9drale_Notre-Dame.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 Tournai - L'Escaut, le beffroi et la cathédrale Notre-Dame.JPG",
+   "author": "Jean-Pol GRANDMONT",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Tournai_-_L%27Escaut%2C_le_beffroi_et_la_cath%C3%A9drale_Notre-Dame.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/1198_-_Belgientour_2015_-_Tournai_%2821541013030%29.jpg/1280px-1198_-_Belgientour_2015_-_Tournai_%2821541013030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1198 - Belgientour 2015 - Tournai (21541013030).jpg",
+   "author": "Uwe Brodrecht",
+   "license": "CC BY-SA 2.0",
+   "credit": "1198 - Belgientour 2015 - Tournai",
+   "source": "https://commons.wikimedia.org/wiki/File:1198_-_Belgientour_2015_-_Tournai_%2821541013030%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/25._Tournai_-_Rue_St.-Martin._Beffroi_et_Cath%C3%A9drale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "25. Tournai - Rue St.-Martin. Beffroi et Cathédrale.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "Scanned postcard from Delcampe",
+   "source": "https://commons.wikimedia.org/wiki/File:25._Tournai_-_Rue_St.-Martin._Beffroi_et_Cath%C3%A9drale.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/32._Tournai_1940._-_Rue_Royale_et_Banque_Nationale.jpg/1280px-32._Tournai_1940._-_Rue_Royale_et_Banque_Nationale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "32. Tournai 1940. - Rue Royale et Banque Nationale.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "Scanned postcard from Delcampe",
+   "source": "https://commons.wikimedia.org/wiki/File:32._Tournai_1940._-_Rue_Royale_et_Banque_Nationale.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1009",
@@ -102,10 +126,140 @@
   ],
   "nearest_airport_km": 20.7,
   "distance_beijing_km": 8042.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de plaisance de Wambrechies",
+    "name_en": null,
+    "lat": 50.6869991,
+    "lon": 3.0548923,
+    "distance_km": 25.2,
+    "operator": null
+   },
+   {
+    "name": "Gare d'eau de Dorignies",
+    "name_en": null,
+    "lat": 50.3935242,
+    "lon": 3.0798059,
+    "distance_km": 32.2,
+    "operator": null
+   },
+   {
+    "name": "Halte nautique de Douai",
+    "name_en": null,
+    "lat": 50.3663902,
+    "lon": 3.0745332,
+    "distance_km": 34.7,
+    "operator": "Mairie de Douai"
+   },
+   {
+    "name": "Port de Cantimpré",
+    "name_en": null,
+    "lat": 50.1753724,
+    "lon": 3.2203432,
+    "distance_km": 49.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tournai",
+    "name_en": null,
+    "lat": 50.6129289,
+    "lon": 3.3971195,
+    "distance_km": 0.9,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Froyennes",
+    "name_en": null,
+    "lat": 50.6287177,
+    "lon": 3.3571415,
+    "distance_km": 3.3,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Baisieux",
+    "name_en": null,
+    "lat": 50.6185939,
+    "lon": 3.2346663,
+    "distance_km": 11.0,
+    "operator": null
+   },
+   {
+    "name": "Leuze",
+    "name_en": null,
+    "lat": 50.6005266,
+    "lon": 3.6166291,
+    "distance_km": 16.1,
+    "operator": "NMBS/SNCB"
+   },
+   {
+    "name": "Ascq",
+    "name_en": null,
+    "lat": 50.6219831,
+    "lon": 3.1597439,
+    "distance_km": 16.3,
+    "operator": "SNCF"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Casino Barrière Lille",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6363698,
+   "lon": 3.0776213,
+   "distance_km": 22.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hermitage Gantois",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6312102,
+   "lon": 3.0682487,
+   "distance_km": 22.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Clarance Hôtel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.6389302,
+   "lon": 3.0569405,
+   "distance_km": 23.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Park Inn by Radisson",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Park Inn",
+   "lat": 50.6133131,
+   "lon": 3.133355,
+   "distance_km": 18.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Lille Roubaix - Grand Hôtel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 50.6922598,
+   "lon": 3.1721993,
+   "distance_km": 18.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BE",
   "country_zh": "比利时",
@@ -179,5 +333,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:06Z"
+ "updated_at": "2026-11-12T12:42:12Z"
 }

@@ -8,13 +8,13 @@ country: "BH"
 country_zh: "巴林"
 country_en: "Bahrain"
 unesco_id: "1542"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(iii)(iv)"
 lat: 26.14972222
 lon: 50.51277778
-updated_at: "2026-11-12T12:12:22Z"
+updated_at: "2026-11-12T12:42:22Z"
 ---
 
 # 迪尔穆恩墓葬群 / Dilmun Burial Mounds
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:22Z"
 
 *Burial Mounds in Bahrain 1918.jpg · see Wikimedia Commons file page*
 
-![Dilmun Burial Mounds](https://whc.unesco.org/uploads/sites/site_1542.jpg)
+![A'ali Burial Mounds.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a2/A%27ali_Burial_Mounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Dilmun Burial Mounds · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A'ali Burial Mounds.jpg · Step · CC BY 2.0*
+
+![Bahrein-site 1542 0001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bahrein-site_1542_0001.jpg/1280px-Bahrein-site_1542_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrein-site 1542 0001.jpg · © Think Heritage Author: Melanie Münzner · CC BY-SA 1.0*
+
+![Bahrein-site 1542 0002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bahrein-site_1542_0002.jpg/1280px-Bahrein-site_1542_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrein-site 1542 0002.jpg · © Think Heritage Author: Melanie Münzner · CC BY-SA 1.0*
+
+![Bahrein-site 1542 0005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahrein-site_1542_0005.jpg/1280px-Bahrein-site_1542_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrein-site 1542 0005.jpg · © Think Heritage Author: Melanie Münzner · CC BY-SA 1.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Dilmun Burial Mounds, built between 2200 and 1750 BCE, span over 21 archaeol
 - ✈ **Bahrain International Airport (BAH)** — 18.1 km
 - ✈ **King Fahd International Airport (DMM)** — 79.6 km
 - ✈ **Al-Ahsa International Airport (HOF)** — 140.8 km
+- 🚉 **محطة قطار الدمام** — 48.2 km
+- ⛴ **واتر جاردن سيتي** — 11.0 km
+- ⛴ **هاربر هاوس** — 11.6 km
+- ⛴ **الساحل الشرقي** — 12.6 km
+- ⛴ **فندق الفورسيزونز** — 12.8 km
+- ⛴ **رصيف دلما الافنيوز** — 13.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6185.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Bahrain City Centre Hotel & Residences** — 10.5 km — star — 5★ · Hilton
+- **Algosaibi Hotel** — 34.0 km — star — 5★
+- **Moevenpick Al Khobar** — 35.2 km — star — 5★ · Mövenpick
+- **voco al Khobar, an IHG Hotel** — 35.9 km — star — 5★ · voco
+- **Grand Hyatt Al Khobar Hotel and Residences** — 36.9 km — star — 5★ · Grand Hyatt
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

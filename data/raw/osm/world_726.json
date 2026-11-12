@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "De Bonart Naples, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 40.8368549,
+   "lon": 14.22946,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Corallo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6351832,
+   "lon": 14.3906845,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Cocumella",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6324947,
+   "lon": 14.3900307,
+   "distance_km": 26.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel La Sonrisa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.7134026,
+   "lon": 14.5259076,
+   "distance_km": 26.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel La Pace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.62458,
+   "lon": 14.4010873,
+   "distance_km": 27.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 862,
+ "stations": [
+  {
+   "name": "Napoli Porta Nolana",
+   "name_en": null,
+   "lat": 40.849165,
+   "lon": 14.2691781,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Napoli Piazza Garibaldi",
+   "name_en": null,
+   "lat": 40.8524495,
+   "lon": 14.270471,
+   "distance_km": 0.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Napoli Piazza Cavour",
+   "name_en": null,
+   "lat": 40.8551766,
+   "lon": 14.2545779,
+   "distance_km": 0.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Napoli Garibaldi",
+   "name_en": null,
+   "lat": 40.8510432,
+   "lon": 14.2732815,
+   "distance_km": 0.9,
+   "operator": "Ente Autonomo Volturno"
+  },
+  {
+   "name": "Napoli Centrale",
+   "name_en": "Naples",
+   "lat": 40.8530238,
+   "lon": 14.2731399,
+   "distance_km": 0.9,
+   "operator": "Rete Ferroviaria Italiana;Grandi Stazioni"
+  },
+  {
+   "name": "Montesanto",
+   "name_en": null,
+   "lat": 40.8471695,
+   "lon": 14.2456734,
+   "distance_km": 1.5,
+   "operator": "Ente Autonomo Volturno"
+  },
+  {
+   "name": "Napoli Montesanto",
+   "name_en": null,
+   "lat": 40.8476082,
+   "lon": 14.2439212,
+   "distance_km": 1.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Napoli Centro Direzionale",
+   "name_en": null,
+   "lat": 40.8580791,
+   "lon": 14.2818622,
+   "distance_km": 1.8,
+   "operator": "Ente Autonomo Volturno"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Porta di Massa",
+   "name_en": null,
+   "lat": 40.8430277,
+   "lon": 14.2610723,
+   "distance_km": 0.9,
+   "operator": null
+  },
+  {
+   "name": "Molo Crociere Napoli",
+   "name_en": "Naples Cruise Port",
+   "lat": 40.8381904,
+   "lon": 14.2602186,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "Pier 11",
+   "name_en": null,
+   "lat": 40.8379737,
+   "lon": 14.2555562,
+   "distance_km": 1.6,
+   "operator": null
+  },
+  {
+   "name": "Pier 10",
+   "name_en": null,
+   "lat": 40.8379191,
+   "lon": 14.2552074,
+   "distance_km": 1.6,
+   "operator": null
+  },
+  {
+   "name": "Molo Angioino",
+   "name_en": null,
+   "lat": 40.8376704,
+   "lon": 14.2572892,
+   "distance_km": 1.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:30:40Z"
+}

@@ -2,7 +2,7 @@
  "id": "wh-784",
  "unesco_id": "784",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 522,
  "popularity_score": 10821,
  "country": "AT",
@@ -51,6 +51,14 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:SalzburgerAltstadt02b.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Salzburg_UNESCO_World_Heritage.JPG/1280px-Salzburg_UNESCO_World_Heritage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Salzburg UNESCO World Heritage.JPG",
+   "author": "Nem80",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Salzburg_UNESCO_World_Heritage.JPG"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_784.jpg",
@@ -102,10 +110,148 @@
   ],
   "nearest_airport_km": 3.4,
   "distance_beijing_km": 7687.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Anlegestelle Makartsteg",
+    "name_en": null,
+    "lat": 47.8016685,
+    "lon": 13.0415154,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Anlegestelle Hellbrunn",
+    "name_en": null,
+    "lat": 47.7711454,
+    "lon": 13.0745539,
+    "distance_km": 3.7,
+    "operator": null
+   },
+   {
+    "name": "Anlegestelle Schloss-Fischerei",
+    "name_en": null,
+    "lat": 47.8062389,
+    "lon": 13.2557918,
+    "distance_km": 15.5,
+    "operator": null
+   },
+   {
+    "name": "Obertrum am See",
+    "name_en": null,
+    "lat": 47.942648,
+    "lon": 13.0732363,
+    "distance_km": 16.0,
+    "operator": "Steiner-Nautic"
+   },
+   {
+    "name": "Bootsverleih Stadlmann",
+    "name_en": null,
+    "lat": 47.7976321,
+    "lon": 13.2985506,
+    "distance_km": 18.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Festungsbahn Talstation",
+    "name_en": null,
+    "lat": 47.7964245,
+    "lon": 13.0460338,
+    "distance_km": 0.4,
+    "operator": "Salzburg AG"
+   },
+   {
+    "name": "Festungsbahn Bergstation",
+    "name_en": null,
+    "lat": 47.7948508,
+    "lon": 13.0463561,
+    "distance_km": 0.6,
+    "operator": "Salzburg AG"
+   },
+   {
+    "name": "Salzburg Hauptbahnhof",
+    "name_en": null,
+    "lat": 47.8130618,
+    "lon": 13.045853,
+    "distance_km": 1.5,
+    "operator": "ÖBB-Infrastruktur AG"
+   },
+   {
+    "name": "Salzburg Hauptbahnhof (S-Bahn)",
+    "name_en": null,
+    "lat": 47.8127808,
+    "lon": 13.0445107,
+    "distance_km": 1.5,
+    "operator": "Salzburg AG Verkehr"
+   },
+   {
+    "name": "Salzburg Aigen",
+    "name_en": null,
+    "lat": 47.7885764,
+    "lon": 13.0787463,
+    "distance_km": 2.6,
+    "operator": "ÖBB-Infrastruktur AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Radisson Blu Altstadt Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 47.7997145,
+   "lon": 13.0467262,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sacher",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.8022003,
+   "lon": 13.0432934,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bristol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.8032267,
+   "lon": 13.043801,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Schloss Mönchstein",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.8040563,
+   "lon": 13.0357461,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Seehof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.8153756,
+   "lon": 13.4008764,
+   "distance_km": 26.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AT",
   "country_zh": "奥地利",
@@ -177,5 +323,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:57Z"
+ "updated_at": "2026-11-12T12:42:06Z"
 }

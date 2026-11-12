@@ -2,7 +2,7 @@
  "id": "wh-1116",
  "unesco_id": "1116",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 584,
  "popularity_score": 8555,
  "country": "AR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1116.jpg",
-   "title": "Quebrada de Humahuaca",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1116",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/115-Quebrada_de_Humahuaca.jpg/1280px-115-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "115-Quebrada de Humahuaca.jpg",
+   "author": "miroab",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/44371682@N05/51665377284/",
+   "source": "https://commons.wikimedia.org/wiki/File:115-Quebrada_de_Humahuaca.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/97-Pte_sobre_Rio_Grande_Quebrada_de_Humahuaca.jpg/1280px-97-Pte_sobre_Rio_Grande_Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "97-Pte sobre Rio Grande Quebrada de Humahuaca.jpg",
+   "author": "miroab",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/44371682@N05/51664930598/",
+   "source": "https://commons.wikimedia.org/wiki/File:97-Pte_sobre_Rio_Grande_Quebrada_de_Humahuaca.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/98-Mirador_Lozano_Quebrada_de_Humahuaca.jpg/1280px-98-Mirador_Lozano_Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "98-Mirador Lozano Quebrada de Humahuaca.jpg",
+   "author": "miroab",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/44371682@N05/51664942723/",
+   "source": "https://commons.wikimedia.org/wiki/File:98-Mirador_Lozano_Quebrada_de_Humahuaca.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/99-Quebrada_de_Humahuaca.jpg/1280px-99-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "99-Quebrada de Humahuaca.jpg",
+   "author": "miroab",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/44371682@N05/51663904442/",
+   "source": "https://commons.wikimedia.org/wiki/File:99-Quebrada_de_Humahuaca.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1116",
@@ -103,9 +127,82 @@
   "nearest_airport_km": 135.1,
   "distance_beijing_km": 18263.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Tilcara",
+    "name_en": null,
+    "lat": -23.572831,
+    "lon": -65.3984624,
+    "distance_km": 41.8,
+    "operator": "Provincia de Jujuy"
+   },
+   {
+    "name": "Maimará",
+    "name_en": null,
+    "lat": -23.6281371,
+    "lon": -65.4087086,
+    "distance_km": 48.0,
+    "operator": "Provincia de Jujuy"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Vientonorte",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -23.5778019,
+   "lon": -65.394247,
+   "distance_km": 42.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Solar de la Quebrada",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -23.2052743,
+   "lon": -65.3492559,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Federico III",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -22.7916109,
+   "lon": -65.2159732,
+   "distance_km": 47.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Los Airampos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -23.2019885,
+   "lon": -65.3481985,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostal El Coquena",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -23.2016492,
+   "lon": -65.346373,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AR",
   "country_zh": "阿根廷",
@@ -178,5 +275,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:09Z"
+ "updated_at": "2026-11-12T12:42:13Z"
 }

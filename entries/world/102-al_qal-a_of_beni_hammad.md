@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "102"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(iii)"
 lat: 35.813888888
 lon: 4.793333333
-updated_at: "2026-11-12T12:11:35Z"
+updated_at: "2026-11-12T12:41:53Z"
 ---
 
 # 贝尼•哈玛德的卡拉城 / Al Qal'a of Beni Hammad
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:35Z"
 
 *28-2 Kalâa de Beni Hammad (3).jpg · see Wikimedia Commons file page*
 
-![Al Qal'a of Beni Hammad](https://whc.unesco.org/uploads/sites/site_102.jpg)
+![28-2 Kalâa de Beni Hammad (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/28-2_Kal%C3%A2a_de_Beni_Hammad_%281%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Al Qal'a of Beni Hammad · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*28-2 Kalâa de Beni Hammad (1).jpg · R hakka · CC BY-SA 4.0*
+
+![28-2 Kalâa de Beni Hammad (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/28-2_Kal%C3%A2a_de_Beni_Hammad_%282%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28-2 Kalâa de Beni Hammad (2).jpg · R hakka · CC BY-SA 4.0*
+
+![28-2 Kalâa de Beni Hammad (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/28-2_Kal%C3%A2a_de_Beni_Hammad_%283%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28-2 Kalâa de Beni Hammad (3).jpg · R hakka · CC BY-SA 4.0*
+
+![28-2 Kalâa de Beni Hammad (4) (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/28-2_Kal%C3%A2a_de_Beni_Hammad_%284%29_%28cropped%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28-2 Kalâa de Beni Hammad (4) (cropped).jpg · R hakka · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ In a mountainous site of extraordinary beauty, the ruins of the first capital of
 - ✈ **Ain Arnat Airport (QSF)** — 63.0 km
 - ✈ **Soummam–Abane Ramdane Airport (BJA)** — 103.0 km
 - ✈ **Batna Mostefa Ben Boulaid Airport (BLJ)** — 136.9 km
+- 🚉 **Ouled Derradj** — 15.6 km
+- 🚉 **Medjez** — 18.9 km
+- 🚉 **Berhoum** — 24.0 km
+- 🚉 **El Anasser** — 24.9 km
+- 🚉 **M'Sila** — 27.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9008.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Brainis** — 35.6 km — star — 2★
+- **Hôtel El Kalâa** — 24.2 km — hotel
+- **Marhaba** — 25.6 km — hotel
+- **El-ksob;القصب** — 25.9 km — hotel
+- **فندق الترقي** — 28.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

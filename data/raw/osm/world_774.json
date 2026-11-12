@@ -1,0 +1,48 @@
+{
+ "hotels": [],
+ "hotels_nearby_50km": 0,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Änonjálmme",
+   "name_en": null,
+   "lat": 67.6472487,
+   "lon": 17.3699408,
+   "distance_km": 36.1,
+   "operator": null
+  },
+  {
+   "name": "Saltoluokta",
+   "name_en": null,
+   "lat": 67.3960635,
+   "lon": 18.5235963,
+   "distance_km": 40.8,
+   "operator": null
+  },
+  {
+   "name": "Vaisaluokta",
+   "name_en": null,
+   "lat": 67.688274,
+   "lon": 17.2532852,
+   "distance_km": 41.9,
+   "operator": null
+  },
+  {
+   "name": "Kebnats",
+   "name_en": null,
+   "lat": 67.4127082,
+   "lon": 18.5423232,
+   "distance_km": 42.0,
+   "operator": null
+  },
+  {
+   "name": "Båttrafik Kvikkjokk",
+   "name_en": "Boat tours Kvikkjokk",
+   "lat": 66.9501108,
+   "lon": 17.7173966,
+   "distance_km": 43.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:08Z"
+}

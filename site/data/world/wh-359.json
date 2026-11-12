@@ -2,7 +2,7 @@
  "id": "wh-359",
  "unesco_id": "359",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 501,
  "popularity_score": 11649,
  "country": "BG",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_359.jpg",
-   "title": "Thracian Tomb of Sveshtari",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/359",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Helis_southern_entrance_1277.jpg/1280px-Helis_southern_entrance_1277.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Helis southern entrance 1277.jpg",
+   "author": "The original uploader was Octopus at Slovenian Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "own work by the original uploader",
+   "source": "https://commons.wikimedia.org/wiki/File:Helis_southern_entrance_1277.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Sveshtari_Thracian_tomb_Bulgaria_IFB.JPG/1280px-Sveshtari_Thracian_tomb_Bulgaria_IFB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sveshtari Thracian tomb Bulgaria IFB.JPG",
+   "author": "",
+   "license": "CC BY 2.5",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Sveshtari_Thracian_tomb_Bulgaria_IFB.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sveshtari_Thracian_%D0%A2omb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Sveshtari Thracian Тomb.jpg",
+   "author": "Николай Генов",
+   "license": "CC BY 3.0",
+   "credit": "Свещарска гробница - Institute of Balkan Studies with Center for Thracology, Bulgaria - CC BY. https://www.europeana.eu/bg/item/2021502/jspui_handle_pub_594",
+   "source": "https://commons.wikimedia.org/wiki/File:Sveshtari_Thracian_%D0%A2omb.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/SveshtariTumulus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "SveshtariTumulus.jpg",
+   "author": "Edal Anton Lefterov",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:SveshtariTumulus.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/359",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 99.6,
   "distance_beijing_km": 7057.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Исперих",
+    "name_en": null,
+    "lat": 43.7041032,
+    "lon": 26.8346109,
+    "distance_km": 7.1,
+    "operator": null
+   },
+   {
+    "name": "Голям Поровец",
+    "name_en": null,
+    "lat": 43.6674487,
+    "lon": 26.8038894,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "Китанчево",
+    "name_en": null,
+    "lat": 43.7244595,
+    "lon": 26.8893065,
+    "distance_km": 10.1,
+    "operator": null
+   },
+   {
+    "name": "Ясеновец",
+    "name_en": null,
+    "lat": 43.5490808,
+    "lon": 26.6331866,
+    "distance_km": 24.3,
+    "operator": null
+   },
+   {
+    "name": "Просторно",
+    "name_en": "Prostorno",
+    "lat": 43.6432193,
+    "lon": 26.4806738,
+    "distance_km": 25.6,
+    "operator": "НКЖИ"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Edelis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.7146176,
+   "lon": 26.8290095,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Мимоза",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.5338808,
+   "lon": 26.5255611,
+   "distance_km": 30.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Интеррум",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.530405,
+   "lon": 26.519317,
+   "distance_km": 31.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Централ",
+   "name_en": "Hotel Central",
+   "stars": null,
+   "brand": null,
+   "lat": 43.5282212,
+   "lon": 26.522015,
+   "distance_km": 31.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gallery",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.8240589,
+   "lon": 27.1408924,
+   "distance_km": 31.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BG",
   "country_zh": "保加利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:44Z"
+ "updated_at": "2026-11-12T12:41:58Z"
 }

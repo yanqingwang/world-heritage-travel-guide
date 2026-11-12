@@ -2,7 +2,7 @@
  "id": "wh-1670",
  "unesco_id": "1670",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 526,
  "popularity_score": 10759,
  "country": "IN",
@@ -77,12 +77,12 @@
    "source": "https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_eastern_entrance_with_two_Garuda_in_namaste_pose_and_celestial_dancers.jpg"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1670.jpg",
-   "title": "Sacred Ensembles of the Hoysalas",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1670",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_exterior_Shiva_Nataraja_on_right_panel.jpg/1280px-12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_exterior_Shiva_Nataraja_on_right_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "12th-century Belur Vaishnavism Hindu temples complex, main shrine exterior Shiva Nataraja on right panel.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_exterior_Shiva_Nataraja_on_right_panel.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1670",
@@ -127,9 +127,106 @@
   "nearest_airport_km": 123.3,
   "distance_beijing_km": 5057.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Chikkamagaluru",
+    "name_en": null,
+    "lat": 13.3032152,
+    "lon": 75.7887158,
+    "distance_km": 24.4,
+    "operator": "SWR"
+   },
+   {
+    "name": "Sakharayapatna",
+    "name_en": null,
+    "lat": 13.4299605,
+    "lon": 75.9278539,
+    "distance_km": 25.2,
+    "operator": "SWR"
+   },
+   {
+    "name": "Koravangala",
+    "name_en": null,
+    "lat": 13.0533768,
+    "lon": 76.1600621,
+    "distance_km": 25.2,
+    "operator": "SWR"
+   },
+   {
+    "name": "Alur",
+    "name_en": null,
+    "lat": 12.9817317,
+    "lon": 76.0004054,
+    "distance_km": 25.7,
+    "operator": "SWR"
+   },
+   {
+    "name": "Banavar",
+    "name_en": null,
+    "lat": 13.3958245,
+    "lon": 76.140481,
+    "distance_km": 25.8,
+    "operator": "SWR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Gateway Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Taj Hotels",
+   "lat": 13.3361739,
+   "lon": 75.8172786,
+   "distance_km": 23.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ashhok Hassan",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 13.0020016,
+   "lon": 76.1021032,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palguni Residency",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 13.0086413,
+   "lon": 76.1025832,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sri Krishna",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 13.0024014,
+   "lon": 76.1084076,
+   "distance_km": 26.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eco Holiday Home",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.4262331,
+   "lon": 75.7515144,
+   "distance_km": 35.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -203,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:27Z"
+ "updated_at": "2026-11-12T12:42:24Z"
 }

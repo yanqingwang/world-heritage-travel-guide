@@ -8,13 +8,13 @@ country: "OM"
 country_zh: "阿曼"
 country_en: "Oman"
 unesco_id: "1207"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(v)"
 lat: 22.998889
 lon: 57.536056
-updated_at: "2026-11-12T12:12:11Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 阿曼的阿夫拉贾灌溉体系 / Aflaj Irrigation Systems of Oman
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:11Z"
 
 *FalajDaris.JPG · see Wikimedia Commons file page*
 
-![<i>Aflaj</i> Irrigation Systems of Oman](https://whc.unesco.org/uploads/sites/site_1207.jpg)
+!["Falaj" irrigationsystem - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%22Falaj%22_irrigationsystem_-_panoramio.jpg/1280px-%22Falaj%22_irrigationsystem_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*<i>Aflaj</i> Irrigation Systems of Oman · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Falaj" irrigationsystem - panoramio.jpg · Paul IJpelaar · CC BY 3.0*
+
+!["The Falaj" - Traditional irrigation system 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%22The_Falaj%22_-_Traditional_irrigation_system_02.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"The Falaj" - Traditional irrigation system 02.jpg · Altaf Habib · CC BY-SA 4.0*
+
+!["The Falaj" - Traditional irrigation system 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%22The_Falaj%22_-_Traditional_irrigation_system_03.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"The Falaj" - Traditional irrigation system 03.jpg · Altaf Habib · CC BY-SA 4.0*
+
+!["The Falaj" - Traditional irrigation system 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%22The_Falaj%22_-_Traditional_irrigation_system_04.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"The Falaj" - Traditional irrigation system 04.jpg · Altaf Habib · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The property includes five aflaj irrigation systems and is representative of som
 - ✈ **Suhar International Airport (OHS)** — 180.0 km
 - ✈ **Al Ain International Airport (AAN)** — 241.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5696.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Anantara Al Jabal Al Akhdar Resort** — 15.7 km — star — 5★
+- **Alila Jabal Akhdar** — 15.9 km — star — 5★ · Alila
+- **جولدن توليب** — 11.8 km — star — Golden Tulip Nizwa · 4★ · Golden Tulip
+- **Sahab Hotel** — 15.8 km — star — 4★
+- **Falaj Daris** — 11.5 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

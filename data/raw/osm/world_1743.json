@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Акбузат",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0349087,
+   "lon": 57.0842574,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Акбулат",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0747988,
+   "lon": 57.1328799,
+   "distance_km": 5.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Турбаза БУРЗЯН",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.9634692,
+   "lon": 57.0289005,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Юлбарс",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0020248,
+   "lon": 56.536833,
+   "distance_km": 35.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "База отдыха \"Дубрава\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0927001,
+   "lon": 56.4389745,
+   "distance_km": 42.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:35:01Z"
+}

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "رمال عبري الشقق الفندقية",
+   "name_en": "Remal Ibri Hotel",
+   "stars": 2,
+   "brand": null,
+   "lat": 23.2164212,
+   "lon": 56.4735296,
+   "distance_km": 28.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibri Oasis Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 23.2488629,
+   "lon": 56.4141596,
+   "distance_km": 33.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "F&M Grand Hotel",
+   "name_en": "F&M Grand Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 23.2204742,
+   "lon": 56.5163298,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق المجد",
+   "name_en": "Al Majd Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 23.2154939,
+   "lon": 56.486492,
+   "distance_km": 27.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ALNEBRAS HOTEL",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.1892074,
+   "lon": 56.4772818,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 9,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:49Z"
+}

@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1127"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(i)(iv)"
 lat: 51.547559
 lon: 14.723229
-updated_at: "2026-11-12T12:12:09Z"
+updated_at: "2026-11-12T12:42:14Z"
 ---
 
 # 穆斯考尔公园 / Muskauer Park / Park Mużakowski
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:09Z"
 
 *1024 2012-1-sept-5088.jpg · see Wikimedia Commons file page*
 
-![Muskauer Park / Park Mużakowski](https://whc.unesco.org/uploads/sites/site_1127.jpg)
+![20030524030DR Bad Muskau Fürst Pückler Park Schlösser.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/20030524030DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Schl%C3%B6sser.jpg/1280px-20030524030DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Schl%C3%B6sser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Muskauer Park / Park Mużakowski · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20030524030DR Bad Muskau Fürst Pückler Park Schlösser.jpg · Jörg Blobelt · CC BY-SA 4.0*
+
+![20030524060DR Bad Muskau Fürst Pückler Park Neues Schloß.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20030524060DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Neues_Schlo%C3%9F.jpg/1280px-20030524060DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Neues_Schlo%C3%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20030524060DR Bad Muskau Fürst Pückler Park Neues Schloß.jpg · Jörg Blobelt · CC BY-SA 4.0*
+
+![20030524070DR Bad Muskau Fürst Pückler Park Baumstubben.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20030524070DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Baumstubben.jpg/1280px-20030524070DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Baumstubben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20030524070DR Bad Muskau Fürst Pückler Park Baumstubben.jpg · Jörg Blobelt · CC BY-SA 4.0*
+
+![20030524090DR Bad Muskau Fürst Pückler Park Neues Schloß.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/20030524090DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Neues_Schlo%C3%9F.jpg/1280px-20030524090DR_Bad_Muskau_F%C3%BCrst_P%C3%BCckler_Park_Neues_Schlo%C3%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20030524090DR Bad Muskau Fürst Pückler Park Neues Schloß.jpg · Jörg Blobelt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Der Fürst-Pückler-Park Bad Muskau (polnisch Park Mużakowski) ist ein Landscha
 - ✈ **Dresden Airport (DRS)** — 80.7 km
 - ✈ **Zielona Góra-Babimost Airport (IEG)** — 98.9 km
 - ✈ **Berlin Brandenburg Airport (BER)** — 123.3 km
+- 🚉 **Bad Muskau** — 1.1 km
+- 🚉 **Krauschwitz / Baierweiche** — 2.6 km
+- 🚉 **Weißwasser - Ost** — 5.7 km
+- 🚉 **Weißwasser Museumsbahnhof Anlage Mitte** — 6.5 km
+- 🚉 **Kromlau Waldeisenbahn** — 6.8 km
+- ⛴ **Schiffsanleger Geierswalde** — 41.5 km
+- ⛴ **Wassersportzentrum Lausitzer Seenland** — 42.6 km
+- ⛴ **Schmogrow Hafen lll** — 48.2 km
+- ⛴ **Stadthafen Senftenberg Seebrücke** — 49.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7421.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kulturhotel Fürst Pückler** — 0.2 km — star — 4★
+- **Hotel Kristall** — 7.7 km — star — 4★
+- **AKZENT Congresshotel** — 34.1 km — star — 4★
+- **SORAT Hotel** — 35.7 km — star — 4★ · SORAT
+- **Christinenhof & Spa** — 43.0 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

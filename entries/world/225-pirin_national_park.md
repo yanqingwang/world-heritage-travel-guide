@@ -8,13 +8,13 @@ country: "BG"
 country_zh: "保加利亚"
 country_en: "Bulgaria"
 unesco_id: "225"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1983"
 criteria: "(vii)(viii)(ix)"
 lat: 41.672222222
 lon: 23.487777777
-updated_at: "2026-11-12T12:11:40Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 皮林国家公园 / Pirin National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:40Z"
 
 *Bansko ski 2025 28.jpg · see Wikimedia Commons file page*
 
-![Pirin National Park](https://whc.unesco.org/uploads/sites/site_225.jpg)
+![Банско November 2012 - panoramio (92).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%91%D0%B0%D0%BD%D1%81%D0%BA%D0%BE_November_2012_-_panoramio_%2892%29.jpg/1280px-%D0%91%D0%B0%D0%BD%D1%81%D0%BA%D0%BE_November_2012_-_panoramio_%2892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Pirin National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Банско November 2012 - panoramio (92).jpg · Nikolai Karaneschev · CC BY 3.0*
+
+![A Summer Walk 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_Summer_Walk_1.jpg/1280px-A_Summer_Walk_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Summer Walk 1.jpg · Elitsa Popova · CC BY-SA 4.0*
+
+![A Summer Walk 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/A_Summer_Walk_2.jpg/1280px-A_Summer_Walk_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Summer Walk 2.jpg · Elitsa Popova · CC BY-SA 4.0*
+
+![A view from Vihren path towards Hvoinati Peak and Muratov.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f0/A_view_from_Vihren_path_towards_Hvoinati_Peak_and_Muratov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A view from Vihren path towards Hvoinati Peak and Muratov.jpg · Bardolomeus · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in
 - ✈ **Sofia Airport (SOF)** — 114.0 km
 - ✈ **Plovdiv International Airport (PDV)** — 121.1 km
 - ✈ **Kavala Alexander the Great International Airport (KVA)** — 126.7 km
+- 🚉 **Добринище** — 18.1 km
+- 🚉 **Банско** — 19.1 km
+- 🚉 **Разлог** — 23.2 km
+- 🚉 **Струмяни** — 24.2 km
+- 🚉 **Сандански** — 24.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7347.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Апартхотел Лъки Банско спа & релакс** — 19.0 km — star — Aparthotel Lucky Bansko Spa & Relax · 5★
+- **Св. Иван Рилски СПА Ризорт** — 16.8 km — star — St. Ivan Rilski SPA Resort · 4★
+- **Vihren Palace** — 17.5 km — star — 4★
+- **Орбел** — 17.6 km — star — 4★
+- **Riverside** — 18.6 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,7 +2,7 @@
  "id": "wh-557",
  "unesco_id": "557",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 514,
  "popularity_score": 11055,
  "country": "SE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_557.jpg",
-   "title": "Rock Carvings in Tanum",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/557",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bro_utmark_-_KMB_-_16000300029215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bro utmark - KMB - 16000300029215.jpg",
+   "author": "Bengt A. Lundberg",
+   "license": "CC BY 2.5",
+   "credit": "Bengt A Lundberg / Kulturmiljöbild, Riksantikvarieämbetet This file was provided to Wikimedia Commons by the Swedish National Heritage Board as part of the coop",
+   "source": "https://commons.wikimedia.org/wiki/File:Bro_utmark_-_KMB_-_16000300029215.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bro_utmark_-_KMB_-_16000300029295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bro utmark - KMB - 16000300029295.jpg",
+   "author": "Bengt A. Lundberg",
+   "license": "CC BY 2.5",
+   "credit": "Bengt A Lundberg / Kulturmiljöbild, Riksantikvarieämbetet This file was provided to Wikimedia Commons by the Swedish National Heritage Board as part of the coop",
+   "source": "https://commons.wikimedia.org/wiki/File:Bro_utmark_-_KMB_-_16000300029295.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bro_utmark_-_KMB_-_16000300029297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bro utmark - KMB - 16000300029297.jpg",
+   "author": "Bengt A. Lundberg",
+   "license": "CC BY 2.5",
+   "credit": "Bengt A Lundberg / Kulturmiljöbild, Riksantikvarieämbetet This file was provided to Wikimedia Commons by the Swedish National Heritage Board as part of the coop",
+   "source": "https://commons.wikimedia.org/wiki/File:Bro_utmark_-_KMB_-_16000300029297.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bro_utmark_-_KMB_-_16000300029298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bro utmark - KMB - 16000300029298.jpg",
+   "author": "Bengt A. Lundberg",
+   "license": "CC BY 2.5",
+   "credit": "Bengt A Lundberg / Kulturmiljöbild, Riksantikvarieämbetet This file was provided to Wikimedia Commons by the Swedish National Heritage Board as part of the coop",
+   "source": "https://commons.wikimedia.org/wiki/File:Bro_utmark_-_KMB_-_16000300029298.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/557",
@@ -101,10 +125,148 @@
   ],
   "nearest_airport_km": 72.4,
   "distance_beijing_km": 7040.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bohuslänska Jaktklubben",
+    "name_en": null,
+    "lat": 58.6845753,
+    "lon": 11.2555468,
+    "distance_km": 5.0,
+    "operator": null
+   },
+   {
+    "name": "Fiskhamn",
+    "name_en": null,
+    "lat": 58.8009754,
+    "lon": 11.1644831,
+    "distance_km": 15.0,
+    "operator": null
+   },
+   {
+    "name": "Hamburgsund",
+    "name_en": null,
+    "lat": 58.5524516,
+    "lon": 11.2687614,
+    "distance_km": 16.9,
+    "operator": "Trafikverket"
+   },
+   {
+    "name": "Hamburgö",
+    "name_en": null,
+    "lat": 58.5524484,
+    "lon": 11.2663874,
+    "distance_km": 16.9,
+    "operator": "Trafikverket"
+   },
+   {
+    "name": "Kilesand",
+    "name_en": null,
+    "lat": 58.8784962,
+    "lon": 11.0528017,
+    "distance_km": 25.7,
+    "operator": "Koster Marin AB"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tanum",
+    "name_en": null,
+    "lat": 58.7136867,
+    "lon": 11.2957719,
+    "distance_km": 2.8,
+    "operator": null
+   },
+   {
+    "name": "Rabbalshede",
+    "name_en": null,
+    "lat": 58.6100716,
+    "lon": 11.4709228,
+    "distance_km": 12.7,
+    "operator": null
+   },
+   {
+    "name": "Överby",
+    "name_en": null,
+    "lat": 58.8432101,
+    "lon": 11.2597713,
+    "distance_km": 16.5,
+    "operator": null
+   },
+   {
+    "name": "Hällevadsholm",
+    "name_en": null,
+    "lat": 58.5800333,
+    "lon": 11.5353629,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "Dingle",
+    "name_en": null,
+    "lat": 58.5296606,
+    "lon": 11.5793364,
+    "distance_km": 23.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Tillfälligt boende för asylsökande",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.7149706,
+   "lon": 11.3370724,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tanums Gestgifveri",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.722181,
+   "lon": 11.3241742,
+   "distance_km": 2.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tanumstrand",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.672982,
+   "lon": 11.2639397,
+   "distance_km": 5.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fjällbacka Pensionat och Vandrarhem",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.5995197,
+   "lon": 11.2851846,
+   "distance_km": 11.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stora Hotellet",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.5983935,
+   "lon": 11.2828525,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SE",
   "country_zh": "瑞典",
@@ -176,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:49Z"
+ "updated_at": "2026-11-12T12:42:01Z"
 }

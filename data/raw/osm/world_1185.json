@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Standard Brussels",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 50.8620795,
+   "lon": 4.3575669,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Plaza Brussels",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.8544818,
+   "lon": 4.3562359,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tangla Hotel Brussels",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.8527191,
+   "lon": 4.4489949,
+   "distance_km": 40.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Juliana",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Juliana",
+   "lat": 50.8516517,
+   "lon": 4.3557418,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Collection Grand Place Brussels",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Collection",
+   "lat": 50.8494664,
+   "lon": 4.3564427,
+   "distance_km": 41.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 527,
+ "stations": [
+  {
+   "name": "Antwerpen-Centraal",
+   "name_en": null,
+   "lat": 51.2159949,
+   "lon": 4.4211011,
+   "distance_km": 1.6,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Antwerpen-Zuid",
+   "name_en": null,
+   "lat": 51.1975124,
+   "lon": 4.3909634,
+   "distance_km": 2.4,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Antwerpen-Berchem",
+   "name_en": null,
+   "lat": 51.1997015,
+   "lon": 4.4323348,
+   "distance_km": 3.2,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Antwerpen-Luchtbal",
+   "name_en": null,
+   "lat": 51.2443659,
+   "lon": 4.4248963,
+   "distance_km": 3.4,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Zwijndrecht",
+   "name_en": null,
+   "lat": 51.2141489,
+   "lon": 4.3306372,
+   "distance_km": 4.7,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Antwerpen-Noorderdokken",
+   "name_en": null,
+   "lat": 51.2613595,
+   "lon": 4.42776,
+   "distance_km": 5.2,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Mortsel",
+   "name_en": null,
+   "lat": 51.1831225,
+   "lon": 4.4472516,
+   "distance_km": 5.2,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Hoboken-Polder",
+   "name_en": null,
+   "lat": 51.1829633,
+   "lon": 4.3483807,
+   "distance_km": 5.2,
+   "operator": "NMBS/SNCB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Steenplein",
+   "name_en": null,
+   "lat": 51.2216347,
+   "lon": 4.3956152,
+   "distance_km": 0.4,
+   "operator": "DeWaterbus"
+  },
+  {
+   "name": "Sint-Anna",
+   "name_en": null,
+   "lat": 51.2244338,
+   "lon": 4.3926336,
+   "distance_km": 0.8,
+   "operator": "VLOOT"
+  },
+  {
+   "name": "Jachthaven Willemdok",
+   "name_en": null,
+   "lat": 51.2287714,
+   "lon": 4.4085424,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Jachthaven Linkeroever",
+   "name_en": null,
+   "lat": 51.2303873,
+   "lon": 4.3935842,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Sint Anna",
+   "name_en": null,
+   "lat": 51.2339794,
+   "lon": 4.3972368,
+   "distance_km": 1.7,
+   "operator": "DeWaterbus"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:32:33Z"
+}

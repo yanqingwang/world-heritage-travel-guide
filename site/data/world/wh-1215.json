@@ -2,7 +2,7 @@
  "id": "wh-1215",
  "unesco_id": "1215",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 570,
  "popularity_score": 9227,
  "country": "GB",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1215.jpg",
-   "title": "Cornwall and West Devon Mining Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1215",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_Mill_At_The_412%2C_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png/1280px-A_Mill_At_The_412%2C_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Mill At The 412, Dolcoath Mine - J C Burrow, 1893.png",
+   "author": "Mellangoose",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Mill_At_The_412%2C_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_Rock-Drill_End%2C_East_Pool_Mine_-_J_C_Burrows%2C_1893.png/1280px-A_Rock-Drill_End%2C_East_Pool_Mine_-_J_C_Burrows%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Rock-Drill End, East Pool Mine - J C Burrows, 1893.png",
+   "author": "Mellangoose",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Rock-Drill_End%2C_East_Pool_Mine_-_J_C_Burrows%2C_1893.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Above_The_406%2C_Cook%27s_Kitchen_Mine_-_J_C_Burrows%2C_1893.png/1280px-Above_The_406%2C_Cook%27s_Kitchen_Mine_-_J_C_Burrows%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Above The 406, Cook's Kitchen Mine - J C Burrows, 1893.png",
+   "author": "Mellangoose",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Above_The_406%2C_Cook%27s_Kitchen_Mine_-_J_C_Burrows%2C_1893.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Balance_Box_At_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png/1280px-Balance_Box_At_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Balance Box At Dolcoath Mine - J C Burrow, 1893.png",
+   "author": "Mellangoose",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Balance_Box_At_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1215",
@@ -100,10 +124,148 @@
   ],
   "nearest_airport_km": 20.8,
   "distance_beijing_km": 8515.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Gwelva",
+    "name_en": null,
+    "lat": 50.1224378,
+    "lon": -5.4735973,
+    "distance_km": 6.6,
+    "operator": null
+   },
+   {
+    "name": "St.Michael's Mount",
+    "name_en": null,
+    "lat": 50.119796,
+    "lon": -5.477661,
+    "distance_km": 6.9,
+    "operator": null
+   },
+   {
+    "name": "Isles of Scilly ferry",
+    "name_en": null,
+    "lat": 50.1177192,
+    "lon": -5.5279854,
+    "distance_km": 10.5,
+    "operator": null
+   },
+   {
+    "name": "Penzance",
+    "name_en": null,
+    "lat": 50.1169244,
+    "lon": -5.5303758,
+    "distance_km": 10.7,
+    "operator": null
+   },
+   {
+    "name": "St Ives Harbour",
+    "name_en": null,
+    "lat": 50.2135617,
+    "lon": -5.4782679,
+    "distance_km": 10.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "St Erth",
+    "name_en": null,
+    "lat": 50.1705718,
+    "lon": -5.4439212,
+    "distance_km": 5.8,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Hayle",
+    "name_en": null,
+    "lat": 50.1855434,
+    "lon": -5.4199282,
+    "distance_km": 6.1,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Prospidnick Halt",
+    "name_en": null,
+    "lat": 50.1321831,
+    "lon": -5.296425,
+    "distance_km": 6.2,
+    "operator": "Helston Railway"
+   },
+   {
+    "name": "Lelant Saltings",
+    "name_en": null,
+    "lat": 50.1785858,
+    "lon": -5.441159,
+    "distance_km": 6.3,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Lelant",
+    "name_en": null,
+    "lat": 50.183992,
+    "lon": -5.436555,
+    "distance_km": 6.5,
+    "operator": "Great Western Railway"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Nare Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.2074693,
+   "lon": -4.9396945,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mullion Cove Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.0169031,
+   "lon": -5.2576909,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "St Michael's Hotel & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.1460284,
+   "lon": -5.0691429,
+   "distance_km": 22.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Garrack Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 50.2132149,
+   "lon": -5.4932414,
+   "distance_km": 11.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ayia Napa Holidays",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.182968,
+   "lon": -5.4422818,
+   "distance_km": 6.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -175,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:12Z"
+ "updated_at": "2026-11-12T12:42:16Z"
 }

@@ -8,13 +8,13 @@ country: "OM"
 country_zh: "阿曼"
 country_en: "Oman"
 unesco_id: "434"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(iii)(iv)"
 lat: 23.27
 lon: 56.745
-updated_at: "2026-11-12T12:11:47Z"
+updated_at: "2026-11-12T12:41:59Z"
 ---
 
 # 巴特•库特姆和艾因考古遗址 / Archaeological Sites of Bat, Al-Khutm and Al-Ayn
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:47Z"
 
 *World Heritage Grave Al Ayn Oman.JPG · see Wikimedia Commons file page*
 
-![Archaeological Sites of Bat, Al-Khutm and Al-Ayn](https://whc.unesco.org/uploads/sites/site_434.jpg)
+![Al Ayn Beehive Tombs UNESCO Oman.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Al_Ayn_Beehive_Tombs_UNESCO_Oman.jpg/1280px-Al_Ayn_Beehive_Tombs_UNESCO_Oman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Sites of Bat, Al-Khutm and Al-Ayn · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Al Ayn Beehive Tombs UNESCO Oman.jpg · Esra1993 · CC BY-SA 4.0*
+
+![Al Ayn, tombs (6871088461).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Al_Ayn%2C_tombs_%286871088461%29.jpg/1280px-Al_Ayn%2C_tombs_%286871088461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al Ayn, tombs (6871088461).jpg · Arian Zwegers · CC BY 2.0*
+
+![Bat Al Ayn Beehive Tombs UNESCO Oman.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Bat_Al_Ayn_Beehive_Tombs_UNESCO_Oman.jpg/1280px-Bat_Al_Ayn_Beehive_Tombs_UNESCO_Oman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bat Al Ayn Beehive Tombs UNESCO Oman.jpg · Esra1993 · CC BY-SA 4.0*
+
+![Bat Oman.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bat_Oman.jpg/1280px-Bat_Oman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bat Oman.jpg · Stefan Krasowski · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The protohistoric site of Bat lies near a palm grove in the interior of the Sult
 - ✈ **Al Ain International Airport (AAN)** — 159.7 km
 - ✈ **Muscat International Airport (MCT)** — 161.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5789.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **رمال عبري الشقق الفندقية** — 28.4 km — star — Remal Ibri Hotel · 2★
+- **Ibri Oasis Hotel** — 33.9 km — star — 1★
+- **F&M Grand Hotel** — 24.0 km — hotel — F&M Grand Hotel
+- **فندق المجد** — 27.1 km — hotel — Al Majd Hotel
+- **ALNEBRAS HOTEL** — 28.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

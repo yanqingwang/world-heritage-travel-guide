@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1468"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(iii)(iv)"
 lat: 55.356667
 lon: 9.483056
-updated_at: "2026-11-12T12:12:19Z"
+updated_at: "2026-11-12T12:42:20Z"
 ---
 
 # 摩拉维亚居留区 / Moravian Church Settlements
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T12:12:19Z"
 ![Lindegade, Christiansfeld 2023 SV 1.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Lindegade%2C%20Christiansfeld%202023%20SV%201.jpg?width=1280)
 
 *Lindegade, Christiansfeld 2023 SV 1.jpg · see Wikimedia Commons file page*
+
+![Coat of arms of Christiansfeld.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_Christiansfeld.svg/1280px-Coat_of_arms_of_Christiansfeld.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Coat of arms of Christiansfeld.svg · CC BY-SA 4.0*
 
 ![Moravian Church Settlements](https://whc.unesco.org/uploads/sites/site_1468.jpg)
 
@@ -52,7 +56,27 @@ Christiansfeld ist ein Ort in Sønderjylland, Dänemark. Er liegt zwischen den S
 - ✈ **Billund Airport (BLL)** — 47.3 km
 - ✈ **Sønderborg Airport (SGD)** — 47.8 km
 - ✈ **Odense Hans Christian Andersen Airport (ODE)** — 54.9 km
+- 🚉 **Haderslev Vest** — 11.7 km
+- 🚉 **Vamdrup** — 14.7 km
+- 🚉 **Kolding** — 14.9 km
+- 🚉 **Vojens** — 16.5 km
+- 🚉 **Lunderskov** — 17.8 km
+- ⛴ **Inderdammen** — 11.8 km
+- ⛴ **Haderslev Vandrerhjem** — 12.4 km
+- ⛴ **Damende** — 14.3 km
+- ⛴ **Bergs Plads** — 14.3 km
+- ⛴ **Inderhavnen** — 14.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7364.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Fredericia** — 28.8 km — star — 4★
+- **Munkebjerg Hotel** — 37.7 km — star — 4★
+- **Milling Hotel Vejle** — 38.9 km — star — 4★
+- **Hotel Dagmar** — 45.7 km — star — 4★
+- **Best Western Torvehallerne** — 39.1 km — chain — Best Western
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

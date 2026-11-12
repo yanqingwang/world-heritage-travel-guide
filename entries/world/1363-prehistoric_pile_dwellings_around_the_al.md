@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iv)(v)"
 lat: 47.674596574
 lon: 9.120991545
-updated_at: "2026-11-12T12:12:16Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 阿尔卑斯地区史前湖岸木桩建筑 / Prehistoric Pile Dwellings around the Alps

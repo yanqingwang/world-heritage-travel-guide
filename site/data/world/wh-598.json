@@ -2,7 +2,7 @@
  "id": "wh-598",
  "unesco_id": "598",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 529,
  "popularity_score": 10633,
  "country": "RO",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_598.jpg",
-   "title": "Churches of Moldavia",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/598",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Arbore_%281%29_%287013721927%29.jpg/1280px-Arbore_%281%29_%287013721927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arbore (1) (7013721927).jpg",
+   "author": "KLMircea",
+   "license": "CC BY-SA 2.0",
+   "credit": "Arbore (1)",
+   "source": "https://commons.wikimedia.org/wiki/File:Arbore_%281%29_%287013721927%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arbore_%2818%29_%287013719883%29.jpg/1280px-Arbore_%2818%29_%287013719883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arbore (18) (7013719883).jpg",
+   "author": "KLMircea from Focsani, Romania",
+   "license": "CC BY-SA 2.0",
+   "credit": "Arbore (18)",
+   "source": "https://commons.wikimedia.org/wiki/File:Arbore_%2818%29_%287013719883%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Arbore_%282%29_%286867611150%29.jpg/1280px-Arbore_%282%29_%286867611150%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arbore (2) (6867611150).jpg",
+   "author": "KLMircea from Focsani, Romania",
+   "license": "CC BY-SA 2.0",
+   "credit": "Arbore (2)",
+   "source": "https://commons.wikimedia.org/wiki/File:Arbore_%282%29_%286867611150%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Arbore_%2822%29_%286867608010%29.jpg/1280px-Arbore_%2822%29_%286867608010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arbore (22) (6867608010).jpg",
+   "author": "KLMircea from Focsani, Romania",
+   "license": "CC BY-SA 2.0",
+   "credit": "Arbore (22)",
+   "source": "https://commons.wikimedia.org/wiki/File:Arbore_%2822%29_%286867608010%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/598",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 31.9,
   "distance_beijing_km": 6861.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Milișăuți",
+    "name_en": null,
+    "lat": 47.7730482,
+    "lon": 26.0516485,
+    "distance_km": 9.9,
+    "operator": "CFR"
+   },
+   {
+    "name": "Cacica",
+    "name_en": null,
+    "lat": 47.6386752,
+    "lon": 25.9299564,
+    "distance_km": 10.5,
+    "operator": "CFR"
+   },
+   {
+    "name": "Rădăuți",
+    "name_en": null,
+    "lat": 47.8395728,
+    "lon": 25.9093297,
+    "distance_km": 12.0,
+    "operator": "CFR"
+   },
+   {
+    "name": "Virfu Dealului",
+    "name_en": null,
+    "lat": 47.5993076,
+    "lon": 25.9382935,
+    "distance_km": 14.9,
+    "operator": null
+   },
+   {
+    "name": "Dărmănești",
+    "name_en": null,
+    "lat": 47.7129082,
+    "lon": 26.1409622,
+    "distance_km": 15.7,
+    "operator": "CFR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Gerald's Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8441573,
+   "lon": 25.9187477,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Buchenland",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.5552086,
+   "lon": 25.8873548,
+   "distance_km": 20.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lions p***",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.5517571,
+   "lon": 25.8816913,
+   "distance_km": 20.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Curtea Bizantină",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6554112,
+   "lon": 26.2227458,
+   "distance_km": 23.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sonnenhoff",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6263015,
+   "lon": 26.2344716,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RO",
   "country_zh": "罗马尼亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:51Z"
+ "updated_at": "2026-11-12T12:42:02Z"
 }

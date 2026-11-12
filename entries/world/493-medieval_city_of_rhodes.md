@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "493"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(ii)(iv)(v)"
 lat: 36.443058
 lon: 28.226937
-updated_at: "2026-11-12T12:11:47Z"
+updated_at: "2026-11-12T12:42:00Z"
 ---
 
 # 罗得中世纪古城 / Medieval City of Rhodes
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:47Z"
 
 *Grossmeisterpalast Rhodos 2010.jpg · see Wikimedia Commons file page*
 
-![Medieval City of Rhodes](https://whc.unesco.org/uploads/sites/site_493.jpg)
+![Rhodos209.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Rhodos209.JPG/1280px-Rhodos209.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Medieval City of Rhodes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Rhodos209.JPG · User:Piotrus · CC BY-SA 3.0*
+
+![1012 Palace of the Grand Master of the Knights of Rhodes Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1012_Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes_Photo_by_Giles_Laurent.jpg/1280px-1012_Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1012 Palace of the Grand Master of the Knights of Rhodes Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![1049 Palace of the Grand Master of the Knights of Rhodes Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1049_Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes_Photo_by_Giles_Laurent.jpg/1280px-1049_Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1049 Palace of the Grand Master of the Knights of Rhodes Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![Apellou, Medieval City of Rhodes, Greece.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Apellou%2C_Medieval_City_of_Rhodes%2C_Greece.jpg/1280px-Apellou%2C_Medieval_City_of_Rhodes%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Apellou, Medieval City of Rhodes, Greece.jpg · Julian Lupyan · CC0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The Order of St John of Jerusalem occupied Rhodes from 1309 to 1523 and set abou
 - ✈ **Rhodes International Airport "Diagoras" (RHO)** — 13.3 km
 - ✈ **Dalaman International Airport (DLM)** — 58.8 km
 - ✈ **Milas Bodrum International Airport (BJV)** — 102.7 km
+- ⛴ **Kolona Port - Rodhos - Symi** — 0.3 km
+- ⛴ **Ρόδος** — 0.5 km
+- ⛴ **Rhodes Town (Mandraki)** — 0.7 km
+- ⛴ **Amada Colossos & Palladium** — 8.7 km
+- ⛴ **Esperides** — 9.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7397.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Manousos City Hotel** — 1.3 km — star — 5★
+- **Sofitel Capsis** — 3.3 km — star — 5★ · Sofitel
+- **Rodos Palace** — 3.5 km — star — 5★
+- **Helea Family Beach Resort** — 5.1 km — star — 5★
+- **Paradise Village** — 5.2 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

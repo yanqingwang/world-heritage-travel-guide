@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Mövenpick Khulna",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Mövenpick Hotels & Resorts",
+   "lat": 22.8421815,
+   "lon": 89.5395113,
+   "distance_km": 30.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "City Inn Ltd",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 22.8209077,
+   "lon": 89.5511602,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Western Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8137105,
+   "lon": 89.5667402,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Royal International",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8103963,
+   "lon": 89.5618086,
+   "distance_km": 26.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Castle Salam",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8099058,
+   "lon": 89.5624166,
+   "distance_km": 26.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 33,
+ "stations": [
+  {
+   "name": "বাগেরহাট কলেজ",
+   "name_en": "Bagerhat College",
+   "lat": 22.6649386,
+   "lon": 89.7818337,
+   "distance_km": 2.4,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "ষাট গম্বুজ",
+   "name_en": "Shat Gambuj",
+   "lat": 22.6850858,
+   "lon": 89.7648447,
+   "distance_km": 2.8,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "বাগেরহাট",
+   "name_en": "Bagerhat Railway Station",
+   "lat": 22.6570592,
+   "lon": 89.793433,
+   "distance_km": 3.6,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "যাত্রাপুর",
+   "name_en": "Jatrapur",
+   "lat": 22.7175223,
+   "lon": 89.7569763,
+   "distance_km": 6.3,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "খানজাহানপুর",
+   "name_en": "Khanjahanpur",
+   "lat": 22.7343245,
+   "lon": 89.7221095,
+   "distance_km": 9.0,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "চুলকাটি বাজার",
+   "name_en": "Chulkati Bazar",
+   "lat": 22.6908957,
+   "lon": 89.6492609,
+   "distance_km": 11.7,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "ভাগা",
+   "name_en": "Bhaga",
+   "lat": 22.6177158,
+   "lon": 89.6405342,
+   "distance_km": 13.0,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "মূলঘর",
+   "name_en": "Mulghar",
+   "lat": 22.774361,
+   "lon": 89.7117729,
+   "distance_km": 13.5,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Muniganj Ferry Ghaat",
+   "name_en": null,
+   "lat": 22.6700893,
+   "lon": 89.7909245,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Pirojpur Old Ferry Ghatt",
+   "name_en": null,
+   "lat": 22.5796429,
+   "lon": 89.9628595,
+   "distance_km": 22.8,
+   "operator": null
+  },
+  {
+   "name": "Rupsha Ferry Terminal",
+   "name_en": null,
+   "lat": 22.801033,
+   "lon": 89.5845218,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "Rupsha Ferry Terminal 2",
+   "name_en": null,
+   "lat": 22.8010149,
+   "lon": 89.5845353,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "Rupsha Ferry Ghat",
+   "name_en": null,
+   "lat": 22.8017536,
+   "lon": 89.5814739,
+   "distance_km": 24.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:29:47Z"
+}

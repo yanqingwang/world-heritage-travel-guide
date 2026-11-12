@@ -8,13 +8,13 @@ country: "CI"
 country_zh: "科特迪瓦"
 country_en: "Ivory Coast"
 unesco_id: "195"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1982"
 criteria: "(vii)(x)"
 lat: 5.75
 lon: -7.12
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 塔伊国家公园 / Taï National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:39Z"
 
 *Taï National Park (24148248710).jpg · see Wikimedia Commons file page*
 
-![Taï National Park](https://whc.unesco.org/uploads/sites/site_195.jpg)
+![Centropus Nationalpark Tai.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Centropus_Nationalpark_Tai.jpg/1280px-Centropus_Nationalpark_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Taï National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Centropus Nationalpark Tai.jpg · Gregor Rom · CC BY-SA 4.0*
+
+![Cercocebus atys atys area.png](https://upload.wikimedia.org/wikipedia/commons/b/ba/Cercocebus_atys_atys_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cercocebus atys atys area.png · User:Luis Fernández García · CC BY-SA 3.0*
+
+![Chimpanzee in Tai National Forest.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chimpanzee_in_Tai_National_Forest.jpg/1280px-Chimpanzee_in_Tai_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chimpanzee in Tai National Forest.jpg · Wild Expeditions · CC BY-SA 4.0*
+
+![Fliege 1 Nationalpark Tai.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Fliege_1_Nationalpark_Tai.jpg/1280px-Fliege_1_Nationalpark_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Fliege 1 Nationalpark Tai.jpg · Gregor Rom · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,14 @@ Ce parc constitue l'un des derniers vestiges importants de la forêt tropicale p
 - ✈ **Bouaké Airport (BYK)** — 316.2 km
 - ✈ **Félix-Houphouët-Boigny International Airport (ABJ)** — 357.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12386.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hôtel** — 37.2 km — hotel
+- **Auberge Beau Séjour** — 39.6 km — hotel
+- **Ecotel Touraco** — 42.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

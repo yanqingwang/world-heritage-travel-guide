@@ -4,21 +4,24 @@
 Score = 2 * Chinese Wikipedia pageviews + English Wikipedia pageviews over the
 last 12 months.  This is a transparent popularity proxy for "most popular
 overseas destinations" among Chinese travellers; it is not a visitor-count
-dataset.  The top 500 non-China sites receive the full data tier.
+dataset.  The top 600 non-China sites receive the full data tier.
 
 Output: data/raw/unesco_rank.json
 """
 from __future__ import annotations
 
 import concurrent.futures as futures
+import json
+import subprocess
 import sys
+import time
 import urllib.parse
 from datetime import date, timedelta
 
-from common import CACHE, RAW, get_json, load_json, now_iso, save_json
+from common import CACHE, RAW, UA, load_json, now_iso, save_json
 
 CACHE_FILE = RAW / "pageviews.json"
-TOP_FULL = 500  # records that get hotels, ferries and a full gallery
+TOP_FULL = 600  # records that get hotels, ferries and a full gallery
 
 
 def trailing_year() -> tuple[str, str]:
@@ -36,15 +39,49 @@ START, END = trailing_year()
 
 
 def views(lang: str, title: str) -> int | None:
-    title = urllib.parse.quote(title.replace(" ", "_"), safe="")
-    data = get_json(
+    """Trailing-year pageviews, or None when the lookup itself failed.
+
+    Transport is curl, not requests: on this network python-requests stalls
+    against Wikimedia TLS endpoints while curl succeeds, so `http_get` always
+    returned None here and every title looked like a fetch failure.
+
+    A 404 is not a failure either.  The pageview API returns it for titles that
+    exist but have no data loaded (rare articles, redirects it does not
+    follow); those are a real zero.  Treating them as failures left
+    `zh|蘇丹臺形遺址` retried on every run, which tripped the "mostly failed"
+    guard below and froze the ranking permanently.
+    """
+    quoted = urllib.parse.quote(title.replace(" ", "_"), safe="")
+    url = (
         f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/"
-        f"{lang}.wikipedia/all-access/user/{title}/monthly/{START}/{END}",
-        timeout=30, retries=4,
+        f"{lang}.wikipedia/all-access/user/{quoted}/monthly/{START}/{END}"
     )
-    if not data:
-        return None
-    return sum(int(x.get("views") or 0) for x in data.get("items", []))
+    for attempt in range(3):
+        try:
+            out = subprocess.run(
+                ["curl", "-sS", "--max-time", "30", "-H", f"User-Agent: {UA}",
+                 "-w", "\n%{http_code}", url],
+                capture_output=True, text=True, timeout=45)
+        except subprocess.SubprocessError:
+            time.sleep(3 * (attempt + 1))
+            continue
+        if out.returncode != 0:
+            time.sleep(3 * (attempt + 1))
+            continue
+        body, _, code = out.stdout.rpartition("\n")
+        code = code.strip()
+        if code == "404":
+            return 0
+        if code != "200":
+            time.sleep(3 * (attempt + 1))
+            continue
+        try:
+            data = json.loads(body)
+        except ValueError:
+            time.sleep(3 * (attempt + 1))
+            continue
+        return sum(int(x.get("views") or 0) for x in data.get("items", []))
+    return None
 
 
 def main() -> int:

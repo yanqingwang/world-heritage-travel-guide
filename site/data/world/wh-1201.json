@@ -2,7 +2,7 @@
  "id": "wh-1201",
  "unesco_id": "1201",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 535,
  "popularity_score": 10411,
  "country": "MW",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1201.jpg",
-   "title": "Mount Mulanje Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1201",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Matundwe_Range_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Matundwe Range Map.png",
+   "author": "U.S. Army Map Service",
+   "license": "Public domain",
+   "credit": "Africa 1:2,000,000 Series 2201, U.S. Army Map Service Salisbury [Harare] Sheet 31, Edition 5, TPC, 1970",
+   "source": "https://commons.wikimedia.org/wiki/File:Matundwe_Range_Map.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Shire_Highlands_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Shire Highlands map.png",
+   "author": "U.S. Army Map Service",
+   "license": "Public domain",
+   "credit": "U.S. Army Map Service Africa 1:2,000,000 Series 2201 Salisbury [Harare] Sheet 31, Edition 5, TPC, 1970",
+   "source": "https://commons.wikimedia.org/wiki/File:Shire_Highlands_map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Banni%C3%A8reWV_Mulanje.png/1280px-Banni%C3%A8reWV_Mulanje.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BannièreWV Mulanje.png",
+   "author": "SMuyila",
+   "license": "CC BY-SA 3.0",
+   "credit": "File:Mulanje Mountain foothill.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Banni%C3%A8reWV_Mulanje.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Camp_fire_on_Mulanje_tea_estate_%2815508376647%29.jpg/1280px-Camp_fire_on_Mulanje_tea_estate_%2815508376647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Camp fire on Mulanje tea estate (15508376647).jpg",
+   "author": "David Davies from Birmingham, UK",
+   "license": "CC BY-SA 2.0",
+   "credit": "Camp fire on Mulanje tea estate",
+   "source": "https://commons.wikimedia.org/wiki/File:Camp_fire_on_Mulanje_tea_estate_%2815508376647%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1201",
@@ -103,9 +127,82 @@
   "nearest_airport_km": 76.6,
   "distance_beijing_km": 10431.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Luchenza",
+    "name_en": null,
+    "lat": -16.0096618,
+    "lon": 35.3065317,
+    "distance_km": 38.7,
+    "operator": null
+   },
+   {
+    "name": "Nansadi",
+    "name_en": null,
+    "lat": -15.8881371,
+    "lon": 35.2007148,
+    "distance_km": 48.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Thuchila Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.8669308,
+   "lon": 35.5823867,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lujeri Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.033468,
+   "lon": 35.6559831,
+   "distance_km": 14.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Likhubula Hikers' Nest",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.9394918,
+   "lon": 35.4968126,
+   "distance_km": 17.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gateway Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.9466552,
+   "lon": 35.4878506,
+   "distance_km": 18.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kara O'Mula Country Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.0199415,
+   "lon": 35.5187432,
+   "distance_km": 19.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MW",
   "country_zh": "马拉维",
@@ -177,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:11Z"
+ "updated_at": "2026-11-12T12:42:15Z"
 }

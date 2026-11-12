@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)"
 lat: 46.629166666
 lon: 10.447777777
-updated_at: "2026-11-12T12:11:41Z"
+updated_at: "2026-11-12T12:41:56Z"
 ---
 
 # 米兹泰尔的木笃会圣约翰女修道院 / Benedictine Convent of St John at Müstair

@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Fujairah City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 25.1202561,
+   "lon": 56.3249798,
+   "distance_km": 48.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hatta Fort Hotel",
+   "name_en": "Hatta Fort Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 24.8203921,
+   "lon": 56.1353417,
+   "distance_km": 44.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn By IHG",
+   "name_en": "Holiday Inn By IHG",
+   "stars": 4,
+   "brand": "Holiday Inn",
+   "lat": 25.2219288,
+   "lon": 55.3575373,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ibis Styles Dragon Mart Dubai",
+   "name_en": "ibis Styles Dragon Mart Dubai",
+   "stars": 3,
+   "brand": "Ibis Styles",
+   "lat": 25.1743835,
+   "lon": 55.4198505,
+   "distance_km": 42.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton by Hilton Dubai Airport",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 25.2722921,
+   "lon": 55.3805491,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 52,
+ "stations": [
+  {
+   "name": "Concourse A",
+   "name_en": "Concourse A",
+   "lat": 25.2434605,
+   "lon": 55.3721514,
+   "distance_km": 49.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:35:03Z"
+}

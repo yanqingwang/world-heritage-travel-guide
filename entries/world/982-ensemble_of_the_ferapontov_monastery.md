@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: 59.956388888
 lon: 38.5675
-updated_at: "2026-11-12T12:12:05Z"
+updated_at: "2026-11-12T12:42:11Z"
 ---
 
 # 费拉邦多夫修道院遗址群 / Ensemble of the Ferapontov Monastery

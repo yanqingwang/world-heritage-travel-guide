@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "85"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(iii)"
 lat: 45.0575
 lon: 1.17
-updated_at: "2026-11-12T12:11:34Z"
+updated_at: "2026-11-12T12:41:52Z"
 ---
 
 # 韦泽尔峡谷洞穴群与史前遗迹 / Prehistoric Sites and Decorated Caves of the Vézère Valley
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:34Z"
 
 *Lascaux painting.jpg · see Wikimedia Commons file page*
 
-![Prehistoric Sites and Decorated Caves of the Vézère Valley](https://whc.unesco.org/uploads/sites/site_85.jpg)
+![Cave123.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cave123.png/1280px-Cave123.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Prehistoric Sites and Decorated Caves of the Vézère Valley · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Cave123.png · © N. Aujoulat (2003) © MCC-CNP · CC BY-SA 4.0*
+
+![Construction lascaux-IV.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Construction_lascaux-IV.JPG/1280px-Construction_lascaux-IV.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Construction lascaux-IV.JPG · Skull33 · CC BY-SA 4.0*
+
+![Frank Doucet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Frank_Doucet.jpg/1280px-Frank_Doucet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Frank Doucet.jpg · arzu çakır · Public domain*
+
+![Lacsaux VOA 2021 08.webp](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lacsaux_VOA_2021_08.webp/1280px-Lacsaux_VOA_2021_08.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lacsaux VOA 2021 08.webp · arzu çakır · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Le site préhistorique de la vallée de la Vézère comporte 147 gisements remon
 - ✈ **Brive Souillac airport (BVE)** — 24.9 km
 - ✈ **Bergerac Dordogne-Périgord airport (EGC)** — 57.4 km
 - ✈ **Limoges Airport (LIG)** — 89.5 km
+- 🚉 **Condat - Le Lardin** — 8.9 km
+- 🚉 **Terrasson - Lavilledieu** — 13.4 km
+- 🚉 **Thenon** — 13.9 km
+- 🚉 **Les Eyzies** — 18.1 km
+- 🚉 **Sarlat** — 20.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8553.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Manoir d'Hautegente** — 8.3 km — star — 4★
+- **Les Glycines** — 18.2 km — star — 4★
+- **Au Grand Hôtel de Sarlat** — 18.4 km — star — 4★
+- **Castel Novel** — 26.7 km — star — 4★
+- **Les Ventoulines - Village Vacance** — 30.7 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,7 +2,7 @@
  "id": "wh-1703",
  "unesco_id": "1703",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 557,
  "popularity_score": 9538,
  "country": "UA",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1703.jpg",
-   "title": "The Historic Centre of Odesa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1703",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/New_building_in_old_Odesa_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "New building in old Odesa - panoramio.jpg",
+   "author": "Andrej Kuźniečyk",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161014210352/http://www.panoramio.com/photo/39040225",
+   "source": "https://commons.wikimedia.org/wiki/File:New_building_in_old_Odesa_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Old_Odesa_-_panoramio_%28242%29.jpg/1280px-Old_Odesa_-_panoramio_%28242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Old Odesa - panoramio (242).jpg",
+   "author": "Дмитрий Ванькевич",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161030055244/http://www.panoramio.com/photo/98454583",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Odesa_-_panoramio_%28242%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photomontage_of_the_Historic_Centre_of_Odesa-1.jpg/1280px-Photomontage_of_the_Historic_Centre_of_Odesa-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Photomontage of the Historic Centre of Odesa-1.jpg",
+   "author": "Crocodile2020",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Photomontage_of_the_Historic_Centre_of_Odesa-1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sculpture_of_griffin%2C_Odesa_%282014-04-09%29_01.jpg/1280px-Sculpture_of_griffin%2C_Odesa_%282014-04-09%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sculpture of griffin, Odesa (2014-04-09) 01.jpg",
+   "author": "Oleh Kushch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sculpture_of_griffin%2C_Odesa_%282014-04-09%29_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1703",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 146.5,
   "distance_beijing_km": 6732.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Порт \"Південний\"",
+    "name_en": "Pivdennyi Sea Port",
+    "lat": 46.6194024,
+    "lon": 31.0269549,
+    "distance_km": 26.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Одеса-Порт",
+    "name_en": "Odesa-Port",
+    "lat": 46.4857247,
+    "lon": 30.7484149,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Одеса-Головна",
+    "name_en": "Odesa-Holovna",
+    "lat": 46.4667164,
+    "lon": 30.7406004,
+    "distance_km": 2.0,
+    "operator": null
+   },
+   {
+    "name": "Одеса-Мала",
+    "name_en": "Odesa-Mala",
+    "lat": 46.4552351,
+    "lon": 30.7265316,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Одеса-Товарна",
+    "name_en": "Odesa-Tovarna",
+    "lat": 46.4555905,
+    "lon": 30.7139727,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Одеса-Поїзна",
+    "name_en": "Odesa-Poizna",
+    "lat": 46.4536383,
+    "lon": 30.7084709,
+    "distance_km": 4.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Чорне Море Бугаз",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.1710217,
+   "lon": 30.5662954,
+   "distance_km": 37.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Океаніс",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 46.4137656,
+   "lon": 30.7539524,
+   "distance_km": 8.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "City Georg Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 46.4837079,
+   "lon": 30.7414444,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Дюк",
+   "name_en": "Ribas Duke Boutique Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 46.4860233,
+   "lon": 30.7414277,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Комплекс відпочинку \"Palais Royal\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 46.4851166,
+   "lon": 30.7402324,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "UA",
   "country_zh": "乌克兰",
@@ -173,5 +303,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:29Z"
+ "updated_at": "2026-11-12T12:42:25Z"
 }

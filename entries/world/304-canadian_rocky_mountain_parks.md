@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "304"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1984"
 criteria: "(vii)(viii)"
 lat: 51.424722222
 lon: -116.479722222
-updated_at: "2026-11-12T12:11:42Z"
+updated_at: "2026-11-12T12:41:56Z"
 ---
 
 # 加拿大落基山公园 / Canadian Rocky Mountain Parks
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:42Z"
 
 *Longs Peak.jpg · see Wikimedia Commons file page*
 
-![Canadian Rocky Mountain Parks](https://whc.unesco.org/uploads/sites/site_304.jpg)
+![,Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/1280px-%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Canadian Rocky Mountain Parks · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*,Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg · Khoshhat · CC BY-SA 4.0*
+
+![.Bow Valley & River.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/.Bow_Valley_%26_River.jpg/1280px-.Bow_Valley_%26_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.Bow Valley & River.jpg · Khoshhat · CC BY-SA 4.0*
+
+![.Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/1280px-.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg · Khoshhat · CC BY-SA 4.0*
+
+![0R5A3549.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/0R5A3549.jpg/1280px-0R5A3549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0R5A3549.jpg · Akinipeters · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ Les parcs nationaux contigus de Banff, Jasper, Kootenay et Yoho, ainsi que les p
 - ✈ **Calgary International Airport (YYC)** — 175.1 km
 - ✈ **Cranbrook/Canadian Rockies International Airport (YXC)** — 207.6 km
 - ✈ **Castlegar/West Kootenay Regional Airport (YCG)** — 250.4 km
+- 🚉 **Lake Louise** — 20.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8748.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Fairmont Chateau Lake Louise** — 18.3 km — chain — Fairmont
+- **Holiday Inn Express** — 36.4 km — chain — Holiday Inn Express
+- **Best Western Mountainview Inn** — 36.5 km — chain — Best Western
+- **Cathedral mountain lodge** — 3.1 km — hotel
+- **Truffle Pigs Lodge** — 3.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "هتل لابوس رامیان",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.0477448,
+   "lon": 55.1411963,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل قابوس",
+   "name_en": "Hotel Qabos",
+   "stars": null,
+   "brand": null,
+   "lat": 37.225776,
+   "lon": 55.1627433,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل استقلال",
+   "name_en": "Hotel Esteghlal",
+   "stars": null,
+   "brand": null,
+   "lat": 37.2352285,
+   "lon": 55.3638566,
+   "distance_km": 17.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل آکام",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.0983927,
+   "lon": 55.1722625,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل و رستوران پوریا",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.0965983,
+   "lon": 55.1704414,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:33:14Z"
+}

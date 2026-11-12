@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "The Gerald's Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8441573,
+   "lon": 25.9187477,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Buchenland",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.5552086,
+   "lon": 25.8873548,
+   "distance_km": 20.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lions p***",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.5517571,
+   "lon": 25.8816913,
+   "distance_km": 20.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Curtea Bizantină",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6554112,
+   "lon": 26.2227458,
+   "distance_km": 23.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sonnenhoff",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6263015,
+   "lon": 26.2344716,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 59,
+ "stations": [
+  {
+   "name": "Milișăuți",
+   "name_en": null,
+   "lat": 47.7730482,
+   "lon": 26.0516485,
+   "distance_km": 9.9,
+   "operator": "CFR"
+  },
+  {
+   "name": "Cacica",
+   "name_en": null,
+   "lat": 47.6386752,
+   "lon": 25.9299564,
+   "distance_km": 10.5,
+   "operator": "CFR"
+  },
+  {
+   "name": "Rădăuți",
+   "name_en": null,
+   "lat": 47.8395728,
+   "lon": 25.9093297,
+   "distance_km": 12.0,
+   "operator": "CFR"
+  },
+  {
+   "name": "Virfu Dealului",
+   "name_en": null,
+   "lat": 47.5993076,
+   "lon": 25.9382935,
+   "distance_km": 14.9,
+   "operator": null
+  },
+  {
+   "name": "Dărmănești",
+   "name_en": null,
+   "lat": 47.7129082,
+   "lon": 26.1409622,
+   "distance_km": 15.7,
+   "operator": "CFR"
+  },
+  {
+   "name": "Dornești",
+   "name_en": null,
+   "lat": 47.8723312,
+   "lon": 25.9998678,
+   "distance_km": 16.3,
+   "operator": "CFR"
+  },
+  {
+   "name": "Stroiești",
+   "name_en": null,
+   "lat": 47.6162863,
+   "lon": 26.1140715,
+   "distance_km": 18.8,
+   "operator": "CFR"
+  },
+  {
+   "name": "Gura Humorului",
+   "name_en": null,
+   "lat": 47.5524128,
+   "lon": 25.9425133,
+   "distance_km": 20.1,
+   "operator": "CFR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:30:58Z"
+}

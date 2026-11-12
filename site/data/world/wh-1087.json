@@ -2,7 +2,7 @@
  "id": "wh-1087",
  "unesco_id": "1087",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 544,
  "popularity_score": 9852,
  "country": "DE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1087.jpg",
-   "title": "Town Hall and Roland on the Marketplace of Bremen",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1087",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/13-04-20-bremen-by-RalfR-028.jpg/1280px-13-04-20-bremen-by-RalfR-028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "13-04-20-bremen-by-RalfR-028.jpg",
+   "author": "Ralf Roletschek",
+   "license": "FAL",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:13-04-20-bremen-by-RalfR-028.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2018-12-30-Bremer-Rathaus.jpg/1280px-2018-12-30-Bremer-Rathaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2018-12-30-Bremer-Rathaus.jpg",
+   "author": "Gunnar Klack",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-12-30-Bremer-Rathaus.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Altstadt_bremen_2019-04-19_%2825%29.jpg/1280px-Altstadt_bremen_2019-04-19_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt bremen 2019-04-19 (25).jpg",
+   "author": "Z thomas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_bremen_2019-04-19_%2825%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_%2827823097069%29.jpg/1280px-Bremen_%2827823097069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bremen (27823097069).jpg",
+   "author": "Aleksandr Zykov from Russia",
+   "license": "CC BY-SA 2.0",
+   "credit": "Bremen",
+   "source": "https://commons.wikimedia.org/wiki/File:Bremen_%2827823097069%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1087",
@@ -101,10 +125,148 @@
   ],
   "nearest_airport_km": 3.5,
   "distance_beijing_km": 7565.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Martinianleger",
+    "name_en": null,
+    "lat": 53.0741014,
+    "lon": 8.8041243,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Schlachte Anleger 13",
+    "name_en": null,
+    "lat": 53.0808356,
+    "lon": 8.7900744,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "Segelclub Niedersachsen - Werder e.V.",
+    "name_en": null,
+    "lat": 53.0675104,
+    "lon": 8.820113,
+    "distance_km": 1.3,
+    "operator": "Segelclub Niedersachsen-Werder e.V."
+   },
+   {
+    "name": "Weserstadion",
+    "name_en": null,
+    "lat": 53.0672031,
+    "lon": 8.8335658,
+    "distance_km": 2.0,
+    "operator": null
+   },
+   {
+    "name": "Landmarktower",
+    "name_en": null,
+    "lat": 53.0964375,
+    "lon": 8.7614867,
+    "distance_km": 3.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bremen Hauptbahnhof",
+    "name_en": null,
+    "lat": 53.0832972,
+    "lon": 8.8137576,
+    "distance_km": 0.9,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Bremen Neustadt",
+    "name_en": null,
+    "lat": 53.0761509,
+    "lon": 8.7860771,
+    "distance_km": 1.4,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Bremen-Sebaldsbrück",
+    "name_en": null,
+    "lat": 53.061219,
+    "lon": 8.8878228,
+    "distance_km": 5.6,
+    "operator": "DB Netz AG"
+   },
+   {
+    "name": "Bremen-Kirchhuchting",
+    "name_en": null,
+    "lat": 53.0506165,
+    "lon": 8.7345784,
+    "distance_km": 5.6,
+    "operator": null
+   },
+   {
+    "name": "Bremen-Hemelingen",
+    "name_en": null,
+    "lat": 53.0539423,
+    "lon": 8.8871732,
+    "distance_km": 5.9,
+    "operator": "DB Netz AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Wachtelhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 53.1050238,
+   "lon": 9.3951576,
+   "distance_km": 39.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Atlantic Grand Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.0753921,
+   "lon": 8.8050565,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Flemings Hotel Bremen-Hauptbahnhof",
+   "name_en": null,
+   "stars": 4,
+   "brand": "InterCityHotel",
+   "lat": 53.0822702,
+   "lon": 8.8143807,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Edel Weiss",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.0824344,
+   "lon": 8.8111714,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Hotel zur Post",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 53.0825834,
+   "lon": 8.8105781,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -176,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:08Z"
+ "updated_at": "2026-11-12T12:42:13Z"
 }

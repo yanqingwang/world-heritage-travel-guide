@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(x)"
 lat: -37.3
 lon: -12.68
-updated_at: "2026-11-12T12:11:55Z"
+updated_at: "2026-11-12T12:42:05Z"
 ---
 
 # 戈夫岛和伊纳克塞瑟布尔岛 / Gough and Inaccessible Islands

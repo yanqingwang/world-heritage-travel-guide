@@ -8,13 +8,13 @@ country: "BD"
 country_zh: "孟加拉国"
 country_en: "Bangladesh"
 unesco_id: "321"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(iv)"
 lat: 22.66097
 lon: 89.75855
-updated_at: "2026-11-12T12:11:42Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 巴凯尔哈特清真寺历史名城 / Historic Mosque City of Bagerhat
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:42Z"
 
 *স্বপ্নীল চুনাখোলা মসজিদ।.jpg · see Wikimedia Commons file page*
 
-![Historic Mosque City of Bagerhat](https://whc.unesco.org/uploads/sites/site_321.jpg)
+![A group of birds sitting on a tree branch in the forest.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/A_group_of_birds_sitting_on_a_tree_branch_in_the_forest.jpg/1280px-A_group_of_birds_sitting_on_a_tree_branch_in_the_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Mosque City of Bagerhat · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A group of birds sitting on a tree branch in the forest.jpg · Faisallutpat2 · CC BY 4.0*
+
+![Bagerhat District upazila geocode map - Small Area Atlas Bangladesh.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bagerhat_District_upazila_geocode_map_-_Small_Area_Atlas_Bangladesh.svg/1280px-Bagerhat_District_upazila_geocode_map_-_Small_Area_Atlas_Bangladesh.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bagerhat District upazila geocode map - Small Area Atlas Bangladesh.svg · Bangladesh Bureau of Statistics · EdictGov-Bangladesh*
+
+![Bagerhat Transportation Facility1.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/Bagerhat_Transportation_Facility1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bagerhat Transportation Facility1.jpg · Bellayet and Mak · CC BY 2.5*
+
+![Bagerhat Transportation Facility2.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bagerhat_Transportation_Facility2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bagerhat Transportation Facility2.jpg · Bellayet and Mak · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brah
 - ✈ **Barisal Airport (BZL)** — 57.8 km
 - ✈ **Jessore Airport (JSR)** — 84.4 km
 - ✈ **Netaji Subhash Chandra Bose International Airport (CCU)** — 134.5 km
+- 🚉 **বাগেরহাট কলেজ** — 2.4 km
+- 🚉 **ষাট গম্বুজ** — 2.8 km
+- 🚉 **বাগেরহাট** — 3.6 km
+- 🚉 **যাত্রাপুর** — 6.3 km
+- 🚉 **খানজাহানপুর** — 9.0 km
+- ⛴ **Muniganj Ferry Ghaat** — 3.5 km
+- ⛴ **Pirojpur Old Ferry Ghatt** — 22.8 km
+- ⛴ **Rupsha Ferry Terminal** — 23.7 km
+- ⛴ **Rupsha Ferry Terminal 2** — 23.7 km
+- ⛴ **Rupsha Ferry Ghat** — 24.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3127.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Mövenpick Khulna** — 30.2 km — star — 5★ · Mövenpick Hotels & Resorts
+- **City Inn Ltd** — 27.7 km — star — 4★
+- **Western Inn** — 26.0 km — star — 3★
+- **Hotel Royal International** — 26.1 km — star — 3★
+- **Hotel Castle Salam** — 26.1 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

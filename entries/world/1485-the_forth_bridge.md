@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(i)(iv)"
 lat: 55.9984
 lon: -3.3876
-updated_at: "2026-11-12T12:12:20Z"
+updated_at: "2026-11-12T12:42:21Z"
 ---
 
 # 弗斯桥 / The Forth Bridge

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 43.06616667
 lon: 12.62244444
-updated_at: "2026-11-12T12:12:06Z"
+updated_at: "2026-11-12T12:42:11Z"
 ---
 
 # 阿西西古镇的方济各会修道院与大教堂 / Assisi, the Basilica of San Francesco and Other Franciscan Sites

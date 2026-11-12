@@ -8,13 +8,13 @@ country: "JO"
 country_zh: "约旦"
 country_en: "Jordan"
 unesco_id: "1721"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2024"
 criteria: "(iii)"
 lat: 32.326666666
 lon: 36.369722222
-updated_at: "2026-11-12T12:12:30Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 乌姆吉马尔 / Umm Al-Jimāl
@@ -52,7 +52,21 @@ The property is a rural settlement in northern Jordan that developed organically
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 53.1 km
 - ✈ **Queen Alia International Airport (AMM)** — 76.0 km
 - ✈ **Damascus International Airport (DAM)** — 121.4 km
+- 🚉 **المفرق** — 15.6 km
+- 🚉 **بصرى** — 23.3 km
+- 🚉 **محطة كوم غرز** — 36.7 km
+- 🚉 **محطة قطار درعا** — 41.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7055.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق ديونزياس** — 46.5 km — star — Dionysias Hotel · 3★
+- **بصرى الشام بالاس** — 23.4 km — hotel — Bosra Al Sham palace
+- **فندق جوابرة للأجنحة الفندقية** — 37.1 km — hotel — Jawabreh Hotel & Suites
+- **وايت روز** — 41.8 km — hotel — White Rose
+- **البيت** — 42.6 km — hotel — البيت
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

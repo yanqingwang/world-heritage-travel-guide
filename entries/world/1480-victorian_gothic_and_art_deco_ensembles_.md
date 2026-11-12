@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1480"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(ii)(iv)"
 lat: 18.929806
 lon: 72.830083
-updated_at: "2026-11-12T12:12:20Z"
+updated_at: "2026-11-12T12:42:21Z"
 ---
 
 # 孟买维多利亚的哥特式和艺术装饰合奏 / Victorian Gothic and Art Deco Ensembles of Mumbai
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:20Z"
 
 *Mumbai 03-2016 40 Bombay High Court.jpg · see Wikimedia Commons file page*
 
-![Victorian Gothic and Art Deco Ensembles of Mumbai](https://whc.unesco.org/uploads/sites/site_1480.jpg)
+![Marathi WHS information board of Art Deco buildings along the Marine Drive, Mumbai.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Marathi_WHS_information_board_of_Art_Deco_buildings_along_the_Marine_Drive%2C_Mumbai.jpg/1280px-Marathi_WHS_information_board_of_Art_Deco_buildings_along_the_Marine_Drive%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Victorian Gothic and Art Deco Ensembles of Mumbai · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Marathi WHS information board of Art Deco buildings along the Marine Drive, Mumbai.jpg · DesiBoy101 · CC BY 4.0*
+
+![Mumbai, India, Central Mumbai, Gothic style.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Mumbai%2C_India%2C_Central_Mumbai%2C_Gothic_style.jpg/1280px-Mumbai%2C_India%2C_Central_Mumbai%2C_Gothic_style.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mumbai, India, Central Mumbai, Gothic style.jpg · Vyacheslav Argenberg · CC BY 4.0*
+
+![Mumbai, India, Central Mumbai, Gothic style architecture.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mumbai%2C_India%2C_Central_Mumbai%2C_Gothic_style_architecture.jpg/1280px-Mumbai%2C_India%2C_Central_Mumbai%2C_Gothic_style_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mumbai, India, Central Mumbai, Gothic style architecture.jpg · Vyacheslav Argenberg · CC BY 4.0*
+
+![Mumbai, India, University of Mumbai, Gothic tropical style.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mumbai%2C_India%2C_University_of_Mumbai%2C_Gothic_tropical_style.jpg/1280px-Mumbai%2C_India%2C_University_of_Mumbai%2C_Gothic_tropical_style.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mumbai, India, University of Mumbai, Gothic tropical style.jpg · Vyacheslav Argenberg · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Having become a global trading centre, the city of Mumbai implemented an ambitio
 - ✈ **Chhatrapati Shivaji Maharaj International Airport (BOM)** — 18.1 km
 - ✈ **Navi Mumbai International Airport (NMI)** — 25.5 km
 - ✈ **Pune International Airport (PNQ)** — 121.1 km
+- 🚉 **Churchgate** — 0.7 km
+- 🚉 **Mumbai CSMT** — 1.3 km
+- 🚉 **Marine Lines** — 1.9 km
+- 🚉 **Masjid** — 2.6 km
+- 🚉 **Charni Road** — 2.7 km
+- ⛴ **Gateway of India - Mandwa Rewas Ferry Terminal** — 0.9 km
+- ⛴ **Gateway of India - Elephanta Island ferry service** — 1.0 km
+- ⛴ **Mumbai International Cruise Terminal** — 1.4 km
+- ⛴ **Angriya Water Terminal** — 3.2 km
+- ⛴ **Bhaucha Dhakka / Ferry Wharf** — 3.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4764.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Oberoi** — 1.0 km — star — 5★ · Oberoi
+- **Trident, Nariman-Point** — 1.0 km — star — 5★ · Trident
+- **Taj Lands End** — 12.7 km — star — Taj Lands End · 5★ · Taj
+- **Taj Santacruz Mumbai** — 18.3 km — star — 5★ · Taj
+- **JW Marriott Mumbai Sahar** — 19.9 km — star — 5★ · JW Marriott
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

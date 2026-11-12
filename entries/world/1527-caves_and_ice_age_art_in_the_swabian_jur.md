@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1527"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(iii)"
 lat: 48.387777777
 lon: 9.765555555
-updated_at: "2026-11-12T12:12:21Z"
+updated_at: "2026-11-12T12:42:21Z"
 ---
 
 # 位于施瓦本侏罗山的冰河时期最古老的艺术洞穴 / Caves and Ice Age Art in the Swabian Jura
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:21Z"
 
 *UNESCO Considers Protecting Early Human Habitation Sites.webm · VOA · Public domain*
 
-![Caves and Ice Age Art in the Swabian Jura](https://whc.unesco.org/uploads/sites/site_1527.jpg)
+![Germany and the German emperor (IA germanygermanemp00perr).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Germany_and_the_German_emperor_%28IA_germanygermanemp00perr%29.pdf/page1-500px-Germany_and_the_German_emperor_%28IA_germanygermanemp00perr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Caves and Ice Age Art in the Swabian Jura · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Germany and the German emperor (IA germanygermanemp00perr).pdf · Perris, G. H. (George Herbert), 1866-1920 · Public domain*
+
+![Höhle Hohlenstein Hohlensteinstadel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H%C3%B6hle_Hohlenstein_Hohlensteinstadel.jpg/1280px-H%C3%B6hle_Hohlenstein_Hohlensteinstadel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Höhle Hohlenstein Hohlensteinstadel.jpg · Thilo Parg · CC BY-SA 3.0*
+
+![Switzerland; its mountains, valleys, lakes, and rivers .. (IA switzerlanditsmo00londrich).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Switzerland%3B_its_mountains%2C_valleys%2C_lakes%2C_and_rivers_.._%28IA_switzerlanditsmo00londrich%29.pdf/page1-960px-Switzerland%3B_its_mountains%2C_valleys%2C_lakes%2C_and_rivers_.._%28IA_switzerlanditsmo00londrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Switzerland; its mountains, valleys, lakes, and rivers .. (IA switzerlanditsmo00londrich).pdf · Public domain*
+
+![The imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet... (Vol. 21, Jordan - Legare) (IA imperialencyclop21unse).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_imperial_encyclopedia_and_dictionary%3Ba_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet..._%28Vol._21%2C_Jordan_-_Legare%29_%28IA_imperialencyclop21unse%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet... (Vol. 21, Jordan - Legare) (IA imperialencyclop21unse).pdf · Public domain*
 
 ## 简介 / Introduction
 
@@ -54,7 +66,27 @@ Höhlen und Eiszeitkunst der Schwäbischen Alb ist ein von der UNESCO gelisteter
 - ✈ **Stuttgart Airport (STR)** — 52.3 km
 - ✈ **Memmingen Allgau Airport (FMM)** — 56.6 km
 - ✈ **Bodensee Airport Friedrichshafen (FDH)** — 81.9 km
+- 🚉 **Blaubeuren** — 2.6 km
+- 🚉 **Schelklingen** — 2.9 km
+- 🚉 **Allmendingen** — 7.4 km
+- 🚉 **Herrlingen** — 10.3 km
+- 🚉 **Blaustein** — 11.7 km
+- ⛴ **Ulm (Saumarkt)** — 16.6 km
+- ⛴ **Neu-Ulm (Edwin-Scharff-Haus)** — 16.7 km
+- ⛴ **Metzgerturm** — 16.9 km
+- ⛴ **Adlerbastei** — 17.5 km
+- ⛴ **Barfüßer** — 17.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7845.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Maritim** — 17.7 km — star — 5★
+- **Adler** — 12.1 km — star — 4★
+- **Me and All Hotel Ulm** — 16.2 km — star — 4★ · Hyatt
+- **Goldenes Rad** — 16.7 km — star — 4★
+- **PLAZA Premium Parkhotel Neu-Ulm** — 16.7 km — star — 4★ · PLAZA Premium
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

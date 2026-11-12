@@ -2,7 +2,7 @@
  "id": "wh-136",
  "unesco_id": "136",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 543,
  "popularity_score": 9859,
  "country": "CD",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_136.jpg",
-   "title": "Garamba National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/136",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Elephants_in_garamba_national_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Elephants in garamba national park.jpg",
+   "author": "USAID",
+   "license": "Public domain",
+   "credit": "https://www.usaid.gov/biodiversity/stories/central-africa-radios",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephants_in_garamba_national_park.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Garamba_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Garamba National Park banner.jpg",
+   "author": "Nuria Ortega",
+   "license": "CC BY-SA 3.0",
+   "credit": "http://nuriortega.com/garamba%20park/index.htm (photographer's website) and http://whc.unesco.org/include/tool_image.cfm?src=/uploads/sites/gallery/full/site_01",
+   "source": "https://commons.wikimedia.org/wiki/File:Garamba_National_Park_banner.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Garamba_National_Park_overhead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Garamba National Park overhead.jpg",
+   "author": "Nuria Ortega",
+   "license": "CC BY-SA 3.0",
+   "credit": "http://nuriortega.com/garamba%20park/index.htm (photographer's website) and http://whc.unesco.org/include/tool_image.cfm?src=/uploads/sites/gallery/full/site_01",
+   "source": "https://commons.wikimedia.org/wiki/File:Garamba_National_Park_overhead.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ian_and_Rangers_Garamba_National_Park%2C_Congo_2003.jpg/1280px-Ian_and_Rangers_Garamba_National_Park%2C_Congo_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ian and Rangers Garamba National Park, Congo 2003.jpg",
+   "author": "Ian J. Saunders",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ian_and_Rangers_Garamba_National_Park%2C_Congo_2003.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/136",
@@ -183,5 +207,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:35Z"
+ "updated_at": "2026-11-12T12:41:53Z"
 }

@@ -2,7 +2,7 @@
  "id": "wh-737",
  "unesco_id": "737",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 516,
  "popularity_score": 11036,
  "country": "KR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_737.jpg",
-   "title": "Haeinsa Temple Janggyeong Panjeon, the Depositories for the <em>Tripitaka Koreana</em> Woodblocks",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/737",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2018-07-09_belfry_of_Haeinsa.jpg/1280px-2018-07-09_belfry_of_Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2018-07-09 belfry of Haeinsa.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/43102695690/",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-07-09_belfry_of_Haeinsa.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2018-07-09_two_halves_of_a_Buddha_statue_at_Haeinsa.jpg/1280px-2018-07-09_two_halves_of_a_Buddha_statue_at_Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2018-07-09 two halves of a Buddha statue at Haeinsa.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/44864933142/",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-07-09_two_halves_of_a_Buddha_statue_at_Haeinsa.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/54174-Haeinsa.jpg/1280px-54174-Haeinsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "54174-Haeinsa.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/44002338625/",
+   "source": "https://commons.wikimedia.org/wiki/File:54174-Haeinsa.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Bell_pavilion_IMG_20161002_120143.jpg/1280px-Bell_pavilion_IMG_20161002_120143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bell pavilion IMG 20161002 120143.jpg",
+   "author": "G41rn8",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bell_pavilion_IMG_20161002_120143.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/737",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 51.4,
   "distance_beijing_km": 1154.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "왜관",
+    "name_en": "Waegwan",
+    "lat": 35.9920486,
+    "lon": 128.4004803,
+    "distance_km": 34.5,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "김천(구미)",
+    "name_en": "Gimcheon(Gumi)",
+    "lat": 36.1130256,
+    "lon": 128.1806889,
+    "distance_km": 35.4,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "약목",
+    "name_en": "Yangmok",
+    "lat": 36.0378074,
+    "lon": 128.3640135,
+    "distance_km": 35.5,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "김천",
+    "name_en": "Gimcheon",
+    "lat": 36.1238437,
+    "lon": 128.115032,
+    "distance_km": 35.9,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "북삼",
+    "name_en": "Buksam",
+    "lat": 36.0558358,
+    "lon": 128.3453472,
+    "distance_km": 35.9,
+    "operator": "한국철도공사"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "대구 메리어트 호텔",
+   "name_en": "Marriott Daegu",
+   "stars": 5,
+   "brand": "Marriott",
+   "lat": 35.8753143,
+   "lon": 128.6276519,
+   "distance_km": 48.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "(주)백운국민관광호텔 (Baekungungmin Tourist Hotel)",
+   "name_en": "Baekungungmin Tourist Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.791043,
+   "lon": 128.060116,
+   "distance_km": 3.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "가야호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.8026235,
+   "lon": 128.1427706,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "파인밸리리조트",
+   "name_en": "Painbaelli Resort Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.711441,
+   "lon": 128.0435787,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "채빈모텔",
+   "name_en": "Chaebin Motel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.635112,
+   "lon": 128.0311309,
+   "distance_km": 19.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KR",
   "country_zh": "大韩民国",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:55Z"
+ "updated_at": "2026-11-12T12:42:05Z"
 }

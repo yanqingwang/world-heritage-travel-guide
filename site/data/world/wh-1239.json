@@ -2,7 +2,7 @@
  "id": "wh-1239",
  "unesco_id": "1239",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 508,
  "popularity_score": 11355,
  "country": "DE",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Berlin%20Hufeisensiedlung%20UAV%2004-2017.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825124055.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825124055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Berlin - Berlin Modernism Housing Estates - 20190825124055.jpg",
+   "author": "Messc",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825124055.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131820.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Berlin - Berlin Modernism Housing Estates - 20190825131820.jpg",
+   "author": "Messc",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131820.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131931.jpg/1280px-Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Berlin - Berlin Modernism Housing Estates - 20190825131931.jpg",
+   "author": "Messc",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Berlin_-_Berlin_Modernism_Housing_Estates_-_20190825131931.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1239.jpg",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 10.3,
   "distance_beijing_km": 7357.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Baumschulenstraße/Fähre",
+    "name_en": null,
+    "lat": 52.4728282,
+    "lon": 13.4949918,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Wilhelmstrand",
+    "name_en": null,
+    "lat": 52.4740881,
+    "lon": 13.496726,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "Hafen Anleger MS Diva",
+    "name_en": null,
+    "lat": 52.4861043,
+    "lon": 13.4824974,
+    "distance_km": 4.7,
+    "operator": "Reederei Sarah Rusch"
+   },
+   {
+    "name": "Hafen Treptow",
+    "name_en": null,
+    "lat": 52.4937214,
+    "lon": 13.4647908,
+    "distance_km": 5.1,
+    "operator": "Stern und Kreisschiffahrt GmbH Berlin"
+   },
+   {
+    "name": "Hafen Treptow Brücke 5",
+    "name_en": null,
+    "lat": 52.4935649,
+    "lon": 13.4658836,
+    "distance_km": 5.1,
+    "operator": "Stern und Kreisschiffahrt GmbH Berlin"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Kalenderplatz",
+    "name_en": null,
+    "lat": 52.4364067,
+    "lon": 13.421715,
+    "distance_km": 2.3,
+    "operator": null
+   },
+   {
+    "name": "Neukölln",
+    "name_en": null,
+    "lat": 52.4695134,
+    "lon": 13.4437571,
+    "distance_km": 2.4,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Buckower Damm",
+    "name_en": null,
+    "lat": 52.4290685,
+    "lon": 13.4299672,
+    "distance_km": 2.5,
+    "operator": null
+   },
+   {
+    "name": "Hermannstraße",
+    "name_en": null,
+    "lat": 52.4676341,
+    "lon": 13.4312408,
+    "distance_km": 2.5,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Baumschulenweg",
+    "name_en": null,
+    "lat": 52.4674002,
+    "lon": 13.4898621,
+    "distance_km": 3.4,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 52.5121031,
+   "lon": 13.3925395,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel de Rome",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rocco Forte Hotels",
+   "lat": 52.5157914,
+   "lon": 13.3940671,
+   "distance_km": 8.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hyatt Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Grand Hyatt",
+   "lat": 52.5081971,
+   "lon": 13.3724841,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Grand Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 52.5158768,
+   "lon": 13.3886042,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz-Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 52.5104092,
+   "lon": 13.375226,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -176,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:12Z"
+ "updated_at": "2026-11-12T12:42:16Z"
 }

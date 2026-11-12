@@ -8,13 +8,13 @@ country: "CL"
 country_zh: "智利"
 country_en: "Chile"
 unesco_id: "1178"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: -20.208333333
 lon: -69.794444444
-updated_at: "2026-11-12T12:12:10Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 亨伯斯通和圣劳拉硝石采石场 / Humberstone and Santa Laura Saltpeter Works
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:10Z"
 
 *Humberstone.jpg · see Wikimedia Commons file page*
 
-![Humberstone and Santa Laura Saltpeter Works](https://whc.unesco.org/uploads/sites/site_1178.jpg)
+![2005.11.14 24 Humberstone Chile.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c3/2005.11.14_24_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Humberstone and Santa Laura Saltpeter Works · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2005.11.14 24 Humberstone Chile.jpg · Hermann Luyken · CC BY-SA 3.0*
+
+![2005.11.14 26 Humberstone Chile.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a8/2005.11.14_26_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2005.11.14 26 Humberstone Chile.jpg · Hermann Luyken · CC BY-SA 3.0*
+
+![2005.11.14 34 Humberstone Chile.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/2005.11.14_34_Humberstone_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2005.11.14 34 Humberstone Chile.jpg · Hermann Luyken · CC BY-SA 3.0*
+
+![Ambientación de lo que fue cocinas típicas de las viviendas en Humberstone.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ambientaci%C3%B3n_de_lo_que_fue_cocinas_t%C3%ADpicas_de_las_viviendas_en_Humberstone.jpg/1280px-Ambientaci%C3%B3n_de_lo_que_fue_cocinas_t%C3%ADpicas_de_las_viviendas_en_Humberstone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ambientación de lo que fue cocinas típicas de las viviendas en Humberstone.jpg · Tefy fd · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ Las oficinas de Humberstone y Santa Laura cuentan con un total de 200 lugares de
 - ✈ **Diego Aracena International Airport (IQQ)** — 54.4 km
 - ✈ **Chacalluta International Airport (ARI)** — 214.5 km
 - ✈ **Coronel FAP Carlos Ciriani Santa Rosa International Airport (TCQ)** — 244.9 km
+- 🚉 **La Noria** — 20.7 km
+- 🚉 **Central** — 22.2 km
+- 🚉 **San Antonio** — 25.1 km
+- 🚉 **Las Carpas** — 26.4 km
+- 🚉 **Gallinazos** — 32.0 km
+- ⛴ **Puerto de Iquique** — 38.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17748.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Holiday Inn Express** — 36.8 km — chain — Holiday Inn Express
+- **Hilton Garden Inn iquique** — 36.9 km — chain
+- **Hotel Ibis Iquique** — 37.3 km — chain
+- **Hostal Tata Inti** — 5.6 km — hotel
+- **Estancia** — 5.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

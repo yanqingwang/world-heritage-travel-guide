@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iv)"
 lat: 51.841362665
 lon: -1.360948307
-updated_at: "2026-11-12T12:11:46Z"
+updated_at: "2026-11-12T12:41:59Z"
 ---
 
 # 布莱尼姆宫 / Blenheim Palace

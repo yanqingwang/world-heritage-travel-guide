@@ -8,13 +8,13 @@ country: "MG"
 country_zh: "马达加斯加"
 country_en: "Madagascar"
 unesco_id: "494"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1990"
 criteria: "(vii)(ix)(x)"
 lat: -18.66667
 lon: 44.75
-updated_at: "2026-11-12T12:11:47Z"
+updated_at: "2026-11-12T12:42:00Z"
 ---
 
 # 安德列发那干旱森林 / Andrefana Dry Forests
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:47Z"
 
 *Tsingy de Bemaraha.jpg · see Wikimedia Commons file page*
 
-![Andrefana Dry Forests](https://whc.unesco.org/uploads/sites/site_494.jpg)
+![Bemaraha Tsingy, Madagascar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bemaraha_Tsingy%2C_Madagascar.jpg/1280px-Bemaraha_Tsingy%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Andrefana Dry Forests · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bemaraha Tsingy, Madagascar.jpg · Rod Waddington · CC BY-SA 2.0*
+
+![Big Tsingy, Madagascar (20915441580).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Big_Tsingy%2C_Madagascar_%2820915441580%29.jpg/1280px-Big_Tsingy%2C_Madagascar_%2820915441580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Big Tsingy, Madagascar (20915441580).jpg · Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0*
+
+![Big Tsingy, Madagascar (23822944469).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Big_Tsingy%2C_Madagascar_%2823822944469%29.jpg/1280px-Big_Tsingy%2C_Madagascar_%2823822944469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Big Tsingy, Madagascar (23822944469).jpg · Rod Waddington · CC BY-SA 2.0*
+
+![Big Tsingy, Madagascar (24082669822) (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Big_Tsingy%2C_Madagascar_%2824082669822%29_%28cropped%29.jpg/1280px-Big_Tsingy%2C_Madagascar_%2824082669822%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Big Tsingy, Madagascar (24082669822) (cropped).jpg · Rod Waddington · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Ce bien en série situé dans l'ouest de Madagascar comprend des paysages karsti
 - ✈ **Morondava Airport (MOQ)** — 185.5 km
 - ✈ **Besalampy Airport (BPY)** — 215.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9849.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Havana** — 13.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

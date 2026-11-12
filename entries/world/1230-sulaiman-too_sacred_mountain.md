@@ -8,13 +8,13 @@ country: "KG"
 country_zh: "吉尔吉斯斯坦"
 country_en: "Kyrgyzstan"
 unesco_id: "1230"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(iii)(vi)"
 lat: 40.529444444
 lon: 72.783333333
-updated_at: "2026-11-12T12:12:12Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 苏莱曼山 / Sulaiman-Too Sacred Mountain
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:12Z"
 
 *Сулайман-Тоо с дрона.jpg · see Wikimedia Commons file page*
 
-![Sulaiman-Too Sacred Mountain](https://whc.unesco.org/uploads/sites/site_1230.jpg)
+![02 Sulejmanove gore (8).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/02_Sulejmanove_gore_%288%29.JPG/1280px-02_Sulejmanove_gore_%288%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sulaiman-Too Sacred Mountain · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*02 Sulejmanove gore (8).JPG · Ljuba brank at Slovenian Wikipedia · GFDL*
+
+![Building at Sulayman Mountain in Osh.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Building_at_Sulayman_Mountain_in_Osh.jpg/1280px-Building_at_Sulayman_Mountain_in_Osh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Building at Sulayman Mountain in Osh.jpg · Adam Harangozó · CC BY-SA 4.0*
+
+![Cave on Sulaiman Too mountain Kyrgyzstan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Cave_on_Sulaiman_Too_mountain_Kyrgyzstan.jpg/1280px-Cave_on_Sulaiman_Too_mountain_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cave on Sulaiman Too mountain Kyrgyzstan.jpg · Radosław Botev · CC BY 3.0 pl*
+
+![Cave on Sulayman Mountain 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Cave_on_Sulayman_Mountain_2.jpg/1280px-Cave_on_Sulayman_Mountain_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cave on Sulayman Mountain 2.jpg · Adam Harangozó · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms t
 - ✈ **Osh International Airport (OSS)** — 8.9 km
 - ✈ **Andijan International Airport (AZN)** — 46.8 km
 - ✈ **Fergana International Airport (FEG)** — 89.9 km
+- 🚉 **Ош-1** — 2.7 km
+- 🚉 **Кашгар** — 10.3 km
+- 🚉 **Savay** — 21.1 km
+- 🚉 **Карасу-Узбекский** — 21.7 km
+- 🚉 **Guruchmozor** — 24.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3672.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Elite** — 44.1 km — star — 3★
+- **Royal 3** — 44.4 km — star — 3★
+- **Plaza Palace** — 49.4 km — star — 3★
+- **SN Apartemens** — 1.0 km — hotel — SN Apartemens
+- **Алай** — 1.1 km — hotel — Alay
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

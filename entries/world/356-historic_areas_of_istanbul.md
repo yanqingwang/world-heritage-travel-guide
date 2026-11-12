@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 41.008333333
 lon: 28.98
-updated_at: "2026-11-12T12:11:44Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 伊斯坦布尔历史区域 / Historic Areas of Istanbul

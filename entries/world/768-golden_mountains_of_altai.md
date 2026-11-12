@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "768"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1998"
 criteria: "(x)"
 lat: 50.466666666
 lon: 86.0
-updated_at: "2026-11-12T12:11:56Z"
+updated_at: "2026-11-12T12:42:05Z"
 ---
 
 # 金山-阿尔泰山 / Golden Mountains of Altai
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:56Z"
 
 *Jazator Jul 006.jpg · see Wikimedia Commons file page*
 
-![Golden Mountains of Altai](https://whc.unesco.org/uploads/sites/site_768.jpg)
+![Golden Mountains of Altai-113325.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_Mountains_of_Altai-113325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Golden Mountains of Altai · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Golden Mountains of Altai-113325.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Golden Mountains of Altai-113327.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c5/Golden_Mountains_of_Altai-113327.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Golden Mountains of Altai-113327.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Golden Mountains of Altai-113328.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Mountains_of_Altai-113328.jpg/1280px-Golden_Mountains_of_Altai-113328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Golden Mountains of Altai-113328.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Golden Mountains of Altai-113330.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Golden_Mountains_of_Altai-113330.jpg/1280px-Golden_Mountains_of_Altai-113330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Golden Mountains of Altai-113330.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The Altai mountains in southern Siberia form the major mountain range in the wes
 - ✈ **Burqin Kanas Airport (KJI)** — 259.8 km
 - ✈ **Ölgii Mongolei International Airport (ULG)** — 326.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2866.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Уймонская жемчужина** — 31.5 km — hotel
+- **Глобус** — 32.0 km — hotel
+- **Харлей** — 32.6 km — hotel
+- **Кок-Бору** — 32.9 km — hotel
+- **Лидия** — 33.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

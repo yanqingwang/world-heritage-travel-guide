@@ -2,7 +2,7 @@
  "id": "wh-1090",
  "unesco_id": "1090",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 560,
  "popularity_score": 9430,
  "country": "CH",
@@ -50,20 +50,44 @@
  "intro_local_source": "wikipedia",
  "images": [
   {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pachypleurosaurus.jpg?width=1280",
-   "title": "Pachypleurosaurus.jpg",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Lugano.jpg?width=1280",
+   "title": "Lake Lugano.jpg",
    "author": "",
    "license": "see Wikimedia Commons file page",
-   "source": "https://commons.wikimedia.org/wiki/File:Pachypleurosaurus.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake%20Lugano.jpg",
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1090.jpg",
-   "title": "Monte San Giorgio",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1090",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Border_stone_at_Monte_San_Giorgio_2022-09-29_01.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Border stone at Monte San Giorgio 2022-09-29 01.jpg",
+   "author": "Leonhard Lenz",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Border_stone_at_Monte_San_Giorgio_2022-09-29_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Border_stone_at_Monte_San_Giorgio_2022-09-29_02.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Border stone at Monte San Giorgio 2022-09-29 02.jpg",
+   "author": "Leonhard Lenz",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Border_stone_at_Monte_San_Giorgio_2022-09-29_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Border_stone_at_Monte_San_Giorgio_2022-09-29_03.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Border stone at Monte San Giorgio 2022-09-29 03.jpg",
+   "author": "Leonhard Lenz",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Border_stone_at_Monte_San_Giorgio_2022-09-29_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Border_stone_at_Monte_San_Giorgio_2022-09-29_05.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Border stone at Monte San Giorgio 2022-09-29 05.jpg",
+   "author": "Leonhard Lenz",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Border_stone_at_Monte_San_Giorgio_2022-09-29_05.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1090",
@@ -107,10 +131,148 @@
   ],
   "nearest_airport_km": 10.2,
   "distance_beijing_km": 8054.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Brusino Arsizio Funivia",
+    "name_en": null,
+    "lat": 45.9245148,
+    "lon": 8.9344092,
+    "distance_km": 1.5,
+    "operator": "SNL"
+   },
+   {
+    "name": "Poiana",
+    "name_en": null,
+    "lat": 45.9324963,
+    "lon": 8.9554055,
+    "distance_km": 1.8,
+    "operator": "SNL"
+   },
+   {
+    "name": "Brusino Arsizio Paese",
+    "name_en": null,
+    "lat": 45.9300024,
+    "lon": 8.9379082,
+    "distance_km": 1.8,
+    "operator": "SNL"
+   },
+   {
+    "name": "Melano",
+    "name_en": null,
+    "lat": 45.9208895,
+    "lon": 8.9808767,
+    "distance_km": 2.4,
+    "operator": "SNL"
+   },
+   {
+    "name": "Maroggio (lago)",
+    "name_en": null,
+    "lat": 45.9357234,
+    "lon": 8.9683065,
+    "distance_km": 2.5,
+    "operator": "SNL"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Maroggia-Melano",
+    "name_en": null,
+    "lat": 45.932419,
+    "lon": 8.9738734,
+    "distance_km": 2.5,
+    "operator": "SBB"
+   },
+   {
+    "name": "Capolago-Riva San Vitale",
+    "name_en": null,
+    "lat": 45.9028807,
+    "lon": 8.9788841,
+    "distance_km": 2.7,
+    "operator": "SBB"
+   },
+   {
+    "name": "Bellavista",
+    "name_en": null,
+    "lat": 45.9111955,
+    "lon": 9.0012632,
+    "distance_km": 4.0,
+    "operator": "MG"
+   },
+   {
+    "name": "Porto Ceresio",
+    "name_en": null,
+    "lat": 45.9037175,
+    "lon": 8.9004815,
+    "distance_km": 4.1,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Melide",
+    "name_en": null,
+    "lat": 45.9556591,
+    "lon": 8.9483369,
+    "distance_km": 4.3,
+    "operator": "SBB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Swiss Diamond Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swiss Diamond Group",
+   "lat": 45.9330365,
+   "lon": 8.9293922,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Romantica",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swiss Diamond Group",
+   "lat": 45.9533064,
+   "lon": 8.9540215,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Meliá Campione",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.9719244,
+   "lon": 8.9718671,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vista",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8135612,
+   "lon": 9.0814102,
+   "distance_km": 15.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Lario",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8800435,
+   "lon": 9.1574616,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CH",
   "country_zh": "瑞士",
@@ -194,5 +356,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:08Z"
+ "updated_at": "2026-11-12T12:42:13Z"
 }

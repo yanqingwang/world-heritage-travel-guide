@@ -8,13 +8,13 @@ country: "CH"
 country_zh: "瑞士"
 country_en: "Switzerland"
 unesco_id: "1090"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2003"
 criteria: "(viii)"
 lat: 45.916666666
 lon: 8.95
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 圣乔治山 / Monte San Giorgio
@@ -23,13 +23,25 @@ updated_at: "2026-11-12T12:12:08Z"
 
 ## 图片 / Images
 
-![Pachypleurosaurus.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Pachypleurosaurus.jpg?width=1280)
+![Lake Lugano.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Lugano.jpg?width=1280)
 
-*Pachypleurosaurus.jpg · see Wikimedia Commons file page*
+*Lake Lugano.jpg · see Wikimedia Commons file page*
 
-![Monte San Giorgio](https://whc.unesco.org/uploads/sites/site_1090.jpg)
+![Border stone at Monte San Giorgio 2022-09-29 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Border_stone_at_Monte_San_Giorgio_2022-09-29_01.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Monte San Giorgio · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Border stone at Monte San Giorgio 2022-09-29 01.jpg · Leonhard Lenz · CC0*
+
+![Border stone at Monte San Giorgio 2022-09-29 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Border_stone_at_Monte_San_Giorgio_2022-09-29_02.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Border stone at Monte San Giorgio 2022-09-29 02.jpg · Leonhard Lenz · CC0*
+
+![Border stone at Monte San Giorgio 2022-09-29 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Border_stone_at_Monte_San_Giorgio_2022-09-29_03.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Border stone at Monte San Giorgio 2022-09-29 03.jpg · Leonhard Lenz · CC0*
+
+![Border stone at Monte San Giorgio 2022-09-29 05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Border_stone_at_Monte_San_Giorgio_2022-09-29_05.jpg/1280px-Border_stone_at_Monte_San_Giorgio_2022-09-29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Border stone at Monte San Giorgio 2022-09-29 05.jpg · Leonhard Lenz · CC0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Der Monte San Giorgio ist ein Berg im Tessin in der Schweiz. Er ist 1097 m ü. M
 - ✈ **Lugano Airport (LUG)** — 10.2 km
 - ✈ **Milan Malpensa International Airport (MXP)** — 36.2 km
 - ✈ **Milano Linate Airport (LIN)** — 58.3 km
+- 🚉 **Maroggia-Melano** — 2.5 km
+- 🚉 **Capolago-Riva San Vitale** — 2.7 km
+- 🚉 **Bellavista** — 4.0 km
+- 🚉 **Porto Ceresio** — 4.1 km
+- 🚉 **Melide** — 4.3 km
+- ⛴ **Brusino Arsizio Funivia** — 1.5 km
+- ⛴ **Poiana** — 1.8 km
+- ⛴ **Brusino Arsizio Paese** — 1.8 km
+- ⛴ **Melano** — 2.4 km
+- ⛴ **Maroggio (lago)** — 2.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8054.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Swiss Diamond Hotel** — 2.4 km — star — 5★ · Swiss Diamond Group
+- **La Romantica** — 4.1 km — star — 5★ · Swiss Diamond Group
+- **Hotel Meliá Campione** — 6.4 km — star — 5★
+- **Vista** — 15.3 km — star — 5★
+- **Villa Lario** — 16.6 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

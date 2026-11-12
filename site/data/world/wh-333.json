@@ -2,7 +2,7 @@
  "id": "wh-333",
  "unesco_id": "333",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 566,
  "popularity_score": 9350,
  "country": "PE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_333.jpg",
-   "title": "Huascarán National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/333",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1_er_carnet_de_guia_de_monta%C3%B1a_del_per%C3%BA_fue_dado_en_1940_por_Hanz_Kinzl.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1 er carnet de guia de montaña del perú fue dado en 1940 por Hanz Kinzl.png",
+   "author": "Montañas sagradas",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_er_carnet_de_guia_de_monta%C3%B1a_del_per%C3%BA_fue_dado_en_1940_por_Hanz_Kinzl.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Acampamento_Base_Pisco_Nevado.jpg/1280px-Acampamento_Base_Pisco_Nevado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Acampamento Base Pisco Nevado.jpg",
+   "author": "Diego Baravelli",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Acampamento_Base_Pisco_Nevado.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Amanecer_en_Huaraz.jpg/1280px-Amanecer_en_Huaraz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Amanecer en Huaraz.jpg",
+   "author": "Gabriela Acurio Giraldo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Amanecer_en_Huaraz.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/An-107-Yanarraju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "An-107-Yanarraju.jpg",
+   "author": "Lamder",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:An-107-Yanarraju.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/333",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sierra Nevada",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.4918093,
+   "lon": -77.5366241,
+   "distance_km": 18.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "San Sebastian",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5276873,
+   "lon": -77.5227672,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andino Club Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.534652,
+   "lon": -77.5230031,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Plaza Chacas",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.161607,
+   "lon": -77.3655831,
+   "distance_km": 26.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostal Chavin Turistico",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5903163,
+   "lon": -77.1782878,
+   "distance_km": 32.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PE",
   "country_zh": "秘鲁",
@@ -179,5 +259,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:43Z"
+ "updated_at": "2026-11-12T12:41:57Z"
 }

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(ii)(vi)"
 lat: -7.60778
 lon: 110.20361
-updated_at: "2026-11-12T12:11:50Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 婆罗浮屠寺庙群 / Borobudur Temple Compounds

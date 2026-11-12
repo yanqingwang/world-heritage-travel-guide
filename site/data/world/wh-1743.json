@@ -2,7 +2,7 @@
  "id": "wh-1743",
  "unesco_id": "1743",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 576,
  "popularity_score": 9099,
  "country": "RU",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1743.jpg",
-   "title": "Rock Paintings of Shulgan-Tash Cave",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1743",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5.jpg/1280px-%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Шүлгән- таш\"мәмерйәһе.jpg",
+   "author": "Зөлхизә96",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5%D0%BD%D0%B5%D2%A3_%D1%8D%D1%81%D0%B5%D0%BD%D0%B4%D3%99%D0%B3%D0%B5_%D0%BA%D2%AF%D0%BB.jpg/1280px-%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5%D0%BD%D0%B5%D2%A3_%D1%8D%D1%81%D0%B5%D0%BD%D0%B4%D3%99%D0%B3%D0%B5_%D0%BA%D2%AF%D0%BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Шүлгән- таш\"мәмерйәһенең эсендәге күл.jpg",
+   "author": "Зөлхизә96",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5%D0%BD%D0%B5%D2%A3_%D1%8D%D1%81%D0%B5%D0%BD%D0%B4%D3%99%D0%B3%D0%B5_%D0%BA%D2%AF%D0%BB.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kapova_Cave_%28Portal%29.jpg/1280px-Kapova_Cave_%28Portal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kapova Cave (Portal).jpg",
+   "author": "SoloveiYegor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kapova_Cave_%28Portal%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kapova_cave%2C_replica.JPG/1280px-Kapova_cave%2C_replica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kapova cave, replica.JPG",
+   "author": "HTO",
+   "license": "Public domain",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Kapova_cave%2C_replica.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1743",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Акбузат",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0349087,
+   "lon": 57.0842574,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Акбулат",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0747988,
+   "lon": 57.1328799,
+   "distance_km": 5.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Турбаза БУРЗЯН",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.9634692,
+   "lon": 57.0289005,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Юлбарс",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0020248,
+   "lon": 56.536833,
+   "distance_km": 35.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "База отдыха \"Дубрава\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.0927001,
+   "lon": 56.4389745,
+   "distance_km": 42.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:32Z"
+ "updated_at": "2026-11-12T12:42:25Z"
 }

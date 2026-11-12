@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Thuchila Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.8669308,
+   "lon": 35.5823867,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lujeri Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.033468,
+   "lon": 35.6559831,
+   "distance_km": 14.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Likhubula Hikers' Nest",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.9394918,
+   "lon": 35.4968126,
+   "distance_km": 17.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gateway Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.9466552,
+   "lon": 35.4878506,
+   "distance_km": 18.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kara O'Mula Country Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.0199415,
+   "lon": 35.5187432,
+   "distance_km": 19.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [
+  {
+   "name": "Luchenza",
+   "name_en": null,
+   "lat": -16.0096618,
+   "lon": 35.3065317,
+   "distance_km": 38.7,
+   "operator": null
+  },
+  {
+   "name": "Nansadi",
+   "name_en": null,
+   "lat": -15.8881371,
+   "lon": 35.2007148,
+   "distance_km": 48.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:32:20Z"
+}

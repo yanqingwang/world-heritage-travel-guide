@@ -8,13 +8,13 @@ country: "MY"
 country_zh: "马来西亚"
 country_en: "Malaysia"
 unesco_id: "1223"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(ii)(iii)(iv)"
 lat: 4.4615264666000005
 lon: 109.56984446659999
-updated_at: "2026-11-12T12:12:12Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 马六甲海峡的历史名城：马六甲和乔治城 / Melaka and George Town, Historic Cities of the Straits of Malacca
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:12Z"
 
 *Malacca River Melaka 1.jpg · see Wikimedia Commons file page*
 
-![Melaka and George Town, Historic Cities of the Straits of Malacca](https://whc.unesco.org/uploads/sites/site_1223.jpg)
+![Chee Mansion Chee Yam Chuan Temple Melaka.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Chee_Mansion_Chee_Yam_Chuan_Temple_Melaka.jpg/1280px-Chee_Mansion_Chee_Yam_Chuan_Temple_Melaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Melaka and George Town, Historic Cities of the Straits of Malacca · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chee Mansion Chee Yam Chuan Temple Melaka.jpg · Philip Nalangan · CC BY 4.0*
+
+![Flor de la Mar Ship.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flor_de_la_Mar_Ship.jpg/1280px-Flor_de_la_Mar_Ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Flor de la Mar Ship.jpg · Philip Nalangan · CC BY 4.0*
+
+![Malacca River Melaka 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Malacca_River_Melaka_1.jpg/1280px-Malacca_River_Melaka_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Malacca River Melaka 1.jpg · Philip Nalangan · CC BY 4.0*
+
+![Malacca River Melaka.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Malacca_River_Melaka.jpg/1280px-Malacca_River_Melaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Malacca River Melaka.jpg · Philip Nalangan · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,12 @@ Melaka and George Town, historic cities of the Straits of Malacca have developed
 - ✈ **Mukah Airport (MKM)** — 325.9 km
 - ✈ **Kuching International Airport (KCH)** — 341.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4105.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

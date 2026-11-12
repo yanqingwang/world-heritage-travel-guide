@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.5803488,
+   "lon": -6.8298863,
+   "distance_km": 37.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge Beau Séjour",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.872893,
+   "lon": -7.4559121,
+   "distance_km": 39.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ecotel Touraco",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 5.3899275,
+   "lon": -7.251913,
+   "distance_km": 42.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:40Z"
+}

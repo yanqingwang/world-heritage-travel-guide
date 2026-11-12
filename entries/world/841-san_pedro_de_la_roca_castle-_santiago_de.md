@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iv)(v)"
 lat: 19.968705555
 lon: -75.8703
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 古巴圣地亚哥的圣佩德罗德拉罗卡堡 / San Pedro de la Roca Castle, Santiago de Cuba

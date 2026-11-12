@@ -8,13 +8,13 @@ country: "SE"
 country_zh: "瑞典"
 country_en: "Sweden"
 unesco_id: "557"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(i)(iii)(iv)"
 lat: 58.69995
 lon: 11.33641
-updated_at: "2026-11-12T12:11:49Z"
+updated_at: "2026-11-12T12:42:01Z"
 ---
 
 # 塔努姆的岩刻画 / Rock Carvings in Tanum
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:49Z"
 
 *Tanumshede 2005 rock carvings 7.jpg · see Wikimedia Commons file page*
 
-![Rock Carvings in Tanum](https://whc.unesco.org/uploads/sites/site_557.jpg)
+![Bro utmark - KMB - 16000300029215.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Bro_utmark_-_KMB_-_16000300029215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Rock Carvings in Tanum · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bro utmark - KMB - 16000300029215.jpg · Bengt A. Lundberg · CC BY 2.5*
+
+![Bro utmark - KMB - 16000300029295.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Bro_utmark_-_KMB_-_16000300029295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bro utmark - KMB - 16000300029295.jpg · Bengt A. Lundberg · CC BY 2.5*
+
+![Bro utmark - KMB - 16000300029297.jpg](https://upload.wikimedia.org/wikipedia/commons/2/23/Bro_utmark_-_KMB_-_16000300029297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bro utmark - KMB - 16000300029297.jpg · Bengt A. Lundberg · CC BY 2.5*
+
+![Bro utmark - KMB - 16000300029298.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/Bro_utmark_-_KMB_-_16000300029298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bro utmark - KMB - 16000300029298.jpg · Bengt A. Lundberg · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Hällristningsområdet i Tanum är ett område i Tanums kommun i Bohuslän där 
 - ✈ **Trollhättan-Vänersborg Airport (THN)** — 72.4 km
 - ✈ **Sandefjord Airport, Torp (TRF)** — 82.2 km
 - ✈ **Göteborg Landvetter Airport (GOT)** — 127.9 km
+- 🚉 **Tanum** — 2.8 km
+- 🚉 **Rabbalshede** — 12.7 km
+- 🚉 **Överby** — 16.5 km
+- 🚉 **Hällevadsholm** — 17.6 km
+- 🚉 **Dingle** — 23.6 km
+- ⛴ **Bohuslänska Jaktklubben** — 5.0 km
+- ⛴ **Fiskhamn** — 15.0 km
+- ⛴ **Hamburgsund** — 16.9 km
+- ⛴ **Hamburgö** — 16.9 km
+- ⛴ **Kilesand** — 25.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7040.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Tillfälligt boende för asylsökande** — 1.7 km — hotel
+- **Tanums Gestgifveri** — 2.6 km — hotel
+- **Tanumstrand** — 5.2 km — hotel
+- **Fjällbacka Pensionat och Vandrarhem** — 11.6 km — hotel
+- **Stora Hotellet** — 11.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "هتل شورابیل",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 38.2184582,
+   "lon": 48.291874,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سبلان",
+   "name_en": "Sabalan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.2468638,
+   "lon": 48.2913967,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل نگین",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.2503772,
+   "lon": 48.2927406,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل حسین",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.2489961,
+   "lon": 48.2876506,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ideal",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.2486742,
+   "lon": 48.2998989,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 43,
+ "stations": [
+  {
+   "name": "اردبیل",
+   "name_en": "Ardabil",
+   "lat": 38.2591285,
+   "lon": 48.3980665,
+   "distance_km": 9.4,
+   "operator": null
+  },
+  {
+   "name": "مهماندوست",
+   "name_en": "Mhmandwst",
+   "lat": 38.0499081,
+   "lon": 48.303931,
+   "distance_km": 22.1,
+   "operator": null
+  },
+  {
+   "name": "جعفرلو",
+   "name_en": "Jafarlou",
+   "lat": 37.9085373,
+   "lon": 48.380575,
+   "distance_km": 38.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:33:11Z"
+}

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 46.192777777
 lon: 9.022222222
-updated_at: "2026-11-12T12:12:01Z"
+updated_at: "2026-11-12T12:42:09Z"
 ---
 
 # 贝林佐纳三座要塞及防卫墙和集镇 / Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona

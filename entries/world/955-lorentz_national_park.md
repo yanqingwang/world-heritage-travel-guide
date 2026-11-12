@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "955"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1999"
 criteria: "(viii)(ix)(x)"
 lat: -4.75
 lon: 137.833333
-updated_at: "2026-11-12T12:12:05Z"
+updated_at: "2026-11-12T12:42:10Z"
 ---
 
 # 洛伦茨国家公园 / Lorentz National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:05Z"
 
 *Taman Nasional Lorentz.jpg · see Wikimedia Commons file page*
 
-![Lorentz National Park](https://whc.unesco.org/uploads/sites/site_955.jpg)
+![01MJB.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e0/01MJB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Lorentz National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*01MJB.jpg · Arfani Mujib · CC BY-SA 4.0*
+
+![01MUJIB.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/01MUJIB.jpg/1280px-01MUJIB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01MUJIB.jpg · Arfani Mujib · CC BY-SA 4.0*
+
+![02ArfaniMujib.jpg](https://upload.wikimedia.org/wikipedia/commons/9/96/02ArfaniMujib.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*02ArfaniMujib.jpg · Arfani Mujib · CC BY-SA 4.0*
+
+![08MUJIB.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1d/08MUJIB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*08MUJIB.jpg · Arfani Mujib · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Taman Nasional Lorentz adalah sebuah taman nasional yang terletak di antara 3 pr
 - ✈ **Bilorai Airport (UGU)** — 143.3 km
 - ✈ **Wamena Airport (WMX)** — 143.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5376.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

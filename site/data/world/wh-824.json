@@ -2,7 +2,7 @@
  "id": "wh-824",
  "unesco_id": "824",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 561,
  "popularity_score": 9427,
  "country": "IT",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_824.jpg",
-   "title": "Botanical Garden (Orto Botanico), Padua",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/824",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Heritage_Plaque_10-07_to_22_1399.jpg/1280px-Heritage_Plaque_10-07_to_22_1399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Heritage Plaque 10-07 to 22 1399.jpg",
+   "author": "Chris Light",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Heritage_Plaque_10-07_to_22_1399.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/L%27Orto_Bontanico_10-07_to_22_1395.jpg/1280px-L%27Orto_Bontanico_10-07_to_22_1395.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "L'Orto Bontanico 10-07 to 22 1395.jpg",
+   "author": "Chris Light",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:L%27Orto_Bontanico_10-07_to_22_1395.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/OrtoBotPadova_Ingresso.jpg/1280px-OrtoBotPadova_Ingresso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "OrtoBotPadova Ingresso.jpg",
+   "author": "Semolo75",
+   "license": "Public domain",
+   "credit": "Picture taken by Semolo75 in the Botanical Garden of Padua",
+   "source": "https://commons.wikimedia.org/wiki/File:OrtoBotPadova_Ingresso.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Entrance_10-18_1400.jpg/1280px-Entrance_10-18_1400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Entrance 10-18 1400.jpg",
+   "author": "Chris Light",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_10-18_1400.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/824",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 36.9,
   "distance_beijing_km": 7882.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Villa Pisani",
+    "name_en": null,
+    "lat": 45.4077237,
+    "lon": 12.0132376,
+    "distance_km": 10.4,
+    "operator": null
+   },
+   {
+    "name": "Villa Widmann",
+    "name_en": null,
+    "lat": 45.4417349,
+    "lon": 12.1463051,
+    "distance_km": 21.3,
+    "operator": null
+   },
+   {
+    "name": "Villa Foscari",
+    "name_en": null,
+    "lat": 45.4360606,
+    "lon": 12.2025122,
+    "distance_km": 25.4,
+    "operator": null
+   },
+   {
+    "name": "VeCON",
+    "name_en": null,
+    "lat": 45.456448,
+    "lon": 12.2449452,
+    "distance_km": 29.1,
+    "operator": null
+   },
+   {
+    "name": "Venice Fusina Ferry Terminal",
+    "name_en": null,
+    "lat": 45.4249228,
+    "lon": 12.2562117,
+    "distance_km": 29.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Padova",
+    "name_en": null,
+    "lat": 45.4177424,
+    "lon": 11.8804975,
+    "distance_km": 2.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Vigodarzere",
+    "name_en": null,
+    "lat": 45.4532936,
+    "lon": 11.8914755,
+    "distance_km": 6.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Terme Euganee - Abano - Montegrotto",
+    "name_en": null,
+    "lat": 45.3273535,
+    "lon": 11.7964255,
+    "distance_km": 10.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Dolo",
+    "name_en": null,
+    "lat": 45.4533067,
+    "lon": 12.0717172,
+    "distance_km": 16.1,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Grisignano di Zocco",
+    "name_en": null,
+    "lat": 45.4866089,
+    "lon": 11.7109632,
+    "distance_km": 16.4,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Tritone Terme",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3486084,
+   "lon": 11.7834023,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Due Torri",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3524633,
+   "lon": 11.7784903,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Première",
+   "name_en": null,
+   "stars": 5,
+   "brand": "V Hotels",
+   "lat": 45.3471055,
+   "lon": 11.7778924,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eslpanade Tergesteo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3347106,
+   "lon": 11.785586,
+   "distance_km": 10.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Terme",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3309594,
+   "lon": 11.7890651,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:59Z"
+ "updated_at": "2026-11-12T12:42:07Z"
 }

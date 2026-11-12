@@ -2,7 +2,7 @@
  "id": "wh-782",
  "unesco_id": "782",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 556,
  "popularity_score": 9544,
  "country": "ES",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_782.jpg",
-   "title": "La Lonja de la Seda de Valencia",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/782",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pla%C3%A7amercat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Plaçamercat.jpg",
+   "author": "Felivet",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pla%C3%A7amercat.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/La_Llotja_de_Val%C3%A8ncia_el_1704_%28pl%C3%A0nol_del_pare_Tosca%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "La Llotja de València el 1704 (plànol del pare Tosca).jpg",
+   "author": "Tomàs Vicent Tosca i Mascó (1651 - 1723)",
+   "license": "Public domain",
+   "credit": "http://remembervalenciaelblog.blogspot.com/",
+   "source": "https://commons.wikimedia.org/wiki/File:La_Llotja_de_Val%C3%A8ncia_el_1704_%28pl%C3%A0nol_del_pare_Tosca%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Llotja_pla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Llotja pla.jpg",
+   "author": "Felivet",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Llotja_pla.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/057_Llotja_de_la_Seda%2C_pl._del_Mercat_31_%28Val%C3%A8ncia%29.jpg/1280px-057_Llotja_de_la_Seda%2C_pl._del_Mercat_31_%28Val%C3%A8ncia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "057 Llotja de la Seda, pl. del Mercat 31 (València).jpg",
+   "author": "Enric",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:057_Llotja_de_la_Seda%2C_pl._del_Mercat_31_%28Val%C3%A8ncia%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/782",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 9.0,
   "distance_beijing_km": 9107.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Mundo Marino Catamaranes",
+    "name_en": null,
+    "lat": 39.4611668,
+    "lon": -0.3254872,
+    "distance_km": 4.8,
+    "operator": "Mundo Marino"
+   },
+   {
+    "name": "Terminal Acciona-Trasmediterránea",
+    "name_en": null,
+    "lat": 39.454859,
+    "lon": -0.326857,
+    "distance_km": 4.9,
+    "operator": "Acciona-Trasmediterránea"
+   },
+   {
+    "name": "GNV Ticket Office",
+    "name_en": null,
+    "lat": 39.4506047,
+    "lon": -0.3241696,
+    "distance_km": 5.4,
+    "operator": null
+   },
+   {
+    "name": "GNV Ferry Terminal",
+    "name_en": null,
+    "lat": 39.4509472,
+    "lon": -0.3235744,
+    "distance_km": 5.4,
+    "operator": null
+   },
+   {
+    "name": "Terminal Baleària",
+    "name_en": null,
+    "lat": 39.4463849,
+    "lon": -0.3254862,
+    "distance_km": 5.5,
+    "operator": "Baleària Eurolíneas Marítimas S.A."
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "València - Estació del Nord",
+    "name_en": "Valencia - North Station",
+    "lat": 39.4669126,
+    "lon": -0.3771908,
+    "distance_km": 0.8,
+    "operator": "Adif"
+   },
+   {
+    "name": "València Joaquín Sorolla",
+    "name_en": null,
+    "lat": 39.4600472,
+    "lon": -0.3812078,
+    "distance_km": 1.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "València - La Font de Sant Lluís",
+    "name_en": null,
+    "lat": 39.441528,
+    "lon": -0.3714612,
+    "distance_km": 3.7,
+    "operator": "Renfe"
+   },
+   {
+    "name": "Alfafar - Benetússer",
+    "name_en": null,
+    "lat": 39.422329,
+    "lon": -0.3925914,
+    "distance_km": 5.9,
+    "operator": "Adif"
+   },
+   {
+    "name": "Massanassa",
+    "name_en": null,
+    "lat": 39.4091688,
+    "lon": -0.3953228,
+    "distance_km": 7.4,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Balneario Resort Las Arenas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.4666552,
+   "lon": -0.32404,
+   "distance_km": 4.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel & SPA Plaza Mercado",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.4734487,
+   "lon": -0.3775192,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vincci Mercat",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Vincci Hoteles",
+   "lat": 39.4720342,
+   "lon": -0.3789898,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Meliá Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Meliá",
+   "lat": 39.4710216,
+   "lon": -0.3769836,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Helen Berger Hotel & Bar",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.4723383,
+   "lon": -0.3726124,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:57Z"
+ "updated_at": "2026-11-12T12:42:06Z"
 }

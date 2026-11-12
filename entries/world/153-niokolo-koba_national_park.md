@@ -8,13 +8,13 @@ country: "SN"
 country_zh: "塞内加尔"
 country_en: "Senegal"
 unesco_id: "153"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1981"
 criteria: "(x)"
 lat: 13.074166666
 lon: -12.722222222
-updated_at: "2026-11-12T12:11:36Z"
+updated_at: "2026-11-12T12:41:54Z"
 ---
 
 # 尼奥科罗-科巴国家公园 / Niokolo-Koba National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:36Z"
 
 *River gambia Niokolokoba National Park.gif · see Wikimedia Commons file page*
 
-![Niokolo-Koba National Park](https://whc.unesco.org/uploads/sites/site_153.jpg)
+![A curious and wet Guinea baboon in the wild.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/A_curious_and_wet_Guinea_baboon_in_the_wild.jpg/1280px-A_curious_and_wet_Guinea_baboon_in_the_wild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Niokolo-Koba National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A curious and wet Guinea baboon in the wild.jpg · Vincent Niochet · CC BY-SA 4.0*
+
+![Abeille1A.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Abeille1A.jpg/1280px-Abeille1A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abeille1A.jpg · Baliou · CC0*
+
+![Abreuvoir à la réserve de Guembeul.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Abreuvoir_%C3%A0_la_r%C3%A9serve_de_Guembeul.jpg/1280px-Abreuvoir_%C3%A0_la_r%C3%A9serve_de_Guembeul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abreuvoir à la réserve de Guembeul.jpg · Vieille Mère · CC BY-SA 4.0*
+
+![Antilope au parc national Niokolokoba du Sénégal 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Antilope_au_parc_national_Niokolokoba_du_S%C3%A9n%C3%A9gal_06.jpg/1280px-Antilope_au_parc_national_Niokolokoba_du_S%C3%A9n%C3%A9gal_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Antilope au parc national Niokolokoba du Sénégal 06.jpg · Yvonneberthe · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Situées dans une zone bien irriguée, le long des rives de la Gambie, les forê
 - ✈ **Osvaldo Vieira International Airport (OXB)** — 344.2 km
 - ✈ **Ziguinchor Airport (ZIG)** — 390.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11914.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Keur Annick Hippo-lodge** — 47.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

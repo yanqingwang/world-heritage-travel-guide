@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "274"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1983"
 criteria: "(i)(iii)(vii)(ix)"
 lat: -13.11666667
 lon: -72.58333333
-updated_at: "2026-11-12T12:11:41Z"
+updated_at: "2026-11-12T12:41:56Z"
 ---
 
 # 马丘比丘古神庙 / Historic Sanctuary of Machu Picchu
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:41Z"
 
 *Machu Picchu Panorama.jpg · see Wikimedia Commons file page*
 
-![Historic Sanctuary of Machu Picchu](https://whc.unesco.org/uploads/sites/site_274.jpg)
+![20250713 080358 - Aparcamiento comienzo del camino inca en Piskacucho.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20250713_080358_-_Aparcamiento_comienzo_del_camino_inca_en_Piskacucho.jpg/1280px-20250713_080358_-_Aparcamiento_comienzo_del_camino_inca_en_Piskacucho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Sanctuary of Machu Picchu · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20250713 080358 - Aparcamiento comienzo del camino inca en Piskacucho.jpg · Josefito123 · CC BY-SA 4.0*
+
+![20250713 080648 - Control de acceso al comienzo del camino inca en Piskacucho.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20250713_080648_-_Control_de_acceso_al_comienzo_del_camino_inca_en_Piskacucho.jpg/1280px-20250713_080648_-_Control_de_acceso_al_comienzo_del_camino_inca_en_Piskacucho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250713 080648 - Control de acceso al comienzo del camino inca en Piskacucho.jpg · Josefito123 · CC BY-SA 4.0*
+
+![20250713 080651 Control de acceso al comienzo del camino inca en Piskacucho.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20250713_080651_Control_de_acceso_al_comienzo_del_camino_inca_en_Piskacucho.jpg/1280px-20250713_080651_Control_de_acceso_al_comienzo_del_camino_inca_en_Piskacucho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250713 080651 Control de acceso al comienzo del camino inca en Piskacucho.jpg · Josefito123 · CC BY-SA 4.0*
+
+![20250713 110641 - Río Urubamba cerca de Mescay.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/20250713_110641_-_R%C3%ADo_Urubamba_cerca_de_Mescay.jpg/1280px-20250713_110641_-_R%C3%ADo_Urubamba_cerca_de_Mescay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250713 110641 - Río Urubamba cerca de Mescay.jpg · Josefito123 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Ubicado a 2.430 metros de altura en un paraje de gran belleza, en medio de un bo
 - ✈ **Alejandro Velasco Astete International Airport (CUZ)** — 83.9 km
 - ✈ **Andahuaylas Airport (ANS)** — 105.8 km
 - ✈ **Air Force Colonel Alfredo Mendivil Duarte Airport (AYP)** — 175.6 km
+- 🚉 **Mandor** — 5.9 km
+- 🚉 **San Miguel** — 6.3 km
+- 🚉 **Hidroeléctrica** — 6.9 km
+- 🚉 **Puente Ruinas** — 7.0 km
+- 🚉 **Machu Picchu Pueblo (Avenida Imperio de los Incas)** — 7.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16948.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Golden Sunrise Machupicchu** — 7.9 km — star — 4★ · Golden Sunrise
+- **Hotel Casa Suite Inka** — 38.3 km — star — 4★
+- **Sumaq Hotel** — 7.3 km — star — 3★ · Sumaq Hotel
+- **Hotel Terraza de Luna** — 7.7 km — star — 3★
+- **Retama** — 7.7 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

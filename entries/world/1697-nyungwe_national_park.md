@@ -8,13 +8,13 @@ country: "RW"
 country_zh: "卢旺达"
 country_en: "Rwanda"
 unesco_id: "1697"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2023"
 criteria: "(x)"
 lat: -2.5282157
 lon: 29.2758463
-updated_at: "2026-11-12T12:12:29Z"
+updated_at: "2026-11-12T12:42:24Z"
 ---
 
 # 纽恩威国家公园 / Nyungwe National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:29Z"
 
 *Sunrisenyungwe.jpg · see Wikimedia Commons file page*
 
-![Nyungwe National Park](https://whc.unesco.org/uploads/sites/site_1697.jpg)
+![Ibiti birebire bya Nyungwe.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ibiti_birebire_bya_Nyungwe.jpg/1280px-Ibiti_birebire_bya_Nyungwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Nyungwe National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ibiti birebire bya Nyungwe.jpg · Alain Vick · CC BY-SA 4.0*
+
+![Nyungwe rahvuspark Landsat 19jul86.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Nyungwe_rahvuspark_Landsat_19jul86.jpg/1280px-Nyungwe_rahvuspark_Landsat_19jul86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Nyungwe rahvuspark Landsat 19jul86.jpg · Earth Observatory · Public domain*
+
+![A cote de la foret de Nyungwe at Cyangugu, cfrt 0783095816.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/A_cote_de_la_foret_de_Nyungwe_at_Cyangugu%2C_cfrt_0783095816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A cote de la foret de Nyungwe at Cyangugu, cfrt 0783095816.jpg · Umuhozagentille1994 · CC BY-SA 4.0*
+
+![A guide leading a hike through Nyungwe National Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/A_guide_leading_a_hike_through_Nyungwe_National_Park.jpg/1280px-A_guide_leading_a_hike_through_Nyungwe_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A guide leading a hike through Nyungwe National Park.jpg · travelmag.com · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ Ce bien en série représente un site important pour la conservation des forêts
 - ✈ **Kamembe Airport (KME)** — 41.5 km
 - ✈ **Bujumbura Melchior Ndadaye International Airport (BJM)** — 88.6 km
 - ✈ **Kirundo Airport (KRE)** — 91.0 km
+- ⛴ **Port de Lushindi** — 42.1 km
+- ⛴ **Port de Kashofu** — 43.6 km
+- ⛴ **Ihusi Express – speedboat to Goma** — 47.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9986.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Angel** — 46.7 km — star — 1★
+- **Nyungwe Nziza Eco-Lodge** — 14.7 km — hotel
+- **Nyungwe Ecovillage** — 15.4 km — hotel — Nyungwe Eco Village
+- **One&Only Nyungwe House** — 21.1 km — hotel
+- **Gisakura Guesthouse** — 22.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

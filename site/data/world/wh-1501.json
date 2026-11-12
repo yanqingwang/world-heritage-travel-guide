@@ -2,7 +2,7 @@
  "id": "wh-1501",
  "unesco_id": "1501",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 503,
  "popularity_score": 11610,
  "country": "ES",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1501.jpg",
-   "title": "Antequera Dolmens Site",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1501",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aula_Encarnaci%C3%B3n_Cabr%C3%A9.jpg/1280px-Aula_Encarnaci%C3%B3n_Cabr%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aula Encarnación Cabré.jpg",
+   "author": "Mentxuwiki",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aula_Encarnaci%C3%B3n_Cabr%C3%A9.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Conjunto_Arqueol%C3%B3gico_D%C3%B3lmenes_de_Antequera.jpg/1280px-Conjunto_Arqueol%C3%B3gico_D%C3%B3lmenes_de_Antequera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Conjunto Arqueológico Dólmenes de Antequera.jpg",
+   "author": "Mentxuwiki",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Conjunto_Arqueol%C3%B3gico_D%C3%B3lmenes_de_Antequera.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Dolmen3_%2823278503283%29.jpg/1280px-Dolmen3_%2823278503283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dolmen3 (23278503283).jpg",
+   "author": "IMBiblio",
+   "license": "CC BY-SA 2.0",
+   "credit": "Dolmen3",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolmen3_%2823278503283%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Entrata_Dolmen_Antequera.jpg/1280px-Entrata_Dolmen_Antequera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Entrata Dolmen Antequera.jpg",
+   "author": "Effepi93",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrata_Dolmen_Antequera.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1501",
@@ -101,10 +125,124 @@
   ],
   "nearest_airport_km": 38.6,
   "distance_beijing_km": 9575.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Catamarán Mundo Marino",
+    "name_en": null,
+    "lat": 36.7178495,
+    "lon": -4.4133082,
+    "distance_km": 36.0,
+    "operator": "Innova Cruceros S.L."
+   },
+   {
+    "name": "Estación Marítima de Málaga",
+    "name_en": null,
+    "lat": 36.715867,
+    "lon": -4.4187236,
+    "distance_km": 36.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Antequera Alta Velocidad",
+    "name_en": null,
+    "lat": 37.029483,
+    "lon": -4.5613719,
+    "distance_km": 1.4,
+    "operator": "Adif"
+   },
+   {
+    "name": "Antequera-Santa Ana",
+    "name_en": null,
+    "lat": 37.0701682,
+    "lon": -4.7197084,
+    "distance_km": 16.1,
+    "operator": "Adif"
+   },
+   {
+    "name": "Bobadilla",
+    "name_en": null,
+    "lat": 37.0376401,
+    "lon": -4.7279832,
+    "distance_km": 16.1,
+    "operator": "Adif"
+   },
+   {
+    "name": "Fuente de Piedra",
+    "name_en": null,
+    "lat": 37.1352604,
+    "lon": -4.7381444,
+    "distance_km": 21.0,
+    "operator": "Adif"
+   },
+   {
+    "name": "Las Mellizas",
+    "name_en": null,
+    "lat": 36.8732189,
+    "lon": -4.7192019,
+    "distance_km": 22.6,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "La Bobadilla, a Royal Hideway Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Barceló Hotel Group",
+   "lat": 37.1645637,
+   "lon": -4.2923307,
+   "distance_km": 27.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vincci Selección Posada del Patio",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Vincci Hotels",
+   "lat": 36.720303,
+   "lon": -4.4247371,
+   "distance_km": 35.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Only You Hotel Málaga",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7176684,
+   "lon": -4.4210419,
+   "distance_km": 35.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Miramar",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7201701,
+   "lon": -4.4075333,
+   "distance_km": 36.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vincci Selección Aleysa;Vincci Seleccion Aleysa Boutique & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Vincci Hoteles",
+   "lat": 36.5928898,
+   "lon": -4.5226447,
+   "distance_km": 47.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -175,5 +313,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:21Z"
+ "updated_at": "2026-11-12T12:42:21Z"
 }

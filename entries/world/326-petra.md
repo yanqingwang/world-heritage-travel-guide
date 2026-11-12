@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 30.328888888
 lon: 35.440277777
-updated_at: "2026-11-12T12:11:43Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 佩特拉 / Petra

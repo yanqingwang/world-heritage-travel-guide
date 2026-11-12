@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Anantara Al Jabal Al Akhdar Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 23.0677887,
+   "lon": 57.6700253,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alila Jabal Akhdar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Alila",
+   "lat": 23.1418871,
+   "lon": 57.5351747,
+   "distance_km": 15.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "جولدن توليب",
+   "name_en": "Golden Tulip Nizwa",
+   "stars": 4,
+   "brand": "Golden Tulip",
+   "lat": 22.9246622,
+   "lon": 57.6187902,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sahab Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 23.0726043,
+   "lon": 57.6680916,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Falaj Daris",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8956493,
+   "lon": 57.5305646,
+   "distance_km": 11.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 42,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:32:53Z"
+}

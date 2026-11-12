@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 38.863055555
 lon: 125.415
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 高句丽古墓群 / Complex of Koguryo Tombs

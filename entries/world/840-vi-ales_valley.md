@@ -8,13 +8,13 @@ country: "CU"
 country_zh: "古巴"
 country_en: "Cuba"
 unesco_id: "840"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(iv)"
 lat: 22.616666666
 lon: -83.716666666
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 比尼亚莱斯山谷 / Viñales Valley
@@ -64,7 +64,25 @@ Rodeado de montañas, el fértil valle de Viñales está sembrado de espectacula
 - ✈ **Rafael Cabrera Airport (GER)** — 129.5 km
 - ✈ **José Martí International Airport (HAV)** — 140.3 km
 - ✈ **Juan Gualberto Gomez International Airport (VRA)** — 238.4 km
+- 🚉 **Pinar del Río** — 23.1 km
+- 🚉 **Distancia** — 24.4 km
+- 🚉 **Las Ovas** — 24.6 km
+- 🚉 **Puerta de Golpe** — 25.4 km
+- 🚉 **Herradura** — 33.2 km
+- ⛴ **Cayo Levisa** — 35.5 km
+- ⛴ **Base de Pesca Deportiva** — 44.0 km
+- ⛴ **Muelle del Barco de la Isla** — 44.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12843.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Cayo Levisa** — 35.7 km — star — 3★
+- **Rancho San Vicente** — 6.4 km — star — 2★
+- **Cabaña La Realidad** — 0.3 km — hotel
+- **Hotel Central Viñales** — 0.8 km — hotel
+- **Hotel Horizontes La Ermita** — 1.9 km — hotel — Horizontes
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,7 +2,7 @@
  "id": "wh-902",
  "unesco_id": "902",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 528,
  "popularity_score": 10688,
  "country": "RO",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_902.jpg",
-   "title": "Historic Centre of Sighişoara",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/902",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Historic_Centre_of_Sighi%C8%99oara_Oct_2018_036.jpg/1280px-Historic_Centre_of_Sighi%C8%99oara_Oct_2018_036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Historic Centre of Sighișoara Oct 2018 036.jpg",
+   "author": "Yamen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Historic_Centre_of_Sighi%C8%99oara_Oct_2018_036.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Sch%C3%A4ssburgAltstadt.jpg/1280px-Sch%C3%A4ssburgAltstadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "SchässburgAltstadt.jpg",
+   "author": "Oswald Engelhardt",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sch%C3%A4ssburgAltstadt.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Sighisoara_-_Strada_Turnului.jpg/1280px-Sighisoara_-_Strada_Turnului.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sighisoara - Strada Turnului.jpg",
+   "author": "Paszczur01",
+   "license": "CC BY-SA 3.0 ro",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sighisoara_-_Strada_Turnului.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sighi%C5%9Foara_%28Sch%C3%A4%C3%9Fburg%2C_Segesv%C3%A1r%29_-_The_Shoemakers_Tower.JPG/1280px-Sighi%C5%9Foara_%28Sch%C3%A4%C3%9Fburg%2C_Segesv%C3%A1r%29_-_The_Shoemakers_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sighişoara (Schäßburg, Segesvár) - The Shoemakers Tower.JPG",
+   "author": "Pudelek (Marcin Szala)",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sighi%C5%9Foara_%28Sch%C3%A4%C3%9Fburg%2C_Segesv%C3%A1r%29_-_The_Shoemakers_Tower.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/902",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 40.3,
   "distance_beijing_km": 7056.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Daneș",
+    "name_en": null,
+    "lat": 46.2250083,
+    "lon": 24.7033572,
+    "distance_km": 6.9,
+    "operator": "CFR"
+   },
+   {
+    "name": "Dumbrăveni",
+    "name_en": null,
+    "lat": 46.2159157,
+    "lon": 24.5633427,
+    "distance_km": 17.6,
+    "operator": "CFR"
+   },
+   {
+    "name": "Cristur",
+    "name_en": null,
+    "lat": 46.2935195,
+    "lon": 25.0389097,
+    "distance_km": 20.8,
+    "operator": "CFR"
+   },
+   {
+    "name": "Bălăușeri",
+    "name_en": null,
+    "lat": 46.4068466,
+    "lon": 24.6997699,
+    "distance_km": 22.2,
+    "operator": "Regiotrans"
+   },
+   {
+    "name": "Fântânele",
+    "name_en": null,
+    "lat": 46.4165515,
+    "lon": 24.7609414,
+    "distance_km": 22.2,
+    "operator": "Regiotrans"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.544596,
+   "lon": 24.5618246,
+   "distance_km": 40.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Perla",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5263879,
+   "lon": 24.54187,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Europa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5389267,
+   "lon": 24.5695987,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Imperial",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5418975,
+   "lon": 24.575715,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Adria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.5465703,
+   "lon": 24.5861336,
+   "distance_km": 39.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RO",
   "country_zh": "罗马尼亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:02Z"
+ "updated_at": "2026-11-12T12:42:09Z"
 }

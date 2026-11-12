@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1398"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2012"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.258121354
 lon: 55.168991133
-updated_at: "2026-11-12T12:12:17Z"
+updated_at: "2026-11-12T12:42:19Z"
 ---
 
 # 貢巴德·卡武斯高塔 / Gonbad-e Qābus
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:17Z"
 
 *Gonbad-e Qabus Tower by Hadi Karimi.jpg · see Wikimedia Commons file page*
 
-![Gonbad-e Qābus](https://whc.unesco.org/uploads/sites/site_1398.jpg)
+![( گنبد کاووس(برج گنبد قابوس.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%28_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3%28%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3.jpg/1280px-%28_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3%28%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Gonbad-e Qābus · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*( گنبد کاووس(برج گنبد قابوس.jpg · Nima bagheri · CC BY-SA 4.0*
+
+![1گنبد.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/1%DA%AF%D9%86%D8%A8%D8%AF.jpg/1280px-1%DA%AF%D9%86%D8%A8%D8%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1گنبد.jpg · Neda1982 · CC BY-SA 4.0*
+
+![8-gonbad0008A.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e2/8-gonbad0008A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*8-gonbad0008A.jpg · Ehsan.faghih · CC BY-SA 4.0*
+
+![8-gonbad0009A.jpg](https://upload.wikimedia.org/wikipedia/commons/5/54/8-gonbad0009A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*8-gonbad0009A.jpg · Ehsan.faghih · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The 53 m high tomb built in ad 1006 for Qābus Ibn Voshmgir, Ziyarid ruler and l
 - ✈ **Bojnord Airport (BJB)** — 190.8 km
 - ✈ **Semnan Municipal Airport (SNX)** — 238.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5421.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **هتل لابوس رامیان** — 23.5 km — star — 3★
+- **هتل قابوس** — 3.6 km — hotel — Hotel Qabos
+- **هتل استقلال** — 17.4 km — hotel — Hotel Esteghlal
+- **هتل آکام** — 17.8 km — hotel
+- **هتل و رستوران پوریا** — 18.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

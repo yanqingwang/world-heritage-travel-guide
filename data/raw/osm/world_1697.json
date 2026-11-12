@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Angel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -2.5010516,
+   "lon": 28.8560319,
+   "distance_km": 46.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nyungwe Nziza Eco-Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.5308113,
+   "lon": 29.4084453,
+   "distance_km": 14.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nyungwe Ecovillage",
+   "name_en": "Nyungwe Eco Village",
+   "stars": null,
+   "brand": null,
+   "lat": -2.5264773,
+   "lon": 29.4146223,
+   "distance_km": 15.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "One&Only Nyungwe House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.4473184,
+   "lon": 29.1042638,
+   "distance_km": 21.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gisakura Guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.4401035,
+   "lon": 29.0925168,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 81,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Port de Lushindi",
+   "name_en": null,
+   "lat": -2.2497785,
+   "lon": 29.0184288,
+   "distance_km": 42.1,
+   "operator": null
+  },
+  {
+   "name": "Port de Kashofu",
+   "name_en": null,
+   "lat": -2.2242488,
+   "lon": 29.0284925,
+   "distance_km": 43.6,
+   "operator": null
+  },
+  {
+   "name": "Ihusi Express – speedboat to Goma",
+   "name_en": null,
+   "lat": -2.4886269,
+   "lon": 28.8482386,
+   "distance_km": 47.7,
+   "operator": "Ihusi Express"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:34:41Z"
+}

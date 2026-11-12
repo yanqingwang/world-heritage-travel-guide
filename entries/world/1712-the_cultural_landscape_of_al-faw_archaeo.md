@@ -8,13 +8,13 @@ country: "SA"
 country_zh: "沙特阿拉伯"
 country_en: "Saudi Arabia"
 unesco_id: "1712"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2024"
 criteria: "(ii)(v)"
 lat: 19.7833
 lon: 45.15
-updated_at: "2026-11-12T12:12:29Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 法乌考古区文化景观 / The Cultural Landscape of Al-Faw Archaeological Area
@@ -53,6 +53,12 @@ Lying at a strategic point of the ancient trade routes of the Arabian Peninsula,
 - ✈ **Najran Domestic Airport (EAM)** — 253.5 km
 - ✈ **Bisha Airport (BHH)** — 265.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7003.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

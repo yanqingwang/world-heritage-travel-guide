@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iv)(vi)"
 lat: 38.655
 lon: -27.22
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 亚速尔群岛英雄港中心区 / Central Zone of the Town of Angra do Heroismo in the Azores

@@ -2,7 +2,7 @@
  "id": "wh-165",
  "unesco_id": "165",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 515,
  "popularity_score": 11054,
  "country": "FR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_165.jpg",
-   "title": "Cistercian Abbey of Fontenay",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/165",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_13-16-03%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_13-16-03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 13-16-03).jpg",
+   "author": "Johan Allard",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_13-16-03%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-43-04%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-43-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-43-04).jpg",
+   "author": "Johan Allard",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-43-04%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-52-07%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-52-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-52-07).jpg",
+   "author": "Johan Allard",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-52-07%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_-_L%27enfermerie_%282025-09-17_13-20-23%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_-_L%27enfermerie_%282025-09-17_13-20-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay - L'enfermerie (2025-09-17 13-20-23).jpg",
+   "author": "Johan Allard",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_-_L%27enfermerie_%282025-09-17_13-20-23%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/165",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 102.9,
   "distance_beijing_km": 8179.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Plaisance de Montbard",
+    "name_en": null,
+    "lat": 47.6233065,
+    "lon": 4.3306417,
+    "distance_km": 4.8,
+    "operator": null
+   },
+   {
+    "name": "Halte Nautique de Tanlay",
+    "name_en": null,
+    "lat": 47.8469432,
+    "lon": 4.0809219,
+    "distance_km": 32.6,
+    "operator": "Mairie de Tanlay"
+   },
+   {
+    "name": "Port de Plaisance de Tonnerre",
+    "name_en": null,
+    "lat": 47.8632721,
+    "lon": 3.9796075,
+    "distance_km": 39.5,
+    "operator": "Mairie de Tonnerre"
+   },
+   {
+    "name": "Port de Plaisance Le Bassin",
+    "name_en": null,
+    "lat": 47.2677624,
+    "lon": 4.5388386,
+    "distance_km": 42.9,
+    "operator": "Cap Canal"
+   },
+   {
+    "name": "Port d'Escommes",
+    "name_en": null,
+    "lat": 47.2307469,
+    "lon": 4.5889834,
+    "distance_km": 47.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Montbard",
+    "name_en": null,
+    "lat": 47.6186809,
+    "lon": 4.3362246,
+    "distance_km": 4.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Les Laumes Alésia",
+    "name_en": null,
+    "lat": 47.5432729,
+    "lon": 4.4626185,
+    "distance_km": 12.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Nuits sous Ravières",
+    "name_en": null,
+    "lat": 47.729326,
+    "lon": 4.2116895,
+    "distance_km": 16.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Massangis",
+    "name_en": null,
+    "lat": 47.6191554,
+    "lon": 3.9734893,
+    "distance_km": 31.2,
+    "operator": "Train Petite Vitesse de Massangis"
+   },
+   {
+    "name": "Avallon",
+    "name_en": null,
+    "lat": 47.4957553,
+    "lon": 3.9124463,
+    "distance_km": 39.2,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Château de Vault de Lugny",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.4958793,
+   "lon": 3.8544376,
+   "distance_km": 43.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Clos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8120498,
+   "lon": 3.8005324,
+   "distance_km": 48.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostellerie d'Aussois",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.4915815,
+   "lon": 4.320736,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Verger sous les Vignes",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.4558826,
+   "lon": 4.5174502,
+   "distance_km": 22.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Cote d'Or",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.8583549,
+   "lon": 4.5710797,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:37Z"
+ "updated_at": "2026-11-12T12:41:54Z"
 }

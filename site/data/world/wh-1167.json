@@ -2,7 +2,7 @@
  "id": "wh-1167",
  "unesco_id": "1167",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 546,
  "popularity_score": 9787,
  "country": "ID",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1167.jpg",
-   "title": "Tropical Rainforest Heritage of Sumatra",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1167",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hutan_Hujan_Tropis_dengan_Sentuhan_Awan%2C_Pegunungan_Mugajah%2C_Aceh.jpg/1280px-Hutan_Hujan_Tropis_dengan_Sentuhan_Awan%2C_Pegunungan_Mugajah%2C_Aceh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hutan Hujan Tropis dengan Sentuhan Awan, Pegunungan Mugajah, Aceh.jpg",
+   "author": "Hugo Rio Aditya",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hutan_Hujan_Tropis_dengan_Sentuhan_Awan%2C_Pegunungan_Mugajah%2C_Aceh.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Induk_Orangutan_Sumatera_sedang_memberi_makan_anaknya.jpg/1280px-Induk_Orangutan_Sumatera_sedang_memberi_makan_anaknya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Induk Orangutan Sumatera sedang memberi makan anaknya.jpg",
+   "author": "Pratechno",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Induk_Orangutan_Sumatera_sedang_memberi_makan_anaknya.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/LocMap_of_WH_Sumatra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap of WH Sumatra.png",
+   "author": "Crop/edit: Uploader Original: See template below.",
+   "license": "CC BY-SA 3.0",
+   "credit": "File:WorldMap ja.png Original data: UNEP GRID data GNV19",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_of_WH_Sumatra.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Pegunungan_Mugajah_Menjelang_Malam%2C_Pegunungan_Mugajah%2C_Aceh.jpg/1280px-Pegunungan_Mugajah_Menjelang_Malam%2C_Pegunungan_Mugajah%2C_Aceh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pegunungan Mugajah Menjelang Malam, Pegunungan Mugajah, Aceh.jpg",
+   "author": "Hugo Rio Aditya",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pegunungan_Mugajah_Menjelang_Malam%2C_Pegunungan_Mugajah%2C_Aceh.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1167",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kayu Manis",
+   "name_en": null,
+   "stars": 0,
+   "brand": null,
+   "lat": -2.0648881,
+   "lon": 101.3972294,
+   "distance_km": 49.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Abyan Mukomuko",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.5553283,
+   "lon": 101.1011487,
+   "distance_km": 44.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Abyan Hotel",
+   "name_en": "Abyan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": -2.5553561,
+   "lon": 101.1011121,
+   "distance_km": 44.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel mahkota",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.0807515,
+   "lon": 101.4069951,
+   "distance_km": 47.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Matahari 2",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.0711075,
+   "lon": 101.4013881,
+   "distance_km": 48.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ID",
   "country_zh": "印度尼西亚",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:10Z"
+ "updated_at": "2026-11-12T12:42:15Z"
 }

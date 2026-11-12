@@ -1,0 +1,30 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Iwik",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.173402,
+   "lon": -15.9741871,
+   "distance_km": 15.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel D'Or",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.151448,
+   "lon": -15.965962,
+   "distance_km": 17.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 2,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:52Z"
+}

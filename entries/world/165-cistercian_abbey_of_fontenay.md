@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "165"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1981"
 criteria: "(iv)"
 lat: 47.639661
 lon: 4.389327
-updated_at: "2026-11-12T12:11:37Z"
+updated_at: "2026-11-12T12:41:54Z"
 ---
 
 # 丰特莱的西斯特尔教团修道院 / Cistercian Abbey of Fontenay
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:37Z"
 
 *Abbaye de Fontenay R01.jpg · see Wikimedia Commons file page*
 
-![Cistercian Abbey of Fontenay](https://whc.unesco.org/uploads/sites/site_165.jpg)
+![08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 13-16-03).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_13-16-03%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_13-16-03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cistercian Abbey of Fontenay · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 13-16-03).jpg · Johan Allard · CC BY-SA 4.0*
+
+![08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-43-04).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-43-04%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-43-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-43-04).jpg · Johan Allard · CC BY-SA 4.0*
+
+![08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-52-07).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-52-07%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_%282025-09-17_14-52-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay (2025-09-17 14-52-07).jpg · Johan Allard · CC BY-SA 4.0*
+
+![08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay - L'enfermerie (2025-09-17 13-20-23).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_-_L%27enfermerie_%282025-09-17_13-20-23%29.jpg/1280px-08_-_BFC_-_C%C3%B4te-d%27Or_-_Marmagne_-_Abdij_van_Fontenay_-_L%27enfermerie_%282025-09-17_13-20-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*08 - BFC - Côte-d'Or - Marmagne - Abdij van Fontenay - L'enfermerie (2025-09-17 13-20-23).jpg · Johan Allard · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Fondée en 1119 par saint Bernard, l'abbaye bourguignonne de Fontenay, à l'arch
 - ✈ **Dole Tavaux Airport (DLE)** — 102.9 km
 - ✈ **Chalons Vatry airport (XCR)** — 126.8 km
 - ✈ **Paris-Orly Airport (ORY)** — 193.2 km
+- 🚉 **Montbard** — 4.6 km
+- 🚉 **Les Laumes Alésia** — 12.0 km
+- 🚉 **Nuits sous Ravières** — 16.6 km
+- 🚉 **Massangis** — 31.2 km
+- 🚉 **Avallon** — 39.2 km
+- ⛴ **Port de Plaisance de Montbard** — 4.8 km
+- ⛴ **Halte Nautique de Tanlay** — 32.6 km
+- ⛴ **Port de Plaisance de Tonnerre** — 39.5 km
+- ⛴ **Port de Plaisance Le Bassin** — 42.9 km
+- ⛴ **Port d'Escommes** — 47.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8179.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Château de Vault de Lugny** — 43.2 km — star — 5★
+- **Les Clos** — 48.0 km — star — 4★
+- **Hostellerie d'Aussois** — 17.3 km — star — 3★
+- **Le Verger sous les Vignes** — 22.6 km — star — 3★
+- **La Cote d'Or** — 27.9 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

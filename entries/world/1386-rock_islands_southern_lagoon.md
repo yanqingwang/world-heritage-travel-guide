@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(v)(vii)(ix)(x)"
 lat: 7.2469
 lon: 134.3525
-updated_at: "2026-11-12T12:12:17Z"
+updated_at: "2026-11-12T12:42:19Z"
 ---
 
 # 洛克群岛南部泻湖 / Rock Islands Southern Lagoon

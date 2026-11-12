@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Fredericia",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.575891,
+   "lon": 9.7273045,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Munkebjerg Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.6868581,
+   "lon": 9.6158966,
+   "distance_km": 37.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Milling Hotel Vejle",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.7056674,
+   "lon": 9.5191371,
+   "distance_km": 38.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Dagmar",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.3283806,
+   "lon": 8.7627029,
+   "distance_km": 45.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Torvehallerne",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 55.7068006,
+   "lon": 9.533916,
+   "distance_km": 39.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 102,
+ "stations": [
+  {
+   "name": "Haderslev Vest",
+   "name_en": null,
+   "lat": 55.2519476,
+   "lon": 9.4726065,
+   "distance_km": 11.7,
+   "operator": null
+  },
+  {
+   "name": "Vamdrup",
+   "name_en": null,
+   "lat": 55.4279941,
+   "lon": 9.2864145,
+   "distance_km": 14.7,
+   "operator": "DSB"
+  },
+  {
+   "name": "Kolding",
+   "name_en": null,
+   "lat": 55.4905542,
+   "lon": 9.4814404,
+   "distance_km": 14.9,
+   "operator": "DSB"
+  },
+  {
+   "name": "Vojens",
+   "name_en": null,
+   "lat": 55.2484701,
+   "lon": 9.3049359,
+   "distance_km": 16.5,
+   "operator": "DSB"
+  },
+  {
+   "name": "Lunderskov",
+   "name_en": null,
+   "lat": 55.4803997,
+   "lon": 9.3040943,
+   "distance_km": 17.8,
+   "operator": "DSB"
+  },
+  {
+   "name": "Taulov",
+   "name_en": null,
+   "lat": 55.5448879,
+   "lon": 9.6156777,
+   "distance_km": 22.5,
+   "operator": "DSB"
+  },
+  {
+   "name": "Middelfart",
+   "name_en": null,
+   "lat": 55.5016258,
+   "lon": 9.7344457,
+   "distance_km": 22.6,
+   "operator": "DSB"
+  },
+  {
+   "name": "Kavslunde",
+   "name_en": null,
+   "lat": 55.4758609,
+   "lon": 9.8108381,
+   "distance_km": 24.6,
+   "operator": "DSB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Inderdammen",
+   "name_en": null,
+   "lat": 55.2502799,
+   "lon": 9.4835354,
+   "distance_km": 11.8,
+   "operator": null
+  },
+  {
+   "name": "Haderslev Vandrerhjem",
+   "name_en": null,
+   "lat": 55.2452529,
+   "lon": 9.475902,
+   "distance_km": 12.4,
+   "operator": null
+  },
+  {
+   "name": "Damende",
+   "name_en": null,
+   "lat": 55.232597,
+   "lon": 9.4213933,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "Bergs Plads",
+   "name_en": null,
+   "lat": 55.2303931,
+   "lon": 9.4377786,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "Inderhavnen",
+   "name_en": null,
+   "lat": 55.4905433,
+   "lon": 9.486052,
+   "distance_km": 14.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:40Z"
+}

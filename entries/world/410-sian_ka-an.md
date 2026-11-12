@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "410"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(vii)(x)"
 lat: 19.383333333
 lon: -87.791666666
-updated_at: "2026-11-12T12:11:46Z"
+updated_at: "2026-11-12T12:41:59Z"
 ---
 
 # 圣卡安 / Sian Ka'an
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:46Z"
 
 *México - Sian Ka'an, Boat Tour.JPG · see Wikimedia Commons file page*
 
-![Sian Ka'an](https://whc.unesco.org/uploads/sites/site_410.jpg)
+![2019-02-15 074 Roseate spoonbill (Platalea ajaja) at Sian Ka'an Biosphere Reserve, Mexico.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2019-02-15_074_Roseate_spoonbill_%28Platalea_ajaja%29_at_Sian_Ka%27an_Biosphere_Reserve%2C_Mexico.jpg/1280px-2019-02-15_074_Roseate_spoonbill_%28Platalea_ajaja%29_at_Sian_Ka%27an_Biosphere_Reserve%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sian Ka'an · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2019-02-15 074 Roseate spoonbill (Platalea ajaja) at Sian Ka'an Biosphere Reserve, Mexico.jpg · Gordon Leggett · CC BY-SA 4.0*
+
+![Approdo nella Riserva di Sian Kan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Approdo_nella_Riserva_di_Sian_Kan.jpg/1280px-Approdo_nella_Riserva_di_Sian_Kan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Approdo nella Riserva di Sian Kan.jpg · Pmk58 · CC BY-SA 4.0*
+
+![Bird watch at a tower in Sian Ka'an - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg/1280px-Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bird watch at a tower in Sian Ka'an - panoramio.jpg · Flexman · CC BY-SA 3.0*
+
+![Bird Watching Place at Sian Ka'an - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Bird_Watching_Place_at_Sian_Ka%27an_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bird Watching Place at Sian Ka'an - panoramio.jpg · Flexman · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,14 @@ En la lengua de los mayas que poblaban antaño la región, Sian Ka'an significa 
 - ✈ **Chetumal International Airport (CTM)** — 112.8 km
 - ✈ **Corozal Airport (CZH)** — 129.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12859.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **El Faisan y el Venado** — 34.3 km — hotel
+- **Hotel Esquivel** — 34.3 km — hotel
+- **Hotel María José** — 34.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

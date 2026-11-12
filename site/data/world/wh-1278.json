@@ -2,7 +2,7 @@
  "id": "wh-1278",
  "unesco_id": "1278",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 562,
  "popularity_score": 9417,
  "country": "KP",
@@ -51,6 +51,22 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Nam%20Gate%20in%20Kaesong%20%285063812320%29.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Castle_walls_near_Kaesong_around_1910s%2C_Photo-No.5058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Castle walls near Kaesong around 1910s, Photo-No.5058.jpg",
+   "author": "Ryūzō Torii",
+   "license": "Public domain",
+   "credit": "鳥居龍蔵 写真目録「東京大学総合研究資料館標本資料報告 第18号、1990」より転載、増補。 高知工科大学総合自然資源研究所総合研究所鳥居竜蔵資料赤部隆造資料、赤井部推進協議会 http://www.muse.or.jp/torii/page11.html",
+   "source": "https://commons.wikimedia.org/wiki/File:Castle_walls_near_Kaesong_around_1910s%2C_Photo-No.5058.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Honoring_monument_of_Jeong_Mong-ju_around_1910s%2C_Photo-No.5088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Honoring monument of Jeong Mong-ju around 1910s, Photo-No.5088.jpg",
+   "author": "Ryūzō Torii",
+   "license": "Public domain",
+   "credit": "鳥居龍蔵 写真目録「東京大学総合研究資料館標本資料報告 第18号、1990」より転載、増補。 高知工科大学総合自然資源研究所総合研究所鳥居竜蔵資料赤部隆造資料、赤井部推進協議会 http://www.muse.or.jp/torii/page11.html",
+   "source": "https://commons.wikimedia.org/wiki/File:Honoring_monument_of_Jeong_Mong-ju_around_1910s%2C_Photo-No.5088.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1278.jpg",
@@ -102,10 +118,148 @@
   ],
   "nearest_airport_km": 53.2,
   "distance_beijing_km": 927.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "삼보해운",
+    "name_en": null,
+    "lat": 37.6999002,
+    "lon": 126.3810619,
+    "distance_km": 33.3,
+    "operator": null
+   },
+   {
+    "name": "하리선착장",
+    "name_en": null,
+    "lat": 37.7280025,
+    "lon": 126.2864176,
+    "distance_km": 34.3,
+    "operator": null
+   },
+   {
+    "name": "석포리 선착장",
+    "name_en": null,
+    "lat": 37.6941932,
+    "lon": 126.367966,
+    "distance_km": 34.3,
+    "operator": null
+   },
+   {
+    "name": "선수선착장",
+    "name_en": null,
+    "lat": 37.63842,
+    "lon": 126.3856004,
+    "distance_km": 39.7,
+    "operator": null
+   },
+   {
+    "name": "어류정항",
+    "name_en": null,
+    "lat": 37.6446988,
+    "lon": 126.3437078,
+    "distance_km": 40.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "개성",
+    "name_en": "Kaesong",
+    "lat": 37.9690133,
+    "lon": 126.5426561,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "개풍",
+    "name_en": "Gaepung",
+    "lat": 37.952598,
+    "lon": 126.4574283,
+    "distance_km": 5.5,
+    "operator": null
+   },
+   {
+    "name": "려현",
+    "name_en": "Ryeohyeon",
+    "lat": 38.0079331,
+    "lon": 126.4389977,
+    "distance_km": 6.7,
+    "operator": null
+   },
+   {
+    "name": "손하",
+    "name_en": "Sonha",
+    "lat": 37.9575758,
+    "lon": 126.5815085,
+    "distance_km": 7.0,
+    "operator": null
+   },
+   {
+    "name": "계정",
+    "name_en": "Gyejeong",
+    "lat": 38.0664758,
+    "lon": 126.4539427,
+    "distance_km": 10.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "역전려관",
+   "name_en": "Yokton Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9698559,
+   "lon": 126.5405041,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "개성민속려관",
+   "name_en": "Kaesong Folk Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9768991,
+   "lon": 126.5529367,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Janamsan Hotel (자남산려관)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.978692,
+   "lon": 126.5646127,
+   "distance_km": 5.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "송악프라자",
+   "name_en": "Songak Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9269266,
+   "lon": 126.619787,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Q Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.7887734,
+   "lon": 126.6888437,
+   "distance_km": 26.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KP",
   "country_zh": "朝鲜民主主义人民共和国",
@@ -173,5 +327,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:13Z"
+ "updated_at": "2026-11-12T12:42:17Z"
 }

@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(vi)"
 lat: 25.03111111
 lon: 88.97694444
-updated_at: "2026-11-12T12:11:42Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 帕哈尔普尔的佛教毗诃罗遗址 / Ruins of the Buddhist Vihara at Paharpur

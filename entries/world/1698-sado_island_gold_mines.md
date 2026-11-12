@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iv)"
 lat: 38.040833333
 lon: 138.257777777
-updated_at: "2026-11-12T12:12:29Z"
+updated_at: "2026-11-12T12:42:24Z"
 ---
 
 # 佐渡金山 / Sado Island Gold Mines

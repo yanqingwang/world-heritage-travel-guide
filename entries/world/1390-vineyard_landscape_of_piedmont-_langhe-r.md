@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iii)(v)"
 lat: 44.651944444
 lon: 7.994166666
-updated_at: "2026-11-12T12:12:17Z"
+updated_at: "2026-11-12T12:42:19Z"
 ---
 
 # 朗格—洛埃洛和蒙菲拉托的皮埃蒙特葡萄园景观 / Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato

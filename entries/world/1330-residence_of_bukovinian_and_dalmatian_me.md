@@ -8,13 +8,13 @@ country: "UA"
 country_zh: "乌克兰"
 country_en: "Ukraine"
 unesco_id: "1330"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iii)(iv)"
 lat: 48.296641666
 lon: 25.924905555
-updated_at: "2026-11-12T12:12:15Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 布科维纳与达尔马提亚的城市民居 / Residence of Bukovinian and Dalmatian Metropolitans
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:15Z"
 
 *Резиденція митрополитів Буковини і Далмації 5.jpg · see Wikimedia Commons file page*
 
-![Residence of Bukovinian and Dalmatian Metropolitans](https://whc.unesco.org/uploads/sites/site_1330.jpg)
+![1.Чернівці (249).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_%28249%29.JPG/1280px-1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_%28249%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Residence of Bukovinian and Dalmatian Metropolitans · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1.Чернівці (249).JPG · Neovitaha777 · CC BY-SA 4.0*
+
+![1.Чернівці .Резиденція буковинських митрополитів..JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_.%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%B1%D1%83%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%96%D0%B2..JPG/1280px-1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_.%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%B1%D1%83%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%96%D0%B2..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1.Чернівці .Резиденція буковинських митрополитів..JPG · Neovitaha777 · CC BY-SA 4.0*
+
+![1.Чернівці.Резиденція-університет.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96.%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F-%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82.JPG/1280px-1.%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96.%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F-%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1.Чернівці.Резиденція-університет.JPG · Neovitaha777 · CC BY-SA 4.0*
+
+![2017 - Чернівці - Резиденція митрополитів Буковини і Далмації - панорама.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2017_-_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_-_%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%96%D0%B2_%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8_%D1%96_%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%86%D1%96%D1%97_-_%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg/1280px-2017_-_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96_-_%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%96%D0%B2_%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8_%D1%96_%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%86%D1%96%D1%97_-_%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017 - Чернівці - Резиденція митрополитів Буковини і Далмації - панорама.jpg · Moahim · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,25 @@ The Residence of Bukovinian and Dalmatian Metropolitans represents a masterful s
 - ✈ **Suceava Ștefan cel Mare International Airport (SCV)** — 74.9 km
 - ✈ **Iaşi International Airport (IAS)** — 177.5 km
 - ✈ **Maramureș International Airport (BAY)** — 196.4 km
+- 🚉 **Чернівці** — 0.6 km
+- 🚉 **Чернівці-Північна** — 2.4 km
+- 🚉 **Чернівці-Південна** — 4.2 km
+- 🚉 **Садгора** — 4.3 km
+- 🚉 **Калинівська** — 4.4 km
+- ⛴ **Перебиківці** — 34.6 km
+- ⛴ **Вільховець** — 34.7 km
+- ⛴ **Худіківці** — 37.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6861.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Harmonie** — 49.5 km — star — 3★ · Hostel Harmonie
+- **George Palace** — 0.3 km — hotel — George Palace
+- **Вокзал** — 0.6 km — hotel
+- **Магнат** — 0.7 km — hotel
+- **Брістоль** — 0.7 km — hotel — Bristol
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

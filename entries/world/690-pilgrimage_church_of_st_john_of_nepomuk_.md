@@ -8,13 +8,13 @@ country: "CZ"
 country_zh: "捷克"
 country_en: "Czech Republic"
 unesco_id: "690"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(iv)"
 lat: 49.58
 lon: 15.94194
-updated_at: "2026-11-12T12:11:53Z"
+updated_at: "2026-11-12T12:42:04Z"
 ---
 
 # 泽莱纳山的内波穆克圣约翰朝圣教堂 / Pilgrimage Church of St John of Nepomuk at Zelená Hora
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:53Z"
 
 *Kostel svatého Jana Nepomuckého (3).jpg · see Wikimedia Commons file page*
 
-![Pilgrimage Church of St John of Nepomuk at Zelená Hora](https://whc.unesco.org/uploads/sites/site_690.jpg)
+![Kostel svatého Jana Nepomuckého (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%281%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Pilgrimage Church of St John of Nepomuk at Zelená Hora · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Kostel svatého Jana Nepomuckého (1).jpg · Aqalexor · CC BY-SA 4.0*
+
+![Kostel svatého Jana Nepomuckého (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%282%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kostel svatého Jana Nepomuckého (2).jpg · Aqalexor · CC BY-SA 4.0*
+
+![Kostel svatého Jana Nepomuckého (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%283%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kostel svatého Jana Nepomuckého (3).jpg · Aqalexor · CC BY-SA 4.0*
+
+![Kostel svatého Jana Nepomuckého (7).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%287%29.jpg/1280px-Kostel_svat%C3%A9ho_Jana_Nepomuck%C3%A9ho_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kostel svatého Jana Nepomuckého (7).jpg · Aqalexor · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,25 @@ Poutní kostel Svatého Jana Nepomuckého na Zelené hoře ve městě Žďár na
 - ✈ **Pardubice Airport (PED)** — 50.5 km
 - ✈ **Brno-Tuřany Airport (BRQ)** — 72.4 km
 - ✈ **České Budějovice South Bohemian Airport (JCL)** — 130.4 km
+- 🚉 **Žďár nad Sázavou** — 2.9 km
+- 🚉 **Sázava u Žďáru** — 7.1 km
+- 🚉 **Ostrov nad Oslavou** — 10.0 km
+- 🚉 **Nové Město na Moravě** — 10.1 km
+- 🚉 **Přibyslav** — 14.4 km
+- ⛴ **Koněšín** — 45.1 km
+- ⛴ **Třesov** — 47.0 km
+- ⛴ **Autokemp Wilsonka** — 48.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7380.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Forest Resort** — 26.8 km — star — 5★
+- **Chateau Herálec** — 35.6 km — star — 5★
+- **OREA resort Devět skal** — 14.5 km — star — 4★
+- **Líšenský Dvůr** — 15.7 km — star — 4★
+- **Alzheimer centrum** — 32.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

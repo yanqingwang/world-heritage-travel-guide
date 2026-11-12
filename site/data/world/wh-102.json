@@ -2,7 +2,7 @@
  "id": "wh-102",
  "unesco_id": "102",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 577,
  "popularity_score": 9050,
  "country": "DZ",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_102.jpg",
-   "title": "Al Qal'a of Beni Hammad",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/102",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/28-2_Kal%C3%A2a_de_Beni_Hammad_%281%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "28-2 Kalâa de Beni Hammad (1).jpg",
+   "author": "R hakka",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:28-2_Kal%C3%A2a_de_Beni_Hammad_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/28-2_Kal%C3%A2a_de_Beni_Hammad_%282%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "28-2 Kalâa de Beni Hammad (2).jpg",
+   "author": "R hakka",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:28-2_Kal%C3%A2a_de_Beni_Hammad_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/28-2_Kal%C3%A2a_de_Beni_Hammad_%283%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "28-2 Kalâa de Beni Hammad (3).jpg",
+   "author": "R hakka",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:28-2_Kal%C3%A2a_de_Beni_Hammad_%283%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/28-2_Kal%C3%A2a_de_Beni_Hammad_%284%29_%28cropped%29.jpg/1280px-28-2_Kal%C3%A2a_de_Beni_Hammad_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "28-2 Kalâa de Beni Hammad (4) (cropped).jpg",
+   "author": "R hakka",
+   "license": "CC BY-SA 4.0",
+   "credit": "Wiki Commons (28-2 Kalâa de Beni Hammad (4).jpg)",
+   "source": "https://commons.wikimedia.org/wiki/File:28-2_Kal%C3%A2a_de_Beni_Hammad_%284%29_%28cropped%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/102",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 63.0,
   "distance_beijing_km": 9008.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Ouled Derradj",
+    "name_en": "Ouled Derradj",
+    "lat": 35.6819872,
+    "lon": 4.7355963,
+    "distance_km": 15.6,
+    "operator": "SNTF"
+   },
+   {
+    "name": "Medjez",
+    "name_en": null,
+    "lat": 35.8663755,
+    "lon": 4.5938491,
+    "distance_km": 18.9,
+    "operator": null
+   },
+   {
+    "name": "Berhoum",
+    "name_en": "Berhoum",
+    "lat": 35.6458265,
+    "lon": 4.9598109,
+    "distance_km": 24.0,
+    "operator": "الشركة الوطنية للنقل بالسكك الحديدية"
+   },
+   {
+    "name": "El Anasser",
+    "name_en": "El Anasser",
+    "lat": 36.0369689,
+    "lon": 4.8135966,
+    "distance_km": 24.9,
+    "operator": "SNTF"
+   },
+   {
+    "name": "M'Sila",
+    "name_en": "M'Sila",
+    "lat": 35.7066742,
+    "lon": 4.5196476,
+    "distance_km": 27.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Brainis",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 35.8687725,
+   "lon": 4.4046948,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel El Kalâa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7247015,
+   "lon": 4.5490467,
+   "distance_km": 24.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marhaba",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7020827,
+   "lon": 4.545504,
+   "distance_km": 25.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El-ksob;القصب",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7078369,
+   "lon": 4.5377443,
+   "distance_km": 25.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الترقي",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.066983,
+   "lon": 4.7755303,
+   "distance_km": 28.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DZ",
   "country_zh": "阿尔及利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:35Z"
+ "updated_at": "2026-11-12T12:41:53Z"
 }

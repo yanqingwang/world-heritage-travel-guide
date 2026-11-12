@@ -2,7 +2,7 @@
  "id": "wh-1256",
  "unesco_id": "1256",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 524,
  "popularity_score": 10777,
  "country": "FR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1256.jpg",
-   "title": "Bordeaux, Port of the Moon",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1256",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bordeaux_-_Port_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bordeaux - Port 2.jpg",
+   "author": "C.B. circa 1900-1920",
+   "license": "Public domain",
+   "credit": "Own work (Private post-card collection)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bordeaux_-_Port_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bordeaux_harbour_%281914%29.jpg/1280px-Bordeaux_harbour_%281914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bordeaux harbour (1914).jpg",
+   "author": "Agence Rol",
+   "license": "Public domain",
+   "credit": "Bibliothèque nationale de France",
+   "source": "https://commons.wikimedia.org/wiki/File:Bordeaux_harbour_%281914%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bordeaux_port_de_la_lune_01.jpg/1280px-Bordeaux_port_de_la_lune_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bordeaux port de la lune 01.jpg",
+   "author": "Oliwan",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bordeaux_port_de_la_lune_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hugo_d%27Alesi%2C_vue_cavali%C3%A8re_de_Bordeaux%2C_1899%2C_Archives_de_Bordeaux_m%C3%A9tropole.jpg/1280px-Hugo_d%27Alesi%2C_vue_cavali%C3%A8re_de_Bordeaux%2C_1899%2C_Archives_de_Bordeaux_m%C3%A9tropole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hugo d'Alesi, vue cavalière de Bordeaux, 1899, Archives de Bordeaux métropole.jpg",
+   "author": "Hugo d’Alesi",
+   "license": "Public domain",
+   "credit": "Archives de Bordeaux métropole",
+   "source": "https://commons.wikimedia.org/wiki/File:Hugo_d%27Alesi%2C_vue_cavali%C3%A8re_de_Bordeaux%2C_1899%2C_Archives_de_Bordeaux_m%C3%A9tropole.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1256",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 11.3,
   "distance_beijing_km": 8692.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port Bastide",
+    "name_en": null,
+    "lat": 44.8518606,
+    "lon": -0.5614856,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Cité du Vin",
+    "name_en": null,
+    "lat": 44.8617807,
+    "lon": -0.5492202,
+    "distance_km": 3.1,
+    "operator": null
+   },
+   {
+    "name": "GPMB - Bassens Aval",
+    "name_en": null,
+    "lat": 44.9103731,
+    "lon": -0.5412832,
+    "distance_km": 8.3,
+    "operator": null
+   },
+   {
+    "name": "Port de Lamarque",
+    "name_en": null,
+    "lat": 45.0990882,
+    "lon": -0.6935648,
+    "distance_km": 30.5,
+    "operator": "Département de la Gironde"
+   },
+   {
+    "name": "Bac de Blaye-Lamarque",
+    "name_en": null,
+    "lat": 45.1230323,
+    "lon": -0.6655415,
+    "distance_km": 32.4,
+    "operator": "Département de la Gironde"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bordeaux-Saint-Jean",
+    "name_en": null,
+    "lat": 44.8255227,
+    "lon": -0.5556498,
+    "distance_km": 2.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Caudéran-Mérignac",
+    "name_en": null,
+    "lat": 44.8427995,
+    "lon": -0.6274696,
+    "distance_km": 4.4,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Mérignac Arlac",
+    "name_en": null,
+    "lat": 44.8267789,
+    "lon": -0.6261731,
+    "distance_km": 4.5,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Bègles",
+    "name_en": null,
+    "lat": 44.7993695,
+    "lon": -0.5551706,
+    "distance_km": 4.6,
+    "operator": null
+   },
+   {
+    "name": "Pessac",
+    "name_en": null,
+    "lat": 44.8045273,
+    "lon": -0.6313644,
+    "distance_km": 6.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "InterContinental Bordeaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 44.8424337,
+   "lon": -0.5748304,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel des Quinconces",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.8475495,
+   "lon": -0.574977,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Burdigala",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Inwood Hotels",
+   "lat": 44.839889,
+   "lon": -0.586726,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "YNDO",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.844267,
+   "lon": -0.583407,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Premier",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Premier",
+   "lat": 44.8422688,
+   "lon": -0.575916,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:13Z"
+ "updated_at": "2026-11-12T12:42:16Z"
 }

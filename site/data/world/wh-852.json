@@ -2,7 +2,7 @@
  "id": "wh-852",
  "unesco_id": "852",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 513,
  "popularity_score": 11207,
  "country": "LV",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_852.jpg",
-   "title": "Historic Centre of Riga",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/852",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/2014_-_panoramio_%2869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2014 - panoramio (69).jpg",
+   "author": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161029175524/http://www.panoramio.com/photo/106006083",
+   "source": "https://commons.wikimedia.org/wiki/File:2014_-_panoramio_%2869%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20150504_19_Riga_-_Old_City_%2817454794942%29.jpg/1280px-20150504_19_Riga_-_Old_City_%2817454794942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20150504 19 Riga - Old City (17454794942).jpg",
+   "author": "Sjaak Kempe from Groningen, The Netherlands",
+   "license": "CC BY 2.0",
+   "credit": "20150504 19 Riga - Old City",
+   "source": "https://commons.wikimedia.org/wiki/File:20150504_19_Riga_-_Old_City_%2817454794942%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20150504_21_Riga_-_Old_City_%2817270558769%29.jpg/1280px-20150504_21_Riga_-_Old_City_%2817270558769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20150504 21 Riga - Old City (17270558769).jpg",
+   "author": "Sjaak Kempe from Groningen, The Netherlands",
+   "license": "CC BY 2.0",
+   "credit": "20150504 21 Riga - Old City",
+   "source": "https://commons.wikimedia.org/wiki/File:20150504_21_Riga_-_Old_City_%2817270558769%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/22._60g_1k_1134_1.f_-_FORUM_CINEMAS_-_RIGA%2C_LATVIA_2009_%284017621579%29.jpg/1280px-22._60g_1k_1134_1.f_-_FORUM_CINEMAS_-_RIGA%2C_LATVIA_2009_%284017621579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "22. 60g 1k 1134 1.f - FORUM CINEMAS - RIGA, LATVIA 2009 (4017621579).jpg",
+   "author": "EuroAsia Vizion",
+   "license": "CC BY 2.0",
+   "credit": "22. //60g/1k/1134//1.f - FORUM CINEMAS - RIGA, LATVIA 2009",
+   "source": "https://commons.wikimedia.org/wiki/File:22._60g_1k_1134_1.f_-_FORUM_CINEMAS_-_RIGA%2C_LATVIA_2009_%284017621579%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/852",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 8.9,
   "distance_beijing_km": 6520.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bastejkalns",
+    "name_en": null,
+    "lat": 56.9518619,
+    "lon": 24.1117926,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Radio iela",
+    "name_en": null,
+    "lat": 56.9481855,
+    "lon": 24.1170291,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Kronvalda",
+    "name_en": null,
+    "lat": 56.9561863,
+    "lon": 24.1046348,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Rīga",
+    "name_en": "Riga",
+    "lat": 56.9567469,
+    "lon": 24.0954343,
+    "distance_km": 1.2,
+    "operator": null
+   },
+   {
+    "name": "Riga Ferry Terminal",
+    "name_en": null,
+    "lat": 56.9593039,
+    "lon": 24.0946922,
+    "distance_km": 1.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Rīgas Centrālā stacija",
+    "name_en": "Riga Central",
+    "lat": 56.9463999,
+    "lon": 24.1229108,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Torņakalns",
+    "name_en": null,
+    "lat": 56.9326665,
+    "lon": 24.0891593,
+    "distance_km": 2.1,
+    "operator": null
+   },
+   {
+    "name": "Bieriņi/Bērnu slimnīca",
+    "name_en": null,
+    "lat": 56.9219983,
+    "lon": 24.0816248,
+    "distance_km": 3.4,
+    "operator": null
+   },
+   {
+    "name": "Zemitāni",
+    "name_en": null,
+    "lat": 56.9654952,
+    "lon": 24.1562997,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Iļģuciema Kravas stacija",
+    "name_en": null,
+    "lat": 56.972654,
+    "lon": 24.070684,
+    "distance_km": 3.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Grand Hotel Kempinski Riga",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9490626,
+   "lon": 24.1130717,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Riga Old Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 56.9521982,
+   "lon": 24.1053675,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Palace Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9502107,
+   "lon": 24.1029599,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Baltic Beach Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.9755841,
+   "lon": 23.79667,
+   "distance_km": 19.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Old City Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 56.9486788,
+   "lon": 24.1121242,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LV",
   "country_zh": "拉脱维亚",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:00Z"
+ "updated_at": "2026-11-12T12:42:08Z"
 }

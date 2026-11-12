@@ -2,7 +2,7 @@
  "id": "wh-193",
  "unesco_id": "193",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 540,
  "popularity_score": 10202,
  "country": "DZ",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_193.jpg",
-   "title": "Tipasa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/193",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/15CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "15CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg",
+   "author": "Halimkadry",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:15CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/17CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "17CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg",
+   "author": "Halimkadry",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:17CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gate_entering_Tipasa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Gate entering Tipasa.JPG",
+   "author": "Alloutthere at en.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from en.wikipedia by Ronhjones",
+   "source": "https://commons.wikimedia.org/wiki/File:Gate_entering_Tipasa.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/28CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "28CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg",
+   "author": "Halimkadry",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:28CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/193",
@@ -101,10 +125,140 @@
   ],
   "nearest_airport_km": 69.9,
   "distance_beijing_km": 9103.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Tipaza",
+    "name_en": null,
+    "lat": 36.5944674,
+    "lon": 2.4489132,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Port de pêche Bouharoun",
+    "name_en": null,
+    "lat": 36.6261582,
+    "lon": 2.6558911,
+    "distance_km": 19.5,
+    "operator": null
+   },
+   {
+    "name": "Port de plaisance de Sidi Fredj",
+    "name_en": null,
+    "lat": 36.7637789,
+    "lon": 2.847841,
+    "distance_km": 40.9,
+    "operator": null
+   },
+   {
+    "name": "عين البنيان",
+    "name_en": null,
+    "lat": 36.8001311,
+    "lon": 2.8988944,
+    "distance_km": 46.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "El Affroun",
+    "name_en": null,
+    "lat": 36.4736586,
+    "lon": 2.6252662,
+    "distance_km": 21.3,
+    "operator": null
+   },
+   {
+    "name": "Mouzaïa",
+    "name_en": "Mouzaia",
+    "lat": 36.4704891,
+    "lon": 2.6924469,
+    "distance_km": 26.4,
+    "operator": null
+   },
+   {
+    "name": "Chiffa",
+    "name_en": "Chiffa",
+    "lat": 36.4649973,
+    "lon": 2.7392872,
+    "distance_km": 30.3,
+    "operator": "SNTF"
+   },
+   {
+    "name": "Blida",
+    "name_en": "Blida",
+    "lat": 36.4785227,
+    "lon": 2.8160657,
+    "distance_km": 35.9,
+    "operator": "الشركة الوطنية للنقل بالسكك الحديدية"
+   },
+   {
+    "name": "Beni Mered",
+    "name_en": null,
+    "lat": 36.5202414,
+    "lon": 2.8594797,
+    "distance_km": 38.3,
+    "operator": "SNTF"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sheraton Club des Pins Resort",
+   "name_en": "Sheraton Club des Pins Resort",
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 36.7633673,
+   "lon": 2.8736187,
+   "distance_km": 42.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "KT Hôtels",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.5227749,
+   "lon": 2.8664613,
+   "distance_km": 38.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel El Riadh فندق الرياض",
+   "name_en": "El Riadh Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.7590699,
+   "lon": 2.8514563,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mas des Planteurs (Ex-Samitel)",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.7261627,
+   "lon": 2.8731206,
+   "distance_km": 41.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Plaza 2",
+   "name_en": null,
+   "stars": 0,
+   "brand": null,
+   "lat": 36.4818238,
+   "lon": 2.8289631,
+   "distance_km": 36.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DZ",
   "country_zh": "阿尔及利亚",
@@ -176,5 +330,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:39Z"
+ "updated_at": "2026-11-12T12:41:55Z"
 }

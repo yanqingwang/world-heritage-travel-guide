@@ -2,7 +2,7 @@
  "id": "wh-865",
  "unesco_id": "865",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 563,
  "popularity_score": 9412,
  "country": "UA",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_865.jpg",
-   "title": "L'viv – the Ensemble of the Historic Centre",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/865",
-   "provider": "unesco"
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Lemberg.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work , recorded with Røde NT-USB and Audacity , converted with SoX (Sound eXchange audio editing software)",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Lemberg.ogg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%22Emily_Resort%22%2C_2025_%D1%80%D1%96%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"Emily Resort\", 2025 рік.jpg",
+   "author": "Monrowski",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Emily_Resort%22%2C_2025_%D1%80%D1%96%D0%BA.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/00_lviv_prizvyshcha.png/1280px-00_lviv_prizvyshcha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 lviv prizvyshcha.png",
+   "author": "Monrowski",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_lviv_prizvyshcha.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/01940_0659_%282%29_Czerwony_Sztandar.jpg/1280px-01940_0659_%282%29_Czerwony_Sztandar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01940 0659 (2) Czerwony Sztandar.jpg",
+   "author": "Silar",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01940_0659_%282%29_Czerwony_Sztandar.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/865",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 146.6,
   "distance_beijing_km": 6998.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Львів-Підзамче",
+    "name_en": null,
+    "lat": 49.851431,
+    "lon": 24.035198,
+    "distance_km": 1.1,
+    "operator": null
+   },
+   {
+    "name": "Паркова",
+    "name_en": null,
+    "lat": 49.8223805,
+    "lon": 24.0300298,
+    "distance_km": 2.1,
+    "operator": "ДЗ"
+   },
+   {
+    "name": "Сонячна",
+    "name_en": null,
+    "lat": 49.8187989,
+    "lon": 24.0208486,
+    "distance_km": 2.7,
+    "operator": null
+   },
+   {
+    "name": "Львів-Приміський",
+    "name_en": null,
+    "lat": 49.8363551,
+    "lon": 23.9948755,
+    "distance_km": 2.7,
+    "operator": "Укрзалізниця"
+   },
+   {
+    "name": "Львів-Головний",
+    "name_en": "Lviv-Main",
+    "lat": 49.8399296,
+    "lon": 23.9937023,
+    "distance_km": 2.7,
+    "operator": "Укрзалізниця"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Готель \"Леополіс\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.8422729,
+   "lon": 24.0292699,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BANKHOTEL",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.8409271,
+   "lon": 24.020998,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Luxury Boutique Andriivskiy",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.8307737,
+   "lon": 24.0473996,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Готель СВ",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.8778297,
+   "lon": 24.0329257,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Готель Волтер",
+   "name_en": "Hotel Volter",
+   "stars": 3,
+   "brand": null,
+   "lat": 49.8646834,
+   "lon": 24.050795,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "UA",
   "country_zh": "乌克兰",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:00Z"
+ "updated_at": "2026-11-12T12:42:08Z"
 }

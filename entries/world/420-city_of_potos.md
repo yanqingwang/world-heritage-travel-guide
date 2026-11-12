@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iv)(vi)"
 lat: -19.589166666
 lon: -65.753333333
-updated_at: "2026-11-12T12:11:46Z"
+updated_at: "2026-11-12T12:41:59Z"
 ---
 
 # 波托西城 / City of Potosí

@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "546"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(ii)(iv)"
 lat: 49.0011
 lon: 8.8129
-updated_at: "2026-11-12T12:11:49Z"
+updated_at: "2026-11-12T12:42:01Z"
 ---
 
 # 莫尔布龙修道院 / Maulbronn Monastery Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:49Z"
 
 *Kloster Maulbronn 2009.jpg · see Wikimedia Commons file page*
 
-![Maulbronn Monastery Complex](https://whc.unesco.org/uploads/sites/site_546.jpg)
+![00 0185 Kloster Maulbronn.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/00_0185_Kloster_Maulbronn.jpg/1280px-00_0185_Kloster_Maulbronn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Maulbronn Monastery Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*00 0185 Kloster Maulbronn.jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 0193 Kloster Maulbronn, Gebäude der ehemaligen Klosterverwaltung.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/00_0193_Kloster_Maulbronn%2C_Geb%C3%A4ude_der_ehemaligen_Klosterverwaltung.jpg/1280px-00_0193_Kloster_Maulbronn%2C_Geb%C3%A4ude_der_ehemaligen_Klosterverwaltung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 0193 Kloster Maulbronn, Gebäude der ehemaligen Klosterverwaltung.jpg · W. Bulach · CC BY-SA 4.0*
+
+![111 of 'Father Rhine. (An account of a summer tour. With plates.)' (11290357094).jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/111_of_%27Father_Rhine._%28An_account_of_a_summer_tour._With_plates.%29%27_%2811290357094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*111 of 'Father Rhine. (An account of a summer tour. With plates.)' (11290357094).jpg · The British Library · No restrictions*
+
+![Aerial image of the Maulbronn Monastery Complex (view from the southeast).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Aerial_image_of_the_Maulbronn_Monastery_Complex_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_the_Maulbronn_Monastery_Complex_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial image of the Maulbronn Monastery Complex (view from the southeast).jpg · Carsten Steger · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Kloster Maulbronn ist eine ehemalige Zisterzienserabtei in der Ortsmitte von
 - ✈ **Stuttgart Airport (STR)** — 45.8 km
 - ✈ **Mannheim-City Airport (MHG)** — 56.8 km
 - ✈ **Karlsruhe Baden-Baden Airport (FKB)** — 58.9 km
+- 🚉 **Maulbronn Stadt/Kloster** — 0.9 km
+- 🚉 **Maulbronn West AVG** — 2.9 km
+- 🚉 **Maulbronn West** — 3.0 km
+- 🚉 **Mühlacker** — 5.9 km
+- 🚉 **Gölshausen** — 8.1 km
+- ⛴ **Schiffsanleger Besigheim** — 24.5 km
+- ⛴ **Schiffsanleger "Neckar Käpt'n" Besigheim** — 24.6 km
+- ⛴ **Schiffsanlegestelle Kirchheim am Neckar** — 25.0 km
+- ⛴ **Bootslände Felsengartenkellerei** — 26.4 km
+- ⛴ **Bootslände Hessigheim** — 27.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7845.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Graf Zeppelin** — 36.1 km — star — 5★
+- **Le Méridien** — 36.6 km — star — 5★ · Le Méridien
+- **Heidelberg Suites** — 46.7 km — star — 5★
+- **Romantikhotel Kleiner Prinz** — 49.8 km — star — 5★
+- **Maison Messmer** — 49.9 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

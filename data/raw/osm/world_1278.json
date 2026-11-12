@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "역전려관",
+   "name_en": "Yokton Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9698559,
+   "lon": 126.5405041,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "개성민속려관",
+   "name_en": "Kaesong Folk Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9768991,
+   "lon": 126.5529367,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Janamsan Hotel (자남산려관)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.978692,
+   "lon": 126.5646127,
+   "distance_km": 5.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "송악프라자",
+   "name_en": "Songak Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9269266,
+   "lon": 126.619787,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Q Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.7887734,
+   "lon": 126.6888437,
+   "distance_km": 26.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 83,
+ "stations": [
+  {
+   "name": "개성",
+   "name_en": "Kaesong",
+   "lat": 37.9690133,
+   "lon": 126.5426561,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "개풍",
+   "name_en": "Gaepung",
+   "lat": 37.952598,
+   "lon": 126.4574283,
+   "distance_km": 5.5,
+   "operator": null
+  },
+  {
+   "name": "려현",
+   "name_en": "Ryeohyeon",
+   "lat": 38.0079331,
+   "lon": 126.4389977,
+   "distance_km": 6.7,
+   "operator": null
+  },
+  {
+   "name": "손하",
+   "name_en": "Sonha",
+   "lat": 37.9575758,
+   "lon": 126.5815085,
+   "distance_km": 7.0,
+   "operator": null
+  },
+  {
+   "name": "계정",
+   "name_en": "Gyejeong",
+   "lat": 38.0664758,
+   "lon": 126.4539427,
+   "distance_km": 10.6,
+   "operator": null
+  },
+  {
+   "name": "봉동",
+   "name_en": "Bongdong",
+   "lat": 37.9464833,
+   "lon": 126.6225912,
+   "distance_km": 10.8,
+   "operator": null
+  },
+  {
+   "name": "판문",
+   "name_en": "Panmun",
+   "lat": 37.9284619,
+   "lon": 126.6440468,
+   "distance_km": 13.3,
+   "operator": null
+  },
+  {
+   "name": "은빛",
+   "name_en": "Unbit",
+   "lat": 38.0314757,
+   "lon": 126.3298521,
+   "distance_km": 16.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "삼보해운",
+   "name_en": null,
+   "lat": 37.6999002,
+   "lon": 126.3810619,
+   "distance_km": 33.3,
+   "operator": null
+  },
+  {
+   "name": "하리선착장",
+   "name_en": null,
+   "lat": 37.7280025,
+   "lon": 126.2864176,
+   "distance_km": 34.3,
+   "operator": null
+  },
+  {
+   "name": "석포리 선착장",
+   "name_en": null,
+   "lat": 37.6941932,
+   "lon": 126.367966,
+   "distance_km": 34.3,
+   "operator": null
+  },
+  {
+   "name": "선수선착장",
+   "name_en": null,
+   "lat": 37.63842,
+   "lon": 126.3856004,
+   "distance_km": 39.7,
+   "operator": null
+  },
+  {
+   "name": "어류정항",
+   "name_en": null,
+   "lat": 37.6446988,
+   "lon": 126.3437078,
+   "distance_km": 40.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:26Z"
+}

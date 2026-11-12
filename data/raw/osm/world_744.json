@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Huaka-yo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 1.8885761,
+   "lon": -76.2969149,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Finca Cometa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 1.8831322,
+   "lon": -76.3091867,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabañas y Camping Buena Vista",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 1.8876953,
+   "lon": -76.2819338,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Waterfalls Permaculture Farm",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 1.8710329,
+   "lon": -76.3022956,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Estorake",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 1.8869076,
+   "lon": -76.2807422,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 67,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:05Z"
+}

@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "719"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1995"
 criteria: "(vii)(ix)"
 lat: 65.06666667
 lon: 60.15
-updated_at: "2026-11-12T12:11:54Z"
+updated_at: "2026-11-12T12:42:04Z"
 ---
 
 # 科米原始森林 / Virgin Komi Forests
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:54Z"
 
 *Four herous01.JPG · see Wikimedia Commons file page*
 
-![Virgin Komi Forests](https://whc.unesco.org/uploads/sites/site_719.jpg)
+![Bog area in the Yaksha cluster of Pechora-Ilych B.R.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Bog_area_in_the_Yaksha_cluster_of_Pechora-Ilych_B.R.jpg/1280px-Bog_area_in_the_Yaksha_cluster_of_Pechora-Ilych_B.R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Virgin Komi Forests · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bog area in the Yaksha cluster of Pechora-Ilych B.R.jpg · Metselaar, J. · CC BY-SA 4.0*
+
+![Entrance to hiking trail in Pechora-Ilych B.R.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Entrance_to_hiking_trail_in_Pechora-Ilych_B.R.jpg/1280px-Entrance_to_hiking_trail_in_Pechora-Ilych_B.R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrance to hiking trail in Pechora-Ilych B.R.jpg · Metselaar, J. · CC BY-SA 4.0*
+
+![Entrance to Pechora-Ilych Biosphere Reserve.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Entrance_to_Pechora-Ilych_Biosphere_Reserve.jpg/1280px-Entrance_to_Pechora-Ilych_Biosphere_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrance to Pechora-Ilych Biosphere Reserve.jpg · Metselaar, J. · CC BY-SA 4.0*
+
+![Four herous01.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Four_herous01.JPG/1280px-Four_herous01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Four herous01.JPG · Demeulenaer & Van Ginderdeuren · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ The Virgin Komi Forests cover 3.28 million ha of tundra and mountain tundra in t
 - ✈ **Usinsk Airport (USK)** — 165.2 km
 - ✈ **Vorkuta Airport (VKT)** — 319.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4626.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "1215"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(ii)(iii)(iv)"
 lat: 50.136111111
 lon: -5.383611111
-updated_at: "2026-11-12T12:12:12Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 康沃尔和西德文矿区景观 / Cornwall and West Devon Mining Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:12Z"
 
 *Levant-Mine-by-John-Gibson.jpg · see Wikimedia Commons file page*
 
-![Cornwall and West Devon Mining Landscape](https://whc.unesco.org/uploads/sites/site_1215.jpg)
+![A Mill At The 412, Dolcoath Mine - J C Burrow, 1893.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_Mill_At_The_412%2C_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png/1280px-A_Mill_At_The_412%2C_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cornwall and West Devon Mining Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Mill At The 412, Dolcoath Mine - J C Burrow, 1893.png · Mellangoose · CC BY-SA 4.0*
+
+![A Rock-Drill End, East Pool Mine - J C Burrows, 1893.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_Rock-Drill_End%2C_East_Pool_Mine_-_J_C_Burrows%2C_1893.png/1280px-A_Rock-Drill_End%2C_East_Pool_Mine_-_J_C_Burrows%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Rock-Drill End, East Pool Mine - J C Burrows, 1893.png · Mellangoose · CC BY-SA 4.0*
+
+![Above The 406, Cook's Kitchen Mine - J C Burrows, 1893.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Above_The_406%2C_Cook%27s_Kitchen_Mine_-_J_C_Burrows%2C_1893.png/1280px-Above_The_406%2C_Cook%27s_Kitchen_Mine_-_J_C_Burrows%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Above The 406, Cook's Kitchen Mine - J C Burrows, 1893.png · Mellangoose · CC BY-SA 4.0*
+
+![Balance Box At Dolcoath Mine - J C Burrow, 1893.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Balance_Box_At_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png/1280px-Balance_Box_At_Dolcoath_Mine_-_J_C_Burrow%2C_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Balance Box At Dolcoath Mine - J C Burrow, 1893.png · Mellangoose · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,27 @@ Much of the landscape of Cornwall and West Devon was transformed in the 18th and
 - ✈ **Land's End Airport (LEQ)** — 20.8 km
 - ✈ **Cornwall Airport Newquay (NQY)** — 43.7 km
 - ✈ **St. Mary's Airport (ISC)** — 69.5 km
+- 🚉 **St Erth** — 5.8 km
+- 🚉 **Hayle** — 6.1 km
+- 🚉 **Prospidnick Halt** — 6.2 km
+- 🚉 **Lelant Saltings** — 6.3 km
+- 🚉 **Lelant** — 6.5 km
+- ⛴ **Gwelva** — 6.6 km
+- ⛴ **St.Michael's Mount** — 6.9 km
+- ⛴ **Isles of Scilly ferry** — 10.5 km
+- ⛴ **Penzance** — 10.7 km
+- ⛴ **St Ives Harbour** — 10.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8515.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Nare Hotel** — 32.6 km — star — 5★
+- **Mullion Cove Hotel** — 16.0 km — star — 4★
+- **St Michael's Hotel & Spa** — 22.4 km — star — 4★
+- **The Garrack Hotel** — 11.6 km — star — 3★
+- **Ayia Napa Holidays** — 6.7 km — chain
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

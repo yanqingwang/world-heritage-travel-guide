@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iv)"
 lat: 38.64928390089582
 lon: 1.2061245243749985
-updated_at: "2026-11-12T12:12:33Z"
+updated_at: "2026-11-12T12:42:26Z"
 ---
 
 # 朗格多克的卡佩王朝皇家堡垒群 / Royal Capetian Fortresses of Languedoc

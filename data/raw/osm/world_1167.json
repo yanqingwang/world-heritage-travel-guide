@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Kayu Manis",
+   "name_en": null,
+   "stars": 0,
+   "brand": null,
+   "lat": -2.0648881,
+   "lon": 101.3972294,
+   "distance_km": 49.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Abyan Mukomuko",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.5553283,
+   "lon": 101.1011487,
+   "distance_km": 44.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Abyan Hotel",
+   "name_en": "Abyan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": -2.5553561,
+   "lon": 101.1011121,
+   "distance_km": 44.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel mahkota",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.0807515,
+   "lon": 101.4069951,
+   "distance_km": 47.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Matahari 2",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.0711075,
+   "lon": 101.4013881,
+   "distance_km": 48.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 9,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:32:18Z"
+}

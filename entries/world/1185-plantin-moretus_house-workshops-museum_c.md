@@ -8,13 +8,13 @@ country: "BE"
 country_zh: "比利时"
 country_en: "Belgium"
 unesco_id: "1185"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 51.218294444
 lon: 4.398163888
-updated_at: "2026-11-12T12:12:11Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 帕拉丁莫瑞图斯工场－博物馆建筑群 / Plantin-Moretus House-Workshops-Museum Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:11Z"
 
 *Museum Plantin-Moretus 08.jpg · see Wikimedia Commons file page*
 
-![Plantin-Moretus House-Workshops-Museum Complex](https://whc.unesco.org/uploads/sites/site_1185.jpg)
+![Piet Verhaert - Man by window at the Plantin Moretus Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Piet_Verhaert_-_Man_by_window_at_the_Plantin_Moretus_Museum.jpg/1280px-Piet_Verhaert_-_Man_by_window_at_the_Plantin_Moretus_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Plantin-Moretus House-Workshops-Museum Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Piet Verhaert - Man by window at the Plantin Moretus Museum.jpg · Piet Verhaert · Public domain*
+
+![1937 Groepsportret van leden van de Nederlandsche Vereeniging van Persfotografen en Film-Operateurs (NVPF.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/1937_Groepsportret_van_leden_van_de_Nederlandsche_Vereeniging_van_Persfotografen_en_Film-Operateurs_%28NVPF.jpg/1280px-1937_Groepsportret_van_leden_van_de_Nederlandsche_Vereeniging_van_Persfotografen_en_Film-Operateurs_%28NVPF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1937 Groepsportret van leden van de Nederlandsche Vereeniging van Persfotografen en Film-Operateurs (NVPF.jpg · Anoniem. Auteursrechthouder: Het Utrechts Archief ; Auteursrechtlicentie: Publiek Domein 1.0 · Public domain*
+
+![Academische zitting Max Rooses (15 juli 1939).tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Academische_zitting_Max_Rooses_%2815_juli_1939%29.tif/lossy-page1-1280px-Academische_zitting_Max_Rooses_%2815_juli_1939%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Academische zitting Max Rooses (15 juli 1939).tif · Fotograaf: Gazet van Antwerpen (1891 - ) · CC0*
+
+![AD 2025 - Portaal in Antwerpen - drukkerij Plantin Moretus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/AD_2025_-_Portaal_in_Antwerpen_-_drukkerij_Plantin_Moretus.jpg/1280px-AD_2025_-_Portaal_in_Antwerpen_-_drukkerij_Plantin_Moretus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AD 2025 - Portaal in Antwerpen - drukkerij Plantin Moretus.jpg · Carolus · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Le musée Plantin-Moretus est une imprimerie et maison d’édition datant de la
 - ✈ **Antwerp International Airport (Deurne) (ANR)** — 5.5 km
 - ✈ **Brussels Airport (BRU)** — 35.7 km
 - ✈ **Eindhoven Airport (EIN)** — 72.6 km
+- 🚉 **Antwerpen-Centraal** — 1.6 km
+- 🚉 **Antwerpen-Zuid** — 2.4 km
+- 🚉 **Antwerpen-Berchem** — 3.2 km
+- 🚉 **Antwerpen-Luchtbal** — 3.4 km
+- 🚉 **Zwijndrecht** — 4.7 km
+- ⛴ **Steenplein** — 0.4 km
+- ⛴ **Sint-Anna** — 0.8 km
+- ⛴ **Jachthaven Willemdok** — 1.4 km
+- ⛴ **Jachthaven Linkeroever** — 1.4 km
+- ⛴ **Sint Anna** — 1.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7924.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Standard Brussels** — 39.7 km — star — 5★ · Hyatt
+- **Le Plaza Brussels** — 40.6 km — star — 5★
+- **Tangla Hotel Brussels** — 40.8 km — star — 5★
+- **Juliana** — 40.9 km — star — 5★ · Juliana
+- **Radisson Collection Grand Place Brussels** — 41.1 km — star — 5★ · Radisson Collection
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

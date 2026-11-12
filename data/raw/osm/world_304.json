@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "The Fairmont Chateau Lake Louise",
+   "name_en": null,
+   "stars": null,
+   "brand": "Fairmont",
+   "lat": 51.4176815,
+   "lon": -116.2165146,
+   "distance_km": 18.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 51.3154174,
+   "lon": -116.9745472,
+   "distance_km": 36.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Mountainview Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 51.3110162,
+   "lon": -116.9727954,
+   "distance_km": 36.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cathedral mountain lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.4225825,
+   "lon": -116.4356387,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Truffle Pigs Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.3945562,
+   "lon": -116.4900232,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 29,
+ "stations": [
+  {
+   "name": "Lake Louise",
+   "name_en": null,
+   "lat": 51.4294526,
+   "lon": -116.1882055,
+   "distance_km": 20.2,
+   "operator": "Rocky Mountaineer"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:45Z"
+}

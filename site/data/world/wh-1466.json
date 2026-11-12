@@ -2,7 +2,7 @@
  "id": "wh-1466",
  "unesco_id": "1466",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 558,
  "popularity_score": 9495,
  "country": "US",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1466.jpg",
-   "title": "San Antonio Missions",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1466",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Casa_Navarro_table_demonstrating_historic_cooking._%28808fbdf5-af06-4777-9356-ba221cfe029d%29.jpg/1280px-Casa_Navarro_table_demonstrating_historic_cooking._%28808fbdf5-af06-4777-9356-ba221cfe029d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Casa Navarro table demonstrating historic cooking. (808fbdf5-af06-4777-9356-ba221cfe029d).jpg",
+   "author": "NPS Photo",
+   "license": "Public domain",
+   "credit": "NPGallery",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_Navarro_table_demonstrating_historic_cooking._%28808fbdf5-af06-4777-9356-ba221cfe029d%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/De_la_Cruz_Sisters.JPG_%285fb2a297-e205-4481-a2b7-3e6379ec1750%29.JPG/1280px-De_la_Cruz_Sisters.JPG_%285fb2a297-e205-4481-a2b7-3e6379ec1750%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "De la Cruz Sisters.JPG (5fb2a297-e205-4481-a2b7-3e6379ec1750).JPG",
+   "author": "NPS Photo",
+   "license": "Public domain",
+   "credit": "NPGallery",
+   "source": "https://commons.wikimedia.org/wiki/File:De_la_Cruz_Sisters.JPG_%285fb2a297-e205-4481-a2b7-3e6379ec1750%29.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Door_on_wall_at_san_antonio_missions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Door on wall at san antonio missions.jpg",
+   "author": "Aaliyah A Valle",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Door_on_wall_at_san_antonio_missions.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Family_looking_at_each_other.JPG_%2846cf84c8-a052-4322-b32d-913d3041b508%29.JPG/1280px-Family_looking_at_each_other.JPG_%2846cf84c8-a052-4322-b32d-913d3041b508%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Family looking at each other.JPG (46cf84c8-a052-4322-b32d-913d3041b508).JPG",
+   "author": "NPS Photo",
+   "license": "Public domain",
+   "credit": "NPGallery",
+   "source": "https://commons.wikimedia.org/wiki/File:Family_looking_at_each_other.JPG_%2846cf84c8-a052-4322-b32d-913d3041b508%29.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1466",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 22.9,
   "distance_beijing_km": 11470.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "San Antonio",
+    "name_en": null,
+    "lat": 29.4193459,
+    "lon": -98.4780456,
+    "distance_km": 10.3,
+    "operator": "Amtrak"
+   },
+   {
+    "name": "San Antonio Zoo Eagle Train Station",
+    "name_en": null,
+    "lat": 29.461185,
+    "lon": -98.473645,
+    "distance_km": 14.9,
+    "operator": "San Antonio Zoo"
+   },
+   {
+    "name": "Wonderland Express Train Station",
+    "name_en": null,
+    "lat": 29.5394582,
+    "lon": -98.3912482,
+    "distance_km": 24.4,
+    "operator": null
+   },
+   {
+    "name": "Longhorn and Western Train Platform",
+    "name_en": null,
+    "lat": 29.5475876,
+    "lon": -98.4347434,
+    "distance_km": 24.5,
+    "operator": "Texas Transporation Museum"
+   },
+   {
+    "name": "Spassburg",
+    "name_en": null,
+    "lat": 29.5981884,
+    "lon": -98.6098471,
+    "distance_km": 33.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Holiday Inn Express & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 29.3211849,
+   "lon": -98.4790383,
+   "distance_km": 2.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 29.34634,
+   "lon": -98.4289778,
+   "distance_km": 3.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 29.3182567,
+   "lon": -98.5548141,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites San Antonio Rivercenter Area",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 29.421129,
+   "lon": -98.4751263,
+   "distance_km": 10.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marriott Plaza San Antonio",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 29.4190209,
+   "lon": -98.4891148,
+   "distance_km": 10.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:19Z"
+ "updated_at": "2026-11-12T12:42:20Z"
 }

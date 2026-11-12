@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "InterContinental Bordeaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 44.8424337,
+   "lon": -0.5748304,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel des Quinconces",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.8475495,
+   "lon": -0.574977,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Burdigala",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Inwood Hotels",
+   "lat": 44.839889,
+   "lon": -0.586726,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "YNDO",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.844267,
+   "lon": -0.583407,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Premier",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Premier",
+   "lat": 44.8422688,
+   "lon": -0.575916,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 256,
+ "stations": [
+  {
+   "name": "Bordeaux-Saint-Jean",
+   "name_en": null,
+   "lat": 44.8255227,
+   "lon": -0.5556498,
+   "distance_km": 2.0,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Caudéran-Mérignac",
+   "name_en": null,
+   "lat": 44.8427995,
+   "lon": -0.6274696,
+   "distance_km": 4.4,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Mérignac Arlac",
+   "name_en": null,
+   "lat": 44.8267789,
+   "lon": -0.6261731,
+   "distance_km": 4.5,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Bègles",
+   "name_en": null,
+   "lat": 44.7993695,
+   "lon": -0.5551706,
+   "distance_km": 4.6,
+   "operator": null
+  },
+  {
+   "name": "Pessac",
+   "name_en": null,
+   "lat": 44.8045273,
+   "lon": -0.6313644,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "Bruges",
+   "name_en": null,
+   "lat": 44.8869972,
+   "lon": -0.6094758,
+   "distance_km": 6.1,
+   "operator": "SNCF"
+  },
+  {
+   "name": "Bassens Ville",
+   "name_en": null,
+   "lat": 44.9012933,
+   "lon": -0.5223144,
+   "distance_km": 8.0,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Pessac-Alouette",
+   "name_en": null,
+   "lat": 44.7934479,
+   "lon": -0.6595812,
+   "distance_km": 8.5,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Bastide",
+   "name_en": null,
+   "lat": 44.8518606,
+   "lon": -0.5614856,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Cité du Vin",
+   "name_en": null,
+   "lat": 44.8617807,
+   "lon": -0.5492202,
+   "distance_km": 3.1,
+   "operator": null
+  },
+  {
+   "name": "GPMB - Bassens Aval",
+   "name_en": null,
+   "lat": 44.9103731,
+   "lon": -0.5412832,
+   "distance_km": 8.3,
+   "operator": null
+  },
+  {
+   "name": "Port de Lamarque",
+   "name_en": null,
+   "lat": 45.0990882,
+   "lon": -0.6935648,
+   "distance_km": 30.5,
+   "operator": "Département de la Gironde"
+  },
+  {
+   "name": "Bac de Blaye-Lamarque",
+   "name_en": null,
+   "lat": 45.1230323,
+   "lon": -0.6655415,
+   "distance_km": 32.4,
+   "operator": "Département de la Gironde"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:33:05Z"
+}

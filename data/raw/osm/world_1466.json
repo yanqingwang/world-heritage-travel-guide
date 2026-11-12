@@ -1,0 +1,112 @@
+{
+ "hotels": [
+  {
+   "name": "Holiday Inn Express & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 29.3211849,
+   "lon": -98.4790383,
+   "distance_km": 2.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 29.34634,
+   "lon": -98.4289778,
+   "distance_km": 3.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 29.3182567,
+   "lon": -98.5548141,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites San Antonio Rivercenter Area",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 29.421129,
+   "lon": -98.4751263,
+   "distance_km": 10.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marriott Plaza San Antonio",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 29.4190209,
+   "lon": -98.4891148,
+   "distance_km": 10.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 208,
+ "stations": [
+  {
+   "name": "San Antonio",
+   "name_en": null,
+   "lat": 29.4193459,
+   "lon": -98.4780456,
+   "distance_km": 10.3,
+   "operator": "Amtrak"
+  },
+  {
+   "name": "San Antonio Zoo Eagle Train Station",
+   "name_en": null,
+   "lat": 29.461185,
+   "lon": -98.473645,
+   "distance_km": 14.9,
+   "operator": "San Antonio Zoo"
+  },
+  {
+   "name": "Wonderland Express Train Station",
+   "name_en": null,
+   "lat": 29.5394582,
+   "lon": -98.3912482,
+   "distance_km": 24.4,
+   "operator": null
+  },
+  {
+   "name": "Longhorn and Western Train Platform",
+   "name_en": null,
+   "lat": 29.5475876,
+   "lon": -98.4347434,
+   "distance_km": 24.5,
+   "operator": "Texas Transporation Museum"
+  },
+  {
+   "name": "Spassburg",
+   "name_en": null,
+   "lat": 29.5981884,
+   "lon": -98.6098471,
+   "distance_km": 33.4,
+   "operator": null
+  },
+  {
+   "name": "Crackaxle Canyon",
+   "name_en": null,
+   "lat": 29.5973956,
+   "lon": -98.6130288,
+   "distance_km": 33.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:33:36Z"
+}

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)(vii)"
 lat: 37.923889
 lon: 29.123333
-updated_at: "2026-11-12T12:11:47Z"
+updated_at: "2026-11-12T12:42:00Z"
 ---
 
 # 赫拉波利斯和帕穆克卡莱 / Hierapolis-Pamukkale

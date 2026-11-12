@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(iv)"
 lat: 48.447777777
 lon: 1.487777777
-updated_at: "2026-11-12T12:11:34Z"
+updated_at: "2026-11-12T12:41:52Z"
 ---
 
 # 沙特尔大教堂 / Chartres Cathedral

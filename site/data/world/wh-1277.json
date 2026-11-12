@@ -2,7 +2,7 @@
  "id": "wh-1277",
  "unesco_id": "1277",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 531,
  "popularity_score": 10558,
  "country": "JP",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Hiraizumi%27s%20surroundings%2C%20Iwate%20Prefecture%3B%20August%202018%20%2803%29.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Hiraizumi_%E2%80%93_Temples%2C_Gardens_and_Archaeological_Sites_Representing_the_Buddhist_Pure_Land-122492.jpg/1280px-Hiraizumi_%E2%80%93_Temples%2C_Gardens_and_Archaeological_Sites_Representing_the_Buddhist_Pure_Land-122492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land-122492.jpg",
+   "author": "Vesna Vujicic-Lugassy",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Hiraizumi_%E2%80%93_Temples%2C_Gardens_and_Archaeological_Sites_Representing_the_Buddhist_Pure_Land-122492.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E3%80%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3_%E5%B9%B3%E6%B3%89%E3%80%8D%E6%A8%AA%E6%96%AD%E5%B9%95.jpg/1280px-%E3%80%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3_%E5%B9%B3%E6%B3%89%E3%80%8D%E6%A8%AA%E6%96%AD%E5%B9%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "「世界文化遺産 平泉」横断幕.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3_%E5%B9%B3%E6%B3%89%E3%80%8D%E6%A8%AA%E6%96%AD%E5%B9%95.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E5%B9%B3%E6%B3%89%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E8%A8%BC.jpg/1280px-%E5%B9%B3%E6%B3%89%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E8%A8%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "平泉世界遺産登録証.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B9%B3%E6%B3%89%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E8%A8%BC.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1277.jpg",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 49.0,
   "distance_beijing_km": 2093.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "伊里前漁港",
+    "name_en": null,
+    "lat": 38.7159206,
+    "lon": 141.5262437,
+    "distance_km": 47.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "平泉",
+    "name_en": "Hiraizumi",
+    "lat": 38.9880865,
+    "lon": 141.1176428,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "山ノ目",
+    "name_en": "Yamanome",
+    "lat": 38.9513097,
+    "lon": 141.1317803,
+    "distance_km": 4.5,
+    "operator": null
+   },
+   {
+    "name": "前沢",
+    "name_en": "Maesawa",
+    "lat": 39.0484618,
+    "lon": 141.1263144,
+    "distance_km": 6.8,
+    "operator": null
+   },
+   {
+    "name": "一ノ関",
+    "name_en": "Ichinoseki",
+    "lat": 38.9268807,
+    "lon": 141.1389019,
+    "distance_km": 7.3,
+    "operator": null
+   },
+   {
+    "name": "真滝",
+    "name_en": "Mataki",
+    "lat": 38.9084404,
+    "lon": 141.1779262,
+    "distance_km": 10.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "ホテルニューあらお",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 38.7478644,
+   "lon": 140.7341706,
+   "distance_km": 42.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "旅館 弁天閣",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 38.7487416,
+   "lon": 140.7290161,
+   "distance_km": 42.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "鳴子温泉 湯元 吉祥",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 38.7399981,
+   "lon": 140.7164343,
+   "distance_km": 43.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "中山平温泉 四季の宿 花渕荘",
+   "name_en": "Hanabuchiso",
+   "stars": null,
+   "brand": null,
+   "lat": 38.7284195,
+   "lon": 140.6838863,
+   "distance_km": 46.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "舞鶴荘",
+   "name_en": "Hiraizumi Maizurusu Ryokan",
+   "stars": null,
+   "brand": null,
+   "lat": 38.9890746,
+   "lon": 141.1113816,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:13Z"
+ "updated_at": "2026-11-12T12:42:17Z"
 }

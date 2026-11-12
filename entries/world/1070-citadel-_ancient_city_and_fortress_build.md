@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(iv)"
 lat: 42.06134
 lon: 48.29601
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 德尔本特城堡、古城及要塞 / Citadel, Ancient City and Fortress Buildings of Derbent

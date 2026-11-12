@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: -18.23333333
 lon: -43.6
-updated_at: "2026-11-12T12:12:01Z"
+updated_at: "2026-11-12T12:42:09Z"
 ---
 
 # 蒂阿曼蒂那城历史中心 / Historic Centre of the Town of Diamantina

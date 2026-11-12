@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iii)"
 lat: 55.75651427
 lon: 9.419743429
-updated_at: "2026-11-12T12:11:53Z"
+updated_at: "2026-11-12T12:42:04Z"
 ---
 
 # 耶灵墓地、古北欧石刻和教堂 / Jelling Mounds, Runic Stones and Church

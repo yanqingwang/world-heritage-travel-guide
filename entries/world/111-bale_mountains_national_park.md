@@ -8,13 +8,13 @@ country: "ET"
 country_zh: "埃塞俄比亚"
 country_en: "Ethiopia"
 unesco_id: "111"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2023"
 criteria: "(vii)(x)"
 lat: 6.75
 lon: 39.75
-updated_at: "2026-11-12T12:11:35Z"
+updated_at: "2026-11-12T12:41:53Z"
 ---
 
 # 巴莱山国家公园 / Bale Mountains National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:35Z"
 
 *Bale mountains.jpg · see Wikimedia Commons file page*
 
-![Bale Mountains National Park](https://whc.unesco.org/uploads/sites/site_111.jpg)
+![Bale Mountains Vervet area.png](https://upload.wikimedia.org/wikipedia/commons/f/f0/Bale_Mountains_Vervet_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Bale Mountains National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bale Mountains Vervet area.png · Chermundy · CC BY-SA 3.0*
+
+![Jubbarivermap.png](https://upload.wikimedia.org/wikipedia/commons/f/f4/Jubbarivermap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Jubbarivermap.png · Kmusser · CC BY-SA 3.0*
+
+![Bale Mountain Lodge and surroundings (10) (28660927963).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bale_Mountain_Lodge_and_surroundings_%2810%29_%2828660927963%29.jpg/1280px-Bale_Mountain_Lodge_and_surroundings_%2810%29_%2828660927963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bale Mountain Lodge and surroundings (10) (28660927963).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![Bale Mountain Lodge and surroundings (11) (28993584490).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bale_Mountain_Lodge_and_surroundings_%2811%29_%2828993584490%29.jpg/1280px-Bale_Mountain_Lodge_and_surroundings_%2811%29_%2828993584490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bale Mountain Lodge and surroundings (11) (28993584490).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ This property protects a landscape mosaic of extraordinary beauty that is shaped
 - ✈ **Arba Minch Airport (AMH)** — 251.4 km
 - ✈ **Addis Ababa Bole International Airport (ADD)** — 269.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8496.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Bale Mountain Lodge** — 4.9 km — hotel
+- **ሆቴል** — 38.3 km — hotel
+- **ጎባ ዋቤ ሸበሌ ሆቴል** — 39.7 km — hotel — Goba Wabe Shebele Hotel
+- **Tokuma International Hotel** — 47.9 km — hotel
+- **Waan Gaarii Guesthouse** — 49.3 km — hotel — Waan Gaarii Guesthouse
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

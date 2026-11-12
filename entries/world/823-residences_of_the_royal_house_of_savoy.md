@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)(v)"
 lat: 45.0725
 lon: 7.68583
-updated_at: "2026-11-12T12:11:59Z"
+updated_at: "2026-11-12T12:42:07Z"
 ---
 
 # 萨沃王宫 / Residences of the Royal House of Savoy

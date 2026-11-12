@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "193"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(iii)(iv)"
 lat: 36.5951
 lon: 2.44077
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 提帕萨 / Tipasa
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:39Z"
 
 *View of Tipasa 01.jpg · see Wikimedia Commons file page*
 
-![Tipasa](https://whc.unesco.org/uploads/sites/site_193.jpg)
+![15CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/15CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Tipasa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*15CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg · Halimkadry · CC BY-SA 4.0*
+
+![17CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg](https://upload.wikimedia.org/wikipedia/commons/d/de/17CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*17CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg · Halimkadry · CC BY-SA 4.0*
+
+![Gate entering Tipasa.JPG](https://upload.wikimedia.org/wikipedia/commons/9/9c/Gate_entering_Tipasa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Gate entering Tipasa.JPG · Alloutthere at en.wikipedia · CC BY-SA 3.0*
+
+![28CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/28CESAEREE_today_TIPAZA_.The_ancient_Roman_city_in_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*28CESAEREE today TIPAZA .The ancient Roman city in Algeria.jpg · Halimkadry · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ On the shores of the Mediterranean, Tipasa was an ancient Punic trading-post con
 - ✈ **Houari Boumediene Airport (ALG)** — 69.9 km
 - ✈ **Chlef Aboubakr Belkaid International Airport (CFK)** — 107.0 km
 - ✈ **Soummam–Abane Ramdane Airport (BJA)** — 234.9 km
+- 🚉 **El Affroun** — 21.3 km
+- 🚉 **Mouzaïa** — 26.4 km
+- 🚉 **Chiffa** — 30.3 km
+- 🚉 **Blida** — 35.9 km
+- 🚉 **Beni Mered** — 38.3 km
+- ⛴ **Port de Tipaza** — 0.7 km
+- ⛴ **Port de pêche Bouharoun** — 19.5 km
+- ⛴ **Port de plaisance de Sidi Fredj** — 40.9 km
+- ⛴ **عين البنيان** — 46.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9103.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sheraton Club des Pins Resort** — 42.9 km — star — Sheraton Club des Pins Resort · 5★ · Sheraton
+- **KT Hôtels** — 38.9 km — star — 4★
+- **Hôtel El Riadh فندق الرياض** — 40.9 km — star — El Riadh Hotel · 4★
+- **Mas des Planteurs (Ex-Samitel)** — 41.2 km — star — 4★
+- **Hôtel Plaza 2** — 36.9 km — star
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

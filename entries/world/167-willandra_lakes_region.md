@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "167"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1981"
 criteria: "(iii)(viii)"
 lat: -33.618142
 lon: 143.101406
-updated_at: "2026-11-12T12:11:37Z"
+updated_at: "2026-11-12T12:41:54Z"
 ---
 
 # 威兰德拉湖区 / Willandra Lakes Region
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:37Z"
 
 *Willandra Lakes.png · see Wikimedia Commons file page*
 
-![Willandra Lakes Region](https://whc.unesco.org/uploads/sites/site_167.jpg)
+![1010 - Willandra Lakes - SHR Plan No 2957 (5045538b100).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/1010_-_Willandra_Lakes_-_SHR_Plan_No_2957_%285045538b100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Willandra Lakes Region · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1010 - Willandra Lakes - SHR Plan No 2957 (5045538b100).jpg · Heritage Division · CC BY 4.0*
+
+![Map of the Willandra Lakes Region, showing the World Heritage Area boundaries, 2008.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_the_Willandra_Lakes_Region%2C_showing_the_World_Heritage_Area_boundaries%2C_2008.jpg/1280px-Map_of_the_Willandra_Lakes_Region%2C_showing_the_World_Heritage_Area_boundaries%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Map of the Willandra Lakes Region, showing the World Heritage Area boundaries, 2008.jpg · Department of the Environment and Energy · CC BY 4.0*
+
+![Willandra Lakes Human 50 calvaria.png](https://upload.wikimedia.org/wikipedia/commons/b/b8/Willandra_Lakes_Human_50_calvaria.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Willandra Lakes Human 50 calvaria.png · Darren Curnoe · CC BY 3.0*
+
+![Willandra Lakes Region-Unesco World Heritage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Willandra_Lakes_Region-Unesco_World_Heritage.jpg/1280px-Willandra_Lakes_Region-Unesco_World_Heritage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Willandra Lakes Region-Unesco World Heritage.jpg · Nasher · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,12 @@ The fossil remains of a series of lakes and sand formations that date from the P
 - ✈ **Broken Hill Airport (BHQ)** — 235.6 km
 - ✈ **Griffith Airport (GFF)** — 282.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8667.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

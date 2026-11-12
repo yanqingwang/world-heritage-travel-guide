@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iv)(vi)"
 lat: 15.5024
 lon: 73.9117
-updated_at: "2026-11-12T12:11:40Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 果阿的教堂和修道院 / Churches and Convents of Goa

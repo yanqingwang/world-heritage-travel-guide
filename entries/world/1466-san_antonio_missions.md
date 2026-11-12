@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "1466"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)"
 lat: 29.3281
 lon: -98.46
-updated_at: "2026-11-12T12:12:19Z"
+updated_at: "2026-11-12T12:42:20Z"
 ---
 
 # 圣安东尼奥布道区 / San Antonio Missions
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:19Z"
 
 *Mission Concepcion San Antonio.JPG · see Wikimedia Commons file page*
 
-![San Antonio Missions](https://whc.unesco.org/uploads/sites/site_1466.jpg)
+![Casa Navarro table demonstrating historic cooking. (808fbdf5-af06-4777-9356-ba221cfe029d).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Casa_Navarro_table_demonstrating_historic_cooking._%28808fbdf5-af06-4777-9356-ba221cfe029d%29.jpg/1280px-Casa_Navarro_table_demonstrating_historic_cooking._%28808fbdf5-af06-4777-9356-ba221cfe029d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*San Antonio Missions · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Casa Navarro table demonstrating historic cooking. (808fbdf5-af06-4777-9356-ba221cfe029d).jpg · NPS Photo · Public domain*
+
+![De la Cruz Sisters.JPG (5fb2a297-e205-4481-a2b7-3e6379ec1750).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/De_la_Cruz_Sisters.JPG_%285fb2a297-e205-4481-a2b7-3e6379ec1750%29.JPG/1280px-De_la_Cruz_Sisters.JPG_%285fb2a297-e205-4481-a2b7-3e6379ec1750%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*De la Cruz Sisters.JPG (5fb2a297-e205-4481-a2b7-3e6379ec1750).JPG · NPS Photo · Public domain*
+
+![Door on wall at san antonio missions.jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/Door_on_wall_at_san_antonio_missions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Door on wall at san antonio missions.jpg · Aaliyah A Valle · CC BY-SA 4.0*
+
+![Family looking at each other.JPG (46cf84c8-a052-4322-b32d-913d3041b508).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Family_looking_at_each_other.JPG_%2846cf84c8-a052-4322-b32d-913d3041b508%29.JPG/1280px-Family_looking_at_each_other.JPG_%2846cf84c8-a052-4322-b32d-913d3041b508%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Family looking at each other.JPG (46cf84c8-a052-4322-b32d-913d3041b508).JPG · NPS Photo · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ The site encompasses a group of five frontier mission complexes situated along a
 - ✈ **San Antonio International Airport (SAT)** — 22.9 km
 - ✈ **Austin Bergstrom International Airport (AUS)** — 123.6 km
 - ✈ **Victoria Regional Airport (VCT)** — 158.8 km
+- 🚉 **San Antonio** — 10.3 km
+- 🚉 **San Antonio Zoo Eagle Train Station** — 14.9 km
+- 🚉 **Wonderland Express Train Station** — 24.4 km
+- 🚉 **Longhorn and Western Train Platform** — 24.5 km
+- 🚉 **Spassburg** — 33.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11470.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Holiday Inn Express & Suites** — 2.0 km — chain — Holiday Inn Express & Suites
+- **Hampton Inn & Suites** — 3.6 km — chain — Hampton Inn & Suites
+- **Best Western Plus** — 9.3 km — chain — Best Western Plus
+- **Holiday Inn Express & Suites San Antonio Rivercenter Area** — 10.4 km — chain — Holiday Inn Express & Suites
+- **Marriott Plaza San Antonio** — 10.5 km — chain — Marriott
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

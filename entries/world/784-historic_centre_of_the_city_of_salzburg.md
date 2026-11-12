@@ -8,13 +8,13 @@ country: "AT"
 country_zh: "奥地利"
 country_en: "Austria"
 unesco_id: "784"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(ii)(iv)(vi)"
 lat: 47.7997
 lon: 13.0486
-updated_at: "2026-11-12T12:11:57Z"
+updated_at: "2026-11-12T12:42:06Z"
 ---
 
 # 萨尔茨堡市历史中心 / Historic Centre of the City of Salzburg
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T12:11:57Z"
 ![SalzburgerAltstadt02b.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/SalzburgerAltstadt02b.jpg?width=1280)
 
 *SalzburgerAltstadt02b.jpg · see Wikimedia Commons file page*
+
+![Salzburg UNESCO World Heritage.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Salzburg_UNESCO_World_Heritage.JPG/1280px-Salzburg_UNESCO_World_Heritage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Salzburg UNESCO World Heritage.JPG · Nem80 · Public domain*
 
 ![Historic Centre of the City of Salzburg](https://whc.unesco.org/uploads/sites/site_784.jpg)
 
@@ -52,7 +56,27 @@ Das Historische Zentrum der Stadt Salzburg, englisch Historic Centre of the City
 - ✈ **Salzburg Airport (SZG)** — 3.4 km
 - ✈ **Linz-Hörsching Airport (LNZ)** — 97.6 km
 - ✈ **Munich Airport (MUC)** — 112.2 km
+- 🚉 **Festungsbahn Talstation** — 0.4 km
+- 🚉 **Festungsbahn Bergstation** — 0.6 km
+- 🚉 **Salzburg Hauptbahnhof** — 1.5 km
+- 🚉 **Salzburg Hauptbahnhof (S-Bahn)** — 1.5 km
+- 🚉 **Salzburg Aigen** — 2.6 km
+- ⛴ **Anlegestelle Makartsteg** — 0.6 km
+- ⛴ **Anlegestelle Hellbrunn** — 3.7 km
+- ⛴ **Anlegestelle Schloss-Fischerei** — 15.5 km
+- ⛴ **Obertrum am See** — 16.0 km
+- ⛴ **Bootsverleih Stadlmann** — 18.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7687.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Radisson Blu Altstadt Hotel** — 0.1 km — star — 5★ · Radisson Blu
+- **Hotel Sacher** — 0.5 km — star — 5★
+- **Bristol** — 0.5 km — star — 5★
+- **Hotel Schloss Mönchstein** — 1.1 km — star — 5★
+- **Hotel Seehof** — 26.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

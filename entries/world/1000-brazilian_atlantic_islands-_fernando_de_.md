@@ -8,13 +8,13 @@ country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
 unesco_id: "1000"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2001"
 criteria: "(vii)(ix)(x)"
 lat: -3.866388888
 lon: -33.801944444
-updated_at: "2026-11-12T12:12:06Z"
+updated_at: "2026-11-12T12:42:12Z"
 ---
 
 # 巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区 / Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:06Z"
 
 *Atol das Rocas ISS007.jpg · see Wikimedia Commons file page*
 
-![Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves](https://whc.unesco.org/uploads/sites/site_1000.jpg)
+![IMRAY(1884) p0246 THE ROCAS.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/IMRAY%281884%29_p0246_THE_ROCAS.jpg/1280px-IMRAY%281884%29_p0246_THE_ROCAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*IMRAY(1884) p0246 THE ROCAS.jpg · Public domain*
+
+![Admiralty Chart No 388 Islands in the South Atlantic Odean, Published 1913, New Edition 1940.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Admiralty_Chart_No_388_Islands_in_the_South_Atlantic_Odean%2C_Published_1913%2C_New_Edition_1940.jpg/1280px-Admiralty_Chart_No_388_Islands_in_the_South_Atlantic_Odean%2C_Published_1913%2C_New_Edition_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 388 Islands in the South Atlantic Odean, Published 1913, New Edition 1940.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![After Silver SunSet - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/After_Silver_SunSet_-_panoramio.jpg/1280px-After_Silver_SunSet_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*After Silver SunSet - panoramio.jpg · ---=XEON=--- · CC BY 3.0*
+
+![Atol das rocas agua cristalina.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/Atol_das_rocas_agua_cristalina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atol das rocas agua cristalina.jpg · Rodrigo Pereira Barbosa · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Reserva Biológica Atol das Rocas é uma unidade de conservação de proteção 
 - ✈ **Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT)** — 273.6 km
 - ✈ **Presidente Castro Pinto International Airport (JPA)** — 386.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14927.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

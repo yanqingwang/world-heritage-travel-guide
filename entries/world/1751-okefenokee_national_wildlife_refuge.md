@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "1751"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2026"
 criteria: "(ix)(x)"
 lat: 30.738115
 lon: -82.139736
-updated_at: "2026-11-12T12:12:32Z"
+updated_at: "2026-11-12T12:42:26Z"
 ---
 
 # 奥克弗诺基国家野生动物保护区 / Okefenokee National Wildlife Refuge
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:32Z"
 
 *OkefenokeeNWR1.jpg · see Wikimedia Commons file page*
 
-![Okefenokee National Wildlife Refuge](https://whc.unesco.org/uploads/sites/site_1751.jpg)
+![1983 Okefenokee NWR - DPLA - 7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/1983_Okefenokee_NWR_-_DPLA_-_7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf/page1-1280px-1983_Okefenokee_NWR_-_DPLA_-_7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Okefenokee National Wildlife Refuge · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1983 Okefenokee NWR - DPLA - 7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf · Department of the Interior. U.S. Fish and Wildlife Service. Office of the Associate Director for Fish and Wildlife Manag · Public domain*
+
+![2017 Fire Management (34254536292).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_Fire_Management_%2834254536292%29.jpg/1280px-2017_Fire_Management_%2834254536292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017 Fire Management (34254536292).jpg · USFWS/Southeast · Public domain*
+
+![2017 Fire Management (34254538052).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2017_Fire_Management_%2834254538052%29.jpg/1280px-2017_Fire_Management_%2834254538052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017 Fire Management (34254538052).jpg · USFWS/Southeast · Public domain*
+
+![2017 Fire Management (34254539292).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2017_Fire_Management_%2834254539292%29.jpg/1280px-2017_Fire_Management_%2834254539292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017 Fire Management (34254539292).jpg · USFWS/Southeast · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,19 @@ The property, located in southeastern Georgia and northeastern Florida, protects
 - ✈ **Jacksonville International Airport (JAX)** — 51.2 km
 - ✈ **Brunswick Golden Isles Airport (BQK)** — 86.4 km
 - ✈ **Valdosta Regional Airport (VLD)** — 108.8 km
+- 🚉 **Train Depot** — 37.7 km
+- 🚉 **Pioneer Island** — 37.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11944.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hampton Inn Kingsland** — 45.8 km — chain — Hampton
+- **Microtel Inn & Suites by Wyndham Kingsland** — 46.7 km — chain — Microtel Inn & Suites
+- **Holiday Inn Express & Suites Kingsland I-95-Naval Base Area** — 46.8 km — chain — Holiday Inn Express & Suites
+- **Country Inn & Suites by Radisson** — 47.0 km — chain — Country Inn & Suites
+- **Best Western** — 47.0 km — chain — Best Western
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

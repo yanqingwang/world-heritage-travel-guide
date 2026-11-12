@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "The Gateway Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Taj Hotels",
+   "lat": 13.3361739,
+   "lon": 75.8172786,
+   "distance_km": 23.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ashhok Hassan",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 13.0020016,
+   "lon": 76.1021032,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palguni Residency",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 13.0086413,
+   "lon": 76.1025832,
+   "distance_km": 25.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sri Krishna",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 13.0024014,
+   "lon": 76.1084076,
+   "distance_km": 26.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eco Holiday Home",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.4262331,
+   "lon": 75.7515144,
+   "distance_km": 35.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 47,
+ "stations": [
+  {
+   "name": "Chikkamagaluru",
+   "name_en": null,
+   "lat": 13.3032152,
+   "lon": 75.7887158,
+   "distance_km": 24.4,
+   "operator": "SWR"
+  },
+  {
+   "name": "Sakharayapatna",
+   "name_en": null,
+   "lat": 13.4299605,
+   "lon": 75.9278539,
+   "distance_km": 25.2,
+   "operator": "SWR"
+  },
+  {
+   "name": "Koravangala",
+   "name_en": null,
+   "lat": 13.0533768,
+   "lon": 76.1600621,
+   "distance_km": 25.2,
+   "operator": "SWR"
+  },
+  {
+   "name": "Alur",
+   "name_en": null,
+   "lat": 12.9817317,
+   "lon": 76.0004054,
+   "distance_km": 25.7,
+   "operator": "SWR"
+  },
+  {
+   "name": "Banavar",
+   "name_en": null,
+   "lat": 13.3958245,
+   "lon": 76.140481,
+   "distance_km": 25.8,
+   "operator": "SWR"
+  },
+  {
+   "name": "Bageshapura",
+   "name_en": null,
+   "lat": 13.1432231,
+   "lon": 76.2293373,
+   "distance_km": 26.6,
+   "operator": "SWR"
+  },
+  {
+   "name": "Hassan Junction",
+   "name_en": null,
+   "lat": 13.0033872,
+   "lon": 76.1173868,
+   "distance_km": 26.8,
+   "operator": "SWR"
+  },
+  {
+   "name": "Devanur",
+   "name_en": null,
+   "lat": 13.4354386,
+   "lon": 76.0928931,
+   "distance_km": 27.0,
+   "operator": "SWR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:34:37Z"
+}

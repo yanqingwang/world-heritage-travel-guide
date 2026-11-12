@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Vientonorte",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -23.5778019,
+   "lon": -65.394247,
+   "distance_km": 42.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Solar de la Quebrada",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -23.2052743,
+   "lon": -65.3492559,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Federico III",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -22.7916109,
+   "lon": -65.2159732,
+   "distance_km": 47.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostería Los Airampos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -23.2019885,
+   "lon": -65.3481985,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hostal El Coquena",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -23.2016492,
+   "lon": -65.346373,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 54,
+ "stations": [
+  {
+   "name": "Tilcara",
+   "name_en": null,
+   "lat": -23.572831,
+   "lon": -65.3984624,
+   "distance_km": 41.8,
+   "operator": "Provincia de Jujuy"
+  },
+  {
+   "name": "Maimará",
+   "name_en": null,
+   "lat": -23.6281371,
+   "lon": -65.4087086,
+   "distance_km": 48.0,
+   "operator": "Provincia de Jujuy"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:32:11Z"
+}

@@ -2,7 +2,7 @@
  "id": "wh-1398",
  "unesco_id": "1398",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 510,
  "popularity_score": 11273,
  "country": "IR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1398.jpg",
-   "title": "Gonbad-e Qābus",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1398",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%28_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3%28%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3.jpg/1280px-%28_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3%28%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "( گنبد کاووس(برج گنبد قابوس.jpg",
+   "author": "Nima bagheri",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%28_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3%28%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/1%DA%AF%D9%86%D8%A8%D8%AF.jpg/1280px-1%DA%AF%D9%86%D8%A8%D8%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1گنبد.jpg",
+   "author": "Neda1982",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1%DA%AF%D9%86%D8%A8%D8%AF.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/8-gonbad0008A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "8-gonbad0008A.jpg",
+   "author": "Ehsan.faghih",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:8-gonbad0008A.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/8-gonbad0009A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "8-gonbad0009A.jpg",
+   "author": "Ehsan.faghih",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:8-gonbad0009A.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1398",
@@ -104,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل لابوس رامیان",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.0477448,
+   "lon": 55.1411963,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل قابوس",
+   "name_en": "Hotel Qabos",
+   "stars": null,
+   "brand": null,
+   "lat": 37.225776,
+   "lon": 55.1627433,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل استقلال",
+   "name_en": "Hotel Esteghlal",
+   "stars": null,
+   "brand": null,
+   "lat": 37.2352285,
+   "lon": 55.3638566,
+   "distance_km": 17.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل آکام",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.0983927,
+   "lon": 55.1722625,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل و رستوران پوریا",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.0965983,
+   "lon": 55.1704414,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -173,5 +253,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:17Z"
+ "updated_at": "2026-11-12T12:42:19Z"
 }

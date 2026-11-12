@@ -8,13 +8,13 @@ country: "KP"
 country_zh: "朝鲜民主主义人民共和国"
 country_en: "North Korea"
 unesco_id: "1278"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2013"
 criteria: "(ii)(iii)"
 lat: 37.981666666
 lon: 126.508055555
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:17Z"
 ---
 
 # 开城历史古迹 / Historic Monuments and Sites in Kaesong
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T12:12:13Z"
 ![Nam Gate in Kaesong (5063812320).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Nam%20Gate%20in%20Kaesong%20%285063812320%29.jpg?width=1280)
 
 *Nam Gate in Kaesong (5063812320).jpg · see Wikimedia Commons file page*
+
+![Castle walls near Kaesong around 1910s, Photo-No.5058.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/Castle_walls_near_Kaesong_around_1910s%2C_Photo-No.5058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Castle walls near Kaesong around 1910s, Photo-No.5058.jpg · Ryūzō Torii · Public domain*
+
+![Honoring monument of Jeong Mong-ju around 1910s, Photo-No.5088.jpg](https://upload.wikimedia.org/wikipedia/commons/f/ff/Honoring_monument_of_Jeong_Mong-ju_around_1910s%2C_Photo-No.5088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Honoring monument of Jeong Mong-ju around 1910s, Photo-No.5088.jpg · Ryūzō Torii · Public domain*
 
 ![Historic Monuments and Sites in Kaesong](https://whc.unesco.org/uploads/sites/site_1278.jpg)
 
@@ -52,7 +60,27 @@ Situated in Kaesong city, in the south of the country, the site consists of 12 s
 - ✈ **Seoul Gimpo International Airport (GMP)** — 53.2 km
 - ✈ **Incheon International Airport (ICN)** — 57.2 km
 - ✈ **Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU)** — 141.4 km
+- 🚉 **개성** — 3.3 km
+- 🚉 **개풍** — 5.5 km
+- 🚉 **려현** — 6.7 km
+- 🚉 **손하** — 7.0 km
+- 🚉 **계정** — 10.6 km
+- ⛴ **삼보해운** — 33.3 km
+- ⛴ **하리선착장** — 34.3 km
+- ⛴ **석포리 선착장** — 34.3 km
+- ⛴ **선수선착장** — 39.7 km
+- ⛴ **어류정항** — 40.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **역전려관** — 3.1 km — hotel — Yokton Hotel
+- **개성민속려관** — 4.0 km — hotel — Kaesong Folk Hotel
+- **Janamsan Hotel (자남산려관)** — 5.0 km — hotel
+- **송악프라자** — 11.5 km — hotel — Songak Plaza
+- **Q Hotel** — 26.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

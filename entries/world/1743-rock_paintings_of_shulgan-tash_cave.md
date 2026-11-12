@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "1743"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(iii)"
 lat: 53.044444444
 lon: 57.063888888
-updated_at: "2026-11-12T12:12:32Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 舒利根塔什洞穴岩画 / Rock Paintings of Shulgan-Tash Cave
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:32Z"
 
 *Выход из Каповой.jpg · see Wikimedia Commons file page*
 
-![Rock Paintings of Shulgan-Tash Cave](https://whc.unesco.org/uploads/sites/site_1743.jpg)
+!["Шүлгән- таш"мәмерйәһе.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5.jpg/1280px-%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rock Paintings of Shulgan-Tash Cave · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Шүлгән- таш"мәмерйәһе.jpg · Зөлхизә96 · CC BY-SA 4.0*
+
+!["Шүлгән- таш"мәмерйәһенең эсендәге күл.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5%D0%BD%D0%B5%D2%A3_%D1%8D%D1%81%D0%B5%D0%BD%D0%B4%D3%99%D0%B3%D0%B5_%D0%BA%D2%AF%D0%BB.jpg/1280px-%22%D0%A8%D2%AF%D0%BB%D0%B3%D3%99%D0%BD-_%D1%82%D0%B0%D1%88%22%D0%BC%D3%99%D0%BC%D0%B5%D1%80%D0%B9%D3%99%D2%BB%D0%B5%D0%BD%D0%B5%D2%A3_%D1%8D%D1%81%D0%B5%D0%BD%D0%B4%D3%99%D0%B3%D0%B5_%D0%BA%D2%AF%D0%BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Шүлгән- таш"мәмерйәһенең эсендәге күл.jpg · Зөлхизә96 · CC BY-SA 4.0*
+
+![Kapova Cave (Portal).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kapova_Cave_%28Portal%29.jpg/1280px-Kapova_Cave_%28Portal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kapova Cave (Portal).jpg · SoloveiYegor · CC BY-SA 4.0*
+
+![Kapova cave, replica.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kapova_cave%2C_replica.JPG/1280px-Kapova_cave%2C_replica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kapova cave, replica.JPG · HTO · Public domain*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Located in the Southern Ural Mountains of Bashkortostan, the Shulgan-Tash Cave c
 - ✈ **Orenburg Central Airport (REN)** — 176.8 km
 - ✈ **Ufa International Airport (UFA)** — 185.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4509.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Акбузат** — 1.7 km — hotel
+- **Акбулат** — 5.7 km — hotel
+- **Турбаза БУРЗЯН** — 9.3 km — hotel
+- **Юлбарс** — 35.6 km — hotel
+- **База отдыха "Дубрава"** — 42.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

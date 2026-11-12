@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 51.662222222
 lon: 6.453888888
-updated_at: "2026-11-12T12:12:26Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 罗马帝国边境--下日耳曼界墙 / Frontiers of the Roman Empire – The Lower German Limes

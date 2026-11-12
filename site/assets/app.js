@@ -81,7 +81,7 @@
         transnational: "跨境遗产", localLang: "本地语言", machine: "机器翻译",
         wikipedia: "维基百科", unescoOfficial: "UNESCO 官方文本", wikidata: "Wikidata",
         foreignOpen: "通常对境外游客开放", foreignUnknown: "需向官方核实",
-        basicNote: "海外基本资料条目仍提供官方多语言介绍、机场与北京距离；酒店仅收录热门 500 条。",
+        basicNote: "海外基本资料条目仍提供官方多语言介绍、机场与北京距离；酒店仅收录热门 600 条。",
         visaNote: "签证状态来自英文维基百科中国护照签证要求表，可能滞后；出行前请核实。",
         imageCredit: "图片",
         currency: "货币", plugs: "插座", voltage: "电压", timezone: "时区",
@@ -169,7 +169,7 @@
         transnational: "Transnational", localLang: "Local language", machine: "machine translation",
         wikipedia: "Wikipedia", unescoOfficial: "UNESCO official text", wikidata: "Wikidata",
         foreignOpen: "Generally open to international visitors", foreignUnknown: "Verify with official source",
-        basicNote: "Basic overseas records still include official multilingual text, airports and Beijing distance; hotels are only included for the top 500.",
+        basicNote: "Basic overseas records still include official multilingual text, airports and Beijing distance; hotels are only included for the top 600.",
         visaNote: "Visa status comes from Wikipedia's visa requirements table for Chinese passports and may lag. Verify before travelling.",
         imageCredit: "Image",
         currency: "Currency", plugs: "Plugs", voltage: "Voltage", timezone: "Time zone",
@@ -571,7 +571,7 @@
     const total = state.data[state.tab]?.count || list.length;
     $("#result-count").textContent = t().result(Math.min(state.limit, list.length), total);
     $("#result-note").textContent = state.tab === "world"
-      ? (state.lang === "zh" ? "按中英文维基热度排序；TOP 500 为完整资料。" : "Ranked by Chinese/English Wikipedia interest; top 500 have full records.")
+      ? (state.lang === "zh" ? "按中英文维基热度排序；TOP 600 为完整资料。" : "Ranked by Chinese/English Wikipedia interest; top 600 have full records.")
       : "";
     const shown = list.slice(0, state.limit);
     $("#cards").innerHTML = shown.map(cardHTML).join("");

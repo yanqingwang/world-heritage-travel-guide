@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "1597"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(iii)"
 lat: 49.0819
 lon: -111.617
-updated_at: "2026-11-12T12:12:25Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 阿伊斯奈皮石刻 / Writing-on-Stone / Áísínai’pi
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:25Z"
 
 *Writing-on-Stone Provincial Park, Alberta.jpg · see Wikimedia Commons file page*
 
-![Writing-on-Stone / Áísínai’pi](https://whc.unesco.org/uploads/sites/site_1597.jpg)
+![(Writing-on-the-stone Provincial Park - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/%28Writing-on-the-stone_Provincial_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Writing-on-Stone / Áísínai’pi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(Writing-on-the-stone Provincial Park - panoramio.jpg · R. Sieben · CC BY 3.0*
+
+![A farmstead at Writing-On-Stone (4454801201).jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/A_farmstead_at_Writing-On-Stone_%284454801201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A farmstead at Writing-On-Stone (4454801201).jpg · Galt Museum & Archives on The Commons · No restrictions*
+
+![A.L. Webb? 1919 (6022228239).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/A.L._Webb%3F_1919_%286022228239%29.jpg/1280px-A.L._Webb%3F_1919_%286022228239%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A.L. Webb? 1919 (6022228239).jpg · eileenmak · CC BY 2.0*
+
+![Across the Valley (6022193689).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Across_the_Valley_%286022193689%29.jpg/1280px-Across_the_Valley_%286022193689%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Across the Valley (6022193689).jpg · eileenmak · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Le bien se trouve au nord des Grandes Plaines semi-arides de l’Amérique du No
 - ✈ **Medicine Hat Regional Airport (YXH)** — 122.6 km
 - ✈ **Havre City County Airport (HVR)** — 148.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8932.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Glocca Morra Inn** — 27.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

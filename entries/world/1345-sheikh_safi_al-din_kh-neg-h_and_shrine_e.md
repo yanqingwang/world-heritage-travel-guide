@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1345"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(i)(ii)(iv)"
 lat: 38.248611111
 lon: 48.291388888
-updated_at: "2026-11-12T12:12:15Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 阿尔达比勒市的谢赫萨菲•丁（Sheikh Safi al-Din）圣殿与哈内加(Khānegāh) 建筑群 / Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:15Z"
 
 *Sheikh Safi Al Din Ardabili Tomb.jpg · see Wikimedia Commons file page*
 
-![Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil](https://whc.unesco.org/uploads/sites/site_1345.jpg)
+![12صحن بقعه شیخ صفی الدین اردبیلی.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ae/12%D8%B5%D8%AD%D9%86_%D8%A8%D9%82%D8%B9%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B5%D9%81%DB%8C_%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84%DB%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*12صحن بقعه شیخ صفی الدین اردبیلی.jpg · M20dousti · CC BY-SA 4.0*
+
+![15در ورودی بقعه.jpg](https://upload.wikimedia.org/wikipedia/commons/5/57/15%D8%AF%D8%B1_%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D9%82%D8%B9%D9%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*15در ورودی بقعه.jpg · M20dousti · CC BY-SA 4.0*
+
+![16درقدیمی بقعه.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4a/16%D8%AF%D8%B1%D9%82%D8%AF%DB%8C%D9%85%DB%8C_%D8%A8%D9%82%D8%B9%D9%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*16درقدیمی بقعه.jpg · M20dousti · CC BY-SA 4.0*
+
+![17سقف بالای مقبره شیخ صفی.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d5/17%D8%B3%D9%82%D9%81_%D8%A8%D8%A7%D9%84%D8%A7%DB%8C_%D9%85%D9%82%D8%A8%D8%B1%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B5%D9%81%DB%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*17سقف بالای مقبره شیخ صفی.jpg · M20dousti · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ Built between the beginning of the 16 th century and the end of the 18 th centur
 - ✈ **Ardabil Airport (ADU)** — 14.4 km
 - ✈ **Lankaran International Airport (LLK)** — 72.3 km
 - ✈ **Parsabad-Moghan Airport (PFQ)** — 154.8 km
+- 🚉 **اردبیل** — 9.4 km
+- 🚉 **مهماندوست** — 22.1 km
+- 🚉 **جعفرلو** — 38.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5726.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **هتل شورابیل** — 3.4 km — star — 3★
+- **هتل سبلان** — 0.2 km — hotel — Sabalan Hotel
+- **هتل نگین** — 0.2 km — hotel
+- **هتل حسین** — 0.3 km — hotel
+- **Hotel Ideal** — 0.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

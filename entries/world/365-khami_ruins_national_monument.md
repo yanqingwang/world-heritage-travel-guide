@@ -8,13 +8,13 @@ country: "ZW"
 country_zh: "津巴布韦"
 country_en: "Zimbabwe"
 unesco_id: "365"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(iii)(iv)"
 lat: -20.143291666
 lon: 28.423436111
-updated_at: "2026-11-12T12:11:44Z"
+updated_at: "2026-11-12T12:41:58Z"
 ---
 
 # 卡米国家遗址纪念地 / Khami Ruins National Monument
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:44Z"
 
 *Khami.jpg · see Wikimedia Commons file page*
 
-![Khami Ruins National Monument](https://whc.unesco.org/uploads/sites/site_365.jpg)
+![East Ruins,Khami.JPG](https://upload.wikimedia.org/wikipedia/commons/c/c6/East_Ruins%2CKhami.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Khami Ruins National Monument · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*East Ruins,Khami.JPG · Public domain*
+
+![Khami ruins (Zimbabwe) banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Khami_ruins_%28Zimbabwe%29_banner.jpg/1280px-Khami_ruins_%28Zimbabwe%29_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Khami ruins (Zimbabwe) banner.jpg · Digr · CC BY-SA 3.0*
+
+![Khami ruins (ZW).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Khami_ruins_%28ZW%29.jpg/1280px-Khami_ruins_%28ZW%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Khami ruins (ZW).jpg · Ulamm 10:16, 31 January 2008 (UTC) · Public domain*
+
+![Khami.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cb/Khami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Khami.jpg · David Randall-MacIver · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ Khami, which developed after the capital of Great Zimbabwe had been abandoned in
 - ✈ **Joshua Mqabuko Nkomo International Airport (BUQ)** — 25.2 km
 - ✈ **Phillip Gaonwe Matante International Airport (FRW)** — 150.4 km
 - ✈ **Victoria Falls International Airport (VFA)** — 354.4 km
+- 🚉 **Luveve** — 10.2 km
+- 🚉 **Bulawayo** — 15.7 km
+- 🚉 **Figtree** — 27.7 km
+- 🚉 **Nyamandolovu** — 35.0 km
+- 🚉 **Heany** — 38.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11256.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hornung Park Lodge** — 20.6 km — star — 4★
+- **Holiday Inn Bulawayo** — 19.5 km — chain — Holiday Inn
+- **N1** — 16.5 km — hotel
+- **Bulawayo Club** — 16.5 km — hotel
+- **Hotel Plaza** — 16.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

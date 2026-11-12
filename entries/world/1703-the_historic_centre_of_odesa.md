@@ -8,13 +8,13 @@ country: "UA"
 country_zh: "乌克兰"
 country_en: "Ukraine"
 unesco_id: "1703"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iv)"
 lat: 46.485
 lon: 30.741
-updated_at: "2026-11-12T12:12:29Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 敖德萨历史中心 / The Historic Centre of Odesa
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:29Z"
 
 *Будинок театру опери та балету, Одеса DJI 0023.jpg · see Wikimedia Commons file page*
 
-![The Historic Centre of Odesa](https://whc.unesco.org/uploads/sites/site_1703.jpg)
+![New building in old Odesa - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/New_building_in_old_Odesa_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*The Historic Centre of Odesa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*New building in old Odesa - panoramio.jpg · Andrej Kuźniečyk · CC BY-SA 3.0*
+
+![Old Odesa - panoramio (242).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Old_Odesa_-_panoramio_%28242%29.jpg/1280px-Old_Odesa_-_panoramio_%28242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Odesa - panoramio (242).jpg · Дмитрий Ванькевич · CC BY-SA 3.0*
+
+![Photomontage of the Historic Centre of Odesa-1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photomontage_of_the_Historic_Centre_of_Odesa-1.jpg/1280px-Photomontage_of_the_Historic_Centre_of_Odesa-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Photomontage of the Historic Centre of Odesa-1.jpg · Crocodile2020 · CC0*
+
+![Sculpture of griffin, Odesa (2014-04-09) 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sculpture_of_griffin%2C_Odesa_%282014-04-09%29_01.jpg/1280px-Sculpture_of_griffin%2C_Odesa_%282014-04-09%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sculpture of griffin, Odesa (2014-04-09) 01.jpg · Oleh Kushch · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Historic Center of Odesa, part of the Black Sea port city developed on the s
 - ✈ **Chişinău International Airport (RMO)** — 146.5 km
 - ✈ **Iaşi International Airport (IAS)** — 249.5 km
 - ✈ **Bacău George Enescu International  Airport (BCM)** — 293.2 km
+- 🚉 **Одеса-Порт** — 0.6 km
+- 🚉 **Одеса-Головна** — 2.0 km
+- 🚉 **Одеса-Мала** — 3.5 km
+- 🚉 **Одеса-Товарна** — 3.9 km
+- 🚉 **Одеса-Поїзна** — 4.3 km
+- ⛴ **Порт "Південний"** — 26.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6732.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Чорне Море Бугаз** — 37.4 km — star — 4★
+- **Океаніс** — 8.0 km — star — 3★
+- **City Georg Hotel** — 0.1 km — hotel
+- **Дюк** — 0.1 km — hotel — Ribas Duke Boutique Hotel
+- **Комплекс відпочинку "Palais Royal"** — 0.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

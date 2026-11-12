@@ -8,13 +8,13 @@ country: "IL"
 country_zh: "以色列"
 country_en: "Israel"
 unesco_id: "1471"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)(iii)"
 lat: 32.704166666
 lon: 35.128055555
-updated_at: "2026-11-12T12:12:19Z"
+updated_at: "2026-11-12T12:42:20Z"
 ---
 
 # 贝特沙瑞姆大型公墓—犹太复兴中心 / Necropolis of Bet She’arim: A Landmark of Jewish Renewal
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:19Z"
 
 *Cave of coffins.jpg · see Wikimedia Commons file page*
 
-![Necropolis of Bet She’arim: A Landmark of Jewish Renewal](https://whc.unesco.org/uploads/sites/site_1471.jpg)
+![108619 beit shaarim national park - burial caves PikiWiki Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/108619_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg/1280px-108619_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Necropolis of Bet She’arim: A Landmark of Jewish Renewal · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*108619 beit shaarim national park - burial caves PikiWiki Israel.jpg · שלמה רודד · CC BY 2.5*
+
+![108620 beit shaarim national park - burial caves PikiWiki Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/108620_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg/1280px-108620_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*108620 beit shaarim national park - burial caves PikiWiki Israel.jpg · שלמה רודד · CC BY 2.5*
+
+![108621 beit shaarim national park - burial caves PikiWiki Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/108621_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg/1280px-108621_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*108621 beit shaarim national park - burial caves PikiWiki Israel.jpg · שלמה רודד · CC BY 2.5*
+
+![108622 beit shaarim national park - burial caves PikiWiki Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/108622_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg/1280px-108622_beit_shaarim_national_park_-_burial_caves_PikiWiki_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*108622 beit shaarim national park - burial caves PikiWiki Israel.jpg · שלמה רודד · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Consisting of a series of catacombs, the necropolis developed from the 2 nd cent
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 14.2 km
 - ✈ **Ben Gurion International Airport (TLV)** — 80.3 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 114.9 km
+- 🚉 **יקנעם - כפר יהושע** — 2.6 km
+- 🚉 **מגדל העמק - כפר ברוך** — 9.9 km
+- 🚉 **מרכזית המפרץ - קו החוף** — 13.1 km
+- 🚉 **מרכזית המפרץ - קו העמק** — 13.3 km
+- 🚉 **חוצות המפרץ** — 13.6 km
+- ⛴ **dfh** — 16.7 km
+- ⛴ **Haifa-Akko Ferry** — 24.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7080.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **מלון כינורות** — 39.2 km — star — Kinorot Hotel · 5★
+- **פרנק** — 34.0 km — star — Frank · 3★
+- **King Koresh** — 48.9 km — star — King Koresh · 2★
+- **Bar-On Holiday Home** — 33.4 km — chain — Bar-On Holiday Home
+- **יערות הכרמל** — 11.1 km — hotel — Carmel Forest
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

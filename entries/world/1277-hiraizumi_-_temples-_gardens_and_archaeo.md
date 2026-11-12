@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1277"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(vi)"
 lat: 38.98861111
 lon: 141.11027778
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:17Z"
 ---
 
 # 平泉——象征着佛教净土的庙宇、园林与考古遗址 / Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:12:13Z"
 ![Hiraizumi's surroundings, Iwate Prefecture; August 2018 (03).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Hiraizumi%27s%20surroundings%2C%20Iwate%20Prefecture%3B%20August%202018%20%2803%29.jpg?width=1280)
 
 *Hiraizumi's surroundings, Iwate Prefecture; August 2018 (03).jpg · see Wikimedia Commons file page*
+
+![Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land-122492.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Hiraizumi_%E2%80%93_Temples%2C_Gardens_and_Archaeological_Sites_Representing_the_Buddhist_Pure_Land-122492.jpg/1280px-Hiraizumi_%E2%80%93_Temples%2C_Gardens_and_Archaeological_Sites_Representing_the_Buddhist_Pure_Land-122492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land-122492.jpg · Vesna Vujicic-Lugassy · CC BY-SA 3.0 igo*
+
+![「世界文化遺産 平泉」横断幕.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E3%80%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3_%E5%B9%B3%E6%B3%89%E3%80%8D%E6%A8%AA%E6%96%AD%E5%B9%95.jpg/1280px-%E3%80%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3_%E5%B9%B3%E6%B3%89%E3%80%8D%E6%A8%AA%E6%96%AD%E5%B9%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*「世界文化遺産 平泉」横断幕.jpg · Indiana jo · CC BY-SA 4.0*
+
+![平泉世界遺産登録証.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E5%B9%B3%E6%B3%89%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E8%A8%BC.jpg/1280px-%E5%B9%B3%E6%B3%89%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E8%A8%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*平泉世界遺産登録証.jpg · Indiana jo · CC BY-SA 4.0*
 
 ![Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land](https://whc.unesco.org/uploads/sites/site_1277.jpg)
 
@@ -52,7 +64,23 @@ Hiraizumi - Temples, Gardens and Archaeological Sites Representing the Buddhist 
 - ✈ **Iwate Hanamaki Airport (HNA)** — 49.0 km
 - ✈ **Yamagata Airport (GAJ)** — 90.7 km
 - ✈ **Sendai Airport (SDJ)** — 95.9 km
+- 🚉 **平泉** — 0.6 km
+- 🚉 **山ノ目** — 4.5 km
+- 🚉 **前沢** — 6.8 km
+- 🚉 **一ノ関** — 7.3 km
+- 🚉 **真滝** — 10.7 km
+- ⛴ **伊里前漁港** — 47.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2093.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **ホテルニューあらお** — 42.2 km — star — 3★
+- **旅館 弁天閣** — 42.4 km — star — 3★
+- **鳴子温泉 湯元 吉祥** — 43.9 km — star — 3★
+- **中山平温泉 四季の宿 花渕荘** — 46.9 km — chain — Hanabuchiso
+- **舞鶴荘** — 0.1 km — hotel — Hiraizumi Maizurusu Ryokan
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

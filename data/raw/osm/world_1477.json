@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "그랜드 플라자 호텔",
+   "name_en": "Grand Plaza Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.6665796,
+   "lon": 127.4943277,
+   "distance_km": 39.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "스파뷰호텔",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 36.688739,
+   "lon": 126.6621601,
+   "distance_km": 48.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "베스트웨스턴플러스 호텔 세종",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 36.5003984,
+   "lon": 127.2581231,
+   "distance_km": 12.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gangseojang",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4635026,
+   "lon": 127.1211995,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "공주 넘버25호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4703651,
+   "lon": 127.1287152,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 112,
+ "stations": [
+  {
+   "name": "공주",
+   "name_en": "Gongju",
+   "lat": 36.3322371,
+   "lon": 127.0966368,
+   "distance_km": 14.7,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "조치원",
+   "name_en": "Jochiwon",
+   "lat": 36.60102,
+   "lon": 127.2958888,
+   "distance_km": 21.6,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "부강",
+   "name_en": "Bugang",
+   "lat": 36.532549,
+   "lon": 127.3650211,
+   "distance_km": 22.7,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "계룡",
+   "name_en": "Gyeryong",
+   "lat": 36.2724063,
+   "lon": 127.2665313,
+   "distance_km": 24.5,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "전의",
+   "name_en": "Jeonui",
+   "lat": 36.6784389,
+   "lon": 127.2023372,
+   "distance_km": 25.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "오송",
+   "name_en": "Osong",
+   "lat": 36.6202295,
+   "lon": 127.3273629,
+   "distance_km": 25.1,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "신탄진",
+   "name_en": "Sintanjin",
+   "lat": 36.4496321,
+   "lon": 127.4281663,
+   "distance_km": 27.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "논산",
+   "name_en": "Nonsan",
+   "lat": 36.2069077,
+   "lon": 127.0928492,
+   "distance_km": 28.5,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:33:35Z"
+}

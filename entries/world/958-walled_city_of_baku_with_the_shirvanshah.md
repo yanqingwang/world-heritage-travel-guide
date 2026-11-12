@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 40.366527777
 lon: 49.837861111
-updated_at: "2026-11-12T12:12:05Z"
+updated_at: "2026-11-12T12:42:10Z"
 ---
 
 # 城墙围绕的巴库城及其希尔凡王宫和少女塔 / Walled City of Baku with the Shirvanshah's Palace and Maiden Tower

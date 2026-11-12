@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ix)(x)"
 lat: -2.33333
 lon: -62.0083
-updated_at: "2026-11-12T12:12:06Z"
+updated_at: "2026-11-12T12:42:11Z"
 ---
 
 # 亚马逊河中心综合保护区 / Central Amazon Conservation Complex

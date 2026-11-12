@@ -2,7 +2,7 @@
  "id": "wh-181",
  "unesco_id": "181",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 534,
  "popularity_score": 10465,
  "country": "AU",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_181.jpg",
-   "title": "Tasmanian Wilderness",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/181",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Central_Plateau_Tasmania_Plecoptera_arching.jpg/1280px-Central_Plateau_Tasmania_Plecoptera_arching.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Central Plateau Tasmania Plecoptera arching.jpg",
+   "author": "Andrew Lorien",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Plateau_Tasmania_Plecoptera_arching.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Central_Plateau_Tasmania_Plecoptera_side_view.jpg/1280px-Central_Plateau_Tasmania_Plecoptera_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Central Plateau Tasmania Plecoptera side view.jpg",
+   "author": "Andrew Lorien",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Plateau_Tasmania_Plecoptera_side_view.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Central_Plateau_Tasmania_Plecoptera.jpg/1280px-Central_Plateau_Tasmania_Plecoptera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Central Plateau Tasmania Plecoptera.jpg",
+   "author": "Andrew Lorien",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Plateau_Tasmania_Plecoptera.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/ClearingPano.jpg/1280px-ClearingPano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ClearingPano.jpg",
+   "author": "Tasmanianbeekeepers",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ClearingPano.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/181",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 112.7,
   "distance_beijing_km": 9730.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Florentine Junction",
+    "name_en": null,
+    "lat": -42.7606812,
+    "lon": 146.5965169,
+    "distance_km": 39.2,
+    "operator": null
+   },
+   {
+    "name": "Florentine (Railtrack Riders)",
+    "name_en": null,
+    "lat": -42.7592995,
+    "lon": 146.6014501,
+    "distance_km": 39.5,
+    "operator": null
+   },
+   {
+    "name": "Nicholl's Junction",
+    "name_en": null,
+    "lat": -42.7548126,
+    "lon": 146.6121221,
+    "distance_km": 40.0,
+    "operator": null
+   },
+   {
+    "name": "Hydro Siding",
+    "name_en": null,
+    "lat": -42.7559778,
+    "lon": 146.6157615,
+    "distance_km": 40.4,
+    "operator": null
+   },
+   {
+    "name": "Maydena",
+    "name_en": null,
+    "lat": -42.7540897,
+    "lon": 146.624817,
+    "distance_km": 40.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Tarraleah Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.3034935,
+   "lon": 146.4516602,
+   "distance_km": 39.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scholars",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.3018216,
+   "lon": 146.4494461,
+   "distance_km": 39.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sassafras Springs",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.6115853,
+   "lon": 146.6839401,
+   "distance_km": 41.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "National Park Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.6855604,
+   "lon": 146.7188958,
+   "distance_km": 45.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hamlet Downs Country Accommodation",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -42.6513133,
+   "lon": 146.7618413,
+   "distance_km": 48.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AU",
   "country_zh": "澳大利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:38Z"
+ "updated_at": "2026-11-12T12:41:54Z"
 }

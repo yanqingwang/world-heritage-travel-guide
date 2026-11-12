@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(iv)"
 lat: 49.5339
 lon: 21.0322
-updated_at: "2026-11-12T12:12:18Z"
+updated_at: "2026-11-12T12:42:19Z"
 ---
 
 # 喀尔巴阡地区木教堂（波兰和乌克兰） / Wooden Tserkvas of the Carpathian Region in Poland and Ukraine

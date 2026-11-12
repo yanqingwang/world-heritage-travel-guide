@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Elite",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 40.757357,
+   "lon": 72.3551224,
+   "distance_km": 44.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal 3",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 40.7664768,
+   "lon": 72.3595074,
+   "distance_km": 44.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plaza Palace",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 40.8128517,
+   "lon": 72.3322309,
+   "distance_km": 49.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SN Apartemens",
+   "name_en": "SN Apartemens",
+   "stars": null,
+   "brand": null,
+   "lat": 40.5360469,
+   "lon": 72.791555,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Алай",
+   "name_en": "Alay",
+   "stars": null,
+   "brand": null,
+   "lat": 40.5356506,
+   "lon": 72.7935364,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 57,
+ "stations": [
+  {
+   "name": "Ош-1",
+   "name_en": "Osh-1",
+   "lat": 40.5443443,
+   "lon": 72.8079144,
+   "distance_km": 2.7,
+   "operator": null
+  },
+  {
+   "name": "Кашгар",
+   "name_en": null,
+   "lat": 40.6173435,
+   "lon": 72.8222371,
+   "distance_km": 10.3,
+   "operator": null
+  },
+  {
+   "name": "Savay",
+   "name_en": null,
+   "lat": 40.7183966,
+   "lon": 72.7601762,
+   "distance_km": 21.1,
+   "operator": null
+  },
+  {
+   "name": "Карасу-Узбекский",
+   "name_en": "Karasu-Uzbekskiy",
+   "lat": 40.7108615,
+   "lon": 72.8791782,
+   "distance_km": 21.7,
+   "operator": null
+  },
+  {
+   "name": "Guruchmozor",
+   "name_en": null,
+   "lat": 40.7216693,
+   "lon": 72.6423851,
+   "distance_km": 24.5,
+   "operator": null
+  },
+  {
+   "name": "Xonobod",
+   "name_en": "Khanabad",
+   "lat": 40.8037339,
+   "lon": 72.9734779,
+   "distance_km": 34.5,
+   "operator": null
+  },
+  {
+   "name": "Andijon-Janubiy",
+   "name_en": null,
+   "lat": 40.7565635,
+   "lon": 72.4476757,
+   "distance_km": 37.9,
+   "operator": null
+  },
+  {
+   "name": "Andijon 1",
+   "name_en": "Andijan 1",
+   "lat": 40.7629613,
+   "lon": 72.3505727,
+   "distance_km": 44.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:32:56Z"
+}

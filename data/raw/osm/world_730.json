@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Piazza Lorenzo Mascheroni",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7057646,
+   "lon": 9.6604913,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bianca Relais",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7999624,
+   "lon": 9.3555991,
+   "distance_km": 26.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Excelsior Hotel Gallia",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4858962,
+   "lon": 9.2019566,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chateau Monfort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4682205,
+   "lon": 9.2074416,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fifty House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4640859,
+   "lon": 9.2089295,
+   "distance_km": 29.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1044,
+ "stations": [
+  {
+   "name": "Verdello-Dalmine",
+   "name_en": null,
+   "lat": 45.6058533,
+   "lon": 9.6198669,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Treviglio Ovest",
+   "name_en": null,
+   "lat": 45.521751,
+   "lon": 9.5802821,
+   "distance_km": 9.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Cassano d’Adda",
+   "name_en": null,
+   "lat": 45.5146387,
+   "lon": 9.512329,
+   "distance_km": 9.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Treviglio",
+   "name_en": null,
+   "lat": 45.5150726,
+   "lon": 9.5886703,
+   "distance_km": 10.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Terno",
+   "name_en": null,
+   "lat": 45.6886022,
+   "lon": 9.5361834,
+   "distance_km": 10.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Trecella",
+   "name_en": null,
+   "lat": 45.5128645,
+   "lon": 9.4806915,
+   "distance_km": 10.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Calusco",
+   "name_en": null,
+   "lat": 45.6841996,
+   "lon": 9.4707946,
+   "distance_km": 11.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Pozzuolo Martesana",
+   "name_en": null,
+   "lat": 45.5085952,
+   "lon": 9.4564201,
+   "distance_km": 11.6,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Concesa",
+   "name_en": null,
+   "lat": 45.6016904,
+   "lon": 9.5294424,
+   "distance_km": 0.8,
+   "operator": null
+  },
+  {
+   "name": "Casa del custode delle acque",
+   "name_en": null,
+   "lat": 45.5737467,
+   "lon": 9.5338113,
+   "distance_km": 2.6,
+   "operator": null
+  },
+  {
+   "name": "Imbersago",
+   "name_en": null,
+   "lat": 45.7079015,
+   "lon": 9.4562922,
+   "distance_km": 13.8,
+   "operator": null
+  },
+  {
+   "name": "Villa d'Adda",
+   "name_en": null,
+   "lat": 45.7083748,
+   "lon": 9.4569723,
+   "distance_km": 13.9,
+   "operator": null
+  },
+  {
+   "name": "Approdo",
+   "name_en": null,
+   "lat": 45.5217265,
+   "lon": 9.3420511,
+   "distance_km": 17.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:17Z"
+}

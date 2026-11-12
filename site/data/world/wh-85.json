@@ -2,7 +2,7 @@
  "id": "wh-85",
  "unesco_id": "85",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 504,
  "popularity_score": 11477,
  "country": "FR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_85.jpg",
-   "title": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/85",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cave123.png/1280px-Cave123.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cave123.png",
+   "author": "© N. Aujoulat (2003) © MCC-CNP",
+   "license": "CC BY-SA 4.0",
+   "credit": "https://d23.com/a-to-z/beauty-beast-film-2017/ https://www.bradshawfoundation.com/lascaux/",
+   "source": "https://commons.wikimedia.org/wiki/File:Cave123.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Construction_lascaux-IV.JPG/1280px-Construction_lascaux-IV.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Construction lascaux-IV.JPG",
+   "author": "Skull33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Construction_lascaux-IV.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Frank_Doucet.jpg/1280px-Frank_Doucet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Frank Doucet.jpg",
+   "author": "arzu çakır",
+   "license": "Public domain",
+   "credit": "https://www.voaturkce.com/a/insanlik-vadisinde-ilk-insana-yolculuk/6234136.html?ltflags=mailer&utm_source=pocket_mylist",
+   "source": "https://commons.wikimedia.org/wiki/File:Frank_Doucet.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lacsaux_VOA_2021_08.webp/1280px-Lacsaux_VOA_2021_08.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lacsaux VOA 2021 08.webp",
+   "author": "arzu çakır",
+   "license": "Public domain",
+   "credit": "https://www.voaturkce.com/a/insanlik-vadisinde-ilk-insana-yolculuk/6234136.html?ltflags=mailer&utm_source=pocket_mylist",
+   "source": "https://commons.wikimedia.org/wiki/File:Lacsaux_VOA_2021_08.webp"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/85",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 24.9,
   "distance_beijing_km": 8553.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Condat - Le Lardin",
+    "name_en": null,
+    "lat": 45.1266762,
+    "lon": 1.2265125,
+    "distance_km": 8.9,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Terrasson - Lavilledieu",
+    "name_en": null,
+    "lat": 45.1357869,
+    "lon": 1.3004033,
+    "distance_km": 13.4,
+    "operator": "SNCF"
+   },
+   {
+    "name": "Thenon",
+    "name_en": null,
+    "lat": 45.1601833,
+    "lon": 1.0686692,
+    "distance_km": 13.9,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Les Eyzies",
+    "name_en": null,
+    "lat": 44.9412099,
+    "lon": 1.0081317,
+    "distance_km": 18.1,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Sarlat",
+    "name_en": null,
+    "lat": 44.8770101,
+    "lon": 1.2202817,
+    "distance_km": 20.5,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Manoir d'Hautegente",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.0914949,
+   "lon": 1.2648051,
+   "distance_km": 8.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Glycines",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.9409182,
+   "lon": 1.0074507,
+   "distance_km": 18.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Au Grand Hôtel de Sarlat",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.8951431,
+   "lon": 1.2146453,
+   "distance_km": 18.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Castel Novel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.1875065,
+   "lon": 1.4567716,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Ventoulines - Village Vacance",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.7843563,
+   "lon": 1.2263912,
+   "distance_km": 30.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:34Z"
+ "updated_at": "2026-11-12T12:41:52Z"
 }

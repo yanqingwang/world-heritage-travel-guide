@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iv)(v)"
 lat: 43.9283
 lon: 2.1425
-updated_at: "2026-11-12T12:12:15Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 阿尔比市的主教旧城 / Episcopal City of Albi

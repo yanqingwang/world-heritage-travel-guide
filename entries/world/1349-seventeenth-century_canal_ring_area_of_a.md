@@ -8,13 +8,13 @@ country: "NL"
 country_zh: "荷兰王国"
 country_en: "Kingdom of the Netherlands"
 unesco_id: "1349"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(i)(ii)(iv)"
 lat: 52.366388888
 lon: 4.885833333
-updated_at: "2026-11-12T12:12:15Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 辛格尔运河以内的阿姆斯特丹17世纪同心圆型运河区 / Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:12:15Z"
 ![Amsterdam airphoto.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20airphoto.jpg?width=1280)
 
 *Amsterdam airphoto.jpg · see Wikimedia Commons file page*
+
+![Narrative of Travels in Europe, Asia and Africa in the Seventeenth Century- Tr. by Ritter Joseph Von Hammer, in 3 Vols.Vol-1,Part-1 (IA dli.granth.37539).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Narrative_of_Travels_in_Europe%2C_Asia_and_Africa_in_the_Seventeenth_Century-_Tr._by_Ritter_Joseph_Von_Hammer%2C_in_3_Vols.Vol-1%2CPart-1_%28IA_dli.granth.37539%29.pdf/page1-960px-Narrative_of_Travels_in_Europe%2C_Asia_and_Africa_in_the_Seventeenth_Century-_Tr._by_Ritter_Joseph_Von_Hammer%2C_in_3_Vols.Vol-1%2CPart-1_%28IA_dli.granth.37539%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Narrative of Travels in Europe, Asia and Africa in the Seventeenth Century- Tr. by Ritter Joseph Von Hammer, in 3 Vols.Vol-1,Part-1 (IA dli.granth.37539).pdf · Efendi Evliya · Public domain*
+
+![Narrative of travels in Europe, Asia, and Africa, in the seventeenth century (IA narrativeoftrave01evli).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_%28IA_narrativeoftrave01evli%29.pdf/page1-960px-Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_%28IA_narrativeoftrave01evli%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Narrative of travels in Europe, Asia, and Africa, in the seventeenth century (IA narrativeoftrave01evli).pdf · Evliya, Çelebi, 1611?-1682? Hammer-Purgstall, Joseph, Freiherr von, 1774-1856 · Public domain*
+
+![Narrative of travels in Europe, Asia, and Africa, in the seventeenth century by Evliya Efendi - Volume I.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_by_Evliya_Efendi_-_Volume_I.djvu/page1-1280px-Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_by_Evliya_Efendi_-_Volume_I.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Narrative of travels in Europe, Asia, and Africa, in the seventeenth century by Evliya Efendi - Volume I.djvu · Evliya Çelebi · Public domain*
 
 ![Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht](https://whc.unesco.org/uploads/sites/site_1349.jpg)
 
@@ -52,7 +64,27 @@ De grachtengordel is het deel van de Amsterdamse binnenstad dat langs de vier vo
 - ✈ **Amsterdam Airport Schiphol (AMS)** — 10.5 km
 - ✈ **Rotterdam The Hague Airport (RTM)** — 54.9 km
 - ✈ **Eindhoven Airport (EIN)** — 107.3 km
+- 🚉 **Amsterdam Centraal** — 1.7 km
+- 🚉 **Amsterdam Muiderpoort** — 3.1 km
+- 🚉 **Amsterdam RAI** — 3.3 km
+- 🚉 **Amsterdam Zuid** — 3.3 km
+- 🚉 **Amsterdam Lelylaan** — 3.6 km
+- ⛴ **Centraal Station** — 1.8 km
+- ⛴ **Buiksloterweg** — 2.1 km
+- ⛴ **IJplein** — 2.3 km
+- ⛴ **Passenger Terminal Amsterdam** — 2.4 km
+- ⛴ **Pontsteiger** — 2.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7827.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Rosewood Amsterdam** — 0.2 km — star — 5★ · Rosewood
+- **Hotel 717** — 0.2 km — star — 5★
+- **Andaz Amsterdam Prinsengracht, by Hyatt** — 0.3 km — star — 5★ · ANdAZ
+- **The Dylan** — 0.3 km — star — 5★
+- **Hotel de l'Europe** — 0.6 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

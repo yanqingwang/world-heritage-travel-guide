@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Soare-n Maramureș",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7211689,
+   "lon": 23.9333322,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ambassador",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6534694,
+   "lon": 23.5644936,
+   "distance_km": 41.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romanița",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6298955,
+   "lon": 23.4971658,
+   "distance_km": 46.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Lia",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.8116391,
+   "lon": 24.057874,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabana Iza",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.7922014,
+   "lon": 24.0880741,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 163,
+ "stations": [
+  {
+   "name": "Valea Vișeului",
+   "name_en": null,
+   "lat": 47.9146302,
+   "lon": 24.1555694,
+   "distance_km": 12.9,
+   "operator": "CFR"
+  },
+  {
+   "name": "Bocicoi",
+   "name_en": null,
+   "lat": 47.9574306,
+   "lon": 24.0233273,
+   "distance_km": 15.5,
+   "operator": "CFR"
+  },
+  {
+   "name": "Leordina",
+   "name_en": null,
+   "lat": 47.7853835,
+   "lon": 24.2587494,
+   "distance_km": 15.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Cămara Sighet",
+   "name_en": null,
+   "lat": 47.9433419,
+   "lon": 23.9093609,
+   "distance_km": 17.6,
+   "operator": "CFR"
+  },
+  {
+   "name": "Sighetu Marmației",
+   "name_en": null,
+   "lat": 47.9357987,
+   "lon": 23.8853623,
+   "distance_km": 18.1,
+   "operator": "CFR"
+  },
+  {
+   "name": "Солотвино-1",
+   "name_en": null,
+   "lat": 47.9498658,
+   "lon": 23.877328,
+   "distance_km": 19.7,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Солотвино-2",
+   "name_en": null,
+   "lat": 47.9604449,
+   "lon": 23.8777346,
+   "distance_km": 20.5,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Берлебаш",
+   "name_en": null,
+   "lat": 47.9986944,
+   "lon": 24.1972841,
+   "distance_km": 22.6,
+   "operator": "Укрзалізниця"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:39Z"
+}

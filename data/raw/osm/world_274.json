@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Golden Sunrise Machupicchu",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Golden Sunrise",
+   "lat": -13.1570683,
+   "lon": -72.5228169,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Casa Suite Inka",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -13.2617104,
+   "lon": -72.2623597,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sumaq Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Sumaq Hotel",
+   "lat": -13.1541829,
+   "lon": -72.5281124,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Terraza de Luna",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -13.1542599,
+   "lon": -72.523364,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Retama",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -13.1537411,
+   "lon": -72.5231275,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 189,
+ "stations": [
+  {
+   "name": "Mandor",
+   "name_en": null,
+   "lat": -13.1489284,
+   "lon": -72.5395871,
+   "distance_km": 5.9,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "San Miguel",
+   "name_en": null,
+   "lat": -13.1643023,
+   "lon": -72.5525293,
+   "distance_km": 6.3,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Hidroeléctrica",
+   "name_en": null,
+   "lat": -13.1747136,
+   "lon": -72.5595829,
+   "distance_km": 6.9,
+   "operator": null
+  },
+  {
+   "name": "Puente Ruinas",
+   "name_en": null,
+   "lat": -13.1608194,
+   "lon": -72.5366722,
+   "distance_km": 7.0,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Machu Picchu Pueblo (Avenida Imperio de los Incas)",
+   "name_en": null,
+   "lat": -13.1543264,
+   "lon": -72.526343,
+   "distance_km": 7.5,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Machu Picchu Pueblo",
+   "name_en": null,
+   "lat": -13.1558504,
+   "lon": -72.5239692,
+   "distance_km": 7.8,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Pampacahua",
+   "name_en": null,
+   "lat": -13.1708574,
+   "lon": -72.5018665,
+   "distance_km": 10.7,
+   "operator": null
+  },
+  {
+   "name": "Torontoy",
+   "name_en": null,
+   "lat": -13.1919166,
+   "lon": -72.4584956,
+   "distance_km": 15.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:43Z"
+}

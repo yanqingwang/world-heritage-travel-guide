@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "1116"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2003"
 criteria: "(ii)(iv)(v)"
 lat: -23.199861111
 lon: -65.348861111
-updated_at: "2026-11-12T12:12:09Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 塔夫拉达•德乌玛瓦卡 / Quebrada de Humahuaca
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:09Z"
 
 *Jujuy-Purmamarca-P3120033.JPG · see Wikimedia Commons file page*
 
-![Quebrada de Humahuaca](https://whc.unesco.org/uploads/sites/site_1116.jpg)
+![115-Quebrada de Humahuaca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/115-Quebrada_de_Humahuaca.jpg/1280px-115-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Quebrada de Humahuaca · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*115-Quebrada de Humahuaca.jpg · miroab · CC BY-SA 2.0*
+
+![97-Pte sobre Rio Grande Quebrada de Humahuaca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/97-Pte_sobre_Rio_Grande_Quebrada_de_Humahuaca.jpg/1280px-97-Pte_sobre_Rio_Grande_Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*97-Pte sobre Rio Grande Quebrada de Humahuaca.jpg · miroab · CC BY-SA 2.0*
+
+![98-Mirador Lozano Quebrada de Humahuaca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/98-Mirador_Lozano_Quebrada_de_Humahuaca.jpg/1280px-98-Mirador_Lozano_Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*98-Mirador Lozano Quebrada de Humahuaca.jpg · miroab · CC BY-SA 2.0*
+
+![99-Quebrada de Humahuaca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/99-Quebrada_de_Humahuaca.jpg/1280px-99-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*99-Quebrada de Humahuaca.jpg · miroab · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,19 @@ Este sitio se extiende a lo largo de un importante itinerario cultural, el Camin
 - ✈ **Gobernador Horacio Guzman International Airport (JUJ)** — 135.1 km
 - ✈ **Martín Miguel de Güemes International Airport (SLA)** — 184.7 km
 - ✈ **Capitan Oriel Lea Plaza Airport (TJA)** — 194.6 km
+- 🚉 **Tilcara** — 41.8 km
+- 🚉 **Maimará** — 48.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **18263.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Vientonorte** — 42.3 km — star — 3★
+- **Hostería Solar de la Quebrada** — 0.6 km — star — 1★
+- **Hostería Federico III** — 47.4 km — star — 1★
+- **Hostería Los Airampos** — 0.2 km — hotel
+- **Hostal El Coquena** — 0.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

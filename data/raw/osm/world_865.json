@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Готель \"Леополіс\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.8422729,
+   "lon": 24.0292699,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BANKHOTEL",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.8409271,
+   "lon": 24.020998,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Luxury Boutique Andriivskiy",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.8307737,
+   "lon": 24.0473996,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Готель СВ",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.8778297,
+   "lon": 24.0329257,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Готель Волтер",
+   "name_en": "Hotel Volter",
+   "stars": 3,
+   "brand": null,
+   "lat": 49.8646834,
+   "lon": 24.050795,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 160,
+ "stations": [
+  {
+   "name": "Львів-Підзамче",
+   "name_en": null,
+   "lat": 49.851431,
+   "lon": 24.035198,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Паркова",
+   "name_en": null,
+   "lat": 49.8223805,
+   "lon": 24.0300298,
+   "distance_km": 2.1,
+   "operator": "ДЗ"
+  },
+  {
+   "name": "Сонячна",
+   "name_en": null,
+   "lat": 49.8187989,
+   "lon": 24.0208486,
+   "distance_km": 2.7,
+   "operator": null
+  },
+  {
+   "name": "Львів-Приміський",
+   "name_en": null,
+   "lat": 49.8363551,
+   "lon": 23.9948755,
+   "distance_km": 2.7,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Львів-Головний",
+   "name_en": "Lviv-Main",
+   "lat": 49.8399296,
+   "lon": 23.9937023,
+   "distance_km": 2.7,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Львів-Персенківка",
+   "name_en": "Persenkivka",
+   "lat": 49.8096725,
+   "lon": 24.0304364,
+   "distance_km": 3.6,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Львів-Клепарів",
+   "name_en": null,
+   "lat": 49.8554619,
+   "lon": 23.9805606,
+   "distance_km": 4.0,
+   "operator": "Укрзалізниця"
+  },
+  {
+   "name": "Дубляни-Львівські",
+   "name_en": null,
+   "lat": 49.8825334,
+   "lon": 24.0920717,
+   "distance_km": 6.3,
+   "operator": "Укрзалізниця"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:41Z"
+}

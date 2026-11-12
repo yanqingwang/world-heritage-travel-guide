@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "333"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1985"
 criteria: "(vii)(viii)"
 lat: -9.4
 lon: -77.4
-updated_at: "2026-11-12T12:11:43Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 瓦斯卡兰国家公园 / Huascarán National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:43Z"
 
 *Llanganuco ancash.jpg · see Wikimedia Commons file page*
 
-![Huascarán National Park](https://whc.unesco.org/uploads/sites/site_333.jpg)
+![1 er carnet de guia de montaña del perú fue dado en 1940 por Hanz Kinzl.png](https://upload.wikimedia.org/wikipedia/commons/f/fb/1_er_carnet_de_guia_de_monta%C3%B1a_del_per%C3%BA_fue_dado_en_1940_por_Hanz_Kinzl.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Huascarán National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1 er carnet de guia de montaña del perú fue dado en 1940 por Hanz Kinzl.png · Montañas sagradas · CC0*
+
+![Acampamento Base Pisco Nevado.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Acampamento_Base_Pisco_Nevado.jpg/1280px-Acampamento_Base_Pisco_Nevado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acampamento Base Pisco Nevado.jpg · Diego Baravelli · CC BY-SA 4.0*
+
+![Amanecer en Huaraz.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Amanecer_en_Huaraz.jpg/1280px-Amanecer_en_Huaraz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Amanecer en Huaraz.jpg · Gabriela Acurio Giraldo · CC BY-SA 4.0*
+
+![An-107-Yanarraju.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8e/An-107-Yanarraju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*An-107-Yanarraju.jpg · Lamder · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ En la Cordillera Blanca, la cadena montañosa tropical más alta del mundo, se a
 - ✈ **Alferez Fap David Figueroa Fernandini Airport (HUU)** — 141.4 km
 - ✈ **Capitán FAP Carlos Martínez de Pinillos International Airport (TRU)** — 238.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16264.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sierra Nevada** — 18.1 km — star — 3★
+- **San Sebastian** — 19.6 km — star — 3★
+- **Andino Club Hotel** — 20.2 km — star — 3★
+- **Hotel Plaza Chacas** — 26.8 km — star — 3★
+- **Hostal Chavin Turistico** — 32.2 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

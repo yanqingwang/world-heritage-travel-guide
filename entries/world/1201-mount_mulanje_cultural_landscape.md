@@ -8,13 +8,13 @@ country: "MW"
 country_zh: "马拉维"
 country_en: "Malawi"
 unesco_id: "1201"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(iii)(vi)"
 lat: -15.9
 lon: 35.65
-updated_at: "2026-11-12T12:12:11Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 姆兰杰山文化景观 / Mount Mulanje Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:11Z"
 
 *Mulanje ETM 26may02.jpg · see Wikimedia Commons file page*
 
-![Mount Mulanje Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1201.jpg)
+![Matundwe Range Map.png](https://upload.wikimedia.org/wikipedia/commons/e/e3/Matundwe_Range_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Mount Mulanje Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Matundwe Range Map.png · U.S. Army Map Service · Public domain*
+
+![Shire Highlands map.png](https://upload.wikimedia.org/wikipedia/commons/b/b4/Shire_Highlands_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Shire Highlands map.png · U.S. Army Map Service · Public domain*
+
+![BannièreWV Mulanje.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Banni%C3%A8reWV_Mulanje.png/1280px-Banni%C3%A8reWV_Mulanje.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BannièreWV Mulanje.png · SMuyila · CC BY-SA 3.0*
+
+![Camp fire on Mulanje tea estate (15508376647).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Camp_fire_on_Mulanje_tea_estate_%2815508376647%29.jpg/1280px-Camp_fire_on_Mulanje_tea_estate_%2815508376647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Camp fire on Mulanje tea estate (15508376647).jpg · David Davies from Birmingham, UK · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,19 @@ Phiri la Mulanje ndi lodziwika kwambiri chifukwa cha maonekedwe ake wokongolo ko
 - ✈ **Chileka International Airport (BLZ)** — 76.6 km
 - ✈ **Tete Airport (TET)** — 216.0 km
 - ✈ **Quelimane Airport (UEL)** — 253.2 km
+- 🚉 **Luchenza** — 38.7 km
+- 🚉 **Nansadi** — 48.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10431.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Thuchila Lodge** — 8.1 km — hotel
+- **Lujeri Lodge** — 14.9 km — hotel
+- **Likhubula Hikers' Nest** — 17.0 km — hotel
+- **Gateway Lodge** — 18.1 km — hotel
+- **Kara O'Mula Country Lodge** — 19.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

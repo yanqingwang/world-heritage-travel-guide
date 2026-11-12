@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)"
 lat: 50.492222222
 lon: 5.866944444
-updated_at: "2026-11-12T12:12:25Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 欧洲温泉疗养胜地 / The Great Spa Towns of Europe

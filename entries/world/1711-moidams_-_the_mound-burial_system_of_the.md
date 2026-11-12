@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1711"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2024"
 criteria: "(iii)(iv)"
 lat: 26.943611111
 lon: 94.875
-updated_at: "2026-11-12T12:12:29Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 阿洪姆王朝的土丘墓葬系统（印度） / Moidams – the Mound-Burial System of the Ahom Dynasty
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:29Z"
 
 *Maidams (N-AS-24).jpg · see Wikimedia Commons file page*
 
-![Moidams – the Mound-Burial System of the Ahom Dynasty](https://whc.unesco.org/uploads/sites/site_1711.jpg)
+![Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_1.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Moidams – the Mound-Burial System of the Ahom Dynasty · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 1.jpg · Mozzworld · CC BY-SA 4.0*
+
+![Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_4.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 4.jpg · Mozzworld · CC BY-SA 4.0*
+
+![Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 6.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_6.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 6.jpg · Mozzworld · CC BY-SA 4.0*
+
+![Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 7.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_7.jpg/1280px-Charaideo_Maidam_of_Ahom_Kings_at_Charaideo_in_Sivasagar%2C_Assam_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Charaideo Maidam of Ahom Kings at Charaideo in Sivasagar, Assam 7.jpg · Mozzworld · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Set in the foothills of the Patkai Ranges in eastern Assam, the property contain
 - ✈ **Dibrugarh Airport (DIB)** — 61.7 km
 - ✈ **Jorhat Airport (JRH)** — 73.3 km
 - ✈ **Lilabari North Lakhimpur Airport (IXI)** — 86.4 km
+- 🚉 **Lakswa** — 7.5 km
+- 🚉 **Mahutgaon** — 8.3 km
+- 🚉 **Safrai** — 11.4 km
+- 🚉 **Simaluguri Junction** — 12.2 km
+- 🚉 **Nazira** — 15.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2425.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Borluit Dhaba** — 21.1 km — hotel
+- **Hotel Sivsagar** — 23.2 km — hotel
+- **Hotel Aryan** — 23.9 km — hotel
+- **Shiva Palace** — 24.0 km — hotel
+- **hotel picollo** — 24.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

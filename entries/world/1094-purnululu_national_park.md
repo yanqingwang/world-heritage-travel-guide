@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "1094"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2003"
 criteria: "(vii)(viii)"
 lat: -17.448789
 lon: 128.546055
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 波奴鲁鲁国家公园 / Purnululu National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:08Z"
 
 *1 Purnululu Nationalpark - Australien.jpg · see Wikimedia Commons file page*
 
-![Purnululu National Park](https://whc.unesco.org/uploads/sites/site_1094.jpg)
+![.0 2144 Purnululu National Park - Hiking trails.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/.0_2144_Purnululu_National_Park_-_Hiking_trails.jpg/1280px-.0_2144_Purnululu_National_Park_-_Hiking_trails.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Purnululu National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*.0 2144 Purnululu National Park - Hiking trails.jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 0171 Purnululu Nationalpark (Bungle Bungle).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/00_0171_Purnululu_Nationalpark_%28Bungle_Bungle%29.jpg/1280px-00_0171_Purnululu_Nationalpark_%28Bungle_Bungle%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 0171 Purnululu Nationalpark (Bungle Bungle).jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 2117 Purnululu National Park (Australia).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/00_2117_Purnululu_National_Park_%28Australia%29.jpg/1280px-00_2117_Purnululu_National_Park_%28Australia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 2117 Purnululu National Park (Australia).jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 2152 Purnululu National Park - Cathedrale Gorge.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/00_2152_Purnululu_National_Park_-_Cathedrale_Gorge.jpg/1280px-00_2152_Purnululu_National_Park_-_Cathedrale_Gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 2152 Purnululu National Park - Cathedrale Gorge.jpg · W. Bulach · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,12 @@ The 239,723 ha Purnululu National Park is located in the State of Western Austra
 - ✈ **Kalkgurung Airport (KFG)** — 240.0 km
 - ✈ **Hooker Creek Airport (HOK)** — 242.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6336.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

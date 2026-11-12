@@ -8,13 +8,13 @@ country: "RO"
 country_zh: "罗马尼亚"
 country_en: "Romania"
 unesco_id: "904"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(iv)"
 lat: 47.8194
 lon: 24.0558
-updated_at: "2026-11-12T12:12:02Z"
+updated_at: "2026-11-12T12:42:09Z"
 ---
 
 # 马拉暮莱斯的木结构教堂 / Wooden Churches of Maramureş
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:02Z"
 
 *Sârbi Josani.jpg · see Wikimedia Commons file page*
 
-![Wooden Churches of Maramureş](https://whc.unesco.org/uploads/sites/site_904.jpg)
+![Budești Josani - uși împărătești.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Bude%C8%99ti_Josani_-_u%C8%99i_%C3%AEmp%C4%83r%C4%83te%C8%99ti.jpg/1280px-Bude%C8%99ti_Josani_-_u%C8%99i_%C3%AEmp%C4%83r%C4%83te%C8%99ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wooden Churches of Maramureş · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Budești Josani - uși împărătești.jpg · Țetcu Mircea Rareș · CC BY-SA 4.0*
+
+![Bârsana - Sfânta Treime la Mamvri.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/B%C3%A2rsana_-_Sf%C3%A2nta_Treime_la_Mamvri.jpg/1280px-B%C3%A2rsana_-_Sf%C3%A2nta_Treime_la_Mamvri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bârsana - Sfânta Treime la Mamvri.jpg · Țetcu Mircea Rareș · CC BY-SA 4.0*
+
+![Plopiș - Încununarea cu spini.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plopi%C8%99_-_%C3%8Encununarea_cu_spini.jpg/1280px-Plopi%C8%99_-_%C3%8Encununarea_cu_spini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Plopiș - Încununarea cu spini.jpg · Țetcu Mircea Rareș · CC BY-SA 4.0*
+
+![Poienile Izei - detaliu din Judecata de Apoi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Poienile_Izei_-_detaliu_din_Judecata_de_Apoi.jpg/1280px-Poienile_Izei_-_detaliu_din_Judecata_de_Apoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Poienile Izei - detaliu din Judecata de Apoi.jpg · Țetcu Mircea Rareș · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Bisericile de lemn din regiunea Maramureș se disting între celelalte biserici 
 - ✈ **Maramureș International Airport (BAY)** — 47.7 km
 - ✈ **Satu Mare International Airport (SUJ)** — 88.4 km
 - ✈ **Avram Iancu Cluj International Airport (CLJ)** — 118.2 km
+- 🚉 **Valea Vișeului** — 12.9 km
+- 🚉 **Bocicoi** — 15.5 km
+- 🚉 **Leordina** — 15.6 km
+- 🚉 **Cămara Sighet** — 17.6 km
+- 🚉 **Sighetu Marmației** — 18.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7049.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Soare-n Maramureș** — 14.3 km — star — 4★
+- **Hotel Ambassador** — 41.1 km — star — 4★
+- **Romanița** — 46.8 km — star — 4★
+- **Pensiunea Lia** — 0.9 km — star — 3★
+- **Cabana Iza** — 3.9 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

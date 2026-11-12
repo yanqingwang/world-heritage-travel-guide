@@ -2,7 +2,7 @@
  "id": "wh-593",
  "unesco_id": "593",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 525,
  "popularity_score": 10769,
  "country": "ID",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_593.jpg",
-   "title": "Sangiran Early Man Site",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/593",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bull_head_in_sangiran.jpg/1280px-Bull_head_in_sangiran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bull head in sangiran.jpg",
+   "author": "Fahimrazick at Tamil Wikipedia",
+   "license": "CC BY-SA 4.0",
+   "credit": "Transferred from ta.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Bull_head_in_sangiran.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Gejog_Lesung_Desa_Krikilan_Sangiran.jpg/1280px-Gejog_Lesung_Desa_Krikilan_Sangiran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gejog Lesung Desa Krikilan Sangiran.jpg",
+   "author": "Krikilan Sangir",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gejog_Lesung_Desa_Krikilan_Sangiran.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Homo_erectus_von_Koenigswald.JPG/1280px-Homo_erectus_von_Koenigswald.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Homo erectus von Koenigswald.JPG",
+   "author": "Midori",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Homo_erectus_von_Koenigswald.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Homo_sapiens_Ngrejeng.JPG/1280px-Homo_sapiens_Ngrejeng.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Homo sapiens Ngrejeng.JPG",
+   "author": "Midori",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Homo_sapiens_Ngrejeng.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/593",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 12.6,
   "distance_beijing_km": 5326.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Kalioso",
+    "name_en": null,
+    "lat": -7.4662866,
+    "lon": 110.8049036,
+    "distance_km": 5.3,
+    "operator": "KAI"
+   },
+   {
+    "name": "Salem",
+    "name_en": null,
+    "lat": -7.3955967,
+    "lon": 110.8271742,
+    "distance_km": 6.6,
+    "operator": "KAI"
+   },
+   {
+    "name": "Kadipiro",
+    "name_en": null,
+    "lat": -7.5308563,
+    "lon": 110.8178873,
+    "distance_km": 9.7,
+    "operator": null
+   },
+   {
+    "name": "Kemiri",
+    "name_en": null,
+    "lat": -7.5347881,
+    "lon": 110.9011834,
+    "distance_km": 11.0,
+    "operator": "KAI"
+   },
+   {
+    "name": "Masaran",
+    "name_en": null,
+    "lat": -7.4682036,
+    "lon": 110.9476546,
+    "distance_km": 11.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Solia Zigna",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -7.5694863,
+   "lon": 110.7960636,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aston Hotel Solo",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -7.5637055,
+   "lon": 110.7987264,
+   "distance_km": 13.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "UNS Inn",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -7.5633931,
+   "lon": 110.8558323,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Nyaman Solo",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -7.549704,
+   "lon": 110.79348,
+   "distance_km": 12.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Surya Indah Salatiga",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -7.3085186,
+   "lon": 110.4901086,
+   "distance_km": 42.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ID",
   "country_zh": "印度尼西亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:51Z"
+ "updated_at": "2026-11-12T12:42:02Z"
 }

@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1087"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(iii)(iv)(vi)"
 lat: 53.0759
 lon: 8.8076
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 不来梅市市场的市政厅和罗兰城 / Town Hall and Roland on the Marketplace of Bremen
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:08Z"
 
 *Bremen (27823097069).jpg · see Wikimedia Commons file page*
 
-![Town Hall and Roland on the Marketplace of Bremen](https://whc.unesco.org/uploads/sites/site_1087.jpg)
+![13-04-20-bremen-by-RalfR-028.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/13-04-20-bremen-by-RalfR-028.jpg/1280px-13-04-20-bremen-by-RalfR-028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Town Hall and Roland on the Marketplace of Bremen · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*13-04-20-bremen-by-RalfR-028.jpg · Ralf Roletschek · FAL*
+
+![2018-12-30-Bremer-Rathaus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2018-12-30-Bremer-Rathaus.jpg/1280px-2018-12-30-Bremer-Rathaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2018-12-30-Bremer-Rathaus.jpg · Gunnar Klack · CC BY-SA 4.0*
+
+![Altstadt bremen 2019-04-19 (25).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Altstadt_bremen_2019-04-19_%2825%29.jpg/1280px-Altstadt_bremen_2019-04-19_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt bremen 2019-04-19 (25).jpg · Z thomas · CC BY-SA 4.0*
+
+![Bremen (27823097069).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_%2827823097069%29.jpg/1280px-Bremen_%2827823097069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bremen (27823097069).jpg · Aleksandr Zykov from Russia · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Bremer Rathaus ist eines der bedeutendsten Bauwerke der Backsteingotik und d
 - ✈ **Bremen Airport (BRE)** — 3.5 km
 - ✈ **Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase (FCN)** — 77.5 km
 - ✈ **Hannover Airport (HAJ)** — 90.3 km
+- 🚉 **Bremen Hauptbahnhof** — 0.9 km
+- 🚉 **Bremen Neustadt** — 1.4 km
+- 🚉 **Bremen-Sebaldsbrück** — 5.6 km
+- 🚉 **Bremen-Kirchhuchting** — 5.6 km
+- 🚉 **Bremen-Hemelingen** — 5.9 km
+- ⛴ **Martinianleger** — 0.3 km
+- ⛴ **Schlachte Anleger 13** — 1.3 km
+- ⛴ **Segelclub Niedersachsen - Werder e.V.** — 1.3 km
+- ⛴ **Weserstadion** — 2.0 km
+- ⛴ **Landmarktower** — 3.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7565.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Wachtelhof** — 39.4 km — star — 5★
+- **Atlantic Grand Hotel** — 0.2 km — star — 4★
+- **Flemings Hotel Bremen-Hauptbahnhof** — 0.8 km — star — 4★ · InterCityHotel
+- **Hotel Edel Weiss** — 0.8 km — star — 4★
+- **Best Western Hotel zur Post** — 0.8 km — star — 4★ · Best Western
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

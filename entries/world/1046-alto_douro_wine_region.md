@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(iii)(iv)(v)"
 lat: 41.1657453
 lon: -7.5177429
-updated_at: "2026-11-12T12:12:07Z"
+updated_at: "2026-11-12T12:42:12Z"
 ---
 
 # 葡萄酒产区上杜罗 / Alto Douro Wine Region

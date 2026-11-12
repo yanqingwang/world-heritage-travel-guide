@@ -2,7 +2,7 @@
  "id": "wh-1207",
  "unesco_id": "1207",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 523,
  "popularity_score": 10810,
  "country": "OM",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1207.jpg",
-   "title": "<i>Aflaj</i> Irrigation Systems of Oman",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1207",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%22Falaj%22_irrigationsystem_-_panoramio.jpg/1280px-%22Falaj%22_irrigationsystem_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Falaj\" irrigationsystem - panoramio.jpg",
+   "author": "Paul IJpelaar",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161017183700/http://www.panoramio.com/photo/46503667",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Falaj%22_irrigationsystem_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%22The_Falaj%22_-_Traditional_irrigation_system_02.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"The Falaj\" - Traditional irrigation system 02.jpg",
+   "author": "Altaf Habib",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22The_Falaj%22_-_Traditional_irrigation_system_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%22The_Falaj%22_-_Traditional_irrigation_system_03.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"The Falaj\" - Traditional irrigation system 03.jpg",
+   "author": "Altaf Habib",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22The_Falaj%22_-_Traditional_irrigation_system_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%22The_Falaj%22_-_Traditional_irrigation_system_04.jpg/1280px-%22The_Falaj%22_-_Traditional_irrigation_system_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"The Falaj\" - Traditional irrigation system 04.jpg",
+   "author": "Altaf Habib",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22The_Falaj%22_-_Traditional_irrigation_system_04.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1207",
@@ -104,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Anantara Al Jabal Al Akhdar Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 23.0677887,
+   "lon": 57.6700253,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alila Jabal Akhdar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Alila",
+   "lat": 23.1418871,
+   "lon": 57.5351747,
+   "distance_km": 15.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "جولدن توليب",
+   "name_en": "Golden Tulip Nizwa",
+   "stars": 4,
+   "brand": "Golden Tulip",
+   "lat": 22.9246622,
+   "lon": 57.6187902,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sahab Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 23.0726043,
+   "lon": 57.6680916,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Falaj Daris",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8956493,
+   "lon": 57.5305646,
+   "distance_km": 11.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "OM",
   "country_zh": "阿曼",
@@ -176,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:11Z"
+ "updated_at": "2026-11-12T12:42:15Z"
 }

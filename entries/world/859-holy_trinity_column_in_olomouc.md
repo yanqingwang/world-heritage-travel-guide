@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: 49.59402
 lon: 17.250492
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 奥洛穆茨三位一体圣柱 / Holy Trinity Column in Olomouc

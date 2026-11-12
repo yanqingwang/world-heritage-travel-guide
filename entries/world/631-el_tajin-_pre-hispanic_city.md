@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iii)(iv)"
 lat: 20.448058333
 lon: -97.378241666
-updated_at: "2026-11-12T12:11:52Z"
+updated_at: "2026-11-12T12:42:03Z"
 ---
 
 # 埃尔塔津古城 / El Tajin, Pre-Hispanic City

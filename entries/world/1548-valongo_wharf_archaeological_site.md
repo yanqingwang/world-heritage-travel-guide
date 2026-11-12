@@ -8,13 +8,13 @@ country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
 unesco_id: "1548"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(vi)"
 lat: -22.897111
 lon: -43.187394
-updated_at: "2026-11-12T12:12:22Z"
+updated_at: "2026-11-12T12:42:22Z"
 ---
 
 # 瓦隆古码头 / Valongo Wharf Archaeological Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:22Z"
 
 *Cais do Valongo e da Imperatriz.jpg · see Wikimedia Commons file page*
 
-![Valongo Wharf Archaeological Site](https://whc.unesco.org/uploads/sites/site_1548.jpg)
+![BR-rio-valongo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BR-rio-valongo.jpg/1280px-BR-rio-valongo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Valongo Wharf Archaeological Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*BR-rio-valongo.jpg · Balou46 · CC BY-SA 4.0*
+
+![BrunaPrado Cais do Valongo Rio de Janeiro RJ (40964044731).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/BrunaPrado_Cais_do_Valongo_Rio_de_Janeiro_RJ_%2840964044731%29.jpg/1280px-BrunaPrado_Cais_do_Valongo_Rio_de_Janeiro_RJ_%2840964044731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BrunaPrado Cais do Valongo Rio de Janeiro RJ (40964044731).jpg · MTur Destinos · Public domain*
+
+![Cais do Valongo (11381354915).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cais_do_Valongo_%2811381354915%29.jpg/1280px-Cais_do_Valongo_%2811381354915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cais do Valongo (11381354915).jpg · Wagner Tamanaha from Sao Paulo, Brazil · CC BY-SA 2.0*
+
+![Cais do Valongo (11381357456).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Cais_do_Valongo_%2811381357456%29.jpg/1280px-Cais_do_Valongo_%2811381357456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cais do Valongo (11381357456).jpg · Wagner Tamanaha from Sao Paulo, Brazil · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ O Cais do Valongo é um antigo cais localizado na zona portuária do Rio de Jane
 - ✈ **Santos Dumont Airport (SDU)** — 2.9 km
 - ✈ **Rio de Janeiro Galeão – Tom Jobim International Airport (GIG)** — 11.6 km
 - ✈ **Cabo Frio Airport (CFB)** — 114.3 km
+- 🚉 **Central do Brasil** — 0.8 km
+- 🚉 **CTO** — 1.1 km
+- 🚉 **Praça da Bandeira** — 3.0 km
+- 🚉 **São Cristóvão** — 3.9 km
+- 🚉 **Maracanã** — 4.9 km
+- ⛴ **Praça XV** — 1.7 km
+- ⛴ **Estação Praça XV** — 1.7 km
+- ⛴ **Ilha Fiscal** — 2.1 km
+- ⛴ **Estaleiro Inhaúma** — 3.6 km
+- ⛴ **Terminal Brasco Caju** — 3.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17320.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Mercure Hotel** — 6.2 km — star — 5★ · Mercure
+- **Corinto Hotel** — 6.9 km — star — 5★
+- **Rio Like a Carioca apartaments** — 7.7 km — star — 5★ · Rio Like a Carioca
+- **Hotel Copacabana Palace** — 7.8 km — star — 5★ · Belmond
+- **Hilton** — 20.9 km — star — 5★ · Hilton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

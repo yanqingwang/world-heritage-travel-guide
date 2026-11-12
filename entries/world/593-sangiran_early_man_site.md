@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "593"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(iii)(vi)"
 lat: -7.45
 lon: 110.85
-updated_at: "2026-11-12T12:11:51Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 桑义兰早期人类遗址 / Sangiran Early Man Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:51Z"
 
 *Sangiran 17-02.JPG · see Wikimedia Commons file page*
 
-![Sangiran Early Man Site](https://whc.unesco.org/uploads/sites/site_593.jpg)
+![Bull head in sangiran.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bull_head_in_sangiran.jpg/1280px-Bull_head_in_sangiran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sangiran Early Man Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bull head in sangiran.jpg · Fahimrazick at Tamil Wikipedia · CC BY-SA 4.0*
+
+![Gejog Lesung Desa Krikilan Sangiran.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Gejog_Lesung_Desa_Krikilan_Sangiran.jpg/1280px-Gejog_Lesung_Desa_Krikilan_Sangiran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gejog Lesung Desa Krikilan Sangiran.jpg · Krikilan Sangir · CC BY-SA 4.0*
+
+![Homo erectus von Koenigswald.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Homo_erectus_von_Koenigswald.JPG/1280px-Homo_erectus_von_Koenigswald.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Homo erectus von Koenigswald.JPG · Midori · CC BY 3.0*
+
+![Homo sapiens Ngrejeng.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Homo_sapiens_Ngrejeng.JPG/1280px-Homo_sapiens_Ngrejeng.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Homo sapiens Ngrejeng.JPG · Midori · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Sangiran adalah situs arkeologi di Jawa, Indonesia. Menurut laporan UNESCO (1995
 - ✈ **Adisoemarmo International Airport (SOC)** — 12.6 km
 - ✈ **Adisutjipto International Airport (JOG)** — 59.5 km
 - ✈ **Jenderal Ahmad Yani Airport (SRG)** — 74.9 km
+- 🚉 **Kalioso** — 5.3 km
+- 🚉 **Salem** — 6.6 km
+- 🚉 **Kadipiro** — 9.7 km
+- 🚉 **Kemiri** — 11.0 km
+- 🚉 **Masaran** — 11.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5326.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Solia Zigna** — 14.6 km — star — 5★
+- **Aston Hotel Solo** — 13.8 km — star — 3★
+- **UNS Inn** — 12.6 km — star — 2★
+- **The Nyaman Solo** — 12.7 km — star — 2★
+- **Hotel Surya Indah Salatiga** — 42.7 km — star — 2★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

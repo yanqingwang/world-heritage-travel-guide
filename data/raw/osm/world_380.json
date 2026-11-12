@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Gran Meliá Palacio de Isora (TUI Sensatori Tenerife)",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Gran Meliá (TUI Sensatori)",
+   "lat": 28.2046395,
+   "lon": -16.832399,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ritz - Carlton Abama",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 28.1709384,
+   "lon": -16.8012279,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Los Jardines de Abama Suites & Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Abama Hotels",
+   "lat": 28.1712446,
+   "lon": -16.7872377,
+   "distance_km": 44.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Roca Nivaria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Adrian Hoteles",
+   "lat": 28.1208034,
+   "lon": -16.7774376,
+   "distance_km": 45.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Melia Hacienda del Conde",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Meliá",
+   "lat": 28.3698494,
+   "lon": -16.8592993,
+   "distance_km": 45.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 170,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Fred. Olsen Express - Benchi Express Terminal",
+   "name_en": null,
+   "lat": 28.0795189,
+   "lon": -17.3330635,
+   "distance_km": 10.7,
+   "operator": "Fred. Olsen Express"
+  },
+  {
+   "name": "Naviera Armas",
+   "name_en": null,
+   "lat": 28.0792581,
+   "lon": -17.332892,
+   "distance_km": 10.7,
+   "operator": "Naviera Armas"
+  },
+  {
+   "name": "Embarcadero El Cabrito",
+   "name_en": null,
+   "lat": 28.060339,
+   "lon": -17.1441793,
+   "distance_km": 11.7,
+   "operator": null
+  },
+  {
+   "name": "Fred. Olsen Express - Bechi Express Terminal",
+   "name_en": null,
+   "lat": 28.0265857,
+   "lon": -17.1970991,
+   "distance_km": 11.8,
+   "operator": "Fred. Olsen Express (Benchi Express)"
+  },
+  {
+   "name": "Marina La Gomera (San Sebastian)",
+   "name_en": null,
+   "lat": 28.0886213,
+   "lon": -17.1085563,
+   "distance_km": 13.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:29:49Z"
+}

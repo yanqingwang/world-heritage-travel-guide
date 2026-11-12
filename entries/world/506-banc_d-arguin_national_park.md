@@ -8,13 +8,13 @@ country: "MR"
 country_zh: "毛里塔尼亚"
 country_en: "Mauritania"
 unesco_id: "506"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1989"
 criteria: "(ix)(x)"
 lat: 20.234722222
 lon: -16.108888888
-updated_at: "2026-11-12T12:11:48Z"
+updated_at: "2026-11-12T12:42:00Z"
 ---
 
 # 阿尔金岩石礁国家公园 / Banc d'Arguin National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:48Z"
 
 *PNBA 43.JPG · see Wikimedia Commons file page*
 
-![Banc d'Arguin National Park](https://whc.unesco.org/uploads/sites/site_506.jpg)
+![Arguin map.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8e/Arguin_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Banc d'Arguin National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Arguin map.jpg · Public domain*
+
+![Banc d'Arguin National Park banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Banc_d%27Arguin_National_Park_banner.jpg/1280px-Banc_d%27Arguin_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banc d'Arguin National Park banner.jpg · Kokopelado · CC BY-SA 4.0*
+
+![Bancdarguin map lg.jpg](https://upload.wikimedia.org/wikipedia/commons/6/69/Bancdarguin_map_lg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bancdarguin map lg.jpg · Public domain*
+
+![Bancdarguin oli 2019362.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Bancdarguin_oli_2019362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bancdarguin oli 2019362.jpg · NASA Earth Observatory · Public domain*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,13 @@ Situé le long de la côte atlantique, ce parc est formé de dunes de sable, de 
 - ✈ **Nouakchott–Oumtounsy International Airport (NKC)** — 214.5 km
 - ✈ **Dakhla Airport (VIL)** — 387.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11702.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Iwik** — 15.6 km — hotel
+- **Hotel D'Or** — 17.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

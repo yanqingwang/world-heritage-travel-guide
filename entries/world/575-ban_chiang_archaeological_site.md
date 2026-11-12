@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iii)"
 lat: 17.548611111
 lon: 103.358333333
-updated_at: "2026-11-12T12:11:50Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 班清考古遗址 / Ban Chiang Archaeological Site

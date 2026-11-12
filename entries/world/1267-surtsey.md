@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ix)"
 lat: 63.30402566
 lon: -20.604713791
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:17Z"
 ---
 
 # 叙尔特塞岛 / Surtsey

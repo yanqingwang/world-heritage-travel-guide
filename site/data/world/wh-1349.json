@@ -2,7 +2,7 @@
  "id": "wh-1349",
  "unesco_id": "1349",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 507,
  "popularity_score": 11381,
  "country": "NL",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam%20airphoto.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Narrative_of_Travels_in_Europe%2C_Asia_and_Africa_in_the_Seventeenth_Century-_Tr._by_Ritter_Joseph_Von_Hammer%2C_in_3_Vols.Vol-1%2CPart-1_%28IA_dli.granth.37539%29.pdf/page1-960px-Narrative_of_Travels_in_Europe%2C_Asia_and_Africa_in_the_Seventeenth_Century-_Tr._by_Ritter_Joseph_Von_Hammer%2C_in_3_Vols.Vol-1%2CPart-1_%28IA_dli.granth.37539%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Narrative of Travels in Europe, Asia and Africa in the Seventeenth Century- Tr. by Ritter Joseph Von Hammer, in 3 Vols.Vol-1,Part-1 (IA dli.granth.37539).pdf",
+   "author": "Efendi Evliya",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: dli.granth.37539 https://archive.org/download/dli.granth.37539/37539.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Narrative_of_Travels_in_Europe%2C_Asia_and_Africa_in_the_Seventeenth_Century-_Tr._by_Ritter_Joseph_Von_Hammer%2C_in_3_Vols.Vol-1%2CPart-1_%28IA_dli.granth.37539%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_%28IA_narrativeoftrave01evli%29.pdf/page1-960px-Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_%28IA_narrativeoftrave01evli%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Narrative of travels in Europe, Asia, and Africa, in the seventeenth century (IA narrativeoftrave01evli).pdf",
+   "author": "Evliya, Çelebi, 1611?-1682? Hammer-Purgstall, Joseph, Freiherr von, 1774-1856",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: narrativeoftrave01evli https://archive.org/download/narrativeoftrave01evli/narrativeoftrave01evli.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_%28IA_narrativeoftrave01evli%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_by_Evliya_Efendi_-_Volume_I.djvu/page1-1280px-Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_by_Evliya_Efendi_-_Volume_I.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Narrative of travels in Europe, Asia, and Africa, in the seventeenth century by Evliya Efendi - Volume I.djvu",
+   "author": "Evliya Çelebi",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: narrativeoftrave01evli",
+   "source": "https://commons.wikimedia.org/wiki/File:Narrative_of_travels_in_Europe%2C_Asia%2C_and_Africa%2C_in_the_seventeenth_century_by_Evliya_Efendi_-_Volume_I.djvu"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1349.jpg",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 10.5,
   "distance_beijing_km": 7827.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Centraal Station",
+    "name_en": null,
+    "lat": 52.3806768,
+    "lon": 4.8993817,
+    "distance_km": 1.8,
+    "operator": "Gemeentelijk Vervoerbedrijf"
+   },
+   {
+    "name": "Buiksloterweg",
+    "name_en": null,
+    "lat": 52.3821461,
+    "lon": 4.9031727,
+    "distance_km": 2.1,
+    "operator": null
+   },
+   {
+    "name": "IJplein",
+    "name_en": null,
+    "lat": 52.3816386,
+    "lon": 4.9085707,
+    "distance_km": 2.3,
+    "operator": "GVB"
+   },
+   {
+    "name": "Passenger Terminal Amsterdam",
+    "name_en": null,
+    "lat": 52.3778116,
+    "lon": 4.9153293,
+    "distance_km": 2.4,
+    "operator": null
+   },
+   {
+    "name": "Pontsteiger",
+    "name_en": null,
+    "lat": 52.3919497,
+    "lon": 4.8858668,
+    "distance_km": 2.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Amsterdam Centraal",
+    "name_en": "Amsterdam Central Station",
+    "lat": 52.378901,
+    "lon": 4.9005805,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Amsterdam Muiderpoort",
+    "name_en": null,
+    "lat": 52.3607255,
+    "lon": 4.9312484,
+    "distance_km": 3.1,
+    "operator": null
+   },
+   {
+    "name": "Amsterdam RAI",
+    "name_en": null,
+    "lat": 52.3370349,
+    "lon": 4.8902289,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Amsterdam Zuid",
+    "name_en": null,
+    "lat": 52.3386906,
+    "lon": 4.8705251,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Amsterdam Lelylaan",
+    "name_en": null,
+    "lat": 52.3578369,
+    "lon": 4.8340268,
+    "distance_km": 3.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Rosewood Amsterdam",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rosewood",
+   "lat": 52.3654297,
+   "lon": 4.8833807,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel 717",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3647878,
+   "lon": 4.8853244,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andaz Amsterdam Prinsengracht, by Hyatt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 52.3679082,
+   "lon": 4.8828827,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Dylan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3692835,
+   "lon": 4.8840074,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel de l'Europe",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3676444,
+   "lon": 4.8944657,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NL",
   "country_zh": "荷兰王国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:15Z"
+ "updated_at": "2026-11-12T12:42:18Z"
 }

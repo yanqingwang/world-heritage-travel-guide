@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ix)(x)"
 lat: -9.0
 lon: 37.4
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 塞卢斯禁猎区 / Selous Game Reserve

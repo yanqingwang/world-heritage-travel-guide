@@ -8,13 +8,13 @@ country: "CD"
 country_zh: "刚果民主共和国"
 country_en: "Democratic Republic of the Congo"
 unesco_id: "280"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1984"
 criteria: "(vii)(ix)"
 lat: -2.0
 lon: 21.0
-updated_at: "2026-11-12T12:11:41Z"
+updated_at: "2026-11-12T12:41:56Z"
 ---
 
 # 萨隆加国家公园 / Salonga National Park
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:11:41Z"
 ![La rivière Lulilaka, parc national de Salonga, 2005.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/La%20rivi%C3%A8re%20Lulilaka%2C%20parc%20national%20de%20Salonga%2C%202005.jpg?width=1280)
 
 *La rivière Lulilaka, parc national de Salonga, 2005.jpg · see Wikimedia Commons file page*
+
+![Glaucidium sjostedti - mlanguy - 112057284.jpeg](https://upload.wikimedia.org/wikipedia/commons/8/8d/Glaucidium_sjostedti_-_mlanguy_-_112057284.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Glaucidium sjostedti - mlanguy - 112057284.jpeg · mlanguy · CC0*
+
+![La rivière Lulilaka, parc national de Salonga, 2005.jpg](https://upload.wikimedia.org/wikipedia/commons/5/54/La_rivi%C3%A8re_Lulilaka%2C_parc_national_de_Salonga%2C_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*La rivière Lulilaka, parc national de Salonga, 2005.jpg · Radio Okapi · CC BY 2.0*
+
+![Le 4 mars 2015 - Paris, France- Martin Kobler s’est entretenu avec Irina Bokova, Directeur Général de l’UNESCO. (16730287002).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Le_4_mars_2015_-_Paris%2C_France-_Martin_Kobler_s%E2%80%99est_entretenu_avec_Irina_Bokova%2C_Directeur_G%C3%A9n%C3%A9ral_de_l%E2%80%99UNESCO._%2816730287002%29.jpg/1280px-Le_4_mars_2015_-_Paris%2C_France-_Martin_Kobler_s%E2%80%99est_entretenu_avec_Irina_Bokova%2C_Directeur_G%C3%A9n%C3%A9ral_de_l%E2%80%99UNESCO._%2816730287002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Le 4 mars 2015 - Paris, France- Martin Kobler s’est entretenu avec Irina Bokova, Directeur Général de l’UNESCO. (16730287002).jpg · MONUSCO Photos · CC BY-SA 2.0*
 
 ![Salonga National Park](https://whc.unesco.org/uploads/sites/site_280.jpg)
 
@@ -53,6 +65,12 @@ Au cœur du bassin central du fleuve Congo, ce parc est la plus grande réserve 
 - ✈ **Ilebo Airport (PFR)** — 263.0 km
 - ✈ **Inongo Airport (INO)** — 301.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10512.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

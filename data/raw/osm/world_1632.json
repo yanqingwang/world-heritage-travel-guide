@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "中村旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.0424126,
+   "lon": 140.6434272,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "平舘不老不死温泉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1499927,
+   "lon": 140.6321203,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "今別ホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1820598,
+   "lon": 140.4803179,
+   "distance_km": 14.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "小山内旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.182315,
+   "lon": 140.4791529,
+   "distance_km": 14.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "坂田 旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9658648,
+   "lon": 140.4372219,
+   "distance_km": 14.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 73,
+ "stations": [
+  {
+   "name": "大平",
+   "name_en": "Ōdai",
+   "lat": 41.0657912,
+   "lon": 140.5594227,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "中小国",
+   "name_en": "Nakaoguni",
+   "lat": 41.0514769,
+   "lon": 140.5971212,
+   "distance_km": 4.1,
+   "operator": "東日本旅客鉄道"
+  },
+  {
+   "name": "蟹田",
+   "name_en": "Kanita",
+   "lat": 41.0383689,
+   "lon": 140.6425216,
+   "distance_km": 8.2,
+   "operator": null
+  },
+  {
+   "name": "奥津軽いまべつ",
+   "name_en": "Okutsugaru-imabetsu",
+   "lat": 41.1450243,
+   "lon": 140.5156797,
+   "distance_km": 9.4,
+   "operator": null
+  },
+  {
+   "name": "津軽二股",
+   "name_en": "Tsugaru-futamata",
+   "lat": 41.145593,
+   "lon": 140.5144112,
+   "distance_km": 9.4,
+   "operator": "東日本旅客鉄道"
+  },
+  {
+   "name": "瀬辺地",
+   "name_en": "Seheji",
+   "lat": 41.0081542,
+   "lon": 140.6482762,
+   "distance_km": 10.3,
+   "operator": "東日本旅客鉄道"
+  },
+  {
+   "name": "大川平",
+   "name_en": "Okawadai",
+   "lat": 41.1631519,
+   "lon": 140.507479,
+   "distance_km": 11.5,
+   "operator": "東日本旅客鉄道"
+  },
+  {
+   "name": "郷沢",
+   "name_en": "Gōsawa",
+   "lat": 40.9881647,
+   "lon": 140.652257,
+   "distance_km": 12.0,
+   "operator": "東日本旅客鉄道"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "蟹田港フェリーターミナル",
+   "name_en": "Kanita Ferry Terminal",
+   "lat": 41.0492005,
+   "lon": 140.6466261,
+   "distance_km": 8.1,
+   "operator": "むつ湾フェリー株式会社"
+  },
+  {
+   "name": "瀬辺地漁港",
+   "name_en": null,
+   "lat": 41.0087594,
+   "lon": 140.6519176,
+   "distance_km": 10.5,
+   "operator": null
+  },
+  {
+   "name": "今別漁港",
+   "name_en": null,
+   "lat": 41.1832267,
+   "lon": 140.480289,
+   "distance_km": 14.4,
+   "operator": null
+  },
+  {
+   "name": "今別浜名漁港",
+   "name_en": null,
+   "lat": 41.1858943,
+   "lon": 140.4610979,
+   "distance_km": 15.4,
+   "operator": null
+  },
+  {
+   "name": "大泊漁港",
+   "name_en": null,
+   "lat": 41.2145724,
+   "lon": 140.5218962,
+   "distance_km": 16.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:34:35Z"
+}

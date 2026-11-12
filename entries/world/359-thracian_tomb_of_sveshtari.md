@@ -8,13 +8,13 @@ country: "BG"
 country_zh: "保加利亚"
 country_en: "Bulgaria"
 unesco_id: "359"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(i)(iii)"
 lat: 43.744964
 lon: 26.7663
-updated_at: "2026-11-12T12:11:44Z"
+updated_at: "2026-11-12T12:41:58Z"
 ---
 
 # 斯韦什塔里的色雷斯人墓 / Thracian Tomb of Sveshtari
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:44Z"
 
 *Sveshtari Thracian tomb Bulgaria IFB.JPG · see Wikimedia Commons file page*
 
-![Thracian Tomb of Sveshtari](https://whc.unesco.org/uploads/sites/site_359.jpg)
+![Helis southern entrance 1277.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Helis_southern_entrance_1277.jpg/1280px-Helis_southern_entrance_1277.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Thracian Tomb of Sveshtari · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Helis southern entrance 1277.jpg · The original uploader was Octopus at Slovenian Wikipedia . · CC BY-SA 3.0*
+
+![Sveshtari Thracian tomb Bulgaria IFB.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Sveshtari_Thracian_tomb_Bulgaria_IFB.JPG/1280px-Sveshtari_Thracian_tomb_Bulgaria_IFB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sveshtari Thracian tomb Bulgaria IFB.JPG · CC BY 2.5*
+
+![Sveshtari Thracian Тomb.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Sveshtari_Thracian_%D0%A2omb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Sveshtari Thracian Тomb.jpg · Николай Генов · CC BY 3.0*
+
+![SveshtariTumulus.jpg](https://upload.wikimedia.org/wikipedia/commons/3/39/SveshtariTumulus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*SveshtariTumulus.jpg · Edal Anton Lefterov · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian t
 - ✈ **Bucharest Băneasa Aurel Vlaicu International Airport (BBU)** — 99.6 km
 - ✈ **Varna Airport (VAR)** — 102.7 km
 - ✈ **Bucharest Henri Coandă International Airport (OTP)** — 106.1 km
+- 🚉 **Исперих** — 7.1 km
+- 🚉 **Голям Поровец** — 9.1 km
+- 🚉 **Китанчево** — 10.1 km
+- 🚉 **Ясеновец** — 24.3 km
+- 🚉 **Просторно** — 25.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7057.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Edelis** — 6.1 km — hotel
+- **Мимоза** — 30.4 km — hotel
+- **Интеррум** — 31.1 km — hotel
+- **Хотел Централ** — 31.1 km — hotel — Hotel Central
+- **Gallery** — 31.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

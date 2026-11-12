@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(v)"
 lat: 30.133333333
 lon: 9.5
-updated_at: "2026-11-12T12:11:44Z"
+updated_at: "2026-11-12T12:41:58Z"
 ---
 
 # 加达梅斯古镇 / Old Town of Ghadamès

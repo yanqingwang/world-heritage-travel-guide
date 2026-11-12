@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1670"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(i)(ii)(iv)"
 lat: 13.212453
 lon: 75.994072
-updated_at: "2026-11-12T12:12:27Z"
+updated_at: "2026-11-12T12:42:24Z"
 ---
 
 # 曷萨拉王朝神庙群 / Sacred Ensembles of the Hoysalas
@@ -39,9 +39,9 @@ updated_at: "2026-11-12T12:12:27Z"
 
 *12th-century Belur Vaishnavism Hindu temples complex, main shrine eastern entrance with two Garuda in namaste pose and celestial dancers.jpg · Ms Sarah Welch · CC BY-SA 4.0*
 
-![Sacred Ensembles of the Hoysalas](https://whc.unesco.org/uploads/sites/site_1670.jpg)
+![12th-century Belur Vaishnavism Hindu temples complex, main shrine exterior Shiva Nataraja on right panel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_exterior_Shiva_Nataraja_on_right_panel.jpg/1280px-12th-century_Belur_Vaishnavism_Hindu_temples_complex%2C_main_shrine_exterior_Shiva_Nataraja_on_right_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sacred Ensembles of the Hoysalas · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*12th-century Belur Vaishnavism Hindu temples complex, main shrine exterior Shiva Nataraja on right panel.jpg · Ms Sarah Welch · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -64,7 +64,22 @@ This serial property encompasses the three most representative examples of Hoysa
 - ✈ **Mangaluru International Airport (IXE)** — 123.3 km
 - ✈ **Mysore Airport (MYQ)** — 130.6 km
 - ✈ **Kannur International Airport (CNN)** — 152.1 km
+- 🚉 **Chikkamagaluru** — 24.4 km
+- 🚉 **Sakharayapatna** — 25.2 km
+- 🚉 **Koravangala** — 25.2 km
+- 🚉 **Alur** — 25.7 km
+- 🚉 **Banavar** — 25.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5057.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Gateway Hotel** — 23.6 km — star — 4★ · Taj Hotels
+- **The Ashhok Hassan** — 26.2 km — star — 4★
+- **Palguni Residency** — 25.5 km — star — 2★
+- **Hotel Sri Krishna** — 26.4 km — star — 2★
+- **Eco Holiday Home** — 35.4 km — chain
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

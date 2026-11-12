@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Swiss Diamond Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swiss Diamond Group",
+   "lat": 45.9330365,
+   "lon": 8.9293922,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Romantica",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swiss Diamond Group",
+   "lat": 45.9533064,
+   "lon": 8.9540215,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Meliá Campione",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.9719244,
+   "lon": 8.9718671,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vista",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8135612,
+   "lon": 9.0814102,
+   "distance_km": 15.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Lario",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8800435,
+   "lon": 9.1574616,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1004,
+ "stations": [
+  {
+   "name": "Maroggia-Melano",
+   "name_en": null,
+   "lat": 45.932419,
+   "lon": 8.9738734,
+   "distance_km": 2.5,
+   "operator": "SBB"
+  },
+  {
+   "name": "Capolago-Riva San Vitale",
+   "name_en": null,
+   "lat": 45.9028807,
+   "lon": 8.9788841,
+   "distance_km": 2.7,
+   "operator": "SBB"
+  },
+  {
+   "name": "Bellavista",
+   "name_en": null,
+   "lat": 45.9111955,
+   "lon": 9.0012632,
+   "distance_km": 4.0,
+   "operator": "MG"
+  },
+  {
+   "name": "Porto Ceresio",
+   "name_en": null,
+   "lat": 45.9037175,
+   "lon": 8.9004815,
+   "distance_km": 4.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Melide",
+   "name_en": null,
+   "lat": 45.9556591,
+   "lon": 8.9483369,
+   "distance_km": 4.3,
+   "operator": "SBB"
+  },
+  {
+   "name": "San Nicolao",
+   "name_en": null,
+   "lat": 45.886367,
+   "lon": 8.988868,
+   "distance_km": 4.5,
+   "operator": "MG"
+  },
+  {
+   "name": "Monte Generoso Vetta",
+   "name_en": null,
+   "lat": 45.927938,
+   "lon": 9.0188671,
+   "distance_km": 5.5,
+   "operator": "MG"
+  },
+  {
+   "name": "Mendrisio",
+   "name_en": null,
+   "lat": 45.8690601,
+   "lon": 8.9786344,
+   "distance_km": 5.7,
+   "operator": "SBB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Brusino Arsizio Funivia",
+   "name_en": null,
+   "lat": 45.9245148,
+   "lon": 8.9344092,
+   "distance_km": 1.5,
+   "operator": "SNL"
+  },
+  {
+   "name": "Poiana",
+   "name_en": null,
+   "lat": 45.9324963,
+   "lon": 8.9554055,
+   "distance_km": 1.8,
+   "operator": "SNL"
+  },
+  {
+   "name": "Brusino Arsizio Paese",
+   "name_en": null,
+   "lat": 45.9300024,
+   "lon": 8.9379082,
+   "distance_km": 1.8,
+   "operator": "SNL"
+  },
+  {
+   "name": "Melano",
+   "name_en": null,
+   "lat": 45.9208895,
+   "lon": 8.9808767,
+   "distance_km": 2.4,
+   "operator": "SNL"
+  },
+  {
+   "name": "Maroggio (lago)",
+   "name_en": null,
+   "lat": 45.9357234,
+   "lon": 8.9683065,
+   "distance_km": 2.5,
+   "operator": "SNL"
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:57Z"
+}

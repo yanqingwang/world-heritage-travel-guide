@@ -8,13 +8,13 @@ country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
 unesco_id: "569"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(iii)(iv)"
 lat: 40.07416667
 lon: 20.14083333
-updated_at: "2026-11-12T12:11:50Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 吉诺卡斯特和培拉特历史中心 / Historic Centres of Berat and Gjirokastra
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:50Z"
 
 *Dëshmi e UNESCO.jpg · see Wikimedia Commons file page*
 
-![Historic Centres of Berat and Gjirokastra](https://whc.unesco.org/uploads/sites/site_569.jpg)
+![Dëshmi e UNESCO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/D%C3%ABshmi_e_UNESCO.jpg/1280px-D%C3%ABshmi_e_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centres of Berat and Gjirokastra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Dëshmi e UNESCO.jpg · Enemyofself · CC BY-SA 4.0*
+
+![Historic Centres of Berat and Gjirokastra-111169.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Historic_Centres_of_Berat_and_Gjirokastra-111169.jpg/1280px-Historic_Centres_of_Berat_and_Gjirokastra-111169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Centres of Berat and Gjirokastra-111169.jpg · Anastasia Tzigounaki · CC BY-SA 3.0 igo*
+
+![Historic Centres of Berat and Gjirokastra-111171.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Historic_Centres_of_Berat_and_Gjirokastra-111171.jpg/1280px-Historic_Centres_of_Berat_and_Gjirokastra-111171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Centres of Berat and Gjirokastra-111171.jpg · Anastasia Tzigounaki · CC BY-SA 3.0 igo*
+
+![Historic Centres of Berat and Gjirokastra-111173.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Historic_Centres_of_Berat_and_Gjirokastra-111173.jpg/1280px-Historic_Centres_of_Berat_and_Gjirokastra-111173.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Centres of Berat and Gjirokastra-111173.jpg · Anastasia Tzigounaki · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ Qendrat historike të Beratit dhe Gjirokastrës në qytetet e Beratit dhe Gjirok
 - ✈ **Corfu Ioannis Kapodistrias International Airport (CFU)** — 56.1 km
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 71.7 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 105.3 km
+- ⛴ **Terminali** — 25.4 km
+- ⛴ **Butrint Cable Ferry** — 38.2 km
+- ⛴ **Σιδάρι** — 48.3 km
+- ⛴ **Ipsos** — 49.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7784.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Queen’s Lion - Premium Hotel** — 26.0 km — star — 5★ · Hotel Resort
+- **Miamar Hotel** — 35.4 km — star — 5★
+- **Restia Suites** — 40.0 km — star — 5★
+- **Gelina Village Hotel & Resort** — 41.0 km — star — 5★
+- **Elysium Hotel** — 44.2 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

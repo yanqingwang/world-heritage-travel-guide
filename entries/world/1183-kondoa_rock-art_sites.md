@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(iii)(vi)"
 lat: -4.72444
 lon: 35.83389
-updated_at: "2026-11-12T12:12:11Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 孔多阿岩画遗址 / Kondoa Rock-Art Sites

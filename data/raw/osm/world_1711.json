@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Borluit Dhaba",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.1277306,
+   "lon": 94.8230905,
+   "distance_km": 21.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sivsagar",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0704182,
+   "lon": 94.6891135,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Aryan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9868907,
+   "lon": 94.6384558,
+   "distance_km": 23.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shiva Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9845376,
+   "lon": 94.6370273,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel picollo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.9834754,
+   "lon": 94.6342744,
+   "distance_km": 24.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 7,
+ "stations": [
+  {
+   "name": "Lakswa",
+   "name_en": null,
+   "lat": 27.0052163,
+   "lon": 94.8445527,
+   "distance_km": 7.5,
+   "operator": "NFR"
+  },
+  {
+   "name": "Mahutgaon",
+   "name_en": null,
+   "lat": 26.9643383,
+   "lon": 94.7940882,
+   "distance_km": 8.3,
+   "operator": "NFR"
+  },
+  {
+   "name": "Safrai",
+   "name_en": null,
+   "lat": 27.0281263,
+   "lon": 94.9408681,
+   "distance_km": 11.4,
+   "operator": "NFR"
+  },
+  {
+   "name": "Simaluguri Junction",
+   "name_en": "Simaluguri Junction",
+   "lat": 26.9174084,
+   "lon": 94.7559815,
+   "distance_km": 12.2,
+   "operator": "NFR"
+  },
+  {
+   "name": "Nazira",
+   "name_en": "Nazira",
+   "lat": 26.9032579,
+   "lon": 94.7224246,
+   "distance_km": 15.8,
+   "operator": "NFR"
+  },
+  {
+   "name": "Kharahat",
+   "name_en": null,
+   "lat": 27.0704615,
+   "lon": 94.7496423,
+   "distance_km": 18.8,
+   "operator": "IR"
+  },
+  {
+   "name": "Sepon",
+   "name_en": null,
+   "lat": 27.1144283,
+   "lon": 94.8532408,
+   "distance_km": 19.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "MohKhuti",
+   "name_en": null,
+   "lat": 27.1059291,
+   "lon": 94.8066994,
+   "distance_km": 19.3,
+   "operator": "NFR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:34:41Z"
+}

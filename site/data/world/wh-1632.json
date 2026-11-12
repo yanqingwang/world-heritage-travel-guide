@@ -2,7 +2,7 @@
  "id": "wh-1632",
  "unesco_id": "1632",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 541,
  "popularity_score": 10154,
  "country": "JP",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1632.jpg",
-   "title": "Jomon Prehistoric Sites in Northern Japan",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1632",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Body_temperature_%26_Hand_sanitizer_in_Goshono_Site.jpg/1280px-Body_temperature_%26_Hand_sanitizer_in_Goshono_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Body temperature & Hand sanitizer in Goshono Site.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Body_temperature_%26_Hand_sanitizer_in_Goshono_Site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/COVID-19_disease_control_guideline_in_Futatsumori_Shell_Midden_Museum.jpg/1280px-COVID-19_disease_control_guideline_in_Futatsumori_Shell_Midden_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "COVID-19 disease control guideline in Futatsumori Shell Midden Museum.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:COVID-19_disease_control_guideline_in_Futatsumori_Shell_Midden_Museum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/COVID-19_disease_control_guideline_in_Goshono_Site.jpg/1280px-COVID-19_disease_control_guideline_in_Goshono_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "COVID-19 disease control guideline in Goshono Site.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:COVID-19_disease_control_guideline_in_Goshono_Site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/COVID-19_disease_control_guideline_in_Hakodate_Jomon_Culture_Center.jpg/1280px-COVID-19_disease_control_guideline_in_Hakodate_Jomon_Culture_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "COVID-19 disease control guideline in Hakodate Jomon Culture Center.jpg",
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:COVID-19_disease_control_guideline_in_Hakodate_Jomon_Culture_Center.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1632",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 38.7,
   "distance_beijing_km": 2035.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "蟹田港フェリーターミナル",
+    "name_en": "Kanita Ferry Terminal",
+    "lat": 41.0492005,
+    "lon": 140.6466261,
+    "distance_km": 8.1,
+    "operator": "むつ湾フェリー株式会社"
+   },
+   {
+    "name": "瀬辺地漁港",
+    "name_en": null,
+    "lat": 41.0087594,
+    "lon": 140.6519176,
+    "distance_km": 10.5,
+    "operator": null
+   },
+   {
+    "name": "今別漁港",
+    "name_en": null,
+    "lat": 41.1832267,
+    "lon": 140.480289,
+    "distance_km": 14.4,
+    "operator": null
+   },
+   {
+    "name": "今別浜名漁港",
+    "name_en": null,
+    "lat": 41.1858943,
+    "lon": 140.4610979,
+    "distance_km": 15.4,
+    "operator": null
+   },
+   {
+    "name": "大泊漁港",
+    "name_en": null,
+    "lat": 41.2145724,
+    "lon": 140.5218962,
+    "distance_km": 16.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "大平",
+    "name_en": "Ōdai",
+    "lat": 41.0657912,
+    "lon": 140.5594227,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "中小国",
+    "name_en": "Nakaoguni",
+    "lat": 41.0514769,
+    "lon": 140.5971212,
+    "distance_km": 4.1,
+    "operator": "東日本旅客鉄道"
+   },
+   {
+    "name": "蟹田",
+    "name_en": "Kanita",
+    "lat": 41.0383689,
+    "lon": 140.6425216,
+    "distance_km": 8.2,
+    "operator": null
+   },
+   {
+    "name": "奥津軽いまべつ",
+    "name_en": "Okutsugaru-imabetsu",
+    "lat": 41.1450243,
+    "lon": 140.5156797,
+    "distance_km": 9.4,
+    "operator": null
+   },
+   {
+    "name": "津軽二股",
+    "name_en": "Tsugaru-futamata",
+    "lat": 41.145593,
+    "lon": 140.5144112,
+    "distance_km": 9.4,
+    "operator": "東日本旅客鉄道"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "中村旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.0424126,
+   "lon": 140.6434272,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "平舘不老不死温泉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1499927,
+   "lon": 140.6321203,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "今別ホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1820598,
+   "lon": 140.4803179,
+   "distance_km": 14.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "小山内旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.182315,
+   "lon": 140.4791529,
+   "distance_km": 14.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "坂田 旅館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9658648,
+   "lon": 140.4372219,
+   "distance_km": 14.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:26Z"
+ "updated_at": "2026-11-12T12:42:23Z"
 }

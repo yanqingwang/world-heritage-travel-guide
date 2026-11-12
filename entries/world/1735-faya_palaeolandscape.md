@@ -8,13 +8,13 @@ country: "AE"
 country_zh: "阿拉伯联合酋长国"
 country_en: "United Arab Emirates"
 unesco_id: "1735"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(iii)(iv)"
 lat: 25.111404
 lon: 55.838957
-updated_at: "2026-11-12T12:12:31Z"
+updated_at: "2026-11-12T12:42:25Z"
 ---
 
 # 法亚古地貌 / Faya Palaeolandscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:31Z"
 
 *Jebel Faya.jpg · see Wikimedia Commons file page*
 
-![Faya Palaeolandscape](https://whc.unesco.org/uploads/sites/site_1735.jpg)
+![Buhais rockshelter (map).jpg](https://upload.wikimedia.org/wikipedia/commons/f/f7/Buhais_rockshelter_%28map%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Faya Palaeolandscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Buhais rockshelter (map).jpg · K. Bretzke, S. Kim, S. A. Jasim, E. Yousif, F. Preusser, G. W. Preston, F. Pallottino & A. G. Parker · CC BY 4.0*
+
+![Buhais rockshelter.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Buhais_rockshelter.jpg/1280px-Buhais_rockshelter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buhais rockshelter.jpg · K. Bretzke, S. Kim, S. A. Jasim, E. Yousif, F. Preusser, G. W. Preston, F. Pallottino & A. G. Parker · CC BY 4.0*
+
+![ISS059-E-113891 - View of United Arab Emirates.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS059-E-113891_-_View_of_United_Arab_Emirates.jpg/1280px-ISS059-E-113891_-_View_of_United_Arab_Emirates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ISS059-E-113891 - View of United Arab Emirates.jpg · Earth Science and Remote Sensing Unit, NASA Johnson Space Center · Public domain*
+
+![Jebel Faya (2025).webp](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jebel_Faya_%282025%29.webp/1280px-Jebel_Faya_%282025%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jebel Faya (2025).webp · Knut Bretzke, Frank Preusser, Kira Raith, Gareth Preston, Seolmin Kim, Sabah Jasim, Eisa Yousif & Adrian G. Parker · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ Located between the Persian Gulf and Arabian Sea, the property preserves evidenc
 - ✈ **Sharjah International Airport (SHJ)** — 40.4 km
 - ✈ **Fujairah International Airport (FJR)** — 49.2 km
 - ✈ **Dubai International Airport (DXB)** — 49.5 km
+- 🚉 **Concourse A** — 49.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5827.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **DoubleTree by Hilton Fujairah City** — 48.9 km — star — 5★ · DoubleTree
+- **Hatta Fort Hotel** — 44.0 km — star — Hatta Fort Hotel · 4★
+- **Holiday Inn By IHG** — 50.0 km — star — Holiday Inn By IHG · 4★ · Holiday Inn
+- **ibis Styles Dragon Mart Dubai** — 42.8 km — star — ibis Styles Dragon Mart Dubai · 3★ · Ibis Styles
+- **Hampton by Hilton Dubai Airport** — 49.5 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

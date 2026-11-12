@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "181"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1982"
 criteria: "(iii)(iv)(vi)(vii)(viii)(ix)(x)"
 lat: -42.5957
 lon: 146.1729
-updated_at: "2026-11-12T12:11:38Z"
+updated_at: "2026-11-12T12:41:54Z"
 ---
 
 # 塔斯马尼亚荒原 / Tasmanian Wilderness
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:38Z"
 
 *CradleMountain.jpg · see Wikimedia Commons file page*
 
-![Tasmanian Wilderness](https://whc.unesco.org/uploads/sites/site_181.jpg)
+![Central Plateau Tasmania Plecoptera arching.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Central_Plateau_Tasmania_Plecoptera_arching.jpg/1280px-Central_Plateau_Tasmania_Plecoptera_arching.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tasmanian Wilderness · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Central Plateau Tasmania Plecoptera arching.jpg · Andrew Lorien · CC BY-SA 4.0*
+
+![Central Plateau Tasmania Plecoptera side view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Central_Plateau_Tasmania_Plecoptera_side_view.jpg/1280px-Central_Plateau_Tasmania_Plecoptera_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Central Plateau Tasmania Plecoptera side view.jpg · Andrew Lorien · CC BY-SA 4.0*
+
+![Central Plateau Tasmania Plecoptera.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Central_Plateau_Tasmania_Plecoptera.jpg/1280px-Central_Plateau_Tasmania_Plecoptera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Central Plateau Tasmania Plecoptera.jpg · Andrew Lorien · CC BY-SA 4.0*
+
+![ClearingPano.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/ClearingPano.jpg/1280px-ClearingPano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ClearingPano.jpg · Tasmanianbeekeepers · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ In a region that has been subjected to severe glaciation, these parks and reserv
 - ✈ **Hobart International Airport (HBA)** — 112.7 km
 - ✈ **Launceston Airport (LST)** — 144.9 km
 - ✈ **Devonport Airport (DPO)** — 160.0 km
+- 🚉 **Florentine Junction** — 39.2 km
+- 🚉 **Florentine (Railtrack Riders)** — 39.5 km
+- 🚉 **Nicholl's Junction** — 40.0 km
+- 🚉 **Hydro Siding** — 40.4 km
+- 🚉 **Maydena** — 40.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9730.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Tarraleah Lodge** — 39.7 km — hotel
+- **Scholars** — 39.8 km — hotel
+- **Sassafras Springs** — 41.9 km — hotel
+- **National Park Hotel** — 45.8 km — hotel
+- **Hamlet Downs Country Accommodation** — 48.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

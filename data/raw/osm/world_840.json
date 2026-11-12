@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Cayo Levisa",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 22.8844333,
+   "lon": -83.5246503,
+   "distance_km": 35.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rancho San Vicente",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 22.6738225,
+   "lon": -83.7072617,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabaña La Realidad",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.6153136,
+   "lon": -83.7140099,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Central Viñales",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.6163449,
+   "lon": -83.7093494,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Horizontes La Ermita",
+   "name_en": null,
+   "stars": null,
+   "brand": "Horizontes",
+   "lat": 22.611343,
+   "lon": -83.6992377,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 17,
+ "stations": [
+  {
+   "name": "Pinar del Río",
+   "name_en": null,
+   "lat": 22.4106803,
+   "lon": -83.690403,
+   "distance_km": 23.1,
+   "operator": null
+  },
+  {
+   "name": "Distancia",
+   "name_en": null,
+   "lat": 22.3975875,
+   "lon": -83.6991977,
+   "distance_km": 24.4,
+   "operator": null
+  },
+  {
+   "name": "Las Ovas",
+   "name_en": null,
+   "lat": 22.428436,
+   "lon": -83.5912472,
+   "distance_km": 24.6,
+   "operator": null
+  },
+  {
+   "name": "Puerta de Golpe",
+   "name_en": null,
+   "lat": 22.4522572,
+   "lon": -83.5455371,
+   "distance_km": 25.4,
+   "operator": null
+  },
+  {
+   "name": "Herradura",
+   "name_en": null,
+   "lat": 22.5143798,
+   "lon": -83.4129901,
+   "distance_km": 33.2,
+   "operator": null
+  },
+  {
+   "name": "San Luis",
+   "name_en": null,
+   "lat": 22.2830581,
+   "lon": -83.7738265,
+   "distance_km": 37.6,
+   "operator": null
+  },
+  {
+   "name": "San Juan y Martínez",
+   "name_en": null,
+   "lat": 22.2729149,
+   "lon": -83.8330385,
+   "distance_km": 40.1,
+   "operator": null
+  },
+  {
+   "name": "Galafre",
+   "name_en": null,
+   "lat": 22.2100487,
+   "lon": -83.8893283,
+   "distance_km": 48.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Cayo Levisa",
+   "name_en": null,
+   "lat": 22.8821769,
+   "lon": -83.5237337,
+   "distance_km": 35.5,
+   "operator": null
+  },
+  {
+   "name": "Base de Pesca Deportiva",
+   "name_en": null,
+   "lat": 22.2444085,
+   "lon": -83.5716025,
+   "distance_km": 44.0,
+   "operator": null
+  },
+  {
+   "name": "Muelle del Barco de la Isla",
+   "name_en": null,
+   "lat": 22.2424211,
+   "lon": -83.5708344,
+   "distance_km": 44.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:31:36Z"
+}

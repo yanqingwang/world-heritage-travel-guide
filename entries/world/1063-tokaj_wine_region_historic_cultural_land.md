@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(iii)(v)"
 lat: 48.15
 lon: 21.35
-updated_at: "2026-11-12T12:12:08Z"
+updated_at: "2026-11-12T12:42:13Z"
 ---
 
 # 托卡伊葡萄酒产地历史文化景观 / Tokaj Wine Region Historic Cultural Landscape

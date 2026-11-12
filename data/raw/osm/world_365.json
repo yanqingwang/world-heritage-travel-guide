@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Hornung Park Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -20.2190296,
+   "lon": 28.6038022,
+   "distance_km": 20.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Bulawayo",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn",
+   "lat": -20.1609843,
+   "lon": 28.608891,
+   "distance_km": 19.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "N1",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.1595259,
+   "lon": 28.5806064,
+   "distance_km": 16.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bulawayo Club",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.1548084,
+   "lon": 28.5812498,
+   "distance_km": 16.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.1633934,
+   "lon": 28.5814983,
+   "distance_km": 16.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 25,
+ "stations": [
+  {
+   "name": "Luveve",
+   "name_en": null,
+   "lat": -20.097977,
+   "lon": 28.5079741,
+   "distance_km": 10.2,
+   "operator": null
+  },
+  {
+   "name": "Bulawayo",
+   "name_en": null,
+   "lat": -20.1612221,
+   "lon": 28.5726983,
+   "distance_km": 15.7,
+   "operator": null
+  },
+  {
+   "name": "Figtree",
+   "name_en": null,
+   "lat": -20.3738601,
+   "lon": 28.3231983,
+   "distance_km": 27.7,
+   "operator": null
+  },
+  {
+   "name": "Nyamandolovu",
+   "name_en": null,
+   "lat": -19.8638694,
+   "lon": 28.2692707,
+   "distance_km": 35.0,
+   "operator": null
+  },
+  {
+   "name": "Heany",
+   "name_en": null,
+   "lat": -20.0817013,
+   "lon": 28.7856729,
+   "distance_km": 38.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:49Z"
+}

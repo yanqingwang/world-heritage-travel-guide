@@ -8,13 +8,13 @@ country: "VE"
 country_zh: "委内瑞拉"
 country_en: "Venezuela"
 unesco_id: "986"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(i)(iv)"
 lat: 10.490833333
 lon: -66.890555555
-updated_at: "2026-11-12T12:12:06Z"
+updated_at: "2026-11-12T12:42:11Z"
 ---
 
 # 加拉加斯大学城 / Ciudad Universitaria de Caracas
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:06Z"
 
 *HansArp-CloudShepher-Manaure1953.JPG · see Wikimedia Commons file page*
 
-![Ciudad Universitaria de Caracas](https://whc.unesco.org/uploads/sites/site_986.jpg)
+![Ciudad Universitaria de Caracas.jpg](https://upload.wikimedia.org/wikipedia/commons/3/32/Ciudad_Universitaria_de_Caracas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ciudad Universitaria de Caracas · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ciudad Universitaria de Caracas.jpg · Almaplani2016 · CC BY-SA 4.0*
+
+![Estadio-olc3admpico-ciudad-unversitaria-1951.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c1/Estadio-olc3admpico-ciudad-unversitaria-1951.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Estadio-olc3admpico-ciudad-unversitaria-1951.jpg · un periodico caraqueno · Public domain*
+
+![Estadios de la UCV. Año 1953.png](https://upload.wikimedia.org/wikipedia/commons/6/6f/Estadios_de_la_UCV._A%C3%B1o_1953.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Estadios de la UCV. Año 1953.png · Unknown author Unknown author · Public domain*
+
+![ISS027-E-9876 - View of Venezuela - Caracas - Ciudad Universitaria - Petare (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS027-E-9876_-_View_of_Venezuela_-_Caracas_-_Ciudad_Universitaria_-_Petare_%28cropped%29.jpg/1280px-ISS027-E-9876_-_View_of_Venezuela_-_Caracas_-_Ciudad_Universitaria_-_Petare_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ISS027-E-9876 - View of Venezuela - Caracas - Ciudad Universitaria - Petare (cropped).jpg · Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Construida entre 1940 y 1960 con arreglo a un proyecto del arquitecto Carlos Ra�
 - ✈ **Maiquetía Simón Bolívar International Airport (CCS)** — 16.6 km
 - ✈ **Arturo Michelena International Airport (VLN)** — 119.7 km
 - ✈ **Los Roques Airport (LRV)** — 163.7 km
+- 🚉 **Estación Caracas** — 8.1 km
+- 🚉 **Estación Charallave Norte** — 24.6 km
+- 🚉 **Estación Charallave Sur** — 28.5 km
+- 🚉 **Estación Cúa** — 37.5 km
+- ⛴ **La Guaira** — 13.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14367.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Alba Caracas** — 1.4 km — star — 5★
+- **Gran Meliá Caracas** — 1.4 km — star — 5★
+- **JW Marriott Hotel** — 2.8 km — star — 5★ · JW Marriott
+- **The Hotel** — 2.9 km — star — 5★
+- **Lidotel** — 3.1 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

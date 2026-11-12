@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 31.51441
 lon: -9.768904
-updated_at: "2026-11-12T12:11:56Z"
+updated_at: "2026-11-12T12:42:05Z"
 ---
 
 # 索维拉城（原摩加多尔） / Medina of Essaouira (formerly Mogador)

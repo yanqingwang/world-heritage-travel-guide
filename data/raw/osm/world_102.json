@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Brainis",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 35.8687725,
+   "lon": 4.4046948,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel El Kalâa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7247015,
+   "lon": 4.5490467,
+   "distance_km": 24.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marhaba",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7020827,
+   "lon": 4.545504,
+   "distance_km": 25.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El-ksob;القصب",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.7078369,
+   "lon": 4.5377443,
+   "distance_km": 25.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الترقي",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.066983,
+   "lon": 4.7755303,
+   "distance_km": 28.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 12,
+ "stations": [
+  {
+   "name": "Ouled Derradj",
+   "name_en": "Ouled Derradj",
+   "lat": 35.6819872,
+   "lon": 4.7355963,
+   "distance_km": 15.6,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Medjez",
+   "name_en": null,
+   "lat": 35.8663755,
+   "lon": 4.5938491,
+   "distance_km": 18.9,
+   "operator": null
+  },
+  {
+   "name": "Berhoum",
+   "name_en": "Berhoum",
+   "lat": 35.6458265,
+   "lon": 4.9598109,
+   "distance_km": 24.0,
+   "operator": "الشركة الوطنية للنقل بالسكك الحديدية"
+  },
+  {
+   "name": "El Anasser",
+   "name_en": "El Anasser",
+   "lat": 36.0369689,
+   "lon": 4.8135966,
+   "distance_km": 24.9,
+   "operator": "SNTF"
+  },
+  {
+   "name": "M'Sila",
+   "name_en": "M'Sila",
+   "lat": 35.7066742,
+   "lon": 4.5196476,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "Bordj Bou Arreridj",
+   "name_en": "Bordj Bou Arreridj",
+   "lat": 36.0624911,
+   "lon": 4.7468729,
+   "distance_km": 28.0,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Ain Tassera",
+   "name_en": null,
+   "lat": 36.0352929,
+   "lon": 5.0052765,
+   "distance_km": 31.1,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Magra",
+   "name_en": "Magra",
+   "lat": 35.5624963,
+   "lon": 5.074274,
+   "distance_km": 37.8,
+   "operator": "الشركة الوطنية للنقل بالسكك الحديدية"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:29:16Z"
+}

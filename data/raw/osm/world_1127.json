@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Kulturhotel Fürst Pückler",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.546551,
+   "lon": 14.720978,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kristall",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.5035582,
+   "lon": 14.6363583,
+   "distance_km": 7.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "AKZENT Congresshotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.4372941,
+   "lon": 14.2635593,
+   "distance_km": 34.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SORAT Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "SORAT",
+   "lat": 51.7591504,
+   "lon": 14.3343305,
+   "distance_km": 35.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Christinenhof & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8972232,
+   "lon": 14.4575866,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 161,
+ "stations": [
+  {
+   "name": "Bad Muskau",
+   "name_en": null,
+   "lat": 51.5379993,
+   "lon": 14.7229768,
+   "distance_km": 1.1,
+   "operator": "WEM Gesellschaft zur Betreibung der Waldeisenbahn Muskau mbH"
+  },
+  {
+   "name": "Krauschwitz / Baierweiche",
+   "name_en": null,
+   "lat": 51.5343519,
+   "lon": 14.6924011,
+   "distance_km": 2.6,
+   "operator": "WEM Gesellschaft zur Betreibung der Waldeisenbahn Muskau mbH"
+  },
+  {
+   "name": "Weißwasser - Ost",
+   "name_en": null,
+   "lat": 51.5169029,
+   "lon": 14.6578374,
+   "distance_km": 5.7,
+   "operator": "WEM Gesellschaft zur Betreibung der Waldeisenbahn Muskau mbH"
+  },
+  {
+   "name": "Weißwasser Museumsbahnhof Anlage Mitte",
+   "name_en": null,
+   "lat": 51.5124294,
+   "lon": 14.6477459,
+   "distance_km": 6.5,
+   "operator": null
+  },
+  {
+   "name": "Kromlau Waldeisenbahn",
+   "name_en": null,
+   "lat": 51.5330529,
+   "lon": 14.6279236,
+   "distance_km": 6.8,
+   "operator": "WEM Gesellschaft zur Betreibung der Waldeisenbahn Muskau mbH"
+  },
+  {
+   "name": "Weißwasser/O.L. Teichstraße",
+   "name_en": null,
+   "lat": 51.5103158,
+   "lon": 14.6455005,
+   "distance_km": 6.8,
+   "operator": "Gesellschaft zur Betreibung der Waldeisenbahn Muskau mbH"
+  },
+  {
+   "name": "Weißwasser (Oberlausitz) / Běła Woda",
+   "name_en": null,
+   "lat": 51.5054285,
+   "lon": 14.6381818,
+   "distance_km": 7.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Schwerer Berg",
+   "name_en": null,
+   "lat": 51.489317,
+   "lon": 14.6177377,
+   "distance_km": 9.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Schiffsanleger Geierswalde",
+   "name_en": null,
+   "lat": 51.4979646,
+   "lon": 14.1291749,
+   "distance_km": 41.5,
+   "operator": "Reederei M. Löwa"
+  },
+  {
+   "name": "Wassersportzentrum Lausitzer Seenland",
+   "name_en": null,
+   "lat": 51.4925719,
+   "lon": 14.1139487,
+   "distance_km": 42.6,
+   "operator": null
+  },
+  {
+   "name": "Schmogrow Hafen lll",
+   "name_en": null,
+   "lat": 51.8493705,
+   "lon": 14.2214667,
+   "distance_km": 48.2,
+   "operator": null
+  },
+  {
+   "name": "Stadthafen Senftenberg Seebrücke",
+   "name_en": null,
+   "lat": 51.5116392,
+   "lon": 14.0063681,
+   "distance_km": 49.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:32:16Z"
+}

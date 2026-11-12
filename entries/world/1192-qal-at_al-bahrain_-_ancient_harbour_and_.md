@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: 26.233611111
 lon: 50.520555555
-updated_at: "2026-11-12T12:12:11Z"
+updated_at: "2026-11-12T12:42:15Z"
 ---
 
 # 巴林贸易港考古遗址 / Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun

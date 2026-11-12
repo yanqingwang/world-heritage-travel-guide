@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ix)(x)"
 lat: -14.459722
 lon: 49.7025
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 阿钦安阿纳雨林 / Rainforests of the Atsinanana

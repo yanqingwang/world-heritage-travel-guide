@@ -8,13 +8,13 @@ country: "NZ"
 country_zh: "新西兰"
 country_en: "New Zealand"
 unesco_id: "551"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1990"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -45.036
 lon: 167.32
-updated_at: "2026-11-12T12:11:49Z"
+updated_at: "2026-11-12T12:42:01Z"
 ---
 
 # 蒂瓦希普纳穆-新西兰西南部地区 / Te Wahipounamu – South West New Zealand
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:49Z"
 
 *MilfordSound.jpg · see Wikimedia Commons file page*
 
-![Te Wahipounamu – South West New Zealand](https://whc.unesco.org/uploads/sites/site_551.jpg)
+![Fiordland National Park, Part II - Fiordland9056.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fiordland_National_Park%2C_Part_II_-_Fiordland9056.jpg/1280px-Fiordland_National_Park%2C_Part_II_-_Fiordland9056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Te Wahipounamu – South West New Zealand · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Fiordland National Park, Part II - Fiordland9056.jpg · lumoplank · CC0*
+
+![Haast Visitor Centre MRD 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Haast_Visitor_Centre_MRD_02.jpg/1280px-Haast_Visitor_Centre_MRD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Haast Visitor Centre MRD 02.jpg · Mike Dickison · CC BY 4.0*
+
+![Mount Tasman and Mount Cook in evening sunlight behind paddock with cows on the West Coast.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Mount_Tasman_and_Mount_Cook_in_evening_sunlight_behind_paddock_with_cows_on_the_West_Coast.jpg/1280px-Mount_Tasman_and_Mount_Cook_in_evening_sunlight_behind_paddock_with_cows_on_the_West_Coast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mount Tasman and Mount Cook in evening sunlight behind paddock with cows on the West Coast.jpg · Pseudopanax at English Wikipedia · CC BY 3.0*
+
+![NZ Te Wahipounamu NTNL parks.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/NZ_Te_Wahipounamu_NTNL_parks.svg/1280px-NZ_Te_Wahipounamu_NTNL_parks.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*NZ Te Wahipounamu NTNL parks.svg · Costello · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,12 @@ The landscape in this park, situated in south-west New Zealand, has been shaped 
 - ✈ **Wanaka Airport (WKA)** — 155.7 km
 - ✈ **Invercargill Airport (IVC)** — 171.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10797.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Fiordland National Park Lodge** — 43.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

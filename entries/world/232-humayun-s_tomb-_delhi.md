@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 28.593264
 lon: 77.250602
-updated_at: "2026-11-12T12:11:40Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 德里的胡马雍陵 / Humayun's Tomb, Delhi

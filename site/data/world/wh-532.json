@@ -2,7 +2,7 @@
  "id": "wh-532",
  "unesco_id": "532",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 520,
  "popularity_score": 10844,
  "country": "DE",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_532.jpg",
-   "title": "Palaces and Parks of Potsdam and Berlin",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/532",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pfingstberg_1862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Pfingstberg 1862.jpg",
+   "author": "Johann Heinrich Gustav Meyer after, in order and signed by Peter Joseph Lenné",
+   "license": "CC BY-SA 3.0",
+   "credit": "scanned from Schloss Glienicke , Verwaltung der Staatlichen Schlösser und Gärten, Berlin, 1987",
+   "source": "https://commons.wikimedia.org/wiki/File:Pfingstberg_1862.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Franz_Xaver_Sandmann_-_Potsdam_vom_Brauhausberg_aus_geseh%27n.jpg/1280px-Franz_Xaver_Sandmann_-_Potsdam_vom_Brauhausberg_aus_geseh%27n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Franz Xaver Sandmann - Potsdam vom Brauhausberg aus geseh'n.jpg",
+   "author": "František Xaver Sandmann",
+   "license": "Public domain",
+   "credit": "grafikliebhaber.de",
+   "source": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_Sandmann_-_Potsdam_vom_Brauhausberg_aus_geseh%27n.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belvedere_Pfingstberg_Arnim_1856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Belvedere Pfingstberg Arnim 1856.jpg",
+   "author": "Ferdinand von Arnim",
+   "license": "Public domain",
+   "credit": "Stiftung Preußische Schlösser und Gärten Berlin Brandenburg (SPSG)",
+   "source": "https://commons.wikimedia.org/wiki/File:Belvedere_Pfingstberg_Arnim_1856.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_%2828%29.jpg/1280px-Belvedere_-_panoramio_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Belvedere - panoramio (28).jpg",
+   "author": "Air-Fox",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161102180840/http://www.panoramio.com/photo/90633515",
+   "source": "https://commons.wikimedia.org/wiki/File:Belvedere_-_panoramio_%2828%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/532",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 32.1,
   "distance_beijing_km": 7357.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Neustädter Havelbucht - Sanssouci",
+    "name_en": null,
+    "lat": 52.3943323,
+    "lon": 13.0433592,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Potsdam West - Arcona Hotel",
+    "name_en": null,
+    "lat": 52.3895301,
+    "lon": 13.0345736,
+    "distance_km": 1.2,
+    "operator": null
+   },
+   {
+    "name": "Auf dem Kiewitt/Fähre",
+    "name_en": null,
+    "lat": 52.389235,
+    "lon": 13.0392651,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "Hermannswerder/Fähre",
+    "name_en": null,
+    "lat": 52.3872131,
+    "lon": 13.0396943,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "Inselhotel Potsdam-Hermannswerder",
+    "name_en": null,
+    "lat": 52.3825507,
+    "lon": 13.0295955,
+    "distance_km": 2.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Potsdam Park Sanssouci",
+    "name_en": null,
+    "lat": 52.3945735,
+    "lon": 13.0136905,
+    "distance_km": 1.5,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Potsdam Hauptbahnhof",
+    "name_en": null,
+    "lat": 52.3917908,
+    "lon": 13.0672397,
+    "distance_km": 2.5,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Babelsberg",
+    "name_en": null,
+    "lat": 52.3914035,
+    "lon": 13.0929636,
+    "distance_km": 4.2,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Golm",
+    "name_en": null,
+    "lat": 52.4097952,
+    "lon": 12.9718767,
+    "distance_km": 4.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Potsdam Medienstadt Babelsberg",
+    "name_en": null,
+    "lat": 52.3825232,
+    "lon": 13.1220475,
+    "distance_km": 6.3,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Waldorf Astoria Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 52.5055837,
+   "lon": 13.3329108,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palace Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.5049196,
+   "lon": 13.3388488,
+   "distance_km": 23.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SO/ Berlin Das Stue",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.5098733,
+   "lon": 13.3459642,
+   "distance_km": 24.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hyatt Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Grand Hyatt",
+   "lat": 52.5081971,
+   "lon": 13.3724841,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz-Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 52.5104092,
+   "lon": 13.375226,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:48Z"
+ "updated_at": "2026-11-12T12:42:01Z"
 }

@@ -2,7 +2,7 @@
  "id": "wh-904",
  "unesco_id": "904",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 553,
  "popularity_score": 9596,
  "country": "RO",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_904.jpg",
-   "title": "Wooden Churches of Maramureş",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/904",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Bude%C8%99ti_Josani_-_u%C8%99i_%C3%AEmp%C4%83r%C4%83te%C8%99ti.jpg/1280px-Bude%C8%99ti_Josani_-_u%C8%99i_%C3%AEmp%C4%83r%C4%83te%C8%99ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Budești Josani - uși împărătești.jpg",
+   "author": "Țetcu Mircea Rareș",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bude%C8%99ti_Josani_-_u%C8%99i_%C3%AEmp%C4%83r%C4%83te%C8%99ti.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/B%C3%A2rsana_-_Sf%C3%A2nta_Treime_la_Mamvri.jpg/1280px-B%C3%A2rsana_-_Sf%C3%A2nta_Treime_la_Mamvri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bârsana - Sfânta Treime la Mamvri.jpg",
+   "author": "Țetcu Mircea Rareș",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:B%C3%A2rsana_-_Sf%C3%A2nta_Treime_la_Mamvri.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plopi%C8%99_-_%C3%8Encununarea_cu_spini.jpg/1280px-Plopi%C8%99_-_%C3%8Encununarea_cu_spini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Plopiș - Încununarea cu spini.jpg",
+   "author": "Țetcu Mircea Rareș",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Plopi%C8%99_-_%C3%8Encununarea_cu_spini.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Poienile_Izei_-_detaliu_din_Judecata_de_Apoi.jpg/1280px-Poienile_Izei_-_detaliu_din_Judecata_de_Apoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Poienile Izei - detaliu din Judecata de Apoi.jpg",
+   "author": "Țetcu Mircea Rareș",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Poienile_Izei_-_detaliu_din_Judecata_de_Apoi.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/904",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 47.7,
   "distance_beijing_km": 7049.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Valea Vișeului",
+    "name_en": null,
+    "lat": 47.9146302,
+    "lon": 24.1555694,
+    "distance_km": 12.9,
+    "operator": "CFR"
+   },
+   {
+    "name": "Bocicoi",
+    "name_en": null,
+    "lat": 47.9574306,
+    "lon": 24.0233273,
+    "distance_km": 15.5,
+    "operator": "CFR"
+   },
+   {
+    "name": "Leordina",
+    "name_en": null,
+    "lat": 47.7853835,
+    "lon": 24.2587494,
+    "distance_km": 15.6,
+    "operator": "CFR"
+   },
+   {
+    "name": "Cămara Sighet",
+    "name_en": null,
+    "lat": 47.9433419,
+    "lon": 23.9093609,
+    "distance_km": 17.6,
+    "operator": "CFR"
+   },
+   {
+    "name": "Sighetu Marmației",
+    "name_en": null,
+    "lat": 47.9357987,
+    "lon": 23.8853623,
+    "distance_km": 18.1,
+    "operator": "CFR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Soare-n Maramureș",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7211689,
+   "lon": 23.9333322,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ambassador",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6534694,
+   "lon": 23.5644936,
+   "distance_km": 41.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romanița",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6298955,
+   "lon": 23.4971658,
+   "distance_km": 46.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pensiunea Lia",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.8116391,
+   "lon": 24.057874,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabana Iza",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 47.7922014,
+   "lon": 24.0880741,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RO",
   "country_zh": "罗马尼亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:02Z"
+ "updated_at": "2026-11-12T12:42:09Z"
 }

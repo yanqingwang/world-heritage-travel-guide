@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iv)(v)"
 lat: 22.1424
 lon: -80.4531
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:17Z"
 ---
 
 # 卡马圭历史中心 / Historic Centre of Camagüey

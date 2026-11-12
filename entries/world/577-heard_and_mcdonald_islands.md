@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(viii)(ix)"
 lat: -53.078333333
 lon: 73.5075
-updated_at: "2026-11-12T12:11:50Z"
+updated_at: "2026-11-12T12:42:02Z"
 ---
 
 # 赫德岛和麦克唐纳群岛 / Heard and McDonald Islands

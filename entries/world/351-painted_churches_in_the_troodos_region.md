@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(ii)(iii)(iv)"
 lat: 34.920277777
 lon: 33.095833333
-updated_at: "2026-11-12T12:11:43Z"
+updated_at: "2026-11-12T12:41:57Z"
 ---
 
 # 特罗多斯地区的彩绘教堂 / Painted Churches in the Troodos Region

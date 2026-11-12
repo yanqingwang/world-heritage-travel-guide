@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "four seasons pension",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.8930983,
+   "lon": 127.5095981,
+   "distance_km": 19.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "유심천스포츠관광호텔",
+   "name_en": "Yusimcheon Sports Tourist Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.9726088,
+   "lon": 127.4826123,
+   "distance_km": 14.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "유심천관광호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.9728011,
+   "lon": 127.4826511,
+   "distance_km": 14.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "순천각호텔",
+   "name_en": "Suncheongak Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.9558025,
+   "lon": 127.4864905,
+   "distance_km": 14.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "태종각호텔",
+   "name_en": "Taejonggak Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.9513273,
+   "lon": 127.4881833,
+   "distance_km": 15.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 154,
+ "stations": [
+  {
+   "name": "순천",
+   "name_en": "Suncheon",
+   "lat": 34.9458107,
+   "lon": 127.5040597,
+   "distance_km": 16.7,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "벌교",
+   "name_en": "Beolgyo",
+   "lat": 34.841773,
+   "lon": 127.345584,
+   "distance_km": 17.3,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "구례구",
+   "name_en": "Guryegu",
+   "lat": 35.1634776,
+   "lon": 127.4519666,
+   "distance_km": 21.6,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "조성",
+   "name_en": "Joseong",
+   "lat": 34.8066442,
+   "lon": 127.2483349,
+   "distance_km": 22.4,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "광양",
+   "name_en": "Gwangyang",
+   "lat": 34.9561451,
+   "lon": 127.587824,
+   "distance_km": 23.8,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "예당",
+   "name_en": "Yedang",
+   "lat": 34.7786269,
+   "lon": 127.2022876,
+   "distance_km": 26.9,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "명봉",
+   "name_en": "Myeongbong",
+   "lat": 34.82774,
+   "lon": 127.0755195,
+   "distance_km": 29.9,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "득량",
+   "name_en": "Deungnyang",
+   "lat": 34.7611885,
+   "lon": 127.170332,
+   "distance_km": 30.0,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "동천나루터",
+   "name_en": null,
+   "lat": 34.9432512,
+   "lon": 127.4988602,
+   "distance_km": 16.4,
+   "operator": null
+  },
+  {
+   "name": "장도선착장",
+   "name_en": null,
+   "lat": 34.8432631,
+   "lon": 127.3493073,
+   "distance_km": 17.1,
+   "operator": null
+  },
+  {
+   "name": "상진포구",
+   "name_en": null,
+   "lat": 34.8154021,
+   "lon": 127.4117995,
+   "distance_km": 21.4,
+   "operator": null
+  },
+  {
+   "name": "광양항국제여객터미널",
+   "name_en": null,
+   "lat": 34.9221011,
+   "lon": 127.697076,
+   "distance_km": 34.4,
+   "operator": null
+  },
+  {
+   "name": "망덕포구",
+   "name_en": "Mangdeok Port",
+   "lat": 34.9727173,
+   "lon": 127.7588314,
+   "distance_km": 39.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T12:34:37Z"
+}

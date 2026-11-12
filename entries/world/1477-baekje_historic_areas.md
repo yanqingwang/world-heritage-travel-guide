@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "1477"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)(iii)"
 lat: 36.461944444
 lon: 127.127222222
-updated_at: "2026-11-12T12:12:20Z"
+updated_at: "2026-11-12T12:42:20Z"
 ---
 
 # 百济遗址区 / Baekje Historic Areas
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T12:12:20Z"
 ![Temple Miruksa.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Temple%20Miruksa.jpg?width=1280)
 
 *Temple Miruksa.jpg · see Wikimedia Commons file page*
+
+![Imjonseong Fortress 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Imjonseong_Fortress_1.jpg/1280px-Imjonseong_Fortress_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Imjonseong Fortress 1.jpg · 올리브 가지 · CC BY-SA 4.0*
 
 ![Baekje Historic Areas](https://whc.unesco.org/uploads/sites/site_1477.jpg)
 
@@ -52,7 +56,22 @@ Located in the mountainous mid-western region of the Republic of Korea, this pro
 - ✈ **Cheongju International Airport (CJJ)** — 43.6 km
 - ✈ **Gunsan Airport / Gunsan Air Base (KUV)** — 77.2 km
 - ✈ **Seoul Gimpo International Airport (GMP)** — 125.5 km
+- 🚉 **공주** — 14.7 km
+- 🚉 **조치원** — 21.6 km
+- 🚉 **부강** — 22.7 km
+- 🚉 **계룡** — 24.5 km
+- 🚉 **전의** — 25.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1021.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **그랜드 플라자 호텔** — 39.9 km — star — Grand Plaza Hotel · 4★
+- **스파뷰호텔** — 48.6 km — star — 3★
+- **베스트웨스턴플러스 호텔 세종** — 12.5 km — chain — Best Western Plus
+- **Gangseojang** — 0.6 km — hotel
+- **공주 넘버25호텔** — 0.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

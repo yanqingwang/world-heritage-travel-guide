@@ -8,13 +8,13 @@ country: "UA"
 country_zh: "乌克兰"
 country_en: "Ukraine"
 unesco_id: "865"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1998"
 criteria: "(ii)(v)"
 lat: 49.84166667
 lon: 24.03194444
-updated_at: "2026-11-12T12:12:00Z"
+updated_at: "2026-11-12T12:42:08Z"
 ---
 
 # 里沃夫历史中心 / L'viv – the Ensemble of the Historic Centre
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:00Z"
 
 *Cables Lviv.jpg · see Wikimedia Commons file page*
 
-![L'viv – the Ensemble of the Historic Centre](https://whc.unesco.org/uploads/sites/site_865.jpg)
+![De-Lemberg.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*L'viv – the Ensemble of the Historic Centre · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Lemberg.ogg · Jeuwre · CC BY-SA 4.0*
+
+!["Emily Resort", 2025 рік.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ad/%22Emily_Resort%22%2C_2025_%D1%80%D1%96%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*"Emily Resort", 2025 рік.jpg · Monrowski · CC BY-SA 4.0*
+
+![00 lviv prizvyshcha.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/00_lviv_prizvyshcha.png/1280px-00_lviv_prizvyshcha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 lviv prizvyshcha.png · Monrowski · CC BY-SA 4.0*
+
+![01940 0659 (2) Czerwony Sztandar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/01940_0659_%282%29_Czerwony_Sztandar.jpg/1280px-01940_0659_%282%29_Czerwony_Sztandar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01940 0659 (2) Czerwony Sztandar.jpg · Silar · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The city of L''viv, founded in the late Middle Ages, was a flourishing administr
 - ✈ **Rzeszów-Jasionka Airport (RZE)** — 146.6 km
 - ✈ **Lublin Airport (LUZ)** — 181.3 km
 - ✈ **Košice International Airport (KSC)** — 241.2 km
+- 🚉 **Львів-Підзамче** — 1.1 km
+- 🚉 **Паркова** — 2.1 km
+- 🚉 **Сонячна** — 2.7 km
+- 🚉 **Львів-Приміський** — 2.7 km
+- 🚉 **Львів-Головний** — 2.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6998.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Готель "Леополіс"** — 0.2 km — star — 5★
+- **BANKHOTEL** — 0.8 km — star — 5★
+- **Luxury Boutique Andriivskiy** — 1.6 km — star — 4★
+- **Готель СВ** — 4.0 km — star — 4★
+- **Готель Волтер** — 2.9 km — star — Hotel Volter · 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

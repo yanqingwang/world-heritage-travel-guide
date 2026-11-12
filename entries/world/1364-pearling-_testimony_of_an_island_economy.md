@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)"
 lat: 26.25
 lon: 50.61
-updated_at: "2026-11-12T12:12:16Z"
+updated_at: "2026-11-12T12:42:18Z"
 ---
 
 # 采珠业，岛屿经济的见证 / Pearling, Testimony of an Island Economy

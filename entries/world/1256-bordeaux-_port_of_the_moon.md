@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1256"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iv)"
 lat: 44.838888888
 lon: -0.572222222
-updated_at: "2026-11-12T12:12:13Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 波尔多月亮港 / Bordeaux, Port of the Moon
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:13Z"
 
 *La Grosse Cloche (Bordeaux).JPG · see Wikimedia Commons file page*
 
-![Bordeaux, Port of the Moon](https://whc.unesco.org/uploads/sites/site_1256.jpg)
+![Bordeaux - Port 2.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4c/Bordeaux_-_Port_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Bordeaux, Port of the Moon · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bordeaux - Port 2.jpg · C.B. circa 1900-1920 · Public domain*
+
+![Bordeaux harbour (1914).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bordeaux_harbour_%281914%29.jpg/1280px-Bordeaux_harbour_%281914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bordeaux harbour (1914).jpg · Agence Rol · Public domain*
+
+![Bordeaux port de la lune 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bordeaux_port_de_la_lune_01.jpg/1280px-Bordeaux_port_de_la_lune_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bordeaux port de la lune 01.jpg · Oliwan · CC BY-SA 3.0*
+
+![Hugo d'Alesi, vue cavalière de Bordeaux, 1899, Archives de Bordeaux métropole.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hugo_d%27Alesi%2C_vue_cavali%C3%A8re_de_Bordeaux%2C_1899%2C_Archives_de_Bordeaux_m%C3%A9tropole.jpg/1280px-Hugo_d%27Alesi%2C_vue_cavali%C3%A8re_de_Bordeaux%2C_1899%2C_Archives_de_Bordeaux_m%C3%A9tropole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hugo d'Alesi, vue cavalière de Bordeaux, 1899, Archives de Bordeaux métropole.jpg · Hugo d’Alesi · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Le centre historique de cette ville portuaire située dans le sud-ouest de la Fr
 - ✈ **Bordeaux–Mérignac Airport (BOD)** — 11.3 km
 - ✈ **Bergerac Dordogne-Périgord airport (EGC)** — 86.0 km
 - ✈ **La Rochelle Île de Ré Airport (LRH)** — 156.7 km
+- 🚉 **Bordeaux-Saint-Jean** — 2.0 km
+- 🚉 **Caudéran-Mérignac** — 4.4 km
+- 🚉 **Mérignac Arlac** — 4.5 km
+- 🚉 **Bègles** — 4.6 km
+- 🚉 **Pessac** — 6.0 km
+- ⛴ **Port Bastide** — 1.7 km
+- ⛴ **Cité du Vin** — 3.1 km
+- ⛴ **GPMB - Bassens Aval** — 8.3 km
+- ⛴ **Port de Lamarque** — 30.5 km
+- ⛴ **Bac de Blaye-Lamarque** — 32.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8692.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **InterContinental Bordeaux** — 0.4 km — star — 5★ · InterContinental
+- **Hôtel des Quinconces** — 1.0 km — star — 5★
+- **Hôtel Burdigala** — 1.1 km — star — 5★ · Inwood Hotels
+- **YNDO** — 1.1 km — star — 5★
+- **Best Western Premier** — 0.5 km — star — 4★ · Best Western Premier
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

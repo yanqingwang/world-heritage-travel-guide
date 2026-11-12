@@ -2,7 +2,7 @@
  "id": "wh-1542",
  "unesco_id": "1542",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 572,
  "popularity_score": 9182,
  "country": "BH",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1542.jpg",
-   "title": "Dilmun Burial Mounds",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1542",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/A%27ali_Burial_Mounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A'ali Burial Mounds.jpg",
+   "author": "Step",
+   "license": "CC BY 2.0",
+   "credit": "Flickr : A'ali Burial Mounds",
+   "source": "https://commons.wikimedia.org/wiki/File:A%27ali_Burial_Mounds.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bahrein-site_1542_0001.jpg/1280px-Bahrein-site_1542_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bahrein-site 1542 0001.jpg",
+   "author": "© Think Heritage Author: Melanie Münzner",
+   "license": "CC BY-SA 1.0",
+   "credit": "Unesco",
+   "source": "https://commons.wikimedia.org/wiki/File:Bahrein-site_1542_0001.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bahrein-site_1542_0002.jpg/1280px-Bahrein-site_1542_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bahrein-site 1542 0002.jpg",
+   "author": "© Think Heritage Author: Melanie Münzner",
+   "license": "CC BY-SA 1.0",
+   "credit": "Unesco",
+   "source": "https://commons.wikimedia.org/wiki/File:Bahrein-site_1542_0002.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahrein-site_1542_0005.jpg/1280px-Bahrein-site_1542_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bahrein-site 1542 0005.jpg",
+   "author": "© Think Heritage Author: Melanie Münzner",
+   "license": "CC BY-SA 1.0",
+   "credit": "Unesco",
+   "source": "https://commons.wikimedia.org/wiki/File:Bahrein-site_1542_0005.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1542",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 18.1,
   "distance_beijing_km": 6185.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "واتر جاردن سيتي",
+    "name_en": "Water Garden City",
+    "lat": 26.2417424,
+    "lon": 50.5535797,
+    "distance_km": 11.0,
+    "operator": null
+   },
+   {
+    "name": "هاربر هاوس",
+    "name_en": "Financial Harbour",
+    "lat": 26.239446,
+    "lon": 50.5725371,
+    "distance_km": 11.6,
+    "operator": null
+   },
+   {
+    "name": "الساحل الشرقي",
+    "name_en": "East Coast",
+    "lat": 26.2312172,
+    "lon": 50.600281,
+    "distance_km": 12.6,
+    "operator": null
+   },
+   {
+    "name": "فندق الفورسيزونز",
+    "name_en": "Four Seasons Hotel",
+    "lat": 26.2466291,
+    "lon": 50.5825554,
+    "distance_km": 12.8,
+    "operator": null
+   },
+   {
+    "name": "رصيف دلما الافنيوز",
+    "name_en": "Delma Avenuse",
+    "lat": 26.2481786,
+    "lon": 50.584966,
+    "distance_km": 13.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "محطة قطار الدمام",
+    "name_en": "Dammam Railway Station",
+    "lat": 26.4097444,
+    "lon": 50.126308,
+    "distance_km": 48.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Bahrain City Centre Hotel & Residences",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 26.2355407,
+   "lon": 50.5555807,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Algosaibi Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 26.3073744,
+   "lon": 50.2201439,
+   "distance_km": 34.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Moevenpick Al Khobar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Mövenpick",
+   "lat": 26.3222693,
+   "lon": 50.2170348,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "voco al Khobar, an IHG Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "voco",
+   "lat": 26.2863322,
+   "lon": 50.1866163,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hyatt Al Khobar Hotel and Residences",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Grand Hyatt",
+   "lat": 26.290666,
+   "lon": 50.1780802,
+   "distance_km": 36.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BH",
   "country_zh": "巴林",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:22Z"
+ "updated_at": "2026-11-12T12:42:22Z"
 }

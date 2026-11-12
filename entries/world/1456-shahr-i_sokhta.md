@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 30.595277777
 lon: 61.331944444
-updated_at: "2026-11-12T12:12:19Z"
+updated_at: "2026-11-12T12:42:20Z"
 ---
 
 # 被焚之城 / Shahr-i Sokhta

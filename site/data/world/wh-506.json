@@ -2,7 +2,7 @@
  "id": "wh-506",
  "unesco_id": "506",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 591,
  "popularity_score": 8327,
  "country": "MR",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_506.jpg",
-   "title": "Banc d'Arguin National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/506",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Arguin_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Arguin map.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Arguin_map.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Banc_d%27Arguin_National_Park_banner.jpg/1280px-Banc_d%27Arguin_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Banc d'Arguin National Park banner.jpg",
+   "author": "Kokopelado",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Banc_d%27Arguin_National_Park_banner.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bancdarguin_map_lg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bancdarguin map lg.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Bancdarguin_map_lg.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bancdarguin_oli_2019362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bancdarguin oli 2019362.jpg",
+   "author": "NASA Earth Observatory",
+   "license": "Public domain",
+   "credit": "https://earthobservatory.nasa.gov/images/146600/beautiful-banc-darguin-national-park?src=eoa-iotd",
+   "source": "https://commons.wikimedia.org/wiki/File:Bancdarguin_oli_2019362.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/506",
@@ -105,7 +129,30 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Iwik",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.173402,
+   "lon": -15.9741871,
+   "distance_km": 15.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel D'Or",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.151448,
+   "lon": -15.965962,
+   "distance_km": 17.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MR",
   "country_zh": "毛里塔尼亚",
@@ -177,5 +224,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:48Z"
+ "updated_at": "2026-11-12T12:42:00Z"
 }

@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "532"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1990"
 criteria: "(i)(ii)(iv)"
 lat: 52.4
 lon: 13.033333333
-updated_at: "2026-11-12T12:11:48Z"
+updated_at: "2026-11-12T12:42:01Z"
 ---
 
 # 波兹坦与柏林的宫殿与庭园 / Palaces and Parks of Potsdam and Berlin
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:48Z"
 
 *Park Sanssouci, Belvedere auf dem Klausberg, Schloss Sanssouci, Neues Palais, Orangerieschloss, Universität Potsdam, Potsdam, Luftaufnahme, Vogelperspektive, aerial view, 1.jpg · see Wikimedia Commons file page*
 
-![Palaces and Parks of Potsdam and Berlin](https://whc.unesco.org/uploads/sites/site_532.jpg)
+![Pfingstberg 1862.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/Pfingstberg_1862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Palaces and Parks of Potsdam and Berlin · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Pfingstberg 1862.jpg · Johann Heinrich Gustav Meyer after, in order and signed by Peter Joseph Lenné · CC BY-SA 3.0*
+
+![Franz Xaver Sandmann - Potsdam vom Brauhausberg aus geseh'n.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Franz_Xaver_Sandmann_-_Potsdam_vom_Brauhausberg_aus_geseh%27n.jpg/1280px-Franz_Xaver_Sandmann_-_Potsdam_vom_Brauhausberg_aus_geseh%27n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Franz Xaver Sandmann - Potsdam vom Brauhausberg aus geseh'n.jpg · František Xaver Sandmann · Public domain*
+
+![Belvedere Pfingstberg Arnim 1856.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Belvedere_Pfingstberg_Arnim_1856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Belvedere Pfingstberg Arnim 1856.jpg · Ferdinand von Arnim · Public domain*
+
+![Belvedere - panoramio (28).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_%2828%29.jpg/1280px-Belvedere_-_panoramio_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Belvedere - panoramio (28).jpg · Air-Fox · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Schlösser und Parks von Potsdam und Berlin ist eine von der UNESCO gelistete St
 - ✈ **Berlin Brandenburg Airport (BER)** — 32.1 km
 - ✈ **Leipzig/Halle Airport (LEJ)** — 122.0 km
 - ✈ **Dresden Airport (DRS)** — 149.6 km
+- 🚉 **Potsdam Park Sanssouci** — 1.5 km
+- 🚉 **Potsdam Hauptbahnhof** — 2.5 km
+- 🚉 **Babelsberg** — 4.2 km
+- 🚉 **Golm** — 4.3 km
+- 🚉 **Potsdam Medienstadt Babelsberg** — 6.3 km
+- ⛴ **Neustädter Havelbucht - Sanssouci** — 0.9 km
+- ⛴ **Potsdam West - Arcona Hotel** — 1.2 km
+- ⛴ **Auf dem Kiewitt/Fähre** — 1.3 km
+- ⛴ **Hermannswerder/Fähre** — 1.5 km
+- ⛴ **Inselhotel Potsdam-Hermannswerder** — 2.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7357.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Waldorf Astoria Berlin** — 23.5 km — star — 5★ · Waldorf Astoria
+- **Palace Berlin** — 23.8 km — star — 5★
+- **SO/ Berlin Das Stue** — 24.5 km — star — 5★
+- **Grand Hyatt Berlin** — 25.9 km — star — 5★ · Grand Hyatt
+- **The Ritz-Carlton** — 26.2 km — star — 5★ · The Ritz-Carlton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

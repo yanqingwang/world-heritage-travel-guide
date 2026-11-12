@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 49.875433345
 lon: 8.66650397
-updated_at: "2026-11-12T12:12:25Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 达姆施塔特的玛蒂尔德高地 / Mathildenhöhe Darmstadt

@@ -2,7 +2,7 @@
  "id": "wh-304",
  "unesco_id": "304",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 532,
  "popularity_score": 10548,
  "country": "CA",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_304.jpg",
-   "title": "Canadian Rocky Mountain Parks",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/304",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/1280px-%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ",Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg",
+   "author": "Khoshhat",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/.Bow_Valley_%26_River.jpg/1280px-.Bow_Valley_%26_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ".Bow Valley & River.jpg",
+   "author": "Khoshhat",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:.Bow_Valley_%26_River.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/1280px-.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ".Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg",
+   "author": "Khoshhat",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/0R5A3549.jpg/1280px-0R5A3549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0R5A3549.jpg",
+   "author": "Akinipeters",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0R5A3549.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/304",
@@ -103,9 +127,74 @@
   "nearest_airport_km": 175.1,
   "distance_beijing_km": 8748.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Lake Louise",
+    "name_en": null,
+    "lat": 51.4294526,
+    "lon": -116.1882055,
+    "distance_km": 20.2,
+    "operator": "Rocky Mountaineer"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Fairmont Chateau Lake Louise",
+   "name_en": null,
+   "stars": null,
+   "brand": "Fairmont",
+   "lat": 51.4176815,
+   "lon": -116.2165146,
+   "distance_km": 18.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 51.3154174,
+   "lon": -116.9745472,
+   "distance_km": 36.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Mountainview Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 51.3110162,
+   "lon": -116.9727954,
+   "distance_km": 36.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cathedral mountain lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.4225825,
+   "lon": -116.4356387,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Truffle Pigs Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.3945562,
+   "lon": -116.4900232,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -178,5 +267,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:42Z"
+ "updated_at": "2026-11-12T12:41:56Z"
 }

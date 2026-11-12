@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Уймонская жемчужина",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.1833006,
+   "lon": 85.9825517,
+   "distance_km": 31.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Глобус",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.73648,
+   "lon": 86.157951,
+   "distance_km": 32.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Харлей",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7466257,
+   "lon": 86.139269,
+   "distance_km": 32.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Кок-Бору",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7500488,
+   "lon": 86.1352561,
+   "distance_km": 32.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Лидия",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.7511556,
+   "lon": 86.1339239,
+   "distance_km": 33.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 16,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T12:31:07Z"
+}

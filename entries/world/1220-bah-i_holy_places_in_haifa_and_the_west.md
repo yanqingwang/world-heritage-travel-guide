@@ -8,13 +8,13 @@ country: "IL"
 country_zh: "以色列"
 country_en: "Israel"
 unesco_id: "1220"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(vi)"
 lat: 32.81378
 lon: 34.98655
-updated_at: "2026-11-12T12:12:12Z"
+updated_at: "2026-11-12T12:42:16Z"
 ---
 
 # 海法和西加利利的巴海圣地 / Bahá’i Holy Places in Haifa and the Western Galilee
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:12:12Z"
 ![Bahá'í gardens by David Shankbone.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Bah%C3%A1%27%C3%AD%20gardens%20by%20David%20Shankbone.jpg?width=1280)
 
 *Bahá'í gardens by David Shankbone.jpg · see Wikimedia Commons file page*
+
+![Arc Blds 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Arc_Blds_01.jpg/1280px-Arc_Blds_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arc Blds 01.jpg · Kaath9 · CC0*
+
+![Baha’i Terrace, Haifa, Israel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Baha%E2%80%99i_Terrace%2C_Haifa%2C_Israel.jpg/1280px-Baha%E2%80%99i_Terrace%2C_Haifa%2C_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Baha’i Terrace, Haifa, Israel.jpg · . Ray in Manila · CC BY 2.0*
+
+![Israel-04972 - Shrine Gardens (33370852164).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Israel-04972_-_Shrine_Gardens_%2833370852164%29.jpg/1280px-Israel-04972_-_Shrine_Gardens_%2833370852164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Israel-04972 - Shrine Gardens (33370852164).jpg · Dennis G. Jarvis · CC BY-SA 2.0*
 
 ![Bahá’i Holy Places in Haifa and the Western Galilee](https://whc.unesco.org/uploads/sites/site_1220.jpg)
 
@@ -46,7 +58,24 @@ The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their p
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 5.4 km
 - ✈ **Ben Gurion International Airport (TLV)** — 89.7 km
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 121.2 km
+- 🚉 **מסדה** — 0.7 km
+- 🚉 **בי"ח בני ציון** — 0.8 km
+- 🚉 **הנביאים** — 0.8 km
+- 🚉 **מרכז הכרמל** — 1.0 km
+- 🚉 **הדר עירייה** — 1.0 km
+- ⛴ **dfh** — 3.3 km
+- ⛴ **Haifa-Akko Ferry** — 14.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7080.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **פרנק** — 23.7 km — star — Frank · 3★
+- **Bar-On Holiday Home** — 24.3 km — chain — Bar-On Holiday Home
+- **דן כרמל** — 0.4 km — hotel — Dan Carmel
+- **נוף** — 0.6 km — hotel — Nof
+- **Bet- Shalom** — 0.7 km — hotel — Bet- Shalom
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

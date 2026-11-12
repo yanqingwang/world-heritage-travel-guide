@@ -2,7 +2,7 @@
  "id": "wh-1697",
  "unesco_id": "1697",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 575,
  "popularity_score": 9133,
  "country": "RW",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1697.jpg",
-   "title": "Nyungwe National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1697",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ibiti_birebire_bya_Nyungwe.jpg/1280px-Ibiti_birebire_bya_Nyungwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ibiti birebire bya Nyungwe.jpg",
+   "author": "Alain Vick",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibiti_birebire_bya_Nyungwe.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Nyungwe_rahvuspark_Landsat_19jul86.jpg/1280px-Nyungwe_rahvuspark_Landsat_19jul86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Nyungwe rahvuspark Landsat 19jul86.jpg",
+   "author": "Earth Observatory",
+   "license": "Public domain",
+   "credit": "Earth Observatory",
+   "source": "https://commons.wikimedia.org/wiki/File:Nyungwe_rahvuspark_Landsat_19jul86.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/A_cote_de_la_foret_de_Nyungwe_at_Cyangugu%2C_cfrt_0783095816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A cote de la foret de Nyungwe at Cyangugu, cfrt 0783095816.jpg",
+   "author": "Umuhozagentille1994",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_cote_de_la_foret_de_Nyungwe_at_Cyangugu%2C_cfrt_0783095816.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/A_guide_leading_a_hike_through_Nyungwe_National_Park.jpg/1280px-A_guide_leading_a_hike_through_Nyungwe_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A guide leading a hike through Nyungwe National Park.jpg",
+   "author": "travelmag.com",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/113306963@N05/41962410851/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_guide_leading_a_hike_through_Nyungwe_National_Park.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1697",
@@ -101,10 +125,91 @@
   ],
   "nearest_airport_km": 41.5,
   "distance_beijing_km": 9986.4,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Port de Lushindi",
+    "name_en": null,
+    "lat": -2.2497785,
+    "lon": 29.0184288,
+    "distance_km": 42.1,
+    "operator": null
+   },
+   {
+    "name": "Port de Kashofu",
+    "name_en": null,
+    "lat": -2.2242488,
+    "lon": 29.0284925,
+    "distance_km": 43.6,
+    "operator": null
+   },
+   {
+    "name": "Ihusi Express – speedboat to Goma",
+    "name_en": null,
+    "lat": -2.4886269,
+    "lon": 28.8482386,
+    "distance_km": 47.7,
+    "operator": "Ihusi Express"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Angel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": -2.5010516,
+   "lon": 28.8560319,
+   "distance_km": 46.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nyungwe Nziza Eco-Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.5308113,
+   "lon": 29.4084453,
+   "distance_km": 14.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nyungwe Ecovillage",
+   "name_en": "Nyungwe Eco Village",
+   "stars": null,
+   "brand": null,
+   "lat": -2.5264773,
+   "lon": 29.4146223,
+   "distance_km": 15.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "One&Only Nyungwe House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.4473184,
+   "lon": 29.1042638,
+   "distance_km": 21.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gisakura Guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.4401035,
+   "lon": 29.0925168,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RW",
   "country_zh": "卢旺达",
@@ -178,5 +283,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:29Z"
+ "updated_at": "2026-11-12T12:42:24Z"
 }

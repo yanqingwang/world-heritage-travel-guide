@@ -2,7 +2,7 @@
  "id": "wh-153",
  "unesco_id": "153",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 583,
  "popularity_score": 8624,
  "country": "SN",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_153.jpg",
-   "title": "Niokolo-Koba National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/153",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/A_curious_and_wet_Guinea_baboon_in_the_wild.jpg/1280px-A_curious_and_wet_Guinea_baboon_in_the_wild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A curious and wet Guinea baboon in the wild.jpg",
+   "author": "Vincent Niochet",
+   "license": "CC BY-SA 4.0",
+   "credit": "https://www.flickr.com/photos/203243927@N02/54687375459/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_curious_and_wet_Guinea_baboon_in_the_wild.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Abeille1A.jpg/1280px-Abeille1A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abeille1A.jpg",
+   "author": "Baliou",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abeille1A.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Abreuvoir_%C3%A0_la_r%C3%A9serve_de_Guembeul.jpg/1280px-Abreuvoir_%C3%A0_la_r%C3%A9serve_de_Guembeul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abreuvoir à la réserve de Guembeul.jpg",
+   "author": "Vieille Mère",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abreuvoir_%C3%A0_la_r%C3%A9serve_de_Guembeul.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Antilope_au_parc_national_Niokolokoba_du_S%C3%A9n%C3%A9gal_06.jpg/1280px-Antilope_au_parc_national_Niokolokoba_du_S%C3%A9n%C3%A9gal_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Antilope au parc national Niokolokoba du Sénégal 06.jpg",
+   "author": "Yvonneberthe",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Antilope_au_parc_national_Niokolokoba_du_S%C3%A9n%C3%A9gal_06.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/153",
@@ -106,7 +130,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Keur Annick Hippo-lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.8419467,
+   "lon": -12.3590671,
+   "distance_km": 47.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SN",
   "country_zh": "塞内加尔",
@@ -178,5 +214,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:36Z"
+ "updated_at": "2026-11-12T12:41:54Z"
 }

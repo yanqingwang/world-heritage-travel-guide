@@ -2,7 +2,7 @@
  "id": "wh-726",
  "unesco_id": "726",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 571,
  "popularity_score": 9195,
  "country": "IT",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_726.jpg",
-   "title": "Historic Centre of Naples",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/726",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_pilgrimage_to_Italy_-_an_account_of_a_visit_to_Brindisi%2C_Naples%2C_Mount_Vesuvius%2C_Pompeii%2C_Rome%2C_Florence%2C_Venice_and_Milan_%28IA_pilgrimagetoital00smitiala%29.pdf/page1-500px-A_pilgrimage_to_Italy_-_an_account_of_a_visit_to_Brindisi%2C_Naples%2C_Mount_Vesuvius%2C_Pompeii%2C_Rome%2C_Florence%2C_Venice_and_Milan_%28IA_pilgrimagetoital00smitiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A pilgrimage to Italy - an account of a visit to Brindisi, Naples, Mount Vesuvius, Pompeii, Rome, Florence, Venice and Milan (IA pilgrimagetoital00smitiala).pdf",
+   "author": "Smith, James, Minister of St. George's-in-the-West",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: pilgrimagetoital00smitiala https://archive.org/download/pilgrimagetoital00smitiala/pilgrimagetoital00smitiala.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:A_pilgrimage_to_Italy_-_an_account_of_a_visit_to_Brindisi%2C_Naples%2C_Mount_Vesuvius%2C_Pompeii%2C_Rome%2C_Florence%2C_Venice_and_Milan_%28IA_pilgrimagetoital00smitiala%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Galer%C3%ADa_Humberto_I%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_157-159_HDR.jpg/1280px-Galer%C3%ADa_Humberto_I%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_157-159_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Galería Humberto I, Nápoles, Italia, 2023-03-25, DD 157-159 HDR.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_Humberto_I%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_157-159_HDR.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/House_in_historic_Centre_of_Naples_%281%29.jpg/1280px-House_in_historic_Centre_of_Naples_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "House in historic Centre of Naples (1).jpg",
+   "author": "Vitold Muratov",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:House_in_historic_Centre_of_Naples_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/NapoliMaschioAngioinoIngresso.jpg/1280px-NapoliMaschioAngioinoIngresso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "NapoliMaschioAngioinoIngresso.jpg",
+   "author": "MM",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:NapoliMaschioAngioinoIngresso.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/726",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 4.5,
   "distance_beijing_km": 8077.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Porta di Massa",
+    "name_en": null,
+    "lat": 40.8430277,
+    "lon": 14.2610723,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Molo Crociere Napoli",
+    "name_en": "Naples Cruise Port",
+    "lat": 40.8381904,
+    "lon": 14.2602186,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "Pier 11",
+    "name_en": null,
+    "lat": 40.8379737,
+    "lon": 14.2555562,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Pier 10",
+    "name_en": null,
+    "lat": 40.8379191,
+    "lon": 14.2552074,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Molo Angioino",
+    "name_en": null,
+    "lat": 40.8376704,
+    "lon": 14.2572892,
+    "distance_km": 1.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Napoli Porta Nolana",
+    "name_en": null,
+    "lat": 40.849165,
+    "lon": 14.2691781,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Napoli Piazza Garibaldi",
+    "name_en": null,
+    "lat": 40.8524495,
+    "lon": 14.270471,
+    "distance_km": 0.7,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Napoli Piazza Cavour",
+    "name_en": null,
+    "lat": 40.8551766,
+    "lon": 14.2545779,
+    "distance_km": 0.8,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Napoli Garibaldi",
+    "name_en": null,
+    "lat": 40.8510432,
+    "lon": 14.2732815,
+    "distance_km": 0.9,
+    "operator": "Ente Autonomo Volturno"
+   },
+   {
+    "name": "Napoli Centrale",
+    "name_en": "Naples",
+    "lat": 40.8530238,
+    "lon": 14.2731399,
+    "distance_km": 0.9,
+    "operator": "Rete Ferroviaria Italiana;Grandi Stazioni"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "De Bonart Naples, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 40.8368549,
+   "lon": 14.22946,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Corallo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6351832,
+   "lon": 14.3906845,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Cocumella",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6324947,
+   "lon": 14.3900307,
+   "distance_km": 26.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel La Sonrisa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.7134026,
+   "lon": 14.5259076,
+   "distance_km": 26.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel La Pace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.62458,
+   "lon": 14.4010873,
+   "distance_km": 27.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:11:55Z"
+ "updated_at": "2026-11-12T12:42:04Z"
 }

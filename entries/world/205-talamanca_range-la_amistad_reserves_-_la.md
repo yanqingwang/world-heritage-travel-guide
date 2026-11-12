@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 9.4069
 lon: -82.9386
-updated_at: "2026-11-12T12:11:39Z"
+updated_at: "2026-11-12T12:41:55Z"
 ---
 
 # 塔拉曼卡仰芝－拉阿米斯泰德保护区 / Talamanca Range-La Amistad Reserves / La Amistad National Park

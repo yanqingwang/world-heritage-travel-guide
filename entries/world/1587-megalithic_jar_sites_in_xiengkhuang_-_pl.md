@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)"
 lat: 19.431111111
 lon: 103.1525
-updated_at: "2026-11-12T12:12:24Z"
+updated_at: "2026-11-12T12:42:23Z"
 ---
 
 # 川圹巨石缸遗址-石缸平原 / Megalithic Jar Sites in Xiengkhuang – Plain of Jars

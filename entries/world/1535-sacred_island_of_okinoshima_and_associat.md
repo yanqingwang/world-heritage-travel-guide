@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1535"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(iii)"
 lat: 34.245
 lon: 130.1056
-updated_at: "2026-11-12T12:12:22Z"
+updated_at: "2026-11-12T12:42:21Z"
 ---
 
 # 「神宿之岛」宗像·冲之岛及相关遗产群 / Sacred Island of Okinoshima and Associated Sites in the Munakata Region
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T12:12:22Z"
 ![Munakata taisya honden.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Munakata%20taisya%20honden.JPG?width=1280)
 
 *Munakata taisya honden.JPG · see Wikimedia Commons file page*
+
+![Okinoshima Munakata location.en.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Okinoshima_Munakata_location.en.svg/1280px-Okinoshima_Munakata_location.en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Okinoshima Munakata location.en.svg · Immanuelle · CC BY-SA 4.0*
+
+![Okinoshima Munakata location.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Okinoshima_Munakata_location.svg/1280px-Okinoshima_Munakata_location.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Okinoshima Munakata location.svg · OpenStreetMap contributors, and Pekachu · ODbL*
+
+![Okinoshima Munakata theology.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Okinoshima_Munakata_theology.svg/1280px-Okinoshima_Munakata_theology.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Okinoshima Munakata theology.svg · Immanuelle · CC BY-SA 4.0*
 
 ![Sacred Island of Okinoshima and Associated Sites in the Munakata Region](https://whc.unesco.org/uploads/sites/site_1535.jpg)
 
@@ -52,7 +64,17 @@ Located 60 km off the western coast of Kyushu island, the island of Okinoshima i
 - ✈ **Iki Airport (IKI)** — 62.6 km
 - ✈ **Tsushima Airport (TSJ)** — 71.3 km
 - ✈ **Fukuoka Airport (FUK)** — 79.9 km
+- ⛴ **小呂島市営渡船場** — 42.9 km
+- ⛴ **小呂島** — 42.9 km
+- ⛴ **小呂島漁港** — 43.2 km
+- ⛴ **大島港フェリーターミナル** — 49.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1366.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **三国屋旅館** — 48.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

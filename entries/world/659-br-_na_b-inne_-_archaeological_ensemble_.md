@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iii)(iv)"
 lat: 53.69284
 lon: -6.44932
-updated_at: "2026-11-12T12:11:52Z"
+updated_at: "2026-11-12T12:42:03Z"
 ---
 
 # 博恩河河曲考古遗址群 / Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne

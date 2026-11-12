@@ -8,13 +8,13 @@ country: "CO"
 country_zh: "哥伦比亚"
 country_en: "Colombia"
 unesco_id: "744"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iii)"
 lat: 1.884444444
 lon: -76.296111111
-updated_at: "2026-11-12T12:11:55Z"
+updated_at: "2026-11-12T12:42:05Z"
 ---
 
 # 圣奥古斯丁考古公园 / San Agustín Archaeological Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:11:55Z"
 
 *Parque Arqueológico de San Agustín-Mesita A 12.jpg · see Wikimedia Commons file page*
 
-![San Agustín Archaeological Park](https://whc.unesco.org/uploads/sites/site_744.jpg)
+![A scupture in front of a tumulus of San Agustin.JPG](https://upload.wikimedia.org/wikipedia/commons/b/ba/A_scupture_in_front_of_a_tumulus_of_San_Agustin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*San Agustín Archaeological Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A scupture in front of a tumulus of San Agustin.JPG · 作者作成（墳丘墓の一部のスケッチ） · CC BY-SA 3.0*
+
+![Arqueológico Parque de San Agustin.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/Arqueol%C3%B3gico_Parque_de_San_Agustin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arqueológico Parque de San Agustin.jpg · Goelette.Cardabela · CC0*
+
+![Ascenso Al Alto del Lavapatas San Agustín Huila..jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ascenso_Al_Alto_del_Lavapatas_San_Agust%C3%ADn_Huila..jpg/1280px-Ascenso_Al_Alto_del_Lavapatas_San_Agust%C3%ADn_Huila..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ascenso Al Alto del Lavapatas San Agustín Huila..jpg · JuanCamiloF512 · CC BY-SA 3.0*
+
+![Bosque San agustin.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a3/Bosque_San_agustin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bosque San agustin.jpg · Leidy danielanr · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ En este parque se yergue, en medio de un paisaje natural impresionante, el mayor
 - ✈ **Gustavo Artunduaga Paredes Airport (FLA)** — 87.7 km
 - ✈ **Antonio Nariño Airport (PSO)** — 123.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **15098.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Huaka-yo** — 0.5 km — hotel
+- **Finca Cometa** — 1.5 km — hotel
+- **Cabañas y Camping Buena Vista** — 1.6 km — hotel
+- **The Waterfalls Permaculture Farm** — 1.6 km — hotel
+- **Hotel Estorake** — 1.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

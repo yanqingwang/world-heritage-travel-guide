@@ -8,13 +8,13 @@ country: "TD"
 country_zh: "乍得"
 country_en: "Chad"
 unesco_id: "1400"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2012"
 criteria: "(vii)"
 lat: 18.98333333
 lon: 20.66666667
-updated_at: "2026-11-12T12:12:17Z"
+updated_at: "2026-11-12T12:42:19Z"
 ---
 
 # 乌尼昂加湖泊群 / Lakes of Ounianga
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T12:12:17Z"
 
 *Ounianga Serir.jpg · see Wikimedia Commons file page*
 
-![Lakes of Ounianga](https://whc.unesco.org/uploads/sites/site_1400.jpg)
+![Ajous Lake (23903561003).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Ajous_Lake_%2823903561003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Lakes of Ounianga · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ajous Lake (23903561003).jpg · David Stanley from Nanaimo, Canada · CC BY 2.0*
+
+![Lac Katam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lac_Katam.jpg/1280px-Lac_Katam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lac Katam.jpg · Jacques Taberlet · CC BY-SA 3.0*
+
+![Lac yoa1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lac_yoa1.jpg/1280px-Lac_yoa1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lac yoa1.jpg · Jacques Taberlet · CC BY-SA 3.0*
+
+![Lac Yoa2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lac_Yoa2.jpg/1280px-Lac_Yoa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lac Yoa2.jpg · Jacques Taberlet · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,6 +64,12 @@ Le site comprend 18 lacs interconnectés, situés dans le désert du Sahara, dan
 - ✈ **Kufra Airport (AKF)** — 639.2 km
 - ✈ **El Fasher Airport (ELF)** — 776.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8569.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

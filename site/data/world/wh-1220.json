@@ -2,7 +2,7 @@
  "id": "wh-1220",
  "unesco_id": "1220",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 511,
  "popularity_score": 11269,
  "country": "IL",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Bah%C3%A1%27%C3%AD%20gardens%20by%20David%20Shankbone.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Arc_Blds_01.jpg/1280px-Arc_Blds_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arc Blds 01.jpg",
+   "author": "Kaath9",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arc_Blds_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Baha%E2%80%99i_Terrace%2C_Haifa%2C_Israel.jpg/1280px-Baha%E2%80%99i_Terrace%2C_Haifa%2C_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Baha’i Terrace, Haifa, Israel.jpg",
+   "author": ". Ray in Manila",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/rayinmanila/52056060199/",
+   "source": "https://commons.wikimedia.org/wiki/File:Baha%E2%80%99i_Terrace%2C_Haifa%2C_Israel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Israel-04972_-_Shrine_Gardens_%2833370852164%29.jpg/1280px-Israel-04972_-_Shrine_Gardens_%2833370852164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Israel-04972 - Shrine Gardens (33370852164).jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "credit": "Israel-04972 - Shrine Gardens",
+   "source": "https://commons.wikimedia.org/wiki/File:Israel-04972_-_Shrine_Gardens_%2833370852164%29.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1220.jpg",
@@ -102,10 +126,124 @@
   ],
   "nearest_airport_km": 5.4,
   "distance_beijing_km": 7080.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "dfh",
+    "name_en": "dfh",
+    "lat": 32.8237727,
+    "lon": 35.0201013,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Haifa-Akko Ferry",
+    "name_en": null,
+    "lat": 32.9190782,
+    "lon": 35.0705478,
+    "distance_km": 14.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "מסדה",
+    "name_en": "Masada",
+    "lat": 32.8096602,
+    "lon": 34.9923834,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "בי\"ח בני ציון",
+    "name_en": "Bney Zion Hospital",
+    "lat": 32.8075717,
+    "lon": 34.9904997,
+    "distance_km": 0.8,
+    "operator": null
+   },
+   {
+    "name": "הנביאים",
+    "name_en": "HaNevi'im",
+    "lat": 32.8126212,
+    "lon": 34.9950428,
+    "distance_km": 0.8,
+    "operator": null
+   },
+   {
+    "name": "מרכז הכרמל",
+    "name_en": "Carmel Center",
+    "lat": 32.8046778,
+    "lon": 34.9879087,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "הדר עירייה",
+    "name_en": "Hadar – City Hall",
+    "lat": 32.8146561,
+    "lon": 34.9973112,
+    "distance_km": 1.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "פרנק",
+   "name_en": "Frank",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.0084377,
+   "lon": 35.0907448,
+   "distance_km": 23.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bar-On Holiday Home",
+   "name_en": "Bar-On Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 33.0041351,
+   "lon": 35.1152543,
+   "distance_km": 24.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "דן כרמל",
+   "name_en": "Dan Carmel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.8100043,
+   "lon": 34.984995,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "נוף",
+   "name_en": "Nof",
+   "stars": null,
+   "brand": null,
+   "lat": 32.8080635,
+   "lon": 34.9865493,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bet- Shalom",
+   "name_en": "Bet- Shalom",
+   "stars": null,
+   "brand": null,
+   "lat": 32.8072883,
+   "lon": 34.9860415,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IL",
   "country_zh": "以色列",
@@ -178,5 +316,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:12Z"
+ "updated_at": "2026-11-12T12:42:16Z"
 }

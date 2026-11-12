@@ -2,7 +2,7 @@
  "id": "wh-1751",
  "unesco_id": "1751",
  "dataset": "unesco",
- "tier": "basic",
+ "tier": "full",
  "popularity_rank": 506,
  "popularity_score": 11430,
  "country": "US",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1751.jpg",
-   "title": "Okefenokee National Wildlife Refuge",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1751",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/1983_Okefenokee_NWR_-_DPLA_-_7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf/page1-1280px-1983_Okefenokee_NWR_-_DPLA_-_7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1983 Okefenokee NWR - DPLA - 7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf",
+   "author": "Department of the Interior. U.S. Fish and Wildlife Service. Office of the Associate Director for Fish and Wildlife Manag",
+   "license": "Public domain",
+   "credit": "This file was contributed to Wikimedia Commons by National Archives at College Park - Textual Reference as part of a cooperation project. The donation was facil",
+   "source": "https://commons.wikimedia.org/wiki/File:1983_Okefenokee_NWR_-_DPLA_-_7cd1d08efbe9ffd239c4b5f1905a2ce7.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_Fire_Management_%2834254536292%29.jpg/1280px-2017_Fire_Management_%2834254536292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2017 Fire Management (34254536292).jpg",
+   "author": "USFWS/Southeast",
+   "license": "Public domain",
+   "credit": "DSC_8132",
+   "source": "https://commons.wikimedia.org/wiki/File:2017_Fire_Management_%2834254536292%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2017_Fire_Management_%2834254538052%29.jpg/1280px-2017_Fire_Management_%2834254538052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2017 Fire Management (34254538052).jpg",
+   "author": "USFWS/Southeast",
+   "license": "Public domain",
+   "credit": "DSC_8264",
+   "source": "https://commons.wikimedia.org/wiki/File:2017_Fire_Management_%2834254538052%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2017_Fire_Management_%2834254539292%29.jpg/1280px-2017_Fire_Management_%2834254539292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2017 Fire Management (34254539292).jpg",
+   "author": "USFWS/Southeast",
+   "license": "Public domain",
+   "credit": "DSC_8327",
+   "source": "https://commons.wikimedia.org/wiki/File:2017_Fire_Management_%2834254539292%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1751",
@@ -102,9 +126,82 @@
   "nearest_airport_km": 51.2,
   "distance_beijing_km": 11944.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Train Depot",
+    "name_en": null,
+    "lat": 31.0569641,
+    "lon": -82.2725507,
+    "distance_km": 37.7,
+    "operator": "Okefenokee Swamp Park"
+   },
+   {
+    "name": "Pioneer Island",
+    "name_en": null,
+    "lat": 31.0587489,
+    "lon": -82.272992,
+    "distance_km": 37.9,
+    "operator": "Okefenokee Swamp Park"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hampton Inn Kingsland",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 30.7900117,
+   "lon": -81.6639839,
+   "distance_km": 45.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Microtel Inn & Suites by Wyndham Kingsland",
+   "name_en": null,
+   "stars": null,
+   "brand": "Microtel Inn & Suites",
+   "lat": 30.7910336,
+   "lon": -81.654418,
+   "distance_km": 46.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites Kingsland I-95-Naval Base Area",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 30.7872337,
+   "lon": -81.653623,
+   "distance_km": 46.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Country Inn & Suites by Radisson",
+   "name_en": null,
+   "stars": null,
+   "brand": "Country Inn & Suites",
+   "lat": 30.7900737,
+   "lon": -81.6515507,
+   "distance_km": 47.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 30.7902457,
+   "lon": -81.6520127,
+   "distance_km": 47.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -176,5 +273,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:12:32Z"
+ "updated_at": "2026-11-12T12:42:26Z"
 }
