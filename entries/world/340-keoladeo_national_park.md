@@ -3,7 +3,7 @@ id: "wh-340"
 dataset: "unesco"
 name_zh: "凯奥拉德奥国家公园"
 name_en: "Keoladeo National Park"
-name_local: ""
+name_local: "केवलादेव राष्ट्रीय उद्यान"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(x)"
 lat: 27.166667
 lon: 77.516667
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 凯奥拉德奥国家公园 / Keoladeo National Park
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:09Z"
 
 This former duck-hunting reserve of the Maharajas is one of the major wintering areas for large numbers of aquatic birds from Afghanistan, Turkmenistan, China and Siberia. Some 364 species of birds, including the rare Siberian crane, have been recorded in the park.
 
+## 本地语言 / Local language (Hindi)
+
+**केवलादेव राष्ट्रीय उद्यान**
+
+Note. केवलादेव राष्ट्रीय उद्यान या केवलादेव घना राष्ट्रीय उद्यान भारत के राजस्थान में स्थित एक विख्यात पक्षी अभयारण्य है। इसको पहले भरतपुर पक्षी विहार के नाम से जाना जाता था। इसमें हजारों की संख्या में दुर्लभ और विलुप्त जाति के पक्षी पाए जाते हैं, जैसे साईबेरिया से आये सारस, जो यहाँ सर्दियों के मौसम में आते हैं। यहाँ २३० प्रजाति के पक्षियों ने भारत के राष्ट्रीय उद्यान में अपना घर बनाया है। अब यह एक बहुत बड़ा पर्यटन स्थल और केन्द्र बन गया है, जहाँ पर बहुतायत में पक्षीविज्ञानी शीत ऋतु में आते हैं। इसको १९७१ में संरक्षित पक्षी अभयारण्य घोषित किया गया था और बाद में १९८५ में इसे 'विश्व धरोहर' भी घोषित किया गया है। केवलादेव राष्ट्रीय उद्यान या केवलादेव घना राष्ट्रीय उद्यान भारत के राजस्थान में स्थित एक विख्यात पक्षी अभयारण्य है। इसको पहले भरतपुर पक्षी विहार के नाम से जाना जाताn था। इसमें हजारों की संख्या में दुर्लभ और विलुप्त जाति के पक्षी पाए जाते हैं, जैसे साईबेरिया से आये सारस, जो यहाँ सर्दियों के मौसम में आते हैं। यहाँ २३० प्रजाति के पक्षियों ने भारत के राष्ट्रीय उद्यान में अपना घर बनाया है। अब यह एक बहुत बड़ा पर्यटन स्थल और केन्द्र बन गया है, जहाँ पर बहुतायत में पक्षीविज्ञानी शीत ऋतु में आते हैं। इसको १९७१ में संरक्षित पक्षी अभयारण्य घोषित किया गया था और बाद में १९८५ में इसे 'विश्व धरोहर' भी घोषित किया गया है। केवलादेव राष्ट्रीय उद्यान में गंभीर, बाणगंगा नदी बहती हैं।
+
 ## 交通 / Transport
 
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 44.0 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

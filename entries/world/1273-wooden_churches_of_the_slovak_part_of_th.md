@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(iv)"
 lat: 49.336111
 lon: 19.558333
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 斯洛伐克喀尔巴阡山区木教堂 / Wooden Churches of the Slovak part of the Carpathian Mountain Area

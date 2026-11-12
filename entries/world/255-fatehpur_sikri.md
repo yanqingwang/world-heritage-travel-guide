@@ -3,7 +3,7 @@ id: "wh-255"
 dataset: "unesco"
 name_zh: "法塔赫布尔西格里"
 name_en: "Fatehpur Sikri"
-name_local: ""
+name_local: "फ़तेहपुर सीकरी"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iii)(iv)"
 lat: 27.091111111
 lon: 77.661111111
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 法塔赫布尔西格里 / Fatehpur Sikri
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 Built during the second half of the 16th century by the Emperor Akbar, Fatehpur Sikri (the City of Victory) was the capital of the Mughal Empire for only some 10 years. The complex of monuments and temples, all in a uniform architectural style, includes one of the largest mosques in India, the Jama Masjid.
 
+## 本地语言 / Local language (Hindi)
+
+**फ़तेहपुर सीकरी**
+
+फतेहपुर सीकरी (उर्दू: فتحپور سیکری), एक नगर है जो कि मुगल सम्राट अकबर ने सन् 1571 में बसाया था। वर्तमान में यह आगरा जिला का एक नगरपालिका बोर्ड है। यह भारत के उत्तर प्रदेश राज्य में स्थित है। यह यहाँ के मुगल साम्राज्य में अकबर के राज्य में 1571 से 1585 तक मुगल साम्राज्य की राजधानी रही फिर इसे खाली कर दिया गया, शायद पानी की कमी के कारण। यह सिकरवार राजपूत राजा की रियासत थी जो बाद में इसके आसपास खेरागढ़ और मध्यप्रदेश के मुरैना जिले में बस गए। फतेहपुर सीकरी मुसलिम वास्तुकला का सबसे अच्‍छा उदाहरण है। फतेहपुर सीकरी मस्जिद के बारे में कहा जाता है कि यह मक्‍का की मस्जिद की नकल है और इसके डिजाइन हिंदू और पारसी वास्‍तुशिल्‍प से लिए गए हैं। मस्जिद का प्रवेश द्वार ५४ मीटर ऊँचा बुलंद दरवाजा है जिसका निर्माण १५७३ ई० में किया गया था। मस्जिद के उत्तर में शेख सलीम चिश्‍ती की दरगाह है जहाँ नि:संतान महिलाएँ दुआ मांगने आती हैं। आंख मिचौली, दीवान-ए-खास, बुलंद दरवाजा, पांच महल, ख्‍वाबगाह, जौधा बाई का महल,शेख सलीम चिश्ती के पुत्र की दरगाह, शाही मसजिद, अनूप तालाब फतेहपुर सीकरी के प्रमुख स्‍मारक हैं।
+
 ## 交通 / Transport
 
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 30.6 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

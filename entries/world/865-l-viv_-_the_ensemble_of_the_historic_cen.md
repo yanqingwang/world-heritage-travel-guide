@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(v)"
 lat: 49.84166667
 lon: 24.03194444
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 里沃夫历史中心 / L'viv – the Ensemble of the Historic Centre

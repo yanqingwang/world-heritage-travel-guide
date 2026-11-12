@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iv)"
 lat: 46.9375
 lon: 5.876388889
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 萨兰莱班大盐场与阿尔克-塞南皇家盐场 / From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt

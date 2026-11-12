@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(iv)"
 lat: 14.556504
 lon: -90.73381
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 安提瓜危地马拉 / Antigua Guatemala
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:07Z"
 > 危地马拉 · Department of Sacatepéquez, Panchoy Valley · 文化遗产
 
 ## 图片 / Images
+
+![Antigua Guatemala Cathedral in December 2024. 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antigua_Guatemala_Cathedral_in_December_2024._04.jpg/1280px-Antigua_Guatemala_Cathedral_in_December_2024._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Antigua Guatemala Cathedral in December 2024. 04.jpg · Nerdoguate · CC0*
+
+![Arco de Santa Catalina Antigua Guatemala edit2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Arco_de_Santa_Catalina_Antigua_Guatemala_edit2.jpg/1280px-Arco_de_Santa_Catalina_Antigua_Guatemala_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arco de Santa Catalina Antigua Guatemala edit2.jpg · Adalberto.H.Vega uploaded and derivative work: MrPanyGoff · CC BY 3.0*
+
+![Catedral de Antigua Guatemala 22.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Catedral_de_Antigua_Guatemala_22.jpg/1280px-Catedral_de_Antigua_Guatemala_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Catedral de Antigua Guatemala 22.jpg · Simon Burchell · CC BY-SA 4.0*
+
+![La Merced Church Antigua Guatemala 2.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c3/La_Merced_Church_Antigua_Guatemala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*La Merced Church Antigua Guatemala 2.jpg · Rambling Traveler derivative work: MrPanyGoff · CC BY-SA 3.0*
 
 ![Antigua Guatemala](https://whc.unesco.org/uploads/sites/site_65.jpg)
 

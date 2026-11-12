@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(vi)"
 lat: 49.316211
 lon: 8.439539
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 施派尔、沃尔姆斯和美因茨的犹太社区遗址 / ShUM Sites of Speyer, Worms and Mainz

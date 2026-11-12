@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)"
 lat: 39.905571
 lon: -79.466476
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 弗兰克·劳埃德·赖特的20世纪建筑作品 / The 20th-Century Architecture of Frank Lloyd Wright
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:19Z"
 
 ## 图片 / Images
 
-![The 20th-Century Architecture of Frank Lloyd Wright](https://whc.unesco.org/uploads/sites/site_1496.jpg)
+![Fallingwater - by Frank Lloyd Wright.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Fallingwater%20-%20by%20Frank%20Lloyd%20Wright.jpg?width=1280)
 
-*The 20th-Century Architecture of Frank Lloyd Wright · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Fallingwater - by Frank Lloyd Wright.jpg · see Wikimedia Commons file page*
+
+![Fallingwater - by Frank Lloyd Wright.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Fallingwater_-_by_Frank_Lloyd_Wright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Fallingwater - by Frank Lloyd Wright.jpg · Somach · CC BY-SA 3.0*
+
+![Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 548).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_548%29.jpg/1280px-Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 548).jpg · Sloan, Percy H. (Percy Haydn), 1867- · Public domain*
+
+![Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 744).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_744%29.jpg/1280px-Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 744).jpg · Sloan, Percy H. (Percy Haydn), 1867- · Public domain*
+
+![Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 875).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_875%29.jpg/1280px-Nathan_G._Moore_House%2C_Oak_Park%2C_Illinois%2C_early_20th_century_%28NBY_875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Nathan G. Moore House, Oak Park, Illinois, early 20th century (NBY 875).jpg · Sloan, Percy H. (Percy Haydn), 1867- · Public domain*
 
 ## 简介 / Introduction
 

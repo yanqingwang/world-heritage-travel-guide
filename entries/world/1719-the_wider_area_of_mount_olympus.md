@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(vi)(x)"
 lat: 40.0783
 lon: 22.3489
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 奥林匹斯山及周边区域 / The wider area of Mount Olympus

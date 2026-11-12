@@ -3,7 +3,7 @@ id: "wh-1604"
 dataset: "unesco"
 name_zh: "瓦特纳冰川国家公园-火与冰的动态"
 name_en: "Vatnajökull National Park - Dynamic Nature of Fire and Ice"
-name_local: ""
+name_local: "Vatnajökulsþjóðgarður"
 country: "IS"
 country_zh: "冰岛"
 country_en: "Iceland"
@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(viii)"
 lat: 64.5
 lon: -17.0
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 瓦特纳冰川国家公园-火与冰的动态 / Vatnajökull National Park - Dynamic Nature of Fire and Ice
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:20Z"
 
 This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age.
 
+## 本地语言 / Local language (Icelandic)
+
+**Vatnajökulsþjóðgarður**
+
+Vatnajökulsþjóðgarður var stofnaður árið 2008. Hann nær yfir allan Vatnajökul og stór svæði í nágrenni hans, á miðhálendinu og yfir þjóðgarðana sem fyrir voru í Skaftafelli og Jökulsárgljúfrum. Þjóðgarðurinn spannar um 14% af flatarmáli Íslands (14.967 ferkílómetrar árið 2021, þar af er jökullinn sjálfur 7.700 ferkílómetrar) og er næststærstur þjóðgarða í Evrópu á eftir Yugyd Va-þjóðgarðinum í Úralfjöllum Rússlands. Árið 2019 var þjóðgarðurinn stækkaður og m.a. Herðubreið og Herðubreiðarlindir bættust við. Einnig komst þjóðgarðurinn á heimsminjaskrá UNESCO 5. júlí 2019. Haustið 2021 var hann stækkaður í norður, við Bárðdælaafrétt. Sérstaða Vatnajökulsþjóðgarðs felst einkum í fjölbreytilegum landslagsformum sem samspil eldvirkni, jarðhita, jökuls og vatnsfalla hafa skapað. Vatnajökulsþjóðgarður er einstakur á heimsvísu vegna jarðsögu sinnar sem einkum er skrifuð af langvarandi átökum elds og íss. Margir staðir skarta eldfjöllum eða jöklum og sumir hvoru tveggja en enginn þeirra státar af átökum flekaskila, möttulstróks og hveljökuls eins og Vatnajökulsþjóðgarður. Samspil þessara fyrirbæra og annarra landmótunarafla hefur skapað síbreytilega og fjölbreytta náttúru. Þjóðgarðurinn heyrir undir Náttúruverndarstofnun frá 1. janúar 2025.
+
 ## 交通 / Transport
 
 - ✈ **Hornafjörður Airport (HFN)** — 88.2 km
@@ -58,7 +64,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.018514
 lon: 116.324617
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 圆明园遗址公园景区 / Old Summer Palace

@@ -3,7 +3,7 @@ id: "wh-1230"
 dataset: "unesco"
 name_zh: "苏莱曼山"
 name_en: "Sulaiman-Too Sacred Mountain"
-name_local: ""
+name_local: "Сулайман-Тоо"
 country: "KG"
 country_zh: "吉尔吉斯斯坦"
 country_en: "Kyrgyzstan"
@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)(vi)"
 lat: 40.529444444
 lon: 72.783333333
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 苏莱曼山 / Sulaiman-Too Sacred Mountain
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia.
 
+## 本地语言 / Local language (Kyrgyz)
+
+**Сулайман-Тоо**
+
+Сулайман-Тоо — Кыргызстандын, Ош шаарындагы ыйык тоо. 2009-жылдын июнь айында Дүйнөлүк Мурастарына кирген биринчи мамлекеттеги эстелик. Сулайман тоо Ош шаарынын так ортосунда, Ак-Буура суусунун сол жээгинен орун алган. Узундугу – 3 км, туурасы – 1,5–2 км, деңиз деңгээлинен бийиктиги 1176 м. Салыштырмалуу бийиктиги 300–350 м. Сулайман-Тоо – улуттук тарыхый-археологиялык музей-комплекс. Кээ бирөөлөр тоону чөгүп жаткан төөгө окшоштурушат. Сыйынуучулардын саны бир жылда 16-17 миң адамды түзөт. XVI кылымга чейин Сулайман-Тоо Баара-Кух деп аталганы маалым. Сулайман Тоо 2009-жылдын июнь айында ЮНЕСКОго катталган мемлекеттик биринчи эстелик.
+
 ## 交通 / Transport
 
 - ✈ **Osh International Airport (OSS)** — 8.9 km
@@ -58,7 +64,7 @@ Visa not required (conditional) / eVisa[6][75] Groups of 5 to 25 tourists can en
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ar
 

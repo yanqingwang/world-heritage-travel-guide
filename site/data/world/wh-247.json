@@ -23,7 +23,7 @@
  "name_zh": "拉贾斯坦邦的山地堡垒",
  "name_zh_source": "curated",
  "name_en": "Hill Forts of Rajasthan",
- "name_local": "",
+ "name_local": "राजस्थान के पहाड़ी दुर्ग",
  "local_lang": "hi",
  "local_lang_name": "Hindi",
  "slug": "247-hill_forts_of_rajasthan",
@@ -41,9 +41,17 @@
  "intro_zh_source": "wikipedia",
  "intro_en": "The serial site, situated in the state of Rajastahan, includes six majestic forts in Chittorgarh; Kumbhalgarh; Sawai Madhopur; Jhalawar; Jaipur, and Jaisalmer. The ecclectic architecture of the forts, some up to 20 kilometres in circumference, bears testimony to the power of the Rajput princely states that flourished in the region from the 8th to the 18th centuries. Enclosed within defensive walls are major urban centres, palaces, trading centres and other buildings including temples that often predate the fortifications within which developed an elaborate courtly culture that supported learning, music and the arts. Some of the urban centres enclosed in the fortifications have survived, as have many of the site's temples and other sacred buildings. The forts use the natural defenses offered by the landscape: hills, deserts, rivers, and dense forests. They also feature extensive water harvesting structures, largely still in use today.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "राजस्थान के छह पहाड़ी दुर्ग यूनेस्को के विश्व धरोहर में शामिल है। वे दुर्ग है: चित्तौड़गढ़ का चित्तौड़गढ़ दुर्ग कुम्भलगढ़ का कुम्भलगढ़ दुर्ग सवाई माधोपुर का रणथंभोर दुर्ग झालावाड़ का गागरौन दुर्ग जयपुर का आमेर दुर्ग जैसलमेर का जैसलमेर दुर्ग ये दुर्ग ८वीं से १८वीं सद तक चले राजपूत शासन का प्रतीक है। इन में से कई दुर्ग २० किमी तक की तटबंदी रखते है।",
+ "intro_local_source": "wikipedia",
  "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur%2003-2016%2004%20Amber%20Fort.jpg?width=1280",
+   "title": "Jaipur 03-2016 04 Amber Fort.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Jaipur%2003-2016%2004%20Amber%20Fort.jpg",
+   "provider": "wikimedia_commons"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_247.jpg",
    "title": "Hill Forts of Rajasthan",
@@ -139,7 +147,7 @@
   "en": true,
   "ja": true,
   "ko": false,
-  "local": false,
+  "local": true,
   "local_lang": "hi",
   "local_lang_name": "Hindi",
   "official_unesco": [
@@ -166,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T23:01:08Z"
+ "updated_at": "2026-11-12T11:25:17Z"
 }

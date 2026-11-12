@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 44.42041667
 lon: 12.19625
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 拉文纳早期基督教名胜 / Early Christian Monuments of Ravenna

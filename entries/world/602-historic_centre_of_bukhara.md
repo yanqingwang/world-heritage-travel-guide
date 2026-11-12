@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)(vi)"
 lat: 39.76666667
 lon: 64.43333333
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 布哈拉历史中心 / Historic Centre of Bukhara

@@ -3,7 +3,7 @@ id: "wh-944"
 dataset: "unesco"
 name_zh: "印度山区铁路"
 name_en: "Mountain Railways of India"
-name_local: ""
+name_local: "भारत की पर्वतीय रेल"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 22.75877910565116
 lon: 78.97488981386047
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 印度山区铁路 / Mountain Railways of India
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:14Z"
 
 This site includes three railways. The Darjeeling Himalayan Railway was the first, and is still the most outstanding, example of a hill passenger railway. Opened in 1881, its design applies bold and ingenious engineering solutions to the problem of establishing an effective rail link across a mountainous terrain of great beauty. The construction of the Nilgiri Mountain Railway, a 46-km long metre-gauge single-track railway in Tamil Nadu State was first proposed in 1854, but due to the difficulty of the mountainous location the work only started in 1891 and was completed in 1908. This railway, scaling an elevation of 326 m to 2,203 m, represented the latest technology of the time. The Kalka Shimla Railway, a 96-km long, single track working rail link built in the mid-19th century to provide a service to the highland town of Shimla is emblematic of the technical and material efforts to disenclave mountain populations through the railway. All three railways are still fully operational.
 
+## 本地语言 / Local language (Hindi)
+
+**भारत की पर्वतीय रेल**
+
+भारत की पर्वतीय रेल नैरो-गेज रेलवे लाइनें हैं जो भारत के पहाड़ों में बनाई गई थीं। उनमें से तीन, दार्जिलिंग हिमालयी रेल, नीलगिरि पर्वतीय रेल और कालका-शिमला रेलवे को सामूहिक रूप से "भारत की पर्वतीय रेल" के नाम से यूनेस्को की विश्व धरोहर स्थल के रूप में नामित किया गया है। चौथा रेलवे, माथेरान हिल रेल, यूनेस्को की विश्व धरोहर स्थलों की अस्थायी सूची में है। चारों नैरो-गेज रेलवे हैं, और नीलगिरि माउंटेन रेलवे भी भारत में एकमात्र रैक रेलवे है।
+
 ## 交通 / Transport
 
 - ✈ **Jabalpur Airport (JLR)** — 119.7 km
@@ -58,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 

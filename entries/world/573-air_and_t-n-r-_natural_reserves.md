@@ -3,7 +3,7 @@ id: "wh-573"
 dataset: "unesco"
 name_zh: "阿德尔和泰内雷自然保护区"
 name_en: "Air and Ténéré Natural Reserves"
-name_local: ""
+name_local: "Cibiyar Ajiya ta Aïr da Ténéré"
 country: "NE"
 country_zh: "尼日尔"
 country_en: "Niger"
@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(ix)(x)"
 lat: 18.0
 lon: 9.0
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 阿德尔和泰内雷自然保护区 / Air and Ténéré Natural Reserves
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:11Z"
 
 This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.
 
+## 本地语言 / Local language (Hausa)
+
+**Cibiyar Ajiya ta Aïr da Ténéré**
+
+Aïr da Ténéré National Nature Reserve ( French: Réserves naturelles de l'Aïr et du Ténéré) wani yanki ne na kasa a Nijar . Ya haɗa da jerin sunayen ajiya da yawa, kuma an sanya shi a matsayin wurin Tarihin Duniya na UNESCO . Ya ƙunshi duka rabin gabas na tsaunin Aïr da sassan yammacin hamadar Ténéré . BirdLife International ta gano shi a matsayin Mahimmin Yankin Tsuntsaye . An kafa Cibiyar Tarihi ta Duniya ta Aïr da Ténéré ta UNESCO a cikin 1991, kuma an sanya ta a matsayin wurin da ke cikin haɗari a cikin 1992. An tsara shi ƙarƙashin ma'auni vii, ix, x, kuma an sanya shi #573. Gaba dayan ajiyar ya kai 77,360 square kilometres (29,870 sq mi), wanda ya sanya shi zama na biyu mafi girma na yanayi a Afirka, kuma na hudu mafi girma a duniya. Cibiyar UNESCO ta Aïr da Ténéré Reserve sun haɗa da sassa biyu: Aïr da Ténéré National Nature Reserve IUCN irin IV An kafa 1 Janairu 1988 64,560 km² Aïr da Ténéré Addax Sanctuary Matsakaicin Tsarin Halitta IUCN nau'in Ia An kafa 1 Janairu 1988 12,800 km²
+
 ## 交通 / Transport
 
 - ✈ **Zinder Airport (ZND)** — 469.4 km
@@ -57,7 +63,7 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

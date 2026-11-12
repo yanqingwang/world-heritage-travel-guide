@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(vi)"
 lat: 39.452777777
 lon: -5.3275
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 瓜达卢佩的圣玛利皇家修道院 / Royal Monastery of Santa María de Guadalupe

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)"
 lat: 40.15889
 lon: 44.79667
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 格加尔德修道院和上阿扎特山谷 / Monastery of Geghard and the Upper Azat Valley
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 亚美尼亚 · Kotayk' Region, near the village of Goght · 文化遗产
 
 ## 图片 / Images
+
+![Azat river at Geghard - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Azat_river_at_Geghard_-_panoramio.jpg/1280px-Azat_river_at_Geghard_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Azat river at Geghard - panoramio.jpg · harutune · CC BY-SA 3.0*
 
 ![Monastery of Geghard and the Upper Azat Valley](https://whc.unesco.org/uploads/sites/site_960.jpg)
 

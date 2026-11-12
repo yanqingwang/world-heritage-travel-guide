@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.65221
 lon: 119.27006
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 连云港市花果山景区 / Huaguoshan Scenic Area

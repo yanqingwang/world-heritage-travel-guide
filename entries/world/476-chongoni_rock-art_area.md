@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(iii)(vi)"
 lat: -14.293333333
 lon: 34.279166666
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 琼戈尼岩石艺术区 / Chongoni Rock-Art Area
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:10Z"
 
 ## 图片 / Images
 
-![Chongoni Rock-Art Area](https://whc.unesco.org/uploads/sites/site_476.jpg)
+![Chongoni rock art.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Chongoni%20rock%20art.jpg?width=1280)
 
-*Chongoni Rock-Art Area · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chongoni rock art.jpg · see Wikimedia Commons file page*
+
+![Chongoni rock art.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2a/Chongoni_rock_art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chongoni rock art.jpg · 「Malawi」 · Public domain*
+
+![Chongoni Rock-Art Area-110124.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chongoni_Rock-Art_Area-110124.jpg/1280px-Chongoni_Rock-Art_Area-110124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chongoni Rock-Art Area-110124.jpg · Lazare Eloundou Assomo · CC BY-SA 3.0 igo*
+
+![Chongoni Rock-Art Area-110126.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chongoni_Rock-Art_Area-110126.jpg/1280px-Chongoni_Rock-Art_Area-110126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chongoni Rock-Art Area-110126.jpg · Lazare Eloundou Assomo · CC BY-SA 3.0 igo*
+
+![Chongoni Rock-Art Area-110128.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Chongoni_Rock-Art_Area-110128.jpg/1280px-Chongoni_Rock-Art_Area-110128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chongoni Rock-Art Area-110128.jpg · Lazare Eloundou Assomo · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

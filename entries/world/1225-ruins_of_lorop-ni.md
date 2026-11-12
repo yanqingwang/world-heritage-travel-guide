@@ -3,7 +3,7 @@ id: "wh-1225"
 dataset: "unesco"
 name_zh: "洛罗佩尼遗址"
 name_en: "Ruins of Loropéni"
-name_local: ""
+name_local: "Ruins of Loropéni"
 country: "BF"
 country_zh: "布基纳法索"
 country_en: "Burkina Faso"
@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)"
 lat: 10.310277777
 lon: -3.563055555
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 洛罗佩尼遗址 / Ruins of Loropéni
@@ -55,6 +55,12 @@ The 11,130m2 property, the first to be inscribed in the country, with its imposi
 
 *中文简介：机器翻译。*
 
+## 本地语言 / Local language (Mossi)
+
+**Ruins of Loropéni**
+
+Ruins of Loropéni (France: Ruines de Loropéni) a ya yʋum tus a nu ne yʋm tus-piig la nu zĩiga n kolg tẽng yʋʋr boond Loropéni m'be Burkina Faso gaobg baobgo. A dag naaga ne UNESCO World Heritage sõdg yʋm 2009. Zĩi-kʋdg n saam kanga la Burkina Faso pipi zĩiga. Ziiga waoglem ya 1.113 hectare (2.75 acres), tɩ a lalga me ne kug n dag ya yʋm tus-a-nu ne yʋm tus-piig la nu wã wakat n dag ya na-zak n tar pãng ne yɛl wʋsgo,tɩ'a ya soma n yiid a taab piig m'be tẽnga pʋge. Zĩisa bilgre wakat nan yi wend yʋm tusri diki kẽng.Neb n dag zĩi woto zĩiga pʋg la Lohron bɩ Kulango neba tɩb dag paam arzɛk ne Sahara wã sãnem leebgo tʋm pʋge (tran-saharan gold trade), tɩ a nan y wen yʋm kobre piig la a naase (14th) la yʋm kobre piig la a yopoe (17th) wakat. Tɩ zĩiga dag saam tɩ b basa yʋm kobre piig la a wae wã sɩngre wakat.
+
 ## 交通 / Transport
 
 - ✈ **Bobo Dioulasso Airport (BOY)** — 126.4 km
@@ -72,7 +78,7 @@ eVisa[6][33] Holders of passports for public affairs do not require a visa.[18]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, ja
+- 可用语言 / Available: en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ar
 

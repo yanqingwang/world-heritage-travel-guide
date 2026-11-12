@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iv)"
 lat: 54.51953
 lon: 18.53891
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 格丁尼亚现代主义市中心 / Gdynia Modernist City Centre
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:21Z"
 
 ## 图片 / Images
 
-![Gdynia Modernist City Centre](https://whc.unesco.org/uploads/sites/site_1715.jpg)
+![Gdynia z lotu ptaka - 057.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Gdynia%20z%20lotu%20ptaka%20-%20057.JPG?width=1280)
 
-*Gdynia Modernist City Centre · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Gdynia z lotu ptaka - 057.JPG · see Wikimedia Commons file page*
+
+![2004 08 10 Gdynia Polska Polen.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2004_08_10_Gdynia_Polska_Polen.jpeg/1280px-2004_08_10_Gdynia_Polska_Polen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2004 08 10 Gdynia Polska Polen.jpeg · CC BY 2.5*
+
+![2016-08 Gdynia (29).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-08_Gdynia_%2829%29.jpg/1280px-2016-08_Gdynia_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-08 Gdynia (29).jpg · Marek Mróz · CC BY 4.0*
+
+![2016-08 Gdynia (33).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2016-08_Gdynia_%2833%29.jpg/1280px-2016-08_Gdynia_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-08 Gdynia (33).jpg · Marek Mróz · CC BY 4.0*
+
+![Aleja Jana Pawła II, Gdynia (zdjęcie lotnicze, 2007).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Aleja_Jana_Paw%C5%82a_II%2C_Gdynia_%28zdj%C4%99cie_lotnicze%2C_2007%29.jpg/1280px-Aleja_Jana_Paw%C5%82a_II%2C_Gdynia_%28zdj%C4%99cie_lotnicze%2C_2007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aleja Jana Pawła II, Gdynia (zdjęcie lotnicze, 2007).jpg · Jack11 Poland · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 46.306111111
 lon: 23.130555555
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 罗西亚蒙大拿矿业景观 / Roșia Montană Mining Landscape
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:19Z"
 > 罗马尼亚 · 文化遗产
 
 ## 图片 / Images
+
+![Rosia Montana.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Rosia%20Montana.jpg?width=1280)
+
+*Rosia Montana.jpg · see Wikimedia Commons file page*
 
 ![Roșia Montană Mining Landscape](https://whc.unesco.org/uploads/sites/site_1552.jpg)
 

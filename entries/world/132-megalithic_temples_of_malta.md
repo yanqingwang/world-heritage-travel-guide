@@ -3,7 +3,7 @@ id: "wh-132"
 dataset: "unesco"
 name_zh: "马耳他巨石庙"
 name_en: "Megalithic Temples of Malta"
-name_local: ""
+name_local: "Tempji Megalitiċi ta' Malta u Għawdex"
 country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)"
 lat: 36.04916667
 lon: 14.26944444
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 马耳他巨石庙 / Megalithic Temples of Malta
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:07Z"
 
 ## 图片 / Images
 
-![Megalithic Temples of Malta](https://whc.unesco.org/uploads/sites/site_132.jpg)
+![Central Temple, Tarxien ta17.png](https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Temple%2C%20Tarxien%20ta17.png?width=1280)
 
-*Megalithic Temples of Malta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Central Temple, Tarxien ta17.png · see Wikimedia Commons file page*
+
+![Banner WV, Hal Tarxien.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Banner_WV%2C_Hal_Tarxien.jpg/1280px-Banner_WV%2C_Hal_Tarxien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banner WV, Hal Tarxien.jpg · Davide Mauro · CC BY-SA 4.0*
+
+![Għar Dalam (1747281851).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/G%C4%A7ar_Dalam_%281747281851%29.jpg/1280px-G%C4%A7ar_Dalam_%281747281851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Għar Dalam (1747281851).jpg · KNOW MALTA by Peter Grima · CC BY-SA 2.0*
+
+![Il-Belt. Mużew Nazzjonali tal-Arkeoloġija. Mudell ta' Tempju megalitiku (3600-2500 QK) 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Il-Belt._Mu%C5%BCew_Nazzjonali_tal-Arkeolo%C4%A1ija._Mudell_ta%27_Tempju_megalitiku_%283600-2500_QK%29_1.jpg/1280px-Il-Belt._Mu%C5%BCew_Nazzjonali_tal-Arkeolo%C4%A1ija._Mudell_ta%27_Tempju_megalitiku_%283600-2500_QK%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Il-Belt. Mużew Nazzjonali tal-Arkeoloġija. Mudell ta' Tempju megalitiku (3600-2500 QK) 1.jpg · Enrique Íñiguez Rodríguez ( Qoan ) Credit information This work was created by Enrique Íñiguez ( Qoan ). You are free to · CC BY-SA 4.0*
+
+![Il-Belt. Mużew Nazzjonali tal-Arkeoloġija. Mudell ta' Tempju megalitiku (3600-2500 QK) 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Il-Belt._Mu%C5%BCew_Nazzjonali_tal-Arkeolo%C4%A1ija._Mudell_ta%27_Tempju_megalitiku_%283600-2500_QK%29_2.jpg/1280px-Il-Belt._Mu%C5%BCew_Nazzjonali_tal-Arkeolo%C4%A1ija._Mudell_ta%27_Tempju_megalitiku_%283600-2500_QK%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Il-Belt. Mużew Nazzjonali tal-Arkeoloġija. Mudell ta' Tempju megalitiku (3600-2500 QK) 2.jpg · Enrique Íñiguez Rodríguez ( Qoan ) Credit information This work was created by Enrique Íñiguez ( Qoan ). You are free to · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -36,6 +52,12 @@ updated_at: "2026-11-10T23:01:07Z"
 ### English
 
 Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta.
+
+## 本地语言 / Local language (Maltese)
+
+**Tempji Megalitiċi ta' Malta u Għawdex**
+
+It-Tempji Megalitiċi ta' Malta u Għawdex, magħrufa wkoll bħala t-Tempji Megalitiċi ta' Malta, huma għadd ta' tempji preistoriċi, u sitta minnhom ġew iddeżinjati bħala Sit ta' Wirt Dinji wieħed tal-UNESCO. Dawn it-tempji megalitiċi nbnew fi tliet perjodi distinti bejn wieħed u ieħor bejn is-sena 3600 Q.K. u s-sena 2500 Q.K. f'Malta u f'Għawdex. Kien jingħad li huma l-iktar istrutturi antiki wieqfa mingħajr tkaħħil fid-dinja, għall-inqas sal-iskoperta ta' Göbekli Tepe, fit-Turkija. L-arkeologi jemmnu li dawn il-kumplessi megalitiċi huma frott l-innovazzjonijiet lokali fi proċess ta' evoluzzjoni kulturali. Dan il-proċess wassal biex jinbnew diversi tempji fil-fażi ta' Ġgantija (3600-3000 Q.K.), sakemm intlaħaq l-iktar livell kkumplikat bil-kumpless kbir tat-Tempji ta' Ħal Tarxien, li baqa' jintuża sas-sena 2500 Q.K.. Wara din id-data, il-kultura tal-bini tat-tempji fil-Gżejjer Maltin għebet għalkollox.
 
 ## 交通 / Transport
 
@@ -54,7 +76,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(iv)(vi)"
 lat: 37.92917
 lon: 27.35944
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 以弗所 / Ephesus
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 土耳其 · 文化遗产
 
 ## 图片 / Images
+
+![Ephesus - Celsus Library.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Ephesus%20-%20Celsus%20Library.jpg?width=1280)
+
+*Ephesus - Celsus Library.jpg · see Wikimedia Commons file page*
 
 ![Ephesus](https://whc.unesco.org/uploads/sites/site_1018.jpg)
 

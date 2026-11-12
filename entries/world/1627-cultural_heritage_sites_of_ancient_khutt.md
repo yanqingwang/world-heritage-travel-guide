@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iii)"
 lat: 37.777741666
 lon: 69.556730555
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 古骨咄的文化遗产地 / Cultural Heritage Sites of Ancient Khuttal
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:20Z"
 > 塔吉克斯坦 · 文化遗产
 
 ## 图片 / Images
+
+![Historical Museum of Sughd region in Khujand, Tajikistan (2025).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Historical_Museum_of_Sughd_region_in_Khujand%2C_Tajikistan_%282025%29.jpg/1280px-Historical_Museum_of_Sughd_region_in_Khujand%2C_Tajikistan_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historical Museum of Sughd region in Khujand, Tajikistan (2025).jpg · Petar Milošević · CC BY-SA 4.0*
+
+![Исторический музей, г. Худжанд.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%2C_%D0%B3._%D0%A5%D1%83%D0%B4%D0%B6%D0%B0%D0%BD%D0%B4.jpg/1280px-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%2C_%D0%B3._%D0%A5%D1%83%D0%B4%D0%B6%D0%B0%D0%BD%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Исторический музей, г. Худжанд.jpg · Шухрат Саъдиев · CC BY-SA 4.0*
+
+![Исторический музей Согдийской области.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A1%D0%BE%D0%B3%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Исторический музей Согдийской области.jpg · Шухрат Саъдиев · CC BY-SA 3.0*
 
 ![Cultural Heritage Sites of Ancient Khuttal](https://whc.unesco.org/uploads/sites/site_1627.jpg)
 

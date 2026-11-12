@@ -3,7 +3,7 @@ id: "wh-561"
 dataset: "unesco"
 name_zh: "丹布勒金寺"
 name_en: "Rangiri Dambulla Cave Temple"
-name_local: ""
+name_local: "தம்புள்ளை பொற்கோவில்"
 country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(vi)"
 lat: 7.856563
 lon: 80.6483403
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 丹布勒金寺 / Rangiri Dambulla Cave Temple
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:11Z"
 
 A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m 2 ) are of particular importance, as are the 157 statues.
 
+## 本地语言 / Local language (Tamil)
+
+**தம்புள்ளை பொற்கோவில்**
+
+தம்புள்ளை பொற்கோவில் (தம்புள்ளை குகையோவியங்கள்), (சிங்களம்: தம்̆பூலூ லெந் விஹாரய) இலங்கையின் மத்திய மாகாணம், மத்திய மாகாணத்தின் மாத்தளை மாவட்டத்தில் அமைந்துள்ள ஒரு குடைவரை கோயில் ஆகும். இது 1991 இல் உலக பாரம்பரியக் களங்களில் ஒன்றாக அறிவிக்கப்பட்டது.. கொழும்புக்கு கிழக்கே 148 கிலோமீட்டர் தூரத்திலும் கண்டிக்கு வடக்கே 72 கி.மீ. தூரத்திலும் அமைந்துள்ளது. சூழவுள்ள சமநிலத்திலிருந்து சுமார் 160 மீட்டர் உயரத்துக்கு எழும் சிறு மலை மீது இக்குகைத்தொகுதி அமையப்பெற்றுள்ளது. இதுவரை 80க்கும் மேற்பட்ட குகைகள் இப்பகுதியில் கண்டறியப்பட்டுள்ளன. முக்கியக் குகைகளாக 5 குகைகள் கொள்ளப்படுகிறது. இங்கு 153 புத்தபிரானின் சிலைகளும், 3 அரசர்களின் சிலைகளும், 4 தெய்வ சிலைகளும் காணப்படுகிறன. 4 தெய்வ சிலைகளில் இந்துக் கடவுள்களான விஷ்ணு, பிள்ளையார் சிலைகளும் அடங்கும். 2100 சதுர மீட்டர் பரப்புள்ள சுவர் ஓவியங்களில், புத்தபிரானின் முதலாவது சொற்பொழிவு (பிரசங்கம்), புத்தபிரானின் சோதனை என்பன முக்கியமானவை.
+
 ## 交通 / Transport
 
 - ✈ **China Bay Airport (TRR)** — 95.9 km
@@ -85,7 +91,7 @@ Free ETA / Visa on arrival[6][138] Sri Lanka introduced an ETA valid for 30 days
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2011"
 criteria: "(i)(ii)(iii)(iv)(vi)"
-lat: 33.614404428444445
+lat: 33.61440442844444
 lon: 51.4889180087037
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 波斯园林 / The Persian Garden
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:18Z"
 > 伊朗 · 文化遗产
 
 ## 图片 / Images
+
+![20240403 132213 IMG 3015-Behshahr.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20240403_132213_IMG_3015-Behshahr.jpg/1280px-20240403_132213_IMG_3015-Behshahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20240403 132213 IMG 3015-Behshahr.jpg · PAper GOL · CC BY 4.0*
+
+![20240403 132220 IMG 3017-Abbas abad.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/20240403_132220_IMG_3017-Abbas_abad.jpg/1280px-20240403_132220_IMG_3017-Abbas_abad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20240403 132220 IMG 3017-Abbas abad.jpg · PAper GOL · CC BY 4.0*
+
+![3دریاچه و ساختمان عباس آباد.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/3%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%88_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%B9%D8%A8%D8%A7%D8%B3_%D8%A2%D8%A8%D8%A7%D8%AF.jpg/1280px-3%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%88_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%B9%D8%A8%D8%A7%D8%B3_%D8%A2%D8%A8%D8%A7%D8%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*3دریاچه و ساختمان عباس آباد.jpg · Shoeibkhoshandam · CC BY-SA 4.0*
+
+![Abas abad lake 507.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abas_abad_lake_507.jpg/1280px-Abas_abad_lake_507.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abas abad lake 507.jpg · Mohammad Vahidi · CC BY-SA 4.0*
 
 ![The Persian Garden](https://whc.unesco.org/uploads/sites/site_1372.jpg)
 

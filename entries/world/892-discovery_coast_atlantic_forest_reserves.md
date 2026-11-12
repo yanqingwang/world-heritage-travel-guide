@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: -16.5
 lon: -39.25
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 大西洋沿岸热带雨林保护区 / Discovery Coast Atlantic Forest Reserves
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:14Z"
 > 巴西 · Atlantic Coast, states of Bahia and Espirito Santo, northeast Brazil · 自然遗产
 
 ## 图片 / Images
+
+![Parque Botânico em Sooretama, Linhares-ES, Brasil.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Bot%C3%A2nico%20em%20Sooretama%2C%20Linhares-ES%2C%20Brasil.jpg?width=1280)
+
+*Parque Botânico em Sooretama, Linhares-ES, Brasil.jpg · see Wikimedia Commons file page*
+
+![Parque Botânico em Sooretama, Linhares-ES, Brasil.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Parque_Bot%C3%A2nico_em_Sooretama%2C_Linhares-ES%2C_Brasil.jpg/1280px-Parque_Bot%C3%A2nico_em_Sooretama%2C_Linhares-ES%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Parque Botânico em Sooretama, Linhares-ES, Brasil.jpg · Daniele Longui · CC BY-SA 3.0*
 
 ![Discovery Coast Atlantic Forest Reserves](https://whc.unesco.org/uploads/sites/site_892.jpg)
 

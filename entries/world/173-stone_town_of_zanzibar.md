@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)(vi)"
 lat: -6.164944444
 lon: 39.198788888
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 桑给巴尔石头城 / Stone Town of Zanzibar
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Stone Town of Zanzibar](https://whc.unesco.org/uploads/sites/site_173.jpg)
+![Zanzibar sultan palace.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Zanzibar%20sultan%20palace.jpg?width=1280)
 
-*Stone Town of Zanzibar · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Zanzibar sultan palace.jpg · see Wikimedia Commons file page*
+
+![Tanzania Unguja Mjini location map.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Tanzania_Unguja_Mjini_location_map.svg/1280px-Tanzania_Unguja_Mjini_location_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tanzania Unguja Mjini location map.svg · ZH · CC BY-SA 3.0*
+
+![Zanzibar StoneTown.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Zanzibar_StoneTown.png/1280px-Zanzibar_StoneTown.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Zanzibar StoneTown.png · Wegmann · CC BY-SA 3.0*
+
+![2012 - fotoNoWo.de 003.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2012_-_fotoNoWo.de_003.jpg/1280px-2012_-_fotoNoWo.de_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2012 - fotoNoWo.de 003.jpg · Sansibar-freundeskreis.de · CC BY-SA 4.0*
+
+![2024-06-16 132427895 Zanzibar Manhole Cover.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024-06-16_132427895_Zanzibar_Manhole_Cover.jpg/1280px-2024-06-16_132427895_Zanzibar_Manhole_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2024-06-16 132427895 Zanzibar Manhole Cover.jpg · Bärbel Miemietz · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

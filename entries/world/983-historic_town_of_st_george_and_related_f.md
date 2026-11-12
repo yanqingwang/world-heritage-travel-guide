@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 32.37944444
 lon: -64.67777778
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 百慕大群岛上的圣乔治镇及相关的要塞 / Historic Town of St George and Related Fortifications, Bermuda

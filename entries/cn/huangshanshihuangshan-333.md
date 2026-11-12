@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 30.097085
 lon: 118.194235
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 黄山市黄山风景区 / Huangshan

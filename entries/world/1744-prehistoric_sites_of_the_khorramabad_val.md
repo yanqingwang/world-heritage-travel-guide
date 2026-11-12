@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 33.466666666
 lon: 48.316666666
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 霍拉马巴德谷地的史前遗址 / Prehistoric Sites of the Khorramabad Valley
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:21Z"
 > 伊朗 · 文化遗产
 
 ## 图片 / Images
+
+![Prehistoric Ancient And Hindu India.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Prehistoric_Ancient_And_Hindu_India.djvu/page1-1280px-Prehistoric_Ancient_And_Hindu_India.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prehistoric Ancient And Hindu India.djvu · R D banerji · Public domain*
+
+![Prehistoric Painted Pottery Vessel LACMA M.75.62.34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Prehistoric_Painted_Pottery_Vessel_LACMA_M.75.62.34.jpg/1280px-Prehistoric_Painted_Pottery_Vessel_LACMA_M.75.62.34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prehistoric Painted Pottery Vessel LACMA M.75.62.34.jpg · Public domain*
+
+![Prehistoric Painted Pottery Vessel LACMA M.76.174.156.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Prehistoric_Painted_Pottery_Vessel_LACMA_M.76.174.156.jpg/1280px-Prehistoric_Painted_Pottery_Vessel_LACMA_M.76.174.156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prehistoric Painted Pottery Vessel LACMA M.76.174.156.jpg · Public domain*
 
 ![Prehistoric Sites of the Khorramabad Valley](https://whc.unesco.org/uploads/sites/site_1744.jpg)
 

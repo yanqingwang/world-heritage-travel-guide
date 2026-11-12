@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(ii)(iii)"
-lat: 45.39003612475
+lat: 45.390036124750004
 lon: 73.0072743635
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 曼格斯套岩凿清真寺及相关圣地 / Rock Mosques and Associated Sacred Sites of Mangystau

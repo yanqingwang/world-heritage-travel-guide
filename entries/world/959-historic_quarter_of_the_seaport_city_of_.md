@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)"
 lat: -33.04063889
 lon: -71.628
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 瓦尔帕莱索港口城市历史区 / Historic Quarter of the Seaport City of Valparaíso
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:15Z"
 
 ## 图片 / Images
 
-![Historic Quarter of the Seaport City of Valparaíso](https://whc.unesco.org/uploads/sites/site_959.jpg)
+![Historic Quarter of the Seaport City of Valparaíso-113824.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Historic%20Quarter%20of%20the%20Seaport%20City%20of%20Valpara%C3%ADso-113824.jpg?width=1280)
 
-*Historic Quarter of the Seaport City of Valparaíso · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Historic Quarter of the Seaport City of Valparaíso-113824.jpg · see Wikimedia Commons file page*
+
+![Historic Quarter of the Seaport City of Valparaíso-113824.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113824.jpg/1280px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Quarter of the Seaport City of Valparaíso-113824.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Historic Quarter of the Seaport City of Valparaíso-113828.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113828.jpg/1280px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113828.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Quarter of the Seaport City of Valparaíso-113828.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Historic Quarter of the Seaport City of Valparaíso-113830.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113830.jpg/1280px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Quarter of the Seaport City of Valparaíso-113830.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Historic Quarter of the Seaport City of Valparaíso-113832.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113832.jpg/1280px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso-113832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Quarter of the Seaport City of Valparaíso-113832.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.005809
 lon: 113.331839
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 广州市番禺区长隆旅游度假区 / Dashi station

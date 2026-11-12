@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Zhumadian City"
 lat: 33.13301
 lon: 113.74461
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 驻马店市嵖岈山旅游景区 / Mount Chaya

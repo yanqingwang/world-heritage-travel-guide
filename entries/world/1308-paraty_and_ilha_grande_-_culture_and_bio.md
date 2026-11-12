@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(v)(x)"
 lat: -23.0186
 lon: -44.6854
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 帕拉蒂和格兰德岛-文化与生物多样性 / Paraty and Ilha Grande – Culture and Biodiversity
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 巴西 · 混合遗产
 
 ## 图片 / Images
+
+![IMG4490 sítio arqueológico amolador-polidor fixo ilha grande.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/IMG4490%20s%C3%ADtio%20arqueol%C3%B3gico%20amolador-polidor%20fixo%20ilha%20grande.jpg?width=1280)
+
+*IMG4490 sítio arqueológico amolador-polidor fixo ilha grande.jpg · see Wikimedia Commons file page*
 
 ![Paraty and Ilha Grande – Culture and Biodiversity](https://whc.unesco.org/uploads/sites/site_1308.jpg)
 

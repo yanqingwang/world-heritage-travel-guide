@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(x)"
 lat: 2.0
 lon: 28.5
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 俄卡皮鹿野生动物保护地 / Okapi Wildlife Reserve

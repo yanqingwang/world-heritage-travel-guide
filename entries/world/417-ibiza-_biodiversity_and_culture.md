@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)(iv)(ix)(x)"
 lat: 38.98
 lon: 1.43
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 伊维萨岛的生物多样性和特有文化 / Ibiza, Biodiversity and Culture

@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Xuancheng"
 lat: 30.090027
 lon: 118.685058
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 宣城市龙川景区 / Xuanchengshilongchuan Scenic Area

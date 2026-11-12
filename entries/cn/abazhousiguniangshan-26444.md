@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 31.035123
 lon: 102.818742
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 阿坝州四姑娘山景区 / Mount Siguniang

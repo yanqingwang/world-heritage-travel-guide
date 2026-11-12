@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 28.332988
 lon: 117.421056
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 上饶市弋阳县龟峰景区 / Shangraoshiyiyangxianguifeng Scenic Area

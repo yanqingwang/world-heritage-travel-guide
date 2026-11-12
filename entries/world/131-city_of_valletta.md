@@ -3,7 +3,7 @@ id: "wh-131"
 dataset: "unesco"
 name_zh: "瓦莱塔古城"
 name_en: "City of Valletta"
-name_local: ""
+name_local: "Valletta"
 country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(vi)"
 lat: 35.897777777
 lon: 14.5125
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 瓦莱塔古城 / City of Valletta
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:07Z"
 
 The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world.
 
+## 本地语言 / Local language (Maltese)
+
+**Valletta**
+
+Il-Belt Valletta, magħrufa min-nies tal-gżejjer Maltin aktar bħala l-Belt hi l-kapitali ta' Malta. Tinsab mifruxa fuq penisola fil-parti tal-Lvant ċentrali tal-gżira ta' Malta. Il-Belt għandha popolazzjoni ta' 5,197 abitant (sal-2024). Il-Belt Valletta għandha arkitettura mħallta għax fiha hemm binjiet bi stil Manneristiku, Barokk, Neoklassiku u anki dawk b'arkitettura moderna. Il-Belt Valletta sofriet mill-attakki tat-Tieni Gwerra Dinjija; biss, minkejja li l-gwerra ħalliet ferita kbira, il-Belt hi ma tilfitx il-karattru storiku tagħha. Fl-1980 il-Belt Valletta ġiet magħżula u onorata mill-UNESCO bħala Sit ta’ Wirt Dinji.
+
 ## 交通 / Transport
 
 - ✈ **Malta International Airport (MLA)** — 6.1 km
@@ -85,7 +91,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

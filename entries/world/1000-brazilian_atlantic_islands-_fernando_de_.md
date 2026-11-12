@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(vii)(ix)(x)"
 lat: -3.866388888
 lon: -33.801944444
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区 / Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 巴西 · Pernambuco and Rio Grande do Norte States · 自然遗产
 
 ## 图片 / Images
+
+![Atol das Rocas ISS007.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Atol%20das%20Rocas%20ISS007.jpg?width=1280)
+
+*Atol das Rocas ISS007.jpg · see Wikimedia Commons file page*
 
 ![Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves](https://whc.unesco.org/uploads/sites/site_1000.jpg)
 

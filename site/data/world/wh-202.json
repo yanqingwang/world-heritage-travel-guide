@@ -23,7 +23,7 @@
  "name_zh": "锡吉里亚古城",
  "name_zh_source": "unesco_official",
  "name_en": "Ancient City of Sigiriya",
- "name_local": "",
+ "name_local": "சிகிரியா",
  "local_lang": "ta",
  "local_lang_name": "Tamil",
  "slug": "202-ancient_city_of_sigiriya",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "சிகிரியா (Sigiriya / Lion Rock; சிங்களம்: සීගිරිය) இலங்கையின் இணையற்ற கலைப் பாரம்பரியத்தின் சின்னமாகக் கருதப்படுகிறது. இது மாத்தளை மாவட்டத்தில் தம்புள்ள நகரத்திற்கு அண்மையில் அமைந்துள்ளது. 1144-அடி உயரமான இக்குன்றினுள் அழகிய வேலைப்பாடுகளுடன் கூடிய சித்திரங்கள் பல உள்ளன. இவை 6-ம் நூற்றாண்டைச் சேர்ந்தவையாகும். எதிரிகளிடமிருந்து தன்னைப் பாதுகாத்துக் கொள்ள இக்கோட்டையை முதலாம் காசியப்பன் (கி.பி. 477-495) பயன்படுத்தினான் . கோட்டையை சுற்றி அகழியும் கட்டப்பட்டுள்ளது. சிகிரியா குன்றானது ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனத்தால் (UNESCO) பாதுகாக்கப்படவேண்டிய உலக பாரம்பரியக் களமாக அறிவிக்கப்பட்டுள்ளது.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20Sigiriya%20by%20Binuka.jpg?width=1280",
@@ -267,7 +267,7 @@
   "en": true,
   "ja": true,
   "ko": true,
-  "local": false,
+  "local": true,
   "local_lang": "ta",
   "local_lang_name": "Tamil",
   "official_unesco": [
@@ -298,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T23:01:08Z"
+ "updated_at": "2026-11-12T11:25:16Z"
 }

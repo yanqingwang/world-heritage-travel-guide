@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(v)"
 lat: 45.953
 lon: 12.2261
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 科内利亚诺和瓦尔多比亚德内的普罗赛柯产地 / Le Colline del Prosecco di Conegliano e Valdobbiadene
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:19Z"
 
 ## 图片 / Images
 
-![Le Colline del Prosecco di Conegliano e Valdobbiadene](https://whc.unesco.org/uploads/sites/site_1571.jpg)
+![Hillside View of Valdobbiadene.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg?width=1280)
 
-*Le Colline del Prosecco di Conegliano e Valdobbiadene · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Hillside View of Valdobbiadene.jpg · see Wikimedia Commons file page*
+
+![Prosecco Superiore Conegliano Valdobbiadene - UNESCO Site Map.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Prosecco_Superiore_Conegliano_Valdobbiadene_-_UNESCO_Site_Map.png/1280px-Prosecco_Superiore_Conegliano_Valdobbiadene_-_UNESCO_Site_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prosecco Superiore Conegliano Valdobbiadene - UNESCO Site Map.png · OpenStreetMap Contributors (base data) · CC BY-SA 2.5*
+
+![Prosecco Valley.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Prosecco_Valley.jpg/1280px-Prosecco_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prosecco Valley.jpg · Alberto Davide Lorenzi · CC BY-SA 4.0*
+
+![Tra le vigne di Collagù - wikiraduno Alle colline del prosecco abc 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_01.jpg/1280px-Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tra le vigne di Collagù - wikiraduno Alle colline del prosecco abc 01.jpg · Patafisik · CC BY-SA 4.0*
+
+![Tra le vigne di Collagù - wikiraduno Alle colline del prosecco abc 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_02.jpg/1280px-Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tra le vigne di Collagù - wikiraduno Alle colline del prosecco abc 02.jpg · Patafisik · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ix)(x)"
 lat: 2.666666666
 lon: 16.333333333
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 桑加三国保护区 / Sangha Trinational
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:18Z"
 
 ## 图片 / Images
 
-![Sangha Trinational](https://whc.unesco.org/uploads/sites/site_1380.jpg)
+![Sunbeams in Sangha Trinational rainforest.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Sunbeams%20in%20Sangha%20Trinational%20rainforest.jpg?width=1280)
 
-*Sangha Trinational · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Sunbeams in Sangha Trinational rainforest.jpg · see Wikimedia Commons file page*
+
+![BaAka hunter carrying a traditional hunting net in Dzanga-Sangha National Park, Central African Republic.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/BaAka_hunter_carrying_a_traditional_hunting_net_in_Dzanga-Sangha_National_Park%2C_Central_African_Republic.jpg/1280px-BaAka_hunter_carrying_a_traditional_hunting_net_in_Dzanga-Sangha_National_Park%2C_Central_African_Republic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BaAka hunter carrying a traditional hunting net in Dzanga-Sangha National Park, Central African Republic.jpg · JosepMGracia · CC BY-SA 4.0*
+
+![Forest stream in Sangha Trinational.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Forest_stream_in_Sangha_Trinational.jpg/1280px-Forest_stream_in_Sangha_Trinational.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Forest stream in Sangha Trinational.jpg · JosepMGracia · CC BY-SA 4.0*
+
+![Lac près de Sangha.jpg](https://upload.wikimedia.org/wikipedia/commons/8/82/Lac_pr%C3%A8s_de_Sangha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Lac près de Sangha.jpg · bayanga85 · CC BY-SA 2.0*
+
+![Primary rainforest in Sangha Trinational.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Primary_rainforest_in_Sangha_Trinational.jpg/1280px-Primary_rainforest_in_Sangha_Trinational.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Primary rainforest in Sangha Trinational.jpg · JosepMGracia · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ix)(x)"
 lat: 20.496745
 lon: -74.857897
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 阿里杰罗德胡波尔德国家公园 / Alejandro de Humboldt National Park
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:13Z"
 
 ## 图片 / Images
 
-![Alejandro de Humboldt National Park](https://whc.unesco.org/uploads/sites/site_839.jpg)
+![Alejandro de Humboldt National Park.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Alejandro%20de%20Humboldt%20National%20Park.jpg?width=1280)
 
-*Alejandro de Humboldt National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Alejandro de Humboldt National Park.jpg · see Wikimedia Commons file page*
+
+![Alejandro de Humboldt National Park - Visitor Center - 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Alejandro_de_Humboldt_National_Park_-_Visitor_Center_-_01.jpg/1280px-Alejandro_de_Humboldt_National_Park_-_Visitor_Center_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alejandro de Humboldt National Park - Visitor Center - 01.jpg · Maesi64 · CC0*
+
+![Alejandro de Humboldt National Park - Visitor Center - 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Alejandro_de_Humboldt_National_Park_-_Visitor_Center_-_02.jpg/1280px-Alejandro_de_Humboldt_National_Park_-_Visitor_Center_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alejandro de Humboldt National Park - Visitor Center - 02.jpg · Maesi64 · CC0*
+
+![Alejandro de Humboldt National Park.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a0/Alejandro_de_Humboldt_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Alejandro de Humboldt National Park.jpg · Antonio Núñez Jiménez · CC BY-SA 3.0*
+
+![Bahía de Taco 4918.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bah%C3%ADa_de_Taco_4918.jpg/1280px-Bah%C3%ADa_de_Taco_4918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahía de Taco 4918.jpg · Christian Pirkl · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

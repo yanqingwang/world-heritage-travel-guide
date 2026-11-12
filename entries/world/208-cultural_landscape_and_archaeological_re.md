@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 34.832042
 lon: 67.826803
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 巴米扬山谷的文化景观和考古遗迹 / Cultural Landscape and Archaeological Remains of the Bamiyan Valley
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Cultural Landscape and Archaeological Remains of the Bamiyan Valley](https://whc.unesco.org/uploads/sites/site_208.jpg)
+![Bamiyan-Site-Unesco-30212186.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Bamiyan-Site-Unesco-30212186.jpg?width=1280)
 
-*Cultural Landscape and Archaeological Remains of the Bamiyan Valley · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bamiyan-Site-Unesco-30212186.jpg · see Wikimedia Commons file page*
+
+![Cultural Landscape and Archaeological Remains of the Bamiyan Valley-109157.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-109157.jpg/1280px-Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-109157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cultural Landscape and Archaeological Remains of the Bamiyan Valley-109157.jpg · Alessandro Balsamo · CC BY-SA 3.0 igo*
+
+![Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130351.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130351.jpg/1280px-Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130351.jpg · Roland Lin · CC BY-SA 3.0 igo*
+
+![Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130361.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130361.jpg/1280px-Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130361.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130361.jpg · Roland Lin · CC BY-SA 3.0 igo*
+
+![Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130368.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130368.jpg/1280px-Cultural_Landscape_and_Archaeological_Remains_of_the_Bamiyan_Valley-130368.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cultural Landscape and Archaeological Remains of the Bamiyan Valley-130368.jpg · Roland Lin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 36.43889
 lon: -105.54167
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 陶斯印第安村 / Taos Pueblo
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:10Z"
 
 ## 图片 / Images
 
-![Taos Pueblo](https://whc.unesco.org/uploads/sites/site_492.jpg)
+![Detail, Taos Pueblo NM.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Detail%2C%20Taos%20Pueblo%20NM.jpg?width=1280)
 
-*Taos Pueblo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Detail, Taos Pueblo NM.jpg · see Wikimedia Commons file page*
+
+![NMMap-doton-TaosPueblo.PNG](https://upload.wikimedia.org/wikipedia/commons/f/f5/NMMap-doton-TaosPueblo.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*NMMap-doton-TaosPueblo.PNG · The original uploader was Seth Ilys at English Wikipedia . · CC BY-SA 3.0*
+
+![Taos County New Mexico Incorporated and Unincorporated areas Taos Pueblo Highlighted.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Taos_County_New_Mexico_Incorporated_and_Unincorporated_areas_Taos_Pueblo_Highlighted.svg/1280px-Taos_County_New_Mexico_Incorporated_and_Unincorporated_areas_Taos_Pueblo_Highlighted.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Taos County New Mexico Incorporated and Unincorporated areas Taos Pueblo Highlighted.svg · Arkyan · CC BY-SA 3.0*
+
+![1982-06-06 Taos Pueblo NM 47-ps.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/1982-06-06_Taos_Pueblo_NM_47-ps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1982-06-06 Taos Pueblo NM 47-ps.jpg · Rainer Halama · CC BY-SA 3.0*
+
+![4140R Taos Pueblo Locator Map.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/4140R_Taos_Pueblo_Locator_Map.svg/1280px-4140R_Taos_Pueblo_Locator_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4140R Taos Pueblo Locator Map.svg · awmcphee · CC0*
 
 ## 简介 / Introduction
 

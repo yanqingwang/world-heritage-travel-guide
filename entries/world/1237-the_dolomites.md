@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(vii)(viii)"
 lat: 46.61306
 lon: 12.16306
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 多洛米蒂山 / The Dolomites
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 意大利 · 自然遗产
 
 ## 图片 / Images
+
+![Tre Cime di Lavaredo-Vista da Rif Lavaredo.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Tre%20Cime%20di%20Lavaredo-Vista%20da%20Rif%20Lavaredo.JPG?width=1280)
+
+*Tre Cime di Lavaredo-Vista da Rif Lavaredo.JPG · see Wikimedia Commons file page*
 
 ![The Dolomites](https://whc.unesco.org/uploads/sites/site_1237.jpg)
 

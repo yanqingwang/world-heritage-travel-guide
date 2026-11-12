@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Huizhou"
 lat: 23.095461
 lon: 114.403979
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 惠州市惠城区惠州西湖旅游景区 / West Lake (Huizhou)

@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(vi)(x)"
 lat: 18.0775
 lon: -76.571111111
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 蓝山和约翰·克罗山 / Blue and John Crow Mountains
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:18Z"
 > 牙买加 · 混合遗产
 
 ## 图片 / Images
+
+![Blue Mountains, Jamaica.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Mountains%2C%20Jamaica.jpg?width=1280)
+
+*Blue Mountains, Jamaica.jpg · see Wikimedia Commons file page*
 
 ![Blue and John Crow Mountains](https://whc.unesco.org/uploads/sites/site_1356.jpg)
 

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iv)"
 lat: 22.616666666
 lon: -83.716666666
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 比尼亚莱斯山谷 / Viñales Valley
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:14Z"
 
 ## 图片 / Images
 
-![Viñales Valley](https://whc.unesco.org/uploads/sites/site_840.jpg)
+![Viñales Valley.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Vi%C3%B1ales%20Valley.jpg?width=1280)
 
-*Viñales Valley · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Viñales Valley.jpg · see Wikimedia Commons file page*
+
+![AJM 041 Valle de Viñales.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/AJM_041_Valle_de_Vi%C3%B1ales.JPG/1280px-AJM_041_Valle_de_Vi%C3%B1ales.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AJM 041 Valle de Viñales.JPG · Arnoud Joris Maaswinkel · CC BY-SA 4.0*
+
+![AJM 042 Valle de Viñales.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/AJM_042_Valle_de_Vi%C3%B1ales.JPG/1280px-AJM_042_Valle_de_Vi%C3%B1ales.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AJM 042 Valle de Viñales.JPG · Arnoud Joris Maaswinkel · CC BY-SA 4.0*
+
+![Assecador tabac Viñales.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Assecador_tabac_Vi%C3%B1ales.JPG/1280px-Assecador_tabac_Vi%C3%B1ales.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Assecador tabac Viñales.JPG · Mmoyaq · CC BY-SA 3.0*
+
+![Carretera - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Carretera_-_panoramio.jpg/1280px-Carretera_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carretera - panoramio.jpg · Eduardo Manchon · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

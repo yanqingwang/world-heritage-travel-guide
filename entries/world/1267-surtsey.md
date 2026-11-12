@@ -3,7 +3,7 @@ id: "wh-1267"
 dataset: "unesco"
 name_zh: "叙尔特塞岛"
 name_en: "Surtsey"
-name_local: ""
+name_local: "Surtsey"
 country: "IS"
 country_zh: "冰岛"
 country_en: "Iceland"
@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ix)"
 lat: 63.30402566
 lon: -20.604713791
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 叙尔特塞岛 / Surtsey
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, is a new island formed by volcanic eruptions that took place from 1963 to 1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. Free from human interference, Surtsey has been producing unique long-term information on the colonisation process of new land by plant and animal life. Since they began studying the island in 1964, scientists have observed the arrival of seeds carried by ocean currents, the appearance of moulds, bacteria and fungi, followed in 1965 by the first vascular plant, of which there were 10 species by the end of the first decade. By 2004, they numbered 60 together with 75 bryophytes, 71 lichens and 24 fungi. Eighty-nine species of birds have been recorded on Surtsey, 57 of which breed elsewhere in Iceland. The 141 ha island is also home to 335 species of invertebrates.
 
+## 本地语言 / Local language (Icelandic)
+
+**Surtsey**
+
+Surtsey er syðsta eyjan í Vestmannaeyjaklasanum, en miðpunktur hennar er 63°18'N, 20°36'V. Hún er jafnframt sú eina þeirra sem hefur myndast á sögulegum tíma, eða í mesta neðansjávareldgosi á sögulegum tíma. Menn urðu gossins varir klukkan 7:15 að morgni þess 14. nóvember 1963, þegar það braust upp úr yfirborði sjávar skammt frá fiskibátnum Ísleifi II frá Vestmannaeyjum. Skipverjar mældu sjávarhita í hálfrar mílu (rúmlega 900m) fjarlægð og reyndist hitastigið vera nálægt 10 °C. Gosið magnaðist hratt og varð hár gosmökkur. Næsta morgun sást í gosmekkinum að eyja hafði myndast. Er því ljóst að gosið hefur hafist einhverjum dögum áður en þess varð vart. Þann 12. nóvember fannst brennisteinslykt í lofti í suðvestanátt í Vík í Mýrdal, en engra jarðhræringa hafði orðið vart dagana fyrir uppkomu gossins. Gosið stóð fram til 5. júní 1967 eða í um það bil þrjú og hálft ár. Síðan hefur flatarmál eyjunnar minnkað úr 2,7 km2 í 1,4 km2 sökum rofs sjávar og vinda. Eyjan er um 20 km suðvestur af Heimaey, eða um 30 km suðvestur af Landeyjasandi á meginlandi Íslands. Surtsey hefur verið á heimsminjaskrá UNESCO frá 8. júlí 2008. Surtsey var friðlýst árið 1965. Umhverfisstofnun fer með umsjón Surtseyjarfriðlandsins. Surteyjarfélagið samræmir og leitast við af efla vísindarannsóknir í Surtsey. Óheimilt er að fara í land í Surtsey eða kafa við eyna nema að fengnu leyfi Umhverfisstofnunar. Heimilt e
+
 ## 交通 / Transport
 
 - ✈ **Reykjavík Domestic Airport (RKV)** — 112.8 km
@@ -83,7 +89,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 

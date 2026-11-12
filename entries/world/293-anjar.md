@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(iii)(iv)"
 lat: 33.725833333
 lon: 35.929722222
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 安杰尔 / Anjar

@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.766881
 lon: 115.225481
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 保定市野三坡景区 / Yesanpo National Park

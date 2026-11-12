@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -25.92897
 lon: 113.604655
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 西澳大利亚鲨鱼湾 / Shark Bay, Western Australia
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:11Z"
 > 澳大利亚 · State of Western Australia · 自然遗产
 
 ## 图片 / Images
+
+![00 1817 Shark Bay Western Australia - Denham.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/00_1817_Shark_Bay_Western_Australia_-_Denham.jpg/1280px-00_1817_Shark_Bay_Western_Australia_-_Denham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 1817 Shark Bay Western Australia - Denham.jpg · W. Bulach · CC BY-SA 4.0*
+
+![Living stromatolites, Shark Bay, Western Australia.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Living_stromatolites%2C_Shark_Bay%2C_Western_Australia.png/1280px-Living_stromatolites%2C_Shark_Bay%2C_Western_Australia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Living stromatolites, Shark Bay, Western Australia.png · Ed Landing & Markes E. Johnson (in: Journal of Marine Science and Engineering, 2024) · CC BY 4.0*
+
+![Shark Bay, Australia, a UNESCO World Heritage Site (Copernicus 2025-12-07).png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Shark_Bay%2C_Australia%2C_a_UNESCO_World_Heritage_Site_%28Copernicus_2025-12-07%29.png/1280px-Shark_Bay%2C_Australia%2C_a_UNESCO_World_Heritage_Site_%28Copernicus_2025-12-07%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Shark Bay, Australia, a UNESCO World Heritage Site (Copernicus 2025-12-07).png · European Union, Copernicus Sentinel-2 imagery · Attribution*
+
+![Shark Bay, Australia (5036).jpg](https://upload.wikimedia.org/wikipedia/commons/2/2a/Shark_Bay%2C_Australia_%285036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Shark Bay, Australia (5036).jpg · Astronaut photograph ISS010-E-6681 was acquired November 12, 2004 with a Kodak 760C digital camera with a 180 mm lens, a · Public domain*
 
 ![Shark Bay, Western Australia](https://whc.unesco.org/uploads/sites/site_578.jpg)
 

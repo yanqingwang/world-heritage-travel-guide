@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iii)"
 lat: 36.063777777
 lon: -107.970833333
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 查科文化国家历史公园 / Chaco Culture
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:09Z"
 
 ## 图片 / Images
 
-![Chaco Culture](https://whc.unesco.org/uploads/sites/site_353.jpg)
+![Chaco Canyon Chetro Ketl great kiva plaza NPS.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Chaco%20Canyon%20Chetro%20Ketl%20great%20kiva%20plaza%20NPS.jpg?width=1280)
 
-*Chaco Culture · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chaco Canyon Chetro Ketl great kiva plaza NPS.jpg · see Wikimedia Commons file page*
+
+![Chaco-Ruins,-Detail2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chaco-Ruins%2C-Detail2.jpg/1280px-Chaco-Ruins%2C-Detail2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chaco-Ruins,-Detail2.jpg · Steven C. Price · CC BY-SA 3.0*
+
+![Chaco-Ruins5-Detail.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chaco-Ruins5-Detail.jpg/1280px-Chaco-Ruins5-Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chaco-Ruins5-Detail.jpg · Steven C. Price · CC BY-SA 3.0*
+
+![Chaco Culture Pueblo Ruins.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chaco_Culture_Pueblo_Ruins.JPG/1280px-Chaco_Culture_Pueblo_Ruins.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chaco Culture Pueblo Ruins.JPG · Acwassink · CC BY-SA 3.0*
+
+![Chaco Culture South Entrance.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chaco_Culture_South_Entrance.jpg/1280px-Chaco_Culture_South_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chaco Culture South Entrance.jpg · Zenhaus · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

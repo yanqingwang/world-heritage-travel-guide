@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Dongying"
 lat: 37.809776
 lon: 119.082774
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 东营市黄河口生态旅游区 / Yellow River

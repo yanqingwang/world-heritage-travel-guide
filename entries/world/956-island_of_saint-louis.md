@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 16.027780555
 lon: -16.504438888
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 圣路易斯岛 / Island of Saint-Louis
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:15Z"
 
 ## 图片 / Images
 
-![Island of Saint-Louis](https://whc.unesco.org/uploads/sites/site_956.jpg)
+![Island of Saint-Louis-113799.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Island%20of%20Saint-Louis-113799.jpg?width=1280)
 
-*Island of Saint-Louis · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Island of Saint-Louis-113799.jpg · see Wikimedia Commons file page*
+
+![2017-06-10 Hotel in Saint-Louis.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2017-06-10_Hotel_in_Saint-Louis.jpg/1280px-2017-06-10_Hotel_in_Saint-Louis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017-06-10 Hotel in Saint-Louis.jpg · Mich-nguyen · CC BY-SA 4.0*
+
+![2017-06-10 Maison Rose Hotel in Saint-Louis.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2017-06-10_Maison_Rose_Hotel_in_Saint-Louis.jpg/1280px-2017-06-10_Maison_Rose_Hotel_in_Saint-Louis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017-06-10 Maison Rose Hotel in Saint-Louis.jpg · Mich-nguyen · CC BY-SA 4.0*
+
+![2017-06-10 Saint-Louis street.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2017-06-10_Saint-Louis_street.jpg/1280px-2017-06-10_Saint-Louis_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017-06-10 Saint-Louis street.jpg · Mich-nguyen · CC BY-SA 4.0*
+
+![2017-06-10 Sculpture by the Senegal river 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2017-06-10_Sculpture_by_the_Senegal_river_2.jpg/1280px-2017-06-10_Sculpture_by_the_Senegal_river_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017-06-10 Sculpture by the Senegal river 2.jpg · Mich-nguyen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -3,7 +3,7 @@ id: "wh-1685"
 dataset: "unesco"
 name_zh: "蒂格罗瓦亚·巴尔卡自然保护区的托喀依森林"
 name_en: "Tugay forests of the Tigrovaya Balka Nature Reserve"
-name_local: ""
+name_local: "Бешаи палангон"
 country: "TJ"
 country_zh: "塔吉克斯坦"
 country_en: "Tajikistan"
@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ix)"
 lat: 37.25
 lon: 68.5
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 蒂格罗瓦亚·巴尔卡自然保护区的托喀依森林 / Tugay forests of the Tigrovaya Balka Nature Reserve
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:20Z"
 
 This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size.
 
+## 本地语言 / Local language (Tajik)
+
+**Бешаи палангон**
+
+Мамнуъгоҳи давлатии табии «Бешаи палангон» — яке аз мавзеъҳои табии Тоҷикистон буда дар ҷануби Тоҷикистон дар резишгоҳи рӯди Вахш ба рӯди Панҷ ҷой дорад. Масоҳати мамнуъгоҳи «Бешаи палангон» 49 700 га ташкил медиҳад. Мамнуъгоҳи табии «Бешаи палангон» бо қарори Комиссариати халқии кишоварзии Тоҷикистон дар 4 ноябри соли 1938 таъсис шудааст.
+
 ## 交通 / Transport
 
 - ✈ **Bokhtar International Airport (KQT)** — 75.7 km
@@ -58,7 +64,7 @@ Visa not required (conditional) / eVisa[6][144] Holders of passports for public 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

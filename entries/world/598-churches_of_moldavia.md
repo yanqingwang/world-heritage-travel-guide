@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iv)"
 lat: 47.733
 lon: 25.933
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 苏切维察修道院的复活教堂 / Churches of Moldavia
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:11Z"
 > 罗马尼亚 · 文化遗产
 
 ## 图片 / Images
+
+![Voronet church.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Voronet%20church.jpg?width=1280)
+
+*Voronet church.jpg · see Wikimedia Commons file page*
 
 ![Churches of Moldavia](https://whc.unesco.org/uploads/sites/site_598.jpg)
 

@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iv)"
 lat: 20.91444444
 lon: -100.7463889
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 圣米格尔保护镇和耶稣纳萨雷诺阿托托尼尔科圣殿 / Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:17Z"
 > 墨西哥 · Guanajuato Region · 文化遗产
 
 ## 图片 / Images
+
+![Bureau of Land Management in New Mexico (IA blmnewmexoklatex1979unit).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bureau_of_Land_Management_in_New_Mexico_%28IA_blmnewmexoklatex1979unit%29.pdf/page1-960px-Bureau_of_Land_Management_in_New_Mexico_%28IA_blmnewmexoklatex1979unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bureau of Land Management in New Mexico (IA blmnewmexoklatex1979unit).pdf · United States. Bureau of Land Management. New Mexico State Office · Public domain*
+
+![Bureau of Land Management in New Mexico (IA blmnewmexoklatex1982unit).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Bureau_of_Land_Management_in_New_Mexico_%28IA_blmnewmexoklatex1982unit%29.pdf/page1-960px-Bureau_of_Land_Management_in_New_Mexico_%28IA_blmnewmexoklatex1982unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bureau of Land Management in New Mexico (IA blmnewmexoklatex1982unit).pdf · United States. Bureau of Land Management. New Mexico State Office · Public domain*
+
+![Bureau of Land Management in New Mexico (IA bureauoflandmanage00unit).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bureau_of_Land_Management_in_New_Mexico_%28IA_bureauoflandmanage00unit%29.pdf/page1-960px-Bureau_of_Land_Management_in_New_Mexico_%28IA_bureauoflandmanage00unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bureau of Land Management in New Mexico (IA bureauoflandmanage00unit).pdf · United States. Bureau of Land Management. New Mexico State Office · Public domain*
+
+![Maps and reports of the San Juan del Rio ranche, in Sonora, Mexico (IA mapsreportsofsan00cinc).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Maps_and_reports_of_the_San_Juan_del_Rio_ranche%2C_in_Sonora%2C_Mexico_%28IA_mapsreportsofsan00cinc%29.pdf/page1-500px-Maps_and_reports_of_the_San_Juan_del_Rio_ranche%2C_in_Sonora%2C_Mexico_%28IA_mapsreportsofsan00cinc%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Maps and reports of the San Juan del Rio ranche, in Sonora, Mexico (IA mapsreportsofsan00cinc).pdf · Cincinnati & Sonora Mining Association Cherry, Cummings Cherry, James · Public domain*
 
 ![Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco](https://whc.unesco.org/uploads/sites/site_1274.jpg)
 

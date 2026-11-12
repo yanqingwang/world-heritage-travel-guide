@@ -293,6 +293,10 @@ def static_files(path: str):
     target = SITE_DIR / path
     if target.is_file():
         return send_from_directory(SITE_DIR, path)
+    # 带扩展名的静态资源缺失时返回 404：不能把 index.html 当成 .js/.css 返回，
+    # 否则浏览器会把 HTML 当脚本解析并报错（例如旧版缓存引用的已删除文件）。
+    if Path(path).suffix:
+        return jsonify({"error": "not found"}), 404
     # 站点是 hash 路由式单页（index.html#…），未知路径回落到首页
     return send_from_directory(SITE_DIR, "index.html")
 

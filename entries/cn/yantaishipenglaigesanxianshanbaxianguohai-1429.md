@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Yantai"
 lat: 37.827863
 lon: 120.761698
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 烟台市蓬莱阁-三仙山-八仙过海旅游区 / Penglai Pavilion

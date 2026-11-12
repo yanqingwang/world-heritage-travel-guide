@@ -3,7 +3,7 @@ id: "wh-1141"
 dataset: "unesco"
 name_zh: "萨拉子目古城的原型城市遗址"
 name_en: "Proto-urban Site of Sarazm"
-name_local: ""
+name_local: "Саразм"
 country: "TJ"
 country_zh: "塔吉克斯坦"
 country_en: "Tajikistan"
@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)"
 lat: 39.516666666
 lon: 67.566666666
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 萨拉子目古城的原型城市遗址 / Proto-urban Site of Sarazm
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean.
 
+## 本地语言 / Local language (Tajik)
+
+**Саразм**
+
+Шаҳркадаи Саразм — яке аз ёдгориҳои қадимтарини давраи энеолит ва аввали асри биринҷӣ Осиёи Миёна мебошад. Дар болооби Зарафшон чор ёдгорӣ ва якчанд нуқоте бо бозёфтҳои ба ҳама зинаҳои давраи биринҷӣ хос буда ошкор шуд. Ин манбаъҳо маҳаллаи Саразм, қабри Зардча Халифа, қабристони Дашти Қозӣ, қабристони Чорбоғ ва ғайра мебошад. Масоҳати густариши ёдгориҳо ва бозёфтҳои номбурда то 140 км қад ва 15-20 км барро фаро гирифтааст. 31 июли соли 2010 Саразм ба Феҳристи мероси фарҳангии умумибашарии ЮНЕСКО дохил шудааст.
+
 ## 交通 / Transport
 
 - ✈ **Samarkand International Airport (SKD)** — 54.2 km
@@ -58,7 +64,7 @@ Visa not required (conditional) / eVisa[6][144] Holders of passports for public 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

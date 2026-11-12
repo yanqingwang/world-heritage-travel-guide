@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 65.024444
 lon: 35.710556
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 索洛维茨基群岛的历史建筑群 / Cultural and Historic Ensemble of the Solovetsky Islands

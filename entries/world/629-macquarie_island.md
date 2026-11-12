@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(vii)(viii)"
 lat: -54.63
 lon: 158.86
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 麦夸里岛 / Macquarie Island
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:12Z"
 
 ## 图片 / Images
 
-![Macquarie Island](https://whc.unesco.org/uploads/sites/site_629.jpg)
+![MacquarieIsland7.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/MacquarieIsland7.JPG?width=1280)
 
-*Macquarie Island · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*MacquarieIsland7.JPG · see Wikimedia Commons file page*
+
+![Acaena minor Stevage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Acaena_minor_Stevage.jpg/1280px-Acaena_minor_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acaena minor Stevage.jpg · Stevage · CC BY-SA 4.0*
+
+![Admiralty Chart No 1022 Island and anchorages in the Southern Ocean including Macquarie Island, Published 1917.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Admiralty_Chart_No_1022_Island_and_anchorages_in_the_Southern_Ocean_including_Macquarie_Island%2C_Published_1917.jpg/1280px-Admiralty_Chart_No_1022_Island_and_anchorages_in_the_Southern_Ocean_including_Macquarie_Island%2C_Published_1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 1022 Island and anchorages in the Southern Ocean including Macquarie Island, Published 1917.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![Antarctic Mail 1911.jpg](https://upload.wikimedia.org/wikipedia/commons/3/30/Antarctic_Mail_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Antarctic Mail 1911.jpg · British Government · Public domain*
+
+![AudioElleSeals.oga](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*AudioElleSeals.oga · Hullwarren · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

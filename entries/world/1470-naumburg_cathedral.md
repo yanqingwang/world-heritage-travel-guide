@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(i)(ii)"
 lat: 51.154722222
 lon: 11.803888888
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 瑙姆堡大教堂 / Naumburg Cathedral
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:19Z"
 
 ## 图片 / Images
 
-![Naumburg Cathedral](https://whc.unesco.org/uploads/sites/site_1470.jpg)
+![Naumburger Dom.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Naumburger%20Dom.JPG?width=1280)
 
-*Naumburg Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Naumburger Dom.JPG · see Wikimedia Commons file page*
+
+![De-Naumburger Dom.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*De-Naumburger Dom.ogg · Jeuwre · CC BY-SA 4.0*
+
+![Dom Naumburg 54.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dom_Naumburg_54.jpg/1280px-Dom_Naumburg_54.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dom Naumburg 54.jpg · FrDr · CC BY-SA 4.0*
+
+![Dom Naumburg 61.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dom_Naumburg_61.jpg/1280px-Dom_Naumburg_61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dom Naumburg 61.jpg · FrDr · CC BY-SA 4.0*
+
+![Dom Naumburg 81.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dom_Naumburg_81.jpg/1280px-Dom_Naumburg_81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dom Naumburg 81.jpg · FrDr · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(x)"
 lat: 31.804288
 lon: 77.951021
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 大喜马拉雅山脉国家公园保护区 / Great Himalayan National Park Conservation Area

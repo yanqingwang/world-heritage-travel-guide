@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Pingliang City"
 lat: 35.442341
 lon: 105.659367
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 平凉市崆峒山风景名胜区 / Huanglong Scenic and Historic Interest Area

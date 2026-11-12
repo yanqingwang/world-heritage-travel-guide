@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hohhot"
 lat: 39.694348
 lon: 111.435569
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 呼和浩特市老牛湾黄河大峡谷旅游区 / Huhehaoteshilaoniuwanhuanghedaxiagu Tourist Area

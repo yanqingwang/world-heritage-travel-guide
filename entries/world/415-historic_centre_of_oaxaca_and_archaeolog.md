@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 17.06194
 lon: -96.72167
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 瓦哈卡历史中心与阿尔班山考古遗址 / Historic Centre of Oaxaca and Archaeological Site of Monte Albán
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:10Z"
 > 墨西哥 · Etat de Oaxaca de Juarez, municipalites de Oaxaca, Xoxocotlan et Cuilapan · 文化遗产
 
 ## 图片 / Images
+
+![Monte Albán - 55388785082.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Monte_Alb%C3%A1n_-_55388785082.jpg/1280px-Monte_Alb%C3%A1n_-_55388785082.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Monte Albán - 55388785082.jpg · xiquinhosilva · CC BY 4.0*
+
+![Monte Albán - 55388786582.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Monte_Alb%C3%A1n_-_55388786582.jpg/1280px-Monte_Alb%C3%A1n_-_55388786582.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Monte Albán - 55388786582.jpg · xiquinhosilva · CC BY 4.0*
+
+![Monte Albán - 55389901864.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Monte_Alb%C3%A1n_-_55389901864.jpg/1280px-Monte_Alb%C3%A1n_-_55389901864.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Monte Albán - 55389901864.jpg · xiquinhosilva · CC BY 4.0*
+
+![Monte Albán - 55389902624.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Monte_Alb%C3%A1n_-_55389902624.jpg/1280px-Monte_Alb%C3%A1n_-_55389902624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Monte Albán - 55389902624.jpg · xiquinhosilva · CC BY 4.0*
 
 ![Historic Centre of Oaxaca and Archaeological Site of Monte Albán](https://whc.unesco.org/uploads/sites/site_415.jpg)
 

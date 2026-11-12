@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(ii)(iii)(iv)"
 lat: 40.5075
 lon: 43.572777777
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 阿尼 / Archaeological Site of Ani

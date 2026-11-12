@@ -3,7 +3,7 @@ id: "wh-250"
 dataset: "unesco"
 name_zh: "朱罗王朝现存的神庙"
 name_en: "Great Living Chola Temples"
-name_local: ""
+name_local: "महान जीवित चोल मंदिर"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iii)"
 lat: 10.783055555
 lon: 79.1325
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 朱罗王朝现存的神庙 / Great Living Chola Temples
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 The Great Living Chola Temples were built by kings of the Chola Empire, which stretched over all of south India and the neighbouring islands. The site includes three great 11th- and 12th-century Temples: the Brihadisvara Temple at Thanjavur, the Brihadisvara Temple at Gangaikondacholisvaram and the Airavatesvara Temple at Darasuram. The Temple of Gangaikondacholisvaram, built by Rajendra I, was completed in 1035. Its 53-m vimana (sanctum tower) has recessed corners and a graceful upward curving movement, contrasting with the straight and severe tower at Thanjavur. The Airavatesvara temple complex, built by Rajaraja II, at Darasuram features a 24-m vimana and a stone image of Shiva. The temples testify to the brilliant achievements of the Chola in architecture, sculpture, painting and bronze casting.
 
+## 本地语言 / Local language (Hindi)
+
+**महान जीवित चोल मंदिर**
+
+महान जीवित चोल मन्दिर (Great Living Chola Temples) भारत के तमिल नाडु राज्य में चोल साम्राज्य काल के कुछ हिन्दू मन्दिरों की सूची है जिन्हें यूनेस्को विश्व धरोहर स्थल घोषित करा गया है। यह 11वीं और 12वीं शताब्दी में निर्मित हुए थे और इस सूची में बृहदीश्वर मन्दिर, तंजावूर, बृहदीश्वर मन्दिर, गंगैकोण्ड चोलपुरम और ऐरावतेश्वर मन्दिर, कुंभकोणम सम्मिलित हैं।
+
 ## 交通 / Transport
 
 - ✈ **Tiruchirappalli International Airport (TRZ)** — 45.4 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

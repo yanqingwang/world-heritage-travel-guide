@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iv)"
 lat: 52.55
 lon: 4.9278
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 比姆斯特迂田 / Droogmakerij de Beemster (Beemster Polder)

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 49.860319444
 lon: 19.670719444
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 卡瓦利泽布日多夫斯津：自成一家的建筑景观朝圣园 / Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park

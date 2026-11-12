@@ -3,7 +3,7 @@ id: "wh-1338"
 dataset: "unesco"
 name_zh: "简塔•曼塔天文台"
 name_en: "The Jantar Mantar, Jaipur"
-name_local: ""
+name_local: "जन्तर मन्तर (जयपुर)"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(iv)"
 lat: 26.924722222
 lon: 75.825
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 简塔•曼塔天文台 / The Jantar Mantar, Jaipur
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 The Jantar Mantar, in Jaipur, is an astronomical observation site built in the early 18th century. It includes a set of some 20 main fixed instruments. They are monumental examples in masonry of known instruments but which in many cases have specific characteristics of their own. Designed for the observation of astronomical positions with the naked eye, they embody several architectural and instrumental innovations. This is the most significant, most comprehensive, and the best preserved of India's historic observatories. It is an expression of the astronomical skills and cosmological concepts of the court of a scholarly prince at the end of the Mughal period.
 
+## 本地语言 / Local language (Hindi)
+
+**जन्तर मन्तर (जयपुर)**
+
+जयपुर का जन्तर मन्तर सवाई जयसिंह द्वारा १७२४ से १७३४ के बीच निर्मित एक खगोलीय वेधशाला है। यह यूनेस्को के 'विश्व धरोहर सूची' में सम्मिलित है। इस वेधशाला में १४ प्रमुख यन्त्र हैं जो समय मापने, ग्रहण की भविष्यवाणी करने, किसी तारे की गति एवं स्थिति जानने, सौर मण्डल के ग्रहों के दिक्पात जानने आदि में सहायक हैं। इन यन्त्रों को देखने से पता चलता है कि भारत के लोगों को गणित एवं खगोलिकी के जटिल संकल्पनाओं (कॉंसेप्ट्स) का इतना गहन ज्ञान था कि वे इन संकल्पनाओं को एक 'शैक्षणिक वेधशाला' का रूप दे सके ताकि कोई भी उन्हें जान सके और उसका आनन्द ले सके। जयपुर में पुराने राजमहल 'चन्द्रमहल' से जुडी एक आश्चर्यजनक मध्यकालीन उपलब्धि है- जंतर मंतर! प्राचीन खगोलीय यंत्रों और जटिल गणितीय संरचनाओं के माध्यम से ज्योतिषीय और खगोलीय घटनाओं का विश्लेषण और सटीक भविष्यवाणी करने के लिए दुनिया भर में प्रसिद्ध इस अप्रतिम वेधशाला का निर्माण जयपुर नगर के संस्थापक आमेर के राजा सवाई जयसिंह (द्वितीय) ने 1728 में अपनी निजी देखरेख में शुरू करवाया था, जो सन 1734में पूरा हुआ था। सवाई जयसिंह एक खगोल वैज्ञानिक भी थे, जिनके योगदान और व्यक्तित्व की प्रशंसा जवाहर लाल नेहरू ने अपनी प्रसिद्ध पुस्तक 'डिस्कवरी ऑफ इंडिया' ('भारत : एक खोज') में सम्मानपूर्वक की है। सवाई जयसिंह ने इस वेधशाला के निर्माण से पहले विश्व के कई देशों में अपने सांस्कृतिक दूत भेज कर वहां से खगोल-विज्ञान के प्राचीन और महत्वपूर्ण ग्रंथों की पांडुलिपियाँ मंगवाईं थीं और उन्हें अपने पोथीखाने (पुस्तकालय) में संरक्षित कर अपने अध्ययन के लिए उनका अनुवाद भी करवाया था।
+
 ## 交通 / Transport
 
 - ✈ **Jaipur International Airport (JAI)** — 11.2 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

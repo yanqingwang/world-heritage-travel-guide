@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Chongzuo City"
 lat: 22.186133
 lon: 107.071606
-updated_at: "2026-11-09T12:50:13Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 崇左市花山岩画景区 / Zuojiang Huashan Rock Art

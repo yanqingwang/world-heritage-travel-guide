@@ -1,5 +1,12 @@
 # 变更记录 / Changelog
 
+## 2026-11-12 — 移除 GitHub Token 云同步，保留导出 / 导入
+
+- 删除「☁ 云同步」的 GitHub Contents API 通路（`site/assets/sync.js`、Token 输入、推送/拉取按钮）：普通访客的 Fine-grained PAT 无法写入主仓库，这条路径对公众没有实际价值。
+- 「📦 标记备份」只保留「⬇ 导出 JSON / ⬆ 导入 JSON」，导入按地点合并、不覆盖本地标记；合并逻辑移入 `site/assets/marks-io.js`。
+- 跨浏览器自动同步统一由账号服务负责（`server/app.py` + `site/assets/account.js`）。
+- README / `deploy.md` 同步更新说明。
+
 ## 2026-11-12 — GitHub Pages 同步判断与文档结论
 
 - 研究结论：纯静态 GitHub Pages 无法完成 GitHub OAuth 登录（Web flow 的 `client_secret` 不能放进浏览器，Device flow 仍需服务端换 token）；普通访客自己生成的 Fine-grained PAT 也不能给自己授权写入主仓库。文档写入 `deploy.md`，README 中英文同步说明。

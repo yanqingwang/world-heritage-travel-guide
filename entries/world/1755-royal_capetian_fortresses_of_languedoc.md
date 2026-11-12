@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iv)"
-lat: 38.64928390089583
-lon: 1.2061245243750005
-updated_at: "2026-11-10T23:01:21Z"
+lat: 38.64928390089582
+lon: 1.2061245243749985
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 朗格多克的卡佩王朝皇家堡垒群 / Royal Capetian Fortresses of Languedoc
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 法国 · 文化遗产
 
 ## 图片 / Images
+
+![100520 Aguilar-Aussicht.jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/100520_Aguilar-Aussicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*100520 Aguilar-Aussicht.jpg · BlueBreezeWiki · CC BY-SA 3.0*
+
+![100520-Aguilar-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/100520-Aguilar-01.jpg/1280px-100520-Aguilar-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*100520-Aguilar-01.jpg · BlueBreezeWiki · CC BY-SA 3.0*
+
+![100520-Aguilar-02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/100520-Aguilar-02.jpg/1280px-100520-Aguilar-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*100520-Aguilar-02.jpg · BlueBreezeWiki · CC BY-SA 3.0*
+
+![100520-Aguilar-03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/100520-Aguilar-03.jpg/1280px-100520-Aguilar-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*100520-Aguilar-03.jpg · BlueBreezeWiki · CC BY-SA 3.0*
 
 ![Royal Capetian Fortresses of Languedoc](https://whc.unesco.org/uploads/sites/site_1755.jpg)
 

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 47.643
 lon: 15.831
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 塞默灵铁路 / Semmering Railway

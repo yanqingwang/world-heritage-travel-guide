@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Maanshan City"
 lat: 31.639665
 lon: 118.442385
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 马鞍山市长江采石矶文化生态旅游区 / Caishi Rock

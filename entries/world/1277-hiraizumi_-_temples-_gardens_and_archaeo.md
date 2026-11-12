@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(vi)"
 lat: 38.98861111
 lon: 141.11027778
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 平泉——象征着佛教净土的庙宇、园林与考古遗址 / Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 日本 · 文化遗产
 
 ## 图片 / Images
+
+![Hiraizumi's surroundings, Iwate Prefecture; August 2018 (03).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Hiraizumi%27s%20surroundings%2C%20Iwate%20Prefecture%3B%20August%202018%20%2803%29.jpg?width=1280)
+
+*Hiraizumi's surroundings, Iwate Prefecture; August 2018 (03).jpg · see Wikimedia Commons file page*
 
 ![Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land](https://whc.unesco.org/uploads/sites/site_1277.jpg)
 

@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(vii)(ix)(x)"
 lat: 0.4425
 lon: 36.24
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 肯尼亚裂谷湖泊系统 / Kenya Lake System in the Great Rift Valley
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 肯尼亚 · 自然遗产
 
 ## 图片 / Images
+
+![LakeBogoria.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/LakeBogoria.jpg?width=1280)
+
+*LakeBogoria.jpg · see Wikimedia Commons file page*
 
 ![Kenya Lake System in the Great Rift Valley](https://whc.unesco.org/uploads/sites/site_1060.jpg)
 

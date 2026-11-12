@@ -3,7 +3,7 @@ id: "wh-569"
 dataset: "unesco"
 name_zh: "吉诺卡斯特和培拉特历史中心"
 name_en: "Historic Centres of Berat and Gjirokastra"
-name_local: ""
+name_local: "Qendrat historike të Beratit dhe Gjirokastrës"
 country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(iii)(iv)"
 lat: 40.07416667
 lon: 20.14083333
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 吉诺卡斯特和培拉特历史中心 / Historic Centres of Berat and Gjirokastra
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:11Z"
 
 Berat and Gjirokastra are inscribed as rare examples of an architectural character typical of the Ottoman period. Located in central Albania, Berat bears witness to the coexistence of various religious and cultural communities down the centuries. It features a castle, locally known as the Kala, most of which was built in the 13th century, although its origins date back to the 4th century BC. The citadel area numbers many Byzantine churches, mainly from the 13th century, as well as several mosques built under the Ottoman era which began in 1417. Gjirokastra, in the Drinos river valley in southern Albania, features a series of outstanding two-story houses which were developed in the 17th century. The town also retains a bazaar, an 18th-century mosque and two churches of the same period.
 
+## 本地语言 / Local language (Albanian)
+
+**Qendrat historike të Beratit dhe Gjirokastrës**
+
+Qendrat historike të Beratit dhe Gjirokastrës në qytetet e Beratit dhe Gjirokastrës, Shqipëri, janë caktuar një Vend i Trashëgimisë Botërore nga UNESCO që në vitin 2005. Kufijtë e saj u zgjeruan në vitin 2008. Berati dhe Gjirokastra janë regjistruar si shembuj të rrallë të një arkitekture karakteristike, tipike e periudhës osmane. I vendosur në Shqipërinë jugore, Berati dëshmon për bashkëjetesën e bashkësive të ndryshme fetare dhe kulturore përgjatë shekujve. Ai përmban një kështjellë, pjesa më e madhe e të cilës është ndërtuar në shekullin e XIII-të, edhe pse origjina e tij daton në shekullin e IV para erës sonë. Zona e kështjellës numëron shumë kisha bizantine, kryesisht nga shekulli i XIII-të, si dhe disa xhami të ndërtuara nën epokën otomane duke filluar nga viti 1417. Gjirokastra, në luginën e lumit Drinos gjithashtu në Shqipërinë jugore, përmban një sërë shtëpish të jashtëzakonshme dykatëshe të cilat u ndërtuan në shekullin e XVII-të. Qyteti gjithashtu mban një pazar, një xhami të shekullit të XVIII-të dhe dy kisha të së njëjtës periudhë.
+
 ## 交通 / Transport
 
 - ✈ **Corfu Ioannis Kapodistrias International Airport (CFU)** — 56.1 km
@@ -58,7 +64,7 @@ Visa not required[6][8] 90 days within any 180 day period.
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 

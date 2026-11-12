@@ -3,7 +3,7 @@ id: "wh-524"
 dataset: "unesco"
 name_zh: "桑吉佛教古迹"
 name_en: "Buddhist Monuments at Sanchi"
-name_local: ""
+name_local: "साँची का स्तूप"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 23.47944444
 lon: 77.73972222
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 桑吉佛教古迹 / Buddhist Monuments at Sanchi
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:11Z"
 
 On a hill overlooking the plain and about 40 km from Bhopal, the site of Sanchi comprises a group of Buddhist monuments (monolithic pillars, palaces, temples and monasteries) all in different states of conservation most of which date back to the 2nd and 1st centuries B.C. It is the oldest Buddhist sanctuary in existence and was a major Buddhist centre in India until the 12th century A.D.
 
+## 本地语言 / Local language (Hindi)
+
+**साँची का स्तूप**
+
+साँची (Sanchi, संस्कृत: साञ्चीस्तूपः) भारत के मध्य प्रदेश राज्य के रायसेन ज़िले में साँची नगर के पास एक पहाड़ी पर स्थित एक छोटा सा गांव है। यह बेतवा नदी के किनारे, भोपाल से 46 कि॰मी॰ पूर्वोत्तर में, तथा बेसनगर और विदिशा से 10 कि॰मी॰ की दूरी पर मध्य प्रदेश के मध्य भाग में स्थित है। यहाँ कई बौद्ध स्मारक हैं, जो तीसरी शताब्दी ई.पू. से बारहवीं शताब्दी के बीच के काल के हैं। सांची रायसेन जिले की एक नगर पंचायत है। रायसेन जिले में एक अन्य विश्व दाय स्थल, भीमबेटका भी है। विदिशा से नजदीक होने के कारण लोगों में यह भ्रम होता है की यह विदिशा जिला में है। यहाँ छोटे-बड़े अनेकों स्तूप हैं, जिनमें स्तूप संख्या 1 सबसे बड़ा है। चारों ओर की हरियाली अद्भुत है। इस स्तूप को घेरे हुए कई तोरण भी बने हैं। स्तूप संख्या १ के पास कई लघु स्तूप भी हैं, उन्ही के समीप एक गुप्त कालीन पाषाण स्तंभ भी है। सांची का महान मुख्य स्तूप, मूलतः सम्राट अशोक महान ने तीसरी शती, ई.पू. में बनवाया था। बाद में इस सांची के स्तूप को सम्राट शुंगो के समय सामान्य लोगों द्वारा जीर्णोद्धार करके और बड़ा और विशाल बना दिया । इसके केन्द्र में एक अर्धगोलाकार ईंट निर्मित ढांचा था, जिसमें भगवान बुद्ध के कुछ अवशेष रखे थे। इसके शिखर पर स्मारक को दिये गये ऊंचे सम्मान का प्रतीक रूपी एक छत्र था।.
+
 ## 交通 / Transport
 
 - ✈ **Raja Bhoj International Airport (BHO)** — 46.3 km
@@ -86,7 +92,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

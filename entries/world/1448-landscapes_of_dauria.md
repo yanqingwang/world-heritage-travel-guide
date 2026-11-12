@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ix)(x)"
 lat: 49.93022
 lon: 115.42544
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 达乌里亚景观 / Landscapes of Dauria

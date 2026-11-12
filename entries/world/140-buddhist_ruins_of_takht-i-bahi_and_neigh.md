@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)"
 lat: 34.32083333
 lon: 71.94583333
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 塔克特依巴依佛教遗址和萨尔依巴赫洛古遗址 / Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:07Z"
 > 巴基斯坦 · North West Frontier Province · 文化遗产
 
 ## 图片 / Images
+
+![Ancient wall constructed around Seri-Bahlol..jpg](https://upload.wikimedia.org/wikipedia/commons/a/af/Ancient_wall_constructed_around_Seri-Bahlol..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ancient wall constructed around Seri-Bahlol..jpg · Shahidmrd · CC BY-SA 3.0*
+
+![Ancient wall constructed around Seri-Bahlol.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bc/Ancient_wall_constructed_around_Seri-Bahlol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ancient wall constructed around Seri-Bahlol.jpg · Shahidmrd · Public domain*
+
+![Bronze Buddha, c.400-70 CE, Sahri Bahlol, Gandhara Art, British Museum, London.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bronze_Buddha%2C_c.400-70_CE%2C_Sahri_Bahlol%2C_Gandhara_Art%2C_British_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bronze Buddha, c.400-70 CE, Sahri Bahlol, Gandhara Art, British Museum, London.jpg · SpeakingArch · CC BY-SA 4.0*
+
+![Gandhara Sahr-i-Bhalol.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gandhara_Sahr-i-Bhalol.jpg/1280px-Gandhara_Sahr-i-Bhalol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gandhara Sahr-i-Bhalol.jpg · Foucher, 1905 · Public domain*
 
 ![Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol](https://whc.unesco.org/uploads/sites/site_140.jpg)
 

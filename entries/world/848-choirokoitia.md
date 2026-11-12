@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(iv)"
 lat: 34.796725
 lon: 33.343719444
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 乔伊鲁科蒂亚 / Choirokoitia

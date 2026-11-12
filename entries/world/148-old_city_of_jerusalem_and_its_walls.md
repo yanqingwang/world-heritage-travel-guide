@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(iii)(vi)"
 lat: 31.778214
 lon: 35.23191
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 耶路撒冷古城及其城墙 / Old City of Jerusalem and its Walls
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Old City of Jerusalem and its Walls](https://whc.unesco.org/uploads/sites/site_148.jpg)
+![Old City of Jerusalem and its Walls-108369.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Old%20City%20of%20Jerusalem%20and%20its%20Walls-108369.jpg?width=1280)
 
-*Old City of Jerusalem and its Walls · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Old City of Jerusalem and its Walls-108369.jpg · see Wikimedia Commons file page*
+
+![Proposed water supply and sewerage for Jerusalem (electronic resource) - with description of its present state and former resources (IA b20410256).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Proposed_water_supply_and_sewerage_for_Jerusalem_%28electronic_resource%29_-_with_description_of_its_present_state_and_former_resources_%28IA_b20410256%29.pdf/page1-960px-Proposed_water_supply_and_sewerage_for_Jerusalem_%28electronic_resource%29_-_with_description_of_its_present_state_and_former_resources_%28IA_b20410256%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Proposed water supply and sewerage for Jerusalem (electronic resource) - with description of its present state and former resources (IA b20410256).pdf · Whitty, John Irwine, b. 1822? London Syrian Improvement Committee · Public domain*
+
+![The Holy city; or, Historical, topographical notices of Jerusalem; with some account of its antiquities and of its present condition; (IA holycityorhistor00williala).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Holy_city%3B_or%2C_Historical%2C_topographical_notices_of_Jerusalem%3B_with_some_account_of_its_antiquities_and_of_its_present_condition%3B_%28IA_holycityorhistor00williala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The Holy city; or, Historical, topographical notices of Jerusalem; with some account of its antiquities and of its present condition; (IA holycityorhistor00williala).pdf · Williams, George, 1814-1878 Willis, Robert, 1800-1875 · Public domain*
+
+![The Order of the Hospital of St. John of Jerusalem, and its Grand priory of England (IA orderofhospitalo00finciala).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/The_Order_of_the_Hospital_of_St._John_of_Jerusalem%2C_and_its_Grand_priory_of_England_%28IA_orderofhospitalo00finciala%29.pdf/page1-500px-The_Order_of_the_Hospital_of_St._John_of_Jerusalem%2C_and_its_Grand_priory_of_England_%28IA_orderofhospitalo00finciala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The Order of the Hospital of St. John of Jerusalem, and its Grand priory of England (IA orderofhospitalo00finciala).pdf · Fincham, H. W. (Henry Walter) Edwards, William Rea · Public domain*
+
+![The recovery of Jerusalem. A narrative of exploration and discovery in the city and the Holy Land. (IA 32882019071441-therecoveryofje).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_recovery_of_Jerusalem._A_narrative_of_exploration_and_discovery_in_the_city_and_the_Holy_Land._%28IA_32882019071441-therecoveryofje%29.pdf/page1-500px-The_recovery_of_Jerusalem._A_narrative_of_exploration_and_discovery_in_the_city_and_the_Holy_Land._%28IA_32882019071441-therecoveryofje%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The recovery of Jerusalem. A narrative of exploration and discovery in the city and the Holy Land. (IA 32882019071441-therecoveryofje).pdf · Wilson, Charles William, Sir, 1836-1905. · Public domain*
 
 ## 简介 / Introduction
 

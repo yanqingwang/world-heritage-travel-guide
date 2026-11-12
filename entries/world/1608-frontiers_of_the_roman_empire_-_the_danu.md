@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 48.115
 lon: 16.861
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 罗马帝国边界——多瑙河界墙（西段） / Frontiers of the Roman Empire – The Danube Limes (Western Segment)
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:20Z"
 > 奥地利 · 文化遗产
 
 ## 图片 / Images
+
+![Römermuseum Kastell Boiotro Passau.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/R%C3%B6mermuseum_Kastell_Boiotro_Passau.JPG/1280px-R%C3%B6mermuseum_Kastell_Boiotro_Passau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Römermuseum Kastell Boiotro Passau.JPG · High Contrast · CC BY 3.0 de*
 
 ![Frontiers of the Roman Empire – The Danube Limes (Western Segment)](https://whc.unesco.org/uploads/sites/site_1608.jpg)
 

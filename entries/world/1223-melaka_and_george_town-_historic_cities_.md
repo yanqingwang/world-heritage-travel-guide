@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)(iv)"
 lat: 4.4615264666000005
 lon: 109.56984446659999
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 马六甲海峡的历史名城：马六甲和乔治城 / Melaka and George Town, Historic Cities of the Straits of Malacca

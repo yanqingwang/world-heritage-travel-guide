@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 37.787016
 lon: 75.230587
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 喀什地区帕米尔旅游区 / Pamierren Tourist Area

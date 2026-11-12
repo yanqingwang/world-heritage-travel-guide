@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.244613
 lon: 121.506046
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 东方明珠广播电视塔 / Oriental Pearl Tower

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.5986
 lon: 23.0744
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 埃皮达鲁斯考古遗址 / Sanctuary of Asklepios at Epidaurus

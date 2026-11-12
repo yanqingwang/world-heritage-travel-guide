@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)"
 lat: 38.653888888
 lon: -90.064444444
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 卡俄基亚土丘历史遗址 / Cahokia Mounds State Historic Site
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Cahokia Mounds State Historic Site](https://whc.unesco.org/uploads/sites/site_198.jpg)
+![Monks Mound in July.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Monks%20Mound%20in%20July.JPG?width=1280)
 
-*Cahokia Mounds State Historic Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Monks Mound in July.JPG · see Wikimedia Commons file page*
+
+![2 Cahokia- Peace or War with the Indians (921b5677-ba35-5fa4-9286-70f46306bfe6).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2_Cahokia-_Peace_or_War_with_the_Indians_%28921b5677-ba35-5fa4-9286-70f46306bfe6%29.JPG/1280px-2_Cahokia-_Peace_or_War_with_the_Indians_%28921b5677-ba35-5fa4-9286-70f46306bfe6%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2 Cahokia- Peace or War with the Indians (921b5677-ba35-5fa4-9286-70f46306bfe6).JPG · National Park Service · Public domain*
+
+![A Plan of the several Villages in the Illinois Country with Part of the River Mississippi and c. by Tho. Hutchins.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_Plan_of_the_several_Villages_in_the_Illinois_Country_with_Part_of_the_River_Mississippi_and_c._by_Tho._Hutchins.jpg/1280px-A_Plan_of_the_several_Villages_in_the_Illinois_Country_with_Part_of_the_River_Mississippi_and_c._by_Tho._Hutchins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Plan of the several Villages in the Illinois Country with Part of the River Mississippi and c. by Tho. Hutchins.jpg · Thomas Hutchins · Public domain*
+
+![Atop Monk's Mound - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Atop_Monk%27s_Mound_-_panoramio.jpg/1280px-Atop_Monk%27s_Mound_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Atop Monk's Mound - panoramio.jpg · hakkun · CC BY-SA 3.0*
+
+![Between the Twin Mounds - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Between_the_Twin_Mounds_-_panoramio.jpg/1280px-Between_the_Twin_Mounds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Between the Twin Mounds - panoramio.jpg · hakkun · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

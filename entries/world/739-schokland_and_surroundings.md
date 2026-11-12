@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iii)(v)"
 lat: 52.638611111
 lon: 5.771666666
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 斯霍克兰及其周围地区 / Schokland and Surroundings
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:13Z"
 > 荷兰王国 · Noordoostpolder, Province of Flevoland · 文化遗产
 
 ## 图片 / Images
+
+![8319 Schokland, Netherlands - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/8319_Schokland%2C_Netherlands_-_panoramio.jpg/1280px-8319_Schokland%2C_Netherlands_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*8319 Schokland, Netherlands - panoramio.jpg · Ben Bender · CC BY-SA 3.0*
+
+![Binnenvaartmonument bij Emmeloord, Schokland.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Binnenvaartmonument_bij_Emmeloord%2C_Schokland.jpg/1280px-Binnenvaartmonument_bij_Emmeloord%2C_Schokland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Binnenvaartmonument bij Emmeloord, Schokland.jpg · B.visscher · CC BY 4.0*
+
+![Enserkerk, Middelbuurt, Schokland.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Enserkerk%2C_Middelbuurt%2C_Schokland.jpg/1280px-Enserkerk%2C_Middelbuurt%2C_Schokland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Enserkerk, Middelbuurt, Schokland.jpg · B.visscher · CC BY 4.0*
+
+![Jacobus Frederik Sterre de Jong - Interieur met personen in de dracht van Schokland, 1881–1820 - PR.14558 - Netherlands Open Air Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jacobus_Frederik_Sterre_de_Jong_-_Interieur_met_personen_in_de_dracht_van_Schokland%2C_1881%E2%80%931820_-_PR.14558_-_Netherlands_Open_Air_Museum.jpg/1280px-Jacobus_Frederik_Sterre_de_Jong_-_Interieur_met_personen_in_de_dracht_van_Schokland%2C_1881%E2%80%931820_-_PR.14558_-_Netherlands_Open_Air_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jacobus Frederik Sterre de Jong - Interieur met personen in de dracht van Schokland, 1881–1820 - PR.14558 - Netherlands Open Air Museum.jpg · Jacobus Frederik Sterre de Jong · Public domain*
 
 ![Schokland and Surroundings](https://whc.unesco.org/uploads/sites/site_739.jpg)
 

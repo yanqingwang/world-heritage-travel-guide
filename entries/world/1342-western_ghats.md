@@ -3,7 +3,7 @@ id: "wh-1342"
 dataset: "unesco"
 name_zh: "西高止山脉"
 name_en: "Western Ghats"
-name_local: ""
+name_local: "पश्चिमी घाट"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ix)(x)"
 lat: 10.169722222
 lon: 77.061111111
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 西高止山脉 / Western Ghats
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:18Z"
 
 Older than the Himalaya mountains, the mountain chain of the Western Ghats represents geomorphic features of immense importance with unique biophysical and ecological processes. The site’s high montane forest ecosystems influence the Indian monsoon weather pattern. Moderating the tropical climate of the region, the site presents one of the best examples of the monsoon system on the planet. It also has an exceptionally high level of biological diversity and endemism and is recognized as one of the world’s eight ‘hottest hotspots’ of biological diversity. The forests of the site include some of the best representatives of non-equatorial tropical evergreen forests anywhere and are home to at least 325 globally threatened flora, fauna, bird, amphibian, reptile and fish species.
 
+## 本地语言 / Local language (Hindi)
+
+**पश्चिमी घाट**
+
+भारत के पश्चिमी तट पर स्थित पर्वत श्रृंखला को पश्चिमी घाट या सह्याद्रि कहते हैं। दक्‍कनी पठार के पश्चिमी किनारे के साथ-साथ यह पर्वतीय श्रृंखला उत्‍तर से दक्षिण की तरफ 1600 किलोमीटर लम्‍बी है। विश्‍व में जैविकीय विवधता के लिए यह बहुत महत्‍वपूर्ण है और इस दृष्टि से विश्‍व में इसका 8वां स्थान है। यह गुजरात और महाराष्ट्र की सीमा से शुरू होती है और महाराष्ट्र, गोवा, कर्नाटक, तमिलनाडु तथा केरल से होते हुए कन्याकुमारी में समाप्‍त हो जाती है। वर्ष 2012 में यूनेस्को ने पश्चिमी घाट क्षेत्र के 39 स्‍थानों को विश्व धरोहर स्‍थल घोषित किया है।" पश्चिमी घाट का संस्कृत नाम सह्याद्रि पर्वत है। यह पर्वतश्रेणी महाराष्ट्र में कुंदाइबारी दर्रे से आरंभ होकर, तट के समांतर, सागरतट से ३० किमी से लेकर १०० किमी के अंतर से लगभग ४,००० फुट तक ऊँची दक्षिण की ओर जाती है। यह श्रेणी कोंकण के निम्न प्रदेश एवं लगभग २,००० फुट ऊँचे दकन के पठार को एक दूसरे से विभक्त करती है। इसपर कई इतिहासप्रसिद्ध किले बने हैं। कुंदाईबारी दर्रा भरुच तथा दकन पठार के बीच व्यापार का मुख्य मार्ग है। इससे कई बड़ी बड़ी नदियाँ निकलकर पूर्व की ओर बहती हैं। इसमें थाल घाट, भोर घाट, पाल घाट तीन प्रसिद्ध दर्रे हैं। थाल घाट से होकर बंबई-आगरा-मार्ग जाता है। कलसूबाई चोटी सबसे ऊँची (५,४२७ फुट) चोटी है। भोर घाट से बंबई-पूना मार्ग गुजरता है। इन दर्रो के अलावा जरसोपा, कोल्लुर, होसंगादी, आगुंबी, बूँध, मंजराबाद एवं विसाली आदि दर्रे हैं। अंत में दक्षिण में जाकर यह श्रेणी पूर्वी घाट पहाड़ से नीलगिरि के पठार के रूप में मिल जाती है। इसी पठार पर पहाड़ी सैरगा
+
 ## 交通 / Transport
 
 - ✈ **Cochin International Airport (COK)** — 72.3 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 

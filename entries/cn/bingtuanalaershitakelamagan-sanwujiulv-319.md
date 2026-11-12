@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Alaer City"
 lat: 40.54896
 lon: 81.281538
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Xingfulujiedao (alaershi) Cultural Tourism Area

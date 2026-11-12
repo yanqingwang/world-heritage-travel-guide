@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: -33.117778
 lon: -58.331667
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 弗莱本托斯文化工业景区 / Fray Bentos Industrial Landscape
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:18Z"
 > 乌拉圭 · 文化遗产
 
 ## 图片 / Images
+
+![Anglo 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Anglo_1.jpg/1280px-Anglo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anglo 1.jpg · Eduardo Gonzalez · CC BY-SA 3.0*
+
+![Anglo puerto.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Anglo_puerto.jpg/1280px-Anglo_puerto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anglo puerto.jpg · ViviAC · CC BY-SA 3.0*
 
 ![Fray Bentos Industrial Landscape](https://whc.unesco.org/uploads/sites/site_1464.jpg)
 

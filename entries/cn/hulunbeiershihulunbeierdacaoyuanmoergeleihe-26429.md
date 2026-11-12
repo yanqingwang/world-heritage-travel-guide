@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.467238
 lon: 119.716673
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiercaoyuan Scenic Area

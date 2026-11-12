@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 29.846794
 lon: 118.292631
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 黄山市皖南古村落-西递宏村 / Wannangucunluo

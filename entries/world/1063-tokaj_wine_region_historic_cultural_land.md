@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(iii)(v)"
 lat: 48.15
 lon: 21.35
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 托卡伊葡萄酒产地历史文化景观 / Tokaj Wine Region Historic Cultural Landscape
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:16Z"
 > 匈牙利 · County of Borsod-Abaúj-Zemplén · 文化遗产
 
 ## 图片 / Images
+
+![Tokaj Wine Region Historic Cultural Landscape World Heritage sign, 2020 Sárospatak.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Tokaj_Wine_Region_Historic_Cultural_Landscape_World_Heritage_sign%2C_2020_S%C3%A1rospatak.jpg/1280px-Tokaj_Wine_Region_Historic_Cultural_Landscape_World_Heritage_sign%2C_2020_S%C3%A1rospatak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tokaj Wine Region Historic Cultural Landscape World Heritage sign, 2020 Sárospatak.jpg · Globetrotter19 · CC BY-SA 3.0*
 
 ![Tokaj Wine Region Historic Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1063.jpg)
 

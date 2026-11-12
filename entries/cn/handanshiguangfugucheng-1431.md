@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.707347
 lon: 114.736727
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 邯郸市广府古城景区 / Guangfucheng Scenic Area

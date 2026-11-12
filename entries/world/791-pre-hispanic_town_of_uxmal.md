@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iii)"
 lat: 20.3617
 lon: -89.7703
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 乌斯马尔古镇 / Pre-Hispanic Town of Uxmal
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:13Z"
 > 墨西哥 · Etat de Yucatan, municipalites Muna et Santa Elena · 文化遗产
 
 ## 图片 / Images
+
+![Bibliographic notes on Uxmal, Yucatan (IA bibliographicnot00savi).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bibliographic_notes_on_Uxmal%2C_Yucatan_%28IA_bibliographicnot00savi%29.pdf/page1-500px-Bibliographic_notes_on_Uxmal%2C_Yucatan_%28IA_bibliographicnot00savi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bibliographic notes on Uxmal, Yucatan (IA bibliographicnot00savi).pdf · Saville, Marshall H. (Marshall Howard), 1867-1935 · Public domain*
+
+![Bulletin Of The Pan American Union 1921-09- Vol 53 Iss 3 (IA sim bulletin-of-the-pan-american-union 1921-09 53 3).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Bulletin_Of_The_Pan_American_Union_1921-09-_Vol_53_Iss_3_%28IA_sim_bulletin-of-the-pan-american-union_1921-09_53_3%29.pdf/page1-500px-Bulletin_Of_The_Pan_American_Union_1921-09-_Vol_53_Iss_3_%28IA_sim_bulletin-of-the-pan-american-union_1921-09_53_3%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bulletin Of The Pan American Union 1921-09- Vol 53 Iss 3 (IA sim bulletin-of-the-pan-american-union 1921-09 53 3).pdf · Public domain*
+
+![Bulletin Of The Pan American Union 1941-03- Vol 75 Iss 3 (IA sim bulletin-of-the-pan-american-union 1941-03 75 3).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bulletin_Of_The_Pan_American_Union_1941-03-_Vol_75_Iss_3_%28IA_sim_bulletin-of-the-pan-american-union_1941-03_75_3%29.pdf/page1-500px-Bulletin_Of_The_Pan_American_Union_1941-03-_Vol_75_Iss_3_%28IA_sim_bulletin-of-the-pan-american-union_1941-03_75_3%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bulletin Of The Pan American Union 1941-03- Vol 75 Iss 3 (IA sim bulletin-of-the-pan-american-union 1941-03 75 3).pdf · Public domain*
 
 ![Pre-Hispanic Town of Uxmal](https://whc.unesco.org/uploads/sites/site_791.jpg)
 

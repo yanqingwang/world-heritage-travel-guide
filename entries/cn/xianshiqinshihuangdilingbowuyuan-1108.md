@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.394463
 lon: 109.29079
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 西安市秦始皇帝陵博物院景区 / Qinshihuangling Scenic Area

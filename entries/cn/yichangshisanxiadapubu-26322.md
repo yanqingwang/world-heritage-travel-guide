@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.930935
 lon: 111.329026
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 宜昌市三峡大瀑布景区 / Sanxiadapubu Scenic Area

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iv)"
 lat: -11.01361111
 lon: -37.20555556
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 圣克里斯托旺的圣弗朗西斯科广场 / São Francisco Square in the Town of São Cristóvão
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 巴西 · 文化遗产
 
 ## 图片 / Images
+
+![Praça São Francisco.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Pra%C3%A7a%20S%C3%A3o%20Francisco.jpg?width=1280)
+
+*Praça São Francisco.jpg · see Wikimedia Commons file page*
 
 ![São Francisco Square in the Town of São Cristóvão](https://whc.unesco.org/uploads/sites/site_1272.jpg)
 

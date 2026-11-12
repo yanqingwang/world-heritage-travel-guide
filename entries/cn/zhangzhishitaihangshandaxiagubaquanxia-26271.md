@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 长治市太行山大峡谷八泉峡景区 / Tianshan Grand Canyon

@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ix)(x)"
 lat: 11.53
 lon: 2.29
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # W-阿尔利-彭贾里跨国联合公园 / W-Arly-Pendjari Complex

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(v)(vi)"
 lat: -20.583333333
 lon: 28.666666666
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 马托博山 / Matobo Hills
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:09Z"
 > 津巴布韦 · Matebeleland, South Province · 文化遗产
 
 ## 图片 / Images
+
+![Balancing Rocks in Matopos National Park.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Balancing%20Rocks%20in%20Matopos%20National%20Park.jpg?width=1280)
+
+*Balancing Rocks in Matopos National Park.jpg · see Wikimedia Commons file page*
 
 ![Matobo Hills](https://whc.unesco.org/uploads/sites/site_306.jpg)
 

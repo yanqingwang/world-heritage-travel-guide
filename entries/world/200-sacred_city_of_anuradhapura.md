@@ -3,7 +3,7 @@ id: "wh-200"
 dataset: "unesco"
 name_zh: "阿努拉德普勒圣城"
 name_en: "Sacred City of Anuradhapura"
-name_local: ""
+name_local: "அனுராதபுரம்"
 country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(vi)"
 lat: 8.335
 lon: 80.410833333
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 阿努拉德普勒圣城 / Sacred City of Anuradhapura
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again.
 
+## 本地语言 / Local language (Tamil)
+
+**அனுராதபுரம்**
+
+அனுராதபுரம் (Anuradhapura) இலங்கையின் வடமத்திய மாகாணத்தில் அமைந்துள்ள ஒரு நகரமாகும். தற்காலத்தில் இது நாட்டின் வடமத்திய மாகாணத்தின் தலைநகராக உள்ளது. எனினும் கி.மு.3 ஆம் நூற்றாண்டுக்கு முன்னிருந்தே பண்டைய இலங்கையின் தலைநகரமாகப் பெயரும், புகழும் பெற்று விளங்கியது இந்நகரம். சிங்களவரின் வரலாற்று நூலான மகாவம்சத்தின்படி, வடகிழக்கு இந்தியாவிலிருந்த லாட தேசத்திலிருந்து, அவனுடைய துர்நடத்தை காரணமாக, 700 நண்பர்களுடன் சேர்த்துத் துரத்திவிடப்பட்ட விஜயன் என்ற இளவரசன் இலங்கை வந்தபோது அவனுடன் வந்த அனுராத என்பவனால் தோற்றுவிக்கப்பட்ட குடியேற்றமாகும். ஆரம்பத்தில் அனுராதகிராமம் என அழைக்கப்பட்டது. கி.மு. 437-கி.மு. 367 வரையான காலப்பகுதியில் (சிலரின் கருத்துப்படி கி.மு. 337-கி.மு. 305) இலங்கையை ஆண்ட பண்டுகாபயன் என்ற அரசன் அனுராத கிராமத்தை அனுராதபுரமாக மாற்றி அவனது தலைநகராக்கினான். இதன் பின்னர், 10ஆம் நூற்றாண்டளவில், தென்னிந்திய படையெடுப்புகள் காரணமாக தலைநகர் பொலன்னறுவைக்கு மாற்றப்படும் வரை, ஆயிரம் ஆண்டுகளுக்கு மேலாக நாட்டின் தலைநகராக இருந்துவந்தது. தற்போதும் கூட இலங்கையில் உள்ள மாவட்டங்களில் பரப்பளவில் மிகப்பெரிய மாவட்டம் அனுராதபுரமே.
+
 ## 交通 / Transport
 
 - ✈ **China Bay Airport (TRR)** — 87.7 km
@@ -85,7 +91,7 @@ Free ETA / Visa on arrival[6][138] Sri Lanka introduced an ETA valid for 30 days
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

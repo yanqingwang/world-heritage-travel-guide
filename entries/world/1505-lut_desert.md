@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(vii)(viii)"
 lat: 30.263888888
 lon: 59.241111111
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 卢特沙漠 / Lut Desert

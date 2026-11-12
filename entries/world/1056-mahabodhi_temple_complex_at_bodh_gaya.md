@@ -3,7 +3,7 @@ id: "wh-1056"
 dataset: "unesco"
 name_zh: "菩提伽耶的摩诃菩提寺"
 name_en: "Mahabodhi Temple Complex at Bodh Gaya"
-name_local: ""
+name_local: "महाबोधि विहार"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 24.696004
 lon: 84.991358
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 菩提伽耶的摩诃菩提寺 / Mahabodhi Temple Complex at Bodh Gaya
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:15Z"
 
 The Mahabodhi Temple Complex is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment. The first temple was built by Emperor Asoka in the 3rd century B.C., and the present temple dates from the 5th or 6th centuries. It is one of the earliest Buddhist temples built entirely in brick, still standing in India, from the late Gupta period.
 
+## 本地语言 / Local language (Hindi)
+
+**महाबोधि विहार**
+
+महाबोधि विहार या महाबोधि मन्दिर, बोध गया स्थित प्रसिद्ध बौद्ध विहार है। यूनेस्को ने इसे विश्व धरोहर घोषित किया है। यह विहार उसी स्थान पर खड़ा है जहाँ गौतम बुद्ध ने ईसा पूर्व 6वी शताब्धिं की 528 ईसा पूर्व या 531 ईसा पूर्व में ज्ञान प्राप्त किया था। हालांकि यहां गौतम बुद्ध पूर्व दिशा की ओर मुंह करके बैठे थे। इसीलिए यह स्थान विश्व शांति का प्रतीक माना जाता है। मंदिर के पास में एक बौद्ध पुस्तकालय बनाया गया है। और यहां के जलस्रोतों में प्राचीन कुएं अभी भी जिंदा है। दूसरी तरफ मंदिर के आसपास कई प्रकार के पक्षी दिखाई देते है।
+
 ## 交通 / Transport
 
 - ✈ **Gaya Airport (GAY)** — 6.7 km
@@ -58,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

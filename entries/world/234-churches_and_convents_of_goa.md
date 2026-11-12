@@ -3,7 +3,7 @@ id: "wh-234"
 dataset: "unesco"
 name_zh: "果阿的教堂和修道院"
 name_en: "Churches and Convents of Goa"
-name_local: ""
+name_local: "गोवा के चर्च और कॉन्वेंट"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iv)(vi)"
 lat: 15.5024
 lon: 73.9117
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 果阿的教堂和修道院 / Churches and Convents of Goa
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 The churches and convents of Goa, the former capital of the Portuguese Indies – particularly the Church of Bom Jesus, which contains the tomb of St Francis-Xavier – illustrate the evangelization of Asia. These monuments were influential in spreading forms of Manueline, Mannerist and Baroque art in all the countries of Asia where missions were established.
 
+## 本地语言 / Local language (Hindi)
+
+**गोवा के चर्च और कॉन्वेंट**
+
+गोवा के चर्च और कॉन्वेंट नाम यूनेस्को ने भारत के गोवा राज्य में गोवा वेल्हा (या पुराना गोवा) में स्थित धार्मिक स्मारकों के एक समूह को दिया है, जिन्हें 1986 में विश्व धरोहर स्थल घोषित किया गया था। 16वीं सदी से गोवा पुर्तगाली भारत और एशिया की राजधानी और ईसाई धर्म के प्रचार का केंद्र रहा है। गोवा के धार्मिक स्मारकों को 'विश्व धरोहर सूची' में शामिल करने के कारण ये हैं: 1) इन स्मारकों का पश्चिमी कला शैलियों—जैसे मैनुएलाइन, मैनरिस्ट और बारोक—को पूरे एशिया में फैलाने में प्रभाव, जहाँ कैथोलिक मिशन स्थापित किए गए थे; 2) गोवा के स्मारकों का समूह ईसाई धर्म के प्रचार के काम को दिखाने वाले एक बेहतरीन उदाहरण के तौर पर महत्वपूर्ण है; और 3) बेसिलिका ऑफ़ बॉम जीसस में फ्रांसिस्को ज़ेवियर की समाधि का होना एक खास महत्व रखता है, जो आधुनिक युग में एशिया पर कैथोलिक धर्म के प्रभाव जैसी दुनिया की एक बड़ी घटना को दर्शाता है।
+
 ## 交通 / Transport
 
 - ✈ **Goa Dabolim International Airport (GOI)** — 16.0 km
@@ -58,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

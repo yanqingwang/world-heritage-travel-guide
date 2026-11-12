@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Anshun City"
 lat: 26.112673
 lon: 105.88403
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 安顺市西秀区龙宫景区 / Anshunshixixiuqulonggong Scenic Area

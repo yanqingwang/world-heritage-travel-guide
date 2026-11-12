@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.671918
 lon: 109.526118
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 三亚市蜈支洲岛旅游区 / Wuzhizhoudao Tourist Area

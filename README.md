@@ -77,7 +77,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **发布前结构校验**：`scripts/validate_data.py` 检查双语字段、坐标范围、图片/酒店数量与距离上限，硬错误会阻断每周发布。
 - **为什么不用数据库**：1,572 条记录在浏览器内筛选 <1 ms，静态 JSON + CDN 比 Neon 往返更快、更便宜；实测与取舍见 [`docs/neon-evaluation.md`](docs/neon-evaluation.md)。
 - **省 / 州编码来自 ISO 3166-2**：中国 359 条全部有编码；海外 1,213 条中约 86% 由 Wikidata P131/P300 或 Nominatim 反查得到，缺失时只显示国家，不阻断筛选。
-- **足迹标记以本机浏览器 localStorage 为主**；跨设备恢复优先用账号服务（需部署后端），也可用导出/导入 JSON 手动搬运。站点内「☁ 云同步」的 GitHub Token 备份仅对仓库协作者可用——普通访客的 PAT 无法给自己授权写入主仓库，界面会明确提示，详见 [deploy.md](deploy.md)。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
+- **足迹标记以本机浏览器 localStorage 为主**；跨设备恢复用账号服务（需部署后端，标记按账号自动同步），或「📦 标记备份」里的导出/导入 JSON 手动搬运。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
 
 ### 许可
 
@@ -101,7 +101,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **Bilingual UI** (Chinese/English) with a third block in the destination's official language when an official UNESCO or Wikipedia edition exists.
 - **Practical travel info**: every destination detail page shows the country's currency, plug types/voltage, time zone, traffic side, international dialing prefix and official languages (from mledoze/countries + curated IEC plug tables).
 - **One country → province/state cascade** for both datasets: country first, then an ISO 3166-2 first-level subdivision. China is fixed to "China → province"; overseas records use the destination country's subdivision.
-- **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage first). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter. With the account server deployed, sign in to sync marks across browsers; the static GitHub Pages mirror detects the missing backend and falls back to localStorage + JSON export/import. A GitHub-token backup exists too, but only works for repository collaborators — an ordinary visitor's PAT cannot grant itself write access to the main repo (see [deploy.md](deploy.md)). Globe basemap: Natural Earth public-domain data; D3 Geo projects it locally.
+- **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage first). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter. With the account server deployed, sign in to sync marks across browsers; the static GitHub Pages mirror detects the missing backend and falls back to localStorage plus JSON export/import under “📦 Marks backup”. Globe basemap: Natural Earth public-domain data; D3 Geo projects it locally.
 - **Account sign-in and cross-browser sync (optional, requires the account server)**: username/password sign-up with a one-time recovery code; signed-in marks sync to the server and restore in another browser. Without signing in, and on the static mirror, everything stays local and no network request is made.
 - **Filters**: by category, visa status, record tier, plus free-text search and "visited only".
 - **Machine-readable** `data/china.json` and `data/world.json`; every record also has a Markdown mirror in `entries/`.

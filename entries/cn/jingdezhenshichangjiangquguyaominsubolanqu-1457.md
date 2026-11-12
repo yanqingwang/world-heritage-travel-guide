@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jingdezhen"
 lat: 29.289262
 lon: 117.191564
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 景德镇市昌江区古窑民俗博览区 / Jingdezhenguyaominsubolanqu

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 49.891666666667
 lon: 10.891666666667
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 班贝格城 / Town of Bamberg
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:12Z"
 > 德国 · District of Upper Franconia · 文化遗产
 
 ## 图片 / Images
+
+![Altenburg bis Seesbruecke.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Altenburg_bis_Seesbruecke.jpg/1280px-Altenburg_bis_Seesbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altenburg bis Seesbruecke.jpg · transferred to Wikipedia -- Immanuel Giel 10:37, 24 November 2005 (UTC) · Public domain*
+
+![Bamberg Altstadt 20061115-057-Pano.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bamberg_Altstadt_20061115-057-Pano.jpg/1280px-Bamberg_Altstadt_20061115-057-Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bamberg Altstadt 20061115-057-Pano.jpg · Ermell · CC BY-SA 4.0*
+
+![Bamberg aus der Flugzeugperspektive .jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bamberg_aus_der_Flugzeugperspektive_.jpg/1280px-Bamberg_aus_der_Flugzeugperspektive_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bamberg aus der Flugzeugperspektive .jpg · Geschichtsfanatiker · CC BY-SA 4.0*
+
+![Weltkulturerbeauszeichnung.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Weltkulturerbeauszeichnung.JPG/1280px-Weltkulturerbeauszeichnung.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Weltkulturerbeauszeichnung.JPG · D.j.mueller ( talk ) 19:47, 10 November 2008 (UTC) · Public domain*
 
 ![Town of Bamberg](https://whc.unesco.org/uploads/sites/site_624.jpg)
 

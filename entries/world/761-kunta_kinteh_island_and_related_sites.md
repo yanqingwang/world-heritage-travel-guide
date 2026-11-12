@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(vi)"
 lat: 13.31747222
 lon: -16.36147222
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 詹姆斯岛及附近区域 / Kunta Kinteh Island and Related Sites
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:13Z"
 > 冈比亚 · Lower Niumi and Upper Niumi districts and Banjul Municipality · 文化遗产
 
 ## 图片 / Images
+
+![River gambia galleryfull.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/River%20gambia%20galleryfull.jpg?width=1280)
+
+*River gambia galleryfull.jpg · see Wikimedia Commons file page*
+
+![LocMap of WH James Island etc.png](https://upload.wikimedia.org/wikipedia/commons/9/90/LocMap_of_WH_James_Island_etc.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH James Island etc.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
 
 ![Kunta Kinteh Island and Related Sites](https://whc.unesco.org/uploads/sites/site_761.jpg)
 

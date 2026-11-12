@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(vi)"
 lat: 35.801611111
 lon: 128.098722222
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 海印寺及八万大藏经藏经处 / Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks

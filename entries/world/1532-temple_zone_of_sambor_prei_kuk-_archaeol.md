@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iii)(vi)"
 lat: 12.867283
 lon: 105.040025
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 三博波雷古寺 / Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura

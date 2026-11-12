@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ix)(x)"
 lat: 11.25
 lon: -16.083333333
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 比热戈斯群岛海岸与海洋生态系统——祖灵圣境 / Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:18Z"
 > 几内亚比绍 · 自然遗产
 
 ## 图片 / Images
+
+![Earth from Space- Guinea-Bissau ESA523998.tiff](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Earth_from_Space-_Guinea-Bissau_ESA523998.tiff/lossy-page1-1280px-Earth_from_Space-_Guinea-Bissau_ESA523998.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Earth from Space- Guinea-Bissau ESA523998.tiff · European Space Agency · Attribution*
+
+![Guinea-Bissau (Landsat 7, 2000-01-12).jpg](https://upload.wikimedia.org/wikipedia/commons/0/01/Guinea-Bissau_%28Landsat_7%2C_2000-01-12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Guinea-Bissau (Landsat 7, 2000-01-12).jpg · NASA/USGS EROS Data Center · Public domain*
+
+![Guinea Bissau ESA218770.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Guinea_Bissau_ESA218770.jpg/1280px-Guinea_Bissau_ESA218770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Guinea Bissau ESA218770.jpg · European Space Agency · CC BY-SA 3.0 igo*
+
+![ISS-57 Guinea-Bissau coastal plains and swamps.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/ISS-57_Guinea-Bissau_coastal_plains_and_swamps.jpg/1280px-ISS-57_Guinea-Bissau_coastal_plains_and_swamps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ISS-57 Guinea-Bissau coastal plains and swamps.jpg · NASA · Public domain*
 
 ![Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô](https://whc.unesco.org/uploads/sites/site_1431.jpg)
 

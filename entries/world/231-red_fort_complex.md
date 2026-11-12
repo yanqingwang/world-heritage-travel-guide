@@ -3,7 +3,7 @@ id: "wh-231"
 dataset: "unesco"
 name_zh: "德里红堡群"
 name_en: "Red Fort Complex"
-name_local: ""
+name_local: "लाल क़िला"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)(vi)"
 lat: 28.655833333
 lon: 77.240277777
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 德里红堡群 / Red Fort Complex
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:08Z"
 > 印度 · New Delhi State, Central District, New Delhi · 文化遗产
 
 ## 图片 / Images
+
+![Red Fort, Delhi by alexfurr.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Red%20Fort%2C%20Delhi%20by%20alexfurr.jpg?width=1280)
+
+*Red Fort, Delhi by alexfurr.jpg · see Wikimedia Commons file page*
 
 ![Red Fort Complex](https://whc.unesco.org/uploads/sites/site_231.jpg)
 
@@ -36,6 +40,12 @@ updated_at: "2026-11-10T23:01:08Z"
 ### English
 
 The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone, it is adjacent to an older fort, the Salimgarh, built by Islam Shah Suri in 1546, with which it forms the Red Fort Complex. The private apartments consist of a row of pavilions connected by a continuous water channel, known as the Nahr-i-Behisht (Stream of Paradise). The Red Fort is considered to represent the zenith of Mughal creativity which, under the Shah Jahan, was brought to a new level of refinement. The planning of the palace is based on Islamic prototypes, but each pavilion reveals architectural elements typical of Mughal building, reflecting a fusion of Persian, Timurid and Hindu traditions The Red Fort’s innovative planning and architectural style, including the garden design, strongly influenced later buildings and gardens in Rajasthan, Delhi, Agra and further afield.
+
+## 本地语言 / Local language (Hindi)
+
+**लाल क़िला**
+
+लाल क़िला भारत की राजधानी दिल्ली के पुरानी दिल्ली इलाक़े में स्थित एक ऐतिहासिक मुग़ल क़िला है। इसे सम्राट शाहजहाँ ने सन् 1638 में अपनी नई राजधानी शाहजहानाबाद के निर्माण के साथ बनवाना शुरू कराया। इसका निर्माण 1648 में पूरा हुआ। कुछ इतिहासकारों का मानना है कि लाल किला को पृथ्वी राज चौहान के नाना अनंग पाल तोमर द्वितीय ने बनवाया है। लाल क़िला अपनी वास्तुकला, इतिहास और सांस्कृतिक महत्व के कारण प्रसिद्ध है। यह लगभग 200 वर्षों तक (मुग़ल सम्राट शाहजहाँ से लेकर बहादुर शाह ज़फ़र तक) मुग़ल सम्राटों का प्रमुख निवास रहा। 2007 में इसे यूनेस्को विश्व धरोहर स्थल घोषित किया गया। हर वर्ष स्वतंत्रता दिवस (15 अगस्त) के अवसर पर भारत के प्रधानमंत्री यहीं से राष्ट्रीय ध्वज फहराते हैं और राष्ट्र को संबोधित करते हैं। यह शाही किला मुगल बादशाहों का न सिर्फ राजनीतिक केन्द्र है बल्कि यह औपचारिक केन्द्र भी हुआ करता था, जिस पर करीब 200 सालों तक मुगल वंश के शासकों का राज रहा। देश की जंग-ए-आजादी का गवाह रहा लाल किला मुगलकालीन वास्तुकला, सृजनात्मकता और सौंदर्य का अनुपम और अनूठा उदाहरण है। 1648 ईसवी में बने इस भव्य किले के अंदर एक बेहद सुंदर संग्रहालय भी बना हुआ है। करीब 250 एकड़ जमीन में फैला यह भव्य किला मुगल राजशाही और ब्रिटिशर्स के खिलाफ गहरे संघर्ष की दास्तान बयां करता हैं। वहीं भारत का राष्ट्रीय गौरव माने जाना वाला इस किले का इतिहास बेहद दिलचस्प है।
 
 ## 交通 / Transport
 
@@ -54,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

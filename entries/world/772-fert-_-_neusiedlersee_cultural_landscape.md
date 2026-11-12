@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(v)"
 lat: 47.80055556
 lon: 16.73472222
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 新锡德尔湖与费尔特湖地区文化景观 / Fertö / Neusiedlersee Cultural Landscape
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:13Z"
 > 奥地利 · State of Burgenland (AT) / County of Györ-Moson-Sopron (HU) · 文化遗产
 
 ## 图片 / Images
+
+![Podersdorf am See - Kulturlandschaft Fertő-Neusiedler See - Rastplatz mit Ziehbrunnen.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Podersdorf%20am%20See%20-%20Kulturlandschaft%20Fert%C5%91-Neusiedler%20See%20-%20Rastplatz%20mit%20Ziehbrunnen.jpg?width=1280)
+
+*Podersdorf am See - Kulturlandschaft Fertő-Neusiedler See - Rastplatz mit Ziehbrunnen.jpg · see Wikimedia Commons file page*
+
+![Mörbisch 2.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/M%C3%B6rbisch_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Mörbisch 2.jpg · CC BY-SA 3.0*
 
 ![Fertö / Neusiedlersee Cultural Landscape](https://whc.unesco.org/uploads/sites/site_772.jpg)
 

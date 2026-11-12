@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)(v)"
 lat: 40.7825
 lon: 17.23694
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 阿尔贝罗贝洛的圆顶石屋 / The Trulli of Alberobello

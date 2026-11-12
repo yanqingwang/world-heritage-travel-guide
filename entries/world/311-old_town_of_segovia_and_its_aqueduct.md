@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 40.947888888
 lon: -4.117805555
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 塞哥维亚古城及其输水道 / Old Town of Segovia and its Aqueduct
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:09Z"
 > 西班牙 · Province of Segovia, Autonomous Community of Castile-Leon · 文化遗产
 
 ## 图片 / Images
+
+![Aqueduct of Segovia 08.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Aqueduct%20of%20Segovia%2008.jpg?width=1280)
+
+*Aqueduct of Segovia 08.jpg · see Wikimedia Commons file page*
 
 ![Old Town of Segovia and its Aqueduct](https://whc.unesco.org/uploads/sites/site_311.jpg)
 

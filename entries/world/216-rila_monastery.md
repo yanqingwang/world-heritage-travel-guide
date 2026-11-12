@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vi)"
 lat: 42.116666666
 lon: 23.4
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 里拉修道院 / Rila Monastery

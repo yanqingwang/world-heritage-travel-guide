@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)"
 lat: 26.14972222
 lon: 50.51277778
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 迪尔穆恩墓葬群 / Dilmun Burial Mounds

@@ -3,7 +3,7 @@ id: "wh-338"
 dataset: "unesco"
 name_zh: "马纳斯野生动植物保护区"
 name_en: "Manas Wildlife Sanctuary"
-name_local: ""
+name_local: "मानस राष्ट्रीय उद्यान"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(vii)(ix)(x)"
 lat: 26.716666666
 lon: 90.933333333
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 马纳斯野生动植物保护区 / Manas Wildlife Sanctuary
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:09Z"
 
 On a gentle slope in the foothills of the Himalayas, where wooded hills give way to alluvial grasslands and tropical forests, the Manas sanctuary is home to a great variety of wildlife, including many endangered species, such as the tiger, pygmy hog, Indian rhinoceros and Indian elephant.
 
+## 本地语言 / Local language (Hindi)
+
+**मानस राष्ट्रीय उद्यान**
+
+मानस राष्ट्रीय उद्यान या मानस वन्यजीव अभयारण्य, असम, भारत में स्थित एक राष्ट्रीय उद्यान हैं। यह अभयारण्य यूनेस्को द्वारा घोषित एक प्राकृतिक विश्व धरोहर स्थल, बाघ के आरक्षित परियोजना, हाथियों के आरक्षित क्षेत्र एक आरक्षित जीवमंडल हैं। हिमालय की तलहटी में स्थित यह अभयारण्य भूटान के रॉयल मानस नेशनल पार्क के निकट है। यह पार्क अपने दुर्लभ और लुप्तप्राय स्थानिक वन्यजीव के लिए जाना जाता है जैसे असम छत वाले कछुए, हेपीड खरगोश, गोल्डन लंगुर और पैगी हॉग। मानस जंगली भैंसों की आबादी के लिए प्रसिद्ध है। यहाँ एक सींग का गैंडा (भारतीय गेंडा) और बारहसिंघा के लिए विशेष रूप से पाये जाते है। यह भूटान की तराई में बोडो क्षेत्रीय परिषद की देखरेख में ९५० वर्ग किलोमीटर से भी बड़े इलाके में फैला हुआ है, जिसके अंतर्गत १९७३ में प्रोजेक्ट टाइगर के तहत स्थापित ८४०.०४ वर्ग किलोमीटर का इलाका मानस व्याघ्र संरक्षित क्षेत्र भी आता है। इसे १९८५ में विश्व धरोहर स्थल का दर्जा दिया गया था लेकिन अस्सी के दशक के अंत और नब्बे के दशक के शुरू में बोडो विद्रोही गतिविधियों के कारण इस उद्यान को १९९२ में विश्व धरोहर स्थल सूची से हटा लिया गया था। जून २०११ से यह पुनः यूनेस्को की विश्व धरोहर में शामिल कर लिया गया है।
+
 ## 交通 / Transport
 
 - ✈ **Yongphulla Airport (YON)** — 83.2 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

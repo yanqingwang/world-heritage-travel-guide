@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(v)(vi)"
 lat: 54.5
 lon: -3.166666666
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 英格兰湖区 / The English Lake District
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:10Z"
 
 ## 图片 / Images
 
-![The English Lake District](https://whc.unesco.org/uploads/sites/site_422.jpg)
+![Keswick Panorama - Oct 2009.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Keswick%20Panorama%20-%20Oct%202009.jpg?width=1280)
 
-*The English Lake District · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Keswick Panorama - Oct 2009.jpg · see Wikimedia Commons file page*
+
+![UK - Lake District (29029367593).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/UK_-_Lake_District_%2829029367593%29.jpg/1280px-UK_-_Lake_District_%2829029367593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*UK - Lake District (29029367593).jpg · Visions of Domino · CC BY 2.0*
+
+![20250726 Lake District 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/20250726_Lake_District_3.jpg/1280px-20250726_Lake_District_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250726 Lake District 3.jpg · HikingisKing · CC BY-SA 4.0*
+
+![20250726 Lake district.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20250726_Lake_district.jpg/1280px-20250726_Lake_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250726 Lake district.jpg · HikingisKing · CC BY-SA 4.0*
+
+![20250726 Lake District.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/20250726_Lake_District.jpg/1280px-20250726_Lake_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250726 Lake District.jpg · HikingisKing · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

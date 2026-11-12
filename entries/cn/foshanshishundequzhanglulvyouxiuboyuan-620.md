@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.884408
 lon: 113.295229
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 佛山市顺德区长鹿旅游休博园 / Foshanshishundequdiyizhongxue

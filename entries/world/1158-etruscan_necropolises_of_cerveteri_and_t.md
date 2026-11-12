@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(iii)(iv)"
 lat: 42.00683333
 lon: 12.10188889
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 塞尔维托里和塔尔奎尼亚的伊特鲁立亚人公墓 / Etruscan Necropolises of Cerveteri and Tarquinia

@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Lu'an"
 lat: 31.141125
 lon: 115.785284
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 六安市天堂寨旅游景区 / Tiantangzhai

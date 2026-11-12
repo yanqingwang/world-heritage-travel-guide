@@ -241,12 +241,34 @@ def world_images(site: dict, rec: dict, tier: str, cache_file) -> list[dict]:
     want_more = not OFFLINE and (tier == "full" or len(images) < 2)
     if want_more:
         cat = rec.get("commons_category")
+        limit = 8 if tier == "full" else 4
         if cat:
-            images.extend(commons_category(cat, 8 if tier == "full" else 4))
-        else:
+            images.extend(commons_category(cat, limit))
+        if len(images) < 2:
+            # UNESCO's full name ("Protective town of San Miguel and the
+            # Sanctuary of Jesús Nazareno de Atotonilco") rarely matches a
+            # Commons search; the short place name does.  Try the full query,
+            # then fall back to the part before the first comma/and.
             name = site.get("name", {}).get("en", "")
             country = rec.get("country_en", "")
             images.extend(commons_search(f"{name} {country}", 6 if tier == "full" else 4))
+            if len(images) < 2 and name:
+                import re as _re
+                candidates = []
+                short = _re.split(r",| and | – | - ", name)[0].strip()
+                if short and short != name:
+                    candidates.append(short)
+                # Descriptive tails ("Cultural Landscape", "Prehistoric Sites")
+                # defeat Commons search; the leading place name does not.
+                words = name.split()
+                if len(words) > 2:
+                    candidates.append(" ".join(words[:2]))
+                if len(words) > 3:
+                    candidates.append(" ".join(words[:3]))
+                for cand in candidates:
+                    images.extend(commons_search(f"{cand} {country}", 3))
+                    if len(images) >= 2:
+                        break
     deduped, seen = [], set()
     for img in images:
         if img.get("url") and img["url"] not in seen:

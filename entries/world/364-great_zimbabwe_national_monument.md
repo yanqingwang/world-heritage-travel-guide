@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)(vi)"
 lat: -20.27
 lon: 30.933
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 大津巴布韦国家纪念地 / Great Zimbabwe National Monument

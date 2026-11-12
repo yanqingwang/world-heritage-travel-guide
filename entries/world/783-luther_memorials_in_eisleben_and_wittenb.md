@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)(vi)"
 lat: 51.864722222
 lon: 12.652777777
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 埃斯莱本和维腾贝格的路德纪念馆建筑群 / Luther Memorials in Eisleben and Wittenberg

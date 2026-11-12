@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 64.0
 lon: -139.0
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 特朗代克-克朗代克 / Tr’ondëk-Klondike
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:19Z"
 > 加拿大 · 文化遗产
 
 ## 图片 / Images
+
+![Klondike-cigars.jpg](https://upload.wikimedia.org/wikipedia/commons/1/17/Klondike-cigars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Klondike-cigars.jpg · Trade Register, Vol 10 (9), p. 38 · Public domain*
+
+![Klondike Highway Shield.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Klondike_Highway_Shield.svg/1280px-Klondike_Highway_Shield.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Klondike Highway Shield.svg · Rl91 · Public domain*
+
+![Map of Klondike gold fields, 1898 (AL+CA 785).jpg](https://upload.wikimedia.org/wikipedia/commons/d/dc/Map_of_Klondike_gold_fields%2C_1898_%28AL%2BCA_785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Map of Klondike gold fields, 1898 (AL+CA 785).jpg · Unknown author Unknown author · Public domain*
+
+![SS Klondike -- one of few paddlewheelers remaining from heydays of Klondike gold rush.jpg](https://upload.wikimedia.org/wikipedia/commons/d/db/SS_Klondike_--_one_of_few_paddlewheelers_remaining_from_heydays_of_Klondike_gold_rush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*SS Klondike -- one of few paddlewheelers remaining from heydays of Klondike gold rush.jpg · Mike Beauregard from Nunavut, Canada · CC BY 2.0*
 
 ![Tr’ondëk-Klondike](https://whc.unesco.org/uploads/sites/site_1564.jpg)
 

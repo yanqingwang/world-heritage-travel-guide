@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.683553
 lon: 120.599543
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 台州市神仙居景区 / Shenxianju Scenic Area

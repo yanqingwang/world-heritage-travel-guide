@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)"
 lat: 61.928
 lon: 38.172611
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 克诺泽罗湖区历史见证 / Cultural Landscape of Kenozero Lake
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:20Z"
 > 俄罗斯 · 文化遗产
 
 ## 图片 / Images
+
+![Kazan Kremlin exterior view 08-2016 img3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kazan_Kremlin_exterior_view_08-2016_img3.jpg/1280px-Kazan_Kremlin_exterior_view_08-2016_img3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kazan Kremlin exterior view 08-2016 img3.jpg · A.Savin · FAL*
+
+![Novosibirsk KrasnyPr Opera Theatre 07-2016.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Novosibirsk_KrasnyPr_Opera_Theatre_07-2016.jpg/1280px-Novosibirsk_KrasnyPr_Opera_Theatre_07-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Novosibirsk KrasnyPr Opera Theatre 07-2016.jpg · A.Savin · FAL*
+
+![Павильон Турецкая Баня 9 6. Екатерининский парк, Пушкин.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%91%D0%B0%D0%BD%D1%8F_9_6._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD.jpg/1280px-%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%91%D0%B0%D0%BD%D1%8F_9_6._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Павильон Турецкая Баня 9 6. Екатерининский парк, Пушкин.jpg · Игорь Гордеев · CC BY-SA 4.0*
 
 ![Cultural Landscape of Kenozero Lake](https://whc.unesco.org/uploads/sites/site_1688.jpg)
 

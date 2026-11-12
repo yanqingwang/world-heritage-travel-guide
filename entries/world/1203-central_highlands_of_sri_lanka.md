@@ -3,7 +3,7 @@ id: "wh-1203"
 dataset: "unesco"
 name_zh: "斯里兰卡中央高地"
 name_en: "Central Highlands of Sri Lanka"
-name_local: ""
+name_local: "இலங்கையின் மத்திய மலைப்பகுதிகள்"
 country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ix)(x)"
 lat: 7.45245
 lon: 80.8021
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 斯里兰卡中央高地 / Central Highlands of Sri Lanka
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.
 
+## 本地语言 / Local language (Tamil)
+
+**இலங்கையின் மத்திய மலைப்பகுதிகள்**
+
+இலங்கையின் மத்திய மலைப்பகுதிகள் என்பது இலங்கையில் புதிதாக ஏற்றுக்கொள்ளப்பட்ட உலக பாரம்பரியக் களம் ஆகும். 31 சூலை, 2010 அன்று பிரசிலியாவில் இடம்பெற்ற 34வது அமர்வில் உலக பாரம்பரியக் குழுவினால் இலங்கையின் இலங்கை மத்திய மலைப்பிரதேசங்களும் ஹவாய்யின் பபகனமோகுவாகா கடல் தேசிய நினைவுச் சின்னமும் புதிய உலக பாரம்பரியக் களங்களாக அறிவிக்கப்பட்டன. இந்த இடம் சிகரக் காட்டுவள சரணாலயம், ஓட்டன் சமவெளி தேசிய வனம், நக்கிள்ஸ் மலைத்தொடர் என்பனவற்றால் சூழப்பட்டது.
+
 ## 交通 / Transport
 
 - ✈ **Batticaloa International Airport (BTC)** — 100.5 km
@@ -58,7 +64,7 @@ Free ETA / Visa on arrival[6][138] Sri Lanka introduced an ETA valid for 30 days
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

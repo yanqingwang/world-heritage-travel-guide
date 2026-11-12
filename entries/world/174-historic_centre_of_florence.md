@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 43.77306
 lon: 11.25611111
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 佛罗伦萨历史中心 / Historic Centre of Florence
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:08Z"
 > 意大利 · City and Province of Florence, Tuscany · 文化遗产
 
 ## 图片 / Images
+
+![Ponte Vecchio 001.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20Vecchio%20001.jpg?width=1280)
+
+*Ponte Vecchio 001.jpg · see Wikimedia Commons file page*
+
+![Firenze 1002 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Firenze_1002_09.jpg/1280px-Firenze_1002_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Firenze 1002 09.jpg · FrDr · CC BY-SA 4.0*
+
+![Florence Italy UNESCO-Plaque-1982-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Florence_Italy_UNESCO-Plaque-1982-01.jpg/1280px-Florence_Italy_UNESCO-Plaque-1982-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Florence Italy UNESCO-Plaque-1982-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ![Historic Centre of Florence](https://whc.unesco.org/uploads/sites/site_174.jpg)
 

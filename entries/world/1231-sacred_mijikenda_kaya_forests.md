@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(v)(vi)"
 lat: -3.931944444
 lon: 39.596111111
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 米吉肯达卡亚圣林 / Sacred Mijikenda Kaya Forests
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 肯尼亚 · Coast Province · 文化遗产
 
 ## 图片 / Images
+
+![Kaya-skog.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Kaya-skog.jpg?width=1280)
+
+*Kaya-skog.jpg · see Wikimedia Commons file page*
 
 ![Sacred Mijikenda Kaya Forests](https://whc.unesco.org/uploads/sites/site_1231.jpg)
 

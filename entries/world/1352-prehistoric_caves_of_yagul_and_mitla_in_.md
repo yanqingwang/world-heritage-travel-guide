@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)"
 lat: 16.95083333
 lon: -96.42111111
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 瓦哈卡州中央谷地的亚古尔与米特拉史前洞穴 / Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:18Z"
 > 墨西哥 · 文化遗产
 
 ## 图片 / Images
+
+![Guila Naquitz cave.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Guila_Naquitz_cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Guila Naquitz cave.jpg · No machine-readable author provided. JerryFriedman assumed (based on copyright claims). · CC BY-SA 2.5*
+
+![Pinturas rupestres en el complejo de cuevas prehistóricas de Yagul y Mitla.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pinturas_rupestres_en_el_complejo_de_cuevas_prehist%C3%B3ricas_de_Yagul_y_Mitla.jpg/1280px-Pinturas_rupestres_en_el_complejo_de_cuevas_prehist%C3%B3ricas_de_Yagul_y_Mitla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Pinturas rupestres en el complejo de cuevas prehistóricas de Yagul y Mitla.jpg · Oicirbaf · CC BY 4.0*
 
 ![Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca](https://whc.unesco.org/uploads/sites/site_1352.jpg)
 

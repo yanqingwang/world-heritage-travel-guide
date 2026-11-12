@@ -3,7 +3,7 @@ id: "wh-1201"
 dataset: "unesco"
 name_zh: "姆兰杰山文化景观"
 name_en: "Mount Mulanje Cultural Landscape"
-name_local: ""
+name_local: "Phiri la Mulanje"
 country: "MW"
 country_zh: "马拉维"
 country_en: "Malawi"
@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vi)"
 lat: -15.9
 lon: 35.65
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 姆兰杰山文化景观 / Mount Mulanje Cultural Landscape
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature.
 
+## 本地语言 / Local language (Chichewa)
+
+**Phiri la Mulanje**
+
+Phiri la Mulanje ndi lodziwika kwambiri chifukwa cha maonekedwe ake wokongolo komanso njira zake zomwe ziri m’Phirimu zomwe ndi zochitsa kaso kwa iwo woyendamo. Ngakhale anthu ambiri wochokera kunja amabwera kudzakwera Phiri la Mulanje, koma ndi zomera ndi nyama zochepa zokha tikuzidziwa bwino za m’Phirimu. Apa tikuwona nyama zazing’onozing’ono zimene zimakhala m’tchire komanso m’mitengo ya m’nkhalango ya Phiri la Mulanje. Malo ambiri amene nyamazi zimapezeka chitetezo chawo chikuwopsezedwa ndipo tsogolo la nyamazi ndi lodetsa nkhawa.
+
 ## 交通 / Transport
 
 - ✈ **Chileka International Airport (BLZ)** — 76.6 km
@@ -58,7 +64,7 @@ eVisa[6][83] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru
 

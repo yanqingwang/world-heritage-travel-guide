@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.216809
 lon: 89.875277
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 阿勒泰地区可可托海景区 / Fuyun Koktokay Airport

@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iii)(iv)(ix)(x)"
 lat: 18.105
 lon: -89.810555555
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 卡拉克穆尔古玛雅城与坎佩切热带森林保护区 / Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 墨西哥 · 混合遗产
 
 ## 图片 / Images
+
+![In Calakmul, Mexico (8726963632).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/In%20Calakmul%2C%20Mexico%20%288726963632%29.jpg?width=1280)
+
+*In Calakmul, Mexico (8726963632).jpg · see Wikimedia Commons file page*
 
 ![Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche](https://whc.unesco.org/uploads/sites/site_1061.jpg)
 

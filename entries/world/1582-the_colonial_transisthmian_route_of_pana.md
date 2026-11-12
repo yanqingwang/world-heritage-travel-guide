@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iv)"
 lat: 8.952430555
 lon: -79.534741666
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 殖民时期跨巴拿马地峡通道 / The Colonial Transisthmian Route of Panamá
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:20Z"
 > 巴拿马 · 文化遗产
 
 ## 图片 / Images
+
+![Old Panama (IA oldpanama008835mbp).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Old_Panama_%28IA_oldpanama008835mbp%29.pdf/page1-500px-Old_Panama_%28IA_oldpanama008835mbp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Panama (IA oldpanama008835mbp).pdf · Anderson · Public domain*
+
+![Old Panama and Castilla del Oro; a narrative history of the discovery, conquest, and settlement by the Spaniards (IA cu31924021199728).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Old_Panama_and_Castilla_del_Oro%3B_a_narrative_history_of_the_discovery%2C_conquest%2C_and_settlement_by_the_Spaniards_%28IA_cu31924021199728%29.pdf/page1-500px-Old_Panama_and_Castilla_del_Oro%3B_a_narrative_history_of_the_discovery%2C_conquest%2C_and_settlement_by_the_Spaniards_%28IA_cu31924021199728%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Panama and Castilla del Oro; a narrative history of the discovery, conquest, and settlement by the Spaniards (IA cu31924021199728).pdf · Anderson, Charles L. G. (Charles Loftus Grant), 1863-1952 Huntington Free Library. fmo · Public domain*
+
+![Panamá Viejo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Panam%C3%A1_Viejo.jpg/1280px-Panam%C3%A1_Viejo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Panamá Viejo.jpg · xiquinhosilva · CC BY 4.0*
+
+![Panamá Viejo - 55395248933.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Panam%C3%A1_Viejo_-_55395248933.jpg/1280px-Panam%C3%A1_Viejo_-_55395248933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Panamá Viejo - 55395248933.jpg · xiquinhosilva · CC BY 4.0*
 
 ![The Colonial Transisthmian Route of Panamá](https://whc.unesco.org/uploads/sites/site_1582.jpg)
 

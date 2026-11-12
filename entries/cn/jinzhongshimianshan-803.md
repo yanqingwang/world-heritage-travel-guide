@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 36.912044
 lon: 111.966208
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 晋中市绵山风景区 / Jinzhongshimianshanfeng Scenic Area

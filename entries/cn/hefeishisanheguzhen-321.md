@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Hefei"
 lat: 31.521216
 lon: 117.257908
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 合肥市三河古镇景区 / Hefei

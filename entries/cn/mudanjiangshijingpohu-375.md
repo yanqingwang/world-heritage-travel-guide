@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Mudanjiang City"
 lat: 44.06864
 lon: 128.960684
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 牡丹江市镜泊湖景区 / Jingpo Lake

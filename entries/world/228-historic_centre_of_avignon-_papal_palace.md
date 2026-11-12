@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(i)(ii)(iv)"
 lat: 43.95277778
 lon: 4.806111111
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 阿维尼翁历史中心：教皇宫、主教圣堂和阿维尼翁桥 / Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:08Z"
 > 法国 · Department of Vacluse, Region of Provence-Alpes-Côte-d’Azur · 文化遗产
 
 ## 图片 / Images
+
+![Avignon, Palais des Papes by JM Rosier.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Avignon%2C%20Palais%20des%20Papes%20by%20JM%20Rosier.jpg?width=1280)
+
+*Avignon, Palais des Papes by JM Rosier.jpg · see Wikimedia Commons file page*
 
 ![Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge](https://whc.unesco.org/uploads/sites/site_228.jpg)
 

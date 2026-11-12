@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iv)(v)"
 lat: 36.792416666
 lon: 14.705722222
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 晚期的巴洛克城镇瓦拉迪那托（西西里东南部） / Late Baroque Towns of the Val di Noto (South-Eastern Sicily)
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 意大利 · Provinces of Catania, Ragusa, and Syracuse, Sicily · 文化遗产
 
 ## 图片 / Images
+
+![Noto San Domenico.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Noto%20San%20Domenico.jpg?width=1280)
+
+*Noto San Domenico.jpg · see Wikimedia Commons file page*
 
 ![Late Baroque Towns of the Val di Noto (South-Eastern Sicily)](https://whc.unesco.org/uploads/sites/site_1024.jpg)
 

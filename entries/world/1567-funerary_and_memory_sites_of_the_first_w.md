@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)(vi)"
 lat: 50.96394564616667
 lon: 4.202226197583333
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 第一次世界大战（西线）的墓葬和纪念场所 / Funerary and memory sites of the First World War (Western Front)
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:19Z"
 > 比利时 · 文化遗产
 
 ## 图片 / Images
+
+![Tyne Cot Cemetery at dusk 3 - Redvers.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Tyne%20Cot%20Cemetery%20at%20dusk%203%20-%20Redvers.jpg?width=1280)
+
+*Tyne Cot Cemetery at dusk 3 - Redvers.jpg · see Wikimedia Commons file page*
 
 ![Funerary and memory sites of the First World War (Western Front)](https://whc.unesco.org/uploads/sites/site_1567.jpg)
 

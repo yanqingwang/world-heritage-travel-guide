@@ -3,7 +3,7 @@ id: "wh-1152"
 dataset: "unesco"
 name_zh: "平位利尔国家公园"
 name_en: "Þingvellir National Park"
-name_local: ""
+name_local: "Þingvellir"
 country: "IS"
 country_zh: "冰岛"
 country_en: "Iceland"
@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(vi)"
 lat: 64.258055555
 lon: -21.125
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 平位利尔国家公园 / Þingvellir National Park
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years.
 
+## 本地语言 / Local language (Icelandic)
+
+**Þingvellir**
+
+Þingvellir eru flatir, grasi grónir vellir norðan við Þingvallavatn á bökkum Öxarár, sem rennur eftir völlunum út í Þingvallavatn, sem er stærsta náttúrulega stöðuvatn á Íslandi. Þjóðgarður var stofnaður árið 1928 og nær hann yfir Þingvelli og nánasta umhverfi þeirra. Í Öxará er Öxarárfoss, þar sem áin steypist ofan í Almannagjá. Rennur áin síðan eftir gjánni og svo út úr henni og niður á vellina. Almannagjá er sprunga við vestanverða sigdældina á milli úthafsflekanna tveggja sem Ísland liggur á. Þingvellir eru einn af mikilvægustu stöðunum í íslenskri sögu. Alþingi var stofnað á Þingvöllum árið 930 og kom þar saman árlega allt fram til ársins 1798. Það var árið 999 eða 1000 sem lögsögumaðurinn Þorgeir Ljósvetningagoði lagðist undir feld og lýsti Íslendinga í kjölfarið kristna. Það var einnig á Þingvöllum sem Íslendingar lýstu yfir sjálfstæði þann 17. júní 1944. Þangað hafa margir íslenskir listamenn sótt innblástur sinn, til dæmis Jóhannes Kjarval. Skammt frá Þingvallakirkju er svokallaður þjóðargrafreitur, þar sem Jónas Hallgrímsson og Einar Benediktsson eru grafnir.
+
 ## 交通 / Transport
 
 - ✈ **Reykjavík Domestic Airport (RKV)** — 41.9 km
@@ -85,7 +91,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

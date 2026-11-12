@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)"
 lat: 40.6386
 lon: 22.9478
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 塞萨洛尼基古建筑 / Paleochristian and Byzantine Monuments of Thessalonika

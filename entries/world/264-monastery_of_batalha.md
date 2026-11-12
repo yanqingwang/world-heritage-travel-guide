@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(ii)"
 lat: 39.659166666
 lon: -8.826111111
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 巴塔利亚修道院 / Monastery of Batalha

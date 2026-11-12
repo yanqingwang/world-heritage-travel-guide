@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Songyuan City"
 lat: 45.210503
 lon: 124.441599
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 松原市前郭查干湖景区 / Chagan Lake (China)

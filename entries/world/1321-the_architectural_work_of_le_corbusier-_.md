@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(ii)(vi)"
 lat: 46.468414
 lon: 6.829336
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 勒·柯布西耶的建筑作品 / The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:17Z"
 
 ## 图片 / Images
 
-![The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement](https://whc.unesco.org/uploads/sites/site_1321.jpg)
+![Chandigarh Secretariat.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Chandigarh%20Secretariat.jpg?width=1280)
 
-*The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chandigarh Secretariat.jpg · see Wikimedia Commons file page*
+
+![Chandigarh - Le Corbusier - Museum - front elevation.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Chandigarh_-_Le_Corbusier_-_Museum_-_front_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chandigarh - Le Corbusier - Museum - front elevation.jpg · Nicholas.iyadurai · CC BY-SA 4.0*
+
+![Chandigarh - Le Corbusier - Museum - gutter.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Chandigarh_-_Le_Corbusier_-_Museum_-_gutter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chandigarh - Le Corbusier - Museum - gutter.jpg · Nicholas.iyadurai · CC BY-SA 4.0*
+
+![Chandigarh - Le Corbusier - museum - interior clerestorey light.jpg](https://upload.wikimedia.org/wikipedia/commons/3/37/Chandigarh_-_Le_Corbusier_-_museum_-_interior_clerestorey_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chandigarh - Le Corbusier - museum - interior clerestorey light.jpg · Nicholas.iyadurai · CC BY-SA 4.0*
+
+![Chandigarh - Le Corbusier - museum side window.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/Chandigarh_-_Le_Corbusier_-_museum_side_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chandigarh - Le Corbusier - museum side window.jpg · Nicholas.iyadurai · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

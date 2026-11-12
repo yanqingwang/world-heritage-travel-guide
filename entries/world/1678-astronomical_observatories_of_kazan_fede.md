@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iv)"
 lat: 55.790908333
 lon: 49.119097222
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 喀山联邦大学天文台 / Astronomical Observatories of Kazan Federal University

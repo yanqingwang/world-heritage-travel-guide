@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(viii)"
 lat: 48.110555555
 lon: -66.369444444
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 米瓜莎公园 / Miguasha National Park
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:12Z"
 
 ## 图片 / Images
 
-![Miguasha National Park](https://whc.unesco.org/uploads/sites/site_686.jpg)
+![Miguasha panorama 1.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Miguasha%20panorama%201.jpg?width=1280)
 
-*Miguasha National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Miguasha panorama 1.jpg · see Wikimedia Commons file page*
+
+![Acogida en el Miguasha National Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Acogida_en_el_Miguasha_National_Park.jpg/1280px-Acogida_en_el_Miguasha_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acogida en el Miguasha National Park.jpg · Vanbasten 23 · CC BY-SA 4.0*
+
+![Batiment principal du parc national de Miguasha au Québec.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Batiment_principal_du_parc_national_de_Miguasha_au_Qu%C3%A9bec.JPG/1280px-Batiment_principal_du_parc_national_de_Miguasha_au_Qu%C3%A9bec.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Batiment principal du parc national de Miguasha au Québec.JPG · ChristianT · CC BY-SA 3.0*
+
+![Bothriolepis canadensis, armoured division.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bothriolepis_canadensis%2C_armoured_division.jpg/1280px-Bothriolepis_canadensis%2C_armoured_division.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bothriolepis canadensis, armoured division.jpg · Mike Beauregard · CC BY 2.0*
+
+![Bothriolepis canadensis.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Bothriolepis_canadensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bothriolepis canadensis.jpg · This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

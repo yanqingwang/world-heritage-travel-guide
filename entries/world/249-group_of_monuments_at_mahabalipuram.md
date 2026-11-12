@@ -3,7 +3,7 @@ id: "wh-249"
 dataset: "unesco"
 name_zh: "默哈伯利布勒姆古迹群"
 name_en: "Group of Monuments at Mahabalipuram"
-name_local: ""
+name_local: "महाबलीपुरम के स्मारकों का समूह"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 12.616666666
 lon: 80.191666666
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 默哈伯利布勒姆古迹群 / Group of Monuments at Mahabalipuram
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 This group of sanctuaries, founded by the Pallava kings, was carved out of rock along the Coromandel coast in the 7th and 8th centuries. It is known especially for its rathas (temples in the form of chariots), mandapas (cave sanctuaries), giant open-air reliefs such as the famous 'Descent of the Ganges', and the temple of Rivage, with thousands of sculptures to the glory of Shiva.
 
+## 本地语言 / Local language (Hindi)
+
+**महाबलीपुरम के स्मारकों का समूह**
+
+महाबलीपुरम के स्मारकों का समूह तमिलनाडु के कोरोमंडल तट पर स्थित 7वीं और 8वीं शताब्दी ईस्वी के हिंदू धार्मिक स्मारकों का एक महत्वपूर्ण समूह है। महाबलीपुरम, जिसे प्राचीन काल में मामल्लपुरम भी कहा जाता था, बंगाल की खाड़ी के तट पर चेन्नई से लगभग 60 किलोमीटर दक्षिण-पश्चिम में स्थित है। यह स्मारक-समूह भारतीय शैल-वास्तुकला और पल्लवकालीन स्थापत्य-कला का उत्कृष्ट उदाहरण है। वर्ष 1984 में इसे यूनेस्को द्वारा विश्व धरोहर स्थल के रूप में मान्यता दी गई। इस स्थल पर लगभग 40 प्राचीन स्मारक और हिंदू मंदिर हैं। इनमें एक ही शिला को काटकर बनाए गए रथाकार मंदिर, गुफा-मंदिर, संरचनात्मक पत्थर के मंदिर तथा विशाल शैल-उत्कीर्ण आकृतियाँ प्रमुख हैं। यहाँ स्थित ‘गंगा का अवतरण’ अथवा ‘अर्जुन की तपस्या’ विश्व की सबसे बड़ी मुक्ताकाशीय शैल-उत्कीर्ण आकृतियों में से एक है। इस विशाल उत्कीर्ण पैनल में अनेक देवी-देवताओं, मनुष्यों, पशुओं और अन्य जीव-जंतुओं को अत्यंत कलात्मक ढंग से प्रदर्शित किया गया है।
+
 ## 交通 / Transport
 
 - ✈ **Chennai International Airport (MAA)** — 41.6 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

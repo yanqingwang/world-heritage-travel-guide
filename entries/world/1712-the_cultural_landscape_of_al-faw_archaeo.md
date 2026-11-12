@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(v)"
 lat: 19.7833
 lon: 45.15
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 法乌考古区文化景观 / The Cultural Landscape of Al-Faw Archaeological Area

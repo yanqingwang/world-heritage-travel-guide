@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 12.5878
 lon: -3.329
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 布基纳法索古冶铁遗址 / Ancient Ferrous Metallurgy Sites of Burkina Faso
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:20Z"
 > 布基纳法索 · 文化遗产
 
 ## 图片 / Images
+
+![COLLECTIE TROPENMUSEUM De oven van een dorpssmid TMnr 20010616.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/COLLECTIE_TROPENMUSEUM_De_oven_van_een_dorpssmid_TMnr_20010616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*COLLECTIE TROPENMUSEUM De oven van een dorpssmid TMnr 20010616.jpg · Jan Broekhuijse · CC BY-SA 3.0*
+
+![COLLECTIE TROPENMUSEUM De smid aan het werk in zijn smederij TMnr 20010619.jpg](https://upload.wikimedia.org/wikipedia/commons/0/06/COLLECTIE_TROPENMUSEUM_De_smid_aan_het_werk_in_zijn_smederij_TMnr_20010619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*COLLECTIE TROPENMUSEUM De smid aan het werk in zijn smederij TMnr 20010619.jpg · Jan Broekhuijse · CC BY-SA 3.0*
 
 ![Ancient Ferrous Metallurgy Sites of Burkina Faso](https://whc.unesco.org/uploads/sites/site_1602.jpg)
 

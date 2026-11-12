@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Dalian"
 lat: 39.103535
 lon: 122.000404
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 大连市金石滩景区 / Jinshitan Scenic Area

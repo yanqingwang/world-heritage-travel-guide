@@ -12,9 +12,9 @@ tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
-lat: 19.283347222142854
-lon: 106.81887417457143
-updated_at: "2026-11-10T23:01:12Z"
+lat: 19.283347222142858
+lon: 106.81887417457145
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments

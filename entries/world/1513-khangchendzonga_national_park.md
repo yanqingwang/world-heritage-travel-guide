@@ -3,7 +3,7 @@ id: "wh-1513"
 dataset: "unesco"
 name_zh: "干城章嘉国家公园"
 name_en: "Khangchendzonga National Park"
-name_local: ""
+name_local: "कंचनजंगा राष्ट्रीय उद्यान"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vi)(vii)(x)"
 lat: 27.6563
 lon: 88.3123
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 干城章嘉国家公园 / Khangchendzonga National Park
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:19Z"
 
 Located at the heart of the Himalayan range in northern India (State of Sikkim), the Khangchendzonga National Park includes a unique diversity of plains, valleys, lakes, glaciers and spectacular, snow-capped mountains covered with ancient forests, including the world’s third highest peak, Mount Khangchendzonga. Mythological stories are associated with this mountain and with a great number of natural elements (caves, rivers, lakes, etc.) that are the object of worship by the indigenous people of Sikkim. The sacred meanings of these stories and practices have been integrated with Buddhist beliefs and constitute the basis for Sikkimese identity.
 
+## 本地语言 / Local language (Hindi)
+
+**कंचनजंगा राष्ट्रीय उद्यान**
+
+कंचनजंगा राष्ट्रीय उद्यान या कंचनजंगा (हाइ ऑलटिट्यूड) राष्ट्रीय उद्यान सिक्किम, भारत में स्थित एक राष्ट्रीय उद्यान और एक बायोस्फीयर रिज़र्व है। इस उद्यान को अपना नाम कंचनजंगा पर्वत से मिलता है जो ८५८६ मीटर (२८,१६९ फ़ीट) ऊँची है और विश्व की तीसरी सबसे ऊँची शिखर है। इस उद्यान का कुल क्षेत्रफल 1784 वर्ग कि.है जो कि सिक्किम के कुल क्षेत्रफल का २५.१४% है। ज़ेमु हिमनद सहित पार्क में कई हिमनद हैं। कस्तूरी मृग, हिम तेंदुए और हिमालय तहर जैसे वन्यजीव उद्यान में रहते हैं। मनुष्यों द्वारा अभी तक अनन्वेषित यह उद्यान हिम तेंदुआ, हिमालयी काला भालू, तिब्बती एंटीलोप, जंगली गधा, काकड़, कस्तूरी मृग, फ्लाइंग गिलहरी और लाल पांडा का आवास है जो मैगनोलिया, बुरुंश और देवदार के जंगलों के बीच शरण पाते हैं।
+
 ## 交通 / Transport
 
 - ✈ **Taplejung Airport (TPJ)** — 69.7 km
@@ -80,7 +86,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 

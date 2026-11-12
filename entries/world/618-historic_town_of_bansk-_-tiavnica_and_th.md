@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(v)"
 lat: 48.46111
 lon: 18.9
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 历史名城班斯卡－什佳夫尼察及其工程建筑区 / Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:12Z"
 > 斯洛伐克 · Town and District of Banská Štiavnica, Region of Banská Bystrica · 文化遗产
 
 ## 图片 / Images
+
+![Agricultural libraries information notes (IA CAT75654148203).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Agricultural_libraries_information_notes_%28IA_CAT75654148203%29.pdf/page1-960px-Agricultural_libraries_information_notes_%28IA_CAT75654148203%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Agricultural libraries information notes (IA CAT75654148203).pdf · National Agricultural Library (U.S.) · Public domain*
 
 ![Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity](https://whc.unesco.org/uploads/sites/site_618.jpg)
 

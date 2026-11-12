@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.7109
 lon: 119.926847
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 常州市春秋淹城旅游区 / Chunqiu Yancheng

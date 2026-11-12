@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(ix)"
 lat: 48.996055555
 lon: -113.904166666
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 沃特顿冰川国际和平公园 / Waterton Glacier International Peace Park
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:09Z"
 > 加拿大 · Province of Alberta, Canada; State of Montana, USA · 自然遗产
 
 ## 图片 / Images
+
+![GlacierNP L7 20010701.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/GlacierNP%20L7%2020010701.jpg?width=1280)
+
+*GlacierNP L7 20010701.jpg · see Wikimedia Commons file page*
 
 ![Waterton Glacier International Peace Park](https://whc.unesco.org/uploads/sites/site_354.jpg)
 

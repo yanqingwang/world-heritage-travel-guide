@@ -3,7 +3,7 @@ id: "wh-1480"
 dataset: "unesco"
 name_zh: "孟买维多利亚的哥特式和艺术装饰合奏"
 name_en: "Victorian Gothic and Art Deco Ensembles of Mumbai"
-name_local: ""
+name_local: "मुंबई का विक्टोरियन और आर्ट डेको एनसेंबल"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(ii)(iv)"
 lat: 18.929806
 lon: 72.830083
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 孟买维多利亚的哥特式和艺术装饰合奏 / Victorian Gothic and Art Deco Ensembles of Mumbai
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:19Z"
 
 Having become a global trading centre, the city of Mumbai implemented an ambitious urban planning project in the second half of the 19th century. It led to the construction of ensembles of public buildings bordering the Oval Maidan open space, first in the Victorian Neo-Gothic style and then, in the early 20th century, in the Art Deco idiom. The Victorian ensemble includes Indian elements suited to the climate, including balconies and verandas. The Art Deco edifices, with their cinemas and residential buildings, blend Indian design with Art Deco imagery, creating a unique style that has been described as Indo-Deco . These two ensembles bear testimony to the phases of modernization that Mumbai has undergone in the course of the 19th and 20th centuries.
 
+## 本地语言 / Local language (Hindi)
+
+**मुंबई का विक्टोरियन और आर्ट डेको एनसेंबल**
+
+मुंबई का विक्टोरियन और आर्ट डेको एनसेंबल १९वीं सदी के विक्टोरियन नियो गोथिक सार्वजनिक भवनों और २०वीं सदी के आर्ट डेको भवनों का एक संग्रह है जो भारत के महाराष्ट्र में मुंबई के फोर्ट इलाके में है। इमारतों का यह समूह ३० जून २०१८ को मनामा, बहरीन में विश्व धरोहर समिति के ४२वें सत्र के दौरान विश्व धरोहर स्थलों की सूची में जोड़ा गया था। ओवल मैदान के पूर्व कि ओर मुंबई उच्च न्यायालय, मुंबई विश्वविद्यालय और राजाबाई टॉवर की इमारते है जो १९वीं सदी के विक्टोरियन गोथिक शैली की है। ओवल मैदान के पश्चिम कि ओर आर्ट डेको इमारते है जिनमे निजी स्वामित्व वाली आवासीय इमारतें है और इरोस सिनेमा भी।
+
 ## 交通 / Transport
 
 - ✈ **Chhatrapati Shivaji Maharaj International Airport (BOM)** — 18.1 km
@@ -58,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

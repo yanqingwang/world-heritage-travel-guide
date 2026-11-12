@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(i)"
 lat: -33.857058
 lon: 151.214897
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 悉尼歌剧院 / Sydney Opera House
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Sydney Opera House](https://whc.unesco.org/uploads/sites/site_166.jpg)
+![Sydney Opera House Sails.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Opera%20House%20Sails.jpg?width=1280)
 
-*Sydney Opera House · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Sydney Opera House Sails.jpg · see Wikimedia Commons file page*
+
+![174 Sydney Aug 1976 (51747972351).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/174_Sydney_Aug_1976_%2851747972351%29.jpg/1280px-174_Sydney_Aug_1976_%2851747972351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*174 Sydney Aug 1976 (51747972351).jpg · wilford peloquin · CC BY 2.0*
+
+![181021-D-SW162-2097 (31592885728).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/181021-D-SW162-2097_%2831592885728%29.jpg/1280px-181021-D-SW162-2097_%2831592885728%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*181021-D-SW162-2097 (31592885728).jpg · Chairman of the Joint Chiefs of Staff from Washington D.C, United States · CC BY 2.0*
+
+![1973 letter requesting presence of Māori performing arts group at opening of Sydney Opera House (48834570348).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1973_letter_requesting_presence_of_M%C4%81ori_performing_arts_group_at_opening_of_Sydney_Opera_House_%2848834570348%29.jpg/1280px-1973_letter_requesting_presence_of_M%C4%81ori_performing_arts_group_at_opening_of_Sydney_Opera_House_%2848834570348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1973 letter requesting presence of Māori performing arts group at opening of Sydney Opera House (48834570348).jpg · Archives New Zealand from New Zealand · CC BY 2.0*
+
+![2013AU10.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2013AU10.JPG/1280px-2013AU10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2013AU10.JPG · Travellers & Tinkers · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

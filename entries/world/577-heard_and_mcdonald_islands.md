@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(viii)(ix)"
 lat: -53.078333333
 lon: 73.5075
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 赫德岛和麦克唐纳群岛 / Heard and McDonald Islands
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:11Z"
 
 ## 图片 / Images
 
-![Heard and McDonald Islands](https://whc.unesco.org/uploads/sites/site_577.jpg)
+![Heard Island.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Heard%20Island.jpg?width=1280)
 
-*Heard and McDonald Islands · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Heard Island.jpg · see Wikimedia Commons file page*
+
+![Allocation of IPv4 Address Space HM.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Allocation_of_IPv4_Address_Space_HM.svg/1280px-Allocation_of_IPv4_Address_Space_HM.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Allocation of IPv4 Address Space HM.svg · Monaneko · CC BY 3.0*
+
+![Bird Island McDonnell Bay(GN05377).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bird_Island_McDonnell_Bay%28GN05377%29.jpg/1280px-Bird_Island_McDonnell_Bay%28GN05377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bird Island McDonnell Bay(GN05377).jpg · State Government Photographer · CC0*
+
+![Heard and McDonald Islands map.png](https://upload.wikimedia.org/wikipedia/commons/d/d5/Heard_and_McDonald_Islands_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Heard and McDonald Islands map.png · Giovanni Zanin · CC BY-SA 4.0*
+
+![Heard Island and McDonald Islands, Australia (2023-11-10-17-01-42 UMBRA-04).tiff](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Heard_Island_and_McDonald_Islands%2C_Australia_%282023-11-10-17-01-42_UMBRA-04%29.tiff/lossy-page1-1280px-Heard_Island_and_McDonald_Islands%2C_Australia_%282023-11-10-17-01-42_UMBRA-04%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Heard Island and McDonald Islands, Australia (2023-11-10-17-01-42 UMBRA-04).tiff · Umbra Lab, Inc. · CC BY 4.0*
 
 ## 简介 / Introduction
 

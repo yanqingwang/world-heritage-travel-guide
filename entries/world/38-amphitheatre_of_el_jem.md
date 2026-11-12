@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iv)(vi)"
 lat: 35.29638889
 lon: 10.70694444
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:14Z"
 ---
 
 # 杰姆的圆形竞技场 / Amphitheatre of El Jem

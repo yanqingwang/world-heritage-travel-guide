@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Zibo"
 lat: 36.804704
 lon: 117.847544
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 淄博市周村古商城景区 / Ziboshizhoucungushangcheng Scenic Area

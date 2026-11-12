@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(iv)"
 lat: 42.625555555
 lon: 25.399166666
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 卡赞利克的色雷斯古墓 / Thracian Tomb of Kazanlak

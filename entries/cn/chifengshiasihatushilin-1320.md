@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Chifeng City"
 lat: 43.941128
 lon: 117.527176
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 赤峰市阿斯哈图石林景区 / Shilintielu Scenic Area

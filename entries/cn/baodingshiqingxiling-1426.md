@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.370705
 lon: 115.361948
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 保定市清西陵景区 / Xiling Scenic Area

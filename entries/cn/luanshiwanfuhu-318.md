@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Lu'an"
 lat: 31.321522
 lon: 116.77304
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 六安市万佛湖风景区 / Huanwanfuhugonglu Scenic Area

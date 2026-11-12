@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(i)(iii)"
 lat: 47.742777777
 lon: 101.225833333
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 鹿石遗迹以及相关青铜时代遗址 / Deer Stone Monuments and Related Bronze Age Sites
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:20Z"
 > 蒙古国 · 文化遗产
 
 ## 图片 / Images
+
+![Dear stones in Uyuk-Tarlak, Tuva, Russia.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dear_stones_in_Uyuk-Tarlak%2C_Tuva%2C_Russia.png/1280px-Dear_stones_in_Uyuk-Tarlak%2C_Tuva%2C_Russia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dear stones in Uyuk-Tarlak, Tuva, Russia.png · Otto Hjalmar Appelgren-Kivalo (1853-1937), published in 1931 · CC BY-SA 4.0*
+
+![Deer stone chariot and rider.png](https://upload.wikimedia.org/wikipedia/commons/e/ec/Deer_stone_chariot_and_rider.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Deer stone chariot and rider.png · William Timothy Treal Taylor · CC BY-SA 4.0*
+
+![Deer stone dagger drawing, and Chinese Shang dagger in Northern Steppe style, 12th–11th century BCE.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Deer_stone_dagger_drawing%2C_and_Chinese_Shang_dagger_in_Northern_Steppe_style%2C_12th%E2%80%9311th_century_BCE.jpg/1280px-Deer_stone_dagger_drawing%2C_and_Chinese_Shang_dagger_in_Northern_Steppe_style%2C_12th%E2%80%9311th_century_BCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Deer stone dagger drawing, and Chinese Shang dagger in Northern Steppe style, 12th–11th century BCE.jpg · Metropolitan Museum of Art · CC BY-SA 4.0*
+
+![Deer stone drawing of a rein holder, and Chinese Shang bronze rein holder, ca. 11th century BCE.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Deer_stone_drawing_of_a_rein_holder%2C_and_Chinese_Shang_bronze_rein_holder%2C_ca._11th_century_BCE.jpg/1280px-Deer_stone_drawing_of_a_rein_holder%2C_and_Chinese_Shang_bronze_rein_holder%2C_ca._11th_century_BCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Deer stone drawing of a rein holder, and Chinese Shang bronze rein holder, ca. 11th century BCE.jpg · Metropolitan Museum of art. c. 10th century BCE Deer stone artist · CC BY-SA 4.0*
 
 ![Deer Stone Monuments and Related Bronze Age Sites](https://whc.unesco.org/uploads/sites/site_1621.jpg)
 

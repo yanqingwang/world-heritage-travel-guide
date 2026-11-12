@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 28.345107
 lon: 109.593699
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 湘西州吉首市矮寨•十八洞•德夯大峡谷景区 / Yalucangbudaxiagu Scenic Area

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)(v)(vi)(vii)"
 lat: 40.158333333
 lon: 24.327222222
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 阿索斯山 / Mount Athos

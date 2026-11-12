@@ -3,7 +3,7 @@ id: "wh-1160"
 dataset: "unesco"
 name_zh: "马德留－配拉菲塔－克拉罗尔大峡谷"
 name_en: "Madriu-Perafita-Claror Valley"
-name_local: ""
+name_local: "Vall del Madriu-Perafita-Claror"
 country: "AD"
 country_zh: "安道尔"
 country_en: "Andorra"
@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(v)"
 lat: 42.492147
 lon: 1.594426
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 马德留－配拉菲塔－克拉罗尔大峡谷 / Madriu-Perafita-Claror Valley
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting.
 
+## 本地语言 / Local language (Catalan)
+
+**Vall del Madriu-Perafita-Claror**
+
+La vall del Madriu-Perafita-Claror és una vall glacial del sud-est del Principat d'Andorra, formada per la conca del Madriu (tributari del Valira d'Orient) i dels seus afluents els rius de Perafita i de Claror (o Claró), que configuren la segona conca hidrogràfica andorrana més extensa. Ocupa una superfície de 42,47 km², aproximadament un 9% del territori del Principat, que es reparteix entre les parròquies d'Andorra la Vella, Encamp, Escaldes-Engordany i Sant Julià de Lòria.
+
 ## 交通 / Transport
 
 - ✈ **Pirineus - la Seu d'Urgel Airport (LEU)** — 22.9 km
@@ -58,7 +64,7 @@ Visa not required[6] Although officially no visa is required, at least a Double 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

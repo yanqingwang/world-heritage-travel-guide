@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(viii)"
 lat: -33.4
 lon: 22.0
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 巴伯顿·玛空瓦山脉 / Barberton Makhonjwa Mountains
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:19Z"
 > 南非 · 自然遗产
 
 ## 图片 / Images
+
+![Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19917678794).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819917678794%29.jpg/1280px-Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819917678794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19917678794).jpg · South African Tourism from South Africa · CC BY 2.0*
+
+![Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19917983663).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819917983663%29.jpg/1280px-Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819917983663%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19917983663).jpg · South African Tourism from South Africa · CC BY 2.0*
+
+![Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19918967844).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819918967844%29.jpg/1280px-Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819918967844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19918967844).jpg · South African Tourism from South Africa · CC BY 2.0*
+
+![Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19919544304).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819919544304%29.jpg/1280px-Arri_Raats%2C_Kalahari_Khomani_San_Bushman%2C_Boesmansrus_camp%2C_Northern_Cape%2C_South_Africa_%2819919544304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arri Raats, Kalahari Khomani San Bushman, Boesmansrus camp, Northern Cape, South Africa (19919544304).jpg · South African Tourism from South Africa · CC BY 2.0*
 
 ![Barberton Makhonjwa Mountains](https://whc.unesco.org/uploads/sites/site_1575.jpg)
 

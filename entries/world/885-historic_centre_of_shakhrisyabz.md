@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 39.05
 lon: 66.833333333
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 沙赫利苏伯兹历史中心 / Historic Centre of Shakhrisyabz

@@ -3,7 +3,7 @@ id: "wh-337"
 dataset: "unesco"
 name_zh: "卡齐兰加国家公园"
 name_en: "Kaziranga National Park"
-name_local: ""
+name_local: "काज़ीरंगा राष्ट्रीय उद्यान"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(ix)(x)"
 lat: 26.666666666
 lon: 93.35
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 卡齐兰加国家公园 / Kaziranga National Park
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:09Z"
 
 In the heart of Assam, this park is one of the last areas in eastern India undisturbed by a human presence. It is inhabited by the world's largest population of one-horned rhinoceroses, as well as many mammals, including tigers, elephants, panthers and bears, and thousands of birds.
 
+## 本地语言 / Local language (Hindi)
+
+**काज़ीरंगा राष्ट्रीय उद्यान**
+
+काज़ीरंगा राष्ट्रीय उद्यान भारत के असम राज्य का एक राष्ट्रीय उद्यान है। यह उद्यान एक सींग का गैंडा (भारतीय गेंडा) के लिए विशेष रूप से प्रसिद्ध है। काजीरंगा राष्ट्रीय उद्यान की स्थापना
+
 ## 交通 / Transport
 
 - ✈ **Itanagar Donyi Polo Hollongi Airport (HGI)** — 44.0 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

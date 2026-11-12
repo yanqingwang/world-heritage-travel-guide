@@ -23,7 +23,7 @@
  "name_zh": "瓦莱塔古城",
  "name_zh_source": "unesco_official",
  "name_en": "City of Valletta",
- "name_local": "",
+ "name_local": "Valletta",
  "local_lang": "mt",
  "local_lang_name": "Maltese",
  "slug": "131-city_of_valletta",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Il-Belt Valletta, magħrufa min-nies tal-gżejjer Maltin aktar bħala l-Belt hi l-kapitali ta' Malta. Tinsab mifruxa fuq penisola fil-parti tal-Lvant ċentrali tal-gżira ta' Malta. Il-Belt għandha popolazzjoni ta' 5,197 abitant (sal-2024). Il-Belt Valletta għandha arkitettura mħallta għax fiha hemm binjiet bi stil Manneristiku, Barokk, Neoklassiku u anki dawk b'arkitettura moderna. Il-Belt Valletta sofriet mill-attakki tat-Tieni Gwerra Dinjija; biss, minkejja li l-gwerra ħalliet ferita kbira, il-Belt hi ma tilfitx il-karattru storiku tagħha. Fl-1980 il-Belt Valletta ġiet magħżula u onorata mill-UNESCO bħala Sit ta’ Wirt Dinji.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta%2C%202010%20-%20panoramio%20-%20Bengt%20Nyman%20%2823%29.jpg?width=1280",
@@ -268,7 +268,7 @@
   "en": true,
   "ja": true,
   "ko": true,
-  "local": false,
+  "local": true,
   "local_lang": "mt",
   "local_lang_name": "Maltese",
   "official_unesco": [
@@ -299,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T23:01:07Z"
+ "updated_at": "2026-11-12T11:25:15Z"
 }

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)(v)"
 lat: 50.32496
 lon: 13.54509
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 扎泰茨及萨兹啤酒花景观 / Žatec and the Landscape of Saaz Hops
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:19Z"
 > 捷克 · 文化遗产
 
 ## 图片 / Images
+
+![Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%281%29.jpg/1280px-Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (1).jpg · MartinVeselka · CC BY-SA 4.0*
+
+![Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%282%29.jpg/1280px-Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (2).jpg · MartinVeselka · CC BY-SA 4.0*
+
+![Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%283%29.jpg/1280px-Stekn%C3%ADk_-_krajina_v%C3%BDchodn%C4%9B_od_vsi%2C_s_historickou_barokn%C3%AD_s%C3%BDpkou_na_horizontu_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stekník - krajina východně od vsi, s historickou barokní sýpkou na horizontu (3).jpg · MartinVeselka · CC BY-SA 4.0*
+
+![Stekník - odbočka ke kapličce poblíž chmelnice Šutrovna severozápadně od vsi (kaplička již na katastru Hradiště nad Ohří) (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stekn%C3%ADk_-_odbo%C4%8Dka_ke_kapli%C4%8Dce_pobl%C3%AD%C5%BE_chmelnice_%C5%A0utrovna_severoz%C3%A1padn%C4%9B_od_vsi_%28kapli%C4%8Dka_ji%C5%BE_na_katastru_Hradi%C5%A1t%C4%9B_nad_Oh%C5%99%C3%AD%29_%281%29.jpg/1280px-Stekn%C3%ADk_-_odbo%C4%8Dka_ke_kapli%C4%8Dce_pobl%C3%AD%C5%BE_chmelnice_%C5%A0utrovna_severoz%C3%A1padn%C4%9B_od_vsi_%28kapli%C4%8Dka_ji%C5%BE_na_katastru_Hradi%C5%A1t%C4%9B_nad_Oh%C5%99%C3%AD%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stekník - odbočka ke kapličce poblíž chmelnice Šutrovna severozápadně od vsi (kaplička již na katastru Hradiště nad Ohří) (1).jpg · MartinVeselka · CC BY-SA 4.0*
 
 ![Žatec and the Landscape of Saaz Hops](https://whc.unesco.org/uploads/sites/site_1558.jpg)
 

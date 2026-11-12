@@ -3,7 +3,7 @@ id: "wh-1199"
 dataset: "unesco"
 name_zh: "库尼亚－乌尔根奇"
 name_en: "Kunya-Urgench"
-name_local: ""
+name_local: "Köneürgenç"
 country: "TM"
 country_zh: "土库曼斯坦"
 country_en: "Turkmenistan"
@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)"
 lat: 42.3261336
 lon: 59.1530707
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 库尼亚－乌尔根奇 / Kunya-Urgench
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 Kunya-Urgench is situated in north-western Turkmenistan, on the left bank of the Amu Daria River. Urgench was the capital of the Khorezm region, part of the Achaemenid Empire. The old town contains a series of monuments mainly from the 11th to 16th centuries, including a mosque, the gates of a caravanserai, fortresses, mausoleums and a 60-m high minaret. The monuments testify to outstanding achievements in architecture and craftsmanship whose influence reached Iran and Afghanistan, and later the architecture of the Mogul Empire of 16th-century India.
 
+## 本地语言 / Local language (Turkmen)
+
+**Köneürgenç**
+
+thumb|Gutlug Temiriniň minarasy Köneürgenç ýa-da Gürgenç ( Türkmenler : Köneürgenç, Parsça : کهنه ‌ Kohna Gūrgānj / کهنه ‌ Kohna Ūrgānj), Türkmenistanyň demirgazyk-gündogaryndaky Jeýhun ( Amy derýa) derýasynyň günorta kenaryndaky Daşoguz welaýatynda ýerleşýän orta asyr harabalyklarynyň ady.
+
 ## 交通 / Transport
 
 - ✈ **Nukus International Airport (NCU)** — 42.6 km
@@ -89,7 +95,7 @@ eVisa[6] Holders of passports for public affairs do not require a visa.[18]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

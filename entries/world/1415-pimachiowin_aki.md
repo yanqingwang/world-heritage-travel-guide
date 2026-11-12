@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(vi)(ix)"
 lat: 51.0
 lon: -95.0
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 皮玛希旺·阿奇 / Pimachiowin Aki
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:18Z"
 > 加拿大 · 混合遗产
 
 ## 图片 / Images
+
+![Woodland Caribou Provincial Park.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Woodland%20Caribou%20Provincial%20Park.jpg?width=1280)
+
+*Woodland Caribou Provincial Park.jpg · see Wikimedia Commons file page*
 
 ![Pimachiowin Aki](https://whc.unesco.org/uploads/sites/site_1415.jpg)
 

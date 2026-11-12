@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 41.9625
 lon: 12.796111111
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 提沃利城的伊斯特别墅 / Villa d'Este, Tivoli

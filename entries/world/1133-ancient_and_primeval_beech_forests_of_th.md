@@ -3,7 +3,7 @@ id: "wh-1133"
 dataset: "unesco"
 name_zh: "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林"
 name_en: "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe"
-name_local: ""
+name_local: "Pyjet e Karpateve dhe rajoneve të tjera të Evropës"
 country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ix)"
 lat: 49.0
 lon: 15.0
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 喀尔巴阡山脉及欧洲其它地区的原始山毛榉林 / Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:16Z"
 
 This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.
 
+## 本地语言 / Local language (Albanian)
+
+**Pyjet e Karpateve dhe rajoneve të tjera të Evropës**
+
+Pyjet e lashta dhe parësore të ahut të Karpateve dhe rajoneve të tjera të Evropës është një lokacion i Trashëgimisë Botërore të UNESCO -s me natyrë serike transnacionale, që përfshin 94 pjesë përbërëse (pyjet e ahut evropian, Fagus sylvatica ) në 18 vende evropiane . Së bashku, vendet mbrojnë pyjet më të mëdha dhe më pak të shqetësuara të dominuara nga pema e ahut. Në shumë prej këtyre stendave (veçanërisht ato në Karpate ), këto pyje këtu u lejuan të vazhdonin pa ndërprerje ose ndërhyrje që nga epoka e fundit e akullit . Këto vende dokumentojnë ripopullimin e pashqetësuar pas akullnajave të specieve.
+
 ## 交通 / Transport
 
 - ✈ **České Budějovice South Bohemian Airport (JCL)** — 42.1 km
@@ -88,7 +94,7 @@ Visa not required[6][8] 90 days within any 180 day period.
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, ru, ar
 

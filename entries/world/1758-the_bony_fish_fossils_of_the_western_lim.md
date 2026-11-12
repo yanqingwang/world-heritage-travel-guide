@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(viii)"
 lat: 56.895649
 lon: 8.751962
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 利姆水道西段硬骨鱼化石——始新世最早期的演化和气候适应 / The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:21Z"
 > 丹麦 · 自然遗产
 
 ## 图片 / Images
+
+![OJ C 202504643 of 2025 - DA Danish.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/OJ_C_202504643_of_2025_-_DA_Danish.pdf/page1-960px-OJ_C_202504643_of_2025_-_DA_Danish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*OJ C 202504643 of 2025 - DA Danish.pdf · Publications Office of the European Union · Public domain*
+
+![OJ C 408 of 2019 - DA Danish.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/OJ_C_408_of_2019_-_DA_Danish.pdf/page1-960px-OJ_C_408_of_2019_-_DA_Danish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*OJ C 408 of 2019 - DA Danish.pdf · Publications Office of the European Union · Public domain*
+
+![OJ L 202400580 of 2024 - DA Danish.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/OJ_L_202400580_of_2024_-_DA_Danish.pdf/page1-960px-OJ_L_202400580_of_2024_-_DA_Danish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*OJ L 202400580 of 2024 - DA Danish.pdf · Publications Office of the European Union · Public domain*
 
 ![The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene](https://whc.unesco.org/uploads/sites/site_1758.jpg)
 

@@ -3,7 +3,7 @@ id: "wh-202"
 dataset: "unesco"
 name_zh: "锡吉里亚古城"
 name_en: "Ancient City of Sigiriya"
-name_local: ""
+name_local: "சிகிரியா"
 country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 7.956944444
 lon: 80.759722222
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 锡吉里亚古城 / Ancient City of Sigiriya
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.
 
+## 本地语言 / Local language (Tamil)
+
+**சிகிரியா**
+
+சிகிரியா (Sigiriya / Lion Rock; சிங்களம்: සීගිරිය) இலங்கையின் இணையற்ற கலைப் பாரம்பரியத்தின் சின்னமாகக் கருதப்படுகிறது. இது மாத்தளை மாவட்டத்தில் தம்புள்ள நகரத்திற்கு அண்மையில் அமைந்துள்ளது. 1144-அடி உயரமான இக்குன்றினுள் அழகிய வேலைப்பாடுகளுடன் கூடிய சித்திரங்கள் பல உள்ளன. இவை 6-ம் நூற்றாண்டைச் சேர்ந்தவையாகும். எதிரிகளிடமிருந்து தன்னைப் பாதுகாத்துக் கொள்ள இக்கோட்டையை முதலாம் காசியப்பன் (கி.பி. 477-495) பயன்படுத்தினான் . கோட்டையை சுற்றி அகழியும் கட்டப்பட்டுள்ளது. சிகிரியா குன்றானது ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனத்தால் (UNESCO) பாதுகாக்கப்படவேண்டிய உலக பாரம்பரியக் களமாக அறிவிக்கப்பட்டுள்ளது.
+
 ## 交通 / Transport
 
 - ✈ **China Bay Airport (TRR)** — 79.6 km
@@ -85,7 +91,7 @@ Free ETA / Visa on arrival[6][138] Sri Lanka introduced an ETA valid for 30 days
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

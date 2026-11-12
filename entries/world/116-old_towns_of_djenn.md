@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)"
 lat: 13.90639
 lon: -4.555
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 杰内古城 / Old Towns of Djenné
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:07Z"
 
 ## 图片 / Images
 
-![Old Towns of Djenné](https://whc.unesco.org/uploads/sites/site_116.jpg)
+![Djenné.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Djenn%C3%A9.jpg?width=1280)
 
-*Old Towns of Djenné · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Djenné.jpg · see Wikimedia Commons file page*
+
+![Djenné2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9d/Djenn%C3%A92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Djenné2.jpg · CC BY 2.5*
+
+![Old Towns of Djenné-107937.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Old_Towns_of_Djenn%C3%A9-107937.jpg/1280px-Old_Towns_of_Djenn%C3%A9-107937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Towns of Djenné-107937.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Old Towns of Djenné-107939.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Old_Towns_of_Djenn%C3%A9-107939.jpg/1280px-Old_Towns_of_Djenn%C3%A9-107939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Towns of Djenné-107939.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Old Towns of Djenné-107941.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Old_Towns_of_Djenn%C3%A9-107941.jpg/1280px-Old_Towns_of_Djenn%C3%A9-107941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Towns of Djenné-107941.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

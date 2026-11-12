@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 35.60299
 lon: 116.997127
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 济宁市明故城三孔旅游区 / Qufuluguogucheng Tourist Area

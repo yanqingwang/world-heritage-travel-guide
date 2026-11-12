@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(ii)(iv)"
 lat: 48.85
 lon: 2.35889
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 巴黎塞纳河畔 / Paris, Banks of the Seine
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:11Z"
 
 ## 图片 / Images
 
-![Paris, Banks of the Seine](https://whc.unesco.org/uploads/sites/site_600.jpg)
+![Seine by Eiffel.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Seine%20by%20Eiffel.jpg?width=1280)
 
-*Paris, Banks of the Seine · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Seine by Eiffel.jpg · see Wikimedia Commons file page*
+
+![A hot-air balloon travels over part of Paris giving an aeria Wellcome V0040903.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_hot-air_balloon_travels_over_part_of_Paris_giving_an_aeria_Wellcome_V0040903.jpg/1280px-A_hot-air_balloon_travels_over_part_of_Paris_giving_an_aeria_Wellcome_V0040903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A hot-air balloon travels over part of Paris giving an aeria Wellcome V0040903.jpg · CC BY 4.0*
+
+![Wea05026 (19156085614).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wea05026_%2819156085614%29.jpg/1280px-Wea05026_%2819156085614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Wea05026 (19156085614).jpg · NOAA Photo Library · Public domain*
+
+![1A1182101LIII036 (15410477492).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1A1182101LIII036_%2815410477492%29.jpg/1280px-1A1182101LIII036_%2815410477492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1A1182101LIII036 (15410477492).jpg · Université de Caen Basse-Normandie · No restrictions*
+
+![1A1182101LIII037 (15224131500).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/1A1182101LIII037_%2815224131500%29.jpg/1280px-1A1182101LIII037_%2815224131500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1A1182101LIII037 (15224131500).jpg · Université de Caen Basse-Normandie · No restrictions*
 
 ## 简介 / Introduction
 

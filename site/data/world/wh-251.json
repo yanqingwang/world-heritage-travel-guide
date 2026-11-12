@@ -23,7 +23,7 @@
  "name_zh": "阿格拉古堡",
  "name_zh_source": "unesco_official",
  "name_en": "Agra Fort",
- "name_local": "",
+ "name_local": "आगरा का किला",
  "local_lang": "hi",
  "local_lang_name": "Hindi",
  "slug": "251-agra_fort",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "आगरा का किला एक यूनेस्को द्वारा घोषित विश्व धरोहर स्थल है। यह किला भारत के उत्तर प्रदेश राज्य के आगरा शहर में स्थित है। इसके लगभग 2.5 किलोमीटर उत्तर-पश्चिम में ही विश्व प्रसिद्ध स्मारक ताज महल मौजूद है। इस किले को कुछ इतिहासकार चारदीवारी से घिरी प्रासाद महल नगरी कहना बेहतर मानते हैं। यह भारत का सबसे महत्वपूर्ण किला है। भारत के मुगल सम्राट बाबर, हुमायुं, अकबर, जहांगीर, शाहजहां और औरंगज़ेब यहां रहा करते थे, व यहीं से पूरे भारत पर शासन किया करते थे। यहां राज्य का सर्वाधिक खजाना, सम्पत्ति व टकसाल थी। यहाँ विदेशी राजदूत, यात्री व उच्च पदस्थ लोगों का आना जाना लगा रहता था, जिन्होंने भारत के इतिहास को रचा।",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agra%2003-2016%2016%20Agra%20Fort.jpg?width=1280",
@@ -269,7 +269,7 @@
   "en": true,
   "ja": true,
   "ko": true,
-  "local": false,
+  "local": true,
   "local_lang": "hi",
   "local_lang_name": "Hindi",
   "official_unesco": [
@@ -300,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T23:01:08Z"
+ "updated_at": "2026-11-12T11:25:17Z"
 }

@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Liuzhou"
 lat: 25.903032
 lon: 109.647973
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 柳州市程阳八寨景区 / Chengyangyongjiqiao Scenic Area

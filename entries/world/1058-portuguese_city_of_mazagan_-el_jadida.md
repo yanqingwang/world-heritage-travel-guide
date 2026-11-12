@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 33.25656111
 lon: -8.502475
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 马扎甘葡萄牙城 / Portuguese City of Mazagan (El Jadida)
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:15Z"
 > 摩洛哥 · Region: Doukkala-Abda, Province El Jadida · 文化遗产
 
 ## 图片 / Images
+
+![Forteresse Jadida 03.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Forteresse%20Jadida%2003.JPG?width=1280)
+
+*Forteresse Jadida 03.JPG · see Wikimedia Commons file page*
 
 ![Portuguese City of Mazagan (El Jadida)](https://whc.unesco.org/uploads/sites/site_1058.jpg)
 

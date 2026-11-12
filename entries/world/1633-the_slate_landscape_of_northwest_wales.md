@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 53.120833
 lon: -4.115
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 威尔士西北部的板岩景观 / The Slate Landscape of Northwest Wales

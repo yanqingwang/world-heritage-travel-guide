@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 40.250956
 lon: 109.968272
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 鄂尔多斯市响沙湾旅游景区 / Eerduosishixiangshawan Scenic Area

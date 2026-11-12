@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 17.484166666
 lon: -92.046388888
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 帕伦克古城和国家公园 / Pre-Hispanic City and National Park of Palenque

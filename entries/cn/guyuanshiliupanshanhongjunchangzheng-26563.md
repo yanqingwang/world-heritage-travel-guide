@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Guyuan City"
 lat: 35.673415
 lon: 106.20037
-updated_at: "2026-11-09T12:50:13Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 固原市六盘山红军长征旅游区 / Liupan Mountains

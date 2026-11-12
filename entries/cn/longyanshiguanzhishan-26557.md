@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 25.721
 lon: 116.81794
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 龙岩市冠豸山景区 / Guanzhishan Scenic Area

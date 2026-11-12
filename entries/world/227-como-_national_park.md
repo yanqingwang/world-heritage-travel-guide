@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(ix)(x)"
 lat: 8.8225
 lon: -3.590555555
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 科莫埃国家公园 / Comoé National Park

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)"
 lat: 49.2172
 lon: 15.8789
-updated_at: "2026-11-10T23:01:16Z"
+updated_at: "2026-11-12T11:25:26Z"
 ---
 
 # 特热比奇犹太社区及圣普罗科皮乌斯大教堂 / Jewish Quarter and St Procopius' Basilica in Třebíč
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:16Z"
 
 ## 图片 / Images
 
-![Jewish Quarter and St Procopius' Basilica in Třebíč](https://whc.unesco.org/uploads/sites/site_1078.jpg)
+![Třebíč Basilika Jihlava Ghetto.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/T%C5%99eb%C3%AD%C4%8D%20Basilika%20Jihlava%20Ghetto.jpg?width=1280)
 
-*Jewish Quarter and St Procopius' Basilica in Třebíč · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Třebíč Basilika Jihlava Ghetto.jpg · see Wikimedia Commons file page*
+
+![Trebic 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Trebic_06.jpg/1280px-Trebic_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Trebic 06.jpg · Scotch Mist · CC BY-SA 4.0*
+
+![Trebic 15.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Trebic_15.jpg/1280px-Trebic_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Trebic 15.jpg · Scotch Mist · CC BY-SA 4.0*
+
+![Trebic view on procopius basilica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trebic_view_on_procopius_basilica.jpg/1280px-Trebic_view_on_procopius_basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Trebic view on procopius basilica.jpg · Wobuzowatsj · CC BY-SA 4.0*
+
+![Třebíč Basilika Jihlava Ghetto.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/T%C5%99eb%C3%AD%C4%8D_Basilika_Jihlava_Ghetto.jpg/1280px-T%C5%99eb%C3%AD%C4%8D_Basilika_Jihlava_Ghetto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Třebíč Basilika Jihlava Ghetto.jpg · Christof Halbe · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

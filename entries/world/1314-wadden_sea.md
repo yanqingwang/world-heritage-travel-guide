@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(viii)(ix)(x)"
 lat: 53.528611111
 lon: 8.556111111
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 瓦登海 / Wadden Sea
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 德国 · 自然遗产
 
 ## 图片 / Images
+
+![Waddenzee zon.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Waddenzee%20zon.jpg?width=1280)
+
+*Waddenzee zon.jpg · see Wikimedia Commons file page*
 
 ![Wadden Sea](https://whc.unesco.org/uploads/sites/site_1314.jpg)
 

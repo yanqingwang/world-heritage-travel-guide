@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Weihai"
 lat: 37.429984
 lon: 122.122166
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 威海市威海华夏城景区 / Weihaishiweihaihuaxiacheng Scenic Area

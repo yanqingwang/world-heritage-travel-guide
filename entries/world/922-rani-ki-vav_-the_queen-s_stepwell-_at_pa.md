@@ -3,7 +3,7 @@ id: "wh-922"
 dataset: "unesco"
 name_zh: "古吉拉特邦帕坦城的王后階梯井"
 name_en: "Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat"
-name_local: ""
+name_local: "रानी की वाव"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(iv)"
 lat: 23.85892
 lon: 72.10162
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 古吉拉特邦帕坦城的王后階梯井 / Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:14Z"
 
 Rani-ki-Vav, on the banks of the Saraswati River, was initially built as a memorial to a king in the 11th century AD. Stepwells are a distinctive form of subterranean water resource and storage systems on the Indian subcontinent, and have been constructed since the 3rd millennium BC. They evolved over time from what was basically a pit in sandy soil towards elaborate multi-storey works of art and architecture. Rani-ki-Vav was built at the height of craftsmens’ ability in stepwell construction and the Maru-Gurjara architectural style, reflecting mastery of this complex technique and great beauty of detail and proportions. Designed as an inverted temple highlighting the sanctity of water, it is divided into seven levels of stairs with sculptural panels of high artistic quality; more than 500 principle sculptures and over a thousand minor ones combine religious, mythological and secular imagery, often referencing literary works. The fourth level is the deepest and leads into a rectangular tank 9.5 m by 9.4 m, at a depth of 23 m. The well is located at the westernmost end of the property and consists of a shaft 10 m in diameter and 30 m deep.
 
+## 本地语言 / Local language (Hindi)
+
+**रानी की वाव**
+
+रानी की वाव भारत के गुजरात राज्य के पाटण में स्थित प्रसिद्ध बावड़ी (सीढ़ीदार कुआँ) है। इस चित्र को जुलाई 2018 में RBI (भारतीय रिज़र्व बैंक) द्वारा ₹100 के नोट पर चित्रित किया गया है तथा 22 जून 2014 को इसे यूनेस्को के विश्व विरासत स्थल में सम्मिलित किया गया। पाटण को पहले 'अन्हिलपुर' के नाम से जाना जाता था, जो गुजरात की पूर्व राजधानी थी। कहते हैं कि रानी की वाव (बावड़ी) वर्ष 1063 में सोलंकी शासन के राजा भीमदेव प्रथम की प्रेमिल स्‍मृति में उनकी पत्नी रानी उदयामति ने बनवाया था। रानी उदयमति जूनागढ़ के चूड़ासमा शासक रा' खेंगार(खंगार) की पुत्री थीं। सोलंकी राजवंश के संस्‍थापक मूलराज थे। सीढ़ी युक्‍त बावड़ी में कभी सरस्वती नदी के जल के कारण गाद भर गया था। यह वाव 64 मीटर लंबा, 20 मीटर चौड़ा तथा 27 मीटर गहरा है। यह भारत में अपनी तरह का अनूठा वाव है। वाव के खंभे सोलंकी वंश और उनके वास्तुकला के चमत्कार के समय में ले जाते हैं। वाव की दीवारों और स्तंभों पर अधिकांश नक्काशियां, राम, वामन, महिषासुरमर्दिनी, कल्कि, आदि जैसे अवतारों के विभिन्न रूपों में भगवान विष्णु को समर्पित हैं। 'रानी की वाव' को विश्व विरासत की नई सूची में शामिल किए जाने का औपचारिक ऐलान कर दिया गया है। 11वीं सदी में निर्मित इस वाव को यूनेस्को की विश्व विरासत समिति ने भारत में स्थित सभी बावड़ी या वाव (स्टेपवेल) की रानी का भी खिताब दिया है। इसे जल प्रबंधन प्रणाली में भूजल संसाधनों के उपयोग की तकनीक का बेहतरीन उदाहरण माना है। 11वीं सदी का भारतीय भूमिगत वास्तु संरचना का अनूठे प्रकार का सबसे विकसित एवं व्यापक उदाहरण है यह, जो भारत म
+
 ## 交通 / Transport
 
 - ✈ **Sardar Vallabh Patel International Airport (AMD)** — 102.5 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 

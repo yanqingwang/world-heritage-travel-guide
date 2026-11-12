@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 35.060278
 lon: 135.752778
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 古京都遗址（京都、宇治和大津城） / Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)

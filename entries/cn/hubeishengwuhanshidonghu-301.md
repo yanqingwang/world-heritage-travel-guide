@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.557869
 lon: 114.420005
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 湖北省武汉市东湖景区 / Hubeishengwuhanshidonghu Scenic Area

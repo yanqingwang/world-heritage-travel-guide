@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Shizuishan City"
 lat: 38.830852
 lon: 106.397047
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 石嘴山市沙湖旅游景区 / Shahu Scenic Area

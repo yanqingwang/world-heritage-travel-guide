@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)(iv)"
 lat: -12.260913888
 lon: 44.531758333
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 科摩罗历史苏丹国麦地那 / The Medinas of the Historic Sultanates of the Comoros
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:21Z"
 > 科摩罗 · 文化遗产
 
 ## 图片 / Images
+
+![Moroni Medina Comoros 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Moroni_Medina_Comoros_1.jpg/1280px-Moroni_Medina_Comoros_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Moroni Medina Comoros 1.jpg · Radosław Botev · CC BY 3.0 pl*
+
+![Moroni Medina Comoros 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Moroni_Medina_Comoros_2.jpg/1280px-Moroni_Medina_Comoros_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Moroni Medina Comoros 2.jpg · Radosław Botev · CC BY 3.0 pl*
+
+![Moroni Medina Comoros 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moroni_Medina_Comoros_4.jpg/1280px-Moroni_Medina_Comoros_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Moroni Medina Comoros 4.jpg · Radosław Botev · CC BY 3.0 pl*
 
 ![The Medinas of the Historic Sultanates of the Comoros](https://whc.unesco.org/uploads/sites/site_1768.jpg)
 

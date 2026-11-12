@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)(vi)"
 lat: 43.335
 lon: -6.414722
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 圣地亚哥康波斯特拉之路：法兰西之路和北西班牙之路 / Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:12Z"
 > 西班牙 · 文化遗产
 
 ## 图片 / Images
+
+![Camino Primitivo (1433111595).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Camino%20Primitivo%20%281433111595%29.jpg?width=1280)
+
+*Camino Primitivo (1433111595).jpg · see Wikimedia Commons file page*
 
 ![Routes of Santiago de Compostela: <i>Camino Francés</i> and Routes of Northern Spain](https://whc.unesco.org/uploads/sites/site_669.jpg)
 

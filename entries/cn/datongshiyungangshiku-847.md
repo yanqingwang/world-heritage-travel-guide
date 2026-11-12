@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Datong"
 lat: 40.119273
 lon: 113.144291
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 大同市云冈石窟景区 / Lubanyaoshiku Scenic Area

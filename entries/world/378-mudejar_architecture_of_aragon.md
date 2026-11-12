@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iv)"
 lat: 40.34389
 lon: -1.10722
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 阿拉贡的穆德哈尔式建筑 / Mudejar Architecture of Aragon

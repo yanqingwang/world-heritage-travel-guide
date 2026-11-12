@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(i)(iii)(vi)"
 lat: -18.771666666
 lon: 21.754166666
-updated_at: "2026-11-10T23:01:15Z"
+updated_at: "2026-11-12T11:25:25Z"
 ---
 
 # 措迪洛山 / Tsodilo

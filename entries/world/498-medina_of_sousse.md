@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)(v)"
 lat: 35.8278
 lon: 10.6386
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 苏塞老城 / Medina of Sousse

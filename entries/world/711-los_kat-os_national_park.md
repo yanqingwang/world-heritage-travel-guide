@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ix)(x)"
 lat: 7.8
 lon: -77.15
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 洛斯卡蒂奥斯国家公园 / Los Katíos National Park
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:12Z"
 > 哥伦比亚 · Provinces of Antioquia and Choco’ · 自然遗产
 
 ## 图片 / Images
+
+![Entrando por el Cacaricas - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Entrando_por_el_Cacaricas_-_panoramio.jpg/1280px-Entrando_por_el_Cacaricas_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrando por el Cacaricas - panoramio.jpg · johanchaves · CC BY-SA 3.0*
+
+![Katíos National Park banner.jpg](https://upload.wikimedia.org/wikipedia/commons/9/96/Kat%C3%ADos_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Katíos National Park banner.jpg · Ministerio de Ambiente de Colombia · CC BY-SA 4.0*
+
+![Katíos natural park.jpg](https://upload.wikimedia.org/wikipedia/commons/1/16/Kat%C3%ADos_natural_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Katíos natural park.jpg · Ministerio de Ambiente de Colombia · CC BY-SA 4.0*
+
+![Katíos.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Kat%C3%ADos.jpg/1280px-Kat%C3%ADos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Katíos.jpg · Crisfos · CC BY-SA 4.0*
 
 ![Los Katíos National Park](https://whc.unesco.org/uploads/sites/site_711.jpg)
 

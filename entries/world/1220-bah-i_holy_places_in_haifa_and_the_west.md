@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(vi)"
 lat: 32.81378
 lon: 34.98655
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 海法和西加利利的巴海圣地 / Bahá’i Holy Places in Haifa and the Western Galilee
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 以色列 · Haifa and Northern Districts · 文化遗产
 
 ## 图片 / Images
+
+![Bahá'í gardens by David Shankbone.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Bah%C3%A1%27%C3%AD%20gardens%20by%20David%20Shankbone.jpg?width=1280)
+
+*Bahá'í gardens by David Shankbone.jpg · see Wikimedia Commons file page*
 
 ![Bahá’i Holy Places in Haifa and the Western Galilee](https://whc.unesco.org/uploads/sites/site_1220.jpg)
 

@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Chongming District"
 lat: 31.743662
 lon: 121.260027
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 西沙明珠湖景区 / Xishamingzhuhu Scenic Area

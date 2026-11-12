@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chizhou"
 lat: 30.483187
 lon: 117.806842
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 池州市九华山风景区 / Jiuhuashan Scenic Area

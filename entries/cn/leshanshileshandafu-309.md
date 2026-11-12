@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Leshan"
 lat: 29.553048
 lon: 103.779852
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 乐山市乐山大佛景区 / Leshan Giant Buddha

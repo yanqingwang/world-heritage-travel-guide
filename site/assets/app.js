@@ -30,27 +30,13 @@
       markVisited: "去过",
       markLike: "赞过",
       markBad: "不好",
-      syncOpen: "☁ 云同步",
-      syncKicker: "云同步",
-      syncTitle: "同步我的标记",
-      syncSub: "localStorage 为主，云端每人一份备份",
-      syncNote: "标记始终先保存在本机浏览器（localStorage）。连接 GitHub 后，会在本仓库 sync/ 目录为你保存一份 marks-<设备名>.json（一人一份），用于换设备/换浏览器时恢复。令牌只保存在你自己的浏览器里，站点不收集任何凭据。",
-      syncSetupTitle: "1 · 连接 GitHub（可选）",
-      syncSetupNote: "需要一个仅有本仓库 Contents 读写权限的 Fine-grained Personal Access Token（GitHub → Settings → Developer settings → Fine-grained tokens）。粘贴后保存即可。",
-      syncTokenPh: "github_pat_…", syncNamePh: "设备名，如 laptop / phone",
-      syncSave: "保存", syncPush: "⬆ 推送到云端", syncPull: "⬇ 从云端合并",
-      syncExport: "导出 JSON", syncImport: "导入 JSON",
+      syncOpen: "📦 标记备份",
+      syncKicker: "标记备份",
+      syncTitle: "导出 / 导入我的标记",
+      syncSub: "标记存在本机，换设备用文件搬运",
+      syncNote: "去过 / 赞过 / 不好的标记始终先保存在本机浏览器（localStorage），不上传任何服务器。换手机或换浏览器时，导出成 JSON 再在另一台设备导入即可，导入会与现有标记合并、不会覆盖。",
+      syncExport: "⬇ 导出 JSON", syncImport: "⬆ 导入 JSON",
       syncClose: "关闭",
-      syncNeedToken: "请先在上方粘贴并保存 GitHub Token。",
-      syncSaved: "已保存。设备名：", syncTestOk: "，Token 有效 ✓",
-      syncTestFail: "Token 校验失败：",
-      syncNoPush: "此 Token 对主仓库没有写入权限：普通访客的 PAT 只能写自己的仓库。请改用「导出/导入 JSON」，或把备份目标改成你自己的 fork。",
-      syncBadToken: "Token 无效或已过期，请重新生成后粘贴。",
-      syncRateLimit: "GitHub API 触发限流（或 Token 权限不足），请稍后重试。",
-      syncConflict: "云端文件已被其他设备更新，请重新打开同步窗口再试一次。",
-      syncPushed: (n, dev, at) => `已推送 ${n} 条标记到 sync/marks-${dev}.json（${at}）`,
-      syncPulled: (n, at) => `已从云端合并 ${n} 条标记（云端更新于 ${at}）`,
-      syncPulledNone: "云端还没有这个设备的备份；先「推送到云端」一次即可。",
       syncExported: "已导出当前标记为 JSON 文件。",
       syncImported: (n) => `已从文件导入并合并 ${n} 条标记。`,
       syncErr: "操作失败：",
@@ -131,27 +117,13 @@
       markVisited: "Visited",
       markLike: "Liked",
       markBad: "Not for me",
-      syncOpen: "☁ Cloud sync",
-      syncKicker: "CLOUD SYNC",
-      syncTitle: "Sync my marks",
-      syncSub: "localStorage first, one cloud backup per person",
-      syncNote: "Marks are always saved to this browser first (localStorage). After connecting GitHub, a marks-<device>.json file — one per person — is kept in the repo's sync/ directory to restore your marks on another device or browser. The token stays in your own browser; the site never collects credentials.",
-      syncSetupTitle: "1 · Connect GitHub (optional)",
-      syncSetupNote: "You need a Fine-grained Personal Access Token with Contents: Read & Write on this repository only (GitHub → Settings → Developer settings → Fine-grained tokens). Paste it and save.",
-      syncTokenPh: "github_pat_…", syncNamePh: "Device name, e.g. laptop / phone",
-      syncSave: "Save", syncPush: "⬆ Push to cloud", syncPull: "⬇ Merge from cloud",
-      syncExport: "Export JSON", syncImport: "Import JSON",
+      syncOpen: "📦 Marks backup",
+      syncKicker: "MARKS BACKUP",
+      syncTitle: "Export / import my marks",
+      syncSub: "Marks stay on this device; move them with a file",
+      syncNote: "Visited / liked / not-for-me marks are always stored in this browser first (localStorage) and never uploaded. To move to a new phone or browser, export a JSON file and import it there — importing merges with your existing marks instead of overwriting them.",
+      syncExport: "⬇ Export JSON", syncImport: "⬆ Import JSON",
       syncClose: "Close",
-      syncNeedToken: "Paste and save a GitHub Token above first.",
-      syncNoPush: "This token cannot write to the main repository: a visitor's own PAT can only write to repositories they own. Use Export / Import JSON instead, or point the backup at your own fork.",
-      syncBadToken: "Token invalid or expired. Generate a new one and paste it again.",
-      syncRateLimit: "GitHub API rate limit (or insufficient token scope). Please retry later.",
-      syncConflict: "The cloud file changed on another device. Reopen the sync dialog and try again.",
-      syncSaved: "Saved. Device: ", syncTestOk: ", token valid ✓",
-      syncTestFail: "Token check failed: ",
-      syncPushed: (n, dev, at) => `Pushed ${n} marks to sync/marks-${dev}.json (${at})`,
-      syncPulled: (n, at) => `Merged ${n} marks from the cloud (cloud updated ${at})`,
-      syncPulledNone: "No cloud backup for this device yet; press “Push to cloud” once first.",
       syncExported: "Current marks exported as a JSON file.",
       syncImported: (n) => `Imported and merged ${n} marks from the file.`,
       syncErr: "Operation failed: ",
@@ -1315,117 +1287,25 @@
   $("#detail").addEventListener("click", (e) => { if (e.target === $("#detail")) $("#detail").close(); });
 
   // ---------------------------------------------------------------------
-  // Cloud sync dialog (optional GitHub backup of personal marks)
+  // Marks backup dialog (export / import JSON — local only, no network)
   // ---------------------------------------------------------------------
   const syncEls = {
     open: $("#sync-open"), dialog: $("#sync"), close: $("#sync-close"),
-    token: $("#sync-token"), name: $("#sync-name"), save: $("#sync-save"),
-    push: $("#sync-push"), pull: $("#sync-pull"),
-    export: $("#sync-export"), import: $("#sync-import"), file: $("#sync-file"),
-    status: $("#sync-status"), result: $("#sync-result"),
+    kicker: $("#sync-kicker"), title: $("#sync-title"), sub: $("#sync-sub"),
+    note: $("#sync-note"), export: $("#sync-export"), import: $("#sync-import"),
+    file: $("#sync-file"), result: $("#sync-result"),
   };
-  const syncT = () => ({
-    note: t().syncNote, kicker: t().syncKicker, title: t().syncTitle, sub: t().syncSub,
-    setupTitle: t().syncSetupTitle, setupNote: t().syncSetupNote,
-    tokenPh: t().syncTokenPh, namePh: t().syncNamePh, save: t().syncSave,
-    push: t().syncPush, pull: t().syncPull, export: t().syncExport, import: t().syncImport,
-    open: t().syncOpen, close: t().syncClose,
-  });
 
   function applySyncI18n() {
-    const s = syncT();
-    $("#sync-open").textContent = s.open;
-    $("#sync-kicker").textContent = s.kicker;
-    $("#sync-title").textContent = s.title;
-    $("#sync-sub").textContent = s.sub;
-    $("#sync-note").innerHTML = esc(s.note).replace(/sync\//, "sync/").replace(/&lt;设备名&gt;|&lt;device&gt;/, "<device>");
-    $("#sync-setup-title").textContent = s.setupTitle;
-    $("#sync-setup-note").textContent = s.setupNote;
-    syncEls.token.placeholder = s.tokenPh;
-    syncEls.name.placeholder = s.namePh;
-    syncEls.save.textContent = s.save;
-    syncEls.push.textContent = s.push;
-    syncEls.pull.textContent = s.pull;
-    syncEls.export.textContent = s.export;
-    syncEls.import.textContent = s.import;
-    syncEls.close.setAttribute("aria-label", s.close);
+    syncEls.open.textContent = t().syncOpen;
+    syncEls.kicker.textContent = t().syncKicker;
+    syncEls.title.textContent = t().syncTitle;
+    syncEls.sub.textContent = t().syncSub;
+    syncEls.note.textContent = t().syncNote;
+    syncEls.export.textContent = t().syncExport;
+    syncEls.import.textContent = t().syncImport;
+    syncEls.close.setAttribute("aria-label", t().syncClose);
   }
-
-  const setSyncBusy = (busy) => {
-    for (const b of [syncEls.save, syncEls.push, syncEls.pull, syncEls.export, syncEls.import]) {
-      b.disabled = busy;
-    }
-  };
-
-  const syncFailText = (reason) => ({
-    no_token: t().syncNeedToken,
-    bad_token: t().syncBadToken,
-    rate_limit: t().syncRateLimit,
-    no_push: t().syncNoPush,
-    conflict: t().syncConflict,
-    not_found: t().syncPulledNone,
-    network: t().syncErr,
-  }[reason] || `${t().syncErr}${reason}`);
-
-  async function ensureTokenValid() {
-    if (!window.WHTG_SYNC || !WHTG_SYNC.state.token) {
-      syncEls.status.textContent = t().syncNeedToken;
-      return false;
-    }
-    const check = await WHTG_SYNC.checkAccess();
-    if (!check.ok) syncEls.status.textContent = syncFailText(check.reason);
-    return check.ok;
-  }
-
-  syncEls.save.addEventListener("click", async () => {
-    WHTG_SYNC.saveToken(syncEls.token.value);
-    WHTG_SYNC.saveName(syncEls.name.value || localStorage.getItem("whtg-sync-name") || "");
-    setSyncBusy(true);
-    syncEls.status.textContent = "…";
-    const check = await WHTG_SYNC.checkAccess();
-    if (check.ok) {
-      syncEls.status.textContent = `${t().syncSaved}${WHTG_SYNC.state.device}${t().syncTestOk} (${check.login})`;
-    } else {
-      syncEls.status.textContent = syncFailText(check.reason);
-    }
-    setSyncBusy(false);
-  });
-
-  syncEls.push.addEventListener("click", async () => {
-    if (!(await ensureTokenValid())) return;
-    setSyncBusy(true);
-    syncEls.result.textContent = "…";
-    try {
-      const stamp = await WHTG_SYNC.push(state.marks);
-      const at = new Date(stamp.at).toLocaleString(state.lang === "zh" ? "zh-CN" : "en-US");
-      syncEls.result.textContent = t().syncPushed(stamp.count, stamp.device, at);
-      updateGlobeButton();
-    } catch (e) {
-      syncEls.result.textContent = syncFailText(WHTG_SYNC.explain(e));
-    }
-    setSyncBusy(false);
-  });
-
-  syncEls.pull.addEventListener("click", async () => {
-    setSyncBusy(true);
-    syncEls.result.textContent = "…";
-    try {
-      const cloud = await WHTG_SYNC.pull();
-      const merged = WHTG_SYNC.merge(state.marks, cloud.marks);
-      const added = Object.keys(merged).length - Object.keys(state.marks).length;
-      state.marks = merged;
-      saveMarks();
-      render();
-      updateGlobeButton();
-      const at = cloud.updated_at ? new Date(cloud.updated_at).toLocaleString(state.lang === "zh" ? "zh-CN" : "en-US") : "";
-      syncEls.result.textContent = t().syncPulled(Object.keys(cloud.marks).length, at) + (added > 0 ? ` (+${added})` : "");
-    } catch (e) {
-      syncEls.result.textContent = /404|Not Found/i.test(e.message)
-        ? t().syncPulledNone
-        : syncFailText(WHTG_SYNC.explain(e));
-    }
-    setSyncBusy(false);
-  });
 
   syncEls.export.addEventListener("click", () => {
     const blob = new Blob([JSON.stringify({ version: 1, exported_at: new Date().toISOString(), marks: state.marks }, null, 2)],
@@ -1446,12 +1326,13 @@
     reader.onload = () => {
       try {
         const doc = JSON.parse(reader.result);
-        const merged = WHTG_SYNC.merge(state.marks, doc.marks || doc || {});
+        const merged = WHTG_MARKS.merge(state.marks, doc.marks || doc || {});
         const added = Object.keys(merged).length - Object.keys(state.marks).length;
         state.marks = merged;
         saveMarks();
         render();
         updateGlobeButton();
+        if (globe.open) { globe.dirty = true; updateGlobeStats(); }
         syncEls.result.textContent = t().syncImported(added);
       } catch (e) {
         syncEls.result.textContent = `${t().syncErr}${e.message}`;
@@ -1462,9 +1343,8 @@
   });
 
   syncEls.open.addEventListener("click", () => {
-    syncEls.token.value = WHTG_SYNC ? WHTG_SYNC.state.token : "";
-    syncEls.name.value = localStorage.getItem("whtg-sync-name") || "";
     applySyncI18n();
+    syncEls.result.textContent = "";
     syncEls.dialog.showModal();
   });
   syncEls.close.addEventListener("click", () => syncEls.dialog.close());

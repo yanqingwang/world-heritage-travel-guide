@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(iv)"
 lat: 34.29
 lon: 58.654444444
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 波斯坎儿井 / The Persian Qanat
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:19Z"
 > 伊朗 · 文化遗产
 
 ## 图片 / Images
+
+![قنات بلده فردوس 1.jpg](https://upload.wikimedia.org/wikipedia/commons/0/01/%D9%82%D9%86%D8%A7%D8%AA_%D8%A8%D9%84%D8%AF%D9%87_%D9%81%D8%B1%D8%AF%D9%88%D8%B3_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*قنات بلده فردوس 1.jpg · Smhinfo · CC BY-SA 4.0*
+
+![قنات بلده فردوس 2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2d/%D9%82%D9%86%D8%A7%D8%AA_%D8%A8%D9%84%D8%AF%D9%87_%D9%81%D8%B1%D8%AF%D9%88%D8%B3_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*قنات بلده فردوس 2.jpg · Smhinfo · CC BY-SA 4.0*
+
+![قنات بلده فردوس 3.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/%D9%82%D9%86%D8%A7%D8%AA_%D8%A8%D9%84%D8%AF%D9%87_%D9%81%D8%B1%D8%AF%D9%88%D8%B3_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*قنات بلده فردوس 3.jpg · Smhinfo · CC BY-SA 4.0*
+
+![قنات بلده فردوس 4.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d4/%D9%82%D9%86%D8%A7%D8%AA_%D8%A8%D9%84%D8%AF%D9%87_%D9%81%D8%B1%D8%AF%D9%88%D8%B3_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*قنات بلده فردوس 4.jpg · Smhinfo · CC BY-SA 4.0*
 
 ![The Persian Qanat](https://whc.unesco.org/uploads/sites/site_1506.jpg)
 

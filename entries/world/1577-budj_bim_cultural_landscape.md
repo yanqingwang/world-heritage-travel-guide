@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(v)"
 lat: -38.0667
 lon: 141.917
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 布吉必姆文化景观 / Budj Bim Cultural Landscape
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:19Z"
 > 澳大利亚 · 文化遗产
 
 ## 图片 / Images
+
+![Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_02.jpg/1280px-Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 02.jpg · Dhx1 · CC0*
+
+![Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 28.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_28.jpg/1280px-Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 28.jpg · Dhx1 · CC0*
+
+![Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 39.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_39.jpg/1280px-Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Budj Bim ‐ Mt Eccles National Park, Victoria, Australia 39.jpg · Dhx1 · CC0*
 
 ![Budj Bim Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1577.jpg)
 

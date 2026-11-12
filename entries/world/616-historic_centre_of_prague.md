@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(iv)(vi)"
 lat: 50.08972
 lon: 14.41944
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 布拉格历史中心 / Historic Centre of Prague
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:11Z"
 
 ## 图片 / Images
 
-![Historic Centre of Prague](https://whc.unesco.org/uploads/sites/site_616.jpg)
+![Petřín Tower View IMG 3020.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Pet%C5%99%C3%ADn%20Tower%20View%20IMG%203020.JPG?width=1280)
 
-*Historic Centre of Prague · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Petřín Tower View IMG 3020.JPG · see Wikimedia Commons file page*
+
+![Prague Vltava River Charles Bridge and Castle View.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Prague_Vltava_River_Charles_Bridge_and_Castle_View.jpg/1280px-Prague_Vltava_River_Charles_Bridge_and_Castle_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Prague Vltava River Charles Bridge and Castle View.jpg · MichaelOpdenacker · CC BY-SA 4.0*
+
+![Visiting Prague 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Visiting_Prague_01.jpg/1280px-Visiting_Prague_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Visiting Prague 01.jpg · Ferfive · CC BY 4.0*
+
+![Visiting Prague 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Visiting_Prague_02.jpg/1280px-Visiting_Prague_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Visiting Prague 02.jpg · Ferfive · CC BY 4.0*
+
+![Visiting Prague 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Visiting_Prague_03.jpg/1280px-Visiting_Prague_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Visiting Prague 03.jpg · Ferfive · CC BY 4.0*
 
 ## 简介 / Introduction
 

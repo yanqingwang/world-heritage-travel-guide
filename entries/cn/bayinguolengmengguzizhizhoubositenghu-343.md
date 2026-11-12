@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bayinguolengmenggu Autonomous Prefecture"
 lat: 41.805435
 lon: 86.364754
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 巴音郭楞蒙古自治州博斯腾湖景区 / Bosten Lake

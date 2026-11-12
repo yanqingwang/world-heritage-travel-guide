@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(v)"
 lat: 8.7025
 lon: 38.608333333
-updated_at: "2026-11-10T23:01:06Z"
+updated_at: "2026-11-12T11:25:14Z"
 ---
 
 # 梅尔卡·昆图尔和巴尔奇特考古与古生物遗址 / Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:06Z"
 
 ## 图片 / Images
 
-![Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia](https://whc.unesco.org/uploads/sites/site_13.jpg)
+![Pierre taillée Melka Kunture Éthiopie.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20taill%C3%A9e%20Melka%20Kunture%20%C3%89thiopie.jpg?width=1280)
 
-*Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Pierre taillée Melka Kunture Éthiopie.jpg · see Wikimedia Commons file page*
+
+![Display of prehistoric stone tools at Melka Kunture Prehistoric Site (29126111235).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Display_of_prehistoric_stone_tools_at_Melka_Kunture_Prehistoric_Site_%2829126111235%29.jpg/1280px-Display_of_prehistoric_stone_tools_at_Melka_Kunture_Prehistoric_Site_%2829126111235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Display of prehistoric stone tools at Melka Kunture Prehistoric Site (29126111235).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (1) (29125984985).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%281%29_%2829125984985%29.jpg/1280px-Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%281%29_%2829125984985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (1) (29125984985).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (2) (29048811951).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%282%29_%2829048811951%29.jpg/1280px-Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%282%29_%2829048811951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (2) (29048811951).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
+
+![Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (3) (29048726251).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%283%29_%2829048726251%29.jpg/1280px-Excavation_site_at_Melka_Kunture_Prehistoric_Site%2C_roughly_800%2C000_years_before_the_present_%283%29_%2829048726251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (3) (29048726251).jpg · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0*
 
 ## 简介 / Introduction
 

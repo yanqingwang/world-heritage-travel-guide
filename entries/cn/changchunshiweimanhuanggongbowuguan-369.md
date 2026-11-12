@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.912045
 lon: 125.357554
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 长春市伪满皇宫博物馆 / Changchunshiweimanhuanggong Museum

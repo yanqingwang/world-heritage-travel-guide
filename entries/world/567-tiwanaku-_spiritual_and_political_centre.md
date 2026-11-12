@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: -16.554722222
 lon: -68.673333333
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 蒂瓦纳科文化的精神和政治中心 / Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture

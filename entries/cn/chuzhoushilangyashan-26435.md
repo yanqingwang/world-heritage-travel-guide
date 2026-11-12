@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chuzhou City"
 lat: 32.28648
 lon: 118.293741
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 滁州市琅琊山景区 / Mount Langya (Anhui)

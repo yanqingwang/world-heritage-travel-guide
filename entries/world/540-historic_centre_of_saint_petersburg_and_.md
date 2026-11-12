@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 59.938888888
 lon: 30.315555555
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 圣彼得堡历史中心及其相关古迹群 / Historic Centre of Saint Petersburg and Related Groups of Monuments
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T23:01:11Z"
 > 俄罗斯 · 文化遗产
 
 ## 图片 / Images
+
+![Palace Square and Column of Alexander I, Saint Petersburg, Russia.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Palace%20Square%20and%20Column%20of%20Alexander%20I%2C%20Saint%20Petersburg%2C%20Russia.jpg?width=1280)
+
+*Palace Square and Column of Alexander I, Saint Petersburg, Russia.jpg · see Wikimedia Commons file page*
+
+![Historic Centre of Saint Petersburg and Related Groups of Monuments-110862.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Historic_Centre_of_Saint_Petersburg_and_Related_Groups_of_Monuments-110862.jpg/1280px-Historic_Centre_of_Saint_Petersburg_and_Related_Groups_of_Monuments-110862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Historic Centre of Saint Petersburg and Related Groups of Monuments-110862.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ![Historic Centre of Saint Petersburg and Related Groups of Monuments](https://whc.unesco.org/uploads/sites/site_540.jpg)
 

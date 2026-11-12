@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Chengde"
 lat: 40.840497
 lon: 117.594811
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 承德市金山岭长城景区 / Jinshanling

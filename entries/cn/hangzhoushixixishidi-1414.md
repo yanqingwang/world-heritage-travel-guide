@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 30.283595
 lon: 120.076821
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 杭州市西溪湿地旅游区 / Hangzhoushixixishidi Tourist Area

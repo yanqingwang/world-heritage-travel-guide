@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Linxiahuizu Autonomous Prefecture"
 lat: 36.021258
 lon: 103.742572
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 临夏州炳灵寺世界文化遗产旅游区 / List of World Heritage Sites in China

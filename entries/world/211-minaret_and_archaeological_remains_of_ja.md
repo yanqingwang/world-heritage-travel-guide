@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(ii)(iii)(iv)"
 lat: 34.3964
 lon: 64.5159
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 查姆回教寺院尖塔和考古遗址 / Minaret and Archaeological Remains of Jam
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:08Z"
 
 ## 图片 / Images
 
-![Minaret and Archaeological Remains of Jam](https://whc.unesco.org/uploads/sites/site_211.jpg)
+![Minaret of jam 2009 ghor.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Minaret%20of%20jam%202009%20ghor.jpg?width=1280)
 
-*Minaret and Archaeological Remains of Jam · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Minaret of jam 2009 ghor.jpg · see Wikimedia Commons file page*
+
+![Jam Qasr Zarafshan.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9d/Jam_Qasr_Zarafshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Jam Qasr Zarafshan.jpg · David C. Thomas ( en:User:DavidThomas71 ) · CC BY-SA 2.5*
+
+![Jam minaret ghor province Afghanistan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jam_minaret_ghor_province_Afghanistan.jpg/1280px-Jam_minaret_ghor_province_Afghanistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jam minaret ghor province Afghanistan.jpg · AhmadElhan · CC BY-SA 4.0*
+
+![Minaret Jam ghor Afghanistan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Minaret_Jam_ghor_Afghanistan.jpg/1280px-Minaret_Jam_ghor_Afghanistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Minaret Jam ghor Afghanistan.jpg · AhmadElhan · CC BY-SA 4.0*
+
+![Minaret of jam 2009 ghor.jpg](https://upload.wikimedia.org/wikipedia/commons/7/74/Minaret_of_jam_2009_ghor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Minaret of jam 2009 ghor.jpg · david adamec · Public domain*
 
 ## 简介 / Introduction
 

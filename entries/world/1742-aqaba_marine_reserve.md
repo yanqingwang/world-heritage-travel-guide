@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ix)(x)"
 lat: 29.4307022
 lon: 34.9718427
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 亚喀巴海洋保护区 / Aqaba Marine Reserve
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 约旦 · 自然遗产
 
 ## 图片 / Images
+
+![Exercise Eager Lion 12 - Aqaba Image 1 of 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Exercise_Eager_Lion_12_-_Aqaba_Image_1_of_4.jpg/1280px-Exercise_Eager_Lion_12_-_Aqaba_Image_1_of_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Exercise Eager Lion 12 - Aqaba Image 1 of 4.jpg · 2nd Lt. Joshua Larson · Public domain*
+
+![Exercise Eager Lion 12 - Aqaba Image 2 of 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Exercise_Eager_Lion_12_-_Aqaba_Image_2_of_4.jpg/1280px-Exercise_Eager_Lion_12_-_Aqaba_Image_2_of_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Exercise Eager Lion 12 - Aqaba Image 2 of 4.jpg · 2nd Lt. Joshua Larson · Public domain*
+
+![Exercise Eager Lion 12 - Aqaba Image 4 of 4.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Exercise_Eager_Lion_12_-_Aqaba_Image_4_of_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Exercise Eager Lion 12 - Aqaba Image 4 of 4.jpg · 2nd Lt. Joshua Larson · Public domain*
+
+![Navy & Marine Corps Medical News 00-10 (IA Med00010).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Navy_%26_Marine_Corps_Medical_News_00-10_%28IA_Med00010%29.pdf/page1-960px-Navy_%26_Marine_Corps_Medical_News_00-10_%28IA_Med00010%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Navy & Marine Corps Medical News 00-10 (IA Med00010).pdf · U.S. Navy. Bureau of Medicine and Surgery · Public domain*
 
 ![Aqaba Marine Reserve](https://whc.unesco.org/uploads/sites/site_1742.jpg)
 

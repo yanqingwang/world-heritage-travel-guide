@@ -3,7 +3,7 @@ id: "wh-242"
 dataset: "unesco"
 name_zh: "阿旃陀石窟群"
 name_en: "Ajanta Caves"
-name_local: ""
+name_local: "अजंता गुफाएँ"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 20.55341667
 lon: 75.70047222
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 阿旃陀石窟群 / Ajanta Caves
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added to the original group. The paintings and sculptures of Ajanta, considered masterpieces of Buddhist religious art, have had a considerable artistic influence.
 
+## 本地语言 / Local language (Hindi)
+
+**अजंता गुफाएँ**
+
+अजन्ता गुफाएँ महाराष्ट्र, भारत में स्थित तकरीबन 29 चट्टानों को काटकर बनी बौद्ध स्मारक गुफाएँ जो द्वितीय शताब्दी ई॰पू॰ की हैं। यहाँ बौद्ध धर्म से सम्बन्धित चित्रण एवम् शिल्पकारी के उत्कृष्ट नमूने मिलते हैं। इनके साथ ही सजीव चित्रण भी मिलते हैं। यह गुफाएँ अजन्ता नामक गाँव के सन्निकट ही स्थित है, जो कि महाराष्ट्र के औरंगाबाद जिले में है। (निर्देशांक: 20° 30’ उ० 75° 40’ पू॰) अजन्ता गुफाएँ सन् 1983 से युनेस्को की विश्व धरोहर स्थल घोषित है।" ‘’’नेशनल ज्यॉग्राफिक ‘’’ के अनुसार: आस्था का बहाव ऐसा था कि प्रतीत होता है, जैसे शताब्दियों तक अजन्ता समेत, लगभग सभी बौद्ध मन्दिर, उस समय के बौद्ध मत के शासन और आश्रय के अधीन बनवाये गये हों।
+
 ## 交通 / Transport
 
 - ✈ **Jalgaon Airport (JLG)** — 46.1 km
@@ -83,7 +89,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Xishuangbanna Dai Autonomous Prefecture"
 lat: 21.931604
 lon: 101.262951
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 西双版纳州中科院西双版纳热带植物园 / Xishuangbanna Tropical Botanical Garden

@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(viii)"
 lat: 49.9175
 lon: 8.756667
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 麦塞尔化石遗址 / Messel Pit Fossil Site

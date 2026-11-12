@@ -3,7 +3,7 @@ id: "wh-130"
 dataset: "unesco"
 name_zh: "哈尔•萨夫列尼地下宫殿"
 name_en: "Ħal Saflieni Hypogeum"
-name_local: ""
+name_local: "Ipoġew ta' Ħal Saflieni"
 country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)"
 lat: 35.869558333
 lon: 14.506883333
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 哈尔•萨夫列尼地下宫殿 / Ħal Saflieni Hypogeum
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:07Z"
 
 The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times.
 
+## 本地语言 / Local language (Maltese)
+
+**Ipoġew ta' Ħal Saflieni**
+
+L-Ipoġew ta' Ħal Saflieni huwa struttura Neoltika taħt l-art li tmur lura għal żmien magħruf bħala l-fażi ta' Ħal Saflieni, jiġifieri 3300 – 3000 Q.K., fil-preistorja Maltija, u jinsab proprju f'Ħal Saflieni, qrib Raħal Ġdid. Sikwit huwa magħruf sempliċement bħala l-Ipoġew (jew Hypogeum bl-Ingliż), li litteralment huwa terminu li ġej mill-Grieg li jfisser ‘taħt l-art'. Jingħad li l-Ipoġew kien jintuża bħala santwarju u bħala nekropoli. L-arkeologi ddokumentaw il-fdalijiet ta' xi 7,000 persuni. L-Ipoġew ta' Ħal Saflieni jitqies bħala fost l-aqwa eżempji ppreservati tal-kultura tal-bini tat-tempji fil-Gżejjer Maltin li pproduċiet ukoll it-Tempji Megalitiċi ta' Malta u Għawdex u ċ-Ċirku tax-Xagħra.
+
 ## 交通 / Transport
 
 - ✈ **Malta International Airport (MLA)** — 3.0 km
@@ -85,7 +91,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

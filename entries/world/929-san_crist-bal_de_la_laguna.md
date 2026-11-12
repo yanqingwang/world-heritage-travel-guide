@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 28.485277777
 lon: -16.316666666
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 拉古纳的圣克斯托瓦尔 / San Cristóbal de La Laguna

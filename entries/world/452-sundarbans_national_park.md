@@ -3,7 +3,7 @@ id: "wh-452"
 dataset: "unesco"
 name_zh: "孙德尔本斯国家公园"
 name_en: "Sundarbans National Park"
-name_local: ""
+name_local: "सुंदरवन राष्ट्रीय उद्यान"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ix)(x)"
 lat: 21.75
 lon: 88.75
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 孙德尔本斯国家公园 / Sundarbans National Park
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:10Z"
 
 The Sundarbans covers 10,000 km 2 of land and water (more than half of it in India, the rest in Bangladesh) in the Ganges delta. It contains the world's largest area of mangrove forests. A number of rare or endangered species live in the park, including tigers, aquatic mammals, birds and reptiles.
 
+## 本地语言 / Local language (Hindi)
+
+**सुंदरवन राष्ट्रीय उद्यान**
+
+सुंदरवन राष्ट्रीय उद्यान भारत के पश्चिम बंगाल राज्य के दक्षिणी भाग में गंगा नदी के सुंदरवन डेल्टा क्षेत्र में स्थित एक राष्ट्रीय उद्यान, बाघ संरक्षित क्षेत्र एवं बायोस्फ़ीयर रिज़र्व क्षेत्र है। यह क्षेत्र मैन्ग्रोव के घने जंगलों से घिरा हुआ है और रॉयल बंगाल टाइगर का सबसे बड़ा संरक्षित क्षेत्र है। यह विश्व का एकमात्र नदी डेल्टा है जहां बाघ पाए जाते हैं। हाल के अध्ययनों से पता चला है कि इस राष्ट्रीय उद्यान में बाघों की संख्या 103 है। यहां पक्षियों, सरीसृपों तथा रीढ़विहीन जीवों (इन्वर्टीब्रेट्स) की कई प्रजातियाँ भी पायी जाती हैं। इनके साथ ही यहाँ खारे पानी के मगरमच्छ भी मिलते हैं। वर्तमान सुंदरवन राष्ट्रीय उद्यान 1973 में मूल सुंदरवन बाघ रिज़र्व क्षेत्र का कोर क्षेत्र तथा 1977 में वन्य जीव अभयारण्य घोषित हुआ था। 4 मई 1984 को इसे राष्ट्रीय उद्यान घोषित किया गया था।
+
 ## 交通 / Transport
 
 - ✈ **Netaji Subhash Chandra Bose International Airport (CCU)** — 105.2 km
@@ -81,7 +87,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

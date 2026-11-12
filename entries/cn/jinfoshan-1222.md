@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Nanchuan District"
 lat: 29.158193
 lon: 107.110746
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 金佛山景区 / Mount Jinfo

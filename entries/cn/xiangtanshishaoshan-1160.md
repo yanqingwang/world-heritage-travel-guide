@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 湘潭市韶山旅游区 / Shaoshanzhan Tourist Area

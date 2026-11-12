@@ -3,7 +3,7 @@ id: "wh-1570"
 dataset: "unesco"
 name_zh: "特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙"
 name_en: "Kakatiya Rudreshwara (Ramappa) Temple, Telangana"
-name_local: ""
+name_local: "रामप्पा मंदिर"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iii)"
 lat: 18.259444444
 lon: 79.9425
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙 / Kakatiya Rudreshwara (Ramappa) Temple, Telangana
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:19Z"
 
 Rudreshwara, popularly known as Ramappa Temple, is located in the village of Palampet approximately 200km north-east of Hyderabad, in the State of Telangana. It is the main Shiva temple in a walled complex built during the Kakatiyan period (1123–1323 CE) under rulers Rudradeva and Recharla Rudra. Construction of the sandstone temple began in 1213 CE and is believed to have continued over some 40 years. The building features decorated beams and pillars of carved granite and dolerite with a distinctive and pyramidal Vimana (horizontally stepped tower) made of lightweight porous bricks, so-called ‘floating bricks’, which reduced the weight of the roof structures. The temple’s sculptures of high artistic quality illustrate regional dance customs and Kakatiyan culture. Located at the foothills of a forested area and amidst agricultural fields, close to the shores of the Ramappa Cheruvu, a Kakatiya-built water reservoir, the choice of setting for the edifice followed the ideology and practice sanctioned in dharmic texts that temples are to be constructed to form an integral part of a natural setting, including hills, forests, springs, streams, lakes, catchment areas, and agricultural lands.
 
+## 本地语言 / Local language (Hindi)
+
+**रामप्पा मंदिर**
+
+रामप्पा मंदिर, जिसे रुद्रेश्वर (भगवान शिव) मंदिर के नाम से भी जाना जाता है, दक्षिण भारत में तेलंगाना राज्य में स्थित एक यूनेस्को विश्व धरोहर स्थल है। यह वारंगल से 66 कि.मी, मुलुगुसे 15 कि.मी,हैदराबाद से 209 कि.मी की दूरी पर स्थित है। यह मुलुगु जिले के वेंकटपुर मंडल के पालमपेट गांव की घाटी में स्थित है। हालांकि अब यह एक छोटा सा गांव है लेकिन 13वीं और 14वीं शताब्दी के काल में इसका एक गौरवशाली इतिहास रहा है। मंदिर के परिसर में उपस्थित एक शिलालेख के अनुसार इसका निर्माण वर्ष 1213 ईस्वी में काकतीय शासक गणपति देव के शासनकाल के दौरान उनके एक सेनापति रेचारला रुद्र देव ने करवाया था। मंदिर एक शिवालय है, जहां भगवान रामलिंगेश्वर की पूजा की जाती है। कथित तौर पर, मार्को पोलो ने काकतीय साम्राज्य की अपनी यात्रा के दौरान इस मंदिर को "मंदिरों की आकाशगंगा का सबसे चमकीला तारा" कहा था। रामप्पा मंदिर 6 फुट ऊंचे तारे के आकार के चबूतरे पर भव्य रूप से खड़ा है। गर्भगृह के सामने के कक्ष में कई नक्काशीदार स्तंभ हैं जिनकी अवस्थिति इस प्रकार रखी गई है कि यह मिलकर प्रकाश और अंतरिक्ष को अद्भुत रूप से जोड़ने का प्रभाव उत्पन्न करते हैं। मंदिर का नाम इसके मूर्तिकार रामप्पा के नाम पर रखा गया है, और शायद यह भारत का एकमात्र मंदिर है जिसका नाम उस शिल्पकार के नाम पर रखा गया है जिसने इसे बनाया था।{{cn}} मंदिर की मुख्य संरचना का निर्माण तो लाल बलुआ पत्थर से किया गया है, लेकिन बाहर के स्तंभों को लौह, मैग्नीशियम और सिलिका से समृद्ध काले बेसाल्ट के बड़े पत्थरों से बनाया गया है। मंदिर पर पौराणिक जानवरों और महिला नर्तकियों य
+
 ## 交通 / Transport
 
 - ✈ **Rajiv Gandhi International Airport (HYD)** — 196.8 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

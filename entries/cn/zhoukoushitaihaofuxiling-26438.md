@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Zhoukou City"
 lat: 33.756252
 lon: 114.894006
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 周口市太昊伏羲陵文化旅游区 / Fuxi Cultural Tourism Area

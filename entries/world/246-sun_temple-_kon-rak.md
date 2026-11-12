@@ -3,7 +3,7 @@ id: "wh-246"
 dataset: "unesco"
 name_zh: "科纳拉克太阳神庙"
 name_en: "Sun Temple, Konârak"
-name_local: ""
+name_local: "कोणार्क सूर्य मंदिर"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(iii)(vi)"
 lat: 19.887444
 lon: 86.094596
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 科纳拉克太阳神庙 / Sun Temple, Konârak
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 On the shores of the Bay of Bengal, bathed in the rays of the rising sun, the temple at Konarak is a monumental representation of the sun god Surya's chariot; its 24 wheels are decorated with symbolic designs and it is led by a team of six horses. Built in the 13th century, it is one of India's most famous Brahman sanctuaries.
 
+## 本地语言 / Local language (Hindi)
+
+**कोणार्क सूर्य मंदिर**
+
+कोणार्क सूर्य मंदिर भारत के ओडिशा राज्य के पुरी जिले में समुद्र तट पर, पुरी शहर से लगभग 35 किलोमीटर (22 मील) उत्तर-पूर्व में स्थित कोणार्क कस्बे में एक 13वीं शताब्दी (लगभग 1250 ई.) का ऐतिहासिक सूर्य मंदिर है। इस मंदिर के निर्माण का श्रेय पूर्वी गंगवंश के शासक प्रथम नरसिंह देव को दिया जाता है। सन् 1984 में यूनेस्को ने इसके स्थापत्य और ऐतिहासिक महत्व को देखते हुए इसे विश्व धरोहर स्थल के रूप में मान्यता दी थी।
+
 ## 交通 / Transport
 
 - ✈ **Biju Patnaik International Airport (BBI)** — 49.9 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

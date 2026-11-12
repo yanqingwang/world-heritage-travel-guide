@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(v)"
 lat: 30.168055555
 lon: 55.375555555
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 梅满德 / Cultural Landscape of Maymand
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:18Z"
 
 ## 图片 / Images
 
-![Cultural Landscape of Maymand](https://whc.unesco.org/uploads/sites/site_1423.jpg)
+![Maymand village.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Maymand%20village.jpg?width=1280)
 
-*Cultural Landscape of Maymand · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Maymand village.jpg · see Wikimedia Commons file page*
+
+![47957712308812660658a.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/47957712308812660658a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*47957712308812660658a.jpg · meymand · CC BY-SA 3.0*
+
+![Davtalaban meymand.jpg](https://upload.wikimedia.org/wikipedia/commons/7/79/Davtalaban_meymand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Davtalaban meymand.jpg · meymand · CC BY-SA 3.0*
+
+![Farzane21.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Farzane21.jpg/1280px-Farzane21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Farzane21.jpg · Farzane1365 · CC BY-SA 4.0*
+
+![Farzane22.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Farzane22.jpg/1280px-Farzane22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Farzane22.jpg · Farzane1365 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Heihe City"
 lat: 48.699183
 lon: 126.168957
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 黑河市五大连池景区 / Wudalianchi Dedu Airport

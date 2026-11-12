@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)(iv)"
 lat: 45.703333333
 lon: 9.663611111
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 15至17世纪威尼斯共和国防御工事 / Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Changji Hui Autonomous Prefecture"
 lat: 44.108996
 lon: 88.073918
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 昌吉回族自治州天山天池风景名胜区 / Heavenly Lake of Tian Shan

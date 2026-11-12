@@ -3,7 +3,7 @@ id: "wh-1551"
 dataset: "unesco"
 name_zh: "艾哈迈达巴德"
 name_en: "Historic City of Ahmadabad"
-name_local: ""
+name_local: "अहमदाबाद"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(v)"
 lat: 23.021944444
 lon: 72.579722222
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 艾哈迈达巴德 / Historic City of Ahmadabad
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:19Z"
 
 The walled city of Ahmadabad, founded by Sultan Ahmad Shah in the 15th century, on the eastern bank of the Sabarmati river, presents a rich architectural heritage from the sultanate period, notably the Bhadra citadel, the walls and gates of the Fort city and numerous mosques and tombs as well as important Hindu and Jain temples of later periods. The urban fabric is made up of densely-packed traditional houses ( pols ) in gated traditional streets ( puras ) with characteristic features such as bird feeders, public wells and religious institutions. The city continued to flourish as the capital of the State of Gujarat for six centuries, up to the present.
 
+## 本地语言 / Local language (Hindi)
+
+**अहमदाबाद**
+
+अहमदाबाद (गुजराती: અમદાવાદ, अंग्रेज़ी: Ahmedabad) भारत के गुजरात राज्य का सबसे बड़ा नगर है। यह अहमदाबाद ज़िले का मुख्यालय भी है। भारतवर्ष में यह नगर का सातवें स्थान पर है। इक्क्यावन लाख की जनसंख्या वाला ये नगर, साबरमती नदी के किनारे बसा हुआ है। 1970 में गांधीनगर में राजधानी स्थानांतरित होने से पूर्व अहमदाबाद ही गुजरात की राजधानी हुआ करता था। प्रारम्भ में अहमदाबाद को अशावल कहा जाता था। इस नगर की नींव सन 1411 में डाली गयी थी। नगर का नाम सुलतान अहमद शाह पर पड़ा था।
+
 ## 交通 / Transport
 
 - ✈ **Sardar Vallabh Patel International Airport (AMD)** — 8.3 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)(vi)"
 lat: 45.7683
 lon: 13.3675
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 阿奎拉古迹区及长方形主教教堂 / Archaeological Area and the Patriarchal Basilica of Aquileia
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:13Z"
 > 意大利 · Province of Udine, Friuli-Venezia Giulia Region · 文化遗产
 
 ## 图片 / Images
+
+![Aerial image of Basilica di Santa Maria Assunta, Aquileia (view from the west).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Aerial_image_of_Basilica_di_Santa_Maria_Assunta%2C_Aquileia_%28view_from_the_west%29.jpg/1280px-Aerial_image_of_Basilica_di_Santa_Maria_Assunta%2C_Aquileia_%28view_from_the_west%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial image of Basilica di Santa Maria Assunta, Aquileia (view from the west).jpg · Carsten Steger · CC BY-SA 4.0*
+
+![Aquileia Basilica - Krypta Fresco Bischofsweihe Hermagoras.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aquileia_Basilica_-_Krypta_Fresco_Bischofsweihe_Hermagoras.jpg/1280px-Aquileia_Basilica_-_Krypta_Fresco_Bischofsweihe_Hermagoras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aquileia Basilica - Krypta Fresco Bischofsweihe Hermagoras.jpg · anonymous · CC BY-SA 3.0*
+
+![Aquileia Basilica - Krypta Fresco Vorstellung Hermagoras.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Aquileia_Basilica_-_Krypta_Fresco_Vorstellung_Hermagoras.jpg/1280px-Aquileia_Basilica_-_Krypta_Fresco_Vorstellung_Hermagoras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aquileia Basilica - Krypta Fresco Vorstellung Hermagoras.jpg · anonymous · CC BY-SA 3.0*
+
+![Basilica Patriarcale (Aquileia) - Apse Langhaus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Basilica_Patriarcale_%28Aquileia%29_-_Apse_Langhaus.jpg/1280px-Basilica_Patriarcale_%28Aquileia%29_-_Apse_Langhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Basilica Patriarcale (Aquileia) - Apse Langhaus.jpg · Moleskine · CC BY-SA 4.0*
 
 ![Archaeological Area and the Patriarchal Basilica of Aquileia](https://whc.unesco.org/uploads/sites/site_825.jpg)
 

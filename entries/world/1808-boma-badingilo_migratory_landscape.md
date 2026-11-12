@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(vii)(ix)(x)"
 lat: 6.5138
 lon: 32.9586
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:38Z"
 ---
 
 # 博马—巴丁吉罗迁徙景观 / Boma–Badingilo Migratory Landscape
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:21Z"
 > 南苏丹 · 自然遗产
 
 ## 图片 / Images
+
+![Wildfires in the sub-Saharan region (Copernicus).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wildfires_in_the_sub-Saharan_region_%28Copernicus%29.jpg/1280px-Wildfires_in_the_sub-Saharan_region_%28Copernicus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Wildfires in the sub-Saharan region (Copernicus).jpg · European Union, Copernicus Sentinel-2 imagery · Attribution*
 
 ![Boma–Badingilo Migratory Landscape](https://whc.unesco.org/uploads/sites/site_1808.jpg)
 

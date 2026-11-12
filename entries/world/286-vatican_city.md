@@ -3,7 +3,7 @@ id: "wh-286"
 dataset: "unesco"
 name_zh: "梵蒂冈城"
 name_en: "Vatican City"
-name_local: ""
+name_local: "Civitas Vaticana"
 country: "VA"
 country_zh: "梵蒂冈"
 country_en: "Vatican City"
@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 41.904
 lon: 12.453
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 梵蒂冈城 / Vatican City
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:09Z"
 
 The Vatican City, one of the most sacred places in Christendom, attests to a great history and a formidable spiritual venture. A unique collection of artistic and architectural masterpieces lie within the boundaries of this small state. At its centre is St Peter's Basilica, with its double colonnade and a circular piazza in front and bordered by palaces and gardens. The basilica, erected over the tomb of St Peter the Apostle, is the largest religious building in the world, the fruit of the combined genius of Bramante, Raphael, Michelangelo, Bernini and Maderno.
 
+## 本地语言 / Local language (Latin)
+
+**Civitas Vaticana**
+
+Civitas Vaticana (Italiane Città del Vaticano), rite Status Civitatis Vaticanae, est minima Europae orbisque terrarum civitas sui iuris (sed, nonnullorum opinione, potius quasi civitas libera) et Ecclesiae Catholicae sedes, intra moenia urbis Romae (et ita inclave ab Italia circumdatum), scilicet in Colle Vaticano(en) ad dexteram fluminis Tiberis ripam sita. Dux civitatis est Leo XIV, episcopus Romanus et Pontifex Maximus Sanctae Romanae Ecclesiae, qui ex die 8 Maii 2025 regnat. Forum Sancto Petro dicatum est Civitatis Vaticanae cor, e quo Basilica Sancti Petri magna cum cupula exsurgit. Inscriptiones Basilicae Sancti Petri: IN HONOREM PRINCIPIS APOST[olorum] PAVLVS V BVRGHESIVS ROMANVS PONT[ifex] MAX[imus] AN[no] MDCXII PONT[ificatus] VII TV ES PETRVS ET SVPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM ET TIBI DABO CLAVES REGNI CAELORVM Lingua plerumque in Civitate Vaticana adhibita est lingua Italiana; praeterea, lingua Latina est publica Catholicae religionis lingua.
+
 ## 交通 / Transport
 
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 16.6 km
@@ -90,7 +96,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

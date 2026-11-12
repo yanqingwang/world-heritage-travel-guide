@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Ili Kazakh Autonomous Prefecture"
 lat: 43.325552
 lon: 84.032821
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 伊犁哈萨克自治州那拉提旅游风景区 / Nalaticaoyuan Scenic Area

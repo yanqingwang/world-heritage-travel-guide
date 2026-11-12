@@ -3,7 +3,7 @@ id: "wh-1502"
 dataset: "unesco"
 name_zh: "那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀"
 name_en: "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar"
-name_local: ""
+name_local: "नालन्दा महाविहार"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iv)(vi)"
 lat: 25.136797222
 lon: 85.443827777
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀 / Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:19Z"
 
 The Nalanda Mahavihara site is in the State of Bihar, in north-eastern India. It comprises the archaeological remains of a monastic and scholastic institution dating from the 3rd century BCE to the 13th century CE. It includes stupas , shrines, viharas (residential and educational buildings) and important art works in stucco, stone and metal. Nalanda stands out as the most ancient university of the Indian Subcontinent. It engaged in the organized transmission of knowledge over an uninterrupted period of 800 years. The historical development of the site testifies to the development of Buddhism into a religion and the flourishing of monastic and educational traditions.
 
+## 本地语言 / Local language (Hindi)
+
+**नालन्दा महाविहार**
+
+नालंदा प्राचीन भारत में उच्च शिक्षा का सर्वाधिक महत्वपूर्ण और विख्यात केन्द्र था। महायान बौद्ध धर्म के इस शिक्षा-केन्द्र में हीनयान बौद्ध-धर्म के साथ ही अन्य देशों के छात्र पढ़ते थे। वर्तमान बिहार राज्य में पटना से 85.5 किलोमीटर दक्षिण-पूर्व और राजगीर से 11.5 किलोमीटर उत्तर में एक गाँव के पास अलेक्जेंडर कनिंघम द्वारा खोजे गए इस महान बौद्ध विश्वविद्यालय के भग्नावशेष इसके प्राचीन वैभव का बहुत कुछ अंदाज़ करा देते हैं। अनेक पुराभिलेखों और सातवीं शताब्दी में भारत के इतिहास को पढ़ने आया था के लिए आये चीनी यात्री ह्वेनसांग तथा इत्सिंग के यात्रा विवरणों से इस विश्वविद्यालय के बारे में विस्तृत जानकारी प्राप्त होती है। यहाँ 10,000 छात्रों को पढ़ाने के लिए 2,000 शिक्षक थे। प्रसिद्ध चीनी यात्री ह्वेनसांग ने 7 वीं शताब्दी में यहाँ जीवन का महत्त्वपूर्ण एक वर्ष एक विद्यार्थी और एक शिक्षक के रूप में व्यतीत किया था। प्रसिद्ध 'बौद्ध सारिपुत्र' का जन्म यहीं पर हुआ था।[उद्धरण चाहिए]
+
 ## 交通 / Transport
 
 - ✈ **Jay Prakash Narayan Airport (PAT)** — 61.9 km
@@ -82,7 +88,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

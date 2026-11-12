@@ -325,6 +325,12 @@ LANG_TO_WIKI = {
     "ms": "ms", "tl": "tl", "sw": "sw", "af": "af", "am": "am", "ka": "ka",
     "hy": "hy", "az": "az", "kk": "kk", "uz": "uz", "mn": "mn", "ne": "ne",
     "si": "si", "km": "km", "lo": "lo", "my": "my", "bn": "bn", "ur": "ur",
+    # Added 2026-11-12: these were missing, so Hindi/Tamil/Albanian/Maltese…
+    # sites silently fell back to no local intro even when a Wikipedia article
+    # existed (46 sites in the hi/ta pair alone).
+    "hi": "hi", "ta": "ta", "sq": "sq", "mt": "mt", "tg": "tg", "is": "is",
+    "bm": "bm", "tk": "tk", "ca": "ca", "ha": "ha", "st": "st", "ny": "ny",
+    "ky": "ky", "la": "la", "mos": "mos",
 }
 
 

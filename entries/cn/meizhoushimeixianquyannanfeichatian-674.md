@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Meizhou"
 lat: 24.388232
 lon: 116.381966
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 梅州市梅县区雁南飞茶田景区 / Meizhoushimeixianquyannanfeichatian Scenic Area

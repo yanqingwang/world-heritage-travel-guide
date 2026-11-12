@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.828146
 lon: 120.00606
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 常州市环球恐龙城休闲旅游区 / Xixiakonglongyizhiyuan Tourist Area

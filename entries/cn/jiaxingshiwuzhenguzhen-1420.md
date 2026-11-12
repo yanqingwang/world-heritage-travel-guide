@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.754046
 lon: 120.496778
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 嘉兴市乌镇古镇旅游区 / Wuzhen

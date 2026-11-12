@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(x)"
 lat: 13.074166666
 lon: -12.722222222
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 尼奥科罗-科巴国家公园 / Niokolo-Koba National Park

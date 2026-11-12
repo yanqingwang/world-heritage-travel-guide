@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Changsha"
 lat: 28.042367
 lon: 112.646618
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 长沙市花明楼景区 / Changshashihuaminglou Scenic Area

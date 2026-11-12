@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)"
 lat: 12.434997222
 lon: -86.878097222
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 莱昂大教堂 / León Cathedral
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 尼加拉瓜 · 文化遗产
 
 ## 图片 / Images
+
+![Nicaragua 2017-03-13 (32976253324).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Nicaragua%202017-03-13%20%2832976253324%29.jpg?width=1280)
+
+*Nicaragua 2017-03-13 (32976253324).jpg · see Wikimedia Commons file page*
 
 ![León Cathedral](https://whc.unesco.org/uploads/sites/site_1236.jpg)
 

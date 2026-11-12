@@ -3,7 +3,7 @@ id: "wh-1711"
 dataset: "unesco"
 name_zh: "阿洪姆王朝的土丘墓葬系统（印度）"
 name_en: "Moidams – the Mound-Burial System of the Ahom Dynasty"
-name_local: ""
+name_local: "मैदाम"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)"
 lat: 26.943611111
 lon: 94.875
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 阿洪姆王朝的土丘墓葬系统（印度） / Moidams – the Mound-Burial System of the Ahom Dynasty
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:21Z"
 
 Set in the foothills of the Patkai Ranges in eastern Assam, the property contains the royal necropolis of the Tai-Ahom. For 600 years, the Tai-Ahom created moidams (burial mounds) accentuating the natural topography of hills, forests and water, thus forming a sacred geography. Banyan trees and the trees used for coffins and bark manuscripts were planted and water bodies created. Ninety moidams – hollow vaults built of brick, stone or earth – of different sizes are found within the site. They contain the remains of kings and other royals together with grave goods such as food, horses and elephants, and sometimes queens and servants. The Tai-Ahom rituals of “Me-Dam-Me-Phi” and “Tarpan” are practiced at the Charaideo necropolis. While moidams are found in other areas within the Brahmaputra Valley, those found at the property are regarded as exceptional.
 
+## 本地语言 / Local language (Hindi)
+
+**मैदाम**
+
+मैदाम (মৈদাম, maidam), जिसका सही असमिया उच्चारण मोईदाम है, भारत के महत्वपूर्ण मध्यकालीन आहोम साम्राज्य (1228-1826) के शाही परिजनों व सम्भ्रांत वर्ग के लिए बने टीले होते हैं। शाही मैदाम केवल असम राज्य में चराईदेव में पाए जाते हैं, हालांकि अन्य मैदाम जोरहाट और डिब्रूगढ़ के बीच बिखरे हुए हैं। मैदाम के भीतर एक या अधिक कक्ष होते हैं जिनके ऊपर एक गुम्बज़नुमा ढांचा होता है जो मिट्टी से ढका हुआ होता है। बाहर से यह टीला स्पष्ट दिखता है। मैदाम अक्सर एक अष्टमुखी दीवार से घिरे हुए होते हैं। इसे हाल ही में UNESCO की विश्व विरासत स्थल में सम्मिलित किया गया है।
+
 ## 交通 / Transport
 
 - ✈ **Dibrugarh Airport (DIB)** — 61.7 km
@@ -58,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

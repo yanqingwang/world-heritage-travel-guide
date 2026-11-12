@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iii)"
 lat: 8.938453
 lon: -83.502539
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 迪基斯前哥伦布时期酋长聚落与石球 / Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:18Z"
 > 哥斯达黎加 · 文化遗产
 
 ## 图片 / Images
+
+![Stone Spheres of the Diquís - 55434736596.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Stone_Spheres_of_the_Diqu%C3%ADs_-_55434736596.jpg/1280px-Stone_Spheres_of_the_Diqu%C3%ADs_-_55434736596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stone Spheres of the Diquís - 55434736596.jpg · xiquinhosilva · CC BY 4.0*
+
+![Stone Spheres of the Diquís - 55435126625.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stone_Spheres_of_the_Diqu%C3%ADs_-_55435126625.jpg/1280px-Stone_Spheres_of_the_Diqu%C3%ADs_-_55435126625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stone Spheres of the Diquís - 55435126625.jpg · xiquinhosilva · CC BY 4.0*
+
+![Stone Spheres of the Diquís - 55435127280.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Stone_Spheres_of_the_Diqu%C3%ADs_-_55435127280.jpg/1280px-Stone_Spheres_of_the_Diqu%C3%ADs_-_55435127280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stone Spheres of the Diquís - 55435127280.jpg · xiquinhosilva · CC BY 4.0*
+
+![Stone Spheres of the Diquís - 55435127805.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Stone_Spheres_of_the_Diqu%C3%ADs_-_55435127805.jpg/1280px-Stone_Spheres_of_the_Diqu%C3%ADs_-_55435127805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stone Spheres of the Diquís - 55435127805.jpg · xiquinhosilva · CC BY 4.0*
 
 ![Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís](https://whc.unesco.org/uploads/sites/site_1453.jpg)
 

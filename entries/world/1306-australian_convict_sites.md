@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iv)(vi)"
 lat: -33.37833333
 lon: 150.9944444
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 澳大利亚监狱遗址 / Australian Convict Sites

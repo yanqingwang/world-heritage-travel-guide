@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(x)"
 lat: 27.79222222
 lon: -114.22777778
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 埃尔比斯开诺鲸鱼禁渔区 / Whale Sanctuary of El Vizcaino

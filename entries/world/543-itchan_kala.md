@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(iii)(iv)(v)"
 lat: 41.377718
 lon: 60.359476
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 伊钦•卡拉内城 / Itchan Kala

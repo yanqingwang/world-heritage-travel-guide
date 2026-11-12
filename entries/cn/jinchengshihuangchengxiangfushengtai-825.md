@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jincheng"
 lat: 35.522279
 lon: 112.585095
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 晋城市皇城相府生态文化旅游区 / House of the Huangcheng Chancellor

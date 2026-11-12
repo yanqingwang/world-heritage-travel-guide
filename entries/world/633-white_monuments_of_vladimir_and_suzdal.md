@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(ii)(iv)"
 lat: 56.15
 lon: 40.4167
-updated_at: "2026-11-10T23:01:12Z"
+updated_at: "2026-11-12T11:25:21Z"
 ---
 
 # 弗拉基米尔和苏兹达尔历史遗迹 / White Monuments of Vladimir and Suzdal

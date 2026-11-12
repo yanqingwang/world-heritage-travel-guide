@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.868531
 lon: 125.302462
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 长春市长影世纪城景区 / Zhangyingshijichengzhan Scenic Area

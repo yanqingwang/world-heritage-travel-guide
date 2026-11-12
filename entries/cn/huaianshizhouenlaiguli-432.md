@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Huai'an"
 lat: 33.541841
 lon: 119.147121
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 淮安市周恩来故里景区 / Zhou Enlai

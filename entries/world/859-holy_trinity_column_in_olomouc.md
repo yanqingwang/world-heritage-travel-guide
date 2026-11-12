@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: 49.59402
 lon: 17.250492
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:23Z"
 ---
 
 # 奥洛穆茨三位一体圣柱 / Holy Trinity Column in Olomouc
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:14Z"
 
 ## 图片 / Images
 
-![Holy Trinity Column in Olomouc](https://whc.unesco.org/uploads/sites/site_859.jpg)
+![Holy Trinity Column.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Trinity%20Column.jpg?width=1280)
 
-*Holy Trinity Column in Olomouc · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Holy Trinity Column.jpg · see Wikimedia Commons file page*
+
+![360° panoramatický pohled na město z radniční věže, Olomouc.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/360%C2%B0_panoramatick%C3%BD_pohled_na_m%C4%9Bsto_z_radni%C4%8Dn%C3%AD_v%C4%9B%C5%BEe%2C_Olomouc.jpg/1280px-360%C2%B0_panoramatick%C3%BD_pohled_na_m%C4%9Bsto_z_radni%C4%8Dn%C3%AD_v%C4%9B%C5%BEe%2C_Olomouc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*360° panoramatický pohled na město z radniční věže, Olomouc.jpg · Jiří Komárek · CC BY-SA 4.0*
+
+![8.8.17 2 Olomouc 063 (35659963474).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/8.8.17_2_Olomouc_063_%2835659963474%29.jpg/1280px-8.8.17_2_Olomouc_063_%2835659963474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*8.8.17 2 Olomouc 063 (35659963474).jpg · Donald Judge from England · CC BY 2.0*
+
+![8.8.17 2 Olomouc 064 (36357637541).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/8.8.17_2_Olomouc_064_%2836357637541%29.jpg/1280px-8.8.17_2_Olomouc_064_%2836357637541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*8.8.17 2 Olomouc 064 (36357637541).jpg · Donald Judge from England · CC BY 2.0*
+
+![8.8.17 2 Olomouc 069 (36097985690).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/8.8.17_2_Olomouc_069_%2836097985690%29.jpg/1280px-8.8.17_2_Olomouc_069_%2836097985690%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*8.8.17 2 Olomouc 069 (36097985690).jpg · Donald Judge from England · CC BY 2.0*
 
 ## 简介 / Introduction
 

@@ -3,7 +3,7 @@ id: "wh-247"
 dataset: "unesco"
 name_zh: "拉贾斯坦邦的山地堡垒"
 name_en: "Hill Forts of Rajasthan"
-name_local: ""
+name_local: "राजस्थान के पहाड़ी दुर्ग"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 24.883306
 lon: 74.646111
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 拉贾斯坦邦的山地堡垒 / Hill Forts of Rajasthan
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:08Z"
 > 印度 · 文化遗产
 
 ## 图片 / Images
+
+![Jaipur 03-2016 04 Amber Fort.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur%2003-2016%2004%20Amber%20Fort.jpg?width=1280)
+
+*Jaipur 03-2016 04 Amber Fort.jpg · see Wikimedia Commons file page*
 
 ![Hill Forts of Rajasthan](https://whc.unesco.org/uploads/sites/site_247.jpg)
 
@@ -36,6 +40,12 @@ updated_at: "2026-11-10T23:01:08Z"
 ### English
 
 The serial site, situated in the state of Rajastahan, includes six majestic forts in Chittorgarh; Kumbhalgarh; Sawai Madhopur; Jhalawar; Jaipur, and Jaisalmer. The ecclectic architecture of the forts, some up to 20 kilometres in circumference, bears testimony to the power of the Rajput princely states that flourished in the region from the 8th to the 18th centuries. Enclosed within defensive walls are major urban centres, palaces, trading centres and other buildings including temples that often predate the fortifications within which developed an elaborate courtly culture that supported learning, music and the arts. Some of the urban centres enclosed in the fortifications have survived, as have many of the site's temples and other sacred buildings. The forts use the natural defenses offered by the landscape: hills, deserts, rivers, and dense forests. They also feature extensive water harvesting structures, largely still in use today.
+
+## 本地语言 / Local language (Hindi)
+
+**राजस्थान के पहाड़ी दुर्ग**
+
+राजस्थान के छह पहाड़ी दुर्ग यूनेस्को के विश्व धरोहर में शामिल है। वे दुर्ग है: चित्तौड़गढ़ का चित्तौड़गढ़ दुर्ग कुम्भलगढ़ का कुम्भलगढ़ दुर्ग सवाई माधोपुर का रणथंभोर दुर्ग झालावाड़ का गागरौन दुर्ग जयपुर का आमेर दुर्ग जैसलमेर का जैसलमेर दुर्ग ये दुर्ग ८वीं से १८वीं सद तक चले राजपूत शासन का प्रतीक है। इन में से कई दुर्ग २० किमी तक की तटबंदी रखते है।
 
 ## 交通 / Transport
 
@@ -54,7 +64,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr
 

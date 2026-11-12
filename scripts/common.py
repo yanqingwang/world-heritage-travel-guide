@@ -416,16 +416,50 @@ def commons_search(query: str, limit: int = 6) -> list[dict]:
 
 
 def commons_category(category: str, limit: int = 8) -> list[dict]:
+    """Files directly in a Commons category, falling back to its subcategories.
+
+    Many World Heritage categories are containers: `Category:Sacred Ensembles of
+    the Hoysalas` holds three *sub*categories and zero files, so a plain
+    gcmtype=file query returns nothing and the site ends up with a single image.
+    When the direct listing is empty, list subcategories and take their files.
+    """
+    title = f"Category:{category}"
     out = []
     for page in _commons_query({
         "action": "query", "format": "json", "generator": "categorymembers",
-        "gcmtitle": f"Category:{category}", "gcmtype": "file", "gcmlimit": limit,
+        "gcmtitle": title, "gcmtype": "file", "gcmlimit": limit,
         "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
     }):
         item = _commons_imageinfo(page)
         if item:
             out.append(item)
-    return out
+    if out:
+        return out
+
+    subs = _commons_subcats(title, 4)
+    for sub in subs[:4]:
+        if not sub:
+            continue
+        for page in _commons_query({
+            "action": "query", "format": "json", "generator": "categorymembers",
+            "gcmtitle": sub, "gcmtype": "file", "gcmlimit": limit,
+            "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
+        }):
+            item = _commons_imageinfo(page)
+            if item:
+                out.append(item)
+        if len(out) >= limit:
+            break
+    return out[:limit]
+
+
+def _commons_subcats(title: str, limit: int = 4) -> list[str]:
+    data = curl_json(COMMONS_API, params={
+        "action": "query", "format": "json", "list": "categorymembers",
+        "cmtitle": title, "cmtype": "subcat", "cmlimit": limit,
+    }, timeout=25)
+    members = ((data or {}).get("query") or {}).get("categorymembers") or []
+    return [m.get("title") or "" for m in members if isinstance(m, dict)]
 
 
 def commons_file(filename: str) -> dict | None:

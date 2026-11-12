@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(viii)"
 lat: 45.77939
 lon: 2.96511
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 多姆山链，利马涅断层构造区 / Chaîne des Puys - Limagne fault tectonic arena
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T23:01:18Z"
 > 法国 · 自然遗产
 
 ## 图片 / Images
+
+![Quelques puys.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Quelques%20puys.jpg?width=1280)
+
+*Quelques puys.jpg · see Wikimedia Commons file page*
+
+![Panorama Nord - Puy de dome.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Panorama_Nord_-_Puy_de_dome.jpg/1280px-Panorama_Nord_-_Puy_de_dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Panorama Nord - Puy de dome.jpg · Thalia Gylonno · CC BY-SA 2.0*
+
+![Quelques puys.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Quelques_puys.jpg/1280px-Quelques_puys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Quelques puys.jpg · The original uploader was Atlasroutier at French Wikipedia . · Public domain*
 
 ![Chaîne des Puys - Limagne fault tectonic arena](https://whc.unesco.org/uploads/sites/site_1434.jpg)
 

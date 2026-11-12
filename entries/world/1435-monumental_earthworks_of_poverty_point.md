@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iii)"
 lat: 32.6367
 lon: -91.4114
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 波弗蒂角纪念土丘 / Monumental Earthworks of Poverty Point

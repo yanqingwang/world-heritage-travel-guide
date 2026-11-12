@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Wenzhou City"
 lat: 27.85048
 lon: 120.017937
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 温州市刘伯温故里景区 / Liubowen Scenic Area

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 41.07333
 lon: 14.32639
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 卡塞塔的18世纪花园皇宫、凡韦特里水渠和圣莱乌西建筑群 / 18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:11Z"
 > 意大利 · Provinces of Caserta and Benevento, Campania · 文化遗产
 
 ## 图片 / Images
+
+![' 800 - ITALY - 1826 Caserta territory - Naples Kingdom (regno di Napoli) Aqueduct Vanvitelli maps.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/%27_800_-_ITALY_-_1826_Caserta_territory_-_Naples_Kingdom_%28regno_di_Napoli%29_Aqueduct_Vanvitelli_maps.JPG/1280px-%27_800_-_ITALY_-_1826_Caserta_territory_-_Naples_Kingdom_%28regno_di_Napoli%29_Aqueduct_Vanvitelli_maps.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*' 800 - ITALY - 1826 Caserta territory - Naples Kingdom (regno di Napoli) Aqueduct Vanvitelli maps.JPG · F. Patturelli · Public domain*
+
+![San Leucio, panorama.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/San_Leucio%2C_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*San Leucio, panorama.jpg · Unknown author Unknown author · Public domain*
+
+![Arcoborbonicoretro.JPG](https://upload.wikimedia.org/wikipedia/commons/1/1e/Arcoborbonicoretro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arcoborbonicoretro.JPG · Pinotto992 · Public domain*
+
+![Caserta - Belvedere di San Leucio - 202209121449.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Caserta_-_Belvedere_di_San_Leucio_-_202209121449.jpeg/1280px-Caserta_-_Belvedere_di_San_Leucio_-_202209121449.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Caserta - Belvedere di San Leucio - 202209121449.jpeg · MariaCammarota · CC BY-SA 4.0*
 
 ![18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex](https://whc.unesco.org/uploads/sites/site_549.jpg)
 

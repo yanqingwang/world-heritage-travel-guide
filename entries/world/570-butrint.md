@@ -3,7 +3,7 @@ id: "wh-570"
 dataset: "unesco"
 name_zh: "布特林特"
 name_en: "Butrint"
-name_local: ""
+name_local: "Butrinti"
 country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iii)"
 lat: 39.757066
 lon: 20.016628
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 布特林特 / Butrint
@@ -40,6 +40,12 @@ updated_at: "2026-11-10T23:01:11Z"
 ### English
 
 Inhabited since prehistoric times, Butrint has been the site of a Greek colony, a Roman city and a bishopric. Following a period of prosperity under Byzantine administration, then a brief occupation by the Venetians, the city was abandoned in the late Middle Ages after marshes formed in the area. The present archaeological site is a repository of ruins representing each period in the city’s development.
+
+## 本地语言 / Local language (Albanian)
+
+**Butrinti**
+
+Butrinti (Greqisht: Βουθρωτόν and Βουθρωτός, romanizuar: Bouthrōtón, Latine: Buthrōtum, shqip: Butrint) ishte një polis i lashtë grek dhe më vonë qytet romak, si edhe selia e një ipeshkvie të hershme të krishterë në Epir. Gjasa janë të ketë qenë i banuar që nga kohërat parahistorike. Butrinti popullohej nga fisi i lashtë grek i kaonët, më vonë një koloni romake dhe një peshkopatë. Butrinti hyri në rënie në Antikitetin e Vonë, para se të braktisej gjatë Mesjetës, pasi një tërmet i madh përmbyti pjesën më të madhe të qytetit. Në kohët moderne është një vend arkeologjik në qarkun e Vlorës, rreth 14 kilometra në jug të Sarandës dhe afër kufirit grek. Ndodhet në një kodër me pamje nga kanali i Vivarit dhe është pjesë e Parkut Kombëtar të Butrintit. Sot, "Bouthrotum" është një titull katolik latin dhe gjithashtu përmban kalanë e Ali Pashës.[[Butrinti|Parku Kombëtar Arkeologjik i Butrintit ka një sipërfaqe prej 15 hektarësh dhe ndodhet në lartësitë 30-50 metra mbi nivelin e detit. Ai është ngritur në këndin juglindor të gadishullit të Ksamilit. Eshte nje vend arkeologjik në qarkun e Vlorës, rreth 14 kilometra në jug të Sarandës dhe afër kufirit grek. Ndodhet në një kodër me pamje nga kanali i Vivarit dhe është pjesë e Parkut Kombëtar të Butrintit. Drurët që arrijnë lartësi deri 12 metra, kanë një diametër 60-80 cetrimetra dhe arrijnë moshë maksimale 200-vjeçare. Shpella e Butrintit nd
 
 ## 交通 / Transport
 
@@ -73,7 +79,7 @@ Visa not required[6][8] 90 days within any 180 day period.
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

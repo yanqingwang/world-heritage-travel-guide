@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iv)(x)"
 lat: 18.2114
 lon: -97.3994
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 特瓦坎-奎卡特兰山谷：中部美洲的原始栖息地 / Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:19Z"
 > 墨西哥 · 混合遗产
 
 ## 图片 / Images
+
+![Paisaje en Texcala, Puebla, México.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20en%20Texcala%2C%20Puebla%2C%20M%C3%A9xico.JPG?width=1280)
+
+*Paisaje en Texcala, Puebla, México.JPG · see Wikimedia Commons file page*
 
 ![Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica](https://whc.unesco.org/uploads/sites/site_1534.jpg)
 

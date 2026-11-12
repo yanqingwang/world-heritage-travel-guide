@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iv)(v)"
 lat: 23.133333
 lon: -82.35
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 哈瓦那旧城及其工事体系 / Old Havana and its Fortification System
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:08Z"
 > 古巴 · Province of Ciudad de la Habana · 文化遗产
 
 ## 图片 / Images
+
+![Old Havana and its Fortification System-109115.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Old_Havana_and_its_Fortification_System-109115.jpg/1280px-Old_Havana_and_its_Fortification_System-109115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Havana and its Fortification System-109115.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Old Havana and its Fortification System-109117.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Old_Havana_and_its_Fortification_System-109117.jpg/1280px-Old_Havana_and_its_Fortification_System-109117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Havana and its Fortification System-109117.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Old Havana and its Fortification System-109119.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Old_Havana_and_its_Fortification_System-109119.jpg/1280px-Old_Havana_and_its_Fortification_System-109119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Havana and its Fortification System-109119.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Old Havana and its Fortification System-109124.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Old_Havana_and_its_Fortification_System-109124.jpg/1280px-Old_Havana_and_its_Fortification_System-109124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Old Havana and its Fortification System-109124.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
 
 ![Old Havana and its Fortification System](https://whc.unesco.org/uploads/sites/site_204.jpg)
 

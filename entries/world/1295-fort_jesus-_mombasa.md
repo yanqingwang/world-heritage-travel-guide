@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)"
 lat: -4.071166666
 lon: 39.682055555
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 蒙巴萨的耶稣堡 / Fort Jesus, Mombasa
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 肯尼亚 · 文化遗产
 
 ## 图片 / Images
+
+![Fort JesusMombasa.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20JesusMombasa.jpg?width=1280)
+
+*Fort JesusMombasa.jpg · see Wikimedia Commons file page*
 
 ![Fort Jesus, Mombasa](https://whc.unesco.org/uploads/sites/site_1295.jpg)
 

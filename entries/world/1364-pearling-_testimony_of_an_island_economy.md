@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)"
 lat: 26.25
 lon: 50.61
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 采珠业，岛屿经济的见证 / Pearling, Testimony of an Island Economy
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:18Z"
 
 ## 图片 / Images
 
-![Pearling, Testimony of an Island Economy](https://whc.unesco.org/uploads/sites/site_1364.jpg)
+![Muharraq Bayt Siyadi 1.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Muharraq%20Bayt%20Siyadi%201.jpg?width=1280)
 
-*Pearling, Testimony of an Island Economy · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Muharraq Bayt Siyadi 1.jpg · see Wikimedia Commons file page*
+
+![Bahrain's Pearling Pathway (18640000885).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg/1280px-Bahrain%27s_Pearling_Pathway_%2818640000885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrain's Pearling Pathway (18640000885).jpg · Kim Kash · CC BY-SA 2.0*
+
+![Mosque and Bait Siyadi, Muharraq, Bahrain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mosque_and_Bait_Siyadi%2C_Muharraq%2C_Bahrain.jpg/1280px-Mosque_and_Bait_Siyadi%2C_Muharraq%2C_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mosque and Bait Siyadi, Muharraq, Bahrain.jpg · Graeme · CC BY-SA 2.0*
+
+![Muharraq Bayt Siyadi 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Muharraq_Bayt_Siyadi_1.jpg/1280px-Muharraq_Bayt_Siyadi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Muharraq Bayt Siyadi 1.jpg · Zairon · CC BY-SA 4.0*
+
+![Muharraq Bayt Siyadi 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Muharraq_Bayt_Siyadi_3.jpg/1280px-Muharraq_Bayt_Siyadi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Muharraq Bayt Siyadi 3.jpg · Zairon · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

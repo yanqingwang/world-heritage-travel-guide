@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vii)"
 lat: 38.656763888
 lon: 128.104902777
-updated_at: "2026-11-10T23:01:20Z"
+updated_at: "2026-11-12T11:25:32Z"
 ---
 
 # 金刚山——海上钻石山 / Mount Kumgang – Diamond Mountain from the Sea

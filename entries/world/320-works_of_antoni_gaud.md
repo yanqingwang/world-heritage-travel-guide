@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iv)"
 lat: 41.363828
 lon: 2.027819
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 安东尼•高迪的建筑作品 / Works of Antoni Gaudí
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:09Z"
 > 西班牙 · 文化遗产
 
 ## 图片 / Images
+
+![Park Güell05.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Park%20G%C3%BCell05.jpg?width=1280)
+
+*Park Güell05.jpg · see Wikimedia Commons file page*
 
 ![Works of Antoni Gaudí](https://whc.unesco.org/uploads/sites/site_320.jpg)
 

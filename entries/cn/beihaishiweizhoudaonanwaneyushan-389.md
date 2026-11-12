@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Beihai"
 lat: 21.679604
 lon: 109.300715
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 北海市涠洲岛南湾鳄鱼山景区 / Beihaishiweizhoudaonanwaneyushan Scenic Area

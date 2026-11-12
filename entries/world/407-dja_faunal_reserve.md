@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ix)(x)"
 lat: 3.0167
 lon: 12.9833
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 德贾动物保护区 / Dja Faunal Reserve

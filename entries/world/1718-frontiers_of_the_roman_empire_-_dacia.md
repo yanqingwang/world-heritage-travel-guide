@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(iv)"
 lat: 47.180789
 lon: 23.159411
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:33Z"
 ---
 
 # 罗马帝国的边疆——达契亚 / Frontiers of the Roman Empire – Dacia
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 罗马尼亚 · 文化遗产
 
 ## 图片 / Images
+
+![Costantino nord-limes png.PNG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Costantino_nord-limes_png.PNG/1280px-Costantino_nord-limes_png.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Costantino nord-limes png.PNG · Cristiano64 · CC BY-SA 3.0*
+
+![LimesAlutanusTranslautanus.png](https://upload.wikimedia.org/wikipedia/commons/c/c5/LimesAlutanusTranslautanus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LimesAlutanusTranslautanus.png · The original uploader was Saturnian at Romanian Wikipedia . · CC BY-SA 3.0*
+
+![Limes Alutanus + Transalutanus.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Limes_Alutanus_%2B_Transalutanus.png/1280px-Limes_Alutanus_%2B_Transalutanus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Limes Alutanus + Transalutanus.png · Ziegelbrenner · CC BY-SA 3.0*
+
+![TabulaPeutingeriana limes Transalutanus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/TabulaPeutingeriana_limes_Transalutanus.jpg/1280px-TabulaPeutingeriana_limes_Transalutanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*TabulaPeutingeriana limes Transalutanus.jpg · Konrad Miller · Public domain*
 
 ![Frontiers of the Roman Empire – Dacia](https://whc.unesco.org/uploads/sites/site_1718.jpg)
 

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
-lat: 46.25402316066666
+lat: 46.25402316066667
 lon: 24.57501819722222
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 特兰西瓦尼亚村落及其设防的教堂 / Villages with Fortified Churches in Transylvania

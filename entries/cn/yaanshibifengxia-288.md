@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Ya'an"
 lat: 30.078428
 lon: 102.997037
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 雅安市碧峰峡旅游景区 / Yaanshibifengxia Scenic Area

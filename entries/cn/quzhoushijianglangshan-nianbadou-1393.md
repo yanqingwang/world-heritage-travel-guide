@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Quzhou City"
 lat: 28.29801
 lon: 118.489754
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 衢州市江郎山•廿八都旅游区 / Jianglangshan Tourist Area

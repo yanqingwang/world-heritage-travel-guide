@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iv)(vi)"
 lat: 54.7749
 lon: -1.57558
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:18Z"
 ---
 
 # 达勒姆大教堂和城堡 / Durham Castle and Cathedral

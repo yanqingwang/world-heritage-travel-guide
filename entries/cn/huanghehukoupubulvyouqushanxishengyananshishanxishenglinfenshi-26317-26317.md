@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Linfen"
 lat: 36.121129
 lon: 110.653845
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市) / Hukou Waterfalls

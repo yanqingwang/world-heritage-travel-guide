@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)(vi)(vii)(viii)(ix)(x)"
 lat: -42.5957
 lon: 146.1729
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:16Z"
 ---
 
 # 塔斯马尼亚荒原 / Tasmanian Wilderness

@@ -3,7 +3,7 @@ id: "wh-233"
 dataset: "unesco"
 name_zh: "德里的顾特卜塔及其古建筑"
 name_en: "Qutb Minar and its Monuments, Delhi"
-name_local: ""
+name_local: "कुतुब परिसर"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 28.524382
 lon: 77.18543
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 德里的顾特卜塔及其古建筑 / Qutb Minar and its Monuments, Delhi
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 Built in the early 13th century a few kilometres south of Delhi, the red sandstone tower of Qutb Minar is 72.5 m high, tapering from 2.75 m in diameter at its peak to 14.32 m at its base, and alternating angular and rounded flutings. The surrounding archaeological area contains funerary buildings, notably the magnificent Alai-Darwaza Gate, the masterpiece of Indo-Muslim art (built in 1311), and two mosques, including the Quwwatu'l-Islam, the oldest in northern India, built of materials reused from some 20 Brahman temples.
 
+## 本地语言 / Local language (Hindi)
+
+**कुतुब परिसर**
+
+28.524382°N 77.185430°E﻿ / 28.524382; 77.185430 यह (मीनार-ए-हिन्दुस्तान) क़ुतुब मीनार महरौली, दिल्ली, भारत में स्थित है। इसकी सर्वाधिक प्रसिद्ध इमारत (क़ुतुब मीनार) मीनार-ए-हिन्दुस्तान है।
+
 ## 交通 / Transport
 
 - ✈ **Indira Gandhi International Airport (DEL)** — 9.5 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

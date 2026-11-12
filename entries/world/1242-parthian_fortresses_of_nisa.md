@@ -3,7 +3,7 @@ id: "wh-1242"
 dataset: "unesco"
 name_zh: "尼莎帕提亚要塞"
 name_en: "Parthian Fortresses of Nisa"
-name_local: ""
+name_local: "Gadymy Nusaý"
 country: "TM"
 country_zh: "土库曼斯坦"
 country_en: "Turkmenistan"
@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)"
 lat: 37.951147222
 lon: 58.212408333
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 尼莎帕提亚要塞 / Parthian Fortresses of Nisa
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 The Parthian Fortresses of Nisa consist of two tells of Old and New Nisa, indicating the site of one of the earliest and most important cities of the Parthian Empire, a major power from the mid 3rd century BC to the 3rd century AD. They conserve the unexcavated remains of an ancient civilization which skilfully combined its own traditional cultural elements with those of the Hellenistic and Roman west. Archaeological excavations in two parts of the site have revealed richly decorated architecture, illustrative of domestic, state and religious functions. Situated at the crossroads of important commercial and strategic axes, this powerful empire formed a barrier to Roman expansion while serving as an important communication and trading centre between east and west, north and south.
 
+## 本地语言 / Local language (Turkmen)
+
+**Gadymy Nusaý**
+
+Dünýä medeniýetiniň taryhynda Parfiýa siwilizasiýasyna aýratyn orun degişlidir. Merkezi Aşgabadyň golaýyndaky Nusaýda ýerleşip, Günorta Türkmenistanyň daglary, düzlükleri hem-de sähralary onuň sallançagy bolupdyr.Ony döredijiler türkmenleriň gadymy ata-babalarynyň biri bolan dah-parn taýpalary bolupdyr. B.E. öň IV asyrda grek-makedon goşunlarynyň zarbasy astynda Ahemenitleriň imperiýasy dargapdyr. Aleksandr Makedonskiniň (Isgender Zülkarneýn) oruntutarlary bolan selewkitleriň döwründe Baktriýa, Parfiýa we Horezm döwletleri döräpdir. B.e. öň III asyrdan b.e. III asyryna çenli 600 ýyla golaý dowam eden Parfiýa döwleti uly imperiýa öwrülip, B.E. I asyryndan başlap Rim imperiýasynyň bäsdeşine öwrülipdir. Özüniň gülläp ösen wagtynda Ortaýer deňzinden Demirgazyk-Günbatar Hindistana çenli ýerleri öz içine alan Parfiýa imperiýasynyň esasy özeni Partawa bolupdyr. Hut şu ýerde B.E. öň 247-nji ýylda Garagumda ýaşaýan aparn (ýa-da parn) taýpasynyň serdary Arsak Partawy eýeläpdir. Bu ýerdäki selewk satrapy Andragor öldürilipdir. Şondan soň Arsak özüni garaşsyz Parfiýanyň hökümdary diýip yglan edipdir. Parfawnisada Arsakidler neberesiniň mülkleriniň administratiw we ykdysady merkezi gurlupdyr. Köne Nusaýda geçirilen arheologik gazuwlar mahalynda tapylan dokumentler bu galanyň adynyň Mitridatkert bolandygyny kesgitlemäge mümkinçilik berdi. Ol B.E. öň 171-138-nji ýyllarda patyşalyk eden Mitrid
+
 ## 交通 / Transport
 
 - ✈ **Ashgabat International Airport (ASB)** — 13.6 km
@@ -85,7 +91,7 @@ eVisa[6] Holders of passports for public affairs do not require a visa.[18]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

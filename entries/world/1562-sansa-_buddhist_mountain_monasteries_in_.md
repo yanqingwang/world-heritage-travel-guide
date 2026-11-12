@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)"
 lat: 34.996581
 lon: 127.331118
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:31Z"
 ---
 
 # 山寺，韩国佛教名山寺庙 / Sansa, Buddhist Mountain Monasteries in Korea

@@ -3,7 +3,7 @@ id: "wh-1252"
 dataset: "unesco"
 name_zh: "塔吉克国家公园（帕米尔山脉）"
 name_en: "Tajik National Park (Mountains of the Pamirs)"
-name_local: ""
+name_local: "Боғи миллии Тоҷикистон"
 country: "TJ"
 country_zh: "塔吉克斯坦"
 country_en: "Tajikistan"
@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)"
 lat: 38.741231
 lon: 72.119751
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 塔吉克国家公园（帕米尔山脉） / Tajik National Park (Mountains of the Pamirs)
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:17Z"
 
 Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena.
 
+## 本地语言 / Local language (Tajik)
+
+**Боғи миллии Тоҷикистон**
+
+Боғи миллии Тоҷикистон — ҳудуди табиии ҳифзшавандаи Тоҷикистон, ки соли 2013 ба Феҳристи Мероси Ҷаҳонии Идораи омӯзишӣ, илмӣ ва фарҳангии Созмони Милали Муттаҳид (ЮНЕСКО) шомил шудааст.
+
 ## 交通 / Transport
 
 - ✈ **Fergana International Airport (FEG)** — 182.7 km
@@ -58,7 +64,7 @@ Visa not required (conditional) / eVisa[6][144] Holders of passports for public 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr
 

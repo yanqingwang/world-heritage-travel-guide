@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.202789
 lon: 113.293185
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 广州市白云区白云山景区 / Baiyunshan Scenic Area

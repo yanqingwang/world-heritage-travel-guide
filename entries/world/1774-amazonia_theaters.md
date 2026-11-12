@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(iv)"
 lat: -3.130280555
 lon: -60.023397222
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 亚马孙剧院 / Amazonia Theaters
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 巴西 · 文化遗产
 
 ## 图片 / Images
+
+![An American consul in Amazonia (1911).djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/An_American_consul_in_Amazonia_%281911%29.djvu/page1-1280px-An_American_consul_in_Amazonia_%281911%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*An American consul in Amazonia (1911).djvu · d. 1913 J. O. (Joseph Orton) Kerbey · Public domain*
+
+![An American consul in Amazonia (IA americanconsulin00kerb).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/An_American_consul_in_Amazonia_%28IA_americanconsulin00kerb%29.pdf/page1-500px-An_American_consul_in_Amazonia_%28IA_americanconsulin00kerb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*An American consul in Amazonia (IA americanconsulin00kerb).pdf · Kerbey, J. O. (Joseph Orton), d. 1913 · Public domain*
+
+![Arte Onça Pintada Amazonas.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4c/Arte_On%C3%A7a_Pintada_Amazonas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arte Onça Pintada Amazonas.jpg · DrikaLF · CC BY-SA 4.0*
+
+![Cartografias do Armário - um Teatro Queer em Belém do Pará.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Cartografias_do_Arm%C3%A1rio_-_um_Teatro_Queer_em_Bel%C3%A9m_do_Par%C3%A1.pdf/page1-960px-Cartografias_do_Arm%C3%A1rio_-_um_Teatro_Queer_em_Bel%C3%A9m_do_Par%C3%A1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cartografias do Armário - um Teatro Queer em Belém do Pará.pdf · Kauan Amora Nunes; Wladilene de Sousa Lima · CC BY 4.0*
 
 ![Amazonia Theaters](https://whc.unesco.org/uploads/sites/site_1774.jpg)
 

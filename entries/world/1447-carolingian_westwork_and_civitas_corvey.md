@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 51.777778
 lon: 9.41
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 科尔维修道院西部建筑 / Carolingian Westwork and Civitas Corvey

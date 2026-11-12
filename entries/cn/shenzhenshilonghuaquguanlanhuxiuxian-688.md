@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.702219
 lon: 114.001993
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 深圳市龙华区观澜湖休闲旅游区 / Shenzhen railway station

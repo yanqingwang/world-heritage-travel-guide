@@ -3,7 +3,7 @@ id: "wh-99"
 dataset: "unesco"
 name_zh: "奥赫里德地区自然与文化遗产"
 name_en: "Natural and Cultural Heritage of the Ohrid region"
-name_local: ""
+name_local: "Trashëgimia Natyrore dhe Kulturore e Rajonit të Ohrit (Shqipëri)"
 country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(iv)(vii)"
 lat: 40.900702777
 lon: 20.664016666
-updated_at: "2026-11-10T23:01:07Z"
+updated_at: "2026-11-12T11:25:15Z"
 ---
 
 # 奥赫里德地区自然与文化遗产 / Natural and Cultural Heritage of the Ohrid region
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:07Z"
 
 A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century.
 
+## 本地语言 / Local language (Albanian)
+
+**Trashëgimia Natyrore dhe Kulturore e Rajonit të Ohrit (Shqipëri)**
+
+Trashëgimia Natyrore dhe Kulturore e Rajonit të Ohrit është një zonë e mundshme e UNESCO-s, e cila ndodhet në bregun shqiptar të Liqenit të Ohrit, përreth Pogradecit, në Shqipëri. Rajoni është vlerësuar si një vend i mundshëm i UNESCO-s nga Delegacioni i Përhershëm i Shqipërisë në UNESCO më 5 Shtator 2011, dhe është vendosur në listën e vendeve të trashëgimisë kulturore në Shqipëri, nën kriteret II, IV, VII dhe IX.
+
 ## 交通 / Transport
 
 - ✈ **Ohrid St. Paul the Apostle Airport (OHD)** — 31.7 km
@@ -58,7 +64,7 @@ Visa not required[6][8] 90 days within any 180 day period.
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

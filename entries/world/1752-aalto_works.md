@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)"
 lat: 61.46139153783333
 lon: 23.42446484066667
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 阿尔托作品 / Aalto Works
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 芬兰 · 文化遗产
 
 ## 图片 / Images
+
+![Aalto-keskus 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Aalto-keskus_1.jpg/1280px-Aalto-keskus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aalto-keskus 1.jpg · kallerna · CC BY-SA 4.0*
+
+![Aalto-keskus 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aalto-keskus_2.jpg/1280px-Aalto-keskus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aalto-keskus 2.jpg · kallerna · CC BY-SA 4.0*
+
+![Aalto-keskus 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Aalto-keskus_3.jpg/1280px-Aalto-keskus_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aalto-keskus 3.jpg · kallerna · CC BY-SA 4.0*
+
+![Aalto-keskus, ilmakuva 1999 (RHO124993-1).tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aalto-keskus%2C_ilmakuva_1999_%28RHO124993-1%29.tif/lossy-page1-1280px-Aalto-keskus%2C_ilmakuva_1999_%28RHO124993-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aalto-keskus, ilmakuva 1999 (RHO124993-1).tif · Hannu Vallas · CC BY 4.0*
 
 ![Aalto Works](https://whc.unesco.org/uploads/sites/site_1752.jpg)
 

@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(v)"
 lat: 5.25
 lon: 37.48306
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:28Z"
 ---
 
 # 孔索文化景观 / Konso Cultural Landscape
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 埃塞俄比亚 · 文化遗产
 
 ## 图片 / Images
+
+![Konzo2.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Konzo2.jpg?width=1280)
+
+*Konzo2.jpg · see Wikimedia Commons file page*
 
 ![Konso Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1333.jpg)
 

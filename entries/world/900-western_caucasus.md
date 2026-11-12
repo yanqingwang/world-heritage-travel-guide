@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: 44.0
 lon: 40.0
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 西高加索山 / Western Caucasus
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:14Z"
 > 俄罗斯 · Krasnodar Region · 自然遗产
 
 ## 图片 / Images
+
+![Dombay, Dzhuguturlyuchat massif and glacier, Caucasus Mountains, Karachay-Cherkessia.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dombay%2C_Dzhuguturlyuchat_massif_and_glacier%2C_Caucasus_Mountains%2C_Karachay-Cherkessia.jpg/1280px-Dombay%2C_Dzhuguturlyuchat_massif_and_glacier%2C_Caucasus_Mountains%2C_Karachay-Cherkessia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dombay, Dzhuguturlyuchat massif and glacier, Caucasus Mountains, Karachay-Cherkessia.jpg · Vyacheslav Argenberg · CC BY 4.0*
+
+![Mountain lake, Mylgval mountain cirque, Western Caucasus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Mountain_lake%2C_Mylgval_mountain_cirque%2C_Western_Caucasus.jpg/1280px-Mountain_lake%2C_Mylgval_mountain_cirque%2C_Western_Caucasus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mountain lake, Mylgval mountain cirque, Western Caucasus.jpg · Vyacheslav Argenberg · CC BY 4.0*
+
+![Sofia Massif and Sofia Glacier, Karachay-Cherkessia, Caucasus Mountains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg/1280px-Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sofia Massif and Sofia Glacier, Karachay-Cherkessia, Caucasus Mountains.jpg · Vyacheslav Argenberg · CC BY 4.0*
+
+![Zagedan Lakes, Mountain cirque, Caucasus Mountains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Zagedan_Lakes%2C_Mountain_cirque%2C_Caucasus_Mountains.jpg/1280px-Zagedan_Lakes%2C_Mountain_cirque%2C_Caucasus_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Zagedan Lakes, Mountain cirque, Caucasus Mountains.jpg · Vyacheslav Argenberg · CC BY 4.0*
 
 ![Western Caucasus](https://whc.unesco.org/uploads/sites/site_900.jpg)
 

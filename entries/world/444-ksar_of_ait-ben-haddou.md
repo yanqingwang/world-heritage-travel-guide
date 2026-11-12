@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iv)(v)"
 lat: 31.05
 lon: -7.133333333
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 阿伊特•本•哈杜筑垒村 / Ksar of Ait-Ben-Haddou

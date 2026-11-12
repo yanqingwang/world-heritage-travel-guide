@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 30.37583
 lon: -107.95556
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:20Z"
 ---
 
 # 大卡萨斯的帕魁姆考古区 / Archaeological Zone of Paquimé, Casas Grandes
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:11Z"
 
 ## 图片 / Images
 
-![Archaeological Zone of Paquimé, Casas Grandes](https://whc.unesco.org/uploads/sites/site_560.jpg)
+![Zona arqueológica de Paquimé 2020.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Zona%20arqueol%C3%B3gica%20de%20Paquim%C3%A9%202020.jpg?width=1280)
 
-*Archaeological Zone of Paquimé, Casas Grandes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Zona arqueológica de Paquimé 2020.jpg · see Wikimedia Commons file page*
+
+![Ancient-Regions.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ancient-Regions.svg/1280px-Ancient-Regions.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient-Regions.svg · Ricraider · CC BY 3.0*
+
+![Archaeological Zone of Paquimé, Casas Grandes-111093.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/Archaeological_Zone_of_Paquim%C3%A9%2C_Casas_Grandes-111093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Archaeological Zone of Paquimé, Casas Grandes-111093.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Archaeological Zone of Paquimé, Casas Grandes-111095.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4e/Archaeological_Zone_of_Paquim%C3%A9%2C_Casas_Grandes-111095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Archaeological Zone of Paquimé, Casas Grandes-111095.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
+
+![Archaeological Zone of Paquimé, Casas Grandes-111097.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/Archaeological_Zone_of_Paquim%C3%A9%2C_Casas_Grandes-111097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Archaeological Zone of Paquimé, Casas Grandes-111097.jpg · Francesco Bandarin · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

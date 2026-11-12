@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(vii)(viii)"
 lat: -17.924777777778
 lon: 25.858055555556
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 莫西奥图尼亚瀑布（维多利亚瀑布） / Mosi-oa-Tunya / Victoria Falls
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:11Z"
 > 赞比亚 · Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe · 自然遗产
 
 ## 图片 / Images
+
+![Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 30-34 PAN.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg/1280px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 30-34 PAN.jpg · Diego Delso · CC BY-SA 4.0*
+
+![Mosi-oa-Tunya, Livingstone (20260519-P1075699).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosi-oa-Tunya%2C_Livingstone_%2820260519-P1075699%29.jpg/1280px-Mosi-oa-Tunya%2C_Livingstone_%2820260519-P1075699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mosi-oa-Tunya, Livingstone (20260519-P1075699).jpg · Matti Blume · CC BY-SA 4.0*
+
+![Mosi-oa-Tunya, Livingstone (20260519-P1075700).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mosi-oa-Tunya%2C_Livingstone_%2820260519-P1075700%29.jpg/1280px-Mosi-oa-Tunya%2C_Livingstone_%2820260519-P1075700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mosi-oa-Tunya, Livingstone (20260519-P1075700).jpg · Matti Blume · CC BY-SA 4.0*
+
+![Victoria Falls Bridge, Africa 092.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Victoria_Falls_Bridge%2C_Africa_092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Victoria Falls Bridge, Africa 092.jpg · Adam Annfield · CC BY 2.0*
 
 ![Mosi-oa-Tunya / Victoria Falls](https://whc.unesco.org/uploads/sites/site_509.jpg)
 

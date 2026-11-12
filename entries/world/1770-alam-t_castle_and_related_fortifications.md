@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 36.44472222
 lon: 50.58611111
-updated_at: "2026-11-10T23:01:21Z"
+updated_at: "2026-11-12T11:25:37Z"
 ---
 
 # 阿拉穆特城堡及相关防御工事 / Alamūt Castle and Related Fortifications
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:21Z"
 > 伊朗 · 文化遗产
 
 ## 图片 / Images
+
+![2008iran. Iran, Alamut Castle (2573255326).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2008iran._Iran%2C_Alamut_Castle_%282573255326%29.jpg/1280px-2008iran._Iran%2C_Alamut_Castle_%282573255326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2008iran. Iran, Alamut Castle (2573255326).jpg · Ninara from Helsinki, Finland · CC BY 2.0*
+
+![A pension under Alamut - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/A_pension_under_Alamut_-_panoramio.jpg/1280px-A_pension_under_Alamut_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A pension under Alamut - panoramio.jpg · Alen Ištoković · CC BY 3.0*
+
+![Alamoot aliazizollahi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alamoot_aliazizollahi.jpg/1280px-Alamoot_aliazizollahi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alamoot aliazizollahi.jpg · Aliazizollahi · CC BY-SA 4.0*
+
+![Alamoot1 aliazizollahi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Alamoot1_aliazizollahi.jpg/1280px-Alamoot1_aliazizollahi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alamoot1 aliazizollahi.jpg · Aliazizollahi · CC BY-SA 4.0*
 
 ![Alamūt Castle and Related Fortifications](https://whc.unesco.org/uploads/sites/site_1770.jpg)
 

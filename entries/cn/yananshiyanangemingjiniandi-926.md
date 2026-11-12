@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.614936
 lon: 109.484034
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:46Z"
 ---
 
 # 延安市延安革命纪念地景区 / Yan'an Revolutionary Memorial Hall

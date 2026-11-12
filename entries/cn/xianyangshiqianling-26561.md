@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xianyang"
 lat: 34.574647
 lon: 108.226645
-updated_at: "2026-11-09T12:50:13Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 咸阳市乾陵景区 / Qianling Mausoleum

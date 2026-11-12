@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 39.9975
 lon: 3.908888888
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 梅诺卡岛塔拉约提克史前遗址 / Talayotic Menorca
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:19Z"
 > 西班牙 · 文化遗产
 
 ## 图片 / Images
+
+![Taula de Torrellisar Vell 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Taula_de_Torrellisar_Vell_5.jpg/1280px-Taula_de_Torrellisar_Vell_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Taula de Torrellisar Vell 5.jpg · Dreizung · CC BY-SA 4.0*
 
 ![Talayotic Menorca](https://whc.unesco.org/uploads/sites/site_1528.jpg)
 

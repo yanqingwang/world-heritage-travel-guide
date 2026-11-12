@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 31.51441
 lon: -9.768904
-updated_at: "2026-11-10T23:01:13Z"
+updated_at: "2026-11-12T11:25:22Z"
 ---
 
 # 索维拉城（原摩加多尔） / Medina of Essaouira (formerly Mogador)
@@ -23,9 +23,25 @@ updated_at: "2026-11-10T23:01:13Z"
 
 ## 图片 / Images
 
-![Medina of Essaouira (formerly Mogador)](https://whc.unesco.org/uploads/sites/site_753.jpg)
+![Médina d'Essaouira (ancienne Mogador) 8.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9dina%20d%27Essaouira%20%28ancienne%20Mogador%29%208.jpg?width=1280)
 
-*Medina of Essaouira (formerly Mogador) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Médina d'Essaouira (ancienne Mogador) 8.jpg · see Wikimedia Commons file page*
+
+!["Ein Schmelztiegel der Kulturen". 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/%22Ein_Schmelztiegel_der_Kulturen%22._01.jpg/1280px-%22Ein_Schmelztiegel_der_Kulturen%22._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Ein Schmelztiegel der Kulturen". 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Ein Schmelztiegel der Kulturen". 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%22Ein_Schmelztiegel_der_Kulturen%22._02.jpg/1280px-%22Ein_Schmelztiegel_der_Kulturen%22._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Ein Schmelztiegel der Kulturen". 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Ein Schmelztiegel der Kulturen". 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%22Ein_Schmelztiegel_der_Kulturen%22._03.jpg/1280px-%22Ein_Schmelztiegel_der_Kulturen%22._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Ein Schmelztiegel der Kulturen". 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Ein Schmelztiegel der Kulturen". 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%22Ein_Schmelztiegel_der_Kulturen%22._04.jpg/1280px-%22Ein_Schmelztiegel_der_Kulturen%22._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Ein Schmelztiegel der Kulturen". 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

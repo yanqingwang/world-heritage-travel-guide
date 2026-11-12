@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 25.01266
 lon: 98.465504
-updated_at: "2026-11-09T12:50:14Z"
+updated_at: "2026-11-10T23:01:45Z"
 ---
 
 # 腾冲市和顺古镇景区 / Tengchongshiheshunguzhen Scenic Area

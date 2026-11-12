@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)(v)(vii)"
 lat: 39.7125
 lon: 21.626666666
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 曼代奥拉 / Meteora

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 47.074166666667
 lon: 15.391666666667
-updated_at: "2026-11-10T23:01:14Z"
+updated_at: "2026-11-12T11:25:24Z"
 ---
 
 # 格拉茨城历史中心与埃根博格城堡 / City of Graz – Historic Centre and Schloss Eggenberg
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T23:01:14Z"
 > 奥地利 · 文化遗产
 
 ## 图片 / Images
+
+![Graz Schloss Eggenberg Grotte-2982.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Graz_Schloss_Eggenberg_Grotte-2982.jpg/1280px-Graz_Schloss_Eggenberg_Grotte-2982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Graz Schloss Eggenberg Grotte-2982.jpg · Isiwal · CC BY-SA 4.0*
+
+![Graz Schloss Eggenberg Haupttor Parkseite-3052.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Graz_Schloss_Eggenberg_Haupttor_Parkseite-3052.jpg/1280px-Graz_Schloss_Eggenberg_Haupttor_Parkseite-3052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Graz Schloss Eggenberg Haupttor Parkseite-3052.jpg · Isiwal · CC BY-SA 4.0*
+
+![Graz Schloss Eggenberg frontal-3054-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Graz_Schloss_Eggenberg_frontal-3054-2.jpg/1280px-Graz_Schloss_Eggenberg_frontal-3054-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Graz Schloss Eggenberg frontal-3054-2.jpg · Isiwal · CC BY-SA 4.0*
+
+![Schlosseggenbergluftaufnahme.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1c/Schlosseggenbergluftaufnahme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Schlosseggenbergluftaufnahme.jpg · Schup at German Wikipedia ( Original text: Landesmuseum Joanneum, Schloss Eggenberg, Graz ) · Public domain*
 
 ![City of Graz – Historic Centre and Schloss Eggenberg](https://whc.unesco.org/uploads/sites/site_931.jpg)
 

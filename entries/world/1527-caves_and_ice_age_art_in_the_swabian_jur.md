@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)"
 lat: 48.387777777
 lon: 9.765555555
-updated_at: "2026-11-10T23:01:19Z"
+updated_at: "2026-11-12T11:25:30Z"
 ---
 
 # 位于施瓦本侏罗山的冰河时期最古老的艺术洞穴 / Caves and Ice Age Art in the Swabian Jura
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:19Z"
 > 德国 · 文化遗产
 
 ## 图片 / Images
+
+![UNESCO Considers Protecting Early Human Habitation Sites.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/UNESCO_Considers_Protecting_Early_Human_Habitation_Sites.webm/1280px--UNESCO_Considers_Protecting_Early_Human_Habitation_Sites.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*UNESCO Considers Protecting Early Human Habitation Sites.webm · VOA · Public domain*
 
 ![Caves and Ice Age Art in the Swabian Jura](https://whc.unesco.org/uploads/sites/site_1527.jpg)
 

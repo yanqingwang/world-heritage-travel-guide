@@ -3,7 +3,7 @@ id: "wh-252"
 dataset: "unesco"
 name_zh: "泰姬陵"
 name_en: "Taj Mahal"
-name_local: ""
+name_local: "ताजमहल"
 country: "IN"
 country_zh: "印度"
 country_en: "India"
@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)"
 lat: 27.175
 lon: 78.041944444
-updated_at: "2026-11-10T23:01:08Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 泰姬陵 / Taj Mahal
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:08Z"
 
 An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.
 
+## 本地语言 / Local language (Hindi)
+
+**ताजमहल**
+
+ताजमहल भारत के उत्तर प्रदेश राज्य के आगरा शहर में स्थित एक विश्व धरोहर मक़बरा , और विश्व के ७ अजूबों में से एक है। इसका निर्माण १७वीं सदी में मुग़ल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज़ महल की याद में करवाया था। मुगल सम्राट शाहजहां के समय में मुगल वास्तुकला अपने चरम शिखर पर थी, ताजमहल उन सभी वास्तुकलाओं के उदाहरण में सर्वप्रसिद्ध है। ताजमहल मुग़ल वास्तुकला का उत्कृष्ट नमूना है। इसकी वास्तु शैली फ़ारसी, तुर्क, भारतीय और इस्लामी वास्तुकला के घटकों का अनोखा सम्मिलन है। सन् १९८३ में, ताजमहल युनेस्को विश्व धरोहर स्थल बना। इसके साथ ही इसे विश्व धरोहर के सर्वत्र प्रशंसा पाने वाली, अत्युत्तम मानवी कृतियों में से एक बताया गया। ताजमहल को भारत की इस्लामी कला का रत्न भी घोषित किया गया है। साधारणतया देखे गये संगमरमर की सिल्लियों की बडी- बडी पर्तो से ढंक कर बनाई गई इमारतों की तरह न बनाकर इसका श्वेत गुम्बद एवं टाइल आकार में संगमरमर से ढंका है। केन्द्र में बना मकबरा अपनी वास्तु श्रेष्ठता में सौन्दर्य के संयोजन का परिचय देते हैं। ताजमहल इमारत समूह की संरचना की खास बात है, कि यह पूर्णतया सममितीय है। इसका निर्माण सन् १६४८ के लगभग पूर्ण हुआ था। उस्ताद अहमद लाहौरी को प्रायः इसका प्रधान रूपांकनकर्ता माना जाता है। ताजमहल के निर्माण में लगभग २२ वर्षों का समय लगा।
+
 ## 交通 / Transport
 
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 8.2 km
@@ -85,7 +91,7 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

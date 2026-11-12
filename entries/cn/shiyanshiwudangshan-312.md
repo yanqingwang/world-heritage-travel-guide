@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Shiyan"
 lat: 32.510141
 lon: 111.100659
-updated_at: "2026-11-09T12:50:15Z"
+updated_at: "2026-11-10T23:01:47Z"
 ---
 
 # 十堰市武当山风景区 / Wudang Mountains

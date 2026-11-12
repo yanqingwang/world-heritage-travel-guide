@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 37.981666666
 lon: 126.508055555
-updated_at: "2026-11-10T23:01:17Z"
+updated_at: "2026-11-12T11:25:27Z"
 ---
 
 # 开城历史古迹 / Historic Monuments and Sites in Kaesong
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T23:01:17Z"
 > 朝鲜民主主义人民共和国 · 文化遗产
 
 ## 图片 / Images
+
+![Nam Gate in Kaesong (5063812320).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Nam%20Gate%20in%20Kaesong%20%285063812320%29.jpg?width=1280)
+
+*Nam Gate in Kaesong (5063812320).jpg · see Wikimedia Commons file page*
 
 ![Historic Monuments and Sites in Kaesong](https://whc.unesco.org/uploads/sites/site_1278.jpg)
 

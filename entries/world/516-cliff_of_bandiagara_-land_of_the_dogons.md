@@ -3,7 +3,7 @@ id: "wh-516"
 dataset: "unesco"
 name_zh: "邦贾加拉悬崖(多贡斯土地)"
 name_en: "Cliff of Bandiagara (Land of the Dogons)"
-name_local: ""
+name_local: "Banjagara"
 country: "ML"
 country_zh: "马里"
 country_en: "Mali"
@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(v)(vii)"
 lat: 14.416666666
 lon: -3.316666666
-updated_at: "2026-11-10T23:01:11Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 邦贾加拉悬崖(多贡斯土地) / Cliff of Bandiagara (Land of the Dogons)
@@ -41,6 +41,12 @@ updated_at: "2026-11-10T23:01:11Z"
 
 The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na , or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites.
 
+## 本地语言 / Local language (Bambara)
+
+**Banjagara**
+
+Banjagara (tubabukan: Bandiagara) ye Mali ka dugu ye.
+
 ## 交通 / Transport
 
 - ✈ **Mopti Airport (MZI)** — 82.8 km
@@ -58,7 +64,7 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

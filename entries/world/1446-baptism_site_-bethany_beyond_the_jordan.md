@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(vi)"
 lat: 31.837222222
 lon: 35.550277777
-updated_at: "2026-11-10T23:01:18Z"
+updated_at: "2026-11-12T11:25:29Z"
 ---
 
 # 施洗之地 / Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)

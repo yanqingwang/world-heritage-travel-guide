@@ -3,7 +3,7 @@ id: "wh-450"
 dataset: "unesco"
 name_zh: "康提圣城"
 name_en: "Sacred City of Kandy"
-name_local: ""
+name_local: "கண்டி"
 country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)(vi)"
 lat: 7.293055555
 lon: 80.635
-updated_at: "2026-11-10T23:01:10Z"
+updated_at: "2026-11-12T11:25:19Z"
 ---
 
 # 康提圣城 / Sacred City of Kandy
@@ -53,6 +53,12 @@ updated_at: "2026-11-10T23:01:10Z"
 
 This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.
 
+## 本地语言 / Local language (Tamil)
+
+**கண்டி**
+
+கண்டி () (Kandy) இலங்கையின் மத்திய மாகாணத்திலுள்ள முக்கிய நகரங்களுள் ஒன்று. இதுவே மத்திய மாகாணத்தின் தலை நகரமாகும். நாட்டின் தலை நகரமான கொழும்பிலிருந்து 70 மைல் தொலைவில் அமைந்துள்ள இந்த நகரம் 1815ஆம் ஆண்டுவரை அந்நியர் ஆட்சிக்கு உட்படாத கண்டி இராச்சியத்தின் தலை நகரமாக இருந்தது. புத்தரின் புனிதப்பல் உள்ள தலதா மாளிகை இங்கேயே உள்ளது. இது பௌத்தர்களின் புனிதப் பிரதேசமாகும். கண்டி நகரம், கண்டி இராச்சியத்தின் அரச குலமான கண்டி நாயக்கர்களின் தலைநகரமாக விளங்கியது.
+
 ## 交通 / Transport
 
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 83.8 km
@@ -85,7 +91,7 @@ Free ETA / Visa on arrival[6][138] Sri Lanka introduced an ETA valid for 30 days
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

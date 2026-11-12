@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(iii)(iv)"
 lat: 37.17634
 lon: -3.58821
-updated_at: "2026-11-10T23:01:09Z"
+updated_at: "2026-11-12T11:25:17Z"
 ---
 
 # 格拉纳达的艾勒汉卜拉、赫内拉利费和阿尔巴济 / Alhambra, Generalife and Albayzín, Granada
