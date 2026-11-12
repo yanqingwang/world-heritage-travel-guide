@@ -1,5 +1,12 @@
 # 变更记录 / Changelog
 
+## 2026-11-12 — 本地语言简介与图库补全
+
+- `LANG_TO_WIKI` 补上 hi / ta / sq / mt / tg / is / bm / tk 等 15 种语言：此前这些语言即使有维基条目也被跳过，70 个遗产地因此没有本地语言简介。新增 `scripts/backfill_local_intro.py` 只补缺失项，并对维基规范化后的标题做一次回退匹配。
+- `commons_category` 增加子分类回退：Hoysalas、Aalto、Alamut 这类分类下只有子分类、没有文件，原查询返回空，站点只剩 1 张图。
+- 图库搜索增加短名回退（UNESCO 全名在 Commons 几乎搜不到），基本资料条目「≤1 张图」从 124 条降到 1 条（`wh-1745` 上游确无可用图片）。
+- 剩余 279 条无本地语言简介的条目中，267 条是英语官方语言国家（英/美/澳/南非等，本就不需要），12 条是上游维基无对应条目或条目无正文。
+
 ## 2026-11-12 — 移除 GitHub Token 云同步，保留导出 / 导入
 
 - 删除「☁ 云同步」的 GitHub Contents API 通路（`site/assets/sync.js`、Token 输入、推送/拉取按钮）：普通访客的 Fine-grained PAT 无法写入主仓库，这条路径对公众没有实际价值。
