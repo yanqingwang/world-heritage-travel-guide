@@ -56,6 +56,27 @@
     try { fn(...args); } catch (e) { console.warn("account listener", e); }
   });
 
+  // ---------------------------------------------------------------- 能力探测
+  // 同一份前端同时发布到 GitHub Pages（纯静态）和账号服务器（同源 /api）。
+  // Pages 上 /api/health 会回落到 index.html（200 HTML），不能只看状态码：
+  // 必须确认 JSON 的 ok/service，否则会显示一个永远 404 的登录框。
+  let available = false;
+  async function probe() {
+    try {
+      const r = await fetch(apiBase() + "/api/health", { cache: "no-store" });
+      const d = await r.json();
+      available = !!(r.ok && d && d.ok && d.service === "whg" &&
+        (!d.capabilities || d.capabilities.includes("account")));
+    } catch (_) {
+      available = false;
+    }
+    return available;
+  }
+
+  const requireBackend = () => {
+    if (!available) throw new Error("account service unavailable");
+  };
+
   // ---------- 合并 ----------
   // local / remote: {siteId: {v,r,c,p,n,t}}；return {merged, changed}
   function mergeMarks(local, remote) {
@@ -77,7 +98,7 @@
   let pushing = false;
 
   async function push(local, { silent = true } = {}) {
-    if (!S.token) return null;
+    if (!S.token || !available) return null;
     if (pushing) return null;
     pushing = true;
     try {
@@ -94,14 +115,14 @@
 
   /** 标记变更后调用：本地立即保存（由 app.js 负责），这里只做防抖上云。 */
   function syncSoon(getMarks) {
-    if (!S.token) return;                  // 未登录：完全不联网
+    if (!S.token || !available) return;   // 未登录 / 静态镜像：完全不联网
     clearTimeout(pushTimer);
     pushTimer = setTimeout(() => push(getMarks()), 1200);
   }
 
   /** 登录 / 页面加载时：拉云端 + 合并 + 回写本地 + 推送合并结果。 */
   async function pullAndMerge(getMarks, setMarks) {
-    if (!S.token) return null;
+    if (!S.token || !available) return null;
     const remote = await req("/api/marks");
     const local = getMarks() || {};
     const { merged, changed } = mergeMarks(local, remote.marks || {});
@@ -116,6 +137,7 @@
   const I18N = {
     zh: {
       title: "账号与同步", kicker: "个人标记", sub: "登录后「去过 / 赞过 / 不好」在服务器保存一份，换浏览器也能恢复；不登录则只存本机。",
+      unavailableTitle: "此站点为纯静态镜像", unavailableSub: "账号登录与跨浏览器同步需要独立的账号服务；当前 GitHub Pages 镜像不含后端。个人标记仍完整保存在本机浏览器（localStorage），并可用「☁ 云同步」里的导出/导入 JSON 在设备间搬运。",
       login: "登录", register: "注册", logout: "退出登录", forgot: "忘记密码？",
       username: "用户名", password: "密码", password2: "确认密码",
       doLogin: "登录", doRegister: "创建账号", doReset: "重置密码",
@@ -134,6 +156,7 @@
     },
     en: {
       title: "Account & sync", kicker: "Personal marks", sub: "Sign in to keep your visited / liked / not-for-me marks on the server and restore them in another browser. Without signing in, everything stays local.",
+      unavailableTitle: "Static mirror only", unavailableSub: "Accounts and cross-browser sync need the separate account server; this GitHub Pages mirror has no backend. Your marks still live in this browser (localStorage) and can be moved with the Export / Import JSON buttons under ☁ Cloud sync.",
       login: "Sign in", register: "Register", logout: "Sign out", forgot: "Forgot password?",
       username: "Username", password: "Password", password2: "Confirm password",
       doLogin: "Sign in", doRegister: "Create account", doReset: "Reset password",
@@ -177,6 +200,18 @@
 
   function render() {
     const p = ensurePanel();
+    if (!available) {
+      p.innerHTML = `
+        <div class="acc-sheet">
+          <div class="acc-head">
+            <div><div class="acc-kicker">${t("kicker")}</div><h1>${t("title")}</h1></div>
+            <button class="acc-close" data-act="close" aria-label="close">×</button>
+          </div>
+          <p class="acc-sub">${t("unavailableTitle")}</p>
+          <div class="acc-badge">${t("unavailableSub")}</div>
+        </div>`;
+      return;
+    }
     const user = S.user;
     const sync = S.lastSync;
     let body;
@@ -252,6 +287,7 @@
   async function handle(act) {
     try {
       if (act === "close") return close();
+      requireBackend();
       if (act === "mode-login" || act === "mode-register" || act === "mode-reset") {
         mode = act.replace("mode-", "");
         return render();
@@ -345,6 +381,7 @@
       if (act) handle(act);
     });
     startSync = async () => {
+      if (!available) return null;
       try {
         const merged = await pullAndMerge(getMarks, setMarks);
         if (merged) msg(t("lastSync", new Date(S.lastSync).toLocaleString()), "ok");
@@ -356,10 +393,13 @@
     };
     const btn = button || document.querySelector("[data-account-open]");
     if (btn) btn.addEventListener("click", open);
-    if (S.token) startSync();      // 已登录：打开页面即合并一次
-    if (sessionStorage.getItem(STATE_KEY)) open();
+    // 打开面板前先探测账号服务：Pages 静态镜像与账号服务器共用同一份 JS。
+    probe().then((ok) => {
+      if (ok && S.token) startSync();   // 已登录：打开页面即合并一次
+      if (sessionStorage.getItem(STATE_KEY)) open();
+    });
     return { open, close, on, syncSoon, startSync, state: S };
   }
 
-  window.WHGAccount = { mount, open, close, on, syncSoon, mergeMarks, state: S, t };
+  window.WHGAccount = { mount, open, close, on, syncSoon, mergeMarks, probe, state: S, t };
 })();

@@ -375,14 +375,27 @@ def _commons_imageinfo(page: dict) -> dict | None:
     }
 
 
+_commons_last_call = 0.0
+
+
 def _commons_query(params: dict) -> list[dict]:
     """Run a Commons generator query via the curl subprocess transport.
 
     python-requests stalls against Commons TLS on this network while curl
     succeeds, exactly like the Wikipedia endpoints — same fix, one transport.
+    Bursts of >100 queries trip Commons' anonymous throttle and silently
+    return empty galleries, which then get cached as "no images found"; pace
+    every request so cached thin galleries are actually retried.
     """
-    data = curl_json(COMMONS_API, params=params, timeout=25) or curl_json(
-        COMMONS_API, params=params, timeout=25)
+    global _commons_last_call
+    wait = 0.35 - (time.monotonic() - _commons_last_call)
+    if wait > 0:
+        time.sleep(wait)
+    try:
+        data = curl_json(COMMONS_API, params=params, timeout=25) or curl_json(
+            COMMONS_API, params=params, timeout=25)
+    finally:
+        _commons_last_call = time.monotonic()
     pages = ((data or {}).get("query") or {}).get("pages", {})
     if isinstance(pages, dict):
         pages = list(pages.values())

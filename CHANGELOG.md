@@ -1,5 +1,13 @@
 # 变更记录 / Changelog
 
+## 2026-11-12 — GitHub Pages 同步判断与文档结论
+
+- 研究结论：纯静态 GitHub Pages 无法完成 GitHub OAuth 登录（Web flow 的 `client_secret` 不能放进浏览器，Device flow 仍需服务端换 token）；普通访客自己生成的 Fine-grained PAT 也不能给自己授权写入主仓库。文档写入 `deploy.md`，README 中英文同步说明。
+- 账号前端增加 `GET /api/health` 能力探测（`service: "whg"`）：静态镜像显示「纯静态镜像 / Static mirror only」，保留 localStorage 与导出/导入 JSON；账号服务正常时才显示登录表单，避免 404 假登录框。
+- `server/app.py` 增加 CORS 与 `/api/health` 能力标记，支持 Pages 用 `?api=` 指向后端的跨源部署。
+- GitHub 云同步增加保存前判断：`GET /user` + 目标仓库 `permissions.push`，并把 401 / 403 / 404 / 409 映射为可读提示（无效令牌、限流、无写权限、冲突）。
+- `scripts/common.py` 恢复 Commons 查询节流（0.35s），避免批量抓取被限流后把空图库缓存成「无图」。
+
 ## 2026-11-11 — 账号登录与跨浏览器同步
 
 - 新增 `server/app.py`：用户名+密码注册/登录、恢复码找回密码（不依赖邮件）、「去过/赞过/不好」标记云同步 API，并同进程托管 `site/` 静态站。

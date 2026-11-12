@@ -33,11 +33,57 @@
         if (!r.ok) {
           let msg = `GitHub API ${r.status}`;
           try { msg = (await r.json()).message || msg; } catch (_) {}
-          throw new Error(msg);
+          const err = new Error(msg);
+          err.status = r.status;
+          throw err;
         }
         return r.status === 204 ? null : r.json();
       });
   };
+
+  // A visitor's own PAT cannot grant itself write access to someone else's
+  // repository.  Check /user first (token valid?) and then permissions.push
+  // on the target repo (can this token actually commit here?) before showing
+  // a confusing "Resource not accessible by integration" on every push.
+  async function checkAccess() {
+    const token = localStorage.getItem(TOKEN_KEY);
+    if (!token) return { ok: false, reason: "no_token" };
+    let user;
+    try {
+      const r = await fetch("https://api.github.com/user", {
+        headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}` },
+      });
+      if (r.status === 401) return { ok: false, reason: "bad_token" };
+      if (r.status === 403) return { ok: false, reason: "rate_limit" };
+      if (!r.ok) return { ok: false, reason: `http_${r.status}` };
+      user = await r.json();
+    } catch (_) {
+      return { ok: false, reason: "network" };
+    }
+    try {
+      const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}`, {
+        headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}` },
+      });
+      if (r.status === 401) return { ok: false, reason: "bad_token" };
+      if (r.status === 403) return { ok: false, reason: "rate_limit" };
+      if (!r.ok) return { ok: false, reason: `http_${r.status}` };
+      const repo = await r.json();
+      if (!repo.permissions || !repo.permissions.push) {
+        return { ok: false, reason: "no_push" };
+      }
+      return { ok: true, login: user.login };
+    } catch (_) {
+      return { ok: false, reason: "network" };
+    }
+  }
+
+  function explain(err) {
+    if (err && err.status === 401) return "bad_token";
+    if (err && err.status === 403) return "rate_limit";
+    if (err && err.status === 409) return "conflict";
+    if (err && err.status === 404) return "not_found";
+    return "network";
+  }
 
   const fileName = () => {
     let name = localStorage.getItem(NAME_KEY);
@@ -131,7 +177,7 @@
   }
 
   window.WHTG_SYNC = {
-    state, push, pull, merge, listDevices, readDevice,
+    state, push, pull, merge, listDevices, readDevice, checkAccess, explain,
     saveToken: (t) => t ? localStorage.setItem(TOKEN_KEY, t.trim()) : localStorage.removeItem(TOKEN_KEY),
     saveName: (n) => n ? localStorage.setItem(NAME_KEY, n.trim().replace(/[^a-zA-Z0-9_-]/g, "-").slice(0, 32)) : localStorage.removeItem(NAME_KEY),
     clearLast: () => localStorage.removeItem(LAST_KEY),

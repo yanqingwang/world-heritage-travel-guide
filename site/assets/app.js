@@ -44,6 +44,10 @@
       syncNeedToken: "请先在上方粘贴并保存 GitHub Token。",
       syncSaved: "已保存。设备名：", syncTestOk: "，Token 有效 ✓",
       syncTestFail: "Token 校验失败：",
+      syncNoPush: "此 Token 对主仓库没有写入权限：普通访客的 PAT 只能写自己的仓库。请改用「导出/导入 JSON」，或把备份目标改成你自己的 fork。",
+      syncBadToken: "Token 无效或已过期，请重新生成后粘贴。",
+      syncRateLimit: "GitHub API 触发限流（或 Token 权限不足），请稍后重试。",
+      syncConflict: "云端文件已被其他设备更新，请重新打开同步窗口再试一次。",
       syncPushed: (n, dev, at) => `已推送 ${n} 条标记到 sync/marks-${dev}.json（${at}）`,
       syncPulled: (n, at) => `已从云端合并 ${n} 条标记（云端更新于 ${at}）`,
       syncPulledNone: "云端还没有这个设备的备份；先「推送到云端」一次即可。",
@@ -139,6 +143,10 @@
       syncExport: "Export JSON", syncImport: "Import JSON",
       syncClose: "Close",
       syncNeedToken: "Paste and save a GitHub Token above first.",
+      syncNoPush: "This token cannot write to the main repository: a visitor's own PAT can only write to repositories they own. Use Export / Import JSON instead, or point the backup at your own fork.",
+      syncBadToken: "Token invalid or expired. Generate a new one and paste it again.",
+      syncRateLimit: "GitHub API rate limit (or insufficient token scope). Please retry later.",
+      syncConflict: "The cloud file changed on another device. Reopen the sync dialog and try again.",
       syncSaved: "Saved. Device: ", syncTestOk: ", token valid ✓",
       syncTestFail: "Token check failed: ",
       syncPushed: (n, dev, at) => `Pushed ${n} marks to sync/marks-${dev}.json (${at})`,
@@ -1349,12 +1357,24 @@
     }
   };
 
+  const syncFailText = (reason) => ({
+    no_token: t().syncNeedToken,
+    bad_token: t().syncBadToken,
+    rate_limit: t().syncRateLimit,
+    no_push: t().syncNoPush,
+    conflict: t().syncConflict,
+    not_found: t().syncPulledNone,
+    network: t().syncErr,
+  }[reason] || `${t().syncErr}${reason}`);
+
   async function ensureTokenValid() {
     if (!window.WHTG_SYNC || !WHTG_SYNC.state.token) {
       syncEls.status.textContent = t().syncNeedToken;
       return false;
     }
-    return true;
+    const check = await WHTG_SYNC.checkAccess();
+    if (!check.ok) syncEls.status.textContent = syncFailText(check.reason);
+    return check.ok;
   }
 
   syncEls.save.addEventListener("click", async () => {
@@ -1362,17 +1382,11 @@
     WHTG_SYNC.saveName(syncEls.name.value || localStorage.getItem("whtg-sync-name") || "");
     setSyncBusy(true);
     syncEls.status.textContent = "…";
-    try {
-      await fetch("https://api.github.com/user", {
-        headers: { Authorization: `Bearer ${WHTG_SYNC.state.token}` },
-      }).then(async (r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      }).then((u) => {
-        syncEls.status.textContent = `${t().syncSaved}${WHTG_SYNC.state.device}${t().syncTestOk} (${u.login})`;
-      });
-    } catch (e) {
-      syncEls.status.textContent = `${t().syncTestFail}${e.message}`;
+    const check = await WHTG_SYNC.checkAccess();
+    if (check.ok) {
+      syncEls.status.textContent = `${t().syncSaved}${WHTG_SYNC.state.device}${t().syncTestOk} (${check.login})`;
+    } else {
+      syncEls.status.textContent = syncFailText(check.reason);
     }
     setSyncBusy(false);
   });
@@ -1387,7 +1401,7 @@
       syncEls.result.textContent = t().syncPushed(stamp.count, stamp.device, at);
       updateGlobeButton();
     } catch (e) {
-      syncEls.result.textContent = `${t().syncErr}${e.message}`;
+      syncEls.result.textContent = syncFailText(WHTG_SYNC.explain(e));
     }
     setSyncBusy(false);
   });
@@ -1408,7 +1422,7 @@
     } catch (e) {
       syncEls.result.textContent = /404|Not Found/i.test(e.message)
         ? t().syncPulledNone
-        : `${t().syncErr}${e.message}`;
+        : syncFailText(WHTG_SYNC.explain(e));
     }
     setSyncBusy(false);
   });

@@ -82,9 +82,25 @@ For the full UNESCO refresh add `FIRECRAWL_API_KEY` to the repository Secrets. W
 
 ## 个人标记云同步 · Marks cloud sync
 
-访客的个人标记（去过/赞过/不好）以浏览器 localStorage 为主存储；可选地在仓库 `sync/` 目录按设备保存 `marks-<device>.json`（一人一份），通过 GitHub Contents API 读写。访客需自备仅限本仓库 Contents 读写权限的 Fine-grained PAT；令牌只存在访客自己的浏览器里，站点不收集凭据。匿名访客可用「导出/导入 JSON」在设备间手动搬运标记。
+个人标记（去过/赞过/不好）始终先写入浏览器 localStorage。跨设备恢复有两条路径，二者都不需要把管理员凭据放进前端。
 
-Visitor marks (visited/liked/not-for-me) live in localStorage first; optionally one `marks-<device>.json` per person is kept under `sync/` in this repo, read and written through the GitHub Contents API. Visitors supply their own Fine-grained PAT scoped to Contents: Read & Write on this repository only; the token stays in their browser. Anonymous visitors can move marks between devices with the JSON export/import buttons.
+Marks (visited/liked/not-for-me) always go to localStorage first. Two paths exist for cross-device restore; neither embeds an admin credential in the frontend.
+
+### 1. 推荐：账号服务 · Recommended: account server
+
+`server/app.py` 提供「用户名 + 密码 + 恢复码」注册/登录和 `/api/marks` 同步；登录后标记按单条时间戳合并，换浏览器登录即可恢复，未登录完全不联网。前端通过 `GET /api/health` 探测 `{"service":"whg"}`：静态 GitHub Pages 镜像没有后端，会显示「此站点为纯静态镜像」，并保留 localStorage 与导出/导入 JSON；账号服务器部署（含 Pages 用 `?api=` 指向后端的跨源场景）才显示登录表单。部署细节见下方「账号服务部署」。
+
+`server/app.py` provides username/password sign-up (with a one-time recovery code) and `/api/marks` sync. Signed-in marks merge per record by timestamp; signed-out visitors make no network calls. The frontend probes `GET /api/health` for `{"service":"whg"}`: a static GitHub Pages build shows "Static mirror only" and keeps localStorage + JSON export/import, while the account-server build (or Pages pointed at it with `?api=`) shows the sign-in form. See "Account server" below for deployment.
+
+### 2. 可选：GitHub Contents API · Optional: GitHub Contents API
+
+站点内「☁ 云同步」可选地用访客自己的 Fine-grained PAT 把 `marks-<device>.json` 写到本仓库 `sync/`；令牌只留在访客浏览器。保存令牌时前端会依次判断 `GET /user`（令牌是否有效）与 `GET /repos/{owner}/{repo}` 的 `permissions.push`（是否有写权限），并区分 401 / 403 / 404 / 409 给出可读提示。
+
+**判断结论**：这条路径**不适用于任意公众访客**。Fine-grained PAT 只能授予「令牌持有者本来就有权限」的仓库；普通访客无法用自己生成的 PAT 给自己授权写入 `yanqingwang/world-heritage-travel-guide`，只有仓库所有者/协作者能成功推送。纯静态 GitHub Pages 也无法完成 GitHub OAuth 登录：Web application flow 的 `client_secret` 不能放在浏览器里，Device flow 同样需要服务端交换 token。因此面向公众的自助登录必须用上面的账号服务（或未来增加 GitHub App / serverless 后端）；普通访客请继续使用「导出/导入 JSON」，或把备份目标改成自己的 fork。
+
+The in-site "☁ Cloud sync" can optionally write `marks-<device>.json` under `sync/` using the visitor's own Fine-grained PAT; the token stays in their browser. On save, the frontend checks `GET /user` (valid token?) and `permissions.push` from `GET /repos/{owner}/{repo}` (may this token commit here?), and maps 401 / 403 / 404 / 409 to readable messages.
+
+**Verdict**: this path does **not** work for arbitrary public visitors. A fine-grained PAT can only grant access the token holder already has; a visitor cannot mint a PAT that writes to someone else's `yanqingwang/world-heritage-travel-guide` — only the owner/collaborators can push. A static GitHub Pages page also cannot do GitHub OAuth sign-in by itself: the web application flow's `client_secret` cannot live in browser code, and the device flow likewise needs a server-side token exchange. Public self-service login therefore requires the account server above (or a future GitHub App / serverless backend); ordinary visitors should keep using Export / Import JSON, or point the backup at their own fork.
 
 
 ---

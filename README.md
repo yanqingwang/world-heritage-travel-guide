@@ -26,7 +26,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **旅行实用信息**：每个目的地详情页展示所在国货币、插座/电压、时区、通行方向、国际区号与官方语言（数据来自 mledoze/countries + IEC 插座表）。
 - **统一的国家 → 省 / 州两级筛选**：两套数据都先选国家，再按 ISO 3166-2 选省/州；中国固定为「中国 → 省份」，海外按所在国的一级行政区。
 - **个人标记与足迹地球**：每个条目可标「去过 / 赞过 / 不好」，保存在浏览器本地存储（localStorage）；「去过」会点亮地球上的中国省份或海外国家，支持拖动旋转、滚轮缩放与点击地区筛选。
-- **账号登录与跨浏览器同步（可选）**：用「用户名 + 密码」注册/登录后，「去过 / 赞过 / 不好」会同步到服务器，换浏览器登录即可恢复；**不登录则与 GitHub 一样纯本地优先**——标记只留在本机 localStorage，不发任何网络请求。忘记密码用注册时下发的恢复码重置（不依赖邮箱）。
+- **账号登录与跨浏览器同步（可选，需账号服务）**：部署了 `server/app.py` 的站点支持「用户名 + 密码」注册/登录，登录后「去过 / 赞过 / 不好」同步到服务器，换浏览器登录即可恢复；忘记密码用注册时下发的恢复码重置（不依赖邮箱）。**GitHub Pages 纯静态镜像没有后端**，会自动提示改用 localStorage + 导出/导入 JSON；不登录时两种部署都完全本地优先，不发任何网络请求。
 - **筛选**： 按类型、签证状态、资料等级筛选，支持名称/城市/国家搜索，并可「只看去过的」。
 - **数据可机读**：`data/china.json`、`data/world.json`；每个条目另有 Markdown 版本在 `entries/`。
 - **站点按需加载**：列表只取约 1.3 MB 的 `site/data/world-index.json`，点开条目时再取单条详情 `site/data/world/<id>.json`，慢网络下也能先看到列表。
@@ -77,7 +77,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **发布前结构校验**：`scripts/validate_data.py` 检查双语字段、坐标范围、图片/酒店数量与距离上限，硬错误会阻断每周发布。
 - **为什么不用数据库**：1,572 条记录在浏览器内筛选 <1 ms，静态 JSON + CDN 比 Neon 往返更快、更便宜；实测与取舍见 [`docs/neon-evaluation.md`](docs/neon-evaluation.md)。
 - **省 / 州编码来自 ISO 3166-2**：中国 359 条全部有编码；海外 1,213 条中约 86% 由 Wikidata P131/P300 或 Nominatim 反查得到，缺失时只显示国家，不阻断筛选。
-- **足迹标记以本机浏览器 localStorage 为主**，不是账号数据；可选连接自己的 GitHub Token 后在仓库 `sync/` 目录得到一人一份的云备份（详见站点内「☁ 云同步」），也可用导出/导入 JSON 手动搬运。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
+- **足迹标记以本机浏览器 localStorage 为主**；跨设备恢复优先用账号服务（需部署后端），也可用导出/导入 JSON 手动搬运。站点内「☁ 云同步」的 GitHub Token 备份仅对仓库协作者可用——普通访客的 PAT 无法给自己授权写入主仓库，界面会明确提示，详见 [deploy.md](deploy.md)。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
 
 ### 许可
 
@@ -101,7 +101,8 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **Bilingual UI** (Chinese/English) with a third block in the destination's official language when an official UNESCO or Wikipedia edition exists.
 - **Practical travel info**: every destination detail page shows the country's currency, plug types/voltage, time zone, traffic side, international dialing prefix and official languages (from mledoze/countries + curated IEC plug tables).
 - **One country → province/state cascade** for both datasets: country first, then an ISO 3166-2 first-level subdivision. China is fixed to "China → province"; overseas records use the destination country's subdivision.
-- **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage first). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter. Optional cloud backup per person via your own GitHub token (repo `sync/` directory, see "☁ Cloud sync" on the site), plus JSON export/import. Globe basemap: Natural Earth public-domain data; D3 Geo projects it locally.
+- **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage first). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter. With the account server deployed, sign in to sync marks across browsers; the static GitHub Pages mirror detects the missing backend and falls back to localStorage + JSON export/import. A GitHub-token backup exists too, but only works for repository collaborators — an ordinary visitor's PAT cannot grant itself write access to the main repo (see [deploy.md](deploy.md)). Globe basemap: Natural Earth public-domain data; D3 Geo projects it locally.
+- **Account sign-in and cross-browser sync (optional, requires the account server)**: username/password sign-up with a one-time recovery code; signed-in marks sync to the server and restore in another browser. Without signing in, and on the static mirror, everything stays local and no network request is made.
 - **Filters**: by category, visa status, record tier, plus free-text search and "visited only".
 - **Machine-readable** `data/china.json` and `data/world.json`; every record also has a Markdown mirror in `entries/`.
 - **On-demand site loading**: the list fetches a ~1.3 MB `world-index.json`; full details are fetched per record only when a card is opened, so slow connections see results immediately.

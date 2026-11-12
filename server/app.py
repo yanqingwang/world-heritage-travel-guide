@@ -38,6 +38,19 @@ app.config["MAX_CONTENT_LENGTH"] = 1 * 1024 * 1024
 log = logging.getLogger("whg")
 
 
+# The same frontend is also published as a *static* GitHub Pages build.  When
+# that build is opened with ?api=https://<this-server>, the browser needs CORS.
+# Sessions are bearer tokens in localStorage (never cookies), so a wildcard
+# origin is safe here; Flask answers OPTIONS preflights automatically.
+@app.after_request
+def _cors(resp):
+    resp.headers["Access-Control-Allow-Origin"] = "*"
+    resp.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
+    resp.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization"
+    resp.headers["Access-Control-Max-Age"] = "600"
+    return resp
+
+
 # ---------------------------------------------------------------- 存储
 
 def _now() -> str:
@@ -265,7 +278,7 @@ def put_marks():
 
 @app.get("/api/health")
 def health():
-    return jsonify({"ok": True, "service": "whg", "time": _now()})
+    return jsonify({"ok": True, "service": "whg", "capabilities": ["account", "marks"], "time": _now()})
 
 
 # ---------------------------------------------------------------- 静态站点
