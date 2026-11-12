@@ -27,9 +27,9 @@
  "local_lang": "fr",
  "local_lang_name": "French",
  "slug": "1755-royal_capetian_fortresses_of_languedoc",
- "lat": 38.64928390089582,
- "lon": 1.2061245243749985,
- "coord_accuracy": "country_centroid",
+ "lat": 43.2133,
+ "lon": 2.3508,
+ "coord_accuracy": "manual",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -91,41 +91,41 @@
  "transport": {
   "airports": [
    {
-    "name": "Ibiza Airport",
-    "iata": "IBZ",
-    "city": "Ibiza (Eivissa)",
-    "country": "ES",
-    "lat": 38.872898,
-    "lon": 1.37312,
-    "type": "large_airport",
-    "distance_km": 28.8,
-    "name_zh": "Ibiza（IBZ）"
+    "name": "Carcassonne Salvaza Airport",
+    "iata": "CCF",
+    "city": "Carcassonne",
+    "country": "FR",
+    "lat": 43.216,
+    "lon": 2.30632,
+    "type": "medium_airport",
+    "distance_km": 3.6,
+    "name_zh": "卡尔卡松机场"
    },
    {
-    "name": "Alicante-Elche Miguel Hernández Airport",
-    "iata": "ALC",
-    "city": "Alicante",
-    "country": "ES",
-    "lat": 38.2822,
-    "lon": -0.558156,
-    "type": "large_airport",
-    "distance_km": 158.9,
-    "name_zh": "阿利坎特"
+    "name": "Castres Mazamet Airport",
+    "iata": "DCM",
+    "city": "Castres",
+    "country": "FR",
+    "lat": 43.556301,
+    "lon": 2.28918,
+    "type": "medium_airport",
+    "distance_km": 38.5,
+    "name_zh": "卡斯特尔-马扎默机场"
    },
    {
-    "name": "Palma de Mallorca Airport",
-    "iata": "PMI",
-    "city": "Palma de Mallorca",
-    "country": "ES",
-    "lat": 39.551701,
-    "lon": 2.73881,
-    "type": "large_airport",
-    "distance_km": 166.0,
-    "name_zh": "马略卡岛帕尔马机场"
+    "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "iata": "PGF",
+    "city": "Perpignan/Rivesaltes",
+    "country": "FR",
+    "lat": 42.740398,
+    "lon": 2.87067,
+    "type": "medium_airport",
+    "distance_km": 67.5,
+    "name_zh": "佩皮尼昂-里沃萨尔特机场"
    }
   ],
-  "nearest_airport_km": 28.8,
-  "distance_beijing_km": 9046.1,
+  "nearest_airport_km": 3.6,
+  "distance_beijing_km": 8649.2,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -201,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:42:26Z"
+ "updated_at": "2026-11-12T14:36:34Z"
 }

@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(x)"
 lat: 42.845833333
 lon: 17.983888888
-updated_at: "2026-11-12T12:42:24Z"
+updated_at: "2026-11-12T14:36:33Z"
 ---
 
 # 拉夫诺的岩溶风洞 / Vjetrenica Cave, Ravno

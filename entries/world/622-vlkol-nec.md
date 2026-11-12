@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(v)"
 lat: 49.0397
 lon: 19.2784
-updated_at: "2026-11-12T12:42:03Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 伏尔考林耐克 / Vlkolínec

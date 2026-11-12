@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(viii)"
 lat: 48.110555555
 lon: -66.369444444
-updated_at: "2026-11-12T12:42:04Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 米瓜莎公园 / Miguasha National Park

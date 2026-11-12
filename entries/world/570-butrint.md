@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iii)"
 lat: 39.757066
 lon: 20.016628
-updated_at: "2026-11-12T12:42:02Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 布特林特 / Butrint

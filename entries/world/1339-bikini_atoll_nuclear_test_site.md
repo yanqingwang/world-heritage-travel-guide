@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iv)(vi)"
 lat: 11.6
 lon: 165.4
-updated_at: "2026-11-12T12:42:18Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 比基尼环礁核试验地 / Bikini Atoll Nuclear Test Site

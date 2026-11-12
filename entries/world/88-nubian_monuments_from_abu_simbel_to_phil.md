@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 22.33638889
 lon: 31.62611111
-updated_at: "2026-11-12T12:41:52Z"
+updated_at: "2026-11-12T14:36:20Z"
 ---
 
 # 阿布辛拜勒至菲莱的努比亚遗址 / Nubian Monuments from Abu Simbel to Philae

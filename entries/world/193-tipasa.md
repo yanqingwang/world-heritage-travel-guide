@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)"
 lat: 36.5951
 lon: 2.44077
-updated_at: "2026-11-12T12:41:55Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 提帕萨 / Tipasa

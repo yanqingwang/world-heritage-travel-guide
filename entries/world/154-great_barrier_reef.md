@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -16.4
 lon: 145.8
-updated_at: "2026-11-12T12:41:54Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 大堡礁 / Great Barrier Reef

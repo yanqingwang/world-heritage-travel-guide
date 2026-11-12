@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
-lat: 19.283347222142858
-lon: 106.81887417457145
-updated_at: "2026-11-12T12:42:03Z"
+lat: 16.4639
+lon: 107.5867
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments
@@ -61,10 +61,10 @@ Hoàng thành Huế (chữ Hán: 皇城) hay còn được gọi là Đại Nộ
 
 ## 交通 / Transport
 
-- ✈ **Vinh Airport (VII)** — 135.1 km
-- ✈ **Tho Xuan Airport (THD)** — 157.4 km
-- ✈ **Cat Bi International Airport (HPH)** — 170.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **2593.0 km**
+- ✈ **Phu Bai International Airport (HUI)** — 14.4 km
+- ✈ **Da Nang International Airport (DAD)** — 80.3 km
+- ✈ **Dong Hoi Airport (VDH)** — 157.7 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **2769.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

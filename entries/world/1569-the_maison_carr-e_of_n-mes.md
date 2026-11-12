@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 43.838194
 lon: 4.356111
-updated_at: "2026-11-12T12:42:22Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 尼姆方形神殿 / The Maison Carrée of Nîmes

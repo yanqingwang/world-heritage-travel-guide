@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iii)"
 lat: 2.583
 lon: -76.033
-updated_at: "2026-11-12T12:42:05Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 铁拉登特罗国家考古公园 / National Archeological Park of Tierradentro

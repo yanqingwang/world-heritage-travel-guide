@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(vi)"
 lat: -20.460555555
 lon: 57.313611111
-updated_at: "2026-11-12T12:42:16Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 莫纳山 / Le Morne Cultural Landscape

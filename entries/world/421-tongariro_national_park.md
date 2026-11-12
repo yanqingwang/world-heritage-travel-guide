@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(vi)(vii)(viii)"
 lat: -39.2
 lon: 175.583333
-updated_at: "2026-11-12T12:41:59Z"
+updated_at: "2026-11-12T14:36:23Z"
 ---
 
 # 汤加里罗国家公园 / Tongariro National Park

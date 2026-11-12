@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)"
 lat: 39.905571
 lon: -79.466476
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 弗兰克·劳埃德·赖特的20世纪建筑作品 / The 20th-Century Architecture of Frank Lloyd Wright

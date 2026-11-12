@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(vii)(ix)"
 lat: -3.64972222
 lon: -172.8575
-updated_at: "2026-11-12T12:42:17Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 菲尼克斯群岛保护区 / Phoenix Islands Protected Area

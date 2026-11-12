@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(vii)(ix)(x)"
 lat: 20.937222
 lon: 37.255278
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # Sanganeb国家海洋公园和Dungonab海湾—Mukkawar岛国家海洋公园 / Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park

@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iii)"
 lat: 24.756388888
 lon: 67.898611111
-updated_at: "2026-11-12T12:41:53Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 塔塔城的历史建筑 / Historical Monuments at Makli, Thatta

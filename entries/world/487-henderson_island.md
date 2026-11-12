@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(vii)(x)"
 lat: -24.375
 lon: -128.325
-updated_at: "2026-11-12T12:42:00Z"
+updated_at: "2026-11-12T14:36:23Z"
 ---
 
 # 享德森岛 / Henderson Island

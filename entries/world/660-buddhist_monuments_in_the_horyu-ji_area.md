@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.614275
 lon: 135.734236
-updated_at: "2026-11-12T12:42:03Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 法隆寺地区的佛教古迹 / Buddhist Monuments in the Horyu-ji Area

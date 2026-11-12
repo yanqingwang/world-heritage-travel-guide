@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(i)(ii)(iv)"
 lat: 50.4427
 lon: 18.85123
-updated_at: "2026-11-12T12:42:22Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 塔尔诺夫斯克山铅银锌矿及其地下水管理系统 / Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System

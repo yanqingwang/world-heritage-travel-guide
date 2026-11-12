@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(iv)"
 lat: 34.015363
 lon: 36.200556
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 巴勒贝克 / Baalbek

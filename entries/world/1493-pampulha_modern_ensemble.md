@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(ii)(iv)"
 lat: -19.851944444
 lon: -43.973611111
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 潘普利亚现代建筑 / Pampulha Modern Ensemble

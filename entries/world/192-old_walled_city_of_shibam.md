@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)(v)"
 lat: 15.926944444
 lon: 48.626666666
-updated_at: "2026-11-12T12:41:55Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 城墙环绕的希巴姆古城 / Old Walled City of Shibam

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(ii)(iv)"
 lat: 48.85
 lon: 2.35889
-updated_at: "2026-11-12T12:42:02Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 巴黎塞纳河畔 / Paris, Banks of the Seine

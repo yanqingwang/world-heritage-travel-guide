@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(iii)(iv)"
 lat: 37.023333333
 lon: -4.548055555
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 安特克拉石墓遗址 / Antequera Dolmens Site

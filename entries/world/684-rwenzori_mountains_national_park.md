@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(x)"
 lat: 0.4
 lon: 29.95
-updated_at: "2026-11-12T12:42:03Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 鲁文佐里山国家公园 / Rwenzori Mountains National Park

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 53.187375
 lon: 5.543752777
-updated_at: "2026-11-12T12:42:24Z"
+updated_at: "2026-11-12T14:36:33Z"
 ---
 
 # 弗拉讷克的艾辛哈天文馆 / Eisinga Planetarium in Franeker

@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(iv)(v)"
 lat: 31.63139
 lon: -7.98667
-updated_at: "2026-11-12T12:41:57Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 马拉柯什的阿拉伯人聚居区 / Medina of Marrakesh

@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(v)"
 lat: 8.7025
 lon: 38.608333333
-updated_at: "2026-11-12T12:41:51Z"
+updated_at: "2026-11-12T14:36:19Z"
 ---
 
 # 梅尔卡·昆图尔和巴尔奇特考古与古生物遗址 / Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia

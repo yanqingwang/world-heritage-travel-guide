@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(vii)(ix)"
 lat: 28.12625
 lon: -17.23722222
-updated_at: "2026-11-12T12:41:58Z"
+updated_at: "2026-11-12T14:36:23Z"
 ---
 
 # 加拉霍艾国家公园 / Garajonay National Park

@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)"
 lat: 29.3281
 lon: -98.46
-updated_at: "2026-11-12T12:42:20Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 圣安东尼奥布道区 / San Antonio Missions

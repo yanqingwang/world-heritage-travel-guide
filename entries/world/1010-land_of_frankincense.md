@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 18.253333333
 lon: 53.647591666
-updated_at: "2026-11-12T12:42:12Z"
+updated_at: "2026-11-12T14:36:28Z"
 ---
 
 # 乳香之路 / Land of Frankincense

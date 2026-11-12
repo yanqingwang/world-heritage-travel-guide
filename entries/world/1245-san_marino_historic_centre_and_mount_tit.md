@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)"
 lat: 43.93277778
 lon: 12.45194444
-updated_at: "2026-11-12T12:42:16Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 圣马力诺历史中心和蒂塔诺山 / San Marino Historic Centre and Mount Titano

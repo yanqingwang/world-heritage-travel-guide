@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)(vi)"
 lat: 23.6776
 lon: 87.6852
-updated_at: "2026-11-12T12:42:19Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 桑地尼克坦 / Santiniketan

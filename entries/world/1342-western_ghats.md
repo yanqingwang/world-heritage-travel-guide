@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ix)(x)"
 lat: 10.169722222
 lon: 77.061111111
-updated_at: "2026-11-12T12:42:18Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 西高止山脉 / Western Ghats

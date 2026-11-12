@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)"
 lat: 37.280733333
 lon: 127.010202777
-updated_at: "2026-11-12T12:42:07Z"
+updated_at: "2026-11-12T14:36:26Z"
 ---
 
 # 华松古堡 / Hwaseong Fortress

@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)"
 lat: 61.061992
 lon: 26.640016
-updated_at: "2026-11-12T12:42:05Z"
+updated_at: "2026-11-12T14:36:26Z"
 ---
 
 # 韦尔拉磨木纸板厂 / Verla Groundwood and Board Mill

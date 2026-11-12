@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 56.31035
 lon: 38.13065
-updated_at: "2026-11-12T12:42:03Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 谢尔吉圣三一大修道院 / Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad

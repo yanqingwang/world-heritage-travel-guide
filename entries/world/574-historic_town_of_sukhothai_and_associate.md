@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(iii)"
 lat: 17.02111111
 lon: 99.70361111
-updated_at: "2026-11-12T12:42:02Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 素可泰历史城镇及相关历史城镇 / Historic Town of Sukhothai and Associated Historic Towns

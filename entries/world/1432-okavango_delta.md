@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(vii)(ix)(x)"
 lat: -19.4
 lon: 22.9
-updated_at: "2026-11-12T12:42:20Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 奥卡万戈三角洲 / Okavango Delta

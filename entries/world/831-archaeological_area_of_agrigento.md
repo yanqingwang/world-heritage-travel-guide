@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.28972222
 lon: 13.59
-updated_at: "2026-11-12T12:42:07Z"
+updated_at: "2026-11-12T14:36:26Z"
 ---
 
 # 阿克里真托考古区 / Archaeological Area of Agrigento

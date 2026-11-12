@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ix)(x)"
 lat: -50.75
 lon: 166.104
-updated_at: "2026-11-12T12:42:09Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 新西兰次南极区群岛 / New Zealand Sub-Antarctic Islands

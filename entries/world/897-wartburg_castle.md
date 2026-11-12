@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: 50.966111111
 lon: 10.306388888
-updated_at: "2026-11-12T12:42:09Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 瓦尔特堡城堡 / Wartburg Castle

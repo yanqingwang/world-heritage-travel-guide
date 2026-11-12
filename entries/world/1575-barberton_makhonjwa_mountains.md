@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(viii)"
 lat: -33.4
 lon: 22.0
-updated_at: "2026-11-12T12:42:22Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 巴伯顿·玛空瓦山脉 / Barberton Makhonjwa Mountains

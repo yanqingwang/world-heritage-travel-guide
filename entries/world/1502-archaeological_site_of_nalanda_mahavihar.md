@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iv)(vi)"
 lat: 25.136797222
 lon: 85.443827777
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀 / Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar

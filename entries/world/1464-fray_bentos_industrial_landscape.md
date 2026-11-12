@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: -33.117778
 lon: -58.331667
-updated_at: "2026-11-12T12:42:20Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 弗莱本托斯文化工业景区 / Fray Bentos Industrial Landscape

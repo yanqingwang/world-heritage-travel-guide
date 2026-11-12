@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iii)"
 lat: -20.385773366
 lon: -43.503639899
-updated_at: "2026-11-12T12:41:53Z"
+updated_at: "2026-11-12T14:36:20Z"
 ---
 
 # 欧鲁普雷图历史名镇 / Historic Town of Ouro Preto

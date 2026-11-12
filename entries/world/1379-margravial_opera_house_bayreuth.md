@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(i)(iv)"
 lat: 49.944344697
 lon: 11.57866362
-updated_at: "2026-11-12T12:42:19Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 侯爵歌剧院 / Margravial Opera House Bayreuth

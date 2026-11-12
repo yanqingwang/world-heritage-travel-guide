@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)(v)"
 lat: 41.26
 lon: 32.68972
-updated_at: "2026-11-12T12:42:03Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 萨夫兰博卢城 / City of Safranbolu

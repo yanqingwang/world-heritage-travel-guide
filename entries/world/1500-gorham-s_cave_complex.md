@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)"
 lat: 36.1225
 lon: -5.341944444
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 戈勒姆洞穴群 / Gorham's Cave Complex

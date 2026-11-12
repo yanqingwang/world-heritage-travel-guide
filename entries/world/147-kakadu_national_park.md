@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(vi)(vii)(ix)(x)"
 lat: -13.0055
 lon: 132.5195
-updated_at: "2026-11-12T12:41:53Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 卡卡杜国家公园 / Kakadu National Park

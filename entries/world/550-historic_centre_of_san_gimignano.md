@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(iii)(iv)"
 lat: 43.467057116
 lon: 11.042804439
-updated_at: "2026-11-12T12:42:01Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 圣吉米尼亚诺历史中心 / Historic Centre of San Gimignano

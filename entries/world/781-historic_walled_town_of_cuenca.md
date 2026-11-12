@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(v)"
 lat: 40.0766
 lon: -2.13175
-updated_at: "2026-11-12T12:42:06Z"
+updated_at: "2026-11-12T14:36:26Z"
 ---
 
 # 城墙围绕的历史名城昆卡 / Historic Walled Town of Cuenca

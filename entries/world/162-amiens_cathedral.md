@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(ii)"
 lat: 49.89457
 lon: 2.3021
-updated_at: "2026-11-12T12:41:54Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 亚眠大教堂 / Amiens Cathedral

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(iv)"
 lat: 26.924722222
 lon: 75.825
-updated_at: "2026-11-12T12:42:18Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 简塔•曼塔天文台 / The Jantar Mantar, Jaipur

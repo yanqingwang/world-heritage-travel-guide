@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)(vi)"
 lat: 45.7683
 lon: 13.3675
-updated_at: "2026-11-12T12:42:07Z"
+updated_at: "2026-11-12T14:36:26Z"
 ---
 
 # 阿奎拉古迹区及长方形主教教堂 / Archaeological Area and the Patriarchal Basilica of Aquileia

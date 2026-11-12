@@ -12,9 +12,9 @@ tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(ii)(iii)(iv)"
-lat: 4.4615264666000005
-lon: 109.56984446659999
-updated_at: "2026-11-12T12:42:16Z"
+lat: 2.2
+lon: 102.25
+updated_at: "2026-11-12T14:36:29Z"
 ---
 
 # 马六甲海峡的历史名城：马六甲和乔治城 / Melaka and George Town, Historic Cities of the Straits of Malacca
@@ -55,10 +55,10 @@ Melaka and George Town, historic cities of the Straits of Malacca have developed
 
 ## 交通 / Transport
 
-- ✈ **Ranai Airport (NTX)** — 144.8 km
-- ✈ **Mukah Airport (MKM)** — 325.9 km
-- ✈ **Kuching International Airport (KCH)** — 341.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **4105.5 km**
+- ✈ **Malacca International Airport (MKZ)** — 7.3 km
+- ✈ **Kuala Lumpur International Airport (KUL)** — 85.3 km
+- ✈ **Pinang Kampai Airport (DUM)** — 112.0 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **4446.2 km**
 
 ## 附近酒店 / Nearby hotels
 

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)(vi)"
 lat: 26.2086
 lon: 127.683
-updated_at: "2026-11-12T12:42:11Z"
+updated_at: "2026-11-12T14:36:28Z"
 ---
 
 # 琉球王国时期的遗迹 / Gusuku Sites and Related Properties of the Kingdom of Ryukyu

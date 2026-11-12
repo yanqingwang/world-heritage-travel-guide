@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ix)(x)"
 lat: 0.088
 lon: 12.63
-updated_at: "2026-11-12T12:42:24Z"
+updated_at: "2026-11-12T14:36:33Z"
 ---
 
 # 伊温多国家公园 / Ivindo National Park

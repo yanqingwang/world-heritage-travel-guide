@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 35.658305555
 lon: 51.398333333
-updated_at: "2026-11-12T12:42:23Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 伊朗纵贯铁路 / Trans-Iranian Railway

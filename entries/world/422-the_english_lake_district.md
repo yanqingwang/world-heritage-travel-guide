@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(v)(vi)"
 lat: 54.5
 lon: -3.166666666
-updated_at: "2026-11-12T12:41:59Z"
+updated_at: "2026-11-12T14:36:23Z"
 ---
 
 # 英格兰湖区 / The English Lake District

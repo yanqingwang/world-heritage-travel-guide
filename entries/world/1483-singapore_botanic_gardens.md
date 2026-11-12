@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 1.3151
 lon: 103.8162
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 新加坡植物园 / Singapore Botanic Gardens

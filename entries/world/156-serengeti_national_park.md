@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(x)"
 lat: -2.4
 lon: 34.6
-updated_at: "2026-11-12T12:41:54Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 塞伦盖蒂国家公园 / Serengeti National Park

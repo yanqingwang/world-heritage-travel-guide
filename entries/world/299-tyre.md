@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(iii)(vi)"
 lat: 33.269167
 lon: 35.195833
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 提尔城 / Tyre

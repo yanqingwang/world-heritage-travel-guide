@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(iv)"
 lat: 25.111404
 lon: 55.838957
-updated_at: "2026-11-12T12:42:25Z"
+updated_at: "2026-11-12T14:36:34Z"
 ---
 
 # 法亚古地貌 / Faya Palaeolandscape

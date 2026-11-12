@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(iii)"
 lat: 44.3881219
 lon: 4.4161408
-updated_at: "2026-11-12T12:42:19Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 肖维岩洞 / Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche

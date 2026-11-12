@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 39.12583
 lon: 27.18
-updated_at: "2026-11-12T12:42:20Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 帕加马及其多层文化景观 / Pergamon and its Multi-Layered Cultural Landscape

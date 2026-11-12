@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(v)"
 lat: 67.063930555
 lon: -51.433205555
-updated_at: "2026-11-12T12:42:22Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 冰与海之间的因纽特人狩猎场阿斯维斯尤特–尼皮萨特 / Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea

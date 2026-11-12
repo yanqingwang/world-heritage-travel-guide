@@ -27,9 +27,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "1223-melaka_and_george_town,_historic_cities_",
- "lat": 4.4615264666000005,
- "lon": 109.56984446659999,
- "coord_accuracy": "country_centroid",
+ "lat": 2.2,
+ "lon": 102.25,
+ "coord_accuracy": "manual",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -91,41 +91,40 @@
  "transport": {
   "airports": [
    {
-    "name": "Ranai Airport",
-    "iata": "NTX",
-    "city": "Ranai-Natuna Besar Island",
-    "country": "ID",
-    "lat": 3.90871,
-    "lon": 108.388,
+    "name": "Malacca International Airport",
+    "iata": "MKZ",
+    "city": "Malacca",
+    "country": "MY",
+    "lat": 2.265613,
+    "lon": 102.252778,
     "type": "medium_airport",
-    "distance_km": 144.8,
-    "name_zh": "拉奈机场"
+    "distance_km": 7.3,
+    "name_zh": "马六甲国际机场"
    },
    {
-    "name": "Mukah Airport",
-    "iata": "MKM",
-    "city": "Mukah",
+    "name": "Kuala Lumpur International Airport",
+    "iata": "KUL",
+    "city": "Sepang",
     "country": "MY",
-    "lat": 2.881944,
-    "lon": 112.043333,
-    "type": "medium_airport",
-    "distance_km": 325.9,
-    "name_zh": "木胶机场"
-   },
-   {
-    "name": "Kuching International Airport",
-    "iata": "KCH",
-    "city": "Kuching",
-    "country": "MY",
-    "lat": 1.487364,
-    "lon": 110.352859,
+    "lat": 2.74558,
+    "lon": 101.709999,
     "type": "large_airport",
-    "distance_km": 341.9,
-    "name_zh": "古晋国际机场"
+    "distance_km": 85.3,
+    "name_zh": "吉隆坡国际机场"
+   },
+   {
+    "name": "Pinang Kampai Airport",
+    "iata": "DUM",
+    "city": "Dumai",
+    "country": "ID",
+    "lat": 1.609026,
+    "lon": 101.433493,
+    "type": "medium_airport",
+    "distance_km": 112.0
    }
   ],
-  "nearest_airport_km": 144.8,
-  "distance_beijing_km": 4105.5,
+  "nearest_airport_km": 7.3,
+  "distance_beijing_km": 4446.2,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -201,5 +200,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T12:42:16Z"
+ "updated_at": "2026-11-12T14:36:29Z"
 }

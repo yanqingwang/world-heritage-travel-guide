@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(ii)(iii)"
 lat: 22.699996
 lon: 59.369896
-updated_at: "2026-11-12T12:42:21Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 卡尔哈特古城 / Ancient City of Qalhat

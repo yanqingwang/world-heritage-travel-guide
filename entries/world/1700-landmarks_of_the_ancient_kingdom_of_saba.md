@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 15.426769444
 lon: 45.335227777
-updated_at: "2026-11-12T12:42:24Z"
+updated_at: "2026-11-12T14:36:33Z"
 ---
 
 # 马里卜示巴古国地标建筑 / Landmarks of the Ancient Kingdom of Saba, Marib

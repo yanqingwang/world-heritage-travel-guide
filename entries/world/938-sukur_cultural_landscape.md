@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(v)(vi)"
 lat: 10.740555555
 lon: 13.571666666
-updated_at: "2026-11-12T12:42:10Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 宿库卢文化景观 / Sukur Cultural Landscape

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 47.074166666667
 lon: 15.391666666667
-updated_at: "2026-11-12T12:42:10Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 格拉茨城历史中心与埃根博格城堡 / City of Graz – Historic Centre and Schloss Eggenberg

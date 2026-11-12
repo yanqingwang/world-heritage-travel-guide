@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(vi)"
 lat: 8.411388888
 lon: 99.966666666
-updated_at: "2026-11-12T12:42:26Z"
+updated_at: "2026-11-12T14:36:34Z"
 ---
 
 # 洛坤府的玛哈泰寺 / Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat

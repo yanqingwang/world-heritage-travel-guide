@@ -234,13 +234,30 @@
     }
     return "";
   }
+  // A serial property's pin sits at one component while UNESCO lists every
+  // nominating state party; naming only the first one can disagree with the
+  // coordinate (wh-1468 lists Germany first but the pin is in Denmark).
+  function countriesText(site) {
+    const lang = state.lang;
+    const list = (site.countries || [])
+      .map((c) => c[lang] || c.zh || c.en)
+      .filter(Boolean);
+    if (list.length > 3) {
+      return lang === "zh"
+        ? `${list.slice(0, 3).join(" / ")} 等 ${list.length} 国`
+        : `${list.slice(0, 3).join(" / ")} and ${list.length - 3} more`;
+    }
+    if (list.length > 1) return list.join(" / ");
+    return lang === "zh" ? (site.country_zh || site.country_en) : (site.country_en || site.country_zh);
+  }
   function locationLine(site) {
     if (site.dataset === "china_5a") {
       return state.lang === "zh"
         ? [site.province_zh, site.city_zh].filter(Boolean).join(" · ")
         : [site.province_en, site.city_en].filter(Boolean).join(" · ");
     }
-    const place = state.lang === "zh" ? site.country_zh : site.country_en;
+    const place = site.countries && site.countries.length ? countriesText(site)
+      : (state.lang === "zh" ? site.country_zh : site.country_en);
     return [place, site.region].filter(Boolean).join(" · ");
   }
   function categoryLabel(site) {
@@ -633,7 +650,7 @@
     const sec = secondaryName(site);
     $("#detail-kicker").textContent = site.dataset === "china_5a"
       ? `${locationLine(site)} · ${categoryLabel(site)}`
-      : `${state.lang === "zh" ? (site.country_zh || site.country_en) : (site.country_en || site.country_zh)} ${site.region ? "· " + site.region : ""} · ${categoryLabel(site)}`;
+      : `${countriesText(site)} ${site.region ? "· " + site.region : ""} · ${categoryLabel(site)}`;
     $("#detail-title").textContent = name;
     $("#detail-sub").textContent = sec || "";
     const body = [];

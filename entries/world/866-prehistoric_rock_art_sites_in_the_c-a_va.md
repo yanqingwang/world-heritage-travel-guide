@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(i)(iii)"
 lat: 41.03333333
 lon: -7.11666667
-updated_at: "2026-11-12T12:42:08Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 席尔加•维德（Siega Verde）岩石艺术考古区 / Prehistoric Rock Art Sites in the Côa Valley and Siega Verde

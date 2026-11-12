@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(i)(ii)(iv)"
 lat: 13.212453
 lon: 75.994072
-updated_at: "2026-11-12T12:42:24Z"
+updated_at: "2026-11-12T14:36:33Z"
 ---
 
 # 曷萨拉王朝神庙群 / Sacred Ensembles of the Hoysalas

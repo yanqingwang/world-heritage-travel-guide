@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iii)(iv)(v)(vi)"
 lat: 44.83777778
 lon: 11.61944444
-updated_at: "2026-11-12T12:42:05Z"
+updated_at: "2026-11-12T14:36:25Z"
 ---
 
 # 文艺复兴城市费拉拉城以及波河三角洲 / Ferrara, City of the Renaissance, and its Po Delta

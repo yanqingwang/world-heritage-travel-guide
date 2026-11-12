@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 43.9473
 lon: 4.5355
-updated_at: "2026-11-12T12:41:57Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 加德桥（罗马式水渠） / Pont du Gard (Roman Aqueduct)

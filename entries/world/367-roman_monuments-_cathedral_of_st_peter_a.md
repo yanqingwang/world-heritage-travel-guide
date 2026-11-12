@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 49.75
 lon: 6.63306
-updated_at: "2026-11-12T12:41:58Z"
+updated_at: "2026-11-12T14:36:23Z"
 ---
 
 # 特里尔的古罗马建筑、圣彼得大教堂和圣玛利亚教堂 / Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier

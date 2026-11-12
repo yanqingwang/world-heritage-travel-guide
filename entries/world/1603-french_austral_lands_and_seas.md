@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(vii)(ix)(x)"
 lat: -49.1397
 lon: 69.5811
-updated_at: "2026-11-12T12:42:23Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 法属南部领地和领海 / French Austral Lands and Seas

@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)(vi)"
 lat: 21.4833
 lon: 39.2
-updated_at: "2026-11-12T12:42:18Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 吉达历史古城（通往麦加之门） / Historic Jeddah, the Gate to Makkah

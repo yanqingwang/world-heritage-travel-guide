@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(ix)(x)"
 lat: 18.0
 lon: 9.0
-updated_at: "2026-11-12T12:42:02Z"
+updated_at: "2026-11-12T14:36:24Z"
 ---
 
 # 阿德尔和泰内雷自然保护区 / Air and Ténéré Natural Reserves

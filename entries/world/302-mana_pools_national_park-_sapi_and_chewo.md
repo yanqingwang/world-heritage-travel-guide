@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(ix)(x)"
 lat: -15.81944444
 lon: 29.40805556
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 马纳波尔斯国家公园、萨比和切俄雷自然保护区 / Mana Pools National Park, Sapi and Chewore Safari Areas

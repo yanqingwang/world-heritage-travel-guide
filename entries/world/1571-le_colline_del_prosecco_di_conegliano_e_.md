@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(v)"
 lat: 45.953
 lon: 12.2261
-updated_at: "2026-11-12T12:42:22Z"
+updated_at: "2026-11-12T14:36:32Z"
 ---
 
 # 科内利亚诺和瓦尔多比亚德内的普罗赛柯产地 / Le Colline del Prosecco di Conegliano e Valdobbiadene

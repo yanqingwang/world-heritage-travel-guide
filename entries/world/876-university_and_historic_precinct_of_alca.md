@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)(vi)"
 lat: 40.482925
 lon: -3.363131
-updated_at: "2026-11-12T12:42:09Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 埃纳雷斯堡大学城及历史区 / University and Historic Precinct of Alcalá de Henares

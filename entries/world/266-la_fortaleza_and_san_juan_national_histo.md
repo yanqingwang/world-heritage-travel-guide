@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vi)"
 lat: 18.46388889
 lon: -66.11916667
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 波多黎各的古堡与圣胡安历史遗址 / La Fortaleza and San Juan National Historic Site in Puerto Rico

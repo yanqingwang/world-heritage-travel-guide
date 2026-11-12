@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: -18.25
 lon: -69.59166667
-updated_at: "2026-11-12T12:42:20Z"
+updated_at: "2026-11-12T14:36:31Z"
 ---
 
 # 印加路网 / Qhapaq Ñan, Andean Road System

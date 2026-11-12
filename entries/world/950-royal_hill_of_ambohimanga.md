@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: -18.759167
 lon: 47.562778
-updated_at: "2026-11-12T12:42:10Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 安布希曼加的皇家蓝山行宫 / Royal Hill of Ambohimanga

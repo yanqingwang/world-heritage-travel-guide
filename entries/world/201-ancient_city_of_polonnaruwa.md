@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(iii)(vi)"
 lat: 7.933333333
 lon: 81.0
-updated_at: "2026-11-12T12:41:55Z"
+updated_at: "2026-11-12T14:36:21Z"
 ---
 
 # 波隆纳鲁沃古城 / Ancient City of Polonnaruwa

@@ -134,6 +134,15 @@ def image_from_p18(filename: str) -> dict | None:
     }
 
 
+# Sites where the country-centroid fallback puts the pin in the sea or far
+# from any component of a multi-site property.  Coordinates are the main city
+# (Melaka) or the first listed component, checked against Wikipedia.
+COORD_FIX = {
+    "1223": (2.2, 102.25),        # Melaka; centroid landed in the South China Sea
+    "678": (16.4639, 107.5867),   # Huế; centroid landed in the Gulf of Tonkin
+    "1755": (43.2133, 2.3508),    # Carcassonne; centroid landed in the Mediterranean
+}
+
 # Curated Chinese names for properties whose Wikidata item / Wikipedia langlinks
 # do not carry a zh label (often because UNESCO's Wikidata id points at a
 # sub-entity such as a park rather than the property itself).  These are the
@@ -214,6 +223,13 @@ NAME_ZH_FIX = {
     "1535": "「神宿之岛」宗像·冲之岛及相关遗产群",
     "1605": "斋浦尔城",
     "1702": "拉希德·卡拉米国际博览会（的黎波里）",
+}
+
+# UNESCO's own Arabic edition truncates this title mid-parenthesis ("(المملكة
+# العربية" with no closing bracket), and the live ar page shows it truncated
+# too — so the data is not recoverable upstream.  Drop the incomplete tail.
+NAME_LOCAL_FIX = {
+    "1712": "المنظر الثقافي لمنطقة الفاو الأثرية",
 }
 
 INTRO_ZH_FIX = {
@@ -343,6 +359,13 @@ def main() -> int:
         if lat is None and primary in centroids:
             lat, lon = centroids[primary]
             coord_accuracy = "country_centroid"
+        if sid in COORD_FIX:
+            # A country centroid is a mean of the state party's sites, so for
+            # coastal states it can land in open water (wh-1223 sat in the
+            # South China Sea, ~350 km from Melaka).  Use a real city
+            # coordinate instead.
+            lat, lon = COORD_FIX[sid]
+            coord_accuracy = "manual"
 
         name_en = strip_html(site.get("name", {}).get("en", ""))
         name_zh_raw = site.get("name", {}).get("zh")
@@ -383,6 +406,8 @@ def main() -> int:
         local_lang = w.get("local_lang") or prev_site.get("local_lang")
         local_lang_name = LANG_NAME_EN.get(local_lang or "", local_lang or "") or prev_site.get("local_lang_name")
         name_local = strip_html(w.get("name_local")) or prev_site.get("name_local")
+        if sid in NAME_LOCAL_FIX:
+            name_local = NAME_LOCAL_FIX[sid]
         intro_local = strip_html(w.get("intro_local")) or prev_site.get("intro_local")
         local_source = w.get("local_source") or prev_site.get("intro_local_source")
 

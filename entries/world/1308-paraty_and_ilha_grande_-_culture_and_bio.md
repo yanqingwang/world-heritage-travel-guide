@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(v)(x)"
 lat: -23.0186
 lon: -44.6854
-updated_at: "2026-11-12T12:42:17Z"
+updated_at: "2026-11-12T14:36:30Z"
 ---
 
 # 帕拉蒂和格兰德岛-文化与生物多样性 / Paraty and Ilha Grande – Culture and Biodiversity

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 45.763056
 lon: 4.828056
-updated_at: "2026-11-12T12:42:08Z"
+updated_at: "2026-11-12T14:36:27Z"
 ---
 
 # 里昂历史遗迹 / Historic Site of Lyon

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)"
 lat: 46.948055555
 lon: 7.450277777
-updated_at: "2026-11-12T12:41:56Z"
+updated_at: "2026-11-12T14:36:22Z"
 ---
 
 # 伯尔尼古城 / Old City of Berne
