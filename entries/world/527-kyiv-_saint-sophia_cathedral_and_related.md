@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 50.45258
 lon: 30.51686
-updated_at: "2026-11-12T11:25:20Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 基辅：圣•索菲娅教堂和佩乔尔斯克修道院 / Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 4.0425
 lon: 114.8125
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 穆鲁山国家公园 / Gunung Mulu National Park

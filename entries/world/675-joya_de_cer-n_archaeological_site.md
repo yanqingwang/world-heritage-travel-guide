@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iii)(iv)"
 lat: 13.827494444
 lon: -89.356158333
-updated_at: "2026-11-12T11:25:21Z"
+updated_at: "2026-11-12T11:30:15Z"
 ---
 
 # 霍亚－德赛伦考古遗址 / Joya de Cerén Archaeological Site

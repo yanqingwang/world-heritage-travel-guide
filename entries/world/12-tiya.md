@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iv)"
 lat: 8.43491667
 lon: 38.61211111
-updated_at: "2026-11-12T11:25:14Z"
+updated_at: "2026-11-12T11:30:10Z"
 ---
 
 # 蒂亚 / Tiya

@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(ii)(iii)(iv)"
 lat: 37.074
 lon: 22.3673
-updated_at: "2026-11-12T11:25:19Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 米斯特拉斯考古遗址 / Archaeological Site of Mystras

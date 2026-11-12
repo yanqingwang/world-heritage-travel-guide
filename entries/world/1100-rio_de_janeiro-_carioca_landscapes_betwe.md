@@ -3,7 +3,7 @@ id: "wh-1100"
 dataset: "unesco"
 name_zh: "里约热内卢：山与海之间的卡里奥克景观"
 name_en: "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea"
-name_local: ""
+name_local: "Floresta da Tijuca"
 country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)(vi)"
 lat: -22.963
 lon: -43.245
-updated_at: "2026-11-12T11:25:26Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 里约热内卢：山与海之间的卡里奥克景观 / Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea
@@ -43,6 +43,12 @@ The site consists of an exceptional urban setting encompassing the key natural e
 
 *中文简介：机器翻译。*
 
+## 本地语言 / Local language (Portuguese)
+
+**Floresta da Tijuca**
+
+Parque Nacional da Tijuca é uma unidade de conservação brasileira de proteção integral da natureza localizada integralmente na cidade do Rio de Janeiro. Entre os pontos turísticos do parque, trilhas, grutas e cachoeiras, encontram-se marcos famosos da cidade, como a Pedra da Gávea, o Corcovado, e o Pico da Tijuca, ponto mais alto do parque, elevando-se 1 022 metros acima do nível do mar. De relevo montanhoso, inclui áreas do Maciço da Tijuca. É administrado pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). A área é composta por vegetação secundária, uma vez que é fruto de um reflorestamento promovido à época do Segundo Reinado, quando se tornou patente que o desmatamento causado pelas fazendas de café estava prejudicando o abastecimento de água potável da então capital do Império. Vivem, no parque, mais de 230 espécies de animais e aves: entre eles, macaco-prego, quati, cutia, cachorro-do-mato, sagui, beija-flor e sabiá. O parque, que possui 3 972 hectares, é a quarta maior área verde urbana do país, superada apenas pelo Parque Estadual da Cantareira (7 916,52 hectares), da Reserva Floresta Adolfo Ducke (10 000 hectares) em Manaus e do Parque Estadual da Pedra Branca (12 500 hectares).
+
 ## 交通 / Transport
 
 - ✈ **Santos Dumont Airport (SDU)** — 10.2 km
@@ -60,7 +66,7 @@ Visa not required[6] Visa-exemption up to 30 days in 12 months until 31 Dec 2026
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: en, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 

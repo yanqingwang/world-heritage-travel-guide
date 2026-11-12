@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(viii)"
 lat: 64.5
 lon: -17.0
-updated_at: "2026-11-12T11:25:31Z"
+updated_at: "2026-11-12T11:30:24Z"
 ---
 
 # 瓦特纳冰川国家公园-火与冰的动态 / Vatnajökull National Park - Dynamic Nature of Fire and Ice

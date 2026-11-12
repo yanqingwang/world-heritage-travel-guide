@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)(vi)"
 lat: 53.222877777
 lon: 26.691736111
-updated_at: "2026-11-12T11:25:27Z"
+updated_at: "2026-11-12T11:30:20Z"
 ---
 
 # 涅斯维日的拉济维乌家族城堡建筑群 / Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh

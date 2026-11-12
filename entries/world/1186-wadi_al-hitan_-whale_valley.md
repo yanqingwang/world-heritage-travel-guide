@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(viii)"
 lat: 29.270833333
 lon: 30.043888888
-updated_at: "2026-11-12T11:25:26Z"
+updated_at: "2026-11-12T11:30:20Z"
 ---
 
 # 鲸鱼峡谷 / Wadi Al-Hitan (Whale Valley)

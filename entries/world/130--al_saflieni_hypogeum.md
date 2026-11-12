@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)"
 lat: 35.869558333
 lon: 14.506883333
-updated_at: "2026-11-12T11:25:15Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 哈尔•萨夫列尼地下宫殿 / Ħal Saflieni Hypogeum

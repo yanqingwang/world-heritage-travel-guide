@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)"
 lat: 32.80528
 lon: 12.485
-updated_at: "2026-11-12T11:25:16Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 萨布拉塔考古遗址 / Archaeological Site of Sabratha

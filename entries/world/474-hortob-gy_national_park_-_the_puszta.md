@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iv)(v)"
 lat: 47.59458
 lon: 21.15678
-updated_at: "2026-11-12T11:25:19Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 霍尔托巴吉国家公园 / Hortobágy National Park - the Puszta

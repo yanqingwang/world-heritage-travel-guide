@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 22.75877910565116
 lon: 78.97488981386047
-updated_at: "2026-11-12T11:25:24Z"
+updated_at: "2026-11-12T11:30:18Z"
 ---
 
 # 印度山区铁路 / Mountain Railways of India

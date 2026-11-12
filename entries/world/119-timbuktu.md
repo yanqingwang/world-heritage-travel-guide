@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ii)(iv)(v)"
 lat: 16.77348
 lon: -3.00742
-updated_at: "2026-11-12T11:25:15Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 廷巴克图 / Timbuktu

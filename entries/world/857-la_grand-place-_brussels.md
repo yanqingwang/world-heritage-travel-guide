@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 50.84670775
 lon: 4.35253815
-updated_at: "2026-11-12T11:25:23Z"
+updated_at: "2026-11-12T11:30:17Z"
 ---
 
 # 布鲁塞尔大广场 / La Grand-Place, Brussels

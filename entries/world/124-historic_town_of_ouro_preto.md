@@ -3,7 +3,7 @@ id: "wh-124"
 dataset: "unesco"
 name_zh: "欧鲁普雷图历史名镇"
 name_en: "Historic Town of Ouro Preto"
-name_local: ""
+name_local: "Cidade Histórica de Ouro Preto"
 country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iii)"
 lat: -20.385773366
 lon: -43.503639899
-updated_at: "2026-11-12T11:25:15Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 欧鲁普雷图历史名镇 / Historic Town of Ouro Preto
@@ -41,6 +41,12 @@ updated_at: "2026-11-12T11:25:15Z"
 
 Founded at the end of the 17th century, Ouro Preto (Black Gold) was the focal point of the gold rush and Brazil’s golden age in the 18th century. With the exhaustion of the gold mines in the 19th century, the city’s influence declined but many churches, bridges and fountains remain as a testimony to its past prosperity and the exceptional talent of the Baroque sculptor Aleijadinho.
 
+## 本地语言 / Local language (Portuguese)
+
+**Cidade Histórica de Ouro Preto**
+
+Ouro Preto é um município brasileiro do estado de Minas Gerais, Região Sudeste do país. Localiza-se a cerca de 100 km a sudeste da capital estadual. Ocupa uma área de aproximadamente 1 250 km², sendo que 23 km² estão em área urbana, e sua população foi estimada em 77 914 habitantes em 2025. Situa-se na latitude 20º23'08" sul, longitude 43º30'29" oeste e altitude média de 1 179 metros. No município há treze distritos: Amarantina, Antônio Pereira, Cachoeira do Campo, Engenheiro Correia, Glaura, Lavras Novas, Miguel Burnier, Santa Rita de Ouro Preto, Santo Antônio do Leite, Santo Antônio do Salto, São Bartolomeu e Rodrigo Silva, além da sede. Ouro Preto localiza-se em uma das principais áreas do ciclo do ouro.Oficialmente, foram enviadas a Portugal 800 toneladas de ouro no século XVIII, isso sem contar o que circulou de maneira ilegal, nem o que permaneceu na colônia, como por exemplo o ouro empregado na ornamentação das igrejas. O município chegou a ser uma das cidades mais populosas da América, contando com cerca de 40 mil pessoas em 1730 e, décadas após, 80 mil, mas é bom lembrar que a área de Villa Rica/Ouro Preto era muito maior englobando as atuais Congonhas, Ouro Branco e Itabirito. Àquela época, a população de Nova York era de menos da metade desse número de habitantes e a população de São Paulo não ultrapassava 8 mil. A Cidade Histórica foi o primeiro sítio brasileiro con
+
 ## 交通 / Transport
 
 - ✈ **Tancredo Neves International Airport (CNF)** — 96.4 km
@@ -58,7 +64,7 @@ Visa not required[6] Visa-exemption up to 30 days in 12 months until 31 Dec 2026
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

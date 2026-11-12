@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(v)"
 lat: 42.350092
 lon: -3.519466
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 阿塔皮尔卡考古遗址 / Archaeological Site of Atapuerca

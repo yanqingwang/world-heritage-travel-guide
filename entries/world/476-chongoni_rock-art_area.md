@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(iii)(vi)"
 lat: -14.293333333
 lon: 34.279166666
-updated_at: "2026-11-12T11:25:19Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 琼戈尼岩石艺术区 / Chongoni Rock-Art Area

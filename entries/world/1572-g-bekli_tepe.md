@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(i)(ii)(iv)"
 lat: 37.223055555
 lon: 38.9225
-updated_at: "2026-11-12T11:25:31Z"
+updated_at: "2026-11-12T11:30:23Z"
 ---
 
 # 哥贝克力石阵 / Göbekli Tepe

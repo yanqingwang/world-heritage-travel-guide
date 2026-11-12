@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iv)"
 lat: 22.9644
 lon: 57.3007
-updated_at: "2026-11-12T11:25:19Z"
+updated_at: "2026-11-12T11:30:13Z"
 ---
 
 # 巴赫莱要塞 / Bahla Fort

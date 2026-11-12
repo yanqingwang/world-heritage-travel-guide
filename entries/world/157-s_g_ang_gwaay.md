@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iii)"
 lat: 52.098888888
 lon: -131.2175
-updated_at: "2026-11-12T11:25:16Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 安东尼岛 / S G ang Gwaay

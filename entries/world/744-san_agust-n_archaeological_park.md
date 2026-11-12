@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iii)"
 lat: 1.884444444
 lon: -76.296111111
-updated_at: "2026-11-12T11:25:22Z"
+updated_at: "2026-11-12T11:30:16Z"
 ---
 
 # 圣奥古斯丁考古公园 / San Agustín Archaeological Park

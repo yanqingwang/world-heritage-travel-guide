@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 48.36444
 lon: 15.43417
-updated_at: "2026-11-12T11:25:24Z"
+updated_at: "2026-11-12T11:30:18Z"
 ---
 
 # 瓦豪文化景观 / Wachau Cultural Landscape

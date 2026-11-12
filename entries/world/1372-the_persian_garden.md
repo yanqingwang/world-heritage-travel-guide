@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 33.61440442844444
 lon: 51.4889180087037
-updated_at: "2026-11-12T11:25:28Z"
+updated_at: "2026-11-12T11:30:22Z"
 ---
 
 # 波斯园林 / The Persian Garden

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: -15.93328
 lon: -50.13336
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 戈亚斯城历史中心 / Historic Centre of the Town of Goiás

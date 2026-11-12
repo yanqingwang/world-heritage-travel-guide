@@ -3,7 +3,7 @@ id: "wh-1647"
 dataset: "unesco"
 name_zh: "豪拉曼/乌拉玛纳特文化景观"
 name_en: "Cultural Landscape of Hawraman/Uramanat"
-name_local: ""
+name_local: "منظر فرهنگی اورامانات"
 country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(v)"
 lat: 35.107358333
 lon: 46.47785
-updated_at: "2026-11-12T11:25:32Z"
+updated_at: "2026-11-12T11:30:24Z"
 ---
 
 # 豪拉曼/乌拉玛纳特文化景观 / Cultural Landscape of Hawraman/Uramanat
@@ -41,6 +41,12 @@ updated_at: "2026-11-12T11:25:32Z"
 
 The remote and mountainous landscape of Hawraman/Uramanat bears testimony to the traditional culture of the Hawrami people, an agropastoral Kurdish tribe that has inhabited the region since about 3000 BCE. The property, at the heart of the Zagros Mountains in the provinces of Kurdistan and Kermanshah along the western border of Iran, encompasses two components: the Central-Eastern Valley (Zhaverud and Takht, in Kurdistan Province); and the Western Valley (Lahun, in Kermanshah Province). The mode of human habitation in these two valleys has been adapted over millennia to the rough mountainous environment. Tiered steep-slope planning and architecture, gardening on dry-stone terraces, livestock breeding, and seasonal vertical migration are among the distinctive features of the local culture and life of the semi-nomadic Hawrami people who dwell in lowlands and highlands during different seasons of each year. Their uninterrupted presence in the landscape, which is also characterized by exceptional biodiversity and endemism, is evidenced by stone tools, caves and rock shelters, mounds, remnants of permanent and temporary settlement sites, and workshops, cemeteries, roads, villages, castles, and more. The 12 villages included in the property illustrate the Hawrami people’s evolving responses to the scarcity of productive land in their mountainous environment through the millennia.
 
+## 本地语言 / Local language (Persian)
+
+**منظر فرهنگی اورامانات**
+
+اورامان یا هورامان (به کردی: هه‌ورامان)(به لاتین: Hewraman) نام منطقه‌ای کوهستانی در غرب ایران و شرق عراق است که ساکنان آن کُرد هستند و به گویش‌های هورامی سخن می‌گویند. پیشینه سکونت در این منطقه به پیش از تاریخ برمی‌گردد که کشف قباله‌های اورامان وجود حاکمیت آشوریان، مادها، هخامنشیان و یونانیان را تأیید کرده است. کهن‌ترین آثار سکونت انسان در بررسی‌ها و کاوش‌های باستان‌شناسی در اطراف روستای هجیج یافت شده و مربوط به دوران پارینه‌سنگی است که طبق گزارش باستان‌شناسان بیش از ۴۰ هزار سال تا حدود ۱۲هزار سال قدمت دارند. معماری پلکانی اورامان تخت و خانه‌های دیدنی آن، روستا را به‌شکل هرم‌گونه درآورده است که در راس این هرم قلعه‌ای باستانی قرار دارد. منطقه اورامانات منطقه‌ای فرهنگی در غرب کشور بین دو استان کردستان و کرمانشاه واقع شده که دارای کوه‌ها و رودهای خروشان است. وجود این عوامل طبیعی دره‌هایی را شکل داده که ساکنان اورامانات، هزاران سال در تعامل با طبیعت زندگی کرده و این تعامل را می‌توان در باغ‌های پلکانی، معماری پلکانی زندگی هوار نشینی (کوچ گاه‌های موقت)، جشن‌ها و آیین‌های اصیل، صنایع‌دستی منحصر بفرد منطقه و… مشاهده کرد. این محدوده شامل بیش از ۷۰۰ روستا، شهر و شهرستان از جمله سروآباد، قسمتی از سنندج و کامیاران در استان کردستان و شهرستان، پاوه در استان کرمانشاه و همچنین بخشی از آن مربوط به استان سلیمانیه در کشور عراق است. اورامانات بیست و ششمین اثر جهانی از ایران است که در فهرست میراث جهانی یونسکو ثبت شده است. پیش از این «منظر فرهنگی بم» و «منظر فرهنگی میمند» در این فهرست جای‌داده شده
+
 ## 交通 / Transport
 
 - ✈ **Sanandaj Airport (SDG)** — 50.7 km
@@ -58,7 +64,7 @@ Visa not required[6][60] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

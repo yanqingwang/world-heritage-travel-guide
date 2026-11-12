@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)"
 lat: 3.233333333
 lon: 101.633333333
-updated_at: "2026-11-12T11:25:33Z"
+updated_at: "2026-11-12T11:30:25Z"
 ---
 
 # 马来西亚森林研究院雪兰莪森林公园 / Forest Research Institute Malaysia Forest Park Selangor

@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)"
 lat: 61.46139153783333
 lon: 23.42446484066667
-updated_at: "2026-11-12T11:25:37Z"
+updated_at: "2026-11-12T11:30:25Z"
 ---
 
 # 阿尔托作品 / Aalto Works

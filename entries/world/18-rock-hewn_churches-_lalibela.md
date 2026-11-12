@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(i)(ii)(iii)"
 lat: 12.02935
 lon: 39.04042
-updated_at: "2026-11-12T11:25:14Z"
+updated_at: "2026-11-12T11:30:10Z"
 ---
 
 # 拉利贝拉岩石教堂 / Rock-Hewn Churches, Lalibela

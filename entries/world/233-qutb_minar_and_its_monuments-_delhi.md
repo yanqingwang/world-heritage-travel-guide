@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 28.524382
 lon: 77.18543
-updated_at: "2026-11-12T11:25:17Z"
+updated_at: "2026-11-12T11:30:12Z"
 ---
 
 # 德里的顾特卜塔及其古建筑 / Qutb Minar and its Monuments, Delhi

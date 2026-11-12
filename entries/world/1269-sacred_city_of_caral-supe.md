@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(ii)(iii)(iv)"
 lat: -10.893611111
 lon: -77.520277777
-updated_at: "2026-11-12T11:25:27Z"
+updated_at: "2026-11-12T11:30:21Z"
 ---
 
 # 卡拉尔-苏佩圣城 / Sacred City of Caral-Supe

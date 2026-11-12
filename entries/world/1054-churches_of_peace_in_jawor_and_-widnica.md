@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: 51.053914
 lon: 16.189041
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 扎沃尔和思维得尼加的和平教堂 / Churches of Peace in Jawor and Świdnica

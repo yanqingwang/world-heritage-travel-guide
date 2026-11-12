@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iii)"
 lat: 36.063777777
 lon: -107.970833333
-updated_at: "2026-11-12T11:25:18Z"
+updated_at: "2026-11-12T11:30:13Z"
 ---
 
 # 查科文化国家历史公园 / Chaco Culture

@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)(v)"
 lat: 31.900555555
 lon: 54.369583333
-updated_at: "2026-11-12T11:25:30Z"
+updated_at: "2026-11-12T11:30:23Z"
 ---
 
 # 亚兹德历史城 / Historic City of Yazd

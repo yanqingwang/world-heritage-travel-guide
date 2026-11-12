@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(iv)"
 lat: 47.180789
 lon: 23.159411
-updated_at: "2026-11-12T11:25:33Z"
+updated_at: "2026-11-12T11:30:25Z"
 ---
 
 # 罗马帝国的边疆——达契亚 / Frontiers of the Roman Empire – Dacia

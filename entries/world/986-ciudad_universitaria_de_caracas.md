@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: 10.490833333
 lon: -66.890555555
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:18Z"
 ---
 
 # 加拉加斯大学城 / Ciudad Universitaria de Caracas

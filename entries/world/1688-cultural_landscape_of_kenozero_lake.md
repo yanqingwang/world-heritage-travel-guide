@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)"
 lat: 61.928
 lon: 38.172611
-updated_at: "2026-11-12T11:25:32Z"
+updated_at: "2026-11-12T11:30:24Z"
 ---
 
 # 克诺泽罗湖区历史见证 / Cultural Landscape of Kenozero Lake

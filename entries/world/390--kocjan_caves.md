@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(vii)(viii)"
 lat: 45.665
 lon: 13.99472
-updated_at: "2026-11-12T11:25:18Z"
+updated_at: "2026-11-12T11:30:13Z"
 ---
 
 # 斯科契扬溶洞 / Škocjan Caves

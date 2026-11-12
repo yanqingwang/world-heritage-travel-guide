@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(vi)"
 lat: 42.325833333
 lon: -2.86505
-updated_at: "2026-11-12T11:25:22Z"
+updated_at: "2026-11-12T11:30:17Z"
 ---
 
 # 圣米延尤索和素索修道院 / San Millán Yuso and Suso Monasteries

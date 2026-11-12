@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(i)(iii)"
 lat: 40.053658333
 lon: -82.446061111
-updated_at: "2026-11-12T11:25:32Z"
+updated_at: "2026-11-12T11:30:24Z"
 ---
 
 # 霍普维尔仪式用土筑 / Hopewell Ceremonial Earthworks

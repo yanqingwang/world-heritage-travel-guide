@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(v)"
 lat: 32.487222222
 lon: 3.681388888
-updated_at: "2026-11-12T11:25:16Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 姆扎卜山谷 / M'Zab Valley

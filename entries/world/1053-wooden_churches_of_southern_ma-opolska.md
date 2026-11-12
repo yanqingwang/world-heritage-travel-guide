@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(iv)"
 lat: 49.630591
 lon: 21.186051
-updated_at: "2026-11-12T11:25:25Z"
+updated_at: "2026-11-12T11:30:19Z"
 ---
 
 # 南部小波兰木制教堂 / Wooden Churches of Southern Małopolska

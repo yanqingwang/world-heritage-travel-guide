@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 51.47777778
 lon: 0.0
-updated_at: "2026-11-12T11:25:22Z"
+updated_at: "2026-11-12T11:30:17Z"
 ---
 
 # 格林威治海岸地区 / Maritime Greenwich

@@ -68,6 +68,15 @@ def main() -> int:
         for sid, title in pairs:
             text = extracts.get(title)
             if not text:
+                # Wikipedia normalises titles (case, spacing, underscores) and
+                # may follow a redirect, so an exact-key miss is common even
+                # when the extract exists.  Retry with a one-title query and
+                # accept whatever single page comes back.
+                text = fetch_extracts(wiki, [title]).get(title)
+            if not text:
+                single = fetch_extracts(wiki, [title])
+                text = next(iter(single.values()), None)
+            if not text:
                 continue
             rec = items[sid]
             rec["intro_local"] = text[:1400]

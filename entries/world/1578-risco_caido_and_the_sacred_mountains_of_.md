@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(v)"
 lat: 28.043558333
 lon: -15.661255555
-updated_at: "2026-11-12T11:25:31Z"
+updated_at: "2026-11-12T11:30:23Z"
 ---
 
 # 大加那利岛文化景观：里斯科卡伊多考古和圣山 / Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape

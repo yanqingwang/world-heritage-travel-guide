@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 42.43
 lon: 18.77
-updated_at: "2026-11-12T11:25:15Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 科托尔自然保护区和文化历史区 / Natural and Culturo-Historical Region of Kotor

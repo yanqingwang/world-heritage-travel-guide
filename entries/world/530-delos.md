@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.38948
 lon: 25.26904
-updated_at: "2026-11-12T11:25:20Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 提洛岛 / Delos

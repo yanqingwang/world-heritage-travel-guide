@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iv)(vi)"
 lat: 31.525277777
 lon: 35.108333333
-updated_at: "2026-11-12T11:25:31Z"
+updated_at: "2026-11-12T11:30:23Z"
 ---
 
 # 希伯倫舊城 / Hebron/Al-Khalil Old Town

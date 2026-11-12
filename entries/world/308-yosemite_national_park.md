@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(viii)"
 lat: 37.7425
 lon: -119.5375
-updated_at: "2026-11-12T11:25:17Z"
+updated_at: "2026-11-12T11:30:12Z"
 ---
 
 # 约塞米特蒂国家公园 / Yosemite National Park

@@ -3,7 +3,7 @@ id: "wh-1733"
 dataset: "unesco"
 name_zh: "米诺斯王宫中心"
 name_en: "Minoan Palatial Centres"
-name_local: ""
+name_local: "Μινωικά Ανακτορικά Κέντρα"
 country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 35.297222222
 lon: 25.1625
-updated_at: "2026-11-12T11:25:33Z"
+updated_at: "2026-11-12T11:30:25Z"
 ---
 
 # 米诺斯王宫中心 / Minoan Palatial Centres
@@ -41,6 +41,12 @@ updated_at: "2026-11-12T11:25:33Z"
 
 This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history.
 
+## 本地语言 / Local language (Greek)
+
+**Μινωικά Ανακτορικά Κέντρα**
+
+Τα ανάκτορα του Μινωικού πολιτισμού είναι μεγάλα συγκροτήματα κτιρίων, αποτελούνται από πολλές πτέρυγες δωματίων και είναι τα διοικητικά, οικονομικά, θρησκευτικά και καλλιτεχνικά κέντρα της περιοχής στην οποία βρίσκονται. Παρά τις επιμέρους διαφορές, όλα τα Μινωικά ανάκτορα έχουν τα εξής κοινά χαρακτηριστικά: Έχουν προσανατολισμό στον άξονα Βορρά-Νότου. Έχουν μία ορθογώνια κεντρική αυλή. Γύρω αναπτύσσονται οι πτέρυγες των δωματίων. Ήταν πολυώροφα, είχαν μεγάλες κλίμακες, φωταγωγούς, σύστημα ύδρευσης και αποχέτευσης και αρκετοί χώροι τους έφερναν τοιχογραφίες. Από αυτές αντλούνται πληροφορίες από τις πτυχές της ζωής των Μινωιτών. Δεν ήταν οχυρωμένα. Τα ανάκτορα ήταν η κατοικία του άρχοντα της ευρύτερης περιοχής, όπου συγκεντρωνόταν η παραγωγή και τα εμπορεύματα για να διατεθούν στο εσωτερικό του νησιού ή στο εξωτερικό. Ήταν επίσης κέντρα κατασκευής πολύτιμων αντικειμένων και καλλιτεχνημάτων, καθώς και θρησκευτικά κέντρα, όπου μαζευόταν πλήθος κόσμου με την ευκαιρία διαφόρων τελετών. Στα ανάκτορα ζούσε, κυκλοφορούσε και εργαζόταν μεγάλος αριθμός αξιωματούχων, υπαλλήλων και τεχνιτών. Γνωστά ανάκτορα είναι της Κνωσού, της Φαιστού, των Μαλίων και της Ζάκρου
+
 ## 交通 / Transport
 
 - ✈ **Heraklion International Nikos Kazantzakis Airport (HER)** — 5.0 km
@@ -58,7 +64,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

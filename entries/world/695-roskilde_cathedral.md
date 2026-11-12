@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)"
 lat: 55.642669444
 lon: 12.080308333
-updated_at: "2026-11-12T11:25:21Z"
+updated_at: "2026-11-12T11:30:16Z"
 ---
 
 # 罗斯基勒大教堂 / Roskilde Cathedral

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ix)"
 lat: 40.450277777
 lon: 140.198611111
-updated_at: "2026-11-12T11:25:21Z"
+updated_at: "2026-11-12T11:30:15Z"
 ---
 
 # 白神山地 / Shirakami-Sanchi

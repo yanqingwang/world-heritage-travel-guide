@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iv)(vi)"
 lat: 48.783333333
 lon: 109.166666666
-updated_at: "2026-11-12T11:25:29Z"
+updated_at: "2026-11-12T11:30:22Z"
 ---
 
 # 布尔罕和乐敦圣山及其周围景观 / Great Burkhan Khaldun Mountain and its surrounding sacred landscape

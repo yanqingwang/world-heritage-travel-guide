@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.486722222
 lon: 20.531638888
-updated_at: "2026-11-12T11:25:18Z"
+updated_at: "2026-11-12T11:30:13Z"
 ---
 
 # 斯图德尼察修道院 / Studenica Monastery

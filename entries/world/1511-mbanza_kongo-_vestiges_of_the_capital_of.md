@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)(iv)"
 lat: -6.266666666
 lon: 14.25
-updated_at: "2026-11-12T11:25:30Z"
+updated_at: "2026-11-12T11:30:23Z"
 ---
 
 # 姆班扎剛果 / Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo

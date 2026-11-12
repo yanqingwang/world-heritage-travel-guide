@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(vi)"
 lat: 42.88076
 lon: -8.54468
-updated_at: "2026-11-12T11:25:18Z"
+updated_at: "2026-11-12T11:30:13Z"
 ---
 
 # 圣地亚哥–德孔波斯特拉古城 / Santiago de Compostela (Old Town)

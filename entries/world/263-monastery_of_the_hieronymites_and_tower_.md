@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)(vi)"
 lat: 38.69194
 lon: -9.21583
-updated_at: "2026-11-12T11:25:17Z"
+updated_at: "2026-11-12T11:30:12Z"
 ---
 
 # 哲罗姆派修道院和里斯本贝莱姆塔 / Monastery of the Hieronymites and Tower of Belém in Lisbon

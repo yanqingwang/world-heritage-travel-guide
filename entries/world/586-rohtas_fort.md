@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)"
 lat: 32.965277777
 lon: 73.576416666
-updated_at: "2026-11-12T11:25:20Z"
+updated_at: "2026-11-12T11:30:15Z"
 ---
 
 # 罗赫达斯要塞 / Rohtas Fort

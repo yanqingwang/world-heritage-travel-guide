@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(vi)"
 lat: 7.856563
 lon: 80.6483403
-updated_at: "2026-11-12T11:25:20Z"
+updated_at: "2026-11-12T11:30:14Z"
 ---
 
 # 丹布勒金寺 / Rangiri Dambulla Cave Temple

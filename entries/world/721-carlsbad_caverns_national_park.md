@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(viii)"
 lat: 32.175277777
 lon: -104.443888888
-updated_at: "2026-11-12T11:25:21Z"
+updated_at: "2026-11-12T11:30:16Z"
 ---
 
 # 卡尔斯巴德洞穴国家公园 / Carlsbad Caverns National Park

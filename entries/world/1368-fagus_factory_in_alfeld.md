@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)"
 lat: 51.9837
 lon: 9.81256
-updated_at: "2026-11-12T11:25:28Z"
+updated_at: "2026-11-12T11:30:21Z"
 ---
 
 # 德国法古斯工厂 / Fagus Factory in Alfeld

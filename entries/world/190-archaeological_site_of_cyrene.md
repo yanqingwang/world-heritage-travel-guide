@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(vi)"
 lat: 32.816666666
 lon: 21.85
-updated_at: "2026-11-12T11:25:16Z"
+updated_at: "2026-11-12T11:30:11Z"
 ---
 
 # 昔兰尼考古遗址 / Archaeological Site of Cyrene

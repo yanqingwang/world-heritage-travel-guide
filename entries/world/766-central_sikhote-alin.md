@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(x)"
 lat: 46.68333
 lon: 136.66111
-updated_at: "2026-11-12T11:25:22Z"
+updated_at: "2026-11-12T11:30:16Z"
 ---
 
 # 中锡霍特-阿林 / Central Sikhote-Alin

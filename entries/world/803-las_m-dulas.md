@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 42.458699
 lon: -6.759002
-updated_at: "2026-11-12T11:25:22Z"
+updated_at: "2026-11-12T11:30:17Z"
 ---
 
 # 拉斯梅德拉斯 / Las Médulas
