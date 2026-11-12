@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1283"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(i)(ii)(iv)"
 lat: 50.2825
 lon: 2.75888889
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 沃邦防禦工事 / Fortifications of Vauban
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Villefranche-de-Conflent Fortifications Tour-du-Diable.jpg · see Wikimedia Commons file page*
 
-![Fortifications of Vauban](https://whc.unesco.org/uploads/sites/site_1283.jpg)
+![Carte des sites majeurs de Vauban-HE.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Carte_des_sites_majeurs_de_Vauban-HE.svg/1280px-Carte_des_sites_majeurs_de_Vauban-HE.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Fortifications of Vauban · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Carte des sites majeurs de Vauban-HE.svg · Ori~ · CC BY-SA 3.0*
+
+![Carte des sites majeurs de Vauban.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Carte_des_sites_majeurs_de_Vauban.svg/1280px-Carte_des_sites_majeurs_de_Vauban.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carte des sites majeurs de Vauban.svg · Sémhur · CC BY-SA 4.0*
+
+![Citadelle d'Arras 05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Citadelle_d%27Arras_05.jpg/1280px-Citadelle_d%27Arras_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Citadelle d'Arras 05.jpg · FrDr · CC BY-SA 4.0*
+
+![Citadelle d'Arras 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Citadelle_d%27Arras_06.jpg/1280px-Citadelle_d%27Arras_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Citadelle d'Arras 06.jpg · FrDr · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ L’œuvre de Vauban comprend 12 groupes de bâtiments fortifiés et de construc
 - ✈ **Lille Airport (LIL)** — 39.9 km
 - ✈ **Ostend-Bruges International Airport (OST)** — 102.3 km
 - ✈ **Beauvais-Tillé airport (BVA)** — 103.1 km
+- 🚉 **Arras** — 1.7 km
+- 🚉 **Vimy** — 11.1 km
+- 🚉 **Courcelles-le-Comte** — 12.7 km
+- 🚉 **Aubigny-en-Artois** — 14.2 km
+- 🚉 **Avion** — 14.9 km
+- ⛴ **Halte Nautique de Saint-Laurent-Blangy** — 3.7 km
+- ⛴ **Halte nautique de Douai** — 24.3 km
+- ⛴ **Gare d'eau de Dorignies** — 25.9 km
+- ⛴ **Port de Cantimpré** — 34.9 km
+- ⛴ **Halte nautique de Cappy** — 39.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8042.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Château de Beaulieu** — 37.8 km — star — 5★
+- **Hermitage Gantois** — 44.5 km — star — 5★
+- **Le Clarance Hôtel** — 44.9 km — star — 5★
+- **Hôtel Casino Barrière Lille** — 45.4 km — star — 5★
+- **Hôtel Mercure Arras Centre Gare** — 1.5 km — star — 4★ · Mercure
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

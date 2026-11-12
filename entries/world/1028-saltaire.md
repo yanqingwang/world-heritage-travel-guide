@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 53.83717
 lon: -1.79026
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 索尔泰尔 / Saltaire
@@ -72,9 +72,9 @@ Saltaire, West Yorkshire, is a complete and well-preserved industrial village of
 
 - **315 Bar and Restaurant** — 23.7 km — star — 5★
 - **The Lowry Hotel** — 49.7 km — star — 5★
+- **Forty Seven Hotel** — 50.0 km — star — 5★ · WorldHotels
 - **Weetwood Hall** — 13.0 km — star — 4★
 - **DoubleTree by Hilton Leeds City Centre** — 16.5 km — star — 4★ · DoubleTree
-- **Hilton Leeds City** — 16.7 km — star — 4★ · Hilton
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

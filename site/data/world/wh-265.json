@@ -2,9 +2,9 @@
  "id": "wh-265",
  "unesco_id": "265",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 334,
- "popularity_score": 26037,
+ "tier": "full",
+ "popularity_rank": 313,
+ "popularity_score": 23506,
  "country": "PT",
  "country_zh": "葡萄牙",
  "country_en": "Portugal",
@@ -101,9 +101,106 @@
   "nearest_airport_km": 110.3,
   "distance_beijing_km": 9656.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Tomar",
+    "name_en": null,
+    "lat": 39.5984812,
+    "lon": -8.4128096,
+    "distance_km": 0.8,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Santa Cita",
+    "name_en": null,
+    "lat": 39.5527478,
+    "lon": -8.3934344,
+    "distance_km": 6.1,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Chão de Maçãs - Fátima",
+    "name_en": null,
+    "lat": 39.6543637,
+    "lon": -8.4938534,
+    "distance_km": 8.5,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Lamarosa",
+    "name_en": null,
+    "lat": 39.5288247,
+    "lon": -8.4690325,
+    "distance_km": 9.3,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Barquinha",
+    "name_en": null,
+    "lat": 39.4616121,
+    "lon": -8.4352411,
+    "distance_km": 15.9,
+    "operator": "Infraestruturas de Portugal"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Montebelo Mosteiro de Alcobaça Historic Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5485506,
+   "lon": -8.9781708,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel dos Templários",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6071818,
+   "lon": -8.4135644,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Segredos de Vale Manso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.54567,
+   "lon": -8.2926396,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Cinquentenário",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6289321,
+   "lon": -8.6712011,
+   "distance_km": 21.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Lux",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6273918,
+   "lon": -8.6741743,
+   "distance_km": 22.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PT",
   "country_zh": "葡萄牙",
@@ -175,5 +272,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

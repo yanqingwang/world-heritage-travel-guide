@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Pullman Hotel Baku",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 40.3551994,
+   "lon": 49.8038621,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 40.3635458,
+   "lon": 49.8350231,
+   "distance_km": 47.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amber Otel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.3816903,
+   "lon": 49.8295056,
+   "distance_km": 48.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Baku",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 40.388146,
+   "lon": 49.8242136,
+   "distance_km": 48.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sapphire Hotel & Restaurant",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.375227,
+   "lon": 49.8403864,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 170,
+ "stations": [
+  {
+   "name": "Qobustan Stansiyası",
+   "name_en": "Qobustan",
+   "lat": 40.0909094,
+   "lon": 49.4144282,
+   "distance_km": 2.7,
+   "operator": null
+  },
+  {
+   "name": "Sǝngǝçal Stansiyası",
+   "name_en": null,
+   "lat": 40.1658799,
+   "lon": 49.4624134,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "Baş Ələt Stansiyası",
+   "name_en": "Bash - Alat",
+   "lat": 39.9765524,
+   "lon": 49.4084761,
+   "distance_km": 14.4,
+   "operator": null
+  },
+  {
+   "name": "Yeni Ələt Deposu",
+   "name_en": null,
+   "lat": 39.9491489,
+   "lon": 49.4045627,
+   "distance_km": 17.4,
+   "operator": null
+  },
+  {
+   "name": "Yeni Ələt",
+   "name_en": null,
+   "lat": 39.9433197,
+   "lon": 49.3882604,
+   "distance_km": 18.0,
+   "operator": null
+  },
+  {
+   "name": "Atbulaq Stansiyas;",
+   "name_en": null,
+   "lat": 39.9758231,
+   "lon": 49.2619818,
+   "distance_km": 18.0,
+   "operator": null
+  },
+  {
+   "name": "Qaradağ Stansiyası",
+   "name_en": null,
+   "lat": 40.24101,
+   "lon": 49.5953935,
+   "distance_km": 23.1,
+   "operator": null
+  },
+  {
+   "name": "Nəvahi stansiyası",
+   "name_en": null,
+   "lat": 40.0178168,
+   "lon": 49.1428193,
+   "distance_km": 23.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Bәrә Terminalı",
+   "name_en": "Ferry Terminal",
+   "lat": 39.9730288,
+   "lon": 49.4427897,
+   "distance_km": 15.4,
+   "operator": null
+  },
+  {
+   "name": "Alat",
+   "name_en": null,
+   "lat": 39.9721181,
+   "lon": 49.4430383,
+   "distance_km": 15.5,
+   "operator": null
+  },
+  {
+   "name": "Boat to Turkmenbasi",
+   "name_en": null,
+   "lat": 40.3723315,
+   "lon": 49.8572746,
+   "distance_km": 49.6,
+   "operator": null
+  },
+  {
+   "name": "Bakı Dəniz Vağzalı",
+   "name_en": null,
+   "lat": 40.3731777,
+   "lon": 49.8569505,
+   "distance_km": 49.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:02Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-244",
  "unesco_id": "244",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1051,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 102,
+ "popularity_score": 126530,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_244.jpg",
-   "title": "Elephanta Caves",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/244",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/A_cave_among_others_%28cropped%29.jpg/1280px-A_cave_among_others_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A cave among others (cropped).jpg",
+   "author": "Bryophyllum1",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_cave_among_others_%28cropped%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/A_cave_among_others.jpg/1280px-A_cave_among_others.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A cave among others.jpg",
+   "author": "Bryophyllum1",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_cave_among_others.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_seating_space_in_Elephanta_Caves.jpg/1280px-A_seating_space_in_Elephanta_Caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A seating space in Elephanta Caves.jpg",
+   "author": "Kalyan07kumar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_seating_space_in_Elephanta_Caves.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_way_to_Elephanta_Caves.jpg/1280px-A_way_to_Elephanta_Caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A way to Elephanta Caves.jpg",
+   "author": "Raahichauhan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_way_to_Elephanta_Caves.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/244",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 14.3,
   "distance_beijing_km": 4755.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Elephanta Caves Jetty",
+    "name_en": null,
+    "lat": 18.9724069,
+    "lon": 72.9309607,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "Uran",
+    "name_en": null,
+    "lat": 18.9145979,
+    "lon": 72.9277423,
+    "distance_km": 5.4,
+    "operator": null
+   },
+   {
+    "name": "Bhaucha Dhakka / Ferry Wharf",
+    "name_en": null,
+    "lat": 18.9568222,
+    "lon": 72.8494839,
+    "distance_km": 8.6,
+    "operator": null
+   },
+   {
+    "name": "M2M Ro-Ro Terminal",
+    "name_en": null,
+    "lat": 18.9573602,
+    "lon": 72.8475783,
+    "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Angriya Water Terminal",
+    "name_en": null,
+    "lat": 18.953769,
+    "lon": 72.8464559,
+    "distance_km": 9.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Mysore Colony",
+    "name_en": null,
+    "lat": 19.0277168,
+    "lon": 72.8914397,
+    "distance_km": 8.3,
+    "operator": null
+   },
+   {
+    "name": "Bharat Petroleum",
+    "name_en": null,
+    "lat": 19.0352839,
+    "lon": 72.8955553,
+    "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Sewri",
+    "name_en": null,
+    "lat": 18.9987796,
+    "lon": 72.8544218,
+    "distance_km": 9.0,
+    "operator": "CR"
+   },
+   {
+    "name": "Dockyard Road",
+    "name_en": null,
+    "lat": 18.9674767,
+    "lon": 72.8445477,
+    "distance_km": 9.1,
+    "operator": "CR"
+   },
+   {
+    "name": "Bhakti Park",
+    "name_en": null,
+    "lat": 19.028972,
+    "lon": 72.8775722,
+    "distance_km": 9.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Oberoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Oberoi",
+   "lat": 18.9270024,
+   "lon": 72.8206042,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Trident, Nariman-Point",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Trident",
+   "lat": 18.9276399,
+   "lon": 72.8210332,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Lands End",
+   "name_en": "Taj Lands End",
+   "stars": 5,
+   "brand": "Taj",
+   "lat": 19.0435761,
+   "lon": 72.8196888,
+   "distance_km": 14.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW Marriott Mumbai Sahar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "JW Marriott",
+   "lat": 19.1031373,
+   "lon": 72.8777603,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Santacruz Mumbai",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Taj",
+   "lat": 19.0926852,
+   "lon": 72.8543788,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -179,5 +341,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

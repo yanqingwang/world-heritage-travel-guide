@@ -2,9 +2,9 @@
  "id": "wh-188",
  "unesco_id": "188",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 313,
- "popularity_score": 28928,
+ "tier": "full",
+ "popularity_rank": 287,
+ "popularity_score": 26652,
  "country": "DZ",
  "country_zh": "阿尔及利亚",
  "country_en": "Algeria",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_188.jpg",
-   "title": "M'Zab Valley",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/188",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Abyannu.jpg/1280px-Abyannu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abyannu.jpg",
+   "author": "Banouh",
+   "license": "Public domain",
+   "credit": "photo i took",
+   "source": "https://commons.wikimedia.org/wiki/File:Abyannu.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/AFR_V2_D387_Mzab.jpg/1280px-AFR_V2_D387_Mzab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AFR V2 D387 Mzab.jpg",
+   "author": "Élisee Reclus, Translated by Augustus Henry Keane, 1833-1912",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier : africatheearth02recluoft",
+   "source": "https://commons.wikimedia.org/wiki/File:AFR_V2_D387_Mzab.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Berriane_-_1934.jpg/1280px-Berriane_-_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Berriane - 1934.jpg",
+   "author": "Heim, Arnold",
+   "license": "CC BY 4.0",
+   "credit": "http://doi.org/10.3932/ethz-a-001261605",
+   "source": "https://commons.wikimedia.org/wiki/File:Berriane_-_1934.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cultures_de_courgettes_et_de_piments_dans_l%27oasis.jpg/1280px-Cultures_de_courgettes_et_de_piments_dans_l%27oasis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cultures de courgettes et de piments dans l'oasis.jpg",
+   "author": "Frédéric Gadmer",
+   "license": "CC BY 4.0",
+   "credit": "https://collections.albert-kahn.hauts-de-seine.fr/document/n-c/617a7a3bcf8b8968b334a122?filtrerParThme%5B0%5D=Personnalit%C3%A9&filtrerParDomaine%5B0%5D=Images%",
+   "source": "https://commons.wikimedia.org/wiki/File:Cultures_de_courgettes_et_de_piments_dans_l%27oasis.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/188",
@@ -103,7 +127,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Dortoir Mirana Mayotte",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4867089,
+   "lon": 3.6811628,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Izorane فندق إيزوران",
+   "name_en": "Hotel Izorane",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4838558,
+   "lon": 3.6793551,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel BELADJEL;فندق بلعجال",
+   "name_en": "BELADJEL hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4864498,
+   "lon": 3.6756291,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel M'zab;فندق مزاب",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4842096,
+   "lon": 3.6761501,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ouasis;الواحات",
+   "name_en": "Ouasis",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4933457,
+   "lon": 3.6858847,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DZ",
   "country_zh": "阿尔及利亚",
@@ -175,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

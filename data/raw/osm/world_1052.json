@@ -59,19 +59,11 @@
  "hotels_nearby_50km": 255,
  "stations": [
   {
-   "name": "Brno-Židenice",
-   "name_en": null,
-   "lat": 49.2040951,
-   "lon": 16.6367029,
-   "distance_km": 1.6,
-   "operator": "Správa železnic"
-  },
-  {
    "name": "Brno hlavní nádraží",
    "name_en": null,
-   "lat": 49.1911221,
-   "lon": 16.6131116,
-   "distance_km": 1.8,
+   "lat": 49.1906657,
+   "lon": 16.6132569,
+   "distance_km": 1.9,
    "operator": "Správa železnic"
   },
   {
@@ -115,11 +107,19 @@
    "operator": "S.M.P.D."
   },
   {
-   "name": "Troubsko",
+   "name": "Modřice",
    "name_en": null,
-   "lat": 49.1639684,
-   "lon": 16.5264604,
-   "distance_km": 8.1,
+   "lat": 49.1338882,
+   "lon": 16.6062266,
+   "distance_km": 8.2,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Brno-Chrlice",
+   "name_en": null,
+   "lat": 49.1320531,
+   "lon": 16.6572474,
+   "distance_km": 8.9,
    "operator": "Správa železnic"
   }
  ],
@@ -165,5 +165,5 @@
    "operator": null
   }
  ],
- "fetched_at": "2026-11-08T16:15:05Z"
+ "fetched_at": "2026-11-12T11:51:01Z"
 }

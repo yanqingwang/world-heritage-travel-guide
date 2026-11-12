@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Palacio Arriluce",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.3400098,
+   "lon": -3.0121719,
+   "distance_km": 1.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel The Artist - Grand Hotel of Art",
+   "name_en": "The Artist Hotel - Grand Hotel of Art",
+   "stars": 5,
+   "brand": null,
+   "lat": 43.2674057,
+   "lon": -2.9338433,
+   "distance_km": 9.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.2624085,
+   "lon": -2.9349317,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Collection Hotel, Gran Vía Bilbao",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Collection",
+   "lat": 43.26157,
+   "lon": -2.9277004,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oriol jauregia",
+   "name_en": null,
+   "stars": 4,
+   "brand": "URH",
+   "lat": 43.3261428,
+   "lon": -3.0242306,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 278,
+ "stations": [
+  {
+   "name": "Portugalete",
+   "name_en": null,
+   "lat": 43.3184787,
+   "lon": -3.0150201,
+   "distance_km": 0.5,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Peñota",
+   "name_en": null,
+   "lat": 43.3262458,
+   "lon": -3.0236287,
+   "distance_km": 0.6,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Santurtzi",
+   "name_en": null,
+   "lat": 43.328627,
+   "lon": -3.0296034,
+   "distance_km": 1.2,
+   "operator": "Renfe"
+  },
+  {
+   "name": "La Iberia",
+   "name_en": null,
+   "lat": 43.312814,
+   "lon": -3.0047876,
+   "distance_km": 1.5,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Galindo",
+   "name_en": null,
+   "lat": 43.3040996,
+   "lon": -3.0101752,
+   "distance_km": 2.2,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Trápaga",
+   "name_en": null,
+   "lat": 43.3029806,
+   "lon": -3.0169132,
+   "distance_km": 2.2,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Sestao",
+   "name_en": null,
+   "lat": 43.308561,
+   "lon": -2.9939634,
+   "distance_km": 2.5,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Urioste",
+   "name_en": null,
+   "lat": 43.3075214,
+   "lon": -3.0409444,
+   "distance_km": 2.6,
+   "operator": "Renfe"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Embarcadero Getxo",
+   "name_en": null,
+   "lat": 43.3222612,
+   "lon": -3.0151166,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Portugalete",
+   "name_en": null,
+   "lat": 43.32106,
+   "lon": -3.0162892,
+   "distance_km": 0.2,
+   "operator": "Bote Tours"
+  },
+  {
+   "name": "Paseo Reina Victoria",
+   "name_en": null,
+   "lat": 43.3295796,
+   "lon": -3.0292815,
+   "distance_km": 1.2,
+   "operator": "Bote Tours"
+  },
+  {
+   "name": "Puerto deportivo El Abra-Getxo",
+   "name_en": null,
+   "lat": 43.3391859,
+   "lon": -3.0140561,
+   "distance_km": 1.8,
+   "operator": "Bote Tours"
+  },
+  {
+   "name": "Terminal de Cruceros Getxo I y II",
+   "name_en": null,
+   "lat": 43.3386756,
+   "lon": -3.0213591,
+   "distance_km": 1.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:26Z"
+}

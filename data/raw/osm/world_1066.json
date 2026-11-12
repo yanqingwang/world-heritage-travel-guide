@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Dorint Pallas Wiesbaden",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Dorint",
+   "lat": 50.0740899,
+   "lon": 8.2462063,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bad Salzig Park Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.204014,
+   "lon": 7.628036,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landhotel Becker",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.2147197,
+   "lon": 7.6283741,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel & Residenz Rheinpracht",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.2151612,
+   "lon": 7.6253164,
+   "distance_km": 6.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Burghotel Schönburg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.1011261,
+   "lon": 7.7323604,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 838,
+ "stations": [
+  {
+   "name": "St. Goar",
+   "name_en": null,
+   "lat": 50.1500951,
+   "lon": 7.7145404,
+   "distance_km": 3.0,
+   "operator": "DB Netz AG;DB Station&Service AG"
+  },
+  {
+   "name": "Kamp-Bornhofen",
+   "name_en": null,
+   "lat": 50.2279315,
+   "lon": 7.6183036,
+   "distance_km": 8.1,
+   "operator": "DB Netz AG;DB Station&Service AG"
+  },
+  {
+   "name": "Oberwesel",
+   "name_en": null,
+   "lat": 50.1041366,
+   "lon": 7.731883,
+   "distance_km": 8.2,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Emmelshausen",
+   "name_en": null,
+   "lat": 50.1576397,
+   "lon": 7.560506,
+   "distance_km": 9.7,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Boppard Hbf",
+   "name_en": null,
+   "lat": 50.2314019,
+   "lon": 7.5860131,
+   "distance_km": 10.0,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Kaub",
+   "name_en": null,
+   "lat": 50.0835884,
+   "lon": 7.7682771,
+   "distance_km": 11.3,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Rhens",
+   "name_en": null,
+   "lat": 50.281303,
+   "lon": 7.6207271,
+   "distance_km": 13.1,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Bacharach",
+   "name_en": null,
+   "lat": 50.0554626,
+   "lon": 7.7699825,
+   "distance_km": 14.2,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sankt Goarshausen",
+   "name_en": null,
+   "lat": 50.1532559,
+   "lon": 7.717472,
+   "distance_km": 2.8,
+   "operator": "Fähre Loreley GmbH & Co. KG"
+  },
+  {
+   "name": "KD-Anlegestelle St. Goar",
+   "name_en": null,
+   "lat": 50.1509859,
+   "lon": 7.7162513,
+   "distance_km": 3.0,
+   "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+  },
+  {
+   "name": "Sankt Goar",
+   "name_en": null,
+   "lat": 50.1501928,
+   "lon": 7.7177448,
+   "distance_km": 3.1,
+   "operator": "Fähre Loreley GmbH & Co. KG"
+  },
+  {
+   "name": "KD Anleger Bad Salzig",
+   "name_en": null,
+   "lat": 50.2068584,
+   "lon": 7.635664,
+   "distance_km": 5.6,
+   "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+  },
+  {
+   "name": "KD-Anlegestelle Oberwesel",
+   "name_en": null,
+   "lat": 50.1078682,
+   "lon": 7.7289852,
+   "distance_km": 7.7,
+   "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:08Z"
+}

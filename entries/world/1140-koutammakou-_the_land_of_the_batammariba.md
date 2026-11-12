@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(v)(vi)"
 lat: 10.1
 lon: 1.066666666
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 古帕玛库，巴塔马利巴人之地 / Koutammakou, the Land of the Batammariba

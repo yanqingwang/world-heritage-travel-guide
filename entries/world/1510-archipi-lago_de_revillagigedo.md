@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1510"
-tier: "full"
+tier: "basic"
 category: "Natural"
 year: "2016"
 criteria: "(vii)(ix)(x)"
 lat: 18.821388888
 lon: -112.763888888
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # Revillagigedo群岛 / Archipiélago de Revillagigedo
@@ -27,21 +27,9 @@ updated_at: "2026-11-12T11:30:23Z"
 
 *San Benedicto Island.jpg · see Wikimedia Commons file page*
 
-![MX-Revillagigedo.PNG](https://upload.wikimedia.org/wikipedia/commons/b/b2/MX-Revillagigedo.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Archipiélago de Revillagigedo](https://whc.unesco.org/uploads/sites/site_1510.jpg)
 
-*MX-Revillagigedo.PNG · Hobe / Holger Behr · Public domain*
-
-![Admiralty Chart No 1936 Islands in the North Pacific Ocean, Published 1849.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Admiralty_Chart_No_1936_Islands_in_the_North_Pacific_Ocean%2C_Published_1849.jpg/1280px-Admiralty_Chart_No_1936_Islands_in_the_North_Pacific_Ocean%2C_Published_1849.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Admiralty Chart No 1936 Islands in the North Pacific Ocean, Published 1849.jpg · United Kingdom Hydrographic Office · Public domain*
-
-![Escudo de Revillagigedo.png](https://upload.wikimedia.org/wikipedia/commons/f/f2/Escudo_de_Revillagigedo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Escudo de Revillagigedo.png · Heraldicos · CC BY 3.0*
-
-![Islas Revillagigedo.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
-
-*Islas Revillagigedo.ogg · ProtoplasmaKid · CC BY-SA 4.0*
+*Archipiélago de Revillagigedo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,12 +52,6 @@ Situado en el Pacífico Oriental, este archipiélago está formado por las islas
 - ✈ **Cabo San Lucas International Airport (CSW)** — 544.7 km
 - ✈ **Los Cabos International Airport (SJD)** — 575.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11510.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- 暂无 / none
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

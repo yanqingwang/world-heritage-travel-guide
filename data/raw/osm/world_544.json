@@ -1,0 +1,85 @@
+{
+ "hotels": [
+  {
+   "name": "Гостевой комплекс \"Вороний остров\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 62.1795541,
+   "lon": 35.5056971,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1,
+ "stations": [
+  {
+   "name": "Илемсельга",
+   "name_en": null,
+   "lat": 62.299353,
+   "lon": 34.5167914,
+   "distance_km": 44.8,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Мянсельга",
+   "name_en": null,
+   "lat": 62.2624012,
+   "lon": 34.4468295,
+   "distance_km": 45.8,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Нигозеро",
+   "name_en": null,
+   "lat": 62.2239211,
+   "lon": 34.3434056,
+   "distance_km": 48.9,
+   "operator": "ОАО «РЖД»"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Причал",
+   "name_en": null,
+   "lat": 62.0740916,
+   "lon": 35.2192696,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Кижи",
+   "name_en": "Kizhi",
+   "lat": 62.0741747,
+   "lon": 35.2196508,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Пристань Отяевщина",
+   "name_en": null,
+   "lat": 62.0828901,
+   "lon": 35.1815258,
+   "distance_km": 2.8,
+   "operator": null
+  },
+  {
+   "name": "Пристань \"Кометы\" Великая губа",
+   "name_en": null,
+   "lat": 62.2418219,
+   "lon": 35.0774208,
+   "distance_km": 20.8,
+   "operator": null
+  },
+  {
+   "name": "Стеклянное",
+   "name_en": null,
+   "lat": 61.8096675,
+   "lon": 35.9671716,
+   "distance_km": 48.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:06Z"
+}

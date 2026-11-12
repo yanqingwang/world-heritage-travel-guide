@@ -2,8 +2,8 @@
  "id": "wh-1588",
  "unesco_id": "1588",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 122,
+ "tier": "basic",
+ "popularity_rank": 943,
  "popularity_score": 115992,
  "country": "MM",
  "country_zh": "缅甸",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2020_satellite_picture_of_Bagan.jpg/1280px-2020_satellite_picture_of_Bagan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2020 satellite picture of Bagan.jpg",
-   "author": "NASA",
-   "license": "Public domain",
-   "credit": "https://earthobservatory.nasa.gov/images/146332/the-land-of-ten-thousand-temples",
-   "source": "https://commons.wikimedia.org/wiki/File:2020_satellite_picture_of_Bagan.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/500px_photo_%28193117595%29.jpeg/1280px-500px_photo_%28193117595%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "500px photo (193117595).jpeg",
-   "author": "Magdalena Roeseler",
-   "license": "CC BY 3.0",
-   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
-   "source": "https://commons.wikimedia.org/wiki/File:500px_photo_%28193117595%29.jpeg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/A_Folklore_Morning_in_Bagan.jpg/1280px-A_Folklore_Morning_in_Bagan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A Folklore Morning in Bagan.jpg",
-   "author": "Satt Pai Htun",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_Folklore_Morning_in_Bagan.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bagan_%282%29.jpg/1280px-Bagan_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Bagan (2).jpg",
-   "author": "Golden Egg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Bagan_%282%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_1588.jpg",
+   "title": "Bagan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1588",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1588",
@@ -126,148 +102,10 @@
   ],
   "nearest_airport_km": 7.3,
   "distance_beijing_km": 2935.4,
-  "ferry_terminals": [
-   {
-    "name": "Pandaw Orient mooring",
-    "name_en": "Pandaw Orient mooring",
-    "lat": 21.1789571,
-    "lon": 94.8598838,
-    "distance_km": 0.7,
-    "operator": null
-   },
-   {
-    "name": "Irrawaddy Princess 2 Jetty",
-    "name_en": null,
-    "lat": 21.1813808,
-    "lon": 94.8624231,
-    "distance_km": 1.0,
-    "operator": null
-   },
-   {
-    "name": "Road to Mandalay Jetty",
-    "name_en": null,
-    "lat": 21.1828689,
-    "lon": 94.8652951,
-    "distance_km": 1.3,
-    "operator": null
-   },
-   {
-    "name": "Fantasia Garden Jetty",
-    "name_en": null,
-    "lat": 21.1839683,
-    "lon": 94.8677672,
-    "distance_km": 1.5,
-    "operator": null
-   },
-   {
-    "name": "လက်ပံချောင်းမော်တော်ဆိပ်",
-    "name_en": null,
-    "lat": 21.1589404,
-    "lon": 94.8060409,
-    "distance_km": 5.8,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Kyun Chaung Station",
-    "name_en": null,
-    "lat": 21.1988366,
-    "lon": 94.8099313,
-    "distance_km": 6.0,
-    "operator": null
-   },
-   {
-    "name": "Tant Kyi Station",
-    "name_en": null,
-    "lat": 21.1491142,
-    "lon": 94.7993956,
-    "distance_km": 6.8,
-    "operator": "Myanmar Railway"
-   },
-   {
-    "name": "ပုဂံဘူတာ",
-    "name_en": "Bagan Station",
-    "lat": 21.1544348,
-    "lon": 94.9352244,
-    "distance_km": 8.1,
-    "operator": null
-   },
-   {
-    "name": "Myitche",
-    "name_en": null,
-    "lat": 21.2521126,
-    "lon": 94.8433195,
-    "distance_km": 9.0,
-    "operator": null
-   },
-   {
-    "name": "ပုလင်းဘူတာ",
-    "name_en": "Pu Lin Station",
-    "lat": 21.2141963,
-    "lon": 94.9903974,
-    "distance_km": 14.3,
-    "operator": null
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Serenity Bagan Resort",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 21.0954309,
-   "lon": 94.8587155,
-   "distance_km": 8.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Cherry Bagan Hotel",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 21.0841887,
-   "lon": 94.86104,
-   "distance_km": 9.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Myanmar Han Hotel",
-   "name_en": "Myanmar Han Hotel",
-   "stars": 3,
-   "brand": null,
-   "lat": 21.1332034,
-   "lon": 94.9485411,
-   "distance_km": 10.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "မြန်မာဟန်ဟိုတယ်",
-   "name_en": "Myanmar Han Hotel",
-   "stars": 3,
-   "brand": null,
-   "lat": 21.1331026,
-   "lon": 94.9486371,
-   "distance_km": 10.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "We Stay @ Bagan Lotus Hotel",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 21.1197144,
-   "lon": 94.9595229,
-   "distance_km": 11.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "MM",
   "country_zh": "缅甸",
@@ -339,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:23Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

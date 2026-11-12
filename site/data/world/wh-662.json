@@ -2,8 +2,8 @@
  "id": "wh-662",
  "unesco_id": "662",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 145,
+ "tier": "basic",
+ "popularity_rank": 1096,
  "popularity_score": 94235,
  "country": "JP",
  "country_zh": "日本",
@@ -126,107 +126,10 @@
   ],
   "nearest_airport_km": 12.9,
   "distance_beijing_km": 1668.4,
-  "ferry_terminals": [
-   {
-    "name": "宮之浦",
-    "name_en": "Miyanoura",
-    "lat": 30.4317008,
-    "lon": 130.5740898,
-    "distance_km": 9.2,
-    "operator": null
-   },
-   {
-    "name": "屋久島",
-    "name_en": "Yakushima",
-    "lat": 30.4320621,
-    "lon": 130.5729638,
-    "distance_km": 9.2,
-    "operator": null
-   },
-   {
-    "name": "宮之浦港フェリーターミナル",
-    "name_en": "Miyanoura Port Ferry Terminal",
-    "lat": 30.4323574,
-    "lon": 130.5724369,
-    "distance_km": 9.2,
-    "operator": null
-   },
-   {
-    "name": "安房港",
-    "name_en": null,
-    "lat": 30.3165415,
-    "lon": 130.6587619,
-    "distance_km": 13.3,
-    "operator": null
-   },
-   {
-    "name": "トッピーターミナル",
-    "name_en": "Toppy & Rocket Terminal",
-    "lat": 30.3171171,
-    "lon": 130.6591499,
-    "distance_km": 13.4,
-    "operator": "種子屋久高速船株式会社"
-   }
-  ],
+  "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Yaedake Sanso Lodge",
-   "name_en": "Yaedake Sanso Lodge",
-   "stars": null,
-   "brand": null,
-   "lat": 30.4125911,
-   "lon": 130.5628418,
-   "distance_km": 6.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Tashiro Bekkan",
-   "name_en": "Tashiro Bekkan",
-   "stars": null,
-   "brand": null,
-   "lat": 30.418765,
-   "lon": 130.5671482,
-   "distance_km": 7.6,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Yakushimaya",
-   "name_en": "Yakushimaya",
-   "stars": null,
-   "brand": null,
-   "lat": 30.4351802,
-   "lon": 130.5568944,
-   "distance_km": 8.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "THE HOTEL YAKUSHIMA OCEAN ＆ FOREST",
-   "name_en": "THE HOTEL YAKUSHIMA OCEAN ＆ FOREST",
-   "stars": null,
-   "brand": null,
-   "lat": 30.432905,
-   "lon": 130.5684857,
-   "distance_km": 9.1,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Soyotei",
-   "name_en": "Soyotei",
-   "stars": null,
-   "brand": null,
-   "lat": 30.404871,
-   "lon": 130.4305889,
-   "distance_km": 10.7,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -298,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

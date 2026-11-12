@@ -8,13 +8,13 @@ country: "PS"
 country_zh: "巴勒斯坦"
 country_en: "Palestine"
 unesco_id: "1565"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(iv)(vi)"
 lat: 31.525277777
 lon: 35.108333333
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 希伯倫舊城 / Hebron/Al-Khalil Old Town
@@ -54,7 +54,22 @@ The use of a local limestone shaped the construction of the old town of Hebron/A
 - ✈ **Ben Gurion International Airport (TLV)** — 58.0 km
 - ✈ **Queen Alia International Airport (AMM)** — 86.6 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 97.2 km
+- 🚉 **גן החיות התנ"כי** — 25.3 km
+- 🚉 **ירושלים מלחה** — 25.9 km
+- 🚉 **בית שמש** — 28.2 km
+- 🚉 **ירושלים - יצחק נבון** — 30.6 km
+- 🚉 **קריית גת** — 32.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **מלון המלך דוד** — 29.7 km — star — King David Hotel · 5★
+- **שרתון** — 29.8 km — star — 5★
+- **מלון וולדורף אסטוריה ירושלים** — 30.0 km — star — Waldorf Astoria Jerusalem · 5★ · Waldorf Astoria
+- **Waldorf Astoria** — 30.0 km — star — 5★ · Waldorf Astoria
+- **موفنبيك رام الله** — 42.2 km — star — Movenpick Ramallah · 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

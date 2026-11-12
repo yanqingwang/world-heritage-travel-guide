@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Haŋaroa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -27.151116,
+   "lon": -109.4380918,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Explora Rapa Nui",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.1419154,
+   "lon": -109.3573703,
+   "distance_km": 7.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Altiplánico",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.1293914,
+   "lon": -109.4206008,
+   "distance_km": 9.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vai Moana",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.143693,
+   "lon": -109.424127,
+   "distance_km": 10.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Poike",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -27.1470204,
+   "lon": -109.4246654,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 29,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Cruise Berth for Tender",
+   "name_en": null,
+   "lat": -27.1542461,
+   "lon": -109.4391022,
+   "distance_km": 12.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:21Z"
+}

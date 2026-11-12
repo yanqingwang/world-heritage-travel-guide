@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)"
 lat: 59.321694
 lon: 17.886383
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 德罗特宁霍尔摩皇宫 / Royal Domain of Drottningholm

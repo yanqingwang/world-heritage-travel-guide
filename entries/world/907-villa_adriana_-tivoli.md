@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "907"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1999"
 criteria: "(i)(ii)(iii)"
 lat: 41.941944
 lon: 12.775278
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 提沃利的阿德利阿纳村庄 / Villa Adriana (Tivoli)
@@ -64,27 +64,7 @@ Villa Adriana fu una residenza imperiale extraurbana, fatta realizzare presso Ti
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 21.8 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 45.9 km
 - ✈ **Abruzzo Airport (PSR)** — 128.1 km
-- 🚉 **Tivoli** — 3.3 km
-- 🚉 **Tivoli Terme** — 4.5 km
-- 🚉 **Guidonia Collefiorito** — 5.9 km
-- 🚉 **Marcellina-Palombara** — 6.6 km
-- 🚉 **Castel Madama** — 9.0 km
-- ⛴ **Ponte Cavour** — 25.2 km
-- ⛴ **Isola Tiberina** — 25.4 km
-- ⛴ **Ponte Risorgimento** — 25.4 km
-- ⛴ **Sant'Angelo** — 25.8 km
-- ⛴ **Anguillara Sabazia** — 45.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hyatt Regency Rome Central** — 22.8 km — star — 5★ · Hyatt
-- **NH Collection Hotels Roma Palazzo Cinquecento** — 23.1 km — star — 5★ · NH Collection Hotels
-- **Hotel "Parco dei Principi"** — 23.6 km — star — 5★
-- **Hotel La Griffe** — 23.7 km — star — 5★
-- **Baglioni Hotel Regina** — 23.9 km — star — 5★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

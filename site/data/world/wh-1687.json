@@ -3,8 +3,8 @@
  "unesco_id": "1687",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 185,
- "popularity_score": 70694,
+ "popularity_rank": 173,
+ "popularity_score": 64661,
  "country": "PS",
  "country_zh": "巴勒斯坦",
  "country_en": "Palestine",
@@ -129,14 +129,6 @@
   "ferry_terminals": [],
   "railway_stations": [
    {
-    "name": "Binyene Ha'Uma ICC",
-    "name_en": "Binyene Ha'Uma ICC",
-    "lat": 31.7878945,
-    "lon": 35.2035707,
-    "distance_km": 24.6,
-    "operator": null
-   },
-   {
     "name": "ירושלים - יצחק נבון",
     "name_en": "Jerusalem - Yitzhak Navon",
     "lat": 31.7881125,
@@ -145,28 +137,36 @@
     "operator": "רכבת ישראל"
    },
    {
-    "name": "Betsal'el Bazak",
-    "name_en": "Betsal'el Bazak",
-    "lat": 31.7667915,
-    "lon": 35.1965236,
-    "distance_km": 26.2,
-    "operator": null
+    "name": "ירושלים מלחה",
+    "name_en": "Jerusalem Malcha",
+    "lat": 31.7477545,
+    "lon": 35.1882146,
+    "distance_km": 27.9,
+    "operator": "Israel Railways"
    },
    {
-    "name": "Giv'at Mordekhay",
-    "name_en": "Giv'at Mordekhay",
-    "lat": 31.761228,
-    "lon": 35.199898,
-    "distance_km": 26.2,
-    "operator": null
+    "name": "גן החיות התנ\"כי",
+    "name_en": "Biblical Zoo",
+    "lat": 31.7448338,
+    "lon": 35.1781123,
+    "distance_km": 28.9,
+    "operator": "Israel Railways"
    },
    {
-    "name": "Pat Junction",
-    "name_en": "Pat Junction",
-    "lat": 31.7563462,
-    "lon": 35.1981531,
-    "distance_km": 26.6,
-    "operator": null
+    "name": "מודיעין מרכז",
+    "name_en": "Modi'in Center",
+    "lat": 31.9010673,
+    "lon": 35.0057522,
+    "distance_km": 41.6,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "בית שמש",
+    "name_en": "Bet Shemesh",
+    "lat": 31.7578195,
+    "lon": 34.9893645,
+    "distance_km": 44.8,
+    "operator": "Israel Railways"
    }
   ]
  },
@@ -220,8 +220,8 @@
    "name_en": "King David Hotel",
    "stars": 5,
    "brand": null,
-   "lat": 31.7743784,
-   "lon": 35.2226341,
+   "lat": 31.7743582,
+   "lon": 35.2225158,
    "distance_km": 23.6,
    "kind": "star",
    "source": "OpenStreetMap"
@@ -298,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

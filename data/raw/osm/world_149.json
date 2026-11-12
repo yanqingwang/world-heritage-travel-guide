@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Margarita",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.2554429,
+   "lon": -89.0958778,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "G Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4254122,
+   "lon": -89.0805444,
+   "distance_km": 17.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bahía Guapinol",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4402736,
+   "lon": -89.0643714,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mansión del Viajero",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4743336,
+   "lon": -88.8301626,
+   "distance_km": 32.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Fuente",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4738575,
+   "lon": -88.829226,
+   "distance_km": 32.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 63,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Muelle Municipal",
+   "name_en": null,
+   "lat": 15.6568354,
+   "lon": -89.0000115,
+   "distance_km": 43.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:04Z"
+}

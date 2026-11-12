@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(v)"
 lat: -32.386389
 lon: 18.4525
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 现代人的出现：南非更新世人类遗址 / The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa

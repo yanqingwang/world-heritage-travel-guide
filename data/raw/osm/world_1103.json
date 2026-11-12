@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hampton by Hilton Turkistan",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Hampton",
+   "lat": 43.2970001,
+   "lon": 68.2764811,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Яссы гостиница",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.300523,
+   "lon": 68.2676629,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ханака",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.2996469,
+   "lon": 68.27475,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ханака гостиница",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.2997838,
+   "lon": 68.2745035,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "гостиница Евразия",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3012992,
+   "lon": 68.2681165,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 33,
+ "stations": [
+  {
+   "name": "Түркістан",
+   "name_en": "Turkestan",
+   "lat": 43.2857034,
+   "lon": 68.2129951,
+   "distance_km": 4.9,
+   "operator": "КТЖ"
+  },
+  {
+   "name": "Шойтобе",
+   "name_en": "Shojtobe",
+   "lat": 43.2107721,
+   "lon": 68.2538119,
+   "distance_km": 9.8,
+   "operator": null
+  },
+  {
+   "name": "Куншагыр",
+   "name_en": null,
+   "lat": 43.1389011,
+   "lon": 68.277999,
+   "distance_km": 17.7,
+   "operator": null
+  },
+  {
+   "name": "Шорнак",
+   "name_en": null,
+   "lat": 43.3875953,
+   "lon": 68.0241322,
+   "distance_km": 22.3,
+   "operator": null
+  },
+  {
+   "name": "Отрабат",
+   "name_en": null,
+   "lat": 43.0412322,
+   "lon": 68.3108831,
+   "distance_km": 28.7,
+   "operator": null
+  },
+  {
+   "name": "Кентау",
+   "name_en": null,
+   "lat": 43.5159465,
+   "lon": 68.5250215,
+   "distance_km": 31.8,
+   "operator": null
+  },
+  {
+   "name": "Сауран",
+   "name_en": null,
+   "lat": 43.440932,
+   "lon": 67.9245428,
+   "distance_km": 32.2,
+   "operator": null
+  },
+  {
+   "name": "Ұзынқұдық",
+   "name_en": null,
+   "lat": 42.9677139,
+   "lon": 68.3533919,
+   "distance_km": 37.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:11Z"
+}

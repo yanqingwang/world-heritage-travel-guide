@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "247"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2013"
 criteria: "(ii)(iii)"
 lat: 24.883306
 lon: 74.646111
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 拉贾斯坦邦的山地堡垒 / Hill Forts of Rajasthan
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:12Z"
 ![Jaipur 03-2016 04 Amber Fort.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Jaipur%2003-2016%2004%20Amber%20Fort.jpg?width=1280)
 
 *Jaipur 03-2016 04 Amber Fort.jpg · see Wikimedia Commons file page*
+
+![Wall of Amber fort.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e2/Wall_of_Amber_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Wall of Amber fort.jpg · CR Shelare · CC BY-SA 4.0*
 
 ![Hill Forts of Rajasthan](https://whc.unesco.org/uploads/sites/site_247.jpg)
 
@@ -52,7 +56,22 @@ The serial site, situated in the state of Rajastahan, includes six majestic fort
 - ✈ **Maharana Pratap Airport (UDR)** — 81.3 km
 - ✈ **Kishangarh Airport Ajmer (KQH)** — 190.6 km
 - ✈ **Jodhpur Airport (JDH)** — 220.9 km
+- 🚉 **Chittaurgarh Junction** — 2.4 km
+- 🚉 **Chanderiya Junction** — 6.3 km
+- 🚉 **Ordi** — 6.5 km
+- 🚉 **Thambavati Nagri** — 10.7 km
+- 🚉 **Ghosunda** — 11.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4312.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Grand Chittor** — 1.5 km — star — 4★
+- **Hotel Laxmi Lodge** — 1.3 km — hotel — Hotel Laxmi Lodge
+- **Aadimata** — 1.4 km — hotel
+- **Royal Palace** — 1.7 km — hotel
+- **Amber Plaza** — 1.9 km — hotel — Amber Plaza
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

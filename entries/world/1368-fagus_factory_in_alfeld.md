@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1368"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iv)"
 lat: 51.9837
 lon: 9.81256
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 德国法古斯工厂 / Fagus Factory in Alfeld
@@ -52,7 +52,27 @@ Das Fagus-Werk ist eine Fabrikanlage in der südniedersächsischen Kleinstadt Al
 - ✈ **Hannover Airport (HAJ)** — 53.8 km
 - ✈ **Kassel Airport (KSF)** — 69.2 km
 - ✈ **Paderborn Lippstadt Airport (PAD)** — 92.0 km
+- 🚉 **Alfeld (Leine)** — 0.4 km
+- 🚉 **Freden (Leine)** — 8.6 km
+- 🚉 **Banteln** — 10.1 km
+- 🚉 **Almstedt-Segeste** — 11.2 km
+- 🚉 **Elze (Hannover)** — 15.8 km
+- ⛴ **Dampferanleger Flotte Weser** — 20.2 km
+- ⛴ **L429 Weserfähre Grohnde** — 26.8 km
+- ⛴ **Weserfähre Grohnde** — 26.9 km
+- ⛴ **Fähre Heinsen** — 28.0 km
+- ⛴ **Heidbrink** — 29.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7558.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Hotel** — 38.3 km — star — 5★
+- **Schloss Schwöbber** — 39.5 km — star — 5★
+- **Parkhotel Berghölzchen** — 19.6 km — star — 4★
+- **Van der Valk Hotel Hildesheim** — 21.1 km — star — 4★ · Van der Valk
+- **Stadtresidenz** — 21.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

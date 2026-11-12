@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "1097"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(i)(iv)(vi)"
 lat: 55.725972222
 lon: 37.556583333
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 新圣女修道院 / Ensemble of the Novodevichy Convent
@@ -52,7 +52,27 @@ The Novodevichy Convent, in south-western Moscow, built in the 16th and 17th cen
 - ✈ **Vnukovo International Airport (VKO)** — 23.8 km
 - ✈ **Sheremetyevo International Airport (SVO)** — 29.9 km
 - ✈ **Domodedovo International Airport (DME)** — 41.6 km
+- 🚉 **Москва-Пассажирская-Киевская** — 1.8 km
+- 🚉 **Москва-Сортировочная-Киевская** — 2.8 km
+- 🚉 **Фили** — 3.3 km
+- 🚉 **Канатчиково** — 3.5 km
+- 🚉 **Москва-Товарная-Смоленская** — 5.1 km
+- ⛴ **Лужники-Служебный** — 1.0 km
+- ⛴ **Лужники** — 1.5 km
+- ⛴ **Воробьёвы горы** — 1.7 km
+- ⛴ **Андреевский** — 1.9 km
+- ⛴ **Нескучный сад** — 2.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5817.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Золотое кольцо** — 2.6 km — star — Golden Ring · 5★
+- **Diamond Apartments** — 3.0 km — star — 5★
+- **Plaza Garden бизнесс корпус** — 3.1 km — star — 5★ · Crowne Plaza
+- **Lotte Hotel Moscow** — 3.2 km — star — 5★ · Lotte Hotels & Resorts
+- **Звезды Арбата** — 3.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

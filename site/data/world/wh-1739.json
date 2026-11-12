@@ -2,8 +2,8 @@
  "id": "wh-1739",
  "unesco_id": "1739",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 272,
+ "tier": "basic",
+ "popularity_rank": 993,
  "popularity_score": 34476,
  "country": "IN",
  "country_zh": "印度",
@@ -44,14 +44,6 @@
  "intro_local": "",
  "intro_local_source": null,
  "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/8pha4r9c_maratha-landscapes_625x300_09_July_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "8pha4r9c maratha-landscapes 625x300 09 July 25.jpg",
-   "author": "Jigyasa kakwani",
-   "license": "CC BY 3.0",
-   "credit": "ndtv.com",
-   "source": "https://commons.wikimedia.org/wiki/File:8pha4r9c_maratha-landscapes_625x300_09_July_25.jpg"
-  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1739.jpg",
    "title": "Maratha Military Landscapes of India",
@@ -102,82 +94,9 @@
   "nearest_airport_km": 67.2,
   "distance_beijing_km": 4607.3,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Waghai",
-    "name_en": null,
-    "lat": 20.7725583,
-    "lon": 73.5003524,
-    "distance_km": 46.3,
-    "operator": "WR"
-   },
-   {
-    "name": "Kolde",
-    "name_en": null,
-    "lat": 21.1613562,
-    "lon": 73.867988,
-    "distance_km": 49.4,
-    "operator": "WR"
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hill top hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 20.5841474,
-   "lon": 73.7504548,
-   "distance_km": 25.2,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Vaishali",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 20.5837156,
-   "lon": 73.7503511,
-   "distance_km": 25.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Purohit",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 20.5813974,
-   "lon": 73.7488617,
-   "distance_km": 25.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Toran",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 20.5820346,
-   "lon": 73.7474761,
-   "distance_km": 25.6,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Toran Hill Resort",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 20.580551,
-   "lon": 73.7471137,
-   "distance_km": 25.7,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -251,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:25Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

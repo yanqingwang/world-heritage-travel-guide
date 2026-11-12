@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iv)"
 lat: 19.04722222
 lon: -98.20833333
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 普埃布拉历史中心 / Historic Centre of Puebla

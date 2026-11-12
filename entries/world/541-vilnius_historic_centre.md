@@ -8,13 +8,13 @@ country: "LT"
 country_zh: "立陶宛"
 country_en: "Lithuania"
 unesco_id: "541"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(ii)(iv)"
 lat: 54.683333333
 lon: 25.283333333
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 维尔纽斯历史中心 / Vilnius Historic Centre
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Gedimino kalnas 58.jpg · see Wikimedia Commons file page*
 
-![Vilnius Historic Centre](https://whc.unesco.org/uploads/sites/site_541.jpg)
+![210 vilnius From Three Crosses Hill (15315336184).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/210_vilnius_From_Three_Crosses_Hill_%2815315336184%29.jpg/1280px-210_vilnius_From_Three_Crosses_Hill_%2815315336184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vilnius Historic Centre · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*210 vilnius From Three Crosses Hill (15315336184).jpg · Brian Toward from London, United Kingdom · CC0*
+
+![330 vilnius Old Town (21653498140).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/330_vilnius_Old_Town_%2821653498140%29.jpg/1280px-330_vilnius_Old_Town_%2821653498140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*330 vilnius Old Town (21653498140).jpg · Brian Toward from London, United Kingdom · CC0*
+
+![Altstadt von Vilnius (5), 1980.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Altstadt_von_Vilnius_%285%29%2C_1980.jpg/1280px-Altstadt_von_Vilnius_%285%29%2C_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt von Vilnius (5), 1980.jpg · Ruth Leiserowitz · CC BY-SA 4.0*
+
+![Altstadt von Vilnius (7), 1980.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Altstadt_von_Vilnius_%287%29%2C_1980.jpg/1280px-Altstadt_von_Vilnius_%287%29%2C_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altstadt von Vilnius (7), 1980.jpg · Ruth Leiserowitz · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Vilniaus senamiestis – seniausioji Vilniaus miesto dalis, esanti kairiajame Ne
 - ✈ **Vilnius International Airport (VNO)** — 5.5 km
 - ✈ **Kaunas International Airport (KUN)** — 82.8 km
 - ✈ **Minsk National Airport (MSQ)** — 199.6 km
+- 🚉 **Vilnius** — 1.5 km
+- 🚉 **Pavilnys** — 4.6 km
+- 🚉 **Naujoji Vilnia** — 8.1 km
+- 🚉 **Paneriai** — 9.1 km
+- 🚉 **Juodšiliai** — 11.5 km
+- ⛴ **Mindaugo tiltas** — 0.7 km
+- ⛴ **Žaliasis tiltas** — 0.9 km
+- ⛴ **Baltasis tiltas** — 1.4 km
+- ⛴ **Verslo trikampis** — 1.6 km
+- ⛴ **Žvėryno tiltas** — 1.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6560.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Stikliai** — 0.3 km — star — 5★
+- **Hotel Narutis** — 0.4 km — star — 5★
+- **Radisson Collection Astorija Hotel** — 0.7 km — star — 5★ · Radisson Blu
+- **Imperial hotel** — 0.8 km — star — 5★
+- **Vilnius Grand Resort** — 18.9 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

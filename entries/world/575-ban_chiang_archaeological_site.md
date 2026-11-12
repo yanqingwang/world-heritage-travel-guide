@@ -8,13 +8,13 @@ country: "TH"
 country_zh: "泰国"
 country_en: "Thailand"
 unesco_id: "575"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(iii)"
 lat: 17.548611111
 lon: 103.358333333
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 班清考古遗址 / Ban Chiang Archaeological Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Wat Pho Si Nai - UNESCO World Heritage Site plaque.JPG · see Wikimedia Commons file page*
 
-![Ban Chiang Archaeological Site](https://whc.unesco.org/uploads/sites/site_575.jpg)
+![Ban Chaing. Prehistory.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ban_Chaing._Prehistory.jpg/1280px-Ban_Chaing._Prehistory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ban Chiang Archaeological Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ban Chaing. Prehistory.jpg · SF12 · CC BY-SA 4.0*
+
+![Ban Chiang Archaeological Site UNESCO plaque.JPG](https://upload.wikimedia.org/wikipedia/commons/d/d2/Ban_Chiang_Archaeological_Site_UNESCO_plaque.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ban Chiang Archaeological Site UNESCO plaque.JPG · The original uploader was Akiponkun at Japanese Wikipedia . · CC BY-SA 3.0*
+
+![Ban Chiang Archaeological Site.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Ban_Chiang_Archaeological_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ban Chiang Archaeological Site.jpg · ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย · CC BY 2.5*
+
+![Ban Chiang excavations.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ban_Chiang_excavations.jpg/1280px-Ban_Chiang_excavations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ban Chiang excavations.jpg · Steve from Bangkok, Thailand · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Ban Chiang is considered the most important prehistoric settlement so far discov
 - ✈ **Sakon Nakhon Airport (SNO)** — 89.8 km
 - ✈ **Wattay International Airport (VTE)** — 96.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2851.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **แอนเจลิส รีสอร์ท** — 15.8 km — hotel — Angeles Resort
+- **สะเดาหวาน รีสอร์ท** — 18.0 km — hotel — Sadao Wan Resort
+- **ลัคกี้ รีสอร์ท** — 18.0 km — hotel — Lucky Resort
+- **M&B BanDung hotel** — 18.6 km — hotel
+- **เพชรแพรวา รีสอร์ท** — 19.2 km — hotel — Phetpraewa Resort
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

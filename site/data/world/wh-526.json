@@ -2,9 +2,9 @@
  "id": "wh-526",
  "unesco_id": "526",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 315,
- "popularity_score": 28788,
+ "tier": "full",
+ "popularity_rank": 290,
+ "popularity_score": 26326,
  "country": "DO",
  "country_zh": "多米尼加",
  "country_en": "Dominican Republic",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_526.jpg",
-   "title": "Colonial City of Santo Domingo",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/526",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alc_de_colon_rio_ozama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Alc de colon rio ozama.jpg",
+   "author": "Dr. Tillmann Bauer",
+   "license": "CC BY-SA 3.0",
+   "credit": "Lokal",
+   "source": "https://commons.wikimedia.org/wiki/File:Alc_de_colon_rio_ozama.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Building_Zona_Colonial2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Building Zona Colonial2.jpg",
+   "author": "Ulises Jorge",
+   "license": "CC BY 2.0",
+   "credit": "[1]",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_Zona_Colonial2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Casa_del_Cord%C3%B3n_Santo_Domingo_photo_of_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Casa del Cordón Santo Domingo photo of 1911.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "https://www.colonialzone-dr.com/casa-del-cordon/",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_del_Cord%C3%B3n_Santo_Domingo_photo_of_1911.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Casa_del_Le%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Casa del León.jpg",
+   "author": "Ulises Jorge",
+   "license": "CC BY 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_del_Le%C3%B3n.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/526",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 15.5,
   "distance_beijing_km": 13457.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Terminal del Ferry Diego Colón",
+    "name_en": null,
+    "lat": 18.476224,
+    "lon": -69.8818241,
+    "distance_km": 0.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Domingo Savio",
+    "name_en": null,
+    "lat": 18.4866937,
+    "lon": -69.8873342,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Farolito",
+    "name_en": null,
+    "lat": 18.4861246,
+    "lon": -69.8771169,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Duarte con París",
+    "name_en": null,
+    "lat": 18.4825951,
+    "lon": -69.8960766,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Darío Contreras",
+    "name_en": null,
+    "lat": 18.4849031,
+    "lon": -69.8625652,
+    "distance_km": 2.5,
+    "operator": null
+   },
+   {
+    "name": "San Vicente de Paúl",
+    "name_en": null,
+    "lat": 18.4850617,
+    "lon": -69.8539131,
+    "distance_km": 3.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Crowne Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.4635836,
+   "lon": -69.8960441,
+   "distance_km": 1.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": "Crowne Plaza",
+   "lat": 18.4639693,
+   "lon": -69.8963633,
+   "distance_km": 1.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": 18.463431,
+   "lon": -69.8979402,
+   "distance_km": 1.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Renaissance Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Renaissance",
+   "lat": 18.4622555,
+   "lon": -69.8999642,
+   "distance_km": 2.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott Santo Domingo",
+   "name_en": null,
+   "stars": null,
+   "brand": "Courtyard",
+   "lat": 18.4680363,
+   "lon": -69.911924,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DO",
   "country_zh": "多米尼加",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

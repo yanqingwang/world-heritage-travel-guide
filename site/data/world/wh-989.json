@@ -2,9 +2,9 @@
  "id": "wh-989",
  "unesco_id": "989",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 331,
- "popularity_score": 26549,
+ "tier": "full",
+ "popularity_rank": 306,
+ "popularity_score": 24328,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_989.jpg",
-   "title": "Archaeological Site of Atapuerca",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/989",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Almost_humans_exhibit_at_ICP_in_Sabadell_%2820%29.JPG/1280px-Almost_humans_exhibit_at_ICP_in_Sabadell_%2820%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Almost humans exhibit at ICP in Sabadell (20).JPG",
+   "author": "Kippelboy",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Almost_humans_exhibit_at_ICP_in_Sabadell_%2820%29.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Atapuerca_banner_Sierra_de_Atapuerca.jpg/1280px-Atapuerca_banner_Sierra_de_Atapuerca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Atapuerca banner Sierra de Atapuerca.jpg",
+   "author": "Mario modesto",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Atapuerca_banner_Sierra_de_Atapuerca.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Atapuerca_carnivore_skull_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Atapuerca carnivore skull 1.jpg",
+   "author": "Valugi",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Atapuerca_carnivore_skull_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Atapuerca_carnivore_skull_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Atapuerca carnivore skull 2.jpg",
+   "author": "Valugi",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Atapuerca_carnivore_skull_2.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/989",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 88.0,
   "distance_beijing_km": 8960.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Burgos - Rosa Manzano",
+    "name_en": null,
+    "lat": 42.3711651,
+    "lon": -3.6663219,
+    "distance_km": 12.3,
+    "operator": "Adif"
+   },
+   {
+    "name": "Briviesca",
+    "name_en": null,
+    "lat": 42.5427319,
+    "lon": -3.3190808,
+    "distance_km": 27.0,
+    "operator": "Adif"
+   },
+   {
+    "name": "Cascajares de la Sierra",
+    "name_en": null,
+    "lat": 42.0556318,
+    "lon": -3.3869956,
+    "distance_km": 34.5,
+    "operator": null
+   },
+   {
+    "name": "Barbadillo del Mercado",
+    "name_en": null,
+    "lat": 42.0316195,
+    "lon": -3.3546921,
+    "distance_km": 37.9,
+    "operator": null
+   },
+   {
+    "name": "Villaquirán",
+    "name_en": null,
+    "lat": 42.2156639,
+    "lon": -3.9996183,
+    "distance_km": 42.2,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Landa Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.3115186,
+   "lon": -3.7037558,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "B&B Hotel Burgos",
+   "name_en": null,
+   "stars": 4,
+   "brand": "B&B Hotels",
+   "lat": 42.3450041,
+   "lon": -3.6847654,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Rice Avenida Reyes Católicos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3477664,
+   "lon": -3.6925133,
+   "distance_km": 14.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Silken Gran Teatro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3410479,
+   "lon": -3.6971648,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sercotel Corona de Castilla",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Sercotel",
+   "lat": 42.3366955,
+   "lon": -3.7006092,
+   "distance_km": 15.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

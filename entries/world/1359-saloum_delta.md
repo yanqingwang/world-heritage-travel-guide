@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(iv)(v)"
 lat: 13.835277777
 lon: -16.498611111
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 萨卢姆河三角洲 / Saloum Delta

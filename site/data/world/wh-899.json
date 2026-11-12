@@ -2,9 +2,9 @@
  "id": "wh-899",
  "unesco_id": "899",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 434,
- "popularity_score": 17878,
+ "tier": "full",
+ "popularity_rank": 399,
+ "popularity_score": 16528,
  "country": "NL",
  "country_zh": "荷兰王国",
  "country_en": "Kingdom of the Netherlands",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_899.jpg",
-   "title": "Droogmakerij de Beemster (Beemster Polder)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/899",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Beemster_flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Beemster flag.png",
+   "author": "Quistnix",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beemster_flag.png"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "381 Beemster.ogg",
+   "author": "Quichot",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self made, in own studio, with own voice",
+   "source": "https://commons.wikimedia.org/wiki/File:381_Beemster.ogg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Atlas_Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland%2C_De_Beemster.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Atlas Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland, De Beemster.jpeg",
+   "author": "Andries Schoemaker / Gerrit Schoemaker / Cornelis Pronk / Abraham de Haen",
+   "license": "Public domain",
+   "credit": "This is an image from the collections of the Koninklijk Oudheidkundig Genootschap , the Royal Dutch Antiquarian Society in Amsterdam, the Netherlands",
+   "source": "https://commons.wikimedia.org/wiki/File:Atlas_Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland%2C_De_Beemster.jpeg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Atlas_Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland%2C_De_Beemster.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Atlas Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland, De Beemster.jpeg",
+   "author": "Andries Schoemaker / Gerrit Schoemaker / Cornelis Pronk / Abraham de Haen",
+   "license": "Public domain",
+   "credit": "This is an image from the collections of the Koninklijk Oudheidkundig Genootschap , the Royal Dutch Antiquarian Society in Amsterdam, the Netherlands",
+   "source": "https://commons.wikimedia.org/wiki/File:Atlas_Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland%2C_De_Beemster.jpeg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/899",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 29.1,
   "distance_beijing_km": 7827.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Landsmeer",
+    "name_en": null,
+    "lat": 52.4634966,
+    "lon": 4.9486576,
+    "distance_km": 9.7,
+    "operator": null
+   },
+   {
+    "name": "Ilpendam",
+    "name_en": null,
+    "lat": 52.4635697,
+    "lon": 4.9493279,
+    "distance_km": 9.7,
+    "operator": null
+   },
+   {
+    "name": "Molletjesveer",
+    "name_en": null,
+    "lat": 52.5144746,
+    "lon": 4.7758086,
+    "distance_km": 11.0,
+    "operator": "Provincie Noiord-Holland"
+   },
+   {
+    "name": "Volendam",
+    "name_en": null,
+    "lat": 52.4941041,
+    "lon": 5.0764366,
+    "distance_km": 11.8,
+    "operator": null
+   },
+   {
+    "name": "Veerbootstation Zuidschermer",
+    "name_en": null,
+    "lat": 52.5706466,
+    "lon": 4.7470574,
+    "distance_km": 12.4,
+    "operator": "Gemeente Castricum"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Purmerend Overwhere",
+    "name_en": null,
+    "lat": 52.5112223,
+    "lon": 4.9670882,
+    "distance_km": 5.1,
+    "operator": null
+   },
+   {
+    "name": "Purmerend",
+    "name_en": null,
+    "lat": 52.5039525,
+    "lon": 4.9544121,
+    "distance_km": 5.4,
+    "operator": null
+   },
+   {
+    "name": "Purmerend Weidevenne",
+    "name_en": null,
+    "lat": 52.4963796,
+    "lon": 4.9350292,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Wormerveer",
+    "name_en": null,
+    "lat": 52.4892769,
+    "lon": 4.7936282,
+    "distance_km": 11.3,
+    "operator": null
+   },
+   {
+    "name": "Zaandijk Zaanse Schans",
+    "name_en": null,
+    "lat": 52.4692791,
+    "lon": 4.8051566,
+    "distance_km": 12.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "NH Collection Amsterdam Barbizon Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 52.3764319,
+   "lon": 4.9003632,
+   "distance_km": 19.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amrath Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.3744566,
+   "lon": 4.9039129,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anantara Grand Hotel Krasnapolsky",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Anantara",
+   "lat": 52.3727291,
+   "lon": 4.8943846,
+   "distance_km": 19.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Twenty Seven",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.372498,
+   "lon": 4.8932903,
+   "distance_km": 19.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 52.3711233,
+   "lon": 4.8954212,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NL",
   "country_zh": "荷兰王国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:18Z"
+ "updated_at": "2026-11-12T11:55:31Z"
 }

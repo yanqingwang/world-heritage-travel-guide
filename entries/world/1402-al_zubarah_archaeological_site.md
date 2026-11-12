@@ -8,13 +8,13 @@ country: "QA"
 country_zh: "卡塔尔"
 country_en: "Qatar"
 unesco_id: "1402"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2013"
 criteria: "(iii)(iv)(v)"
 lat: 25.9833949
 lon: 51.0272187
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 祖巴拉 / Al Zubarah Archaeological Site
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:30:22Z"
 ![Ruins in Zubarah on a cloudy day.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20in%20Zubarah%20on%20a%20cloudy%20day.jpg?width=1280)
 
 *Ruins in Zubarah on a cloudy day.jpg · see Wikimedia Commons file page*
+
+![2 - Al Zubarah archaeological fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2_-_Al_Zubarah_archaeological_fort.jpg/1280px-2_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2 - Al Zubarah archaeological fort.jpg · Mr fahad.k · CC BY-SA 4.0*
+
+![4 - Al Zubarah archaeological fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/4_-_Al_Zubarah_archaeological_fort.jpg/1280px-4_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4 - Al Zubarah archaeological fort.jpg · Mr fahad.k · CC BY-SA 4.0*
+
+![Qatar, Zubarah (10), ruined city.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG/1280px-Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Qatar, Zubarah (10), ruined city.JPG · Vincent van Zeijst · CC BY-SA 3.0*
 
 ![Al Zubarah Archaeological Site](https://whc.unesco.org/uploads/sites/site_1402.jpg)
 
@@ -53,6 +65,16 @@ The walled coastal town of Al Zubarah in the Persian Gulf flourished as a pearli
 - ✈ **Hamad International Airport (DOH)** — 98.1 km
 - ✈ **King Fahd International Airport (DMM)** — 134.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6185.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Fuwairit Kite Beach, Tapestry Collection by Hilton** — 35.9 km — star — 4★ · Tapestry Collection by Hilton
+- **ibis** — 44.2 km — chain — ibis
+- **Best Western Hotel Juffair** — 49.3 km — chain — Best Western Hotel Juffair · Best Western
+- **Hilton Bahrain** — 49.5 km — chain — Hilton Bahrain · Hilton
+- **Best Western Plus Olive** — 49.6 km — chain — Best Western Plus Olive · Best Western Plus
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

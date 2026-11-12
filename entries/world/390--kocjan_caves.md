@@ -8,13 +8,13 @@ country: "SI"
 country_zh: "斯洛文尼亚"
 country_en: "Slovenia"
 unesco_id: "390"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1986"
 criteria: "(vii)(viii)"
 lat: 45.665
 lon: 13.99472
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 斯科契扬溶洞 / Škocjan Caves
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:13Z"
 
 *SkocjanskeJame 2013jpg.jpg · see Wikimedia Commons file page*
 
-![Škocjan Caves](https://whc.unesco.org/uploads/sites/site_390.jpg)
+![Reka pri Škocjanu 1815.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Reka_pri_%C5%A0kocjanu_1815.jpg/1280px-Reka_pri_%C5%A0kocjanu_1815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Škocjan Caves · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Reka pri Škocjanu 1815.jpg · Ferdinand Runk / Karel Postl · Public domain*
+
+![2134-Skocjan-Caves (27802955942).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2134-Skocjan-Caves_%2827802955942%29.jpg/1280px-2134-Skocjan-Caves_%2827802955942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2134-Skocjan-Caves (27802955942).jpg · xiquinhosilva · CC BY 2.0*
+
+![2136-Skocjan-Caves (27291552453).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2136-Skocjan-Caves_%2827291552453%29.jpg/1280px-2136-Skocjan-Caves_%2827291552453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2136-Skocjan-Caves (27291552453).jpg · xiquinhosilva · CC BY 2.0*
+
+![2144-Skocjan-Caves (27904364205).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2144-Skocjan-Caves_%2827904364205%29.jpg/1280px-2144-Skocjan-Caves_%2827904364205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2144-Skocjan-Caves (27904364205).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ This exceptional system of limestone caves comprises collapsed dolines, some 6 k
 - ✈ **Trieste Airport (TRS)** — 44.8 km
 - ✈ **Rijeka Airport (RJK)** — 67.1 km
 - ✈ **Ljubljana Jože Pučnik Airport (LJU)** — 71.7 km
+- 🚉 **Divača** — 2.9 km
+- 🚉 **Rodik** — 4.5 km
+- 🚉 **Gornje Ležeče** — 6.0 km
+- 🚉 **Povir** — 6.3 km
+- 🚉 **Hrpelje-Kozina** — 8.2 km
+- ⛴ **Zona Industriale** — 15.4 km
+- ⛴ **Liberty Lines** — 17.6 km
+- ⛴ **Trieste Terminal Passaggeri s.p.a.** — 17.6 km
+- ⛴ **Arsenale San Marco** — 17.7 km
+- ⛴ **Trieste - Molo Audace** — 17.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7791.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Maestoso** — 8.7 km — star — 5★
+- **Savoia Excelsior Palace** — 17.9 km — star — 5★
+- **Greif Maria Theresia** — 18.7 km — star — 5★
+- **Tivoli Wellness Resort & Spa** — 30.0 km — star — 5★ · Tivoli
+- **Hotel Palace Portorož** — 35.5 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,8 +2,8 @@
  "id": "wh-1605",
  "unesco_id": "1605",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 30,
+ "tier": "basic",
+ "popularity_rank": 950,
  "popularity_score": 422347,
  "country": "IN",
  "country_zh": "印度",
@@ -126,106 +126,9 @@
   "nearest_airport_km": 10.1,
   "distance_beijing_km": 4017.9,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Bais Godam",
-    "name_en": null,
-    "lat": 26.9017919,
-    "lon": 75.7895065,
-    "distance_km": 3.4,
-    "operator": "NWR"
-   },
-   {
-    "name": "Jaipur Junction",
-    "name_en": "Jaipur Junction",
-    "lat": 26.9207888,
-    "lon": 75.7866539,
-    "distance_km": 3.4,
-    "operator": "NWR"
-   },
-   {
-    "name": "Gandhi Nagar Jaipur",
-    "name_en": null,
-    "lat": 26.8728017,
-    "lon": 75.7992199,
-    "distance_km": 5.1,
-    "operator": "North Western Railway"
-   },
-   {
-    "name": "Dahar-Ka-Balaji",
-    "name_en": null,
-    "lat": 26.9445145,
-    "lon": 75.766114,
-    "distance_km": 6.3,
-    "operator": "NWR"
-   },
-   {
-    "name": "Durgapura",
-    "name_en": null,
-    "lat": 26.855093,
-    "lon": 75.7870163,
-    "distance_km": 7.4,
-    "operator": "NWR"
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Shahpura House",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 26.9278442,
-   "lon": 75.7877823,
-   "distance_km": 3.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hilton Jaipur",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Hilton",
-   "lat": 26.900956,
-   "lon": 75.7839508,
-   "distance_km": 3.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Trident Hotel , Jaipur",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Trident Hotels",
-   "lat": 26.9569767,
-   "lon": 75.8429925,
-   "distance_km": 5.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Oberoi  Rajvilas",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 26.8763394,
-   "lon": 75.8838128,
-   "distance_km": 7.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Royal orchid",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 26.844801,
-   "lon": 75.792943,
-   "distance_km": 8.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -296,5 +199,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

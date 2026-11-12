@@ -3,8 +3,8 @@
  "unesco_id": "1439",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 266,
- "popularity_score": 36382,
+ "popularity_rank": 245,
+ "popularity_score": 33340,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -194,19 +194,19 @@
     "operator": "한국철도공사"
    },
    {
+    "name": "모란",
+    "name_en": "Moran",
+    "lat": 37.4322241,
+    "lon": 127.1290831,
+    "distance_km": 7.0,
+    "operator": "한국철도공사"
+   },
+   {
     "name": "수서",
     "name_en": "Suseo",
     "lat": 37.485099,
     "lon": 127.1046888,
     "distance_km": 7.1,
-    "operator": "에스알"
-   },
-   {
-    "name": "야탑",
-    "name_en": "Yatap",
-    "lat": 37.4112976,
-    "lon": 127.1287143,
-    "distance_km": 8.9,
     "operator": "한국철도공사"
    }
   ]
@@ -336,5 +336,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

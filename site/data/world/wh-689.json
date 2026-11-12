@@ -2,9 +2,9 @@
  "id": "wh-689",
  "unesco_id": "689",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 404,
- "popularity_score": 20323,
+ "tier": "full",
+ "popularity_rank": 381,
+ "popularity_score": 17882,
  "country": "JO",
  "country_zh": "约旦",
  "country_en": "Jordan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_689.jpg",
-   "title": "As-Salt - The Place of Tolerance and Urban Hospitality",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/689",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%28IWM_MH33941%29_Yeomanry_in_Es_Salt.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "(IWM MH33941) Yeomanry in Es Salt.jpeg",
+   "author": "Australian Official Photographer",
+   "license": "Public domain",
+   "credit": "This photograph MH 33941 comes from the collections of the Imperial War Museums .",
+   "source": "https://commons.wikimedia.org/wiki/File:%28IWM_MH33941%29_Yeomanry_in_Es_Salt.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%281%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al Manshieh, As-Salt, Jordan - panoramio (1).jpg",
+   "author": "kmmj92",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161030121535/http://www.panoramio.com/photo/100922003",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%282%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al Manshieh, As-Salt, Jordan - panoramio (2).jpg",
+   "author": "kmmj92",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161030064923/http://www.panoramio.com/photo/98352064",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%283%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al Manshieh, As-Salt, Jordan - panoramio (3).jpg",
+   "author": "kmmj92",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161029050609/http://www.panoramio.com/photo/98352136",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%283%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/689",
@@ -103,9 +127,82 @@
   "nearest_airport_km": 26.0,
   "distance_beijing_km": 7055.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "محطة عمان",
+    "name_en": "Amman Station",
+    "lat": 31.9688433,
+    "lon": 35.9687857,
+    "distance_km": 24.1,
+    "operator": "Jordan Hejaz Railway"
+   },
+   {
+    "name": "محطة القصر",
+    "name_en": "Qasr Station",
+    "lat": 31.9070843,
+    "lon": 35.9367374,
+    "distance_km": 24.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق الف ليلة",
+   "name_en": "Thousand Nights Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.9880771,
+   "lon": 35.8663533,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza Amman",
+   "name_en": "Crowne Plaza Amman",
+   "stars": 5,
+   "brand": "Crowne Plaza",
+   "lat": 31.9622351,
+   "lon": 35.87013,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Amman",
+   "name_en": "Four Seasons Hotel",
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 31.9617,
+   "lon": 35.8809836,
+   "distance_km": 16.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton Al Nabil",
+   "name_en": "Sheraton Al Nabil",
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 31.9603261,
+   "lon": 35.880001,
+   "distance_km": 16.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Signia by Hilton Amman",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 31.9684555,
+   "lon": 35.8973019,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JO",
   "country_zh": "约旦",
@@ -177,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:29Z"
 }

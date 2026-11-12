@@ -56,7 +56,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 775,
+ "hotels_nearby_50km": 777,
  "stations": [
   {
    "name": "보문",
@@ -99,14 +99,6 @@
    "operator": "우이신설 도시철도"
   },
   {
-   "name": "서울",
-   "name_en": "Seoul",
-   "lat": 37.5545547,
-   "lon": 126.9707793,
-   "distance_km": 3.3,
-   "operator": "한국철도공사"
-  },
-  {
    "name": "북한산보국문",
    "name_en": "Bukhansan Bogungmun",
    "lat": 37.6121803,
@@ -120,6 +112,14 @@
    "lat": 37.5614861,
    "lon": 127.0385786,
    "distance_km": 4.6,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "신촌",
+   "name_en": "Sinchon",
+   "lat": 37.5597815,
+   "lon": 126.9423581,
+   "distance_km": 4.9,
    "operator": "한국철도공사"
   }
  ],
@@ -165,5 +165,5 @@
    "operator": null
   }
  ],
- "fetched_at": "2026-11-08T12:00:52Z"
+ "fetched_at": "2026-11-12T11:54:06Z"
 }

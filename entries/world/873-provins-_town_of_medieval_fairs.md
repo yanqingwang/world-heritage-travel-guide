@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 48.559722222
 lon: 3.298888888
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 普罗万城 / Provins, Town of Medieval Fairs

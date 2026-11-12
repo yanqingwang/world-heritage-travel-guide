@@ -8,13 +8,13 @@ country: "NZ"
 country_zh: "新西兰"
 country_en: "New Zealand"
 unesco_id: "877"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1998"
 criteria: "(ix)(x)"
 lat: -50.75
 lon: 166.104
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 新西兰次南极区群岛 / New Zealand Sub-Antarctic Islands
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:30:17Z"
 ![Campbell Island Landscape.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Campbell%20Island%20Landscape.jpg?width=1280)
 
 *Campbell Island Landscape.jpg · see Wikimedia Commons file page*
+
+![Karta NZ Subantarctic islands.PNG](https://upload.wikimedia.org/wikipedia/commons/f/f2/Karta_NZ_Subantarctic_islands.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Karta NZ Subantarctic islands.PNG · Hobe / Holger Behr · Public domain*
+
+![New Zealand Subantarctic Islands.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/New_Zealand_Subantarctic_Islands.svg/1280px-New_Zealand_Subantarctic_Islands.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*New Zealand Subantarctic Islands.svg · Kikos · CC BY-SA 3.0*
 
 ![New Zealand Sub-Antarctic Islands](https://whc.unesco.org/uploads/sites/site_877.jpg)
 
@@ -46,6 +54,12 @@ The New Zealand Sub-Antarctic Islands consist of five island groups (the Snares,
 - ✈ **Invercargill Airport (IVC)** — 508.9 km
 - ✈ **Dunedin International Airport (DUD)** — 615.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10899.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

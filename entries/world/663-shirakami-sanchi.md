@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "663"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1993"
 criteria: "(ix)"
 lat: 40.450277777
 lon: 140.198611111
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 白神山地 / Shirakami-Sanchi
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *Sirakami santi.JPG · see Wikimedia Commons file page*
 
-![Shirakami-Sanchi](https://whc.unesco.org/uploads/sites/site_663.jpg)
+![400 years old beech (400年ブナ) - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/400_years_old_beech_%28400%E5%B9%B4%E3%83%96%E3%83%8A%29_-_panoramio.jpg/1280px-400_years_old_beech_%28400%E5%B9%B4%E3%83%96%E3%83%8A%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shirakami-Sanchi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*400 years old beech (400年ブナ) - panoramio.jpg · Ocavis Leechroot · CC BY 3.0*
+
+![Aqua Green Village ANMON - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2d/Aqua_Green_Village_ANMON_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aqua Green Village ANMON - panoramio.jpg · torakiti · CC BY 3.0*
+
+![Dakedai 400 nen buna.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Dakedai_400_nen_buna.jpg/1280px-Dakedai_400_nen_buna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dakedai 400 nen buna.jpg · らんで · CC BY-SA 4.0*
+
+![Daketai Spring.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2d/Daketai_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Daketai Spring.jpg · 特定非営利活動法人 あきた観光誘客促進支援機構 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Situated in the mountains of northern Honshu, this trackless site includes the l
 - ✈ **Odate Noshiro Airport (ONJ)** — 32.2 km
 - ✈ **Aomori Airport (AOJ)** — 52.1 km
 - ✈ **Akita Airport (AXT)** — 92.8 km
+- 🚉 **八森** — 17.6 km
+- 🚉 **滝ノ間** — 18.4 km
+- 🚉 **あきた白神** — 19.2 km
+- 🚉 **東八森** — 19.3 km
+- 🚉 **岩館** — 20.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2016.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **あきた白神温泉ホテル** — 19.9 km — hotel
+- **ゆだんの宿** — 20.1 km — hotel
+- **嶽温泉山のホテル** — 20.9 km — hotel
+- **あそべの森いわき荘** — 22.1 km — hotel
+- **温泉旅館 中野** — 22.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

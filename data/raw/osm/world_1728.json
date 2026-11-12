@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Villa Huno",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 54.9821839,
+   "lon": 12.52438,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Liselund Ny Slot",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 55.0001708,
+   "lon": 12.5216719,
+   "distance_km": 4.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marina Park - Klintholm",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 54.9545889,
+   "lon": 12.4673378,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Præstekilde",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 54.9911831,
+   "lon": 12.3508875,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Stege Nor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 54.992257,
+   "lon": 12.3006717,
+   "distance_km": 16.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 20,
+ "stations": [
+  {
+   "name": "Rødvig",
+   "name_en": null,
+   "lat": 55.2593354,
+   "lon": 12.3762022,
+   "distance_km": 34.7,
+   "operator": "Lokaltog"
+  },
+  {
+   "name": "Faxe Ladeplads",
+   "name_en": null,
+   "lat": 55.2169821,
+   "lon": 12.1619457,
+   "distance_km": 37.5,
+   "operator": "Lokaltog"
+  },
+  {
+   "name": "Store Heddinge",
+   "name_en": null,
+   "lat": 55.3094862,
+   "lon": 12.3856747,
+   "distance_km": 39.8,
+   "operator": "Lokaltog"
+  },
+  {
+   "name": "Faxe Syd",
+   "name_en": null,
+   "lat": 55.2421522,
+   "lon": 12.1369368,
+   "distance_km": 40.7,
+   "operator": "Lokaltog"
+  },
+  {
+   "name": "Vordingborg",
+   "name_en": null,
+   "lat": 55.0118034,
+   "lon": 11.89923,
+   "distance_km": 42.0,
+   "operator": "DSB"
+  },
+  {
+   "name": "Nørre Alslev",
+   "name_en": null,
+   "lat": 54.8970991,
+   "lon": 11.885756,
+   "distance_km": 43.2,
+   "operator": "DSB"
+  },
+  {
+   "name": "Eskilstrup",
+   "name_en": null,
+   "lat": 54.856068,
+   "lon": 11.8853384,
+   "distance_km": 44.3,
+   "operator": "DSB"
+  },
+  {
+   "name": "Karise",
+   "name_en": null,
+   "lat": 55.3070046,
+   "lon": 12.1956227,
+   "distance_km": 44.4,
+   "operator": "Lokaltog"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ydre Havn",
+   "name_en": null,
+   "lat": 54.9827625,
+   "lon": 12.2809694,
+   "distance_km": 17.4,
+   "operator": null
+  },
+  {
+   "name": "Sukkerfabrikshavn",
+   "name_en": null,
+   "lat": 54.9822061,
+   "lon": 12.2793033,
+   "distance_km": 17.5,
+   "operator": null
+  },
+  {
+   "name": "Nordre Havn",
+   "name_en": null,
+   "lat": 54.98401,
+   "lon": 12.280901,
+   "distance_km": 17.5,
+   "operator": null
+  },
+  {
+   "name": "Camping Mønbroen",
+   "name_en": null,
+   "lat": 54.9864449,
+   "lon": 12.1730295,
+   "distance_km": 24.3,
+   "operator": "Postbåden Røret"
+  },
+  {
+   "name": "Nyord (Postbåden Røret)",
+   "name_en": null,
+   "lat": 55.0396623,
+   "lon": 12.1935828,
+   "distance_km": 24.4,
+   "operator": "Postbåden Røret"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:21Z"
+}

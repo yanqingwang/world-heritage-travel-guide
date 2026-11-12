@@ -2,9 +2,9 @@
  "id": "wh-368",
  "unesco_id": "368",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 408,
- "popularity_score": 19845,
+ "tier": "full",
+ "popularity_rank": 379,
+ "popularity_score": 18044,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -51,6 +51,22 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Box%20Log%20Falls.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Natural_Bridge_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Natural Bridge Panorama.jpg",
+   "author": "",
+   "license": "CC BY-SA 2.5",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Natural_Bridge_Panorama.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E9%9B%AA%E6%A2%A8%E6%AD%8C%E5%8A%87%E9%99%A215.jpg/1280px-%E9%9B%AA%E6%A2%A8%E6%AD%8C%E5%8A%87%E9%99%A215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "雪梨歌劇院15.jpg",
+   "author": "林高志",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E6%A2%A8%E6%AD%8C%E5%8A%87%E9%99%A215.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_368.jpg",
@@ -102,7 +118,24 @@
   "nearest_airport_km": 26.2,
   "distance_beijing_km": 8464.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Moree",
+    "name_en": null,
+    "lat": -29.4733796,
+    "lon": 149.848227,
+    "distance_km": 27.8,
+    "operator": "NSW TrainLink"
+   },
+   {
+    "name": "Bellata Station",
+    "name_en": null,
+    "lat": -29.9183823,
+    "lon": 149.7905716,
+    "distance_km": 39.9,
+    "operator": "NSW TrainLink"
+   }
+  ]
  },
  "hotels": [],
  "visa": {
@@ -176,5 +209,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

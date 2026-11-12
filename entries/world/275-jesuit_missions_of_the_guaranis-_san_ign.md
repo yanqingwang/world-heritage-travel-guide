@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "275"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1983"
 criteria: "(iv)"
 lat: -27.255280555
 lon: -55.531669444
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 瓜拉尼人聚居地的耶稣会传教区：阿根廷的圣伊格纳西奥米尼、圣安娜、罗雷托圣母村和圣母玛利亚艾尔马约尔村遗迹以及巴西的圣米格尔杜斯米索纳斯遗迹 / Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Ruinas de Sao Miguel das Missoes.jpg · see Wikimedia Commons file page*
 
-![Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)](https://whc.unesco.org/uploads/sites/site_275.jpg)
+![A Current Description of the Province of the Society of Jesus in Paraguay with Neighboring Areas WDL2581.png](https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Current Description of the Province of the Society of Jesus in Paraguay with Neighboring Areas WDL2581.png · Retz, Francisco · Public domain*
+
+![Conquista espiritual hecha por los religiosos de la Compañia de Iesus, en las prouincias del Paraguay, Parana, Vruguay y Tape (IA A1100623).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Conquista_espiritual_hecha_por_los_religiosos_de_la_Compa%C3%B1ia_de_Iesus%2C_en_las_prouincias_del_Paraguay%2C_Parana%2C_Vruguay_y_Tape_%28IA_A1100623%29.pdf/page1-250px-Conquista_espiritual_hecha_por_los_religiosos_de_la_Compa%C3%B1ia_de_Iesus%2C_en_las_prouincias_del_Paraguay%2C_Parana%2C_Vruguay_y_Tape_%28IA_A1100623%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Conquista espiritual hecha por los religiosos de la Compañia de Iesus, en las prouincias del Paraguay, Parana, Vruguay y Tape (IA A1100623).pdf · Ruiz de Montoya, Antonio (S.I.) Imprenta Real (Madrid) · Public domain*
+
+![AngelMLP1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/AngelMLP1.jpg/1280px-AngelMLP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AngelMLP1.jpg · Lmalena · CC BY-SA 4.0*
+
+![Arte de la Lengua Guarani - Antonio Ruiz de Montoya.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9f/Arte_de_la_Lengua_Guarani_-_Antonio_Ruiz_de_Montoya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arte de la Lengua Guarani - Antonio Ruiz de Montoya.jpg · Antonio Ruiz de Montoya · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,25 @@ En el corazón mismo de la selva tropical están ubicadas las ruinas de cinco mi
 - ✈ **Teniente Ramon A. Ayub Gonzalez International Airport (ENO)** — 30.4 km
 - ✈ **Libertador Gral D Jose De San Martin Airport (PSS)** — 45.7 km
 - ✈ **Luis Alberto Lehr Airport (SRA)** — 123.2 km
+- 🚉 **Encarnación** — 33.4 km
+- 🚉 **Posadas** — 37.5 km
+- 🚉 **Garupá** — 38.7 km
+- ⛴ **Puerto San Ignacio** — 3.9 km
+- ⛴ **Puerto Viejo San Ignacio** — 3.9 km
+- ⛴ **Puerto Cantera** — 7.7 km
+- ⛴ **Puerto Santa Ana** — 10.6 km
+- ⛴ **Puerto Cazador** — 11.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **18424.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **HOTEL TRAVEL ENCARNACIÓN** — 35.3 km — star — 5★ · HTE
+- **Müller Hotel** — 24.3 km — star — 4★
+- **Julio César** — 38.2 km — star — 4★
+- **HA Urbano Posadas** — 38.2 km — star — 4★
+- **Maitei Posadas Hotel & Resort** — 45.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

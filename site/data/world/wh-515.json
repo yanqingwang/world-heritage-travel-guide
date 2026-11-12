@@ -2,9 +2,9 @@
  "id": "wh-515",
  "unesco_id": "515",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 422,
- "popularity_score": 18377,
+ "tier": "full",
+ "popularity_rank": 393,
+ "popularity_score": 16798,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_515.jpg",
-   "title": "Abbey and Altenmünster of Lorsch",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/515",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/0246b_Klostermauer_Lorsch.jpg/1280px-0246b_Klostermauer_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0246b Klostermauer Lorsch.jpg",
+   "author": "Heinz-Vale",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0246b_Klostermauer_Lorsch.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2023-06-14_11-52-56_Kloster_Lorsch.jpg/1280px-2023-06-14_11-52-56_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2023-06-14 11-52-56 Kloster Lorsch.jpg",
+   "author": "Norbert Rau",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-06-14_11-52-56_Kloster_Lorsch.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023-06-14_11-57-23_Kloster_Lorsch.jpg/1280px-2023-06-14_11-57-23_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2023-06-14 11-57-23 Kloster Lorsch.jpg",
+   "author": "Norbert Rau",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-06-14_11-57-23_Kloster_Lorsch.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2023-06-14_12-03-54_Kloster_Lorsch.jpg/1280px-2023-06-14_12-03-54_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2023-06-14 12-03-54 Kloster Lorsch.jpg",
+   "author": "Norbert Rau",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-06-14_12-03-54_Kloster_Lorsch.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/515",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 20.5,
   "distance_beijing_km": 7830.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Fähranleger Gernsheim",
+    "name_en": null,
+    "lat": 49.7533087,
+    "lon": 8.4745506,
+    "distance_km": 13.0,
+    "operator": null
+   },
+   {
+    "name": "Marina-Steganlage \" Zum Eicher See\"",
+    "name_en": null,
+    "lat": 49.7613928,
+    "lon": 8.4402304,
+    "distance_km": 15.1,
+    "operator": null
+   },
+   {
+    "name": "Altrheinhafen, Becken 32",
+    "name_en": null,
+    "lat": 49.5284759,
+    "lon": 8.462269,
+    "distance_km": 15.9,
+    "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+   },
+   {
+    "name": "Ölhafen",
+    "name_en": null,
+    "lat": 49.5322336,
+    "lon": 8.4436595,
+    "distance_km": 16.2,
+    "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+   },
+   {
+    "name": "Waldhofbecken",
+    "name_en": null,
+    "lat": 49.5177994,
+    "lon": 8.4723557,
+    "distance_km": 16.6,
+    "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Lorsch",
+    "name_en": null,
+    "lat": 49.6590497,
+    "lon": 8.5660491,
+    "distance_km": 0.6,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Bensheim",
+    "name_en": null,
+    "lat": 49.680791,
+    "lon": 8.616808,
+    "distance_km": 4.6,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Heppenheim (Bergstr)",
+    "name_en": null,
+    "lat": 49.6416143,
+    "lon": 8.6333327,
+    "distance_km": 4.9,
+    "operator": null
+   },
+   {
+    "name": "Bensheim-Auerbach",
+    "name_en": null,
+    "lat": 49.7016019,
+    "lon": 8.6132493,
+    "distance_km": 6.2,
+    "operator": "DB Station&Service AG"
+   },
+   {
+    "name": "Bürstadt",
+    "name_en": null,
+    "lat": 49.6457684,
+    "lon": 8.4581969,
+    "distance_km": 8.0,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Heidelberg Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4151691,
+   "lon": 8.7066598,
+   "distance_km": 28.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Europäischer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4080367,
+   "lon": 8.6954063,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Deidesheimer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4082313,
+   "lon": 8.1874418,
+   "distance_km": 38.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ketschauer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4078535,
+   "lon": 8.1854542,
+   "distance_km": 38.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Mainz",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 49.9964635,
+   "lon": 8.2814525,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

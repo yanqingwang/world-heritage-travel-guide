@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "The Bartizan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 6.0256695,
+   "lon": 80.2160463,
+   "distance_km": 24.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sielen Diva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.9986625,
+   "lon": 80.2706127,
+   "distance_km": 26.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weligama Bay Marriott Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.9730237,
+   "lon": 80.4394311,
+   "distance_km": 34.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thaala Bentota",
+   "name_en": "Thaala Bentota",
+   "stars": 4,
+   "brand": null,
+   "lat": 6.4235375,
+   "lon": 79.9964815,
+   "distance_km": 37.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Talalla Retreat",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 5.9431254,
+   "lon": 80.619838,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 707,
+ "stations": [
+  {
+   "name": "Kumarakanda",
+   "name_en": null,
+   "lat": 6.1124485,
+   "lon": 80.1242871,
+   "distance_km": 22.3,
+   "operator": null
+  },
+  {
+   "name": "Richmond Hill",
+   "name_en": null,
+   "lat": 6.0539303,
+   "lon": 80.2048071,
+   "distance_km": 22.3,
+   "operator": null
+  },
+  {
+   "name": "Seenigama",
+   "name_en": null,
+   "lat": 6.1586793,
+   "lon": 80.094758,
+   "distance_km": 22.4,
+   "operator": null
+  },
+  {
+   "name": "Thiranagama",
+   "name_en": null,
+   "lat": 6.1223145,
+   "lon": 80.1143858,
+   "distance_km": 22.5,
+   "operator": null
+  },
+  {
+   "name": "Rathgama",
+   "name_en": null,
+   "lat": 6.09335,
+   "lon": 80.1401109,
+   "distance_km": 22.5,
+   "operator": null
+  },
+  {
+   "name": "Telwatte",
+   "name_en": null,
+   "lat": 6.169066,
+   "lon": 80.0888763,
+   "distance_km": 22.6,
+   "operator": null
+  },
+  {
+   "name": "Dodanduwa",
+   "name_en": null,
+   "lat": 6.0981764,
+   "lon": 80.1328946,
+   "distance_km": 22.7,
+   "operator": null
+  },
+  {
+   "name": "Boossa",
+   "name_en": null,
+   "lat": 6.0739289,
+   "lon": 80.1611425,
+   "distance_km": 22.7,
+   "operator": "Sri Lanka Railways"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:47Z"
+}

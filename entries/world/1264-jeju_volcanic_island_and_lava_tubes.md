@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "1264"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2007"
 criteria: "(vii)(viii)"
 lat: 33.36138889
 lon: 126.5325
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 济州火山岛和熔岩洞 / Jeju Volcanic Island and Lava Tubes
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Hallasan 2.jpg · see Wikimedia Commons file page*
 
-![Jeju Volcanic Island and Lava Tubes](https://whc.unesco.org/uploads/sites/site_1264.jpg)
+![Jeju Island rocks - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Jeju_Island_rocks_-_panoramio.jpg/1280px-Jeju_Island_rocks_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jeju Volcanic Island and Lava Tubes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Jeju Island rocks - panoramio.jpg · gary4now · CC BY 3.0*
+
+![Jeju olle road.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Jeju_olle_road.JPG/1280px-Jeju_olle_road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jeju olle road.JPG · Teddy0408 · Public domain*
+
+![Jungmun Saekdal Beach South Korea Seascape Photography (255046171).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Jungmun_Saekdal_Beach_South_Korea_Seascape_Photography_%28255046171%29.jpeg/1280px-Jungmun_Saekdal_Beach_South_Korea_Seascape_Photography_%28255046171%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jungmun Saekdal Beach South Korea Seascape Photography (255046171).jpeg · Giuseppe Milo · CC BY 3.0*
+
+![Korea-Jeju-do-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Korea-Jeju-do-01.jpg/1280px-Korea-Jeju-do-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Korea-Jeju-do-01.jpg · leigh cooper · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Jeju Volcanic Island and Lava Tubes together comprise three sites that make up 1
 - ✈ **Jeju International Airport (CJU)** — 17.2 km
 - ✈ **Muan International Airport (MWX)** — 181.8 km
 - ✈ **Yeosu Airport (RSU)** — 192.6 km
+- ⛴ **제주나루터** — 13.3 km
+- ⛴ **막숙포구(법환포구)** — 13.9 km
+- ⛴ **망장포(자연포구)** — 15.0 km
+- ⛴ **제주민군복합형관광미항** — 15.5 km
+- ⛴ **월평포구** — 15.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1144.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **더 아트스테이 제주함덕호텔** — 23.7 km — star — The Artstay Jeju Hamdeok · 4★
+- **머큐어 앰배서더 제주** — 18.7 km — star — Mercure Ambassador Jeju · 3★ · Mercure
+- **담앤루** — 14.9 km — star — Dam N Roo Pool Villa N Spa Resort
+- **엔파제주호텔** — 31.5 km — star — 엔파그룹
+- **JW Marriott Jeju Resort & Spa - JW 메리어트 제주 리조트 앤 스파** — 13.1 km — chain — JW Marriott
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

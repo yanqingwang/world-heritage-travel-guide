@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Riyadh Olaya",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 24.7102272,
+   "lon": 46.6721862,
+   "distance_km": 10.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 24.711037,
+   "lon": 46.6733604,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Riyadh Olaya",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 24.6981992,
+   "lon": 46.6821164,
+   "distance_km": 11.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Intercontinental Hotel, Riyadh",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 24.6671024,
+   "lon": 46.6913095,
+   "distance_km": 13.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Riyadh Marriott",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 24.6858962,
+   "lon": 46.7125375,
+   "distance_km": 14.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 148,
+ "stations": [
+  {
+   "name": "محطة سكة حديد الرياض",
+   "name_en": "Riyadh Railway Station",
+   "lat": 24.6504685,
+   "lon": 46.7406568,
+   "distance_km": 19.1,
+   "operator": "Saudi Arabia Railways"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:47Z"
+}

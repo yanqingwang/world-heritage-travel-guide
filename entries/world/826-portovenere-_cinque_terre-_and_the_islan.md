@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 44.10694444
 lon: 9.72916667
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 韦内雷港、五村镇以及沿海群岛 / Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)

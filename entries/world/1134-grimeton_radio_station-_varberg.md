@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 57.113983
 lon: 12.404417
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 威堡广播站 / Grimeton Radio Station, Varberg

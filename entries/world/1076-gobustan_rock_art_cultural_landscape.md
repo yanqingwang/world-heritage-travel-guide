@@ -8,13 +8,13 @@ country: "AZ"
 country_zh: "阿塞拜疆"
 country_en: "Azerbaijan"
 unesco_id: "1076"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(iii)"
 lat: 40.10555556
 lon: 49.38888889
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 戈布斯坦岩石艺术文化景观 / Gobustan Rock Art Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Qobustan giriş qayası 2026 (1).jpg · see Wikimedia Commons file page*
 
-![Gobustan Rock Art Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1076.jpg)
+![(L) qobustan 048.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/%28L%29_qobustan_048.jpg/1280px-%28L%29_qobustan_048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Gobustan Rock Art Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(L) qobustan 048.jpg · Naturefriends · CC BY-SA 4.0*
+
+![(L) qobustan 049.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%28L%29_qobustan_049.JPG/1280px-%28L%29_qobustan_049.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(L) qobustan 049.JPG · Naturefriends · CC BY-SA 4.0*
+
+![A recreation of a tandoor oven for making bread (37092480082).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/A_recreation_of_a_tandoor_oven_for_making_bread_%2837092480082%29.jpg/1280px-A_recreation_of_a_tandoor_oven_for_making_bread_%2837092480082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A recreation of a tandoor oven for making bread (37092480082).jpg · shankar s. from Dubai, united arab emirates · CC BY 2.0*
+
+![Ana zağa düşərgəsi 2026 (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ana_za%C4%9Fa_d%C3%BC%C5%9F%C9%99rg%C9%99si_2026_%281%29.jpg/1280px-Ana_za%C4%9Fa_d%C3%BC%C5%9F%C9%99rg%C9%99si_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ana zağa düşərgəsi 2026 (1).jpg · Rəcəb Yaxşı · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Qobustan Milli Tarix-Bədii Qoruğu — Azərbaycan ərazisində, Bakı yaxınl�
 - ✈ **Heydar Aliyev International Airport (GYD)** — 69.4 km
 - ✈ **Parsabad-Moghan Airport (PFQ)** — 140.3 km
 - ✈ **Lankaran International Airport (LLK)** — 158.0 km
+- 🚉 **Qobustan Stansiyası** — 2.7 km
+- 🚉 **Sǝngǝçal Stansiyası** — 9.2 km
+- 🚉 **Baş Ələt Stansiyası** — 14.4 km
+- 🚉 **Yeni Ələt Deposu** — 17.4 km
+- 🚉 **Yeni Ələt** — 18.0 km
+- ⛴ **Bәrә Terminalı** — 15.4 km
+- ⛴ **Alat** — 15.5 km
+- ⛴ **Boat to Turkmenbasi** — 49.6 km
+- ⛴ **Bakı Dəniz Vağzalı** — 49.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5502.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Pullman Hotel Baku** — 44.9 km — star — 5★ · Pullman
+- **Four Seasons** — 47.5 km — star — 5★ · Four Seasons
+- **Amber Otel** — 48.4 km — star — 5★
+- **Hyatt Regency Baku** — 48.5 km — star — 5★ · Hyatt Regency
+- **Sapphire Hotel & Restaurant** — 48.7 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

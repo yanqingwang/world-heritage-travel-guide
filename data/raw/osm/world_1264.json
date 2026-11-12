@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "더 아트스테이 제주함덕호텔",
+   "name_en": "The Artstay Jeju Hamdeok",
+   "stars": 4,
+   "brand": null,
+   "lat": 33.5424033,
+   "lon": 126.6668995,
+   "distance_km": 23.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "머큐어 앰배서더 제주",
+   "name_en": "Mercure Ambassador Jeju",
+   "stars": 3,
+   "brand": "Mercure",
+   "lat": 33.2937094,
+   "lon": 126.3486877,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "담앤루",
+   "name_en": "Dam N Roo Pool Villa N Spa Resort",
+   "stars": 0,
+   "brand": null,
+   "lat": 33.2459805,
+   "lon": 126.4515145,
+   "distance_km": 14.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "엔파제주호텔",
+   "name_en": null,
+   "stars": 0,
+   "brand": "엔파그룹",
+   "lat": 33.4297734,
+   "lon": 126.8620765,
+   "distance_km": 31.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW Marriott Jeju Resort & Spa - JW 메리어트 제주 리조트 앤 스파",
+   "name_en": null,
+   "stars": null,
+   "brand": "JW Marriott",
+   "lat": 33.2440701,
+   "lon": 126.5389282,
+   "distance_km": 13.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 263,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "제주나루터",
+   "name_en": "Jeju Ferry",
+   "lat": 33.247973,
+   "lon": 126.578282,
+   "distance_km": 13.3,
+   "operator": null
+  },
+  {
+   "name": "막숙포구(법환포구)",
+   "name_en": null,
+   "lat": 33.2371596,
+   "lon": 126.5160706,
+   "distance_km": 13.9,
+   "operator": null
+  },
+  {
+   "name": "망장포(자연포구)",
+   "name_en": null,
+   "lat": 33.2601015,
+   "lon": 126.6395333,
+   "distance_km": 15.0,
+   "operator": null
+  },
+  {
+   "name": "제주민군복합형관광미항",
+   "name_en": "Jeju Civilian-Military Complex Port",
+   "lat": 33.2281623,
+   "lon": 126.4844735,
+   "distance_km": 15.5,
+   "operator": null
+  },
+  {
+   "name": "월평포구",
+   "name_en": "Wolpyeong Port",
+   "lat": 33.2340548,
+   "lon": 126.4632412,
+   "distance_km": 15.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:34Z"
+}

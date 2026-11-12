@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "534"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iv)"
 lat: 51.8636
 lon: 12.2814
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 德绍－沃尔利茨园林王国 / Garden Kingdom of Dessau-Wörlitz
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Woerlitzpark81.jpg · see Wikimedia Commons file page*
 
-![Garden Kingdom of Dessau-Wörlitz](https://whc.unesco.org/uploads/sites/site_534.jpg)
+![2014-04-06 159 Coswiger Allee+.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2014-04-06_159_Coswiger_Allee%2B.jpg/1280px-2014-04-06_159_Coswiger_Allee%2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Garden Kingdom of Dessau-Wörlitz · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2014-04-06 159 Coswiger Allee+.jpg · M_H.DE · CC BY-SA 3.0*
+
+![Der Drehberg bei Wörlitz.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Der_Drehberg_bei_W%C3%B6rlitz.jpg/1280px-Der_Drehberg_bei_W%C3%B6rlitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Der Drehberg bei Wörlitz.jpg · M_H.DE · CC BY-SA 3.0*
+
+![Dessau, Nord, Gänsewall mit Pyramide.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Dessau%2C_Nord%2C_G%C3%A4nsewall_mit_Pyramide.jpg/1280px-Dessau%2C_Nord%2C_G%C3%A4nsewall_mit_Pyramide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dessau, Nord, Gänsewall mit Pyramide.jpg · M_H.DE · CC BY-SA 4.0*
+
+![Dessau,Pyramide am Gänsewall Info Sitzbank.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dessau%2CPyramide_am_G%C3%A4nsewall_Info_Sitzbank.jpg/1280px-Dessau%2CPyramide_am_G%C3%A4nsewall_Info_Sitzbank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dessau,Pyramide am Gänsewall Info Sitzbank.jpg · M_H.DE · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Dessau-Wörlitzer Gartenreich ist eine europaweit bedeutende Kulturlandschaf
 - ✈ **Leipzig/Halle Airport (LEJ)** — 49.4 km
 - ✈ **Berlin Brandenburg Airport (BER)** — 100.1 km
 - ✈ **Dresden Airport (DRS)** — 131.0 km
+- 🚉 **Roßlau (Elbe)** — 3.8 km
+- 🚉 **Dessau Hauptbahnhof** — 4.1 km
+- 🚉 **Rodleben** — 5.8 km
+- 🚉 **Wörlitz** — 10.0 km
+- 🚉 **Oranienbaum (Anh)** — 10.2 km
+- ⛴ **Viking Technical GmbH** — 4.8 km
+- ⛴ **Industriehafen Roßlau** — 4.9 km
+- ⛴ **Moby Dick** — 9.2 km
+- ⛴ **Teelaubenfähre** — 9.6 km
+- ⛴ **Amtsfähre** — 10.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7489.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Dormero Dessau-Rosslau** — 3.8 km — star — 4★
+- **Landhaus Wörlitzer Hof** — 9.7 km — star — 4★
+- **HEIDE SPA** — 35.7 km — star — 4★
+- **Am Kurpark** — 41.4 km — star — 4★
+- **City Hotel Am Wasserturm** — 46.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "1306"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(iv)(vi)"
 lat: -33.37833333
 lon: 150.9944444
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 澳大利亚监狱遗址 / Australian Convict Sites
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:30:21Z"
 ![PortArthurPenitentiary.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/PortArthurPenitentiary.jpg?width=1280)
 
 *PortArthurPenitentiary.jpg · see Wikimedia Commons file page*
+
+![WoolmersEstateLongford.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/WoolmersEstateLongford.jpg/1280px-WoolmersEstateLongford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*WoolmersEstateLongford.jpg · Willis Lim · CC BY-SA 2.0*
+
+![WoolmersEstateLongfordVeranda.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/WoolmersEstateLongfordVeranda.jpg/1280px-WoolmersEstateLongfordVeranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*WoolmersEstateLongfordVeranda.jpg · Willis Lim · CC BY-SA 2.0*
 
 ![Australian Convict Sites](https://whc.unesco.org/uploads/sites/site_1306.jpg)
 
@@ -46,7 +54,27 @@ The property includes a selection of eleven penal sites, among the thousands est
 - ✈ **Western Sydney International (Nancy-Bird Walton) Airport (WSI)** — 61.9 km
 - ✈ **Sydney Kingsford Smith International Airport (SYD)** — 65.4 km
 - ✈ **Newcastle Airport (NTL)** — 101.6 km
+- 🚉 **Berowra** — 31.0 km
+- 🚉 **Tascott** — 31.2 km
+- 🚉 **Windsor** — 31.2 km
+- 🚉 **Mulgrave** — 31.5 km
+- 🚉 **Koolewong** — 31.6 km
+- ⛴ **Milson's Passage Public Wharf** — 22.9 km
+- ⛴ **Berowra Waters Ferry Berrilee Ramp** — 27.3 km
+- ⛴ **Berowra Waters Ferry Berowra Ramp** — 27.5 km
+- ⛴ **Brooklyn Wharf** — 28.6 km
+- ⛴ **Dangar Island Wharf** — 28.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8939.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Marsden Hotel** — 49.1 km — star — 4★ · Conquest
+- **The Heritage Hotel** — 25.3 km — star — 3★
+- **Bella Vista Motel** — 28.8 km — star — 3★
+- **Time and Tide Hotel** — 48.7 km — star — 3★
+- **Ibis Budget Gosford** — 31.1 km — star — Ibis Budget
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

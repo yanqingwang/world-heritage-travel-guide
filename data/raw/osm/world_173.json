@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Park Hyatt Zanzibar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Park Hyatt",
+   "lat": -6.1624582,
+   "lon": 39.1860421,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tulia Zanzibar Unique Beach Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -6.0346041,
+   "lon": 39.4065394,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SBH Kilindini Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "SBH Hotels & Resort",
+   "lat": -5.9031791,
+   "lon": 39.3540934,
+   "distance_km": 33.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SBH Monica Zanzibar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "SBH Hotels & Resorts",
+   "lat": -6.2746914,
+   "lon": 39.5361542,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Beyt Al Salaam",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -6.1633903,
+   "lon": 39.186462,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 362,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:08Z"
+}

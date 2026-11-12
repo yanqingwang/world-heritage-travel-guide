@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Eurostars Plaza Acueducto",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Eurostars Hotel Company",
+   "lat": 40.9479929,
+   "lon": -4.1164043,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel AR Los Arcos",
+   "name_en": null,
+   "stars": 4,
+   "brand": "AR Hoteles",
+   "lat": 40.9437623,
+   "lon": -4.1207786,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Rural El Mirador de la Cigüeña",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9760603,
+   "lon": -4.0325325,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Rural El Zaguán de Cabanillas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9763935,
+   "lon": -4.0324628,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vivienda Turística La Dehesa de Cabanillas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9769505,
+   "lon": -4.0326878,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 212,
+ "stations": [
+  {
+   "name": "Segovia",
+   "name_en": null,
+   "lat": 40.9335307,
+   "lon": -4.1134827,
+   "distance_km": 1.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Estación de Segovia-Guiomar",
+   "name_en": null,
+   "lat": 40.9102319,
+   "lon": -4.0947553,
+   "distance_km": 4.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Los Cotos",
+   "name_en": null,
+   "lat": 40.822317,
+   "lon": -3.9645595,
+   "distance_km": 19.0,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Puerto de Navacerrada",
+   "name_en": null,
+   "lat": 40.7843819,
+   "lon": -4.0047417,
+   "distance_km": 20.5,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Cercedilla",
+   "name_en": null,
+   "lat": 40.7376578,
+   "lon": -4.0660341,
+   "distance_km": 23.8,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Villalba de Guadarrama",
+   "name_en": null,
+   "lat": 40.6263825,
+   "lon": -4.0081534,
+   "distance_km": 36.9,
+   "operator": "Renfe"
+  },
+  {
+   "name": "El Escorial",
+   "name_en": null,
+   "lat": 40.585256,
+   "lon": -4.132322,
+   "distance_km": 40.3,
+   "operator": "Renfe"
+  },
+  {
+   "name": "Santa María de la Alameda",
+   "name_en": null,
+   "lat": 40.5688229,
+   "lon": -4.2693185,
+   "distance_km": 44.0,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:33Z"
+}

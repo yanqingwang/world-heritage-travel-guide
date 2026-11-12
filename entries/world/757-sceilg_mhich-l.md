@@ -8,13 +8,13 @@ country: "IE"
 country_zh: "爱尔兰"
 country_en: "Ireland"
 unesco_id: "757"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1996"
 criteria: "(iii)(iv)"
 lat: 51.771111111
 lon: -10.540555555
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 斯凯利格•迈克尔岛 / Sceilg Mhichíl
@@ -58,20 +58,7 @@ Sceilg Mhichíl is an outstanding, and in many respects unique, example of an ea
 - ✈ **Kerry Airport (KIR)** — 83.2 km
 - ✈ **Cork International Airport (ORK)** — 141.1 km
 - ✈ **Shannon Airport (SNN)** — 151.1 km
-- ⛴ **Valentia Island Car Ferry** — 24.5 km
-- ⛴ **Dunquin Harbour** — 39.6 km
-- ⛴ **Castletownbere Ferry Slipway** — 45.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8515.1 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Butler Arms** — 26.1 km — star — 4★
-- **Parknasilla Resort & Spa** — 46.1 km — star — 4★
-- **Beara Coast Hotel** — 45.5 km — star — 3★
-- **The Royal Valentia** — 24.5 km — hotel
-- **Ring of Kerry Hotel** — 28.1 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

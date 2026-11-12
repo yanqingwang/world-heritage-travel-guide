@@ -2,9 +2,9 @@
  "id": "wh-1413",
  "unesco_id": "1413",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 400,
- "popularity_score": 20648,
+ "tier": "full",
+ "popularity_rank": 366,
+ "popularity_score": 18973,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1413.jpg",
-   "title": "Bergpark Wilhelmshöhe",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1413",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/00_1189_Blick_vom_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel.jpg/1280px-00_1189_Blick_vom_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 1189 Blick vom Bergpark Wilhelmshöhe, Kassel.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_1189_Blick_vom_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel_-_L%C3%B6wenburg.jpg/1280px-00_2151_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel_-_L%C3%B6wenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_2151_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel_-_L%C3%B6wenburg.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmsh%C3%B6he_-_Kassel.jpg/1280px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmsh%C3%B6he_-_Kassel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 3152 Landschaftsbild im Bergpark Wilhelmshöhe - Kassel.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_3152_Landschaftsbild_im_Bergpark_Wilhelmsh%C3%B6he_-_Kassel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1308_Herkules_020.jpg/1280px-1308_Herkules_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1308 Herkules 020.jpg",
+   "author": "Jens Haines",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1308_Herkules_020.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1413",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 11.3,
   "distance_beijing_km": 7645.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Schifffahrtslinie MS Weserstein",
+    "name_en": null,
+    "lat": 51.4120008,
+    "lon": 9.6491622,
+    "distance_km": 20.3,
+    "operator": null
+   },
+   {
+    "name": "Schiffsanleger für Weser und Fulda",
+    "name_en": null,
+    "lat": 51.4206685,
+    "lon": 9.6479594,
+    "distance_km": 20.7,
+    "operator": "Wasserstraßen- und Schifffahrtsamt Hann. Münden"
+   },
+   {
+    "name": "Fähre Veckerhagen",
+    "name_en": null,
+    "lat": 51.4980466,
+    "lon": 9.6047839,
+    "distance_km": 24.7,
+    "operator": null
+   },
+   {
+    "name": "Sperrmauer, Ufer Ost",
+    "name_en": null,
+    "lat": 51.1868107,
+    "lon": 9.0579597,
+    "distance_km": 27.8,
+    "operator": "Personenschifffahrt Edersee GmbH & Co. Betriebs KG"
+   },
+   {
+    "name": "Waldeck, Strandbad",
+    "name_en": null,
+    "lat": 51.1980753,
+    "lon": 9.0444997,
+    "distance_km": 28.0,
+    "operator": "Personenschifffahrt Edersee GmbH & Co. Betriebs KG"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Kassel-Wilhelmshöhe",
+    "name_en": null,
+    "lat": 51.3113881,
+    "lon": 9.4477049,
+    "distance_km": 3.4,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Kassel-Wilhelmshöhe Hessencourier",
+    "name_en": null,
+    "lat": 51.3055565,
+    "lon": 9.4503698,
+    "distance_km": 3.7,
+    "operator": null
+   },
+   {
+    "name": "Schauenburg-Elgershausen",
+    "name_en": null,
+    "lat": 51.2756196,
+    "lon": 9.3664192,
+    "distance_km": 5.1,
+    "operator": null
+   },
+   {
+    "name": "Ahnatal-Weimar",
+    "name_en": null,
+    "lat": 51.3632957,
+    "lon": 9.391955,
+    "distance_km": 5.2,
+    "operator": "DB RegioNetz Infrastruktur GmbH;Kurhessenbahn"
+   },
+   {
+    "name": "Ahnatal-Heckershausen",
+    "name_en": null,
+    "lat": 51.3629731,
+    "lon": 9.4225031,
+    "distance_km": 5.4,
+    "operator": "DB RegioNetz Infrastruktur GmbH;Kurhessenbahn"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kurparkhotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.3144078,
+   "lon": 9.4332462,
+   "distance_km": 2.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kurfürst Wilhelm I.",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.3133269,
+   "lon": 9.445207,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sunday Hotel Kassel (ehem. H4 Hotel)",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.3170177,
+   "lon": 9.459919,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Reiss",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.3184476,
+   "lon": 9.4921143,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Garden Kassel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Wyndham Garden",
+   "lat": 51.3078851,
+   "lon": 9.5483308,
+   "distance_km": 10.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -173,5 +335,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

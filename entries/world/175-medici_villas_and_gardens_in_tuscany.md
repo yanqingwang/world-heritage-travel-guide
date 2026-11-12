@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "175"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2013"
 criteria: "(ii)(iv)(vi)"
 lat: 43.857777777
 lon: 11.304166666
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 梅第奇别墅 / Medici Villas and Gardens in Tuscany
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:11Z"
 
 *(Albi) Vasque de la villa Médicis - Maurice Denis MTL.inv142.jpg · see Wikimedia Commons file page*
 
-![Medici Villas and Gardens in Tuscany](https://whc.unesco.org/uploads/sites/site_175.jpg)
+![Bacchereto villa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bacchereto_villa.jpg/1280px-Bacchereto_villa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Medici Villas and Gardens in Tuscany · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bacchereto villa.jpg · Francesco Feroci · CC BY-SA 4.0*
+
+![Medici Villas Location-de.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Medici_Villas_Location-de.svg/1280px-Medici_Villas_Location-de.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Medici Villas Location-de.svg · Sémhur (translated by User:Mike Krüger ) · CC BY-SA 4.0*
+
+![Medici Villas Location-en.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Medici_Villas_Location-en.svg/1280px-Medici_Villas_Location-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Medici Villas Location-en.svg · Sémhur · CC BY-SA 4.0*
+
+![Medici Villas Location-fr.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Medici_Villas_Location-fr.svg/1280px-Medici_Villas_Location-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Medici Villas Location-fr.svg · Sémhur · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Le ville medicee sono dei complessi architettonici rurali venuti in possesso in 
 - ✈ **Florence Airport, Peretola (FLR)** — 9.8 km
 - ✈ **Forlì-Luigi Ridolfi International Airport (FRL)** — 71.8 km
 - ✈ **Bologna Guglielmo Marconi Airport (BLQ)** — 75.4 km
+- 🚉 **Fiesole - Caldine** — 3.1 km
+- 🚉 **Vaglia** — 5.6 km
+- 🚉 **Firenze Castello** — 8.0 km
+- 🚉 **Firenze San Marco Vecchio** — 8.0 km
+- 🚉 **Firenze Rifredi** — 8.4 km
+- ⛴ **Vergherete** — 42.6 km
+- ⛴ **Ca' di Sopra** — 42.9 km
+- ⛴ **Comignolo** — 43.0 km
+- ⛴ **Molo di Bandella** — 47.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8071.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Collegio Alla Querce** — 8.1 km — star — 5★
+- **Four Seasons Hotel Firenze** — 9.5 km — star — 5★ · Four Seasons
+- **Regency** — 9.6 km — star — 5★
+- **Tivoli Palazzo Gaddi** — 10.2 km — star — 5★ · NH Collection Hotels
+- **Palazzo Firence by Baglioni Hotels & Resorts** — 10.3 km — star — 5★ · Baglioni Hotels & Resorts
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Days Inn by Wyndham Taos",
+   "name_en": null,
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 36.3755898,
+   "lon": -105.591985,
+   "distance_km": 8.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn Taos",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 36.3684488,
+   "lon": -105.5970132,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Rivers Edge",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 36.7085144,
+   "lon": -105.4093253,
+   "distance_km": 32.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Benavides Historic Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.413565,
+   "lon": -105.5631332,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "WorldMark Taos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4099135,
+   "lon": -105.5676639,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 28,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:55Z"
+}

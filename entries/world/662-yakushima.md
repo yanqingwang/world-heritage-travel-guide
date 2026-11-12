@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "662"
-tier: "full"
+tier: "basic"
 category: "Natural"
 year: "1993"
 criteria: "(vii)(ix)"
 lat: 30.358611111
 lon: 130.528611111
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 屋久岛 / Yakushima
@@ -64,22 +64,7 @@ Located in the interior of Yaku Island, at the meeting-point of the palaearctic 
 - ✈ **Yakushima Airport (KUM)** — 12.9 km
 - ✈ **New Tanegashima Airport (TNE)** — 52.1 km
 - ✈ **Kagoshima Airport (KOJ)** — 161.7 km
-- ⛴ **宮之浦** — 9.2 km
-- ⛴ **屋久島** — 9.2 km
-- ⛴ **宮之浦港フェリーターミナル** — 9.2 km
-- ⛴ **安房港** — 13.3 km
-- ⛴ **トッピーターミナル** — 13.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1668.4 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Yaedake Sanso Lodge** — 6.8 km — hotel — Yaedake Sanso Lodge
-- **Tashiro Bekkan** — 7.6 km — hotel — Tashiro Bekkan
-- **Yakushimaya** — 8.9 km — hotel — Yakushimaya
-- **THE HOTEL YAKUSHIMA OCEAN ＆ FOREST** — 9.1 km — hotel — THE HOTEL YAKUSHIMA OCEAN ＆ FOREST
-- **Soyotei** — 10.7 km — hotel — Soyotei
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

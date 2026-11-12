@@ -8,13 +8,13 @@ country: "PH"
 country_zh: "菲律宾"
 country_en: "Philippines"
 unesco_id: "677"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(ii)(iv)"
 lat: 10.64191
 lon: 122.23549
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 菲律宾的巴洛克教堂 / Baroque Churches of the Philippines
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *Miagao Church.jpg · see Wikimedia Commons file page*
 
-![Baroque Churches of the Philippines](https://whc.unesco.org/uploads/sites/site_677.jpg)
+![Baclayon Bohol Chch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Baclayon_Bohol_Chch.jpg/1280px-Baclayon_Bohol_Chch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Baroque Churches of the Philippines · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Baclayon Bohol Chch.jpg · Anißäb · CC BY-SA 4.0*
+
+![Baclayon Church - Alleged face of Padre Pio.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baclayon_Church_-_Alleged_face_of_Padre_Pio.JPG/1280px-Baclayon_Church_-_Alleged_face_of_Padre_Pio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Baclayon Church - Alleged face of Padre Pio.JPG · Malou Buenconsejo · CC BY-SA 3.0*
+
+![Baclayon church - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baclayon_church_-_panoramio.jpg/1280px-Baclayon_church_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Baclayon church - panoramio.jpg · Qaalvin · CC BY 3.0*
+
+![Baclayon church 1596.jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/Baclayon_church_1596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Baclayon church 1596.jpg · No machine-readable author provided. Magalhães assumed (based on copyright claims). · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ These four churches, the first of which was built by the Spanish in the late 16t
 - ✈ **Iloilo International Airport (ILO)** — 35.3 km
 - ✈ **Bacolod-Silay International Airport (BCD)** — 86.9 km
 - ✈ **Kalibo International Airport (KLO)** — 116.4 km
+- ⛴ **Iloilo** — 37.2 km
+- ⛴ **Iloilo Fastcraft Terminal** — 37.4 km
+- ⛴ **Lapuz Wharf** — 38.0 km
+- ⛴ **Jordan RORO Port** — 38.3 km
+- ⛴ **Parola Wharf** — 38.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3303.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Courtyard by Marriott Iloilo** — 34.7 km — chain — Courtyard
+- **Park Inn by Radisson Iloilo** — 35.2 km — chain — Park Inn
+- **Moritz Hotel** — 35.9 km — chain
+- **Insular Beach** — 7.4 km — hotel
+- **Simrose Place** — 16.4 km — hotel — Simrose Place
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

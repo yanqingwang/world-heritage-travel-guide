@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "422"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(v)(vi)"
 lat: 54.5
 lon: -3.166666666
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 英格兰湖区 / The English Lake District
@@ -58,7 +58,27 @@ Located in northwest England, the English Lake District is a mountainous area, w
 - ✈ **Isle of Man Airport (IOM)** — 105.3 km
 - ✈ **Newcastle International Airport (NCL)** — 112.0 km
 - ✈ **Teesside International Airport (MME)** — 112.2 km
+- 🚉 **Dalegarth** — 13.6 km
+- 🚉 **Beckfoot** — 14.1 km
+- 🚉 **Threlkeld Quarry** — 14.4 km
+- 🚉 **Threlkeld Quarry Station** — 14.7 km
+- 🚉 **Fisherground Halt** — 14.9 km
+- ⛴ **Lodore** — 7.2 km
+- ⛴ **High Brandelhow** — 7.5 km
+- ⛴ **Low Brandelhow** — 8.5 km
+- ⛴ **Barrow Bay Jetty** — 8.5 km
+- ⛴ **Hawes End** — 9.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8140.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Applegarth Villa** — 21.5 km — star — 5★
+- **Langdale Hotel** — 10.8 km — star — 4★
+- **The Old England** — 21.9 km — star — 4★
+- **Pennington Hotel** — 22.6 km — star — 3★
+- **Ennerdale Country House Hotel** — 22.7 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

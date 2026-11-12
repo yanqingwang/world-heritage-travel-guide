@@ -2,9 +2,9 @@
  "id": "wh-1139",
  "unesco_id": "1139",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 406,
- "popularity_score": 20168,
+ "tier": "full",
+ "popularity_rank": 373,
+ "popularity_score": 18642,
  "country": "ML",
  "country_zh": "马里",
  "country_en": "Mali",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1139.jpg",
-   "title": "Tomb of Askia",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1139",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2014.11.29_-_Tombeau_des_Askia.jpg/1280px-2014.11.29_-_Tombeau_des_Askia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2014.11.29 - Tombeau des Askia.jpg",
+   "author": "Alexis Amarante",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2014.11.29_-_Tombeau_des_Askia.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Askia.jpg",
+   "author": "Taguelmoust",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from fr.wikipedia to Commons. , fr:File:IMAGE 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Askia.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0548.tif/lossy-page1-1280px-ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0548.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0548.tif",
+   "author": "Walter Mittelholzer",
+   "license": "Public domain",
+   "credit": "This image is from the collection of the ETH-Bibliothek and has been published on Wikimedia Commons as part of a cooperation with Wikimedia CH . Corrections and",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0548.tif"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif/lossy-page1-1280px-ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0549.tif",
+   "author": "Walter Mittelholzer",
+   "license": "Public domain",
+   "credit": "This image is from the collection of the ETH-Bibliothek and has been published on Wikimedia Commons as part of a cooperation with Wikimedia CH . Corrections and",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1139",
@@ -102,10 +126,75 @@
   ],
   "nearest_airport_km": 6.2,
   "distance_beijing_km": 10958.1,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Gao",
+    "name_en": null,
+    "lat": 16.2781256,
+    "lon": -0.0517336,
+    "distance_km": 1.5,
+    "operator": "COMANAV"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Atlantide",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2772958,
+   "lon": -0.0510523,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Complexe Bel-Air",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2654237,
+   "lon": -0.0428161,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Motel des Askia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.26625,
+   "lon": -0.0397167,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tizy Mizy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2628972,
+   "lon": -0.0322292,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tizy Mizy Annex",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2607423,
+   "lon": -0.0335275,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ML",
   "country_zh": "马里",
@@ -177,5 +266,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

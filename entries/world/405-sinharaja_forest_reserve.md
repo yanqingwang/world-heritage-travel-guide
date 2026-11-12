@@ -8,13 +8,13 @@ country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
 unesco_id: "405"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1988"
 criteria: "(ix)(x)"
 lat: 6.24
 lon: 80.28
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 辛哈拉加森林保护区 / Sinharaja Forest Reserve
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:13Z"
 
 *SL Sinharaja Forest asv2020-01 img08.jpg · see Wikimedia Commons file page*
 
-![Sinharaja Forest Reserve](https://whc.unesco.org/uploads/sites/site_405.jpg)
+![20160127 Sri Lanka 4068+3+4 Sinharaja Forest Reserve sRGB (25674521251).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/20160127_Sri_Lanka_4068%2B3%2B4_Sinharaja_Forest_Reserve_sRGB_%2825674521251%29.jpg/1280px-20160127_Sri_Lanka_4068%2B3%2B4_Sinharaja_Forest_Reserve_sRGB_%2825674521251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sinharaja Forest Reserve · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20160127 Sri Lanka 4068+3+4 Sinharaja Forest Reserve sRGB (25674521251).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![20160127 Sri Lanka 4078+0-3 Sinharaja Forest Reserve sRGB (25143004933).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20160127_Sri_Lanka_4078%2B0-3_Sinharaja_Forest_Reserve_sRGB_%2825143004933%29.jpg/1280px-20160127_Sri_Lanka_4078%2B0-3_Sinharaja_Forest_Reserve_sRGB_%2825143004933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160127 Sri Lanka 4078+0-3 Sinharaja Forest Reserve sRGB (25143004933).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![20160128 Sri Lanka 4099+4135+7 Sinharaja Forest Reserve sRGB (25648621362).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20160128_Sri_Lanka_4099%2B4135%2B7_Sinharaja_Forest_Reserve_sRGB_%2825648621362%29.jpg/1280px-20160128_Sri_Lanka_4099%2B4135%2B7_Sinharaja_Forest_Reserve_sRGB_%2825648621362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160128 Sri Lanka 4099+4135+7 Sinharaja Forest Reserve sRGB (25648621362).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![20160128 Sri Lanka 4127 Sinharaja Forest Reserve sRGB (25648600912).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/20160128_Sri_Lanka_4127_Sinharaja_Forest_Reserve_sRGB_%2825648600912%29.jpg/1280px-20160128_Sri_Lanka_4127_Sinharaja_Forest_Reserve_sRGB_%2825648600912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160128 Sri Lanka 4127 Sinharaja Forest Reserve sRGB (25648600912).jpg · Dan Lundberg · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Located in south-west Sri Lanka, Sinharaja is the country's last viable area of 
 - ✈ **Koggala Airport (KCT)** — 27.7 km
 - ✈ **Colombo Ratmalana International Airport (RML)** — 78.0 km
 - ✈ **Mattala Rajapaksa International Airport (HRI)** — 93.4 km
+- 🚉 **Kumarakanda** — 22.3 km
+- 🚉 **Richmond Hill** — 22.3 km
+- 🚉 **Seenigama** — 22.4 km
+- 🚉 **Thiranagama** — 22.5 km
+- 🚉 **Rathgama** — 22.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5236.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Bartizan** — 24.9 km — star — 5★
+- **Sielen Diva** — 26.9 km — star — 5★
+- **Weligama Bay Marriott Resort & Spa** — 34.5 km — star — 5★
+- **Thaala Bentota** — 37.4 km — star — Thaala Bentota · 4★
+- **Talalla Retreat** — 50.0 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

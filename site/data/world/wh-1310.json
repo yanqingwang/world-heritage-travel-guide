@@ -2,9 +2,9 @@
  "id": "wh-1310",
  "unesco_id": "1310",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 365,
- "popularity_score": 23220,
+ "tier": "full",
+ "popularity_rank": 332,
+ "popularity_score": 21911,
  "country": "CV",
  "country_zh": "佛得角",
  "country_en": "Cape Verde",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1310.jpg",
-   "title": "Cidade Velha, Historic Centre of Ribeira Grande",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1310",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/AchadaCidadeVelha.JPG/1280px-AchadaCidadeVelha.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AchadaCidadeVelha.JPG",
+   "author": "CorreiaPM",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:AchadaCidadeVelha.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Azedinha%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Azedinha, Cidade Velha, Ribeira Grande de Santiago 04.jpg",
+   "author": "GualdimG",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Azedinha%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Cana%2C_Cidade_Velha%2C_Cape_Verde.jpg/1280px-Cana%2C_Cidade_Velha%2C_Cape_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cana, Cidade Velha, Cape Verde.jpg",
+   "author": "Xandu",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cana%2C_Cidade_Velha%2C_Cape_Verde.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Casa_ao_estilo_antigo%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Casa ao estilo antigo, Cidade Velha, Ribeira Grande de Santiago 02.jpg",
+   "author": "GualdimG",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_ao_estilo_antigo%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1310",
@@ -102,10 +126,83 @@
   ],
   "nearest_airport_km": 13.1,
   "distance_beijing_km": 12635.5,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Porto da Praia",
+    "name_en": null,
+    "lat": 14.9093173,
+    "lon": -23.5032917,
+    "distance_km": 10.9,
+    "operator": null
+   },
+   {
+    "name": "Pier da ilha do MAIO",
+    "name_en": null,
+    "lat": 15.1394361,
+    "lon": -23.2207048,
+    "distance_km": 48.1,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Barceló Praia Cape Verde",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 14.9046935,
+   "lon": -23.5112957,
+   "distance_km": 10.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Blue Sky",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 15.2763997,
+   "lon": -23.7537691,
+   "distance_km": 43.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vista Mar",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 15.2791085,
+   "lon": -23.7541444,
+   "distance_km": 43.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Olamar Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 14.909719,
+   "lon": -23.528511,
+   "distance_km": 8.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Limeira",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.9165258,
+   "lon": -23.6101622,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CV",
   "country_zh": "佛得角",
@@ -175,5 +272,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-100",
  "unesco_id": "100",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 875,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 319,
+ "popularity_score": 23129,
  "country": "ME",
  "country_zh": "黑山",
  "country_en": "Montenegro",
@@ -45,20 +45,44 @@
  "intro_local_source": null,
  "images": [
   {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Durmitor%20-%20near%20Minin%20bogaz.jpg?width=1280",
-   "title": "Durmitor - near Minin bogaz.jpg",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanjon%20reke%20Tare.jpg?width=1280",
+   "title": "Kanjon reke Tare.jpg",
    "author": "",
    "license": "see Wikimedia Commons file page",
-   "source": "https://commons.wikimedia.org/wiki/File:Durmitor%20-%20near%20Minin%20bogaz.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kanjon%20reke%20Tare.jpg",
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_100.jpg",
-   "title": "Durmitor National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/100",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2025-07-13_Tara_River_Canyon_1.jpg/1280px-2025-07-13_Tara_River_Canyon_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025-07-13 Tara River Canyon 1.jpg",
+   "author": "Alexkom000",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-07-13_Tara_River_Canyon_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2025-07-13_Tara_River_Canyon_2.jpg/1280px-2025-07-13_Tara_River_Canyon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025-07-13 Tara River Canyon 2.jpg",
+   "author": "Alexkom000",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-07-13_Tara_River_Canyon_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2025-07-13_Tara_River_Canyon_3.jpg/1280px-2025-07-13_Tara_River_Canyon_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025-07-13 Tara River Canyon 3.jpg",
+   "author": "Alexkom000",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-07-13_Tara_River_Canyon_3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2025-07-13_Tara_River_Canyon_4.jpg/1280px-2025-07-13_Tara_River_Canyon_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025-07-13 Tara River Canyon 4.jpg",
+   "author": "Alexkom000",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-07-13_Tara_River_Canyon_4.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/100",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Polar Star",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.1635211,
+   "lon": 19.174696,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MB Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.1533813,
+   "lon": 19.1229716,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Enigma",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.1603915,
+   "lon": 19.135312,
+   "distance_km": 14.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ravnjak",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.9896282,
+   "lon": 19.4116911,
+   "distance_km": 43.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pljevlja",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 43.3559619,
+   "lon": 19.3577245,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ME",
   "country_zh": "黑山",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

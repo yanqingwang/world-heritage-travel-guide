@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "1435"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2014"
 criteria: "(iii)"
 lat: 32.6367
 lon: -91.4114
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 波弗蒂角纪念土丘 / Monumental Earthworks of Poverty Point
@@ -61,12 +61,6 @@ Monumental Earthworks of Poverty Point owes its name to a 19th-century plantatio
 - ✈ **Mid Delta Regional Airport (GLH)** — 102.1 km
 - ✈ **Jackson-Medgar Wiley Evers International Airport (JAN)** — 130.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11422.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Days Inn** — 33.4 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

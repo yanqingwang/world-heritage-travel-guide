@@ -1,0 +1,120 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Asia Khiva",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.3741243,
+   "lon": 60.3585565,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Karavan mehmonxonasi",
+   "name_en": "Karavan hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.5461913,
+   "lon": 60.6190398,
+   "distance_km": 28.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "O'zbekiston mehmonxonasi",
+   "name_en": "Uzbekistan Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.5667534,
+   "lon": 60.6313332,
+   "distance_km": 30.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Turon mehmonxonasi",
+   "name_en": "Turon",
+   "stars": 2,
+   "brand": null,
+   "lat": 41.5343996,
+   "lon": 60.6614801,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Green Grand Garden",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 41.5332988,
+   "lon": 60.6008694,
+   "distance_km": 26.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 98,
+ "stations": [
+  {
+   "name": "Xiva",
+   "name_en": "Khiva",
+   "lat": 41.3771547,
+   "lon": 60.3765965,
+   "distance_km": 1.4,
+   "operator": "UzRailways"
+  },
+  {
+   "name": "Urganch",
+   "name_en": "Urgench",
+   "lat": 41.536503,
+   "lon": 60.6321451,
+   "distance_km": 28.8,
+   "operator": null
+  },
+  {
+   "name": "Urganch Aeroporti",
+   "name_en": "Urgench Airport",
+   "lat": 41.5836997,
+   "lon": 60.6347209,
+   "distance_km": 32.4,
+   "operator": null
+  },
+  {
+   "name": "Ханки",
+   "name_en": "Khanki",
+   "lat": 41.4663065,
+   "lon": 60.7707647,
+   "distance_km": 35.7,
+   "operator": null
+  },
+  {
+   "name": "Шават",
+   "name_en": null,
+   "lat": 41.7071568,
+   "lon": 60.2757229,
+   "distance_km": 37.3,
+   "operator": null
+  },
+  {
+   "name": "Bog'ot",
+   "name_en": "Bagat",
+   "lat": 41.3851724,
+   "lon": 60.9025254,
+   "distance_km": 45.3,
+   "operator": null
+  },
+  {
+   "name": "449 km",
+   "name_en": null,
+   "lat": 41.7802368,
+   "lon": 60.1253222,
+   "distance_km": 48.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:08Z"
+}

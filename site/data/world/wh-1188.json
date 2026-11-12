@@ -2,9 +2,9 @@
  "id": "wh-1188",
  "unesco_id": "1188",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 371,
- "popularity_score": 22188,
+ "tier": "full",
+ "popularity_rank": 347,
+ "popularity_score": 20354,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1188.jpg",
-   "title": "Soltaniyeh",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1188",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/12_Chardin_Soltaniyeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "12 Chardin Soltaniyeh.jpg",
+   "author": "Jean Chardin",
+   "license": "Public domain",
+   "credit": "Voyages de Mr. Le Chevalier Chardin en Perse et autres lieux de l'Orient",
+   "source": "https://commons.wikimedia.org/wiki/File:12_Chardin_Soltaniyeh.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Gole_gandom.jpg/1280px-Gole_gandom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gole gandom.jpg",
+   "author": "Golemanoto",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gole_gandom.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Oljeitu_Mausoleum_%28Gonbad-e_Soltaniyeh%29%2C_Soltaniyeh_%285110744360%29.jpg/1280px-Oljeitu_Mausoleum_%28Gonbad-e_Soltaniyeh%29%2C_Soltaniyeh_%285110744360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Oljeitu Mausoleum (Gonbad-e Soltaniyeh), Soltaniyeh (5110744360).jpg",
+   "author": "Fulvio Spada from Torino, Italy",
+   "license": "CC BY-SA 2.0",
+   "credit": "Oljeitu Mausoleum (Gonbad-e Soltaniyeh), Soltaniyeh",
+   "source": "https://commons.wikimedia.org/wiki/File:Oljeitu_Mausoleum_%28Gonbad-e_Soltaniyeh%29%2C_Soltaniyeh_%285110744360%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Soltanie_int_conigryck_van_Persien_-_Peeters_Jacob_-_1690.jpg/1280px-Soltanie_int_conigryck_van_Persien_-_Peeters_Jacob_-_1690.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Soltanie int conigryck van Persien - Peeters Jacob - 1690.jpg",
+   "author": "Jacob Peeters",
+   "license": "Public domain",
+   "credit": "https://el.travelogues.gr/collection.php?view=375",
+   "source": "https://commons.wikimedia.org/wiki/File:Soltanie_int_conigryck_van_Persien_-_Peeters_Jacob_-_1690.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1188",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 122.8,
   "distance_beijing_km": 5678.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "ایستگاه سلطانیه",
+    "name_en": null,
+    "lat": 36.5014906,
+    "lon": 48.794184,
+    "distance_km": 7.4,
+    "operator": null
+   },
+   {
+    "name": "پیر زاغه",
+    "name_en": "Pyrzaghh",
+    "lat": 36.3865542,
+    "lon": 48.9644197,
+    "distance_km": 15.9,
+    "operator": null
+   },
+   {
+    "name": "بناب",
+    "name_en": "Bonab",
+    "lat": 36.5998253,
+    "lon": 48.6475488,
+    "distance_km": 22.7,
+    "operator": null
+   },
+   {
+    "name": "زرین دژ",
+    "name_en": "Zryn Dje",
+    "lat": 36.300341,
+    "lon": 49.1093361,
+    "distance_km": 31.7,
+    "operator": null
+   },
+   {
+    "name": "ایستگاه راه آهن خرمدره",
+    "name_en": "Khorramdarreh Rail Way Station",
+    "lat": 36.1872061,
+    "lon": 49.2395327,
+    "distance_km": 48.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "خانه معلم زنجان",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.6913365,
+   "lon": 48.4988161,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4096142,
+   "lon": 48.9415319,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل بزرگ زنجان",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6540884,
+   "lon": 48.5282859,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پیام",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6664293,
+   "lon": 48.5383617,
+   "distance_km": 34.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جهانگردی زنجان",
+   "name_en": "Zanjan Tourist Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.6568563,
+   "lon": 48.5199064,
+   "distance_km": 35.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

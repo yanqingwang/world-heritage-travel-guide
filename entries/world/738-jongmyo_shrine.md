@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "738"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iv)"
 lat: 37.574722222
 lon: 126.993611111
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 宗庙 / Jongmyo Shrine
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:16Z"
 
 *Jongmyo-Jeongjeon.jpg · see Wikimedia Commons file page*
 
-![Jongmyo Shrine](https://whc.unesco.org/uploads/sites/site_738.jpg)
+![Animal Sculpture in Jongmyo Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Animal_Sculpture_in_Jongmyo_Park.jpg/1280px-Animal_Sculpture_in_Jongmyo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jongmyo Shrine · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Animal Sculpture in Jongmyo Park.jpg · Ethan Doyle White · CC BY-SA 4.0*
+
+![Ekranego.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ekranego.jpg/1280px-Ekranego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ekranego.jpg · Kani · CC BY-SA 4.0*
+
+![Eojaesil at Jaegung area.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Eojaesil_at_Jaegung_area.jpg/1280px-Eojaesil_at_Jaegung_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Eojaesil at Jaegung area.jpg · Naturehead · Public domain*
+
+![Exterior wall at Jongmyo, 2009 (165456901).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Exterior_wall_at_Jongmyo%2C_2009_%28165456901%29.jpg/1280px-Exterior_wall_at_Jongmyo%2C_2009_%28165456901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Exterior wall at Jongmyo, 2009 (165456901).jpg · Thomas Roessler · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Jongmyo is the oldest and most authentic of the Confucian royal shrines to have 
 - ✈ **Seoul Gimpo International Airport (GMP)** — 18.0 km
 - ✈ **Incheon International Airport (ICN)** — 49.3 km
 - ✈ **Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU)** — 86.6 km
+- 🚉 **신설동** — 2.6 km
+- 🚉 **보문** — 2.6 km
+- 🚉 **성신여대입구** — 2.8 km
+- 🚉 **서울역** — 2.8 km
+- 🚉 **정릉** — 3.6 km
+- ⛴ **한강버스 옥수선착장** — 4.5 km
+- ⛴ **나루터** — 5.0 km
+- ⛴ **한강버스 압구정선착장** — 5.7 km
+- ⛴ **한강버스 서울숲선착장** — 5.8 km
+- ⛴ **한강버스 여의도선착장** — 7.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **ANdAZ** — 6.3 km — star — 5★ · ANdAZ
+- **JW 메리어트 호텔 서울** — 7.9 km — star — JW Marriott Seoul · 5★
+- **Conrad Seoul** — 8.1 km — star — Conrad Seoul · 5★ · Conrad
+- **오크우드 프리미어 코엑스센터 서울** — 9.1 km — star — Oakwood Premier Coex Center, Seoul · 5★
+- **시그니엘 서울** — 11.9 km — star — Signiel Seoul · 5★ · 시그니엘
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

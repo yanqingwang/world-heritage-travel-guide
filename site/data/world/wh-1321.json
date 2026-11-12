@@ -2,9 +2,9 @@
  "id": "wh-1321",
  "unesco_id": "1321",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 940,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 237,
+ "popularity_score": 34975,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -156,10 +156,148 @@
   ],
   "nearest_airport_km": 60.9,
   "distance_beijing_km": 8200.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Vevey-Marché",
+    "name_en": null,
+    "lat": 46.4587081,
+    "lon": 6.8404061,
+    "distance_km": 1.4,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Vevey-La Tour",
+    "name_en": null,
+    "lat": 46.4568059,
+    "lon": 6.849962,
+    "distance_km": 2.0,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Rivaz-Saint-Saphorin",
+    "name_en": null,
+    "lat": 46.4735161,
+    "lon": 6.7841879,
+    "distance_km": 3.5,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Clarens",
+    "name_en": null,
+    "lat": 46.4396361,
+    "lon": 6.8960247,
+    "distance_km": 6.0,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Montreux",
+    "name_en": null,
+    "lat": 46.4344523,
+    "lon": 6.9091918,
+    "distance_km": 7.2,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Vevey",
+    "name_en": null,
+    "lat": 46.4629482,
+    "lon": 6.843389,
+    "distance_km": 1.2,
+    "operator": "SBB"
+   },
+   {
+    "name": "Vevey MVR",
+    "name_en": null,
+    "lat": 46.4632449,
+    "lon": 6.8437654,
+    "distance_km": 1.2,
+    "operator": "MVR-cev"
+   },
+   {
+    "name": "Saint-Légier-Gare",
+    "name_en": null,
+    "lat": 46.4705017,
+    "lon": 6.8719988,
+    "distance_km": 3.3,
+    "operator": "MVR-cev"
+   },
+   {
+    "name": "Blonay",
+    "name_en": null,
+    "lat": 46.4657103,
+    "lon": 6.8957781,
+    "distance_km": 5.1,
+    "operator": "MVR-cev"
+   },
+   {
+    "name": "Blonay BC",
+    "name_en": null,
+    "lat": 46.4651979,
+    "lon": 6.896204,
+    "distance_km": 5.1,
+    "operator": "BC"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Le Mirador Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4814861,
+   "lon": 6.8276227,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel des Trois Couronnes",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4582265,
+   "lon": 6.8478959,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lausanne Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.5195586,
+   "lon": 6.6309165,
+   "distance_km": 16.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Royal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.3967273,
+   "lon": 6.5938011,
+   "distance_km": 19.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chalet RoyAlp Hôtel & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.293149,
+   "lon": 7.0620242,
+   "distance_km": 26.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AR",
   "country_zh": "阿根廷",
@@ -285,5 +423,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

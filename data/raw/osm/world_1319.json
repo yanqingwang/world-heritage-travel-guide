@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "휘닉스호텔",
+   "name_en": "Phoenix Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 37.5823774,
+   "lon": 128.3268236,
+   "distance_km": 44.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "호텔인터불고",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.3324086,
+   "lon": 127.9744989,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Danyang Tourist Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 36.9819932,
+   "lon": 128.3484112,
+   "distance_km": 25.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "원주시티호텔",
+   "name_en": "Wonju Citi Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 37.3265794,
+   "lon": 127.985909,
+   "distance_km": 43.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "오키드호텔",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.3467232,
+   "lon": 127.9289677,
+   "distance_km": 49.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 62,
+ "stations": [
+  {
+   "name": "영월역",
+   "name_en": "Yeongwol",
+   "lat": 37.1821719,
+   "lon": 128.4809263,
+   "distance_km": 3.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "청령포",
+   "name_en": "Cheongnyeongpo",
+   "lat": 37.1706749,
+   "lon": 128.4496819,
+   "distance_km": 3.0,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "연당",
+   "name_en": "Yeondang",
+   "lat": 37.1849921,
+   "lon": 128.3960793,
+   "distance_km": 5.2,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "탄부",
+   "name_en": "Tanbu",
+   "lat": 37.1833577,
+   "lon": 128.5091641,
+   "distance_km": 5.2,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "연하",
+   "name_en": "Yeonha",
+   "lat": 37.1907577,
+   "lon": 128.5552232,
+   "distance_km": 9.1,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "쌍룡",
+   "name_en": "Ssangnyong",
+   "lat": 37.1742252,
+   "lon": 128.3286805,
+   "distance_km": 11.3,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "입석리",
+   "name_en": "Ipseongni",
+   "lat": 37.1986389,
+   "lon": 128.2983291,
+   "distance_km": 13.7,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "석항",
+   "name_en": "Seokhang",
+   "lat": 37.1972666,
+   "lon": 128.6205564,
+   "distance_km": 14.9,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "단양나루",
+   "name_en": null,
+   "lat": 36.9851439,
+   "lon": 128.3698426,
+   "distance_km": 24.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:44Z"
+}

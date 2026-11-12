@@ -8,13 +8,13 @@ country: "KZ"
 country_zh: "哈萨克斯坦"
 country_en: "Kazakhstan"
 unesco_id: "1103"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2003"
 criteria: "(i)(iii)(iv)"
 lat: 43.2976445
 lon: 68.2710419
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 霍贾•艾哈迈德•亚萨维陵墓 / Mausoleum of Khoja Ahmed Yasawi
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Ханака Ахмеда Ясави 2010 003.jpg · see Wikimedia Commons file page*
 
-![Mausoleum of Khoja Ahmed Yasawi](https://whc.unesco.org/uploads/sites/site_1103.jpg)
+![1989 CPA 6136.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/1989_CPA_6136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Mausoleum of Khoja Ahmed Yasawi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1989 CPA 6136.jpg · Scanned and processed by A. Sdobnikov · Public domain*
+
+![2 Mausolea (5606670751).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2_Mausolea_%285606670751%29.jpg/1280px-2_Mausolea_%285606670751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2 Mausolea (5606670751).jpg · upyernoz from Haverford, USA · CC BY 2.0*
+
+![3 Girls (5606665659).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/3_Girls_%285606665659%29.jpg/1280px-3_Girls_%285606665659%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*3 Girls (5606665659).jpg · upyernoz from Haverford, USA · CC BY 2.0*
+
+![Ahmet yasawi.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ca/Ahmet_yasawi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ahmet yasawi.jpg · CentrAsia · CC0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was bui
 - ✈ **Hazrat Sultan International Airport (HSA)** — 22.7 km
 - ✈ **Shymkent International Airport (CIT)** — 142.8 km
 - ✈ **Tashkent-Khumo International Airport (TVT)** — 239.3 km
+- 🚉 **Түркістан** — 4.9 km
+- 🚉 **Шойтобе** — 9.8 km
+- 🚉 **Куншагыр** — 17.7 km
+- 🚉 **Шорнак** — 22.3 km
+- 🚉 **Отрабат** — 28.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3949.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hampton by Hilton Turkistan** — 0.4 km — star — 3★ · Hampton
+- **Яссы гостиница** — 0.4 km — hotel
+- **Ханака** — 0.4 km — hotel
+- **Ханака гостиница** — 0.4 km — hotel
+- **гостиница Евразия** — 0.5 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,9 +2,9 @@
  "id": "wh-1368",
  "unesco_id": "1368",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 336,
- "popularity_score": 25920,
+ "tier": "full",
+ "popularity_rank": 311,
+ "popularity_score": 23626,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -102,10 +102,148 @@
   ],
   "nearest_airport_km": 53.8,
   "distance_beijing_km": 7558.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Dampferanleger Flotte Weser",
+    "name_en": null,
+    "lat": 51.9773674,
+    "lon": 9.5181541,
+    "distance_km": 20.2,
+    "operator": null
+   },
+   {
+    "name": "L429 Weserfähre Grohnde",
+    "name_en": null,
+    "lat": 52.0194178,
+    "lon": 9.4250807,
+    "distance_km": 26.8,
+    "operator": null
+   },
+   {
+    "name": "Weserfähre Grohnde",
+    "name_en": null,
+    "lat": 52.0193988,
+    "lon": 9.4239109,
+    "distance_km": 26.9,
+    "operator": null
+   },
+   {
+    "name": "Fähre Heinsen",
+    "name_en": null,
+    "lat": 51.8852053,
+    "lon": 9.4362963,
+    "distance_km": 28.0,
+    "operator": "Förderverein Personenfähre Heinsen e.V."
+   },
+   {
+    "name": "Heidbrink",
+    "name_en": null,
+    "lat": 51.8965727,
+    "lon": 9.4090391,
+    "distance_km": 29.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Alfeld (Leine)",
+    "name_en": null,
+    "lat": 51.9815398,
+    "lon": 9.8175148,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Freden (Leine)",
+    "name_en": null,
+    "lat": 51.9278104,
+    "lon": 9.8990449,
+    "distance_km": 8.6,
+    "operator": "DB Station&Service AG"
+   },
+   {
+    "name": "Banteln",
+    "name_en": null,
+    "lat": 52.0660098,
+    "lon": 9.7504069,
+    "distance_km": 10.1,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Almstedt-Segeste",
+    "name_en": null,
+    "lat": 52.0357637,
+    "lon": 9.953401,
+    "distance_km": 11.2,
+    "operator": "Arbeitsgemeinschaft Historische Eisenbahn e. V."
+   },
+   {
+    "name": "Elze (Hannover)",
+    "name_en": null,
+    "lat": 52.1204247,
+    "lon": 9.7470208,
+    "distance_km": 15.8,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Steigenberger Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.9856778,
+   "lon": 9.2528466,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Schloss Schwöbber",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.069125,
+   "lon": 9.2516577,
+   "distance_km": 39.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parkhotel Berghölzchen",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.145229,
+   "lon": 9.9269252,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Van der Valk Hotel Hildesheim",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Van der Valk",
+   "lat": 52.1533325,
+   "lon": 9.9517599,
+   "distance_km": 21.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stadtresidenz",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.1530882,
+   "lon": 9.9599362,
+   "distance_km": 21.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

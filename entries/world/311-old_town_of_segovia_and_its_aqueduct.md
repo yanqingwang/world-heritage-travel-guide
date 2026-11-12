@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "311"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 40.947888888
 lon: -4.117805555
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 塞哥维亚古城及其输水道 / Old Town of Segovia and its Aqueduct
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Aqueduct of Segovia 08.jpg · see Wikimedia Commons file page*
 
-![Old Town of Segovia and its Aqueduct](https://whc.unesco.org/uploads/sites/site_311.jpg)
+![Representación acueducto de Segovia.gif](https://upload.wikimedia.org/wikipedia/commons/7/70/Representaci%C3%B3n_acueducto_de_Segovia.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Old Town of Segovia and its Aqueduct · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Representación acueducto de Segovia.gif · Unknown author Unknown author · Public domain*
+
+![-2014-04-17 Roman Aquaduct, Segovia, Spain (1).JPG](https://upload.wikimedia.org/wikipedia/commons/d/d9/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*-2014-04-17 Roman Aquaduct, Segovia, Spain (1).JPG · Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W · CC BY-SA 4.0*
+
+![-2014-04-17 Roman Aquaduct, Segovia, Spain (2).JPG](https://upload.wikimedia.org/wikipedia/commons/4/42/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*-2014-04-17 Roman Aquaduct, Segovia, Spain (2).JPG · Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W · CC BY-SA 4.0*
+
+![-2014-04-17 Roman Aquaduct, Segovia, Spain.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain.JPG/500px--2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-2014-04-17 Roman Aquaduct, Segovia, Spain.JPG · Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Edificado probablemente hacia el año 50 d.C., el acueducto romano de Segovia se
 - ✈ **Adolfo Suárez Madrid–Barajas Airport (MAD)** — 68.3 km
 - ✈ **Valladolid Airport (VLL)** — 104.2 km
 - ✈ **Salamanca Airport (SLM)** — 116.2 km
+- 🚉 **Segovia** — 1.6 km
+- 🚉 **Estación de Segovia-Guiomar** — 4.6 km
+- 🚉 **Los Cotos** — 19.0 km
+- 🚉 **Puerto de Navacerrada** — 20.5 km
+- 🚉 **Cercedilla** — 23.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9204.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Eurostars Plaza Acueducto** — 0.1 km — star — 4★ · Eurostars Hotel Company
+- **Hotel AR Los Arcos** — 0.5 km — star — 4★ · AR Hoteles
+- **Casa Rural El Mirador de la Cigüeña** — 7.8 km — star — 4★
+- **Casa Rural El Zaguán de Cabanillas** — 7.8 km — star — 4★
+- **Vivienda Turística La Dehesa de Cabanillas** — 7.8 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

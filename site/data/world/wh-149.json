@@ -2,9 +2,9 @@
  "id": "wh-149",
  "unesco_id": "149",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 414,
- "popularity_score": 19290,
+ "tier": "full",
+ "popularity_rank": 380,
+ "popularity_score": 18026,
  "country": "GT",
  "country_zh": "危地马拉",
  "country_en": "Guatemala",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_149.jpg",
-   "title": "Archaeological Park and Ruins of Quirigua",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/149",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/EntradaBananeraQuirigua2015.jpeg/1280px-EntradaBananeraQuirigua2015.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "EntradaBananeraQuirigua2015.jpeg",
+   "author": "Nerdoguate",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:EntradaBananeraQuirigua2015.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0558.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0558.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Flickr - archer10 (Dennis) - Guatemala-0558.jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "credit": "Guatemala-0558",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_%28Dennis%29_-_Guatemala-0558.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0580.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Flickr - archer10 (Dennis) - Guatemala-0580.jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "credit": "Guatemala-0580",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_%28Dennis%29_-_Guatemala-0580.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0647.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Flickr - archer10 (Dennis) - Guatemala-0647.jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "credit": "Guatemala-0647",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_%28Dennis%29_-_Guatemala-0647.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/149",
@@ -101,10 +125,75 @@
   ],
   "nearest_airport_km": 70.9,
   "distance_beijing_km": 13284.7,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Muelle Municipal",
+    "name_en": null,
+    "lat": 15.6568354,
+    "lon": -89.0000115,
+    "distance_km": 43.3,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Margarita",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.2554429,
+   "lon": -89.0958778,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "G Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4254122,
+   "lon": -89.0805444,
+   "distance_km": 17.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bahía Guapinol",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4402736,
+   "lon": -89.0643714,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mansión del Viajero",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4743336,
+   "lon": -88.8301626,
+   "distance_km": 32.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Fuente",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4738575,
+   "lon": -88.829226,
+   "distance_km": 32.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GT",
   "country_zh": "危地马拉",
@@ -176,5 +265,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

@@ -8,13 +8,13 @@ country: "UZ"
 country_zh: "乌兹别克斯坦"
 country_en: "Uzbekistan"
 unesco_id: "543"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1990"
 criteria: "(iii)(iv)(v)"
 lat: 41.377718
 lon: 60.359476
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 伊钦•卡拉内城 / Itchan Kala
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *KhivaWalls.jpg · see Wikimedia Commons file page*
 
-![Itchan Kala](https://whc.unesco.org/uploads/sites/site_543.jpg)
+![205 Venedores a la plaça de la madrassa d'Islam Khodja, davant l'Escola Russa (Khivà).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/205_Venedores_a_la_pla%C3%A7a_de_la_madrassa_d%27Islam_Khodja%2C_davant_l%27Escola_Russa_%28Khiv%C3%A0%29.jpg/1280px-205_Venedores_a_la_pla%C3%A7a_de_la_madrassa_d%27Islam_Khodja%2C_davant_l%27Escola_Russa_%28Khiv%C3%A0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Itchan Kala · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*205 Venedores a la plaça de la madrassa d'Islam Khodja, davant l'Escola Russa (Khivà).jpg · Enric · CC BY-SA 4.0*
+
+![Abulgazi Muhammad Rahim Khan 1 Mausoleum 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum_2.jpg/1280px-Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abulgazi Muhammad Rahim Khan 1 Mausoleum 2.jpg · Nassima Chahboun · CC BY-SA 4.0*
+
+![Abulgazi Muhammad Rahim Khan 1 Mausoleum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum.jpg/1280px-Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abulgazi Muhammad Rahim Khan 1 Mausoleum.jpg · Nassima Chahboun · CC BY-SA 4.0*
+
+![Allaquli Muhammad Bahadirkhan mausoleum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Allaquli_Muhammad_Bahadirkhan_mausoleum.jpg/1280px-Allaquli_Muhammad_Bahadirkhan_mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Allaquli Muhammad Bahadirkhan mausoleum.jpg · Nassima Chahboun · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Ichan-qal’a (oʻzbekcha: Ichan Qa'la) – Oʻzbekistonning tarixiy oʻzbek sha
 - ✈ **Urgench International Airport (UGC)** — 32.8 km
 - ✈ **Dashoguz International Airport (TAZ)** — 60.8 km
 - ✈ **Nukus International Airport (NCU)** — 137.7 km
+- 🚉 **Xiva** — 1.4 km
+- 🚉 **Urganch** — 28.8 km
+- 🚉 **Urganch Aeroporti** — 32.4 km
+- 🚉 **Ханки** — 35.7 km
+- 🚉 **Шават** — 37.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4625.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Asia Khiva** — 0.4 km — star — 4★
+- **Karavan mehmonxonasi** — 28.6 km — star — Karavan hotel · 3★
+- **O'zbekiston mehmonxonasi** — 30.9 km — star — Uzbekistan Hotel · 3★
+- **Turon mehmonxonasi** — 30.6 km — star — Turon · 2★
+- **Hotel Green Grand Garden** — 26.5 km — star — 1★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

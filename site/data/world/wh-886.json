@@ -2,8 +2,8 @@
  "id": "wh-886",
  "unesco_id": "886",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 53,
+ "tier": "basic",
+ "popularity_rank": 1186,
  "popularity_score": 233177,
  "country": "TM",
  "country_zh": "土库曼斯坦",
@@ -127,106 +127,9 @@
   "nearest_airport_km": 26.5,
   "distance_beijing_km": 4668.3,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Gurbangala",
-    "name_en": null,
-    "lat": 37.6878791,
-    "lon": 62.3523395,
-    "distance_km": 14.3,
-    "operator": null
-   },
-   {
-    "name": "Rzd. No 64",
-    "name_en": null,
-    "lat": 37.6172502,
-    "lon": 62.0307617,
-    "distance_km": 15.1,
-    "operator": null
-   },
-   {
-    "name": "Mollanepes",
-    "name_en": null,
-    "lat": 37.6035107,
-    "lon": 61.9358556,
-    "distance_km": 23.5,
-    "operator": null
-   },
-   {
-    "name": "Semenik",
-    "name_en": null,
-    "lat": 37.4921622,
-    "lon": 61.9704608,
-    "distance_km": 27.3,
-    "operator": null
-   },
-   {
-    "name": "Talhatanbaba",
-    "name_en": null,
-    "lat": 37.401946,
-    "lon": 62.1557382,
-    "distance_km": 29.2,
-    "operator": null
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Sanjar",
-   "name_en": "Hotel Sanjar",
-   "stars": 2,
-   "brand": null,
-   "lat": 37.5953296,
-   "lon": 61.835944,
-   "distance_km": 32.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Marguş Oteli",
-   "name_en": "Margush Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 37.5861139,
-   "lon": 61.8537817,
-   "distance_km": 31.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Mary Oteli",
-   "name_en": "Hotel Mary",
-   "stars": null,
-   "brand": null,
-   "lat": 37.5909922,
-   "lon": 61.8459936,
-   "distance_km": 31.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Myhmanhana",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 37.5968111,
-   "lon": 61.8349202,
-   "distance_km": 32.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Yrsgal",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 37.5924875,
-   "lon": 61.8350018,
-   "distance_km": 32.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "TM",
   "country_zh": "土库曼斯坦",
@@ -299,5 +202,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:31Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-293",
  "unesco_id": "293",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 417,
- "popularity_score": 18787,
+ "tier": "full",
+ "popularity_rank": 384,
+ "popularity_score": 17234,
  "country": "LB",
  "country_zh": "黎巴嫩",
  "country_en": "Lebanon",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_293.jpg",
-   "title": "Anjar",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/293",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Anjar_1.jpg/1280px-Anjar_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Anjar 1.jpg",
+   "author": "Leon petrosyan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjar_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Anjar_2.jpg/1280px-Anjar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Anjar 2.jpg",
+   "author": "Leon petrosyan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjar_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Anjar_8.jpg/1280px-Anjar_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Anjar 8.jpg",
+   "author": "Leon petrosyan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjar_8.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Anjar_Calouste_Gulbenkian_Hall%2C_March_2017.jpg/1280px-Anjar_Calouste_Gulbenkian_Hall%2C_March_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Anjar Calouste Gulbenkian Hall, March 2017.jpg",
+   "author": "Bdx",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjar_Calouste_Gulbenkian_Hall%2C_March_2017.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/293",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 42.2,
   "distance_beijing_km": 6985.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "محطة قطار جديدة الشيباني",
+    "name_en": null,
+    "lat": 33.5695049,
+    "lon": 36.194952,
+    "distance_km": 30.1,
+    "operator": null
+   },
+   {
+    "name": "محطة الهامة",
+    "name_en": "El Hamah Station",
+    "lat": 33.5522108,
+    "lon": 36.2199284,
+    "distance_km": 33.1,
+    "operator": null
+   },
+   {
+    "name": "قطنا",
+    "name_en": null,
+    "lat": 33.4404984,
+    "lon": 36.070367,
+    "distance_km": 34.3,
+    "operator": null
+   },
+   {
+    "name": "محطة قطار الربوة",
+    "name_en": null,
+    "lat": 33.51712,
+    "lon": 36.2601151,
+    "distance_km": 38.4,
+    "operator": null
+   },
+   {
+    "name": "داريا",
+    "name_en": null,
+    "lat": 33.4541205,
+    "lon": 36.2292289,
+    "distance_km": 41.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق غولدن مزة",
+   "name_en": "Golden Mazzeh",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.4952068,
+   "lon": 36.2468468,
+   "distance_km": 39.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Royal",
+   "name_en": "Le Royal",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.9478819,
+   "lon": 35.5949631,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Beirut Habtoor Grand",
+   "name_en": "Hilton Beirut Habtoor Grand",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.869416,
+   "lon": 35.5372243,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 33.5131629,
+   "lon": 36.2737475,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Beirut Metropolitan Palace",
+   "name_en": "Hilton Beirut Metropolitan Palace",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 33.8707953,
+   "lon": 35.5359606,
+   "distance_km": 39.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LB",
   "country_zh": "黎巴嫩",
@@ -178,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

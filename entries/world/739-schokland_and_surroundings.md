@@ -8,13 +8,13 @@ country: "NL"
 country_zh: "荷兰王国"
 country_en: "Kingdom of the Netherlands"
 unesco_id: "739"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iii)(v)"
 lat: 52.638611111
 lon: 5.771666666
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 斯霍克兰及其周围地区 / Schokland and Surroundings
@@ -39,9 +39,9 @@ updated_at: "2026-11-12T11:30:16Z"
 
 *Jacobus Frederik Sterre de Jong - Interieur met personen in de dracht van Schokland, 1881–1820 - PR.14558 - Netherlands Open Air Museum.jpg · Jacobus Frederik Sterre de Jong · Public domain*
 
-![Schokland and Surroundings](https://whc.unesco.org/uploads/sites/site_739.jpg)
+![Kampen, het Schokkermonument foto3 2016-02-17 13.26.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kampen%2C_het_Schokkermonument_foto3_2016-02-17_13.26.jpg/1280px-Kampen%2C_het_Schokkermonument_foto3_2016-02-17_13.26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Schokland and Surroundings · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Kampen, het Schokkermonument foto3 2016-02-17 13.26.jpg · Michielverbeek · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -64,7 +64,27 @@ Schokland (Nedersaksisch: Skokkelaand) was een eiland in de Zuiderzee. Na de dro
 - ✈ **Groningen Airport Eelde (GRQ)** — 76.0 km
 - ✈ **Amsterdam Airport Schiphol (AMS)** — 77.5 km
 - ✈ **Weeze (Niederrhein) Airport (NRN)** — 118.1 km
+- 🚉 **Dronten** — 12.1 km
+- 🚉 **Kampen** — 13.4 km
+- 🚉 **Kampen Zuid** — 15.1 km
+- 🚉 **Walibi Express Station 2** — 21.9 km
+- 🚉 **Walibi Express Station 1** — 22.1 km
+- ⛴ **Zuiderzeehaven** — 9.5 km
+- ⛴ **Terminal Veerdienst Urk - Enkhuizen** — 12.0 km
+- ⛴ **Passantenhaven Vollenhove** — 12.8 km
+- ⛴ **De Meerkoet** — 14.1 km
+- ⛴ **De Belt** — 16.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7675.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Zwartewater** — 20.3 km — star — 4★
+- **Apollo De Beyaerd** — 31.6 km — star — 4★
+- **Van der Valk Hotel Harderwijk** — 35.2 km — star — 4★ · Van der Valk
+- **Mooirivier Hotel & Congres** — 39.9 km — star — 4★
+- **Hof van Putten** — 43.1 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

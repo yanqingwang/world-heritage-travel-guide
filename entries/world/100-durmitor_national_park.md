@@ -8,13 +8,13 @@ country: "ME"
 country_zh: "黑山"
 country_en: "Montenegro"
 unesco_id: "100"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1980"
 criteria: "(vii)(viii)(x)"
 lat: 43.250790077
 lon: 19.008466499
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 杜米托尔国家公园 / Durmitor National Park
@@ -23,13 +23,25 @@ updated_at: "2026-11-12T11:30:10Z"
 
 ## 图片 / Images
 
-![Durmitor - near Minin bogaz.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Durmitor%20-%20near%20Minin%20bogaz.jpg?width=1280)
+![Kanjon reke Tare.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Kanjon%20reke%20Tare.jpg?width=1280)
 
-*Durmitor - near Minin bogaz.jpg · see Wikimedia Commons file page*
+*Kanjon reke Tare.jpg · see Wikimedia Commons file page*
 
-![Durmitor National Park](https://whc.unesco.org/uploads/sites/site_100.jpg)
+![2025-07-13 Tara River Canyon 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2025-07-13_Tara_River_Canyon_1.jpg/1280px-2025-07-13_Tara_River_Canyon_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Durmitor National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2025-07-13 Tara River Canyon 1.jpg · Alexkom000 · CC BY 4.0*
+
+![2025-07-13 Tara River Canyon 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2025-07-13_Tara_River_Canyon_2.jpg/1280px-2025-07-13_Tara_River_Canyon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2025-07-13 Tara River Canyon 2.jpg · Alexkom000 · CC BY 4.0*
+
+![2025-07-13 Tara River Canyon 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2025-07-13_Tara_River_Canyon_3.jpg/1280px-2025-07-13_Tara_River_Canyon_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2025-07-13 Tara River Canyon 3.jpg · Alexkom000 · CC BY 4.0*
+
+![2025-07-13 Tara River Canyon 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2025-07-13_Tara_River_Canyon_4.jpg/1280px-2025-07-13_Tara_River_Canyon_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2025-07-13 Tara River Canyon 4.jpg · Alexkom000 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ This breathtaking national park was formed by glaciers and is traversed by river
 - ✈ **Mostar International Airport (OMO)** — 94.2 km
 - ✈ **Tivat Airport (TIV)** — 96.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7616.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Polar Star** — 16.6 km — star — 4★
+- **MB Hotel** — 14.3 km — star — 3★
+- **Hotel Enigma** — 14.4 km — star — 3★
+- **Ravnjak** — 43.8 km — star — 3★
+- **Hotel Pljevlja** — 30.6 km — star — 2★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

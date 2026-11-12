@@ -2,9 +2,9 @@
  "id": "wh-1650",
  "unesco_id": "1650",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 347,
- "popularity_score": 24824,
+ "tier": "full",
+ "popularity_rank": 327,
+ "popularity_score": 22380,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1650.jpg",
-   "title": "The Porticoes of Bologna",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1650",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/0370061039-MIBAC_NikyLovesMonuments_5.JPG/1280px-0370061039-MIBAC_NikyLovesMonuments_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0370061039-MIBAC NikyLovesMonuments 5.JPG",
+   "author": "NikyLovesMonuments",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0370061039-MIBAC_NikyLovesMonuments_5.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/0370061040-MIBAC_NikyLovesMonuments.JPG/1280px-0370061040-MIBAC_NikyLovesMonuments.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0370061040-MIBAC NikyLovesMonuments.JPG",
+   "author": "NikyLovesMonuments",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0370061040-MIBAC_NikyLovesMonuments.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/1_i_portici_di_Bologna.jpg/1280px-1_i_portici_di_Bologna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 i portici di Bologna.jpg",
+   "author": "Michela.osteri",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_i_portici_di_Bologna.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/50_portici.jpg/1280px-50_portici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "50 portici.jpg",
+   "author": "AnetaMalinowskaART",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:50_portici.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1650",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 6.0,
   "distance_beijing_km": 8015.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Bologna Centrale",
+    "name_en": null,
+    "lat": 44.5058779,
+    "lon": 11.3433433,
+    "distance_km": 1.8,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Bologna Centrale Alta Velocità",
+    "name_en": null,
+    "lat": 44.507242,
+    "lon": 11.3429171,
+    "distance_km": 1.9,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Bologna Zanolini",
+    "name_en": null,
+    "lat": 44.4978306,
+    "lon": 11.3597377,
+    "distance_km": 2.3,
+    "operator": "Ferrovie Emilia Romagna"
+   },
+   {
+    "name": "Bologna San Vitale",
+    "name_en": null,
+    "lat": 44.496028,
+    "lon": 11.3730902,
+    "distance_km": 3.2,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Lazzaretto",
+    "name_en": null,
+    "lat": 44.5178846,
+    "lon": 11.3178738,
+    "distance_km": 3.2,
+    "operator": "Marconi Express"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Art Hotel Commercianti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4925464,
+   "lon": 11.3424465,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Touring",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4889603,
+   "lon": 11.3426323,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zanhotel Tre Vecchi",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4995205,
+   "lon": 11.3443649,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Suite Hotel Elite",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.5016995,
+   "lon": 11.3198597,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Elite",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.5015929,
+   "lon": 11.3201326,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

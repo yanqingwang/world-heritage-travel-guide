@@ -2,9 +2,9 @@
  "id": "wh-1060",
  "unesco_id": "1060",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 884,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 254,
+ "popularity_score": 30843,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1060.jpg",
-   "title": "Kenya Lake System in the Great Rift Valley",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1060",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Great_Rift_Valley_in_Kenya_%28shaded_map%29.svg/1280px-Great_Rift_Valley_in_Kenya_%28shaded_map%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Great Rift Valley in Kenya (shaded map).svg",
+   "author": "File:Kenya relief location map.jpg : User:Uwe Dedering Derivative work User:SUM1",
+   "license": "CC BY-SA 4.0",
+   "credit": "Adapted from File:Kenya relief location map.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Great_Rift_Valley_in_Kenya_%28shaded_map%29.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kenya_Rift_Valley_volcanoes_and_lakes.svg/1280px-Kenya_Rift_Valley_volcanoes_and_lakes.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kenya Rift Valley volcanoes and lakes.svg",
+   "author": "Uwe Dedering, modified by Aymatth2",
+   "license": "CC BY 3.0",
+   "credit": "File:Kenya relief location map.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kenya_Rift_Valley_volcanoes_and_lakes.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2013-01-23_07-02-16_Kenya_Central_-_Lari_5h.JPG/1280px-2013-01-23_07-02-16_Kenya_Central_-_Lari_5h.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2013-01-23 07-02-16 Kenya Central - Lari 5h.JPG",
+   "author": "Hansueli Krapf This file was uploaded with Commonist .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work : Hansueli Krapf (User Simisa ( talk · contribs ))",
+   "source": "https://commons.wikimedia.org/wiki/File:2013-01-23_07-02-16_Kenya_Central_-_Lari_5h.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_day_with_Rhino%2C_Rift_Valley.jpg/1280px-A_day_with_Rhino%2C_Rift_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A day with Rhino, Rift Valley.jpg",
+   "author": "Mara008",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_day_with_Rhino%2C_Rift_Valley.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1060",
@@ -101,9 +125,74 @@
   "nearest_airport_km": 105.3,
   "distance_beijing_km": 9124.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Nyahururu",
+    "name_en": null,
+    "lat": 0.0384702,
+    "lon": 36.3668755,
+    "distance_km": 47.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Lake Bogoria Spa Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.3554338,
+   "lon": 36.0516696,
+   "distance_km": 23.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mukutan Bandas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.5772038,
+   "lon": 36.4059659,
+   "distance_km": 23.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Island Camp Baringo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.5974402,
+   "lon": 36.0725004,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Teddy Bear Island Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.6000257,
+   "lon": 36.0537571,
+   "distance_km": 27.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Samatian Island Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.6400419,
+   "lon": 36.0723931,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KE",
   "country_zh": "肯尼亚",
@@ -174,5 +263,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

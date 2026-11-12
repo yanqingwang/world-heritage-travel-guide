@@ -2,9 +2,9 @@
  "id": "wh-544",
  "unesco_id": "544",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 353,
- "popularity_score": 24240,
+ "tier": "full",
+ "popularity_rank": 329,
+ "popularity_score": 22101,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_544.jpg",
-   "title": "Kizhi Pogost",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/544",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/0432Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg/1280px-0432Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0432Ac. остров Кижи.jpg",
+   "author": "Александровы АГ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0432Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0433Ac._Kizhi_Island.jpg/1280px-0433Ac._Kizhi_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0433Ac. Kizhi Island.jpg",
+   "author": "Александровы АГ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0433Ac._Kizhi_Island.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/0434Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg/1280px-0434Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0434Ac. остров Кижи.jpg",
+   "author": "Александровы АГ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0434Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/0453Ac._Kizhi_Pogost_in_Karelia.jpg/1280px-0453Ac._Kizhi_Pogost_in_Karelia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0453Ac. Kizhi Pogost in Karelia.jpg",
+   "author": "Александровы АГ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0453Ac._Kizhi_Pogost_in_Karelia.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/544",
@@ -102,10 +126,88 @@
   ],
   "nearest_airport_km": 59.4,
   "distance_beijing_km": 5784.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Причал",
+    "name_en": null,
+    "lat": 62.0740916,
+    "lon": 35.2192696,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Кижи",
+    "name_en": "Kizhi",
+    "lat": 62.0741747,
+    "lon": 35.2196508,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Пристань Отяевщина",
+    "name_en": null,
+    "lat": 62.0828901,
+    "lon": 35.1815258,
+    "distance_km": 2.8,
+    "operator": null
+   },
+   {
+    "name": "Пристань \"Кометы\" Великая губа",
+    "name_en": null,
+    "lat": 62.2418219,
+    "lon": 35.0774208,
+    "distance_km": 20.8,
+    "operator": null
+   },
+   {
+    "name": "Стеклянное",
+    "name_en": null,
+    "lat": 61.8096675,
+    "lon": 35.9671716,
+    "distance_km": 48.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Илемсельга",
+    "name_en": null,
+    "lat": 62.299353,
+    "lon": 34.5167914,
+    "distance_km": 44.8,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Мянсельга",
+    "name_en": null,
+    "lat": 62.2624012,
+    "lon": 34.4468295,
+    "distance_km": 45.8,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Нигозеро",
+    "name_en": null,
+    "lat": 62.2239211,
+    "lon": 34.3434056,
+    "distance_km": 48.9,
+    "operator": "ОАО «РЖД»"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Гостевой комплекс \"Вороний остров\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 62.1795541,
+   "lon": 35.5056971,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -177,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

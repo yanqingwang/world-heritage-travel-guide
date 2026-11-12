@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Collegio Alla Querce",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7880315,
+   "lon": 11.277076,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Firenze",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 43.7770174,
+   "lon": 11.2662841,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Regency",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7753933,
+   "lon": 11.2680892,
+   "distance_km": 9.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tivoli Palazzo Gaddi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 43.774188,
+   "lon": 11.2515486,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palazzo Firence by Baglioni Hotels & Resorts",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Baglioni Hotels & Resorts",
+   "lat": 43.7699337,
+   "lon": 11.2623755,
+   "distance_km": 10.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 742,
+ "stations": [
+  {
+   "name": "Fiesole - Caldine",
+   "name_en": null,
+   "lat": 43.8304136,
+   "lon": 11.3079009,
+   "distance_km": 3.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Vaglia",
+   "name_en": null,
+   "lat": 43.9060386,
+   "lon": 11.2831021,
+   "distance_km": 5.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Castello",
+   "name_en": null,
+   "lat": 43.8198547,
+   "lon": 11.2187241,
+   "distance_km": 8.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze San Marco Vecchio",
+   "name_en": null,
+   "lat": 43.790718,
+   "lon": 11.2676516,
+   "distance_km": 8.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Rifredi",
+   "name_en": null,
+   "lat": 43.8000848,
+   "lon": 11.2361813,
+   "distance_km": 8.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Zambra",
+   "name_en": null,
+   "lat": 43.8257998,
+   "lon": 11.2059378,
+   "distance_km": 8.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Campomigliaio",
+   "name_en": null,
+   "lat": 43.9369893,
+   "lon": 11.3030933,
+   "distance_km": 8.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Firenze Statuto",
+   "name_en": null,
+   "lat": 43.7873323,
+   "lon": 11.2499596,
+   "distance_km": 9.0,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Vergherete",
+   "name_en": null,
+   "lat": 43.873325,
+   "lon": 11.8352099,
+   "distance_km": 42.6,
+   "operator": null
+  },
+  {
+   "name": "Ca' di Sopra",
+   "name_en": null,
+   "lat": 43.8603721,
+   "lon": 11.8394674,
+   "distance_km": 42.9,
+   "operator": null
+  },
+  {
+   "name": "Comignolo",
+   "name_en": null,
+   "lat": 43.8489275,
+   "lon": 11.8398884,
+   "distance_km": 43.0,
+   "operator": null
+  },
+  {
+   "name": "Molo di Bandella",
+   "name_en": null,
+   "lat": 43.5104232,
+   "lon": 11.6572264,
+   "distance_km": 47.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:16Z"
+}

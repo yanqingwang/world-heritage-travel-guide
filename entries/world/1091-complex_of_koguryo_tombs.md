@@ -8,13 +8,13 @@ country: "KP"
 country_zh: "朝鲜民主主义人民共和国"
 country_en: "North Korea"
 unesco_id: "1091"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 38.863055555
 lon: 125.415
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 高句丽古墓群 / Complex of Koguryo Tombs
@@ -52,7 +52,22 @@ The property includes several group and individual tombs - totalling about 30 in
 - ✈ **Pyongyang Sunan International Airport (FNJ)** — 45.8 km
 - ✈ **Dandong Langtou International Airport (DDG)** — 161.5 km
 - ✈ **Incheon International Airport (ICN)** — 179.5 km
+- 🚉 **룡강** — 1.3 km
+- 🚉 **룡호** — 2.1 km
+- 🚉 **태성역** — 4.7 km
+- 🚉 **양막** — 5.7 km
+- 🚉 **후산** — 6.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **783.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **룡강 온천 호텔** — 16.9 km — hotel — Ryonggang Hot Spa Hotel
+- **량강려관** — 28.8 km — hotel — Ryanggang Hotel
+- **서산려관** — 29.1 km — hotel — Sosan Hotel
+- **라그랑 호텔** — 29.3 km — hotel — Ragrang Hotel
+- **청년호텔** — 29.3 km — hotel — Chongnyon Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

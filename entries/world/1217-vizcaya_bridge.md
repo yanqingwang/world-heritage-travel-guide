@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "1217"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(i)(ii)"
 lat: 43.323055555
 lon: -3.016944444
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 维斯盖亚桥 / Vizcaya Bridge
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Bizkaia zubia - Puente Bizkaia.jpg · see Wikimedia Commons file page*
 
-![Vizcaya Bridge](https://whc.unesco.org/uploads/sites/site_1217.jpg)
+![2009 10 28 concurso IX puentes ingenieros bilbao 006.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2009_10_28_concurso_IX_puentes_ingenieros_bilbao_006.jpg/1280px-2009_10_28_concurso_IX_puentes_ingenieros_bilbao_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vizcaya Bridge · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2009 10 28 concurso IX puentes ingenieros bilbao 006.jpg · Tito · CC BY 3.0*
+
+![2016 08 14 Bizkaia Zubia itsasadarra.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2016_08_14_Bizkaia_Zubia_itsasadarra.jpg/1280px-2016_08_14_Bizkaia_Zubia_itsasadarra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016 08 14 Bizkaia Zubia itsasadarra.jpg · Javierme Javier Mediavilla Ezquibela · CC BY 4.0*
+
+![3 km an h speed limit road signs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/3_km_an_h_speed_limit_road_signs.jpg/1280px-3_km_an_h_speed_limit_road_signs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*3 km an h speed limit road signs.jpg · Pacopac · CC BY-SA 4.0*
+
+![4ªJornada - paseo matinal 005 (4930219868).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/4%C2%AAJornada_-_paseo_matinal_005_%284930219868%29.jpg/1280px-4%C2%AAJornada_-_paseo_matinal_005_%284930219868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4ªJornada - paseo matinal 005 (4930219868).jpg · CLUB DE AJEDREZ LINEX-MAGIC from MÉRIDA, ESPAÑA · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Este puente-transbordador monumental cruza el río Nervión en el estuario de Ib
 - ✈ **Bilbao Airport (BIO)** — 8.9 km
 - ✈ **Vitoria Airport (VIT)** — 54.4 km
 - ✈ **Seve Ballesteros-Santander Airport (SDR)** — 65.9 km
+- 🚉 **Portugalete** — 0.5 km
+- 🚉 **Peñota** — 0.6 km
+- 🚉 **Santurtzi** — 1.2 km
+- 🚉 **La Iberia** — 1.5 km
+- 🚉 **Galindo** — 2.2 km
+- ⛴ **Embarcadero Getxo** — 0.2 km
+- ⛴ **Portugalete** — 0.2 km
+- ⛴ **Paseo Reina Victoria** — 1.2 km
+- ⛴ **Puerto deportivo El Abra-Getxo** — 1.8 km
+- ⛴ **Terminal de Cruceros Getxo I y II** — 1.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8935.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Palacio Arriluce** — 1.9 km — star — 5★
+- **Hotel The Artist - Grand Hotel of Art** — 9.1 km — star — The Artist Hotel - Grand Hotel of Art · 5★
+- **Carlton** — 9.5 km — star — 5★
+- **Radisson Collection Hotel, Gran Vía Bilbao** — 9.9 km — star — 5★ · Radisson Collection
+- **Oriol jauregia** — 0.7 km — star — 4★ · URH
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

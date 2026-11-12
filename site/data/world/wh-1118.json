@@ -2,9 +2,9 @@
  "id": "wh-1118",
  "unesco_id": "1118",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 426,
- "popularity_score": 18268,
+ "tier": "full",
+ "popularity_rank": 397,
+ "popularity_score": 16678,
  "country": "NG",
  "country_zh": "尼日利亚",
  "country_en": "Nigeria",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1118.jpg",
-   "title": "Osun-Osogbo Sacred Grove",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1118",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Agere_Display_at_Osun_Oshogo_festival.jpg/1280px-Agere_Display_at_Osun_Oshogo_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Agere Display at Osun Oshogo festival.jpg",
+   "author": "Comradeayobami",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Agere_Display_at_Osun_Oshogo_festival.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Agogo_Hairstyle_at_Osun_Osogbo_festival_01.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Agogo Hairstyle at Osun Osogbo festival 01.jpg",
+   "author": "SM Igbalode",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Agogo_Hairstyle_at_Osun_Osogbo_festival_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Agogo_Hairstyle_at_Osun_Osogbo_festival_02.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Agogo Hairstyle at Osun Osogbo festival 02.jpg",
+   "author": "SM Igbalode",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Agogo_Hairstyle_at_Osun_Osogbo_festival_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Agogo_Hairstyle_at_Osun_Osogbo_festival_03.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Agogo Hairstyle at Osun Osogbo festival 03.jpg",
+   "author": "SM Igbalode",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Agogo_Hairstyle_at_Osun_Osogbo_festival_03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1118",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 76.5,
   "distance_beijing_km": 11226.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Osogbo",
+    "name_en": null,
+    "lat": 7.7803987,
+    "lon": 4.5477655,
+    "distance_km": 2.9,
+    "operator": null
+   },
+   {
+    "name": "Ede Station",
+    "name_en": null,
+    "lat": 7.75,
+    "lon": 4.433333,
+    "distance_km": 12.9,
+    "operator": null
+   },
+   {
+    "name": "Origo Station",
+    "name_en": null,
+    "lat": 7.6922287,
+    "lon": 4.365094,
+    "distance_km": 21.6,
+    "operator": null
+   },
+   {
+    "name": "Okuku Railway Station",
+    "name_en": null,
+    "lat": 8.033333,
+    "lon": 4.683333,
+    "distance_km": 34.2,
+    "operator": null
+   },
+   {
+    "name": "Ile Igbo Station",
+    "name_en": null,
+    "lat": 7.5980189,
+    "lon": 4.2813662,
+    "distance_km": 34.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "White Plain Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.7586198,
+   "lon": 4.5311137,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zarah Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.7573062,
+   "lon": 4.5297235,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Flora Suites",
+   "name_en": "Flora Suites",
+   "stars": null,
+   "brand": null,
+   "lat": 7.7870166,
+   "lon": 4.5390802,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Delightsome Hotel and Resorts Ltd",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.8007197,
+   "lon": 4.5112336,
+   "distance_km": 6.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alabama Luxury Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hotel",
+   "lat": 7.808385,
+   "lon": 4.5849048,
+   "distance_km": 7.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NG",
   "country_zh": "尼日利亚",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

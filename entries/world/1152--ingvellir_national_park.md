@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(vi)"
 lat: 64.258055555
 lon: -21.125
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 平位利尔国家公园 / Þingvellir National Park

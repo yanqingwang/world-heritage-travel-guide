@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "631"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(iii)(iv)"
 lat: 20.448058333
 lon: -97.378241666
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 埃尔塔津古城 / El Tajin, Pre-Hispanic City
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *El Tajín, Nischenpyramide.(fcm).jpg · see Wikimedia Commons file page*
 
-![El Tajin, Pre-Hispanic City](https://whc.unesco.org/uploads/sites/site_631.jpg)
+![An abbreviated map of El Tajin.JPG](https://upload.wikimedia.org/wikipedia/commons/d/db/An_abbreviated_map_of_El_Tajin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*El Tajin, Pre-Hispanic City · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*An abbreviated map of El Tajin.JPG · Siyajkak · CC BY-SA 3.0*
+
+![Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 01 (15837213509).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_01_%2815837213509%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_01_%2815837213509%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 01 (15837213509).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
+
+![Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 02 (15997468786).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_02_%2815997468786%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_02_%2815997468786%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 02 (15997468786).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
+
+![Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 03 (15837185979).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_03_%2815837185979%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_03_%2815837185979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 03 (15837185979).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Situada en el Estado de Veracruz, la ciudad de El Tajín alcanzó su apogeo entr
 - ✈ **Hermanos Serdán International Airport (PBC)** — 177.1 km
 - ✈ **Felipe Ángeles International Airport (NLU)** — 188.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12400.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Victoria Poza Rica** — 13.1 km — star — 4★ · Collection O
+- **Fiesta Inn Poza Rica** — 13.9 km — star — 4★ · Fiesta Inn Hoteles Business Class
+- **Tajín** — 5.9 km — star — 3★
+- **Hotel Toledo** — 12.8 km — star — 3★
+- **Novotel** — 12.8 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

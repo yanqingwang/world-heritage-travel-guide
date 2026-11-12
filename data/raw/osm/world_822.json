@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Telegraaf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Autograph Collection",
+   "lat": 59.437666,
+   "lon": 24.7472466,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Swissôtel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swissôtel",
+   "lat": 59.4328263,
+   "lon": 24.7614335,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hestia Hotel Ilmarine",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 59.4445701,
+   "lon": 24.7460477,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Park Inn",
+   "lat": 59.4352781,
+   "lon": 24.7323581,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Collection Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 59.4334836,
+   "lon": 24.758148,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 101,
+ "stations": [
+  {
+   "name": "Tallinn",
+   "name_en": "Tallinn Baltic station",
+   "lat": 59.4399541,
+   "lon": 24.7359938,
+   "distance_km": 0.6,
+   "operator": "AS Eesti Raudtee"
+  },
+  {
+   "name": "Tallinn-Väike",
+   "name_en": null,
+   "lat": 59.4127524,
+   "lon": 24.7458749,
+   "distance_km": 2.7,
+   "operator": "Edelaraudtee AS"
+  },
+  {
+   "name": "Ülemiste",
+   "name_en": null,
+   "lat": 59.4235504,
+   "lon": 24.7971709,
+   "distance_km": 3.3,
+   "operator": "AS Eesti Raudtee"
+  },
+  {
+   "name": "Liiva",
+   "name_en": null,
+   "lat": 59.3875173,
+   "lon": 24.7229899,
+   "distance_km": 5.7,
+   "operator": "Edelaraudtee AS"
+  },
+  {
+   "name": "Pääsküla",
+   "name_en": null,
+   "lat": 59.3694639,
+   "lon": 24.6411642,
+   "distance_km": 9.6,
+   "operator": "AS Eesti Raudtee"
+  },
+  {
+   "name": "Lagedi",
+   "name_en": null,
+   "lat": 59.3992693,
+   "lon": 24.9324363,
+   "distance_km": 11.4,
+   "operator": "AS Eesti Raudtee"
+  },
+  {
+   "name": "Aruküla",
+   "name_en": null,
+   "lat": 59.372018,
+   "lon": 25.0789719,
+   "distance_km": 20.2,
+   "operator": "AS Eesti Raudtee"
+  },
+  {
+   "name": "Kiisa",
+   "name_en": null,
+   "lat": 59.2382411,
+   "lon": 24.685549,
+   "distance_km": 22.4,
+   "operator": "Edelaraudtee AS"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Patareisadam",
+   "name_en": "Port Patareisadam",
+   "lat": 59.4477605,
+   "lon": 24.7526325,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "A-terminal",
+   "name_en": "Terminal A",
+   "lat": 59.4447639,
+   "lon": 24.7618381,
+   "distance_km": 1.3,
+   "operator": "Tallinna Sadam"
+  },
+  {
+   "name": "D-terminal",
+   "name_en": "Terminal D",
+   "lat": 59.4434959,
+   "lon": 24.7668537,
+   "distance_km": 1.4,
+   "operator": "Tallinna Sadam"
+  },
+  {
+   "name": "Tallinn",
+   "name_en": null,
+   "lat": 59.443955,
+   "lon": 24.7700461,
+   "distance_km": 1.6,
+   "operator": null
+  },
+  {
+   "name": "Kruiisiterminal",
+   "name_en": "Cruise terminal",
+   "lat": 59.4478946,
+   "lon": 24.7641914,
+   "distance_km": 1.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:33Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-586",
  "unesco_id": "586",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 306,
- "popularity_score": 30149,
+ "tier": "full",
+ "popularity_rank": 283,
+ "popularity_score": 27241,
  "country": "PK",
  "country_zh": "巴基斯坦",
  "country_en": "Pakistan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_586.jpg",
-   "title": "Rohtas Fort",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/586",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28100%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (100).jpg",
+   "author": "Ibnazhar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28100%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28101%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (101).jpg",
+   "author": "Ibnazhar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28101%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28102%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (102).jpg",
+   "author": "Ibnazhar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28102%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28103%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (103).jpg",
+   "author": "Ibnazhar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28103%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/586",
@@ -102,10 +126,124 @@
   ],
   "nearest_airport_km": 87.8,
   "distance_beijing_km": 3837.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Rathoa",
+    "name_en": null,
+    "lat": 33.159461,
+    "lon": 73.8052744,
+    "distance_km": 30.3,
+    "operator": null
+   },
+   {
+    "name": "Haryam",
+    "name_en": null,
+    "lat": 33.1614232,
+    "lon": 73.8065813,
+    "distance_km": 30.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "دینہ ریلوے اسٹیشن",
+    "name_en": "Dina",
+    "lat": 33.0246341,
+    "lon": 73.6032165,
+    "distance_km": 7.1,
+    "operator": "Pakistan Railways"
+   },
+   {
+    "name": "رتیال ریلوے اسٹیشن",
+    "name_en": "Ratial",
+    "lat": 33.0331989,
+    "lon": 73.5361871,
+    "distance_km": 8.4,
+    "operator": null
+   },
+   {
+    "name": "کالووال ریلوے اسٹیشن",
+    "name_en": "Kaluwal",
+    "lat": 33.0239949,
+    "lon": 73.6587956,
+    "distance_km": 10.1,
+    "operator": null
+   },
+   {
+    "name": "کالا گُجراں ریلوے اسٹیشن",
+    "name_en": "Kala Gujran",
+    "lat": 32.9629321,
+    "lon": 73.6948919,
+    "distance_km": 11.1,
+    "operator": null
+   },
+   {
+    "name": "ڈومیلی ریلوے اسٹیشن",
+    "name_en": "Domeli Railway Station",
+    "lat": 33.0328625,
+    "lon": 73.4658492,
+    "distance_km": 12.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Chowdhary Akhater Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.9969945,
+   "lon": 73.6665943,
+   "distance_km": 9.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Adam Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.9866028,
+   "lon": 73.6748551,
+   "distance_km": 9.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mansoor Hotel And Restaurant",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.9752775,
+   "lon": 73.6858806,
+   "distance_km": 10.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jhelum Inn Sizzlers & Restaurant",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.9261146,
+   "lon": 73.7186427,
+   "distance_km": 14.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tulip Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.9072645,
+   "lon": 73.7308432,
+   "distance_km": 15.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PK",
   "country_zh": "巴基斯坦",
@@ -178,5 +316,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

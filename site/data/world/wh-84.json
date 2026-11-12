@@ -2,9 +2,9 @@
  "id": "wh-84",
  "unesco_id": "84",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 318,
- "popularity_score": 28529,
+ "tier": "full",
+ "popularity_rank": 292,
+ "popularity_score": 26146,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_84.jpg",
-   "title": "Vézelay, Church and Hill",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/84",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/180_of_%27Histoire_des_Villes_de_France%2C_avec_une_introduction_g%C3%A9n%C3%A9rale_pour_chaque_province_par_A._Guilbert_et_une_Soci%C3%A9t%C3%A9_de_Membres_de_l%27Institut%2C_de_savants%2C_etc%27_%2811022635914%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "180 of 'Histoire des Villes de France, avec une introduction générale pour chaque province par A. Guilbert et une Société de Membres de l'Institut, de savants, etc' (11022635914).jpg",
+   "author": "The British Library",
+   "license": "No restrictions",
+   "credit": "Image taken from page 180 of 'Histoire des Villes de France, avec une introduction générale pour chaque province par A. Guilbert et une Société de Membres de l'",
+   "source": "https://commons.wikimedia.org/wiki/File:180_of_%27Histoire_des_Villes_de_France%2C_avec_une_introduction_g%C3%A9n%C3%A9rale_pour_chaque_province_par_A._Guilbert_et_une_Soci%C3%A9t%C3%A9_de_Membres_de_l%27Institut%2C_de_savants%2C_etc%27_%2811022635914%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aerial_image_of_V%C3%A9zelay_Abbey_%28view_from_the_southwest%29.jpg/1280px-Aerial_image_of_V%C3%A9zelay_Abbey_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial image of Vézelay Abbey (view from the southwest).jpg",
+   "author": "Carsten Steger",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_V%C3%A9zelay_Abbey_%28view_from_the_southwest%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Basilique_de_V%C3%A9zelay_-_Portail_RHu.JPG/1280px-Basilique_de_V%C3%A9zelay_-_Portail_RHu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Basilique de Vézelay - Portail RHu.JPG",
+   "author": "Meneerke bloem",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilique_de_V%C3%A9zelay_-_Portail_RHu.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Basilique_Sainte-Marie-Madeleine_de_V%C3%A9zelay_2016_%285%29.jpg/1280px-Basilique_Sainte-Marie-Madeleine_de_V%C3%A9zelay_2016_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Basilique Sainte-Marie-Madeleine de Vézelay 2016 (5).jpg",
+   "author": "Pierre André Leclercq",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilique_Sainte-Marie-Madeleine_de_V%C3%A9zelay_2016_%285%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/84",
@@ -102,10 +126,132 @@
   ],
   "nearest_airport_km": 135.4,
   "distance_beijing_km": 8179.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Plaisance de Montbard",
+    "name_en": null,
+    "lat": 47.6233065,
+    "lon": 4.3306417,
+    "distance_km": 47.1,
+    "operator": null
+   },
+   {
+    "name": "Port de Plaisance de Tonnerre",
+    "name_en": null,
+    "lat": 47.8632721,
+    "lon": 3.9796075,
+    "distance_km": 47.4,
+    "operator": "Mairie de Tonnerre"
+   },
+   {
+    "name": "Halte Nautique de Tanlay",
+    "name_en": null,
+    "lat": 47.8469432,
+    "lon": 4.0809219,
+    "distance_km": 49.1,
+    "operator": "Mairie de Tanlay"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Sermizelles - Vézelay",
+    "name_en": null,
+    "lat": 47.5288727,
+    "lon": 3.7928809,
+    "distance_km": 7.7,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Châtel-Censoir",
+    "name_en": null,
+    "lat": 47.5377899,
+    "lon": 3.6351706,
+    "distance_km": 11.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Avallon",
+    "name_en": null,
+    "lat": 47.4957553,
+    "lon": 3.9124463,
+    "distance_km": 12.8,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Flez Cuzy Tannay",
+    "name_en": null,
+    "lat": 47.3630583,
+    "lon": 3.6149926,
+    "distance_km": 15.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Mailly-la-Ville",
+    "name_en": null,
+    "lat": 47.6041692,
+    "lon": 3.6751472,
+    "distance_km": 16.3,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Château de Vault de Lugny",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.4958793,
+   "lon": 3.8544376,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel de la Poste",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.4897352,
+   "lon": 3.9087196,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Clos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8120498,
+   "lon": 3.8005324,
+   "distance_km": 38.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel les Maréchaux",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7961114,
+   "lon": 3.562979,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Auxerre Nord",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 47.8526664,
+   "lon": 3.5437348,
+   "distance_km": 45.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -177,5 +323,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

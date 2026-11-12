@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "989"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)(v)"
 lat: 42.350092
 lon: -3.519466
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 阿塔皮尔卡考古遗址 / Archaeological Site of Atapuerca
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Dolina-Pano-3.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Atapuerca](https://whc.unesco.org/uploads/sites/site_989.jpg)
+![Almost humans exhibit at ICP in Sabadell (20).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Almost_humans_exhibit_at_ICP_in_Sabadell_%2820%29.JPG/1280px-Almost_humans_exhibit_at_ICP_in_Sabadell_%2820%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Atapuerca · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Almost humans exhibit at ICP in Sabadell (20).JPG · Kippelboy · CC BY-SA 3.0*
+
+![Atapuerca banner Sierra de Atapuerca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Atapuerca_banner_Sierra_de_Atapuerca.jpg/1280px-Atapuerca_banner_Sierra_de_Atapuerca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Atapuerca banner Sierra de Atapuerca.jpg · Mario modesto · CC BY-SA 3.0*
+
+![Atapuerca carnivore skull 1.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/Atapuerca_carnivore_skull_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atapuerca carnivore skull 1.jpg · Valugi · CC BY-SA 3.0*
+
+![Atapuerca carnivore skull 2.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/Atapuerca_carnivore_skull_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atapuerca carnivore skull 2.jpg · Valugi · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Las cuevas de la Sierra de Atapuerca contienen numerosos vestigios fósiles de l
 - ✈ **Vitoria Airport (VIT)** — 88.0 km
 - ✈ **Logroño-Agoncillo Airport (RJL)** — 99.1 km
 - ✈ **Bilbao Airport (BIO)** — 116.8 km
+- 🚉 **Burgos - Rosa Manzano** — 12.3 km
+- 🚉 **Briviesca** — 27.0 km
+- 🚉 **Cascajares de la Sierra** — 34.5 km
+- 🚉 **Barbadillo del Mercado** — 37.9 km
+- 🚉 **Villaquirán** — 42.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8960.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Landa Palace** — 15.7 km — star — 5★
+- **B&B Hotel Burgos** — 13.6 km — star — 4★ · B&B Hotels
+- **Hotel Rice Avenida Reyes Católicos** — 14.2 km — star — 4★
+- **Hotel Silken Gran Teatro** — 14.6 km — star — 4★
+- **Sercotel Corona de Castilla** — 15.0 km — star — 4★ · Sercotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

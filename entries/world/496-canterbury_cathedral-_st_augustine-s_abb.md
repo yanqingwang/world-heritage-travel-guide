@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(vi)"
 lat: 51.28
 lon: 1.083333333
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 坎特伯雷大教堂、圣奥古斯汀教堂和圣马丁教堂 / Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church

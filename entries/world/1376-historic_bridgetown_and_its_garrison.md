@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(iv)"
 lat: 13.0975
 lon: -59.616666666
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 布里奇顿及其军事要塞 / Historic Bridgetown and its Garrison
@@ -66,9 +66,9 @@ Historic Bridgetown and its Garrison, an outstanding example of British colonial
 
 - **Barbados Hilton** — 2.1 km — star — 4★ · Hilton
 - **Yellow Bird Hotel** — 5.5 km — star — 4★
+- **Blue Horizon Hotel** — 4.0 km — star — 3★
 - **South Gap** — 5.7 km — star — 3★
 - **Radisson Aquatica Resort** — 1.8 km — chain — Radisson
-- **Fairmont Royal Pavilion Resort** — 11.9 km — chain — Fairmont
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

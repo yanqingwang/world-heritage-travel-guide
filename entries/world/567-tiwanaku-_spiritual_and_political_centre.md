@@ -8,13 +8,13 @@ country: "BO"
 country_zh: "玻利维亚"
 country_en: "Bolivia"
 unesco_id: "567"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)(iv)"
 lat: -16.554722222
 lon: -68.673333333
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 蒂瓦纳科文化的精神和政治中心 / Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture
@@ -64,25 +64,7 @@ Tiwanaku fue la capital de un poderoso imperio prehispánico que alcanzó su apo
 - ✈ **El Alto International Airport (LPB)** — 51.8 km
 - ✈ **Inca Manco Capac International Airport (JUL)** — 199.3 km
 - ✈ **Juan Mendoza International Airport (ORU)** — 230.3 km
-- 🚉 **Tiahuanacu** — 0.4 km
-- 🚉 **Puerto Guaqui** — 19.6 km
-- 🚉 **Viacha** — 42.0 km
-- ⛴ **Puerto Guaqui** — 19.8 km
-- ⛴ **Puerto Quewaya** — 25.2 km
-- ⛴ **Isla Flotante Pariti** — 25.6 km
-- ⛴ **Muelle Anapia** — 33.1 km
-- ⛴ **Punta Hermosa** — 47.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17354.0 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Tiahuanacu** — 0.5 km — hotel
-- **Akapana** — 0.5 km — hotel
-- **Alojamiento Geminis** — 0.8 km — hotel
-- **Hospedaje Utasawa** — 0.8 km — hotel
-- **El Mochillero** — 1.0 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

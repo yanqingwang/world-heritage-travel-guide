@@ -1,0 +1,120 @@
+{
+ "hotels": [
+  {
+   "name": "พิชชาวรี รีสอร์ท",
+   "name_en": "Picha Waree Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 15.3979316,
+   "lon": 101.1012406,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Javarach",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.666183,
+   "lon": 101.1120056,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pasak Hillside",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.2625032,
+   "lon": 101.1175196,
+   "distance_km": 23.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ban Fark Fun",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4046616,
+   "lon": 101.3649427,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rimphu Resort",
+   "name_en": "Rimphu Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 15.6569826,
+   "lon": 101.0364543,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 9,
+ "stations": [
+  {
+   "name": "แผ่นดินทอง",
+   "name_en": "Phaendin Thong",
+   "lat": 15.2502428,
+   "lon": 101.2605966,
+   "distance_km": 26.8,
+   "operator": null
+  },
+  {
+   "name": "ลำนารายณ์",
+   "name_en": "Lam Narai",
+   "lat": 15.2200983,
+   "lon": 101.1395215,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "ช่องสำราญ",
+   "name_en": "Chong Samran",
+   "lat": 15.3521079,
+   "lon": 101.3869595,
+   "distance_km": 28.4,
+   "operator": null
+  },
+  {
+   "name": "โคกคลี",
+   "name_en": "Khok Khli",
+   "lat": 15.2745824,
+   "lon": 101.3691956,
+   "distance_km": 31.7,
+   "operator": null
+  },
+  {
+   "name": "บ้านวะตะแบก (เทพสถิต)",
+   "name_en": "Ban Wa Tabaek (Thep Sathit)",
+   "lat": 15.3971958,
+   "lon": 101.4535189,
+   "distance_km": 33.4,
+   "operator": null
+  },
+  {
+   "name": "ห้วยยายจิ๋ว",
+   "name_en": "Huai Yai Chio",
+   "lat": 15.4245651,
+   "lon": 101.531124,
+   "distance_km": 41.1,
+   "operator": null
+  },
+  {
+   "name": "สุรนารายณ์",
+   "name_en": "Suranarai",
+   "lat": 15.07013,
+   "lon": 101.0172521,
+   "distance_km": 46.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:48:11Z"
+}

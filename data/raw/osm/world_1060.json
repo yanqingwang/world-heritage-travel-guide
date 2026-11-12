@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Lake Bogoria Spa Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.3554338,
+   "lon": 36.0516696,
+   "distance_km": 23.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mukutan Bandas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.5772038,
+   "lon": 36.4059659,
+   "distance_km": 23.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Island Camp Baringo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.5974402,
+   "lon": 36.0725004,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Teddy Bear Island Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.6000257,
+   "lon": 36.0537571,
+   "distance_km": 27.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Samatian Island Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 0.6400419,
+   "lon": 36.0723931,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 27,
+ "stations": [
+  {
+   "name": "Nyahururu",
+   "name_en": null,
+   "lat": 0.0384702,
+   "lon": 36.3668755,
+   "distance_km": 47.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:57Z"
+}

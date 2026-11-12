@@ -8,13 +8,13 @@ country: "MN"
 country_zh: "蒙古国"
 country_en: "Mongolia"
 unesco_id: "1081"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 47.556666666
 lon: 102.831388888
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 鄂尔浑峡谷文化景观 / Orkhon Valley Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Orchon-mongolei.JPG · see Wikimedia Commons file page*
 
-![Orkhon Valley Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1081.jpg)
+![202408 Orkhon Valley 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/202408_Orkhon_Valley_01.jpg/1280px-202408_Orkhon_Valley_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Orkhon Valley Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*202408 Orkhon Valley 01.jpg · Jonashtand · CC BY-SA 4.0*
+
+![202408 Orkhon Valley 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/202408_Orkhon_Valley_02.jpg/1280px-202408_Orkhon_Valley_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*202408 Orkhon Valley 02.jpg · Jonashtand · CC BY-SA 4.0*
+
+![202408 Orkhon Valley 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/202408_Orkhon_Valley_03.jpg/1280px-202408_Orkhon_Valley_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*202408 Orkhon Valley 03.jpg · Jonashtand · CC BY-SA 4.0*
+
+![202408 Orkhon Valley 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/202408_Orkhon_Valley_04.jpg/1280px-202408_Orkhon_Valley_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*202408 Orkhon Valley 04.jpg · Jonashtand · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of
 - ✈ **Bulgan Airport (UGA)** — 152.1 km
 - ✈ **Bayankhongor Airport (BYN)** — 224.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1308.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Өргөөт** — 24.5 km — hotel
+- **Артхан зочид буудал** — 34.0 km — hotel — Artkhan hotel
+- **HOTEL BAYANBURD MNT50000（No WiFi No shower No ENGLISH No restaurant ）** — 40.1 km — hotel — HOTEL BAYANBURD MNT50000（No WiFi No shower No ENGLISH No restaurant ）
+- **점심식사 good restaurant.** — 40.1 km — hotel — Ikh Khorum
+- **Mukhulai Hotel** — 40.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

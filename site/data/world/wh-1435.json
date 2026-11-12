@@ -2,8 +2,8 @@
  "id": "wh-1435",
  "unesco_id": "1435",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 150,
+ "tier": "basic",
+ "popularity_rank": 898,
  "popularity_score": 90977,
  "country": "US",
  "country_zh": "美国",
@@ -129,19 +129,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Days Inn",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 32.3954899,
-   "lon": -91.1985638,
-   "distance_km": 33.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -210,5 +198,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

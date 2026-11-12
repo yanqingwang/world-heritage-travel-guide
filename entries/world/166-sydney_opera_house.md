@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "166"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(i)"
 lat: -33.857058
 lon: 151.214897
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 悉尼歌剧院 / Sydney Opera House
@@ -58,7 +58,27 @@ Inaugurated in 1973, the Sydney Opera House is a great architectural work of the
 - ✈ **Sydney Kingsford Smith International Airport (SYD)** — 10.5 km
 - ✈ **Western Sydney International (Nancy-Bird Walton) Airport (WSI)** — 46.4 km
 - ✈ **Newcastle Airport (NTL)** — 131.3 km
+- 🚉 **Circular Quay** — 0.6 km
+- 🚉 **Milsons Point** — 1.3 km
+- 🚉 **Wynyard** — 1.3 km
+- 🚉 **North Sydney** — 1.9 km
+- 🚉 **Town Hall** — 2.0 km
+- ⛴ **Circular Quay, Eastern Pontoon** — 0.4 km
+- ⛴ **Circular Quay 4B** — 0.5 km
+- ⛴ **Circular Quay 3B** — 0.5 km
+- ⛴ **Circular Quay 2B** — 0.5 km
+- ⛴ **Circular Quay 2A** — 0.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8964.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Harbour Rocks Hotel** — 0.7 km — star — 5★
+- **Four Seasons Hotel** — 0.8 km — star — 5★ · Four Seasons
+- **SKYE Suites** — 1.6 km — star — 5★ · SKYE
+- **Hilton Sydney** — 1.8 km — star — 5★ · Hilton
+- **InterContinental Sydney Double Bay** — 3.4 km — star — 5★ · InterContinental
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

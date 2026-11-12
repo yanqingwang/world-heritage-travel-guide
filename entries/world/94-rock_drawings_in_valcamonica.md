@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "94"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iii)(vi)"
 lat: 46.023888888
 lon: 10.35
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 梵尔卡莫尼卡谷地岩画 / Rock Drawings in Valcamonica
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:10Z"
 
 *Scena di duello R6 - Foppe - Nadro (Foto Luca Giarelli).jpg · see Wikimedia Commons file page*
 
-![Rock Drawings in Valcamonica](https://whc.unesco.org/uploads/sites/site_94.jpg)
+![Armati.png](https://upload.wikimedia.org/wikipedia/commons/5/53/Armati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Rock Drawings in Valcamonica · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Armati.png · Dipartimento Valcamonica e Lombardia · CC BY-SA 3.0*
+
+![Calco gesso incisione rupestre cervo Valcamonica 1965.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Calco_gesso_incisione_rupestre_cervo_Valcamonica_1965.jpg/1280px-Calco_gesso_incisione_rupestre_cervo_Valcamonica_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Calco gesso incisione rupestre cervo Valcamonica 1965.jpg · Roger469 · Public domain*
+
+![Cervide R 34 - Luine - Darfo Boario Terme (Foto Luca Giarelli).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cervide_R_34_-_Luine_-_Darfo_Boario_Terme_%28Foto_Luca_Giarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cervide R 34 - Luine - Darfo Boario Terme (Foto Luca Giarelli).jpg · Luca Giarelli · CC BY-SA 3.0*
+
+![Masso con impronte di mani - Chiesa SS. Faustina e Liberata - Capo di Ponte (Foto Luca Giarelli).jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/Masso_con_impronte_di_mani_-_Chiesa_SS._Faustina_e_Liberata_-_Capo_di_Ponte_%28Foto_Luca_Giarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Masso con impronte di mani - Chiesa SS. Faustina e Liberata - Capo di Ponte (Foto Luca Giarelli).jpg · Luca Giarelli · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Le incisioni rupestri della Val Camonica si trovano in provincia di Brescia e co
 - ✈ **Il Caravaggio International Airport (BGY)** — 63.4 km
 - ✈ **Brescia Gabriele d'Annunzio Airport (VBS)** — 66.2 km
 - ✈ **Verona Villafranca Valerio Catullo Airport (VRN)** — 81.4 km
+- 🚉 **Capo di Ponte** — 0.8 km
+- 🚉 **Cedegolo** — 5.4 km
+- 🚉 **Breno** — 8.0 km
+- 🚉 **Malonno** — 10.9 km
+- 🚉 **Cividate-Malegno** — 10.9 km
+- ⛴ **Costa Volpino** — 30.4 km
+- ⛴ **Pisogne** — 31.0 km
+- ⛴ **Lovere 1** — 31.3 km
+- ⛴ **Lovere 2** — 31.3 km
+- ⛴ **Lovere** — 31.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8030.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Park Hotel** — 41.4 km — star — 5★
+- **Lido Palace Hotel** — 41.4 km — star — 5★
+- **EALA** — 42.1 km — star — 5★
+- **Alpen Suite** — 42.9 km — star — 5★
+- **Hotel Spinale** — 43.3 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

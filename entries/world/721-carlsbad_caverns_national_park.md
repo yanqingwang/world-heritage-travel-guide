@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "721"
-tier: "full"
+tier: "basic"
 category: "Natural"
 year: "1995"
 criteria: "(vii)(viii)"
 lat: 32.175277777
 lon: -104.443888888
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 卡尔斯巴德洞穴国家公园 / Carlsbad Caverns National Park
@@ -59,16 +59,6 @@ This karst landscape in the state of New Mexico comprises over 80 recognized cav
 - ✈ **Roswell Air Center Airport (ROW)** — 125.5 km
 - ✈ **Lea County Regional Airport (HOB)** — 128.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10932.2 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hyatt House** — 29.5 km — chain — Hyatt House
-- **Home2 Suites by Hilton Carlsbad** — 30.9 km — chain — Home2 Suites
-- **Hampton Inn and Suites** — 32.1 km — chain — Hampton Inn & Suites
-- **Best Western** — 32.1 km — chain — Best Western
-- **Best Western Stevens Inn** — 32.6 km — chain — Best Western
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

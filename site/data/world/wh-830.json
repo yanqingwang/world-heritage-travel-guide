@@ -2,8 +2,8 @@
  "id": "wh-830",
  "unesco_id": "830",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 36,
+ "tier": "basic",
+ "popularity_rank": 1166,
  "popularity_score": 363031,
  "country": "IT",
  "country_zh": "意大利",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20050128_1519_2_sea_seen_from_the_amalfi_coast.JPG/1280px-20050128_1519_2_sea_seen_from_the_amalfi_coast.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20050128 1519 2 sea seen from the amalfi coast.JPG",
-   "author": "Sabine Cretella",
-   "license": "CC BY-SA 2.5",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20050128_1519_2_sea_seen_from_the_amalfi_coast.JPG"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Amafi0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Amafi0003.jpg",
-   "author": "No machine-readable author provided. Idéfix~commonswiki assumed (based on copyright claims).",
-   "license": "CC BY-SA 3.0",
-   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
-   "source": "https://commons.wikimedia.org/wiki/File:Amafi0003.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Amalfi_Coast_%28100814001%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Amalfi Coast (100814001).jpeg",
-   "author": "Steve Femminineo",
-   "license": "CC BY 3.0",
-   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
-   "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_%28100814001%29.jpeg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Amalfi_Coast_%28247891351%29.jpeg/1280px-Amalfi_Coast_%28247891351%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Amalfi Coast (247891351).jpeg",
-   "author": "Kailash U",
-   "license": "CC0",
-   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
-   "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_%28247891351%29.jpeg"
+   "url": "https://whc.unesco.org/uploads/sites/site_830.jpg",
+   "title": "Costiera Amalfitana",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/830",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/830",
@@ -126,148 +102,10 @@
   ],
   "nearest_airport_km": 26.3,
   "distance_beijing_km": 8055.2,
-  "ferry_terminals": [
-   {
-    "name": "Molo Pennello",
-    "name_en": null,
-    "lat": 40.6327393,
-    "lon": 14.6014181,
-    "distance_km": 0.1,
-    "operator": null
-   },
-   {
-    "name": "Minori",
-    "name_en": null,
-    "lat": 40.6483497,
-    "lon": 14.6271386,
-    "distance_km": 2.8,
-    "operator": null
-   },
-   {
-    "name": "Maiori",
-    "name_en": null,
-    "lat": 40.6478302,
-    "lon": 14.6350476,
-    "distance_km": 3.4,
-    "operator": null
-   },
-   {
-    "name": "Porto di Castellammare di Stabia",
-    "name_en": null,
-    "lat": 40.6928996,
-    "lon": 14.4758867,
-    "distance_km": 12.4,
-    "operator": null
-   },
-   {
-    "name": "Salerno Container Terminal",
-    "name_en": null,
-    "lat": 40.6741534,
-    "lon": 14.7414566,
-    "distance_km": 12.8,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Cava dei Tirreni",
-    "name_en": null,
-    "lat": 40.703564,
-    "lon": 14.7084479,
-    "distance_km": 12.0,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Castellammare di Stabia",
-    "name_en": null,
-    "lat": 40.6953051,
-    "lon": 14.4837248,
-    "distance_km": 12.0,
-    "operator": "Ente Autonomo Volturno"
-   },
-   {
-    "name": "Stabia Scavi",
-    "name_en": null,
-    "lat": 40.7038818,
-    "lon": 14.4903043,
-    "distance_km": 12.1,
-    "operator": "Ente Autonomo Volturno"
-   },
-   {
-    "name": "Pagani",
-    "name_en": null,
-    "lat": 40.746519,
-    "lon": 14.6170158,
-    "distance_km": 12.7,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Angri",
-    "name_en": null,
-    "lat": 40.7463608,
-    "lon": 14.5754755,
-    "distance_km": 12.7,
-    "operator": "Rete Ferroviaria Italiana"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Casa Angelina",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 40.6144553,
-   "lon": 14.5218021,
-   "distance_km": 6.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Le Sirenuse",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 40.6287732,
-   "lon": 14.4876265,
-   "distance_km": 9.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Covo dei Saraceni",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 40.6275495,
-   "lon": 14.4860938,
-   "distance_km": 9.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Grand Hotel La Sonrisa",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 40.7134026,
-   "lon": 14.5259076,
-   "distance_km": 10.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Grand Hotel La Pace",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 40.62458,
-   "lon": 14.4010873,
-   "distance_km": 16.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -339,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

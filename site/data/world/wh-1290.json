@@ -2,9 +2,9 @@
  "id": "wh-1290",
  "unesco_id": "1290",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 358,
- "popularity_score": 23671,
+ "tier": "full",
+ "popularity_rank": 336,
+ "popularity_score": 21552,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1290.jpg",
-   "title": "Monarch Butterfly Biosphere Reserve",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1290",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Abetos%2C_Reserva_de_la_Biosfera_de_la_Mariposa_Monarca.jpg/1280px-Abetos%2C_Reserva_de_la_Biosfera_de_la_Mariposa_Monarca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abetos, Reserva de la Biosfera de la Mariposa Monarca.jpg",
+   "author": "Juan Carlos Fonseca Mata",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abetos%2C_Reserva_de_la_Biosfera_de_la_Mariposa_Monarca.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Angangueo_monarchs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Angangueo monarchs.jpg",
+   "author": "Bfpage at English Wikipedia",
+   "license": "CC BY 3.0",
+   "credit": "Original uploader was Bfpage at en.wikipedia , 16 December 2009 (original upload date)",
+   "source": "https://commons.wikimedia.org/wiki/File:Angangueo_monarchs.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ejido_El_Rosario_%28Reserva_de_la_Biosfera_de_la_Mariposa_Monarca%29.jpg/1280px-Ejido_El_Rosario_%28Reserva_de_la_Biosfera_de_la_Mariposa_Monarca%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ejido El Rosario (Reserva de la Biosfera de la Mariposa Monarca).jpg",
+   "author": "Juan Carlos Fonseca Mata",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ejido_El_Rosario_%28Reserva_de_la_Biosfera_de_la_Mariposa_Monarca%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flor_Mariposa_%283088852182%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Flor Mariposa (3088852182).jpg",
+   "author": "Solo se puede ser libre Cuándo no se tiene nada que perder from Mexico D.F., México",
+   "license": "CC BY 2.0",
+   "credit": "Flor Mariposa",
+   "source": "https://commons.wikimedia.org/wiki/File:Flor_Mariposa_%283088852182%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1290",
@@ -103,9 +127,90 @@
   "nearest_airport_km": 76.9,
   "distance_beijing_km": 12420.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Estación Ferrocarril Zitácuaro",
+    "name_en": null,
+    "lat": 19.4326887,
+    "lon": -100.3451121,
+    "distance_km": 22.1,
+    "operator": null
+   },
+   {
+    "name": "Estación de El Oro (abandoned)",
+    "name_en": null,
+    "lat": 19.801753,
+    "lon": -100.1318889,
+    "distance_km": 24.6,
+    "operator": null
+   },
+   {
+    "name": "Tepetitlan",
+    "name_en": null,
+    "lat": 19.6472875,
+    "lon": -99.8809241,
+    "distance_km": 38.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "El Santuario",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.2150065,
+   "lon": -100.1590278,
+   "distance_km": 44.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Rodavento",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.1944566,
+   "lon": -100.130161,
+   "distance_km": 47.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Cueva del León",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 19.193294,
+   "lon": -100.1321656,
+   "distance_km": 47.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Jardín",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.6202633,
+   "lon": -100.2844903,
+   "distance_km": 4.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Juárez",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.6188549,
+   "lon": -100.2858195,
+   "distance_km": 4.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -176,5 +281,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

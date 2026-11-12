@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Zwartewater",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.6381732,
+   "lon": 6.0719733,
+   "distance_km": 20.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Apollo De Beyaerd",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.3567874,
+   "lon": 5.7170637,
+   "distance_km": 31.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Van der Valk Hotel Harderwijk",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Van der Valk",
+   "lat": 52.3316627,
+   "lon": 5.6417556,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mooirivier Hotel & Congres",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.5227128,
+   "lon": 6.3308311,
+   "distance_km": 39.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hof van Putten",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.2632247,
+   "lon": 5.6126294,
+   "distance_km": 43.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 186,
+ "stations": [
+  {
+   "name": "Dronten",
+   "name_en": null,
+   "lat": 52.5343316,
+   "lon": 5.7215719,
+   "distance_km": 12.1,
+   "operator": "ProRail"
+  },
+  {
+   "name": "Kampen",
+   "name_en": null,
+   "lat": 52.5597878,
+   "lon": 5.92163,
+   "distance_km": 13.4,
+   "operator": null
+  },
+  {
+   "name": "Kampen Zuid",
+   "name_en": null,
+   "lat": 52.5329839,
+   "lon": 5.9132744,
+   "distance_km": 15.1,
+   "operator": null
+  },
+  {
+   "name": "Walibi Express Station 2",
+   "name_en": null,
+   "lat": 52.4417294,
+   "lon": 5.7651956,
+   "distance_km": 21.9,
+   "operator": null
+  },
+  {
+   "name": "Walibi Express Station 1",
+   "name_en": null,
+   "lat": 52.4401992,
+   "lon": 5.7661461,
+   "distance_km": 22.1,
+   "operator": null
+  },
+  {
+   "name": "Zwolle Stadshagen",
+   "name_en": null,
+   "lat": 52.5278636,
+   "lon": 6.0512888,
+   "distance_km": 22.6,
+   "operator": "NS"
+  },
+  {
+   "name": "Lelystad Centrum",
+   "name_en": null,
+   "lat": 52.5079328,
+   "lon": 5.4727185,
+   "distance_km": 24.9,
+   "operator": null
+  },
+  {
+   "name": "Wezep",
+   "name_en": null,
+   "lat": 52.4541575,
+   "lon": 6.0027572,
+   "distance_km": 25.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Zuiderzeehaven",
+   "name_en": null,
+   "lat": 52.5775302,
+   "lon": 5.8700538,
+   "distance_km": 9.5,
+   "operator": null
+  },
+  {
+   "name": "Terminal Veerdienst Urk - Enkhuizen",
+   "name_en": null,
+   "lat": 52.6593391,
+   "lon": 5.5969173,
+   "distance_km": 12.0,
+   "operator": null
+  },
+  {
+   "name": "Passantenhaven Vollenhove",
+   "name_en": null,
+   "lat": 52.6826301,
+   "lon": 5.9467767,
+   "distance_km": 12.8,
+   "operator": null
+  },
+  {
+   "name": "De Meerkoet",
+   "name_en": null,
+   "lat": 52.5228204,
+   "lon": 5.8562151,
+   "distance_km": 14.1,
+   "operator": "Gastvrije Randmeren"
+  },
+  {
+   "name": "De Belt",
+   "name_en": null,
+   "lat": 52.6356907,
+   "lon": 6.01211,
+   "distance_km": 16.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:38Z"
+}

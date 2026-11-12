@@ -2,9 +2,9 @@
  "id": "wh-389",
  "unesco_id": "389",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 410,
- "popularity_score": 19708,
+ "tier": "full",
+ "popularity_rank": 378,
+ "popularity_score": 18154,
  "country": "RS",
  "country_zh": "塞尔维亚",
  "country_en": "Serbia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_389.jpg",
-   "title": "Studenica Monastery",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/389",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/04_-_Studenica-20.3-30.5.jpg/1280px-04_-_Studenica-20.3-30.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "04 - Studenica-20.3-30.5.jpg",
+   "author": "Zlatnogrivasti Marmozet",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:04_-_Studenica-20.3-30.5.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/MACKENZIE%281877%29_p2.319_PORTAL_OF_THE_CHURCH_OF_STUDENITZA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "MACKENZIE(1877) p2.319 PORTAL OF THE CHURCH OF STUDENITZA.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "This file is from the Mechanical Curator collection , a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the B",
+   "source": "https://commons.wikimedia.org/wiki/File:MACKENZIE%281877%29_p2.319_PORTAL_OF_THE_CHURCH_OF_STUDENITZA.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2010-09-18_08-30-18_-_Studenica.jpg/1280px-2010-09-18_08-30-18_-_Studenica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-09-18 08-30-18 - Studenica.jpg",
+   "author": "Dekanski",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-09-18_08-30-18_-_Studenica.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2010-09-18_08-38-48_-_Studenica.jpg/1280px-2010-09-18_08-38-48_-_Studenica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-09-18 08-38-48 - Studenica.jpg",
+   "author": "Dekanski",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-09-18_08-38-48_-_Studenica.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/389",
@@ -101,10 +125,116 @@
   ],
   "nearest_airport_km": 37.0,
   "distance_beijing_km": 7468.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Ледена Пећина Сјеница",
+    "name_en": "Ledena Pecina Sjenica",
+    "lat": 43.3363232,
+    "lon": 19.9872411,
+    "distance_km": 47.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Ушће",
+    "name_en": "Usce",
+    "lat": 43.4654872,
+    "lon": 20.6243013,
+    "distance_km": 7.8,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Полумир",
+    "name_en": "Polumir",
+    "lat": 43.5329006,
+    "lon": 20.6099163,
+    "distance_km": 8.1,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Јошаничка Бања",
+    "name_en": "Josanicka Banja",
+    "lat": 43.410719,
+    "lon": 20.6589489,
+    "distance_km": 13.3,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Пискања",
+    "name_en": "Piskanja",
+    "lat": 43.3887883,
+    "lon": 20.6465043,
+    "distance_km": 14.3,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Бревник",
+    "name_en": "Brevnik",
+    "lat": 43.355865,
+    "lon": 20.6450854,
+    "distance_km": 17.2,
+    "operator": "Инфраструктура железнице Србије"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Горски",
+   "name_en": null,
+   "stars": 5,
+   "brand": "MK Resorts",
+   "lat": 43.2843641,
+   "lon": 20.8086034,
+   "distance_km": 31.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Viceroy Kopaonik Serbia",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Viceroy Hotel Group",
+   "lat": 43.2847196,
+   "lon": 20.8104973,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Небеске столице 1",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2827406,
+   "lon": 20.813036,
+   "distance_km": 32.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Небеске столице 2",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2823272,
+   "lon": 20.8142368,
+   "distance_km": 32.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Парк",
+   "name_en": "Hotel Park",
+   "stars": 4,
+   "brand": null,
+   "lat": 43.6189366,
+   "lon": 20.8932095,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RS",
   "country_zh": "塞尔维亚",
@@ -176,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

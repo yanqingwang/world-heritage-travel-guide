@@ -2,9 +2,9 @@
  "id": "wh-1056",
  "unesco_id": "1056",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 882,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 129,
+ "popularity_score": 99473,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1056.jpg",
-   "title": "Mahabodhi Temple Complex at Bodh Gaya",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1056",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2024-Apr_Jing-an_Temple_%E9%9D%99%E5%AE%89%E5%AF%BA_Shanghai_26_-_Bodh_Gaya_Mahabodhi_Replica.jpg/1280px-2024-Apr_Jing-an_Temple_%E9%9D%99%E5%AE%89%E5%AF%BA_Shanghai_26_-_Bodh_Gaya_Mahabodhi_Replica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2024-Apr Jing-an Temple 静安寺 Shanghai 26 - Bodh Gaya Mahabodhi Replica.jpg",
+   "author": "Chainwit.",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-Apr_Jing-an_Temple_%E9%9D%99%E5%AE%89%E5%AF%BA_Shanghai_26_-_Bodh_Gaya_Mahabodhi_Replica.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/234_Anagarika_Dharmapala_Renovates_the_Mahabodhi_Temple.jpg/1280px-234_Anagarika_Dharmapala_Renovates_the_Mahabodhi_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "234 Anagarika Dharmapala Renovates the Mahabodhi Temple.jpg",
+   "author": "Anandajoti",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:234_Anagarika_Dharmapala_Renovates_the_Mahabodhi_Temple.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%281%29.jpg/1280px-Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ajapala Nigrodha Tree Pillar - Bodh Gaya (1).jpg",
+   "author": "Sumitsurai",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%282%29.jpg/1280px-Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ajapala Nigrodha Tree Pillar - Bodh Gaya (2).jpg",
+   "author": "Sumitsurai",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%282%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1056",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 6.7,
   "distance_beijing_km": 3397.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Bandhua",
+    "name_en": null,
+    "lat": 24.7526564,
+    "lon": 85.0660644,
+    "distance_km": 9.8,
+    "operator": "ECR"
+   },
+   {
+    "name": "Gaya Junction",
+    "name_en": null,
+    "lat": 24.8035189,
+    "lon": 84.9994253,
+    "distance_km": 12.0,
+    "operator": "ECR"
+   },
+   {
+    "name": "Tankuppa",
+    "name_en": null,
+    "lat": 24.7034654,
+    "lon": 85.1198543,
+    "distance_km": 13.0,
+    "operator": "ECR"
+   },
+   {
+    "name": "Shaheed Ishwar Chowdhary Halt",
+    "name_en": null,
+    "lat": 24.8075225,
+    "lon": 85.0286704,
+    "distance_km": 13.0,
+    "operator": "ECR"
+   },
+   {
+    "name": "Manpur Junction",
+    "name_en": null,
+    "lat": 24.8068737,
+    "lon": 85.0447342,
+    "distance_km": 13.5,
+    "operator": "ECR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Tathagat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6963125,
+   "lon": 84.9894847,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Prince Kings",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6965905,
+   "lon": 84.989515,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mahamaya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6965076,
+   "lon": 84.9897371,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jeevak International",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6966186,
+   "lon": 84.9891901,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mahayana",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6964411,
+   "lon": 84.9885713,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -179,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

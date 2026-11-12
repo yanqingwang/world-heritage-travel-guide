@@ -18,7 +18,7 @@ from datetime import date, timedelta
 from common import CACHE, RAW, get_json, load_json, now_iso, save_json
 
 CACHE_FILE = RAW / "pageviews.json"
-TOP_FULL = 300  # records that get hotels, ferries and a full gallery
+TOP_FULL = 400  # records that get hotels, ferries and a full gallery
 
 
 def trailing_year() -> tuple[str, str]:

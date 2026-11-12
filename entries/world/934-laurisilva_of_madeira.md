@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: 32.76666667
 lon: -17.0
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 马德拉月桂树公园 / Laurisilva of Madeira

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Sofia",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 42.6813624,
+   "lon": 23.3196463,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Анел",
+   "name_en": "Hotel Anel",
+   "stars": 5,
+   "brand": null,
+   "lat": 42.6994173,
+   "lon": 23.3142327,
+   "distance_km": 7.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гранд Хотел София",
+   "name_en": "Grand Hotel Sofia",
+   "stars": 5,
+   "brand": null,
+   "lat": 42.6941099,
+   "lon": 23.3248023,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofia Balkan Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 42.6970338,
+   "lon": 23.3221537,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "InterContinental",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 42.6930626,
+   "lon": 23.3325775,
+   "distance_km": 7.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 319,
+ "stations": [
+  {
+   "name": "Горна баня",
+   "name_en": "Gorna banya",
+   "lat": 42.6755906,
+   "lon": 23.2424076,
+   "distance_km": 3.9,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Владая",
+   "name_en": "Vladaya",
+   "lat": 42.623287,
+   "lon": 23.1852265,
+   "distance_km": 7.0,
+   "operator": "Национална компания \"Железопътна инфраструктура\""
+  },
+  {
+   "name": "Захарна фабрика",
+   "name_en": "Zaharna fabrika",
+   "lat": 42.7128076,
+   "lon": 23.2912051,
+   "distance_km": 7.8,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Централна гара София",
+   "name_en": "Sofia Central Station",
+   "lat": 42.7122278,
+   "lon": 23.3207725,
+   "distance_km": 8.7,
+   "operator": null
+  },
+  {
+   "name": "Подуяне",
+   "name_en": "Podujane",
+   "lat": 42.6979275,
+   "lon": 23.3546583,
+   "distance_km": 9.3,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "София Север",
+   "name_en": "Sofia Sever",
+   "lat": 42.7265854,
+   "lon": 23.3164091,
+   "distance_km": 10.0,
+   "operator": null
+  },
+  {
+   "name": "Банкя",
+   "name_en": "Bankya",
+   "lat": 42.7058921,
+   "lon": 23.1511074,
+   "distance_km": 11.6,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Драгичево",
+   "name_en": "Dragichevo",
+   "lat": 42.605161,
+   "lon": 23.1327742,
+   "distance_km": 11.8,
+   "operator": "НКЖИ"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:44:48Z"
+}

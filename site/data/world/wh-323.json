@@ -2,9 +2,9 @@
  "id": "wh-323",
  "unesco_id": "323",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 419,
- "popularity_score": 18612,
+ "tier": "full",
+ "popularity_rank": 388,
+ "popularity_score": 17030,
  "country": "BJ",
  "country_zh": "贝宁",
  "country_en": "Benin",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_323.jpg",
-   "title": "Royal Palaces of Abomey",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/323",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/20131007-DSC_2962_%2810290369573%29.jpg/1280px-20131007-DSC_2962_%2810290369573%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20131007-DSC 2962 (10290369573).jpg",
+   "author": "jbdodane",
+   "license": "CC BY 2.0",
+   "credit": "20131007-DSC_2962",
+   "source": "https://commons.wikimedia.org/wiki/File:20131007-DSC_2962_%2810290369573%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/20131007-DSC_2963_%2810290269226%29.jpg/1280px-20131007-DSC_2963_%2810290269226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20131007-DSC 2963 (10290269226).jpg",
+   "author": "jbdodane",
+   "license": "CC BY 2.0",
+   "credit": "20131007-DSC_2963",
+   "source": "https://commons.wikimedia.org/wiki/File:20131007-DSC_2963_%2810290269226%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/20131007-DSC_2965_%2810290419403%29.jpg/1280px-20131007-DSC_2965_%2810290419403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20131007-DSC 2965 (10290419403).jpg",
+   "author": "jbdodane",
+   "license": "CC BY 2.0",
+   "credit": "20131007-DSC_2965",
+   "source": "https://commons.wikimedia.org/wiki/File:20131007-DSC_2965_%2810290419403%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20131007-DSC_2988_%2810290616373%29.jpg/1280px-20131007-DSC_2988_%2810290616373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20131007-DSC 2988 (10290616373).jpg",
+   "author": "jbdodane",
+   "license": "CC BY 2.0",
+   "credit": "20131007-DSC_2988",
+   "source": "https://commons.wikimedia.org/wiki/File:20131007-DSC_2988_%2810290616373%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/323",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 102.0,
   "distance_beijing_km": 11554.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Embarcadère Dèmè (vers Lokoli)",
+    "name_en": null,
+    "lat": 7.061476,
+    "lon": 2.2593494,
+    "distance_km": 33.0,
+    "operator": null
+   },
+   {
+    "name": "Embarcadère de Lokoli (vers Dèmè)",
+    "name_en": null,
+    "lat": 7.0624355,
+    "lon": 2.2623033,
+    "distance_km": 33.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bohicon",
+    "name_en": null,
+    "lat": 7.1749706,
+    "lon": 2.0670417,
+    "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Dan",
+    "name_en": null,
+    "lat": 7.3251202,
+    "lon": 2.083438,
+    "distance_km": 18.7,
+    "operator": null
+   },
+   {
+    "name": "Setto",
+    "name_en": null,
+    "lat": 7.4953472,
+    "lon": 2.0720396,
+    "distance_km": 35.7,
+    "operator": null
+   },
+   {
+    "name": "Houègbo",
+    "name_en": null,
+    "lat": 6.8032091,
+    "lon": 2.1719136,
+    "distance_km": 47.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Résidence Marie-Josée",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1823806,
+   "lon": 1.9838999,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Cœur des Montagnes",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1920207,
+   "lon": 1.9903037,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Motel d'Abomey",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1945905,
+   "lon": 1.9858937,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BIS Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1855202,
+   "lon": 1.997914,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge d'Abomey",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.1971778,
+   "lon": 1.9846564,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BJ",
   "country_zh": "贝宁",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

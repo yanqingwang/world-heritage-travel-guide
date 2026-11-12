@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iv)(vi)"
 lat: 43.066666666
 lon: 11.55
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 瓦尔•迪奥西亚公园文化景观 / Val d'Orcia

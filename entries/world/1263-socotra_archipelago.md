@@ -8,13 +8,13 @@ country: "YE"
 country_zh: "也门"
 country_en: "Yemen"
 unesco_id: "1263"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2008"
 criteria: "(x)"
 lat: 12.5
 lon: 53.4
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 索科特拉群岛 / Socotra Archipelago
@@ -53,6 +53,12 @@ Socotra Archipelago, in the northwest Indian Ocean near the Gulf of Aden, is 250
 
 - ✈ **Socotra Airport (SCT)** — 56.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6792.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

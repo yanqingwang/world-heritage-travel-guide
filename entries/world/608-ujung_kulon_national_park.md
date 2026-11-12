@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "608"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1991"
 criteria: "(vii)(x)"
 lat: -6.75
 lon: 105.333333333
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 马戎格库龙国家公园 / Ujung Kulon National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *Ujung Kulon National Park, 2014.jpg · see Wikimedia Commons file page*
 
-![Ujung Kulon National Park](https://whc.unesco.org/uploads/sites/site_608.jpg)
+![Banner Ujung Kulon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Banner_Ujung_Kulon.jpg/1280px-Banner_Ujung_Kulon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ujung Kulon National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Banner Ujung Kulon.jpg · Slimguy · CC BY-SA 2.0 de*
+
+![BANTENG JAWA TAMAN NASIONAL UJUNG KULON.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/BANTENG_JAWA_TAMAN_NASIONAL_UJUNG_KULON.jpg/1280px-BANTENG_JAWA_TAMAN_NASIONAL_UJUNG_KULON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BANTENG JAWA TAMAN NASIONAL UJUNG KULON.jpg · Muhammad Adimaja · CC BY-SA 4.0*
+
+![Banteng Jawa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Banteng_Jawa.jpg/1280px-Banteng_Jawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banteng Jawa.jpg · Myeyes.picture · CC BY-SA 4.0*
+
+![Banteng Ujung Kulon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Banteng_Ujung_Kulon.jpg/1280px-Banteng_Ujung_Kulon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Banteng Ujung Kulon.jpg · Myeyes.picture · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,14 @@ Taman Nasional Ujung Kulon terletak di Semenanjung Ujung Kulon, bagian paling ba
 - ✈ **Soekarno-Hatta International Airport (CGK)** — 161.8 km
 - ✈ **Radin Inten II International Airport (TKG)** — 168.0 km
 - ✈ **Halim Perdanakusuma International Airport (HLP)** — 180.2 km
+- ⛴ **Dermaga Sumur** — 28.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5237.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Blue Ocean Resort** — 46.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

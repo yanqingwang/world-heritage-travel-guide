@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1519"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.708333333
 lon: 28.723611111
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 阿弗罗狄西亚 / Aphrodisias
@@ -27,21 +27,9 @@ updated_at: "2026-11-12T11:30:23Z"
 
 *Aphrodisias turkey.jpg · see Wikimedia Commons file page*
 
-![09385 Geyre-Karacasu-Aydın, Turkey - panoramio (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%282%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Aphrodisias](https://whc.unesco.org/uploads/sites/site_1519.jpg)
 
-*09385 Geyre-Karacasu-Aydın, Turkey - panoramio (2).jpg · Bir_Ege_Hikayesi © · CC BY 3.0*
-
-![09385 Geyre-Karacasu-Aydın, Turkey - panoramio (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%283%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*09385 Geyre-Karacasu-Aydın, Turkey - panoramio (3).jpg · Bir_Ege_Hikayesi © · CC BY 3.0*
-
-![09385 Geyre-Karacasu-Aydın, Turkey - panoramio (6).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%286%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*09385 Geyre-Karacasu-Aydın, Turkey - panoramio (6).jpg · Bir_Ege_Hikayesi © · CC BY 3.0*
-
-![09385 Geyre-Karacasu-Aydın, Turkey - panoramio (7).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%287%29.jpg/1280px-09385_Geyre-Karacasu-Ayd%C4%B1n%2C_Turkey_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*09385 Geyre-Karacasu-Aydın, Turkey - panoramio (7).jpg · Bir_Ege_Hikayesi © · CC BY 3.0*
+*Aphrodisias · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,22 +52,7 @@ Afrodisias veya Afrodisyas (Grekçe: Ἀφροδισιάς, romanize: Aphrodisi�
 - ✈ **Çardak Airport (DNZ)** — 86.4 km
 - ✈ **Milas Bodrum International Airport (BJV)** — 106.5 km
 - ✈ **Dalaman International Airport (DLM)** — 110.8 km
-- 🚉 **Horsunlu** — 25.7 km
-- 🚉 **Buharkent** — 27.2 km
-- 🚉 **Sarayköy** — 29.0 km
-- 🚉 **Kuyucak** — 32.2 km
-- 🚉 **Denizli** — 33.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7194.2 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Lycus River Thermal Hotel** — 43.6 km — star — 5★
-- **Colossae Thermal Spa Hotel** — 43.7 km — star — 5★
-- **Polat Thermal Hotel** — 43.7 km — star — 5★
-- **Pam Thermal Hotel** — 44.0 km — star — 5★
-- **Heracles Thermal Hotel** — 43.8 km — star — 4★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

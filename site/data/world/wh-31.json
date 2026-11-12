@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 4,
- "popularity_score": 1525823,
+ "popularity_score": 1367298,
  "country": "PL",
  "country_zh": "波兰",
  "country_en": "Poland",
@@ -164,16 +164,16 @@
    {
     "name": "Brzeszcze Jawiszowice",
     "name_en": null,
-    "lat": 49.9722976,
-    "lon": 19.1284619,
+    "lat": 49.972076,
+    "lon": 19.1283997,
     "distance_km": 7.9,
-    "operator": null
+    "operator": "PKP Polskie Linie Kolejowe"
    },
    {
     "name": "Chełmek",
     "name_en": null,
-    "lat": 50.0993669,
-    "lon": 19.2541567,
+    "lat": 50.099352,
+    "lon": 19.2542076,
     "distance_km": 8.9,
     "operator": "PKP Polskie Linie Kolejowe"
    }
@@ -307,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

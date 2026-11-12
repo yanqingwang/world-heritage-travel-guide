@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "371"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 52.626388888
 lon: -2.472777777
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 乔治铁桥区 / Ironbridge Gorge
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:13Z"
 
 *The Iron Bridge (Aerial).JPG · see Wikimedia Commons file page*
 
-![Ironbridge Gorge](https://whc.unesco.org/uploads/sites/site_371.jpg)
+![Abandoned kilns.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Abandoned_kilns.jpg/1280px-Abandoned_kilns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ironbridge Gorge · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abandoned kilns.jpg · Matt From London · CC BY 2.0*
+
+![Coalbrookdale gorge.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coalbrookdale_gorge.jpg/1280px-Coalbrookdale_gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Coalbrookdale gorge.jpg · Matt From London · CC BY 2.0*
+
+![Cottages on the riverside at Ironbridge - geograph.org.uk - 1013916.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Cottages_on_the_riverside_at_Ironbridge_-_geograph.org.uk_-_1013916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cottages on the riverside at Ironbridge - geograph.org.uk - 1013916.jpg · Mick Lobb · CC BY-SA 2.0*
+
+![Downstream from the ironbridge - geograph.org.uk - 267024.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2b/Downstream_from_the_ironbridge_-_geograph.org.uk_-_267024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Downstream from the ironbridge - geograph.org.uk - 267024.jpg · John M · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,27 @@ Ironbridge is known throughout the world as the symbol of the Industrial Revolut
 - ✈ **Birmingham Airport (BHX)** — 52.6 km
 - ✈ **East Midlands Airport (EMA)** — 80.4 km
 - ✈ **Manchester Airport (MAN)** — 81.4 km
+- 🚉 **Horsehay & Dawley** — 4.1 km
+- 🚉 **Spring Village** — 4.1 km
+- 🚉 **Lawley Village** — 5.0 km
+- 🚉 **Telford Central** — 6.4 km
+- 🚉 **Oakengates** — 7.6 km
+- ⛴ **Sabrina Boat** — 21.4 km
+- ⛴ **Dudley Canal and Caverns** — 29.0 km
+- ⛴ **Sherborne Wharf Water Bus Stop** — 40.9 km
+- ⛴ **Brindleyplace Water Bus Stop** — 41.3 km
+- ⛴ **Gas Street Basin Water Bus Stop** — 41.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8138.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Grand Hotel** — 42.0 km — star — 5★
+- **Hilton Garden Inn Birmingham Brindleyplace** — 41.2 km — star — 4★ · Hilton Garden Inn
+- **Hyatt Regency Birmingham** — 41.5 km — star — 4★ · Hyatt Regency
+- **Courtyard by Marriott** — 44.5 km — star — 4★ · Marriott
+- **Birmingham North Moor Hall Hotel** — 44.9 km — star — 4★ · BW Premier Collection
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

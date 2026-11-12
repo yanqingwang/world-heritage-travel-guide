@@ -2,9 +2,9 @@
  "id": "wh-1246",
  "unesco_id": "1246",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 351,
- "popularity_score": 24419,
+ "tier": "full",
+ "popularity_rank": 328,
+ "popularity_score": 22320,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1246.jpg",
-   "title": "Iwami Ginzan Silver Mine and its Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1246",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan01o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan01o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan01o.JPG",
+   "author": "663highland",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan01o.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan02o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan02o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan02o.JPG",
+   "author": "663highland",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan02o.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan03o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan03o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan03o.JPG",
+   "author": "663highland",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan03o.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan04o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan04o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan04o.JPG",
+   "author": "663highland",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan04o.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1246",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 53.4,
   "distance_beijing_km": 1521.9,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "馬路",
+    "name_en": "Maji",
+    "lat": 35.1285664,
+    "lon": 132.3881677,
+    "distance_km": 5.1,
+    "operator": null
+   },
+   {
+    "name": "湯里",
+    "name_en": "Yusato",
+    "lat": 35.1064397,
+    "lon": 132.3755506,
+    "distance_km": 5.6,
+    "operator": null
+   },
+   {
+    "name": "仁万",
+    "name_en": "Nima",
+    "lat": 35.1510621,
+    "lon": 132.4035483,
+    "distance_km": 5.8,
+    "operator": null
+   },
+   {
+    "name": "温泉津",
+    "name_en": "Yunotsu",
+    "lat": 35.0913125,
+    "lon": 132.3507151,
+    "distance_km": 8.1,
+    "operator": null
+   },
+   {
+    "name": "五十猛",
+    "name_en": "Isotake",
+    "lat": 35.1926455,
+    "lon": 132.4401876,
+    "distance_km": 9.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "旅館ますや",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.0955254,
+   "lon": 132.34684,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Sky Hotel",
+   "name_en": "New Sky Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.1951756,
+   "lon": 132.5044392,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "スカイホテル大田",
+   "name_en": "Sky Hotel Ohda",
+   "stars": null,
+   "brand": null,
+   "lat": 35.1974003,
+   "lon": 132.5046167,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "スーパーホテル江津駅前",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.0144762,
+   "lon": 132.2232513,
+   "distance_km": 22.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "風の国",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.9231418,
+   "lon": 132.2658523,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-1208",
  "unesco_id": "1208",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 395,
- "popularity_score": 20900,
+ "tier": "full",
+ "popularity_rank": 364,
+ "popularity_score": 19216,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1208.jpg",
-   "title": "Bam and its Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1208",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%28%28%28%D8%A8%D9%85%29%29%29_-_panoramio.jpg/1280px-%28%28%28%D8%A8%D9%85%29%29%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(((بم))) - panoramio.jpg",
+   "author": "auoob farabi",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161030172428/http://www.panoramio.com/photo/96953683",
+   "source": "https://commons.wikimedia.org/wiki/File:%28%28%28%D8%A8%D9%85%29%29%29_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/20250325_172807%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D8%AE%D8%B4_%D8%B9%D8%A7%D9%85%D9%87_%D9%85%D8%B1%D8%AF%D9%85%29.jpg/1280px-20250325_172807%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D8%AE%D8%B4_%D8%B9%D8%A7%D9%85%D9%87_%D9%85%D8%B1%D8%AF%D9%85%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20250325 172807ارگ بم(ورودی بخش عامه مردم).jpg",
+   "author": "M.afshari9",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20250325_172807%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D8%AE%D8%B4_%D8%B9%D8%A7%D9%85%D9%87_%D9%85%D8%B1%D8%AF%D9%85%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/20250325_173336%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%86%D9%85%D8%A7%DB%8C%D9%87_%DA%A9%D9%84%DB%8C%29.jpg/1280px-20250325_173336%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%86%D9%85%D8%A7%DB%8C%D9%87_%DA%A9%D9%84%DB%8C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20250325 173336ارگ بم(نمایه کلی).jpg",
+   "author": "M.afshari9",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20250325_173336%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%86%D9%85%D8%A7%DB%8C%D9%87_%DA%A9%D9%84%DB%8C%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bam_%282000%29_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bam (2000) 40.jpg",
+   "author": "LBM1948",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bam_%282000%29_40.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1208",
@@ -103,9 +127,63 @@
   "nearest_airport_km": 9.4,
   "distance_beijing_km": 5364.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "بم",
+    "name_en": "Bam",
+    "lat": 29.0333292,
+    "lon": 58.3520593,
+    "distance_km": 8.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل پارسیان آزادی بم",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 29.0898441,
+   "lon": 58.3263592,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جهانگردی بم",
+   "name_en": "Bam Tourist Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 29.0951642,
+   "lon": 58.3566475,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل کوروش",
+   "name_en": "Kourosh Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.0749436,
+   "lon": 58.3481703,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل ارگ جدید",
+   "name_en": "Hotel Arg-e-Jadid",
+   "stars": null,
+   "brand": null,
+   "lat": 29.0386618,
+   "lon": 58.4648198,
+   "distance_km": 12.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -177,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

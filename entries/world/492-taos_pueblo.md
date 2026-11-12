@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "492"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(iv)"
 lat: 36.43889
 lon: -105.54167
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 陶斯印第安村 / Taos Pueblo
@@ -59,6 +59,16 @@ Situated in the valley of a small tributary of the Rio Grande, this adobe settle
 - ✈ **Santa Fe Municipal Airport (SAF)** — 103.8 km
 - ✈ **San Luis Valley Regional Airport/Bergman Field (ALS)** — 114.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10472.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Days Inn by Wyndham Taos** — 8.4 km — chain — Days Inn
+- **Hampton Inn Taos** — 9.3 km — chain — Hampton
+- **Best Western Rivers Edge** — 32.2 km — chain — Best Western
+- **Casa Benavides Historic Inn** — 3.4 km — hotel
+- **WorldMark Taos** — 4.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

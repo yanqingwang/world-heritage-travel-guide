@@ -2,8 +2,8 @@
  "id": "wh-1513",
  "unesco_id": "1513",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 286,
+ "tier": "basic",
+ "popularity_rank": 925,
  "popularity_score": 32340,
  "country": "IN",
  "country_zh": "印度",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%282%29.jpg/1280px-A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A scene from Kanchendzonga National Park, Sikkim (2).jpg",
-   "author": "G Devadarshan Sharma",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%282%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%283%29.jpg/1280px-A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A scene from Kanchendzonga National Park, Sikkim (3).jpg",
-   "author": "G Devadarshan Sharma",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%283%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_%281%29.jpg/1280px-A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A scene from Kanchenjunga National Park, Sikkim (1).jpg",
-   "author": "G Devadarshan Sharma",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_%281%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abhishek532_Goechala1.jpg/1280px-Abhishek532_Goechala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Abhishek532 Goechala1.jpg",
-   "author": "Abhishek532",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Abhishek532_Goechala1.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_1513.jpg",
+   "title": "Khangchendzonga National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1513",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1513",
@@ -129,63 +105,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Blue Spring",
-   "name_en": null,
-   "stars": 1,
-   "brand": null,
-   "lat": 27.3062608,
-   "lon": 88.3644629,
-   "distance_km": 39.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Floret holiday",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.685946,
-   "lon": 88.747192,
-   "distance_km": 43.0,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "kanchenjunga iceland guesthouse",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.7900077,
-   "lon": 88.0360095,
-   "distance_km": 31.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "kanchenjunga iceland guest house lonak",
-   "name_en": "kanchenjunga iceland guest house lonak",
-   "stars": null,
-   "brand": null,
-   "lat": 27.7900217,
-   "lon": 88.0360019,
-   "distance_km": 31.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Ejam Residency",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.3720514,
-   "lon": 88.22334,
-   "distance_km": 32.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -258,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:23Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

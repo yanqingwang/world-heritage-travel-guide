@@ -8,13 +8,13 @@ country: "SY"
 country_zh: "叙利亚"
 country_en: "Syria"
 unesco_id: "1348"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(iii)(iv)(v)"
 lat: 36.33416667
 lon: 36.84416667
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 叙利亚北部古村落群 / Ancient Villages of Northern Syria
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Overview of St. Simeons from the North Syria.jpg · see Wikimedia Commons file page*
 
-![Ancient Villages of Northern Syria](https://whc.unesco.org/uploads/sites/site_1348.jpg)
+![Btirsa2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Btirsa2.jpg/1280px-Btirsa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient Villages of Northern Syria · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Btirsa2.jpg · Bertramz · CC BY-SA 3.0*
+
+![Darkita - GAR - 9-01.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Darkita_-_GAR_-_9-01.JPG/1280px-Darkita_-_GAR_-_9-01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Darkita - GAR - 9-01.JPG · Gianfranco Gazzetti · CC BY-SA 4.0*
+
+![Darkita - GAR - 9-02.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Darkita_-_GAR_-_9-02.JPG/1280px-Darkita_-_GAR_-_9-02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Darkita - GAR - 9-02.JPG · Gianfranco Gazzetti · CC BY-SA 4.0*
+
+![Darkita - GAR - 9-03.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Darkita_-_GAR_-_9-03.JPG/1280px-Darkita_-_GAR_-_9-03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Darkita - GAR - 9-03.JPG · Gianfranco Gazzetti · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ Some 40 villages grouped in eight parks situated in north-western Syria provide 
 - ✈ **Aleppo International Airport (ALP)** — 38.3 km
 - ✈ **Hatay Airport (HTY)** — 50.1 km
 - ✈ **Gaziantep Oğuzeli International Airport (GZT)** — 88.6 km
+- 🚉 **تل رفعت** — 26.8 km
+- 🚉 **حلب** — 30.3 km
+- 🚉 **الوضيحي** — 32.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6714.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sheraton Alep** — 31.3 km — chain — Sheraton Aleppo · Sheraton
+- **أبو أحمد عبيد** — 5.5 km — hotel
+- **Reyhanlı Miray Otel** — 26.7 km — hotel
+- **مجمع جولدن سيتي للأفراح** — 28.0 km — hotel
+- **بولمان** — 28.7 km — hotel — Pullman
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

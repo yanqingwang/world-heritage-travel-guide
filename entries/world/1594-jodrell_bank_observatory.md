@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 53.23625
 lon: -2.307138888
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 卓瑞尔河岸天文台 / Jodrell Bank Observatory
@@ -72,11 +72,11 @@ Located in a rural area of northwest England, free from radio interference, Jodr
 
 ## 附近酒店 / Nearby hotels
 
+- **Forty Seven Hotel** — 27.2 km — star — 5★ · WorldHotels
 - **The Lowry Hotel** — 27.7 km — star — 5★
 - **DoubleTree** — 14.7 km — star — 4★ · DoubleTree
 - **Brooklands Lodge** — 20.2 km — star — 4★
 - **DoubleTree by Hilton Stoke on Trent** — 24.5 km — star — 4★ · DoubleTree
-- **Hilton Garden Inn Manchester Emirates Old Trafford** — 24.6 km — star — 4★ · Hilton Garden Inn
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

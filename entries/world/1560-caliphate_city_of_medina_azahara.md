@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)"
 lat: 37.886080468
 lon: -4.867785472
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 哈里发的阿尔扎哈拉古城 / Caliphate City of Medina Azahara
@@ -76,7 +76,7 @@ Este yacimiento arqueológico engloba los majestuosos vestigios de la ciudad pal
 - **Eurostars Palace** — 7.2 km — star — 5★ · Eurostars Hotel Company
 - **Palacio del Bailío** — 7.9 km — star — 5★
 - **NH Califa** — 7.3 km — star — 4★
-- **Soho Boutique Córdoba** — 7.3 km — star — 4★ · Petit Palace
+- **Petit Palace Córdoba** — 7.3 km — star — 4★ · Petit Palace Hotelity
 - **NH Collection** — 7.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

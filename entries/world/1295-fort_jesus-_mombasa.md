@@ -8,13 +8,13 @@ country: "KE"
 country_zh: "肯尼亚"
 country_en: "Kenya"
 unesco_id: "1295"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iv)"
 lat: -4.071166666
 lon: 39.682055555
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 蒙巴萨的耶稣堡 / Fort Jesus, Mombasa
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Fort JesusMombasa.jpg · see Wikimedia Commons file page*
 
-![Fort Jesus, Mombasa](https://whc.unesco.org/uploads/sites/site_1295.jpg)
+![Die Portugiesenzeit (Strandes) 183.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Die_Portugiesenzeit_%28Strandes%29_183.jpg/1280px-Die_Portugiesenzeit_%28Strandes%29_183.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Fort Jesus, Mombasa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Die Portugiesenzeit (Strandes) 183.jpg · Justus Strandes (1859–1930) · Public domain*
+
+![Fort Jesus-Map-XVIIs.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ac/Fort_Jesus-Map-XVIIs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Fort Jesus-Map-XVIIs.jpg · João Teixera · Public domain*
+
+![Fort Jesus-Map-XVIIs1.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c9/Fort_Jesus-Map-XVIIs1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Fort Jesus-Map-XVIIs1.jpg · Ori~ · Public domain*
+
+![Fortaleza de mombaca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fortaleza_de_mombaca.jpg/1280px-Fortaleza_de_mombaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Fortaleza de mombaca.jpg · Pedro Barreto de Resende · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,24 @@ The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battis
 - ✈ **Moi International Airport (MBA)** — 10.5 km
 - ✈ **Malindi International Airport (MYD)** — 104.6 km
 - ✈ **Tanga Airport (TGT)** — 132.2 km
+- 🚉 **Mombasa Central MGR Station** — 2.7 km
+- 🚉 **Changamwe East** — 8.7 km
+- 🚉 **Changamwe West** — 11.2 km
+- 🚉 **Mombasa SGR Terminus** — 12.7 km
+- 🚉 **Mazeras** — 18.9 km
+- ⛴ **Likoni Ferry** — 2.0 km
+- ⛴ **Mtongwe Ferry** — 4.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9199.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Severin Sea Lodge** — 11.3 km — star — 5★
+- **The Reef hotel** — 6.4 km — star — 4★
+- **Travellers Beach Hotel** — 10.5 km — star — 4★
+- **Bamburi Beach Hotel** — 10.8 km — star — 4★
+- **Plaza Beach Hotel** — 11.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

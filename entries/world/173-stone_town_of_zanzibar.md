@@ -8,13 +8,13 @@ country: "TZ"
 country_zh: "坦桑尼亚"
 country_en: "Tanzania"
 unesco_id: "173"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)(vi)"
 lat: -6.164944444
 lon: 39.198788888
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 桑给巴尔石头城 / Stone Town of Zanzibar
@@ -65,6 +65,16 @@ Mji Mkongwe (kwa Kiingereza: Stone Town) ndio sehemu ya kale ya Jiji la Zanzibar
 - ✈ **Julius Nyerere International Airport (DAR)** — 78.8 km
 - ✈ **Tanga Airport (TGT)** — 120.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9390.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Park Hyatt Zanzibar** — 1.4 km — star — 5★ · Park Hyatt
+- **Tulia Zanzibar Unique Beach Resort** — 27.2 km — star — 5★
+- **SBH Kilindini Resort** — 33.8 km — star — 5★ · SBH Hotels & Resort
+- **SBH Monica Zanzibar** — 39.2 km — star — 5★ · SBH Hotels & Resorts
+- **Beyt Al Salaam** — 1.4 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(vii)(ix)(x)"
 lat: 6.5138
 lon: 32.9586
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:39Z"
 ---
 
 # 博马—巴丁吉罗迁徙景观 / Boma–Badingilo Migratory Landscape

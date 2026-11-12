@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel La Maison",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7758617,
+   "lon": -3.0075316,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Colombe 2",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7725608,
+   "lon": -3.0108041,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Colombe 3",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.773362,
+   "lon": -3.0107076,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bouctou Annex",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7746528,
+   "lon": -3.0118723,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bouctou",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7754843,
+   "lon": -3.014411,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Kabara",
+   "name_en": null,
+   "lat": 16.7046359,
+   "lon": -2.9852077,
+   "distance_km": 8.0,
+   "operator": "COMANAV"
+  },
+  {
+   "name": "Koriomé",
+   "name_en": null,
+   "lat": 16.6624194,
+   "lon": -3.0234667,
+   "distance_km": 12.5,
+   "operator": "COMANAV"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:44:59Z"
+}

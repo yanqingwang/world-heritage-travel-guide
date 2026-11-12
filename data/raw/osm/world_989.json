@@ -1,0 +1,112 @@
+{
+ "hotels": [
+  {
+   "name": "Landa Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.3115186,
+   "lon": -3.7037558,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "B&B Hotel Burgos",
+   "name_en": null,
+   "stars": 4,
+   "brand": "B&B Hotels",
+   "lat": 42.3450041,
+   "lon": -3.6847654,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Rice Avenida Reyes Católicos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3477664,
+   "lon": -3.6925133,
+   "distance_km": 14.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Silken Gran Teatro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3410479,
+   "lon": -3.6971648,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sercotel Corona de Castilla",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Sercotel",
+   "lat": 42.3366955,
+   "lon": -3.7006092,
+   "distance_km": 15.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 150,
+ "stations": [
+  {
+   "name": "Burgos - Rosa Manzano",
+   "name_en": null,
+   "lat": 42.3711651,
+   "lon": -3.6663219,
+   "distance_km": 12.3,
+   "operator": "Adif"
+  },
+  {
+   "name": "Briviesca",
+   "name_en": null,
+   "lat": 42.5427319,
+   "lon": -3.3190808,
+   "distance_km": 27.0,
+   "operator": "Adif"
+  },
+  {
+   "name": "Cascajares de la Sierra",
+   "name_en": null,
+   "lat": 42.0556318,
+   "lon": -3.3869956,
+   "distance_km": 34.5,
+   "operator": null
+  },
+  {
+   "name": "Barbadillo del Mercado",
+   "name_en": null,
+   "lat": 42.0316195,
+   "lon": -3.3546921,
+   "distance_km": 37.9,
+   "operator": null
+  },
+  {
+   "name": "Villaquirán",
+   "name_en": null,
+   "lat": 42.2156639,
+   "lon": -3.9996183,
+   "distance_km": 42.2,
+   "operator": "Adif"
+  },
+  {
+   "name": "Pancorbo",
+   "name_en": null,
+   "lat": 42.6302053,
+   "lon": -3.1128184,
+   "distance_km": 45.6,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:42Z"
+}

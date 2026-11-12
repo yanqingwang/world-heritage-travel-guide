@@ -1,0 +1,112 @@
+{
+ "hotels": [
+  {
+   "name": "فندق غولدن مزة",
+   "name_en": "Golden Mazzeh",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.4952068,
+   "lon": 36.2468468,
+   "distance_km": 39.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Royal",
+   "name_en": "Le Royal",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.9478819,
+   "lon": 35.5949631,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Beirut Habtoor Grand",
+   "name_en": "Hilton Beirut Habtoor Grand",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.869416,
+   "lon": 35.5372243,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 33.5131629,
+   "lon": 36.2737475,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Beirut Metropolitan Palace",
+   "name_en": "Hilton Beirut Metropolitan Palace",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 33.8707953,
+   "lon": 35.5359606,
+   "distance_km": 39.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 353,
+ "stations": [
+  {
+   "name": "محطة قطار جديدة الشيباني",
+   "name_en": null,
+   "lat": 33.5695049,
+   "lon": 36.194952,
+   "distance_km": 30.1,
+   "operator": null
+  },
+  {
+   "name": "محطة الهامة",
+   "name_en": "El Hamah Station",
+   "lat": 33.5522108,
+   "lon": 36.2199284,
+   "distance_km": 33.1,
+   "operator": null
+  },
+  {
+   "name": "قطنا",
+   "name_en": null,
+   "lat": 33.4404984,
+   "lon": 36.070367,
+   "distance_km": 34.3,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار الربوة",
+   "name_en": null,
+   "lat": 33.51712,
+   "lon": 36.2601151,
+   "distance_km": 38.4,
+   "operator": null
+  },
+  {
+   "name": "داريا",
+   "name_en": null,
+   "lat": 33.4541205,
+   "lon": 36.2292289,
+   "distance_km": 41.0,
+   "operator": null
+  },
+  {
+   "name": "محطة القدم",
+   "name_en": "Qadam Station",
+   "lat": 33.4760789,
+   "lon": 36.2907213,
+   "distance_km": 43.5,
+   "operator": "Syrian Railways"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:29Z"
+}

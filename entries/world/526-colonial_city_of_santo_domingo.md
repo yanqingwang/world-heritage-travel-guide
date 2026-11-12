@@ -8,13 +8,13 @@ country: "DO"
 country_zh: "多米尼加"
 country_en: "Dominican Republic"
 unesco_id: "526"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1990"
 criteria: "(ii)(iv)(vi)"
 lat: 18.473
 lon: -69.883
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 圣多明各殖民城市 / Colonial City of Santo Domingo
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Aerial view Ciudad Colonial Santo Domingo 09 2019 0067.jpg · see Wikimedia Commons file page*
 
-![Colonial City of Santo Domingo](https://whc.unesco.org/uploads/sites/site_526.jpg)
+![Alc de colon rio ozama.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4c/Alc_de_colon_rio_ozama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Colonial City of Santo Domingo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Alc de colon rio ozama.jpg · Dr. Tillmann Bauer · CC BY-SA 3.0*
+
+![Building Zona Colonial2.jpg](https://upload.wikimedia.org/wikipedia/commons/4/49/Building_Zona_Colonial2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Building Zona Colonial2.jpg · Ulises Jorge · CC BY 2.0*
+
+![Casa del Cordón Santo Domingo photo of 1911.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b8/Casa_del_Cord%C3%B3n_Santo_Domingo_photo_of_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Casa del Cordón Santo Domingo photo of 1911.jpg · Public domain*
+
+![Casa del León.jpg](https://upload.wikimedia.org/wikipedia/commons/3/37/Casa_del_Le%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Casa del León.jpg · Ulises Jorge · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ Fundada seis años después del descubrimiento de la isla por Cristóbal Colón 
 - ✈ **La Isabela International Airport (JBQ)** — 15.5 km
 - ✈ **Las Américas International Airport (SDQ)** — 23.1 km
 - ✈ **Samaná El Catey International Airport (AZS)** — 89.9 km
+- 🚉 **Domingo Savio** — 1.6 km
+- 🚉 **Farolito** — 1.6 km
+- 🚉 **Duarte con París** — 1.7 km
+- 🚉 **Darío Contreras** — 2.5 km
+- 🚉 **San Vicente de Paúl** — 3.3 km
+- ⛴ **Terminal del Ferry Diego Colón** — 0.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13457.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Crowne Plaza** — 1.7 km — chain
+- **Crowne Plaza** — 1.7 km — chain — Crowne Plaza
+- **Sheraton** — 1.9 km — chain — Sheraton
+- **Renaissance Hotel** — 2.2 km — chain — Renaissance
+- **Courtyard by Marriott Santo Domingo** — 3.1 km — chain — Courtyard
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

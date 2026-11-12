@@ -2,9 +2,9 @@
  "id": "wh-1695",
  "unesco_id": "1695",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 344,
- "popularity_score": 24894,
+ "tier": "full",
+ "popularity_rank": 322,
+ "popularity_score": 22958,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1695.jpg",
-   "title": "Zagori Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1695",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Entering_Zagori_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Entering Zagori - panoramio.jpg",
+   "author": "Numenor",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161027014531/http://www.panoramio.com/photo/78944034",
+   "source": "https://commons.wikimedia.org/wiki/File:Entering_Zagori_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gamilla_Peak.jpg/1280px-Gamilla_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gamilla Peak.jpg",
+   "author": "Mark Brunner",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gamilla_Peak.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/New_rebuild_center_of_Sheperi.jpg/1280px-New_rebuild_center_of_Sheperi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "New rebuild center of Sheperi.jpg",
+   "author": "Qytetarnderi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:New_rebuild_center_of_Sheperi.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Papingo_Blossom.jpg/1280px-Papingo_Blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Papingo Blossom.jpg",
+   "author": "EAMorton",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Papingo_Blossom.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1695",
@@ -103,7 +127,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Epirus Palace",
+   "name_en": "Epirus Palace",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5876631,
+   "lon": 20.8608849,
+   "distance_km": 33.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Μπουραζάνι",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.05385,
+   "lon": 20.6260769,
+   "distance_km": 21.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Olympic",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6646678,
+   "lon": 20.8517946,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Αρχονταρίκι",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6669996,
+   "lon": 20.858088,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Melesin Distillery and Hotel",
+   "name_en": "Melesin Distillery and Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 40.1527944,
+   "lon": 20.5992484,
+   "distance_km": 32.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GR",
   "country_zh": "希腊",
@@ -175,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

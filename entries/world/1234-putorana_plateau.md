@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "1234"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2010"
 criteria: "(vii)(ix)"
 lat: 69.0
 lon: 93.0
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 普托拉納高原 / Putorana Plateau
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Plato Putorana 01.jpg · see Wikimedia Commons file page*
 
-![Putorana Plateau](https://whc.unesco.org/uploads/sites/site_1234.jpg)
+![Dendrochronologist at work.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dendrochronologist_at_work.jpg/1280px-Dendrochronologist_at_work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Putorana Plateau · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Dendrochronologist at work.jpg · Ivan Smorkalov · CC BY 4.0*
+
+![Lac Ayan.png](https://upload.wikimedia.org/wikipedia/commons/2/25/Lac_Ayan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Lac Ayan.png · NASA · Public domain*
+
+![Lake Glubokoye (Krasnoyarsk Krai) 2022-08-03 Sentinel-2 L2A True color.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lake_Glubokoye_%28Krasnoyarsk_Krai%29_2022-08-03_Sentinel-2_L2A_True_color.jpg/1280px-Lake_Glubokoye_%28Krasnoyarsk_Krai%29_2022-08-03_Sentinel-2_L2A_True_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lake Glubokoye (Krasnoyarsk Krai) 2022-08-03 Sentinel-2 L2A True color.jpg · European Space Agency · Attribution*
+
+![Lama Lake, Putorana 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lama_Lake%2C_Putorana_01.jpg/1280px-Lama_Lake%2C_Putorana_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lama Lake, Putorana 01.jpg · hunter74 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,6 +64,12 @@ This site coincides with the area of the Putoransky State Nature Reserve, and is
 - ✈ **Alykel International Airport (NSK)** — 227.0 km
 - ✈ **Igarka Airport (IAA)** — 315.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3675.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

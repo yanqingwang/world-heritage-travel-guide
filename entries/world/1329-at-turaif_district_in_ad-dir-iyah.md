@@ -8,13 +8,13 @@ country: "SA"
 country_zh: "沙特阿拉伯"
 country_en: "Saudi Arabia"
 unesco_id: "1329"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(iv)(v)(vi)"
 lat: 24.733333
 lon: 46.575556
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 德拉伊耶遗址的阿图赖夫区 / At-Turaif District in ad-Dir'iyah
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *At-Turaif District in ad-Dir'iyah (12).jpg · see Wikimedia Commons file page*
 
-![At-Turaif District in ad-Dir'iyah](https://whc.unesco.org/uploads/sites/site_1329.jpg)
+![At-Turaif District in ad-Dir'iyah (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/At-Turaif_District_in_ad-Dir%27iyah_%281%29.jpg/1280px-At-Turaif_District_in_ad-Dir%27iyah_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*At-Turaif District in ad-Dir'iyah · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*At-Turaif District in ad-Dir'iyah (1).jpg · Radosław Botev · CC BY 3.0 pl*
+
+![At-Turaif District in ad-Dir'iyah (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/At-Turaif_District_in_ad-Dir%27iyah_%2810%29.jpg/1280px-At-Turaif_District_in_ad-Dir%27iyah_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*At-Turaif District in ad-Dir'iyah (10).jpg · Radosław Botev · CC BY 3.0 pl*
+
+![At-Turaif District in ad-Dir'iyah (12).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/At-Turaif_District_in_ad-Dir%27iyah_%2812%29.jpg/1280px-At-Turaif_District_in_ad-Dir%27iyah_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*At-Turaif District in ad-Dir'iyah (12).jpg · Radosław Botev · CC BY 3.0 pl*
+
+![At-Turaif District in ad-Dir'iyah (5).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/At-Turaif_District_in_ad-Dir%27iyah_%285%29.jpg/1280px-At-Turaif_District_in_ad-Dir%27iyah_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*At-Turaif District in ad-Dir'iyah (5).jpg · Radosław Botev · CC BY 3.0 pl*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ This property was the first capital of the Saudi Dynasty, in the heart of the Ar
 - ✈ **King Khalid International Airport (RUH)** — 27.9 km
 - ✈ **Dawadmi Domestic Airport (DWD)** — 250.1 km
 - ✈ **Al-Ahsa International Airport (HOF)** — 299.6 km
+- 🚉 **محطة سكة حديد الرياض** — 19.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6596.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Riyadh Olaya** — 10.1 km — star — 5★ · Hilton
+- **Four Seasons Hotel** — 10.2 km — star — 5★ · Four Seasons
+- **Hyatt Regency Riyadh Olaya** — 11.5 km — star — 5★ · Hyatt Regency
+- **Intercontinental Hotel, Riyadh** — 13.8 km — star — 5★ · InterContinental
+- **Riyadh Marriott** — 14.8 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

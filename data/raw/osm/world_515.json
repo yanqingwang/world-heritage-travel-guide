@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Heidelberg Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4151691,
+   "lon": 8.7066598,
+   "distance_km": 28.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Europäischer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4080367,
+   "lon": 8.6954063,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Deidesheimer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4082313,
+   "lon": 8.1874418,
+   "distance_km": 38.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ketschauer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.4078535,
+   "lon": 8.1854542,
+   "distance_km": 38.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Mainz",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 49.9964635,
+   "lon": 8.2814525,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 929,
+ "stations": [
+  {
+   "name": "Lorsch",
+   "name_en": null,
+   "lat": 49.6590497,
+   "lon": 8.5660491,
+   "distance_km": 0.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bensheim",
+   "name_en": null,
+   "lat": 49.680791,
+   "lon": 8.616808,
+   "distance_km": 4.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Heppenheim (Bergstr)",
+   "name_en": null,
+   "lat": 49.6416143,
+   "lon": 8.6333327,
+   "distance_km": 4.9,
+   "operator": null
+  },
+  {
+   "name": "Bensheim-Auerbach",
+   "name_en": null,
+   "lat": 49.7016019,
+   "lon": 8.6132493,
+   "distance_km": 6.2,
+   "operator": "DB Station&Service AG"
+  },
+  {
+   "name": "Bürstadt",
+   "name_en": null,
+   "lat": 49.6457684,
+   "lon": 8.4581969,
+   "distance_km": 8.0,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Zwingenberg (Bergstr)",
+   "name_en": null,
+   "lat": 49.7258826,
+   "lon": 8.6089212,
+   "distance_km": 8.5,
+   "operator": null
+  },
+  {
+   "name": "Lampertheim",
+   "name_en": null,
+   "lat": 49.598578,
+   "lon": 8.4784826,
+   "distance_km": 8.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Hemsbach",
+   "name_en": null,
+   "lat": 49.5910776,
+   "lon": 8.6487431,
+   "distance_km": 9.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Fähranleger Gernsheim",
+   "name_en": null,
+   "lat": 49.7533087,
+   "lon": 8.4745506,
+   "distance_km": 13.0,
+   "operator": null
+  },
+  {
+   "name": "Marina-Steganlage \" Zum Eicher See\"",
+   "name_en": null,
+   "lat": 49.7613928,
+   "lon": 8.4402304,
+   "distance_km": 15.1,
+   "operator": null
+  },
+  {
+   "name": "Altrheinhafen, Becken 32",
+   "name_en": null,
+   "lat": 49.5284759,
+   "lon": 8.462269,
+   "distance_km": 15.9,
+   "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+  },
+  {
+   "name": "Ölhafen",
+   "name_en": null,
+   "lat": 49.5322336,
+   "lon": 8.4436595,
+   "distance_km": 16.2,
+   "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+  },
+  {
+   "name": "Waldhofbecken",
+   "name_en": null,
+   "lat": 49.5177994,
+   "lon": 8.4723557,
+   "distance_km": 16.6,
+   "operator": "Staatliche Rhein-Neckar-Hafengesellschaft Mannheim mbH"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:12Z"
+}

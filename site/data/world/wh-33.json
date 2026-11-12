@@ -2,9 +2,9 @@
  "id": "wh-33",
  "unesco_id": "33",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1070,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 108,
+ "popularity_score": 111804,
  "country": "BY",
  "country_zh": "白俄罗斯",
  "country_en": "Belarus",
@@ -132,9 +132,106 @@
   "nearest_airport_km": 71.5,
   "distance_beijing_km": 6773.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Siemianówka",
+    "name_en": null,
+    "lat": 52.8999676,
+    "lon": 23.81484,
+    "distance_km": 19.0,
+    "operator": "PKP Polskie Linie Kolejowe"
+   },
+   {
+    "name": "Narewka",
+    "name_en": null,
+    "lat": 52.8685809,
+    "lon": 23.7375493,
+    "distance_km": 19.4,
+    "operator": "PKP Polskie Linie Kolejowe"
+   },
+   {
+    "name": "Hajnówka Wąskotorowa",
+    "name_en": null,
+    "lat": 52.7359763,
+    "lon": 23.6068454,
+    "distance_km": 23.2,
+    "operator": "Nadleśnictwo Hajnówka"
+   },
+   {
+    "name": "Hajnówka",
+    "name_en": null,
+    "lat": 52.73355,
+    "lon": 23.5830712,
+    "distance_km": 24.8,
+    "operator": "PKP Polskie Linie Kolejowe"
+   },
+   {
+    "name": "Свіслач",
+    "name_en": null,
+    "lat": 53.0160266,
+    "lon": 24.0760942,
+    "distance_km": 30.8,
+    "operator": "БЧ"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Żubrówka",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.6990993,
+   "lon": 23.8435419,
+   "distance_km": 9.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Białowieski",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 52.6970323,
+   "lon": 23.8778883,
+   "distance_km": 7.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Unikat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.7019611,
+   "lon": 23.8564018,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gawra",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.6987174,
+   "lon": 23.8422144,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sioło Budy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.7313218,
+   "lon": 23.7294164,
+   "distance_km": 15.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BY",
   "country_zh": "白俄罗斯",
@@ -213,5 +310,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

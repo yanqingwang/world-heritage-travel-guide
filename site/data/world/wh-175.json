@@ -2,9 +2,9 @@
  "id": "wh-175",
  "unesco_id": "175",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 355,
- "popularity_score": 24150,
+ "tier": "full",
+ "popularity_rank": 330,
+ "popularity_score": 22053,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_175.jpg",
-   "title": "Medici Villas and Gardens in Tuscany",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/175",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bacchereto_villa.jpg/1280px-Bacchereto_villa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bacchereto villa.jpg",
+   "author": "Francesco Feroci",
+   "license": "CC BY-SA 4.0",
+   "credit": "https://www.instagram.com/p/BX0ujXdA4m9/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bacchereto_villa.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Medici_Villas_Location-de.svg/1280px-Medici_Villas_Location-de.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Medici Villas Location-de.svg",
+   "author": "Sémhur (translated by User:Mike Krüger )",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work Background map : Image:Regione Toscana.svg , by Helix84 , under licence Public Domain.",
+   "source": "https://commons.wikimedia.org/wiki/File:Medici_Villas_Location-de.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Medici_Villas_Location-en.svg/1280px-Medici_Villas_Location-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Medici Villas Location-en.svg",
+   "author": "Sémhur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work Background map : Image:Regione Toscana.svg , by Helix84 , under licence Public Domain.",
+   "source": "https://commons.wikimedia.org/wiki/File:Medici_Villas_Location-en.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Medici_Villas_Location-fr.svg/1280px-Medici_Villas_Location-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Medici Villas Location-fr.svg",
+   "author": "Sémhur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work Fond de carte : Image:Regione Toscana.svg , de Helix84 , sous licence Domaine Public.",
+   "source": "https://commons.wikimedia.org/wiki/File:Medici_Villas_Location-fr.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/175",
@@ -102,10 +126,140 @@
   ],
   "nearest_airport_km": 9.8,
   "distance_beijing_km": 8071.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Vergherete",
+    "name_en": null,
+    "lat": 43.873325,
+    "lon": 11.8352099,
+    "distance_km": 42.6,
+    "operator": null
+   },
+   {
+    "name": "Ca' di Sopra",
+    "name_en": null,
+    "lat": 43.8603721,
+    "lon": 11.8394674,
+    "distance_km": 42.9,
+    "operator": null
+   },
+   {
+    "name": "Comignolo",
+    "name_en": null,
+    "lat": 43.8489275,
+    "lon": 11.8398884,
+    "distance_km": 43.0,
+    "operator": null
+   },
+   {
+    "name": "Molo di Bandella",
+    "name_en": null,
+    "lat": 43.5104232,
+    "lon": 11.6572264,
+    "distance_km": 47.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Fiesole - Caldine",
+    "name_en": null,
+    "lat": 43.8304136,
+    "lon": 11.3079009,
+    "distance_km": 3.1,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Vaglia",
+    "name_en": null,
+    "lat": 43.9060386,
+    "lon": 11.2831021,
+    "distance_km": 5.6,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Firenze Castello",
+    "name_en": null,
+    "lat": 43.8198547,
+    "lon": 11.2187241,
+    "distance_km": 8.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Firenze San Marco Vecchio",
+    "name_en": null,
+    "lat": 43.790718,
+    "lon": 11.2676516,
+    "distance_km": 8.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Firenze Rifredi",
+    "name_en": null,
+    "lat": 43.8000848,
+    "lon": 11.2361813,
+    "distance_km": 8.4,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Collegio Alla Querce",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7880315,
+   "lon": 11.277076,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Firenze",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 43.7770174,
+   "lon": 11.2662841,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Regency",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7753933,
+   "lon": 11.2680892,
+   "distance_km": 9.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tivoli Palazzo Gaddi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 43.774188,
+   "lon": 11.2515486,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palazzo Firence by Baglioni Hotels & Resorts",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Baglioni Hotels & Resorts",
+   "lat": 43.7699337,
+   "lon": 11.2623755,
+   "distance_km": 10.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -173,5 +327,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

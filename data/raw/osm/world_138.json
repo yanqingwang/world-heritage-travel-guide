@@ -23,6 +23,17 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "Lakarna Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5508688,
+   "lon": 68.2118584,
+   "distance_km": 25.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "Husnain Hotel Larakna",
    "name_en": null,
    "stars": null,
@@ -43,20 +54,9 @@
    "distance_km": 25.8,
    "kind": "hotel",
    "source": "OpenStreetMap"
-  },
-  {
-   "name": "Green Palace Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.5521417,
-   "lon": 68.2134171,
-   "distance_km": 25.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 8,
+ "hotels_nearby_50km": 9,
  "stations": [
   {
    "name": "Mohenjo-daro",
@@ -124,5 +124,5 @@
   }
  ],
  "ferry_terminals": [],
- "fetched_at": "2026-11-08T11:58:16Z"
+ "fetched_at": "2026-11-12T11:52:25Z"
 }

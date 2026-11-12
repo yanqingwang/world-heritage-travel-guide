@@ -2,9 +2,9 @@
  "id": "wh-822",
  "unesco_id": "822",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 316,
- "popularity_score": 28777,
+ "tier": "full",
+ "popularity_rank": 286,
+ "popularity_score": 26760,
  "country": "EE",
  "country_zh": "爱沙尼亚",
  "country_en": "Estonia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_822.jpg",
-   "title": "Historic Centre (Old Town) of Tallinn",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/822",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Facade_Tallinn_%281%29.JPG/1280px-Facade_Tallinn_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Facade Tallinn (1).JPG",
+   "author": "-jkb-",
+   "license": "CC BY-SA 3.0",
+   "credit": "own image / eigenes Werk",
+   "source": "https://commons.wikimedia.org/wiki/File:Facade_Tallinn_%281%29.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Facade_Tallinn_%288%29.JPG/1280px-Facade_Tallinn_%288%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Facade Tallinn (8).JPG",
+   "author": "-jkb-",
+   "license": "CC BY-SA 3.0",
+   "credit": "own image / eigenes Werk",
+   "source": "https://commons.wikimedia.org/wiki/File:Facade_Tallinn_%288%29.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Facade_Tallinn_%289%29.JPG/1280px-Facade_Tallinn_%289%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Facade Tallinn (9).JPG",
+   "author": "-jkb-",
+   "license": "CC BY-SA 3.0",
+   "credit": "own image / eigenes Werk",
+   "source": "https://commons.wikimedia.org/wiki/File:Facade_Tallinn_%289%29.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Maquette_de_la_ville_%28Mus%C3%A9e_de_la_ville_de_Tallinn%29_%287649878744%29.jpg/1280px-Maquette_de_la_ville_%28Mus%C3%A9e_de_la_ville_de_Tallinn%29_%287649878744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Maquette de la ville (Musée de la ville de Tallinn) (7649878744).jpg",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "license": "CC BY 2.0",
+   "credit": "Maquette de la ville (Musée de la ville de Tallinn)",
+   "source": "https://commons.wikimedia.org/wiki/File:Maquette_de_la_ville_%28Mus%C3%A9e_de_la_ville_de_Tallinn%29_%287649878744%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/822",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 5.6,
   "distance_beijing_km": 6355.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Patareisadam",
+    "name_en": "Port Patareisadam",
+    "lat": 59.4477605,
+    "lon": 24.7526325,
+    "distance_km": 1.2,
+    "operator": null
+   },
+   {
+    "name": "A-terminal",
+    "name_en": "Terminal A",
+    "lat": 59.4447639,
+    "lon": 24.7618381,
+    "distance_km": 1.3,
+    "operator": "Tallinna Sadam"
+   },
+   {
+    "name": "D-terminal",
+    "name_en": "Terminal D",
+    "lat": 59.4434959,
+    "lon": 24.7668537,
+    "distance_km": 1.4,
+    "operator": "Tallinna Sadam"
+   },
+   {
+    "name": "Tallinn",
+    "name_en": null,
+    "lat": 59.443955,
+    "lon": 24.7700461,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Kruiisiterminal",
+    "name_en": "Cruise terminal",
+    "lat": 59.4478946,
+    "lon": 24.7641914,
+    "distance_km": 1.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tallinn",
+    "name_en": "Tallinn Baltic station",
+    "lat": 59.4399541,
+    "lon": 24.7359938,
+    "distance_km": 0.6,
+    "operator": "AS Eesti Raudtee"
+   },
+   {
+    "name": "Tallinn-Väike",
+    "name_en": null,
+    "lat": 59.4127524,
+    "lon": 24.7458749,
+    "distance_km": 2.7,
+    "operator": "Edelaraudtee AS"
+   },
+   {
+    "name": "Ülemiste",
+    "name_en": null,
+    "lat": 59.4235504,
+    "lon": 24.7971709,
+    "distance_km": 3.3,
+    "operator": "AS Eesti Raudtee"
+   },
+   {
+    "name": "Liiva",
+    "name_en": null,
+    "lat": 59.3875173,
+    "lon": 24.7229899,
+    "distance_km": 5.7,
+    "operator": "Edelaraudtee AS"
+   },
+   {
+    "name": "Pääsküla",
+    "name_en": null,
+    "lat": 59.3694639,
+    "lon": 24.6411642,
+    "distance_km": 9.6,
+    "operator": "AS Eesti Raudtee"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Telegraaf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Autograph Collection",
+   "lat": 59.437666,
+   "lon": 24.7472466,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Swissôtel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Swissôtel",
+   "lat": 59.4328263,
+   "lon": 24.7614335,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hestia Hotel Ilmarine",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 59.4445701,
+   "lon": 24.7460477,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Park Inn",
+   "lat": 59.4352781,
+   "lon": 24.7323581,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Collection Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 59.4334836,
+   "lon": 24.758148,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "EE",
   "country_zh": "爱沙尼亚",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

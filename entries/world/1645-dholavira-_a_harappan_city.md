@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1645"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2021"
 criteria: "(iii)(iv)"
 lat: 23.88611111
 lon: 70.21666667
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 多拉维拉：哈拉帕文明古城 / Dholavira: a Harappan City
@@ -59,12 +59,6 @@ The ancient city of Dholavira, the southern centre of the Harappan Civilization,
 - ✈ **Kandla Airport (IXY)** — 86.8 km
 - ✈ **Jamnagar Airport (JGA)** — 159.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4750.7 km**
-
-## 附近酒店 / Nearby hotels
-
-- 暂无 / none
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

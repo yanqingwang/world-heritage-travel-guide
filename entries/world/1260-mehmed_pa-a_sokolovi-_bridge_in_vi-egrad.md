@@ -8,13 +8,13 @@ country: "BA"
 country_zh: "波斯尼亚和黑塞哥维那"
 country_en: "Bosnia and Herzegovina"
 unesco_id: "1260"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iv)"
 lat: 43.782482
 lon: 19.287872
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 迈赫迈德•巴什•索科罗维奇的古桥 / Mehmed Paša Sokolović Bridge in Višegrad
@@ -52,7 +52,22 @@ Most Mehmed-paše Sokolovića ili Stari most u Višegradu se nalazi u gradu Viš
 - ✈ **Sarajevo International Airport (SJJ)** — 76.9 km
 - ✈ **Tuzla International Airport (TZL)** — 87.8 km
 - ✈ **Morava Airport (KVO)** — 104.3 km
+- 🚉 **Višegrad** — 0.7 km
+- 🚉 **Dobrun** — 8.5 km
+- 🚉 **Vardište** — 13.8 km
+- 🚉 **Мокра Гора** — 17.7 km
+- 🚉 **Јатаре** — 18.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7616.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Златибор Мона** — 33.5 km — star — 4★
+- **Siesta** — 46.2 km — star — 4★
+- **Agape** — 34.1 km — star — 3★
+- **Златиборска ноћ** — 41.6 km — star — 3★
+- **Турист** — 30.0 km — star — Turist · 2★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

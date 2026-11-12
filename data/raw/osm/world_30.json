@@ -56,7 +56,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 329,
+ "hotels_nearby_50km": 327,
  "stations": [
   {
    "name": "Warszawa Gdańska",
@@ -92,7 +92,7 @@
   },
   {
    "name": "Warszawa Wschodnia",
-   "name_en": null,
+   "name_en": "Warsaw East",
    "lat": 52.2515889,
    "lon": 21.0523678,
    "distance_km": 2.7,
@@ -127,8 +127,8 @@
   {
    "name": "Podzamcze Fontanny",
    "name_en": null,
-   "lat": 52.2541878,
-   "lon": 21.0138499,
+   "lat": 52.2542117,
+   "lon": 21.0139094,
    "distance_km": 0.5,
    "operator": null
   },
@@ -165,5 +165,5 @@
    "operator": null
   }
  ],
- "fetched_at": "2026-11-08T16:08:39Z"
+ "fetched_at": "2026-11-12T11:48:40Z"
 }

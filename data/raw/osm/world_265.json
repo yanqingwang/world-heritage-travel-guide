@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Montebelo Mosteiro de Alcobaça Historic Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5485506,
+   "lon": -8.9781708,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel dos Templários",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6071818,
+   "lon": -8.4135644,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Segredos de Vale Manso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.54567,
+   "lon": -8.2926396,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Cinquentenário",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6289321,
+   "lon": -8.6712011,
+   "distance_km": 21.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Lux",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6273918,
+   "lon": -8.6741743,
+   "distance_km": 22.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 161,
+ "stations": [
+  {
+   "name": "Tomar",
+   "name_en": null,
+   "lat": 39.5984812,
+   "lon": -8.4128096,
+   "distance_km": 0.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Santa Cita",
+   "name_en": null,
+   "lat": 39.5527478,
+   "lon": -8.3934344,
+   "distance_km": 6.1,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Chão de Maçãs - Fátima",
+   "name_en": null,
+   "lat": 39.6543637,
+   "lon": -8.4938534,
+   "distance_km": 8.5,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Lamarosa",
+   "name_en": null,
+   "lat": 39.5288247,
+   "lon": -8.4690325,
+   "distance_km": 9.3,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Barquinha",
+   "name_en": null,
+   "lat": 39.4616121,
+   "lon": -8.4352411,
+   "distance_km": 15.9,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Almourol",
+   "name_en": null,
+   "lat": 39.4623197,
+   "lon": -8.3740418,
+   "distance_km": 16.2,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Caxarias",
+   "name_en": null,
+   "lat": 39.7144512,
+   "lon": -8.5454461,
+   "distance_km": 16.4,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Praia do Ribatejo",
+   "name_en": null,
+   "lat": 39.4672237,
+   "lon": -8.3475673,
+   "distance_km": 16.4,
+   "operator": "Infraestruturas de Portugal"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:21Z"
+}

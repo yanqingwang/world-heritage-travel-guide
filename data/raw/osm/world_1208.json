@@ -1,0 +1,61 @@
+{
+ "hotels": [
+  {
+   "name": "هتل پارسیان آزادی بم",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 29.0898441,
+   "lon": 58.3263592,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جهانگردی بم",
+   "name_en": "Bam Tourist Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 29.0951642,
+   "lon": 58.3566475,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل کوروش",
+   "name_en": "Kourosh Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.0749436,
+   "lon": 58.3481703,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل ارگ جدید",
+   "name_en": "Hotel Arg-e-Jadid",
+   "stars": null,
+   "brand": null,
+   "lat": 29.0386618,
+   "lon": 58.4648198,
+   "distance_km": 12.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 4,
+ "stations": [
+  {
+   "name": "بم",
+   "name_en": "Bam",
+   "lat": 29.0333292,
+   "lon": 58.3520593,
+   "distance_km": 8.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:20Z"
+}

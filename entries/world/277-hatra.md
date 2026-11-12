@@ -8,13 +8,13 @@ country: "IQ"
 country_zh: "伊拉克"
 country_en: "Iraq"
 unesco_id: "277"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 35.588055555
 lon: 42.718333333
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 哈特拉 / Hatra
@@ -23,25 +23,25 @@ updated_at: "2026-11-12T11:30:12Z"
 
 ## 图片 / Images
 
-![Hatra-1453.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hatra-1453.jpg/1280px-Hatra-1453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Hatra ruins.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Hatra%20ruins.jpg?width=1280)
 
-*Hatra-1453.jpg · 101st Sustainment Brigade, 101st Airborne Division (AA) Public Affairs￼￼￼￼ · Public domain*
+*Hatra ruins.jpg · see Wikimedia Commons file page*
 
-![Hatra-71339.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hatra-71339.jpg/1280px-Hatra-71339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Archaelogical site of Hatra (before destruction).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Archaelogical_site_of_Hatra_%28before_destruction%29.webm/960px--Archaelogical_site_of_Hatra_%28before_destruction%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Hatra-71339.jpg · Multi-National Corps Iraq Public Affairs · Public domain*
+*Archaelogical site of Hatra (before destruction).webm · UNESCO · CC BY-SA 3.0 igo*
 
-![Hatra-Ruins-2008-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hatra-Ruins-2008-17.jpg/1280px-Hatra-Ruins-2008-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Defense.gov photo essay 100920-A-8883G-010.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Defense.gov_photo_essay_100920-A-8883G-010.jpg/1280px-Defense.gov_photo_essay_100920-A-8883G-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hatra-Ruins-2008-17.jpg · Staff Sgt. JoAnn Makinano · Public domain*
+*Defense.gov photo essay 100920-A-8883G-010.jpg · Spc. Gregory Gieske · Public domain*
 
-![Hatra ruins.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/Hatra_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Hatra in the late 1960s. Saint Thomas Private High School for Girls' trip to Hatra ruins. Ninawa Governorate, Iraq.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls%27_trip_to_Hatra_ruins._Ninawa_Governorate%2C_Iraq.jpg/1280px-Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls%27_trip_to_Hatra_ruins._Ninawa_Governorate%2C_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hatra ruins.jpg · en:User:Victrav · Copyrighted free use*
+*Hatra in the late 1960s. Saint Thomas Private High School for Girls' trip to Hatra ruins. Ninawa Governorate, Iraq.jpg · Neuroforever · CC BY-SA 4.0*
 
-![Hatra](https://whc.unesco.org/uploads/sites/site_277.jpg)
+![Hatra Ruins - 2008-07-20 edit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hatra_Ruins_-_2008-07-20_edit.jpg/1280px-Hatra_Ruins_-_2008-07-20_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hatra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Hatra Ruins - 2008-07-20 edit.jpg · Hatra_Ruins_-_2008-07-20.jpg : Lance Cpl. Albert F. Hunt, U.S. Marine Corps derivative work: Adiel lo ( talk ) · Public domain*
 
 ## 简介 / Introduction
 
@@ -64,7 +64,19 @@ A large fortified city under the influence of the Parthian Empire and capital of
 - ✈ **Erbil International Airport (EBL)** — 132.0 km
 - ✈ **Kirkuk International Airport (KIK)** — 148.1 km
 - ✈ **Şırnak Şerafettin Elçi Airport (NKT)** — 206.2 km
+- 🚉 **محطة قطار الجرنف** — 38.0 km
+- 🚉 **محطة قطار أتلول الباج** — 39.9 km
+- 🚉 **محطة جرناف** — 46.7 km
+- 🚉 **Sirqat Railway Station** — 47.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6184.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق الحضر** — 1.7 km — hotel
+- **فندق الحضر الدولي** — 2.6 km — hotel — Funduq al Hadar ad Duwali
+- **فندق الحضر الدولى** — 2.6 km — hotel — فندق الحضر الدولى
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

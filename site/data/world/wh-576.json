@@ -2,8 +2,8 @@
  "id": "wh-576",
  "unesco_id": "576",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 213,
+ "tier": "basic",
+ "popularity_rank": 1070,
  "popularity_score": 54427,
  "country": "TH",
  "country_zh": "泰国",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_082_Kwangmo%27s_iPhone.jpg/1280px-2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_082_Kwangmo%27s_iPhone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2010년 8월 태국 082 Kwangmo's iPhone.jpg",
-   "author": "최광모 (Choe Kwangmo)",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_082_Kwangmo%27s_iPhone.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_083_Kwangmo%27s_iPhone.jpg/1280px-2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_083_Kwangmo%27s_iPhone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2010년 8월 태국 083 Kwangmo's iPhone.jpg",
-   "author": "최광모 (Choe Kwangmo)",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_083_Kwangmo%27s_iPhone.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_084_Kwangmo%27s_iPhone.jpg/1280px-2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_084_Kwangmo%27s_iPhone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2010년 8월 태국 084 Kwangmo's iPhone.jpg",
-   "author": "최광모 (Choe Kwangmo)",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_084_Kwangmo%27s_iPhone.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_087_Kwangmo%27s_iPhone.jpg/1280px-2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_087_Kwangmo%27s_iPhone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2010년 8월 태국 087 Kwangmo's iPhone.jpg",
-   "author": "최광모 (Choe Kwangmo)",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:2010%EB%85%84_8%EC%9B%94_%ED%83%9C%EA%B5%AD_087_Kwangmo%27s_iPhone.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_576.jpg",
+   "title": "Historic City of Ayutthaya",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/576",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/576",
@@ -126,148 +102,10 @@
   ],
   "nearest_airport_km": 49.1,
   "distance_beijing_km": 3300.1,
-  "ferry_terminals": [
-   {
-    "name": "ท่าเรือวัดขุนพรหม",
-    "name_en": "Wat Khun Phrom Ferry Terminal",
-    "lat": 14.3476347,
-    "lon": 100.5699534,
-    "distance_km": 1.4,
-    "operator": null
-   },
-   {
-    "name": "ท่าเรือวัดบางกะจะ",
-    "name_en": "Wat Bang Kacha Ferry Terminal",
-    "lat": 14.3447626,
-    "lon": 100.5758464,
-    "distance_km": 2.1,
-    "operator": null
-   },
-   {
-    "name": "ท่าเรือป้อมเพชร",
-    "name_en": "Phet Fort Ferry Terminal",
-    "lat": 14.345826,
-    "lon": 100.5767253,
-    "distance_km": 2.2,
-    "operator": null
-   },
-   {
-    "name": "ท่าเรือวัดพนัญเชิง",
-    "name_en": "Wat Phananchoeng Ferry Terminal",
-    "lat": 14.3448087,
-    "lon": 100.5779494,
-    "distance_km": 2.3,
-    "operator": null
-   },
-   {
-    "name": "ท่าเทียบเรือตลาดเจ้าพรหม",
-    "name_en": "Chao Phrom Market Pier",
-    "lat": 14.3580231,
-    "lon": 100.5806056,
-    "distance_km": 2.6,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "อยุธยา",
-    "name_en": "Ayutthaya",
-    "lat": 14.3567126,
-    "lon": 100.5832004,
-    "distance_km": 2.8,
-    "operator": "การรถไฟแห่งประเทศไทย"
-   },
-   {
-    "name": "บ้านม้า",
-    "name_en": "Ban Ma",
-    "lat": 14.3841019,
-    "lon": 100.597101,
-    "distance_km": 5.6,
-    "operator": "การรถไฟแห่งประเทศไทย"
-   },
-   {
-    "name": "บ้านโพ",
-    "name_en": "Ban Pho",
-    "lat": 14.2821511,
-    "lon": 100.5886751,
-    "distance_km": 8.4,
-    "operator": "การรถไฟแห่งประเทศไทย"
-   },
-   {
-    "name": "มาบพระจันทร์",
-    "name_en": "Map Phra Chan",
-    "lat": 14.4022844,
-    "lon": 100.6320805,
-    "distance_km": 9.8,
-    "operator": null
-   },
-   {
-    "name": "บางปะอิน",
-    "name_en": "Bang Pa-in",
-    "lat": 14.2393509,
-    "lon": 100.5845885,
-    "distance_km": 12.8,
-    "operator": "การรถไฟแห่งประเทศไทย"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "The Sixty at Ayutthaya",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 14.3571161,
-   "lon": 100.569137,
-   "distance_km": 1.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Classic Kameo",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 14.3549886,
-   "lon": 100.5966196,
-   "distance_km": 4.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "โรงแรมโต่บักเส็ง",
-   "name_en": "Toh Buk Seng Ayutthaya Hotel",
-   "stars": 3,
-   "brand": null,
-   "lat": 14.4605312,
-   "lon": 100.6012808,
-   "distance_km": 13.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "โรงแรมสระบุรี",
-   "name_en": "Saraburi Hotel",
-   "stars": 2,
-   "brand": null,
-   "lat": 14.5229585,
-   "lon": 100.918367,
-   "distance_km": 43.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Somjai Place Ayutthaya",
-   "name_en": null,
-   "stars": 1,
-   "brand": null,
-   "lat": 14.3563882,
-   "lon": 100.5760579,
-   "distance_km": 2.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "TH",
   "country_zh": "泰国",
@@ -339,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

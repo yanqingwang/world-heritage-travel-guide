@@ -2,9 +2,9 @@
  "id": "wh-1103",
  "unesco_id": "1103",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 326,
- "popularity_score": 27652,
+ "tier": "full",
+ "popularity_rank": 303,
+ "popularity_score": 24894,
  "country": "KZ",
  "country_zh": "哈萨克斯坦",
  "country_en": "Kazakhstan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1103.jpg",
-   "title": "Mausoleum of Khoja Ahmed Yasawi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1103",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1989_CPA_6136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1989 CPA 6136.jpg",
+   "author": "Scanned and processed by A. Sdobnikov",
+   "license": "Public domain",
+   "credit": "Personal collection",
+   "source": "https://commons.wikimedia.org/wiki/File:1989_CPA_6136.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2_Mausolea_%285606670751%29.jpg/1280px-2_Mausolea_%285606670751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2 Mausolea (5606670751).jpg",
+   "author": "upyernoz from Haverford, USA",
+   "license": "CC BY 2.0",
+   "credit": "2 Mausolea",
+   "source": "https://commons.wikimedia.org/wiki/File:2_Mausolea_%285606670751%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/3_Girls_%285606665659%29.jpg/1280px-3_Girls_%285606665659%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "3 Girls (5606665659).jpg",
+   "author": "upyernoz from Haverford, USA",
+   "license": "CC BY 2.0",
+   "credit": "3 Girls",
+   "source": "https://commons.wikimedia.org/wiki/File:3_Girls_%285606665659%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ahmet_yasawi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ahmet yasawi.jpg",
+   "author": "CentrAsia",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahmet_yasawi.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1103",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 22.7,
   "distance_beijing_km": 3949.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Түркістан",
+    "name_en": "Turkestan",
+    "lat": 43.2857034,
+    "lon": 68.2129951,
+    "distance_km": 4.9,
+    "operator": "КТЖ"
+   },
+   {
+    "name": "Шойтобе",
+    "name_en": "Shojtobe",
+    "lat": 43.2107721,
+    "lon": 68.2538119,
+    "distance_km": 9.8,
+    "operator": null
+   },
+   {
+    "name": "Куншагыр",
+    "name_en": null,
+    "lat": 43.1389011,
+    "lon": 68.277999,
+    "distance_km": 17.7,
+    "operator": null
+   },
+   {
+    "name": "Шорнак",
+    "name_en": null,
+    "lat": 43.3875953,
+    "lon": 68.0241322,
+    "distance_km": 22.3,
+    "operator": null
+   },
+   {
+    "name": "Отрабат",
+    "name_en": null,
+    "lat": 43.0412322,
+    "lon": 68.3108831,
+    "distance_km": 28.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hampton by Hilton Turkistan",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Hampton",
+   "lat": 43.2970001,
+   "lon": 68.2764811,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Яссы гостиница",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.300523,
+   "lon": 68.2676629,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ханака",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.2996469,
+   "lon": 68.27475,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ханака гостиница",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.2997838,
+   "lon": 68.2745035,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "гостиница Евразия",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3012992,
+   "lon": 68.2681165,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KZ",
   "country_zh": "哈萨克斯坦",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

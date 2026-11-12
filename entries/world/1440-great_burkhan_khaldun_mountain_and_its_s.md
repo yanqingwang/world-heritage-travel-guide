@@ -8,13 +8,13 @@ country: "MN"
 country_zh: "蒙古国"
 country_en: "Mongolia"
 unesco_id: "1440"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2015"
 criteria: "(iv)(vi)"
 lat: 48.783333333
 lon: 109.166666666
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 布尔罕和乐敦圣山及其周围景观 / Great Burkhan Khaldun Mountain and its surrounding sacred landscape
@@ -52,12 +52,6 @@ The site is situated in the north-east of the country in the central part of the
 - ✈ **Ulaanbaatar Chinggis Khaan International Airport (UBN)** — 214.9 km
 - ✈ **Baikal International Airport (UUD)** — 358.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1147.5 km**
-
-## 附近酒店 / Nearby hotels
-
-- 暂无 / none
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

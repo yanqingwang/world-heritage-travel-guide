@@ -8,13 +8,13 @@ country: "UG"
 country_zh: "乌干达"
 country_en: "Uganda"
 unesco_id: "1022"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 0.329166666
 lon: 32.553333333
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 巴干达国王们的卡苏比陵 / Tombs of Buganda Kings at Kasubi
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Kasubi Tombs 20250815 1.jpg · see Wikimedia Commons file page*
 
-![Tombs of Buganda Kings at Kasubi](https://whc.unesco.org/uploads/sites/site_1022.jpg)
+![A tour of the Kasubi tombs in Kampala2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_tour_of_the_Kasubi_tombs_in_Kampala2.jpg/1280px-A_tour_of_the_Kasubi_tombs_in_Kampala2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tombs of Buganda Kings at Kasubi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A tour of the Kasubi tombs in Kampala2.jpg · Samson Ssemakadde · CC0*
+
+![A tour of the Kasubi tombs in Kampala9.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/A_tour_of_the_Kasubi_tombs_in_Kampala9.jpg/1280px-A_tour_of_the_Kasubi_tombs_in_Kampala9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A tour of the Kasubi tombs in Kampala9.jpg · Samson Ssemakadde · CC0*
+
+![Baganda Tribe, Uganda (16498982963).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baganda_Tribe%2C_Uganda_%2816498982963%29.jpg/1280px-Baganda_Tribe%2C_Uganda_%2816498982963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Baganda Tribe, Uganda (16498982963).jpg · Rod Waddington · CC BY-SA 2.0*
+
+![Buganda Kingdom Palace, Kampala (464057348).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Buganda_Kingdom_Palace%2C_Kampala_%28464057348%29.jpg/1280px-Buganda_Kingdom_Palace%2C_Kampala_%28464057348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buganda Kingdom Palace, Kampala (464057348).jpg · Dave Proffer · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ Kasubi ni jina la kilima ndani ya mji wa Kampala mji mkuu wa Uganda. Kasubi imej
 - ✈ **Entebbe International Airport (EBB)** — 34.1 km
 - ✈ **Soroti Airport (SRT)** — 195.8 km
 - ✈ **Bukoba Airport (BKZ)** — 201.9 km
+- 🚉 **Kampala** — 4.4 km
+- 🚉 **Namboole** — 12.2 km
+- 🚉 **Namanve** — 14.1 km
+- 🚉 **Kawolongojo** — 42.0 km
+- ⛴ **Port Bell** — 12.0 km
+- ⛴ **Serena Landing site** — 14.9 km
+- ⛴ **Nakiwogo Buwaya Ferry** — 29.5 km
+- ⛴ **Nakiwogo Car Ferry - Ssese Islands** — 30.0 km
+- ⛴ **Nakiwogo Canoe Ferry - Bussi Islands** — 30.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9506.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kampala Serena Hotel** — 3.8 km — star — 5★
+- **Speke Resort Munyonyo** — 12.9 km — star — 5★
+- **Golden Tulip Canaan Kampala** — 3.5 km — star — 4★ · Golden Tulip
+- **SAFFRON BEACH BISTRO & COTTAGES** — 29.8 km — star — 4★ · SAFFRON BEACH BISTRO & COTTAGES
+- **Bativa Hotel** — 2.1 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

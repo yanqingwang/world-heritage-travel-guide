@@ -1,7 +1,97 @@
 {
- "hotels": [],
- "hotels_nearby_50km": 0,
- "stations": [],
- "ferry_terminals": [],
- "fetched_at": "2026-11-08T16:11:47Z"
+ "hotels": [
+  {
+   "name": "Horizon Blu",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.0231827,
+   "lon": 22.1348903,
+   "distance_km": 21.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Λήδα",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.0736121,
+   "lon": 22.4246405,
+   "distance_km": 5.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pharae Palace Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.0250153,
+   "lon": 22.1171382,
+   "distance_km": 22.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "LAS HOTEL & SPA",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.7603606,
+   "lon": 22.5656902,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Manifest Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.7003221,
+   "lon": 22.3815002,
+   "distance_km": 41.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 136,
+ "stations": [
+  {
+   "name": "Καλαμάτα",
+   "name_en": "Kalamata",
+   "lat": 37.0377083,
+   "lon": 22.1091204,
+   "distance_km": 23.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Ασπρόχωμα",
+   "name_en": null,
+   "lat": 37.0576548,
+   "lon": 22.0637897,
+   "distance_km": 27.0,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Λιμάνι Καλαμάτας",
+   "name_en": "Kalamata Port",
+   "lat": 37.0260129,
+   "lon": 22.1104407,
+   "distance_km": 23.4,
+   "operator": null
+  },
+  {
+   "name": "Γύθειο",
+   "name_en": "Gytheio",
+   "lat": 36.759581,
+   "lon": 22.5697688,
+   "distance_km": 39.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:49:41Z"
 }

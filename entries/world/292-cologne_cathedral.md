@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "292"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(ii)(iv)"
 lat: 50.941388888
 lon: 6.958333333
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 科隆大教堂 / Cologne Cathedral
@@ -23,25 +23,25 @@ updated_at: "2026-11-12T11:30:12Z"
 
 ## 图片 / Images
 
-![2024-07-20-ColognePride Regenbogen-5959.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/1280px-2024-07-20-ColognePride_Regenbogen-5959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Kölner Dom von Osten.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6lner%20Dom%20von%20Osten.jpg?width=1280)
 
-*2024-07-20-ColognePride Regenbogen-5959.jpg · Superbass · CC BY-SA 4.0*
+*Kölner Dom von Osten.jpg · see Wikimedia Commons file page*
 
-![2025-06-10-Dom Burgmauer-3409.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2025-06-10-Dom_Burgmauer-3409.jpg/1280px-2025-06-10-Dom_Burgmauer-3409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![De-Kölner Dom.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*2025-06-10-Dom Burgmauer-3409.jpg · Superbass · CC BY-SA 4.0*
+*De-Kölner Dom.ogg · Jeuwre · CC BY-SA 4.0*
 
-![Kranhäuser Cologne, April 2018 -01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/1280px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![2026-05-25-Ringeltaube vor dem Kölner Dom-068873.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2026-05-25-Ringeltaube_vor_dem_K%C3%B6lner_Dom-068873.jpg/1280px-2026-05-25-Ringeltaube_vor_dem_K%C3%B6lner_Dom-068873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kranhäuser Cologne, April 2018 -01.jpg · Martin Falbisoner · CC BY-SA 4.0*
+*2026-05-25-Ringeltaube vor dem Kölner Dom-068873.jpg · Superbass · CC BY-SA 4.0*
 
-![Kölner Dom nachts 2013.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/1280px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![2026-06-22-Magenta Häuser-069330.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2026-06-22-Magenta_H%C3%A4user-069330.jpg/1280px-2026-06-22-Magenta_H%C3%A4user-069330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kölner Dom nachts 2013.jpg · Thomas Wolf , www.foto-tw.de · CC BY-SA 3.0 de*
+*2026-06-22-Magenta Häuser-069330.jpg · Superbass · CC BY-SA 4.0*
 
-![Cologne Cathedral](https://whc.unesco.org/uploads/sites/site_292.jpg)
+![August-Sander-Park 2026 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/August-Sander-Park_2026_01.jpg/1280px-August-Sander-Park_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cologne Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*August-Sander-Park 2026 01.jpg · Nicola · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -64,7 +64,27 @@ Der Kölner Dom (offiziell Hohe Domkirche zu Köln) ist eine römisch-katholisch
 - ✈ **Cologne Bonn Airport (CGN)** — 15.4 km
 - ✈ **Düsseldorf Airport (DUS)** — 41.0 km
 - ✈ **Dortmund Airport (DTM)** — 78.7 km
+- 🚉 **Köln Hauptbahnhof** — 0.2 km
+- 🚉 **Köln Hansaring** — 0.9 km
+- 🚉 **Köln Messe/Deutz (tief)** — 1.1 km
+- 🚉 **Köln Messe/Deutz** — 1.2 km
+- 🚉 **Tanzbrunnen** — 1.2 km
+- ⛴ **Deutz** — 2.2 km
+- ⛴ **Deutzer Hafen** — 2.3 km
+- ⛴ **Mülheimer Hafen** — 2.6 km
+- ⛴ **Hafenbecken 4** — 4.0 km
+- ⛴ **Hafenbecken 3** — 4.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7806.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hyatt Regency Cologne** — 0.8 km — star — 5★ · Hyatt Regency
+- **Pullman Cologne** — 0.9 km — star — 5★ · Pullman
+- **Hyatt Regency Dusseldorf** — 33.8 km — star — 5★ · Hyatt Regency
+- **Breidenbacher Hof** — 34.0 km — star — 5★
+- **Steigenberger Parkhotel** — 34.1 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

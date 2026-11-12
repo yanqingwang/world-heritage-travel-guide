@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1077"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2003"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 36.604722222
 lon: 47.234166666
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 塔赫特苏莱曼 / Takht-e Soleyman
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Takhte Soleyman (5).jpg · see Wikimedia Commons file page*
 
-![Takht-e Soleyman](https://whc.unesco.org/uploads/sites/site_1077.jpg)
+![040313-IMG 7256-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/040313-IMG_7256-2.jpg/1280px-040313-IMG_7256-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Takht-e Soleyman · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*040313-IMG 7256-2.jpg · Safa.daneshvar · CC0*
+
+![040313-IMG 7261-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/040313-IMG_7261-2.jpg/1280px-040313-IMG_7261-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*040313-IMG 7261-2.jpg · Safa.daneshvar · CC0*
+
+![040313-IMG 7262-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/040313-IMG_7262-2.jpg/1280px-040313-IMG_7262-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*040313-IMG 7262-2.jpg · Safa.daneshvar · CC0*
+
+![040313-IMG 7263-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/040313-IMG_7263-2.jpg/1280px-040313-IMG_7263-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*040313-IMG 7263-2.jpg · Safa.daneshvar · CC0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,14 @@ The archaeological site of Takht-e Soleyman, in north-western Iran, is situated 
 - ✈ **Tabriz International Airport (TBZ)** — 191.6 km
 - ✈ **Jalal Talabani International Airport (ISU)** — 207.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5990.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Belgheys guesthouse** — 1.2 km — hotel
+- **هتل رنجی** — 24.4 km — hotel — Ranji Hotel
+- **Pension** — 25.3 km — hotel — Pension
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

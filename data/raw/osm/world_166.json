@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Harbour Rocks Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.8596472,
+   "lon": 151.2081453,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": -33.8616794,
+   "lon": 151.207658,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SKYE Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": "SKYE",
+   "lat": -33.8683284,
+   "lon": 151.2048612,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Sydney",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -33.8718174,
+   "lon": 151.2076057,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "InterContinental Sydney Double Bay",
+   "name_en": null,
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": -33.876011,
+   "lon": 151.2432778,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 290,
+ "stations": [
+  {
+   "name": "Circular Quay",
+   "name_en": "Circular Quay",
+   "lat": -33.8613593,
+   "lon": 151.2107193,
+   "distance_km": 0.6,
+   "operator": "Sydney Trains"
+  },
+  {
+   "name": "Milsons Point",
+   "name_en": null,
+   "lat": -33.8458627,
+   "lon": 151.2117909,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "Wynyard",
+   "name_en": null,
+   "lat": -33.8659903,
+   "lon": 151.2058096,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "North Sydney",
+   "name_en": null,
+   "lat": -33.8412146,
+   "lon": 151.2074639,
+   "distance_km": 1.9,
+   "operator": null
+  },
+  {
+   "name": "Town Hall",
+   "name_en": null,
+   "lat": -33.873567,
+   "lon": 151.2068498,
+   "distance_km": 2.0,
+   "operator": null
+  },
+  {
+   "name": "Kings Cross",
+   "name_en": null,
+   "lat": -33.8744874,
+   "lon": 151.2222308,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "Pyrmont Bay",
+   "name_en": null,
+   "lat": -33.8694257,
+   "lon": 151.1975783,
+   "distance_km": 2.1,
+   "operator": "Transdev Sydney Light Rail"
+  },
+  {
+   "name": "The Star",
+   "name_en": null,
+   "lat": -33.8676611,
+   "lon": 151.1952923,
+   "distance_km": 2.2,
+   "operator": "Transdev Sydney Light Rail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Circular Quay, Eastern Pontoon",
+   "name_en": null,
+   "lat": -33.8600768,
+   "lon": 151.2125511,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Circular Quay 4B",
+   "name_en": null,
+   "lat": -33.860582,
+   "lon": 151.2109195,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Circular Quay 3B",
+   "name_en": null,
+   "lat": -33.8606896,
+   "lon": 151.2114007,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Circular Quay 2B",
+   "name_en": null,
+   "lat": -33.8606782,
+   "lon": 151.2119493,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Circular Quay 2A",
+   "name_en": null,
+   "lat": -33.8606756,
+   "lon": 151.2121354,
+   "distance_km": 0.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:10Z"
+}

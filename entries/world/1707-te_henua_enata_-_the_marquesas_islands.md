@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1707"
-tier: "full"
+tier: "basic"
 category: "Mixed"
 year: "2024"
 criteria: "(iii)(vi)(vii)(ix)(x)"
 lat: -8.9
 lon: -139.6
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 人类之地——马克萨斯群岛 / Te Henua Enata – The Marquesas Islands
@@ -65,12 +65,6 @@ Situé dans l’océan Pacifique Sud, ce bien mixte en série constitue un témo
 - ✈ **Nuku Hiva Airport (NHV)** — 70.1 km
 - ✈ **Ua Pou Airport (UAP)** — 72.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11822.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Mana Atapu** — 3.7 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

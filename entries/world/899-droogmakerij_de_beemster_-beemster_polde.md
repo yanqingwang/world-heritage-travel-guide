@@ -8,13 +8,13 @@ country: "NL"
 country_zh: "荷兰王国"
 country_en: "Kingdom of the Netherlands"
 unesco_id: "899"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(i)(ii)(iv)"
 lat: 52.55
 lon: 4.9278
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 比姆斯特迂田 / Droogmakerij de Beemster (Beemster Polder)
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:18Z"
 
 *West-Beemster, Jisperweg 29.jpg · see Wikimedia Commons file page*
 
-![Droogmakerij de Beemster (Beemster Polder)](https://whc.unesco.org/uploads/sites/site_899.jpg)
+![Beemster flag.png](https://upload.wikimedia.org/wikipedia/commons/0/05/Beemster_flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Droogmakerij de Beemster (Beemster Polder) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Beemster flag.png · Quistnix · Public domain*
+
+![381 Beemster.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*381 Beemster.ogg · Quichot · CC BY-SA 3.0*
+
+![Atlas Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland, De Beemster.jpeg](https://upload.wikimedia.org/wikipedia/commons/1/17/Atlas_Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland%2C_De_Beemster.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atlas Schoemaker-WESTFRIESLAND-DEEL1-128-Noord-Holland, De Beemster.jpeg · Andries Schoemaker / Gerrit Schoemaker / Cornelis Pronk / Abraham de Haen · Public domain*
+
+![Atlas Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland, De Beemster.jpeg](https://upload.wikimedia.org/wikipedia/commons/2/2d/Atlas_Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland%2C_De_Beemster.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atlas Schoemaker-WESTFRIESLAND-DEEL1-129-Noord-Holland, De Beemster.jpeg · Andries Schoemaker / Gerrit Schoemaker / Cornelis Pronk / Abraham de Haen · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ De Beemster () is een droogmakerij (polder) en voormalige gemeente in de Nederla
 - ✈ **Amsterdam Airport Schiphol (AMS)** — 29.1 km
 - ✈ **Rotterdam The Hague Airport (RTM)** — 73.9 km
 - ✈ **Eindhoven Airport (EIN)** — 126.1 km
+- 🚉 **Purmerend Overwhere** — 5.1 km
+- 🚉 **Purmerend** — 5.4 km
+- 🚉 **Purmerend Weidevenne** — 6.0 km
+- 🚉 **Wormerveer** — 11.3 km
+- 🚉 **Zaandijk Zaanse Schans** — 12.2 km
+- ⛴ **Landsmeer** — 9.7 km
+- ⛴ **Ilpendam** — 9.7 km
+- ⛴ **Molletjesveer** — 11.0 km
+- ⛴ **Volendam** — 11.8 km
+- ⛴ **Veerbootstation Zuidschermer** — 12.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7827.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **NH Collection Amsterdam Barbizon Palace** — 19.4 km — star — 5★ · NH Collection Hotels
+- **Amrath Hotel** — 19.6 km — star — 5★
+- **Anantara Grand Hotel Krasnapolsky** — 19.8 km — star — 5★ · Anantara
+- **Hotel Twenty Seven** — 19.9 km — star — 5★
+- **The Grand** — 20.0 km — star — 5★ · Sofitel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

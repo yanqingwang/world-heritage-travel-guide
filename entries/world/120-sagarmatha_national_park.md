@@ -8,13 +8,13 @@ country: "NP"
 country_zh: "尼泊尔"
 country_en: "Nepal"
 unesco_id: "120"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1979"
 criteria: "(vii)"
 lat: 27.891069
 lon: 86.693033
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 萨加玛塔国家公园 / Sagarmatha National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:11Z"
 
 *Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg · see Wikimedia Commons file page*
 
-![Sagarmatha National Park](https://whc.unesco.org/uploads/sites/site_120.jpg)
+![LocMap Sagarmatha.png](https://upload.wikimedia.org/wikipedia/commons/b/b7/LocMap_Sagarmatha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Sagarmatha National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*LocMap Sagarmatha.png · Gus , · Public domain*
+
+![120327-021 Mong La.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/120327-021_Mong_La.jpg/1280px-120327-021_Mong_La.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*120327-021 Mong La.jpg · Faj2323 · CC BY-SA 4.0*
+
+![120405-018 Ama Dablam, Phortse-Pangboche.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/120405-018_Ama_Dablam%2C_Phortse-Pangboche.jpg/1280px-120405-018_Ama_Dablam%2C_Phortse-Pangboche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*120405-018 Ama Dablam, Phortse-Pangboche.jpg · Faj2323 · CC BY-SA 4.0*
+
+![120408 Pheriche Pano 4k.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/120408_Pheriche_Pano_4k.jpg/1280px-120408_Pheriche_Pano_4k.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*120408 Pheriche Pano 4k.jpg · Faj2323 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep val
 - ✈ **Shigatse Tingri Airport (DDR)** — 80.0 km
 - ✈ **Tumling Tar Airport (TMI)** — 80.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3061.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Snowland Lodge & Restaurant Khare** — 24.4 km — hotel — Snowland Lodge & Restaurant Khare
+- **绒布旅馆** — 36.3 km — hotel
+- **Chiwang ABC lodge and restaurant** — 40.7 km — hotel — Chiwang ABC lodge and restaurant
+- **Surmuche Hotel** — 42.7 km — hotel — Surmuche Hotel
+- **Hotel Dream Lodge & Restaurant** — 43.1 km — hotel — Hotel Dream Lodge & Restaurant
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

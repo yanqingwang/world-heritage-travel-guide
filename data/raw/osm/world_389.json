@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Горски",
+   "name_en": null,
+   "stars": 5,
+   "brand": "MK Resorts",
+   "lat": 43.2843641,
+   "lon": 20.8086034,
+   "distance_km": 31.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Viceroy Kopaonik Serbia",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Viceroy Hotel Group",
+   "lat": 43.2847196,
+   "lon": 20.8104973,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Небеске столице 1",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2827406,
+   "lon": 20.813036,
+   "distance_km": 32.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Небеске столице 2",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2823272,
+   "lon": 20.8142368,
+   "distance_km": 32.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Парк",
+   "name_en": "Hotel Park",
+   "stars": 4,
+   "brand": null,
+   "lat": 43.6189366,
+   "lon": 20.8932095,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 90,
+ "stations": [
+  {
+   "name": "Ушће",
+   "name_en": "Usce",
+   "lat": 43.4654872,
+   "lon": 20.6243013,
+   "distance_km": 7.8,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Полумир",
+   "name_en": "Polumir",
+   "lat": 43.5329006,
+   "lon": 20.6099163,
+   "distance_km": 8.1,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Јошаничка Бања",
+   "name_en": "Josanicka Banja",
+   "lat": 43.410719,
+   "lon": 20.6589489,
+   "distance_km": 13.3,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Пискања",
+   "name_en": "Piskanja",
+   "lat": 43.3887883,
+   "lon": 20.6465043,
+   "distance_km": 14.3,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Бревник",
+   "name_en": "Brevnik",
+   "lat": 43.355865,
+   "lon": 20.6450854,
+   "distance_km": 17.2,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Богутовачка Бања",
+   "name_en": "Bogutovacka Banja",
+   "lat": 43.6527791,
+   "lon": 20.5575185,
+   "distance_km": 18.6,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Рашка",
+   "name_en": "Raska",
+   "lat": 43.2907918,
+   "lon": 20.616678,
+   "distance_km": 22.8,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Матарушка Бања",
+   "name_en": "Mataruska Banja",
+   "lat": 43.6969848,
+   "lon": 20.6016322,
+   "distance_km": 24.1,
+   "operator": "Инфраструктура железнице Србије"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ледена Пећина Сјеница",
+   "name_en": "Ledena Pecina Sjenica",
+   "lat": 43.3363232,
+   "lon": 19.9872411,
+   "distance_km": 47.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:44Z"
+}

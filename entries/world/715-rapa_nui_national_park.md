@@ -8,13 +8,13 @@ country: "CL"
 country_zh: "智利"
 country_en: "Chile"
 unesco_id: "715"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(i)(iii)(v)"
 lat: -27.072877
 lon: -109.348579
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 拉帕努伊国家公园 / Rapa Nui National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:16Z"
 
 *Osterinsel Krater-Rano Kao.jpg · see Wikimedia Commons file page*
 
-![Rapa Nui National Park](https://whc.unesco.org/uploads/sites/site_715.jpg)
+![Aldea Rapa Nui.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aldea_Rapa_Nui.jpg/1280px-Aldea_Rapa_Nui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rapa Nui National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aldea Rapa Nui.jpg · Kenov66 · CC BY-SA 4.0*
+
+![Caballos terevaka.jpg](https://upload.wikimedia.org/wikipedia/commons/2/27/Caballos_terevaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Caballos terevaka.jpg · Yayaymane · CC BY-SA 4.0*
+
+![Costa al atardecer.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Costa_al_atardecer.jpg/1280px-Costa_al_atardecer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Costa al atardecer.jpg · Kenov66 · CC BY-SA 4.0*
+
+![LocMap of WH Rapa Nui NP.png](https://upload.wikimedia.org/wikipedia/commons/b/bb/LocMap_of_WH_Rapa_Nui_NP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Rapa Nui NP.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,18 @@ Rapa Nui –nombre indí­gena de la Isla de Pascua– ofrece el testimonio de u
 ## 交通 / Transport
 
 - ✈ **Mataveri International Airport (IPC)** — 12.5 km
+- ⛴ **Cruise Berth for Tender** — 12.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **15574.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Haŋaroa** — 12.4 km — star — 5★
+- **Explora Rapa Nui** — 7.7 km — hotel
+- **Hotel Altiplánico** — 9.5 km — hotel
+- **Vai Moana** — 10.9 km — hotel
+- **Poike** — 11.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

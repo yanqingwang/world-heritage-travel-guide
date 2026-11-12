@@ -8,13 +8,13 @@ country: "HR"
 country_zh: "克罗地亚"
 country_en: "Croatia"
 unesco_id: "1533"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(iii)(iv)"
 lat: 45.703333333
 lon: 9.663611111
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 15至17世纪威尼斯共和国防御工事 / Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:23Z"
 ![Cinta muraria di Palmanova.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Cinta%20muraria%20di%20Palmanova.jpg?width=1280)
 
 *Cinta muraria di Palmanova.jpg · see Wikimedia Commons file page*
+
+![Opere di difesa veneziane banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Opere_di_difesa_veneziane_banner.jpg/1280px-Opere_di_difesa_veneziane_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Opere di difesa veneziane banner.jpg · Davide Mauro · CC BY-SA 4.0*
 
 ![Venetian Works of Defence between the 16th and 17th Centuries: <em>Stato da Terra</em> – Western <em>Stato da Mar</em>](https://whc.unesco.org/uploads/sites/site_1533.jpg)
 
@@ -52,7 +56,27 @@ Mletačke utvrde je zajednički naziv za fortifikacijske građevine koje je izgr
 - ✈ **Il Caravaggio International Airport (BGY)** — 5.2 km
 - ✈ **Milano Linate Airport (LIN)** — 41.6 km
 - ✈ **Brescia Gabriele d'Annunzio Airport (VBS)** — 60.2 km
+- 🚉 **Bergamo Alta** — 0.1 km
+- 🚉 **Bergamo Bassa** — 0.3 km
+- 🚉 **Colle Aperto** — 0.6 km
+- 🚉 **San Vigilio** — 1.1 km
+- 🚉 **BG Crocefisso** — 1.4 km
+- ⛴ **Concesa** — 15.4 km
+- ⛴ **Imbersago** — 16.1 km
+- ⛴ **Villa d'Adda** — 16.1 km
+- ⛴ **Casa del custode delle acque** — 17.6 km
+- ⛴ **Sarnico** — 23.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8030.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Piazza Lorenzo Mascheroni** — 0.4 km — star — 5★
+- **Bianca Relais** — 26.2 km — star — 5★
+- **Excelsior Hotel Gallia** — 43.3 km — star — 5★
+- **Villa Lario** — 43.9 km — star — 5★
+- **Hotel Melià Il Duca** — 44.1 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

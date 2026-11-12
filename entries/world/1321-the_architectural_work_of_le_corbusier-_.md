@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "1321"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2016"
 criteria: "(i)(ii)(vi)"
 lat: 46.468414
 lon: 6.829336
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 勒·柯布西耶的建筑作品 / The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement
@@ -64,7 +64,27 @@ Repartidos en siete países, los 17 sitios integrantes de este bien del patrimon
 - ✈ **Geneva International Airport (GVA)** — 60.9 km
 - ✈ **Bern Airport (BRN)** — 71.1 km
 - ✈ **Annecy Meythet airport (NCY)** — 82.2 km
+- 🚉 **Vevey** — 1.2 km
+- 🚉 **Vevey MVR** — 1.2 km
+- 🚉 **Saint-Légier-Gare** — 3.3 km
+- 🚉 **Blonay** — 5.1 km
+- 🚉 **Blonay BC** — 5.1 km
+- ⛴ **Vevey-Marché** — 1.4 km
+- ⛴ **Vevey-La Tour** — 2.0 km
+- ⛴ **Rivaz-Saint-Saphorin** — 3.5 km
+- ⛴ **Clarens** — 6.0 km
+- ⛴ **Montreux** — 7.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8200.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Le Mirador Resort & Spa** — 1.5 km — star — 5★
+- **Hôtel des Trois Couronnes** — 1.8 km — star — 5★
+- **Lausanne Palace** — 16.2 km — star — 5★
+- **Hôtel Royal** — 19.7 km — star — 5★
+- **Chalet RoyAlp Hôtel & Spa** — 26.4 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

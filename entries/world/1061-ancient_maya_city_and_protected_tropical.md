@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1061"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "2002"
 criteria: "(i)(ii)(iii)(iv)(ix)(x)"
 lat: 18.105
 lon: -89.810555555
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 卡拉克穆尔古玛雅城与坎佩切热带森林保护区 / Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *In Calakmul, Mexico (8726963632).jpg · see Wikimedia Commons file page*
 
-![Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche](https://whc.unesco.org/uploads/sites/site_1061.jpg)
+![Aj waaj, Maya woman offering a plate of tamales, Chiik Nahb murals, Mexico.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Aj_waaj%2C_Maya_woman_offering_a_plate_of_tamales%2C_Chiik_Nahb_murals%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aj waaj, Maya woman offering a plate of tamales, Chiik Nahb murals, Mexico.jpg · Lugares INAH · CC BY-SA 4.0*
+
+![Ajuar funerario Calakmul Museo de Arquitectura Maya Baluarte de la Soledad.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ajuar_funerario_Calakmul_Museo_de_Arquitectura_Maya_Baluarte_de_la_Soledad.jpg/1280px-Ajuar_funerario_Calakmul_Museo_de_Arquitectura_Maya_Baluarte_de_la_Soledad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ajuar funerario Calakmul Museo de Arquitectura Maya Baluarte de la Soledad.jpg · Mario E. Fuente Cid · CC BY 4.0*
+
+![Bowl, Calakmul, Early Classic, 250-600 AD.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bowl%2C_Calakmul%2C_Early_Classic%2C_250-600_AD.jpg/1280px-Bowl%2C_Calakmul%2C_Early_Classic%2C_250-600_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bowl, Calakmul, Early Classic, 250-600 AD.jpg · Gary Lee Todd, Ph.D. · CC0*
+
+![Calacmul.png](https://upload.wikimedia.org/wikipedia/commons/3/3d/Calacmul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Calacmul.png · Zykasaa at Lithuanian Wikipedia · Public domain*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,15 @@ Situado en el sector central y meridional de la Península de Yucatán, al sur d
 - ✈ **Mundo Maya International Airport (FRS)** — 132.6 km
 - ✈ **Corozal Airport (CZH)** — 150.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13045.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Puerta Calakmul** — 48.6 km — star — 3★
+- **Yaax´Che Camp** — 43.5 km — star
+- **Hotel Mundo Maya - Calakmul** — 11.0 km — hotel
+- **Cabanas Calakmul** — 49.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

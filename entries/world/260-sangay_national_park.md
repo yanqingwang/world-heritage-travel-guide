@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -1.833333333
 lon: -78.333333333
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 桑盖国家公园 / Sangay National Park

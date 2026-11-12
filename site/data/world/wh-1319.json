@@ -2,9 +2,9 @@
  "id": "wh-1319",
  "unesco_id": "1319",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 317,
- "popularity_score": 28651,
+ "tier": "full",
+ "popularity_rank": 294,
+ "popularity_score": 25998,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1319.jpg",
-   "title": "Royal Tombs of the Joseon Dynasty",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1319",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bia_%C4%91%C3%A1_Hu%E1%BB%87_l%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bia đá Huệ lăng.webp",
+   "author": "Bebevehe",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bia_%C4%91%C3%A1_Hu%E1%BB%87_l%C4%83ng.webp"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hu%E1%BB%87_l%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Huệ lăng.webp",
+   "author": "Bebevehe",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hu%E1%BB%87_l%C4%83ng.webp"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hu%E1%BB%87_L%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Huệ Lăng.webp",
+   "author": "Bebevehe",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hu%E1%BB%87_L%C4%83ng.webp"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_royal_tomb_structure.svg/1280px-Korean_royal_tomb_structure.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Korean royal tomb structure.svg",
+   "author": "Teemeah",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Korean_royal_tomb_structure.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1319",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 51.1,
   "distance_beijing_km": 1028.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "단양나루",
+    "name_en": null,
+    "lat": 36.9851439,
+    "lon": 128.3698426,
+    "distance_km": 24.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "영월역",
+    "name_en": "Yeongwol",
+    "lat": 37.1821719,
+    "lon": 128.4809263,
+    "distance_km": 3.0,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "청령포",
+    "name_en": "Cheongnyeongpo",
+    "lat": 37.1706749,
+    "lon": 128.4496819,
+    "distance_km": 3.0,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "연당",
+    "name_en": "Yeondang",
+    "lat": 37.1849921,
+    "lon": 128.3960793,
+    "distance_km": 5.2,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "탄부",
+    "name_en": "Tanbu",
+    "lat": 37.1833577,
+    "lon": 128.5091641,
+    "distance_km": 5.2,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "연하",
+    "name_en": "Yeonha",
+    "lat": 37.1907577,
+    "lon": 128.5552232,
+    "distance_km": 9.1,
+    "operator": "한국철도공사"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "휘닉스호텔",
+   "name_en": "Phoenix Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 37.5823774,
+   "lon": 128.3268236,
+   "distance_km": 44.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "호텔인터불고",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.3324086,
+   "lon": 127.9744989,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Danyang Tourist Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 36.9819932,
+   "lon": 128.3484112,
+   "distance_km": 25.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "원주시티호텔",
+   "name_en": "Wonju Citi Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 37.3265794,
+   "lon": 127.985909,
+   "distance_km": 43.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "오키드호텔",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.3467232,
+   "lon": 127.9289677,
+   "distance_km": 49.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KR",
   "country_zh": "大韩民国",
@@ -175,5 +305,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

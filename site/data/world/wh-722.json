@@ -2,9 +2,9 @@
  "id": "wh-722",
  "unesco_id": "722",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 329,
- "popularity_score": 26660,
+ "tier": "full",
+ "popularity_rank": 305,
+ "popularity_score": 24467,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_722.jpg",
-   "title": "Rice Terraces of the Philippine Cordilleras",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/722",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Barlig_Rice_Terraces.jpg/1280px-Barlig_Rice_Terraces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Barlig Rice Terraces.jpg",
+   "author": "Tyrel Fang-asan Faniswa",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Barlig_Rice_Terraces.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Batad_Rice_Terraces_1.jpg/1280px-Batad_Rice_Terraces_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Batad Rice Terraces 1.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Batad_Rice_Terraces_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Batad_Rice_Terraces_2.jpg/1280px-Batad_Rice_Terraces_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Batad Rice Terraces 2.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Batad_Rice_Terraces_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Batad_Rice_Terraces_3.jpg/1280px-Batad_Rice_Terraces_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Batad Rice Terraces 3.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Batad_Rice_Terraces_3.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/722",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Banaue Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9066402,
+   "lon": 121.0652015,
+   "distance_km": 8.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Banaue Evergreen Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9072003,
+   "lon": 121.0633195,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "People's Lodge and Restaurant, Meine Unterkunft",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9121897,
+   "lon": 121.0609334,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greenview",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9122487,
+   "lon": 121.0607993,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Uyami's Green View Lodge",
+   "name_en": "Uyami's Green View Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 16.9119414,
+   "lon": 121.0606743,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PH",
   "country_zh": "菲律宾",
@@ -178,5 +258,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:16Z"
+ "updated_at": "2026-11-12T11:55:29Z"
 }

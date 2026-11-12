@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1456"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 30.595277777
 lon: 61.331944444
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 被焚之城 / Shahr-i Sokhta
@@ -27,21 +27,9 @@ updated_at: "2026-11-12T11:30:22Z"
 
 *کاخ سوخته شهر سوحته.jpg · see Wikimedia Commons file page*
 
-![C20R0997.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/C20R0997.jpg/1280px-C20R0997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Shahr-i Sokhta](https://whc.unesco.org/uploads/sites/site_1456.jpg)
 
-*C20R0997.jpg · Amirkhan33 · CC BY-SA 4.0*
-
-![C20R1002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/1280px-C20R1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*C20R1002.jpg · Amirkhan33 · CC BY-SA 4.0*
-
-![Collar de la Edad del Bronce (Shahr-i Sokhta, Irán) - MARQ.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg/1280px-Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Collar de la Edad del Bronce (Shahr-i Sokhta, Irán) - MARQ.jpg · Dorieo · CC BY-SA 4.0*
-
-![Keramikgefäß aus Iran, Schahr-e Suchte, Nekropole, 2800-2300 v.C. (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg/1280px-Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Keramikgefäß aus Iran, Schahr-e Suchte, Nekropole, 2800-2300 v.C. (1).jpg · NearEMPTiness · CC BY-SA 4.0*
+*Shahr-i Sokhta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -67,12 +55,6 @@ Shahr-i Sokhta, meaning ‘Burnt City’, is located at the junction of Bronze A
 - ✈ **Birjand International Airport (XBJ)** — 321.0 km
 - ✈ **Bam Airport (BXR)** — 324.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5135.1 km**
-
-## 附近酒店 / Nearby hotels
-
-- **هتل آرام** — 47.9 km — hotel — Aram Hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

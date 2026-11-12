@@ -8,13 +8,13 @@ country: "ML"
 country_zh: "马里"
 country_en: "Mali"
 unesco_id: "119"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(ii)(iv)(v)"
 lat: 16.77348
 lon: -3.00742
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 廷巴克图 / Timbuktu
@@ -64,7 +64,19 @@ Timbuktu ye Mali ka dugu ye. A be Jeliba dala.
 - ✈ **Tombouktou Airport (TOM)** — 4.8 km
 - ✈ **Mopti Airport (MZI)** — 276.3 km
 - ✈ **Gao International Airport (GAQ)** — 325.3 km
+- ⛴ **Kabara** — 8.0 km
+- ⛴ **Koriomé** — 12.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11138.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel La Maison** — 0.3 km — hotel
+- **Hotel La Colombe 2** — 0.4 km — hotel
+- **Hotel La Colombe 3** — 0.4 km — hotel
+- **Hotel Bouctou Annex** — 0.5 km — hotel
+- **Hotel Bouctou** — 0.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

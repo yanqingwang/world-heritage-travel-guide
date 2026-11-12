@@ -2,9 +2,9 @@
  "id": "wh-1402",
  "unesco_id": "1402",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 427,
- "popularity_score": 18173,
+ "tier": "full",
+ "popularity_rank": 400,
+ "popularity_score": 16424,
  "country": "QA",
  "country_zh": "卡塔尔",
  "country_en": "Qatar",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Ruins%20in%20Zubarah%20on%20a%20cloudy%20day.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2_-_Al_Zubarah_archaeological_fort.jpg/1280px-2_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2 - Al Zubarah archaeological fort.jpg",
+   "author": "Mr fahad.k",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2_-_Al_Zubarah_archaeological_fort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/4_-_Al_Zubarah_archaeological_fort.jpg/1280px-4_-_Al_Zubarah_archaeological_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "4 - Al Zubarah archaeological fort.jpg",
+   "author": "Mr fahad.k",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:4_-_Al_Zubarah_archaeological_fort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG/1280px-Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qatar, Zubarah (10), ruined city.JPG",
+   "author": "Vincent van Zeijst",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Qatar%2C_Zubarah_%2810%29%2C_ruined_city.JPG"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1402.jpg",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Fuwairit Kite Beach, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 26.0187143,
+   "lon": 51.3840464,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ibis",
+   "name_en": "ibis",
+   "stars": null,
+   "brand": null,
+   "lat": 26.206277,
+   "lon": 50.6606652,
+   "distance_km": 44.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Hotel Juffair",
+   "name_en": "Best Western Hotel Juffair",
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 26.2129643,
+   "lon": 50.6051999,
+   "distance_km": 49.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Bahrain",
+   "name_en": "Hilton Bahrain",
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 26.2235104,
+   "lon": 50.6092945,
+   "distance_km": 49.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Olive",
+   "name_en": "Best Western Plus Olive",
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 26.2195368,
+   "lon": 50.6062245,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "QA",
   "country_zh": "卡塔尔",
@@ -173,5 +253,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

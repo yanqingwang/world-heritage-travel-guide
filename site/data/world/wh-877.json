@@ -2,9 +2,9 @@
  "id": "wh-877",
  "unesco_id": "877",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 345,
- "popularity_score": 24852,
+ "tier": "full",
+ "popularity_rank": 324,
+ "popularity_score": 22820,
  "country": "NZ",
  "country_zh": "新西兰",
  "country_en": "New Zealand",
@@ -51,6 +51,22 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Campbell%20Island%20Landscape.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Karta_NZ_Subantarctic_islands.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Karta NZ Subantarctic islands.PNG",
+   "author": "Hobe / Holger Behr",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karta_NZ_Subantarctic_islands.PNG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/New_Zealand_Subantarctic_Islands.svg/1280px-New_Zealand_Subantarctic_Islands.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "New Zealand Subantarctic Islands.svg",
+   "author": "Kikos",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Zealand_Subantarctic_Islands.svg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_877.jpg",
@@ -169,5 +185,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:31Z"
 }

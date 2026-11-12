@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "Sheraton Alep",
+   "name_en": "Sheraton Aleppo",
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": 36.2050158,
+   "lon": 37.1541183,
+   "distance_km": 2.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Al Mansouryia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.1956107,
+   "lon": 37.1558517,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الخدمات",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.1992765,
+   "lon": 37.1600563,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coral Julia Dumna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2013122,
+   "lon": 37.1560216,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق ميراج",
+   "name_en": "Mirage Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.2020312,
+   "lon": 37.1505901,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 34,
+ "stations": [
+  {
+   "name": "الوضيحي",
+   "name_en": "Wudeihi",
+   "lat": 36.1644891,
+   "lon": 37.1427053,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "حلب",
+   "name_en": "Aleppo",
+   "lat": 36.214165,
+   "lon": 37.1476467,
+   "distance_km": 3.4,
+   "operator": null
+  },
+  {
+   "name": "تل رفعت",
+   "name_en": null,
+   "lat": 36.4732157,
+   "lon": 37.0889203,
+   "distance_km": 32.7,
+   "operator": null
+  },
+  {
+   "name": "محطة تلاجين",
+   "name_en": "Mahattat Tallajin",
+   "lat": 35.8334679,
+   "lon": 37.0339671,
+   "distance_km": 40.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:44:50Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-505",
  "unesco_id": "505",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 337,
- "popularity_score": 25877,
+ "tier": "full",
+ "popularity_rank": 314,
+ "popularity_score": 23431,
  "country": "PT",
  "country_zh": "葡萄牙",
  "country_en": "Portugal",
@@ -100,10 +100,132 @@
   ],
   "nearest_airport_km": 86.4,
   "distance_beijing_km": 9656.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Peniche",
+    "name_en": null,
+    "lat": 39.3527374,
+    "lon": -9.3781348,
+    "distance_km": 40.6,
+    "operator": "Viamar"
+   },
+   {
+    "name": "Berlengas",
+    "name_en": null,
+    "lat": 39.4141981,
+    "lon": -9.506526,
+    "distance_km": 47.7,
+    "operator": null
+   },
+   {
+    "name": "Berlengas Grande",
+    "name_en": null,
+    "lat": 39.4141486,
+    "lon": -9.5066578,
+    "distance_km": 47.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Valado",
+    "name_en": null,
+    "lat": 39.5844462,
+    "lon": -9.017629,
+    "distance_km": 5.2,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Pataias",
+    "name_en": null,
+    "lat": 39.6555346,
+    "lon": -8.984922,
+    "distance_km": 11.9,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "São Martinho do Porto",
+    "name_en": null,
+    "lat": 39.5080099,
+    "lon": -9.1331749,
+    "distance_km": 14.0,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Martingança",
+    "name_en": null,
+    "lat": 39.6871912,
+    "lon": -8.9459076,
+    "distance_km": 15.7,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Caldas da Rainha",
+    "name_en": null,
+    "lat": 39.4067465,
+    "lon": -9.1402586,
+    "distance_km": 21.0,
+    "operator": "Infraestruturas de Portugal"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Montebelo Mosteiro de Alcobaça Historic Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5485506,
+   "lon": -8.9781708,
+   "distance_km": 0.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Real Abadia, Congress & Spa Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.5359146,
+   "lon": -8.9608191,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Praia",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.5989425,
+   "lon": -9.0708451,
+   "distance_km": 9.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Haven Nature Hotel and Villas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6593367,
+   "lon": -8.8353172,
+   "distance_km": 17.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Lis Batalha",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6575165,
+   "lon": -8.8263375,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PT",
   "country_zh": "葡萄牙",
@@ -175,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

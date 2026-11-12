@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "旅館ますや",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.0955254,
+   "lon": 132.34684,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Sky Hotel",
+   "name_en": "New Sky Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.1951756,
+   "lon": 132.5044392,
+   "distance_km": 11.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "スカイホテル大田",
+   "name_en": "Sky Hotel Ohda",
+   "stars": null,
+   "brand": null,
+   "lat": 35.1974003,
+   "lon": 132.5046167,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "スーパーホテル江津駅前",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.0144762,
+   "lon": 132.2232513,
+   "distance_km": 22.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "風の国",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.9231418,
+   "lon": 132.2658523,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 36,
+ "stations": [
+  {
+   "name": "馬路",
+   "name_en": "Maji",
+   "lat": 35.1285664,
+   "lon": 132.3881677,
+   "distance_km": 5.1,
+   "operator": null
+  },
+  {
+   "name": "湯里",
+   "name_en": "Yusato",
+   "lat": 35.1064397,
+   "lon": 132.3755506,
+   "distance_km": 5.6,
+   "operator": null
+  },
+  {
+   "name": "仁万",
+   "name_en": "Nima",
+   "lat": 35.1510621,
+   "lon": 132.4035483,
+   "distance_km": 5.8,
+   "operator": null
+  },
+  {
+   "name": "温泉津",
+   "name_en": "Yunotsu",
+   "lat": 35.0913125,
+   "lon": 132.3507151,
+   "distance_km": 8.1,
+   "operator": null
+  },
+  {
+   "name": "五十猛",
+   "name_en": "Isotake",
+   "lat": 35.1926455,
+   "lon": 132.4401876,
+   "distance_km": 9.5,
+   "operator": null
+  },
+  {
+   "name": "静間",
+   "name_en": "Shizuma",
+   "lat": 35.1954073,
+   "lon": 132.4680319,
+   "distance_km": 10.2,
+   "operator": null
+  },
+  {
+   "name": "石見福光",
+   "name_en": "Iwami-Fukumitsu",
+   "lat": 35.0766789,
+   "lon": 132.3291448,
+   "distance_km": 10.4,
+   "operator": null
+  },
+  {
+   "name": "大田市",
+   "name_en": "Ōdashi",
+   "lat": 35.2010087,
+   "lon": 132.4995041,
+   "distance_km": 11.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:26Z"
+}

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Polar Star",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.1635211,
+   "lon": 19.174696,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MB Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.1533813,
+   "lon": 19.1229716,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Enigma",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.1603915,
+   "lon": 19.135312,
+   "distance_km": 14.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ravnjak",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.9896282,
+   "lon": 19.4116911,
+   "distance_km": 43.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pljevlja",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 43.3559619,
+   "lon": 19.3577245,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 38,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:44:58Z"
+}

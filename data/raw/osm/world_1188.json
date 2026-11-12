@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "خانه معلم زنجان",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.6913365,
+   "lon": 48.4988161,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4096142,
+   "lon": 48.9415319,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل بزرگ زنجان",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6540884,
+   "lon": 48.5282859,
+   "distance_km": 34.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پیام",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6664293,
+   "lon": 48.5383617,
+   "distance_km": 34.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جهانگردی زنجان",
+   "name_en": "Zanjan Tourist Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.6568563,
+   "lon": 48.5199064,
+   "distance_km": 35.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 20,
+ "stations": [
+  {
+   "name": "ایستگاه سلطانیه",
+   "name_en": null,
+   "lat": 36.5014906,
+   "lon": 48.794184,
+   "distance_km": 7.4,
+   "operator": null
+  },
+  {
+   "name": "پیر زاغه",
+   "name_en": "Pyrzaghh",
+   "lat": 36.3865542,
+   "lon": 48.9644197,
+   "distance_km": 15.9,
+   "operator": null
+  },
+  {
+   "name": "بناب",
+   "name_en": "Bonab",
+   "lat": 36.5998253,
+   "lon": 48.6475488,
+   "distance_km": 22.7,
+   "operator": null
+  },
+  {
+   "name": "زرین دژ",
+   "name_en": "Zryn Dje",
+   "lat": 36.300341,
+   "lon": 49.1093361,
+   "distance_km": 31.7,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه راه آهن خرمدره",
+   "name_en": "Khorramdarreh Rail Way Station",
+   "lat": 36.1872061,
+   "lon": 49.2395327,
+   "distance_km": 48.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:18Z"
+}

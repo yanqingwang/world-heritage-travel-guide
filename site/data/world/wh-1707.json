@@ -2,8 +2,8 @@
  "id": "wh-1707",
  "unesco_id": "1707",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 65,
+ "tier": "basic",
+ "popularity_rank": 985,
  "popularity_score": 204744,
  "country": "FR",
  "country_zh": "法国",
@@ -126,19 +126,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Mana Atapu",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -8.922652,
-   "lon": -139.5747545,
-   "distance_km": 3.7,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -210,5 +198,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:25Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

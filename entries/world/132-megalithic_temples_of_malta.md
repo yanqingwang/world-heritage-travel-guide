@@ -8,13 +8,13 @@ country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
 unesco_id: "132"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(iv)"
 lat: 36.04916667
 lon: 14.26944444
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 马耳他巨石庙 / Megalithic Temples of Malta
@@ -64,7 +64,22 @@ It-Tempji Megalitiċi ta' Malta u Għawdex, magħrufa wkoll bħala t-Tempji Mega
 - ✈ **Malta International Airport (MLA)** — 30.2 km
 - ✈ **Comiso Airport (CIY)** — 109.5 km
 - ✈ **Lampedusa Airport (LMP)** — 161.1 km
+- ⛴ **L-Imġarr** — 3.8 km
+- ⛴ **Ħondoq ir-Rummien** — 5.4 km
+- ⛴ **Bejn il-Kmiemen** — 6.2 km
+- ⛴ **Iċ-Ċirkewwa** — 8.5 km
+- ⛴ **Terminal tal-Ferry taċ-Ċirkewwa** — 8.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8416.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Ta' Ċenċ Hotel and Spa** — 3.5 km — star — 5★
+- **The Xara Palace Relais & Chateaux** — 21.9 km — star — 5★
+- **Radisson Blu** — 23.9 km — star — 5★ · Radisson Blu
+- **Corinthia (Saint George's Bay)** — 24.0 km — star — 5★
+- **Hyatt Regency Malta** — 24.0 km — star — 5★ · Hyatt Regency
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

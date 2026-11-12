@@ -8,13 +8,13 @@ country: "GT"
 country_zh: "危地马拉"
 country_en: "Guatemala"
 unesco_id: "149"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1981"
 criteria: "(i)(ii)(iv)"
 lat: 15.269444444
 lon: -89.040277777
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 基里瓜考古公园和玛雅文化遗址 / Archaeological Park and Ruins of Quirigua
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:11Z"
 
 *Escultura de Quiriguá.jpg · see Wikimedia Commons file page*
 
-![Archaeological Park and Ruins of Quirigua](https://whc.unesco.org/uploads/sites/site_149.jpg)
+![EntradaBananeraQuirigua2015.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/EntradaBananeraQuirigua2015.jpeg/1280px-EntradaBananeraQuirigua2015.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Park and Ruins of Quirigua · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*EntradaBananeraQuirigua2015.jpeg · Nerdoguate · CC BY-SA 4.0*
+
+![Flickr - archer10 (Dennis) - Guatemala-0558.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0558.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0558.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Flickr - archer10 (Dennis) - Guatemala-0558.jpg · Dennis G. Jarvis · CC BY-SA 2.0*
+
+![Flickr - archer10 (Dennis) - Guatemala-0580.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0580.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Flickr - archer10 (Dennis) - Guatemala-0580.jpg · Dennis G. Jarvis · CC BY-SA 2.0*
+
+![Flickr - archer10 (Dennis) - Guatemala-0647.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Flickr_-_archer10_%28Dennis%29_-_Guatemala-0647.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Guatemala-0647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Flickr - archer10 (Dennis) - Guatemala-0647.jpg · Dennis G. Jarvis · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ Habitada desde el siglo II, Quiriguá fue la capital de un Estado autónomo dura
 - ✈ **Puerto Barrios Airport (PBR)** — 70.9 km
 - ✈ **Punta Gorda Airport (PND)** — 95.9 km
 - ✈ **Ramón Villeda Morales International Airport (SAP)** — 121.5 km
+- ⛴ **Muelle Municipal** — 43.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13284.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Margarita** — 6.2 km — hotel
+- **G Boutique Hotel** — 17.9 km — hotel
+- **Hotel Bahía Guapinol** — 19.2 km — hotel
+- **Mansión del Viajero** — 32.0 km — hotel
+- **La Fuente** — 32.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

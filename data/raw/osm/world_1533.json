@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Piazza Lorenzo Mascheroni",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7057646,
+   "lon": 9.6604913,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bianca Relais",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7999624,
+   "lon": 9.3555991,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Excelsior Hotel Gallia",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4858962,
+   "lon": 9.2019566,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Lario",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8800435,
+   "lon": 9.1574616,
+   "distance_km": 43.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Melià Il Duca",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.479418,
+   "lon": 9.1961835,
+   "distance_km": 44.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1077,
+ "stations": [
+  {
+   "name": "Bergamo Alta",
+   "name_en": null,
+   "lat": 45.7028375,
+   "lon": 9.6652858,
+   "distance_km": 0.1,
+   "operator": "Azienda Trasporti Bergamo"
+  },
+  {
+   "name": "Bergamo Bassa",
+   "name_en": null,
+   "lat": 45.7009953,
+   "lon": 9.6651392,
+   "distance_km": 0.3,
+   "operator": "Azienda Trasporti Bergamo"
+  },
+  {
+   "name": "Colle Aperto",
+   "name_en": null,
+   "lat": 45.7064901,
+   "lon": 9.6574582,
+   "distance_km": 0.6,
+   "operator": "Azienda Trasporti Bergamo"
+  },
+  {
+   "name": "San Vigilio",
+   "name_en": null,
+   "lat": 45.7083658,
+   "lon": 9.6507073,
+   "distance_km": 1.1,
+   "operator": "Azienda Trasporti Bergamo"
+  },
+  {
+   "name": "BG Crocefisso",
+   "name_en": null,
+   "lat": 45.7150879,
+   "lon": 9.6694762,
+   "distance_km": 1.4,
+   "operator": "Tramvie Elettriche Bergamasche"
+  },
+  {
+   "name": "BG De Gasperi",
+   "name_en": null,
+   "lat": 45.7133293,
+   "lon": 9.6760771,
+   "distance_km": 1.5,
+   "operator": "Tramvie Elettriche Bergamasche"
+  },
+  {
+   "name": "BG Sant’Antonio",
+   "name_en": null,
+   "lat": 45.717648,
+   "lon": 9.6651015,
+   "distance_km": 1.6,
+   "operator": "Tramvie Elettriche Bergamasche"
+  },
+  {
+   "name": "Bergamo",
+   "name_en": null,
+   "lat": 45.6903836,
+   "lon": 9.6749975,
+   "distance_km": 1.7,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Concesa",
+   "name_en": null,
+   "lat": 45.6016904,
+   "lon": 9.5294424,
+   "distance_km": 15.4,
+   "operator": null
+  },
+  {
+   "name": "Imbersago",
+   "name_en": null,
+   "lat": 45.7079015,
+   "lon": 9.4562922,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Villa d'Adda",
+   "name_en": null,
+   "lat": 45.7083748,
+   "lon": 9.4569723,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Casa del custode delle acque",
+   "name_en": null,
+   "lat": 45.5737467,
+   "lon": 9.5338113,
+   "distance_km": 17.6,
+   "operator": null
+  },
+  {
+   "name": "Sarnico",
+   "name_en": null,
+   "lat": 45.6654605,
+   "lon": 9.9604893,
+   "distance_km": 23.4,
+   "operator": "Navigazione Lago d'Iseo"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:16Z"
+}

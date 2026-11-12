@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Epirus Palace",
+   "name_en": "Epirus Palace",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5876631,
+   "lon": 20.8608849,
+   "distance_km": 33.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Μπουραζάνι",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.05385,
+   "lon": 20.6260769,
+   "distance_km": 21.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Olympic",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6646678,
+   "lon": 20.8517946,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Αρχονταρίκι",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6669996,
+   "lon": 20.858088,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Melesin Distillery and Hotel",
+   "name_en": "Melesin Distillery and Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 40.1527944,
+   "lon": 20.5992484,
+   "distance_km": 32.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 148,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:48:15Z"
+}

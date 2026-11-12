@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "191"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(iii)(iv)"
 lat: 36.32056
 lon: 5.73667
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 杰米拉 / Djémila
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:11Z"
 
 *Roman Ruins of Djemila in Sétif, Algeria.jpg · see Wikimedia Commons file page*
 
-![Djémila](https://whc.unesco.org/uploads/sites/site_191.jpg)
+![(CUICUL) مدينة جميلة الأثرية.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%28CUICUL%29_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.jpg/1280px-%28CUICUL%29_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Djémila · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(CUICUL) مدينة جميلة الأثرية.jpg · Nouçeiba · CC BY-SA 4.0*
+
+![- المدينة الأثرية جميلة - سطيف cuicul - أعمدة الفوروم.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/-_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_-_%D8%B3%D8%B7%D9%8A%D9%81_cuicul_-_%D8%A3%D8%B9%D9%85%D8%AF%D8%A9_%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%88%D9%85.jpg/1280px--_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_-_%D8%B3%D8%B7%D9%8A%D9%81_cuicul_-_%D8%A3%D8%B9%D9%85%D8%AF%D8%A9_%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%88%D9%85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*- المدينة الأثرية جميلة - سطيف cuicul - أعمدة الفوروم.jpg · sofiane mohammed amri · CC BY-SA 4.0*
+
+![-1-(CUICUL) مدينة جميلة الأثرية.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/-1-%28CUICUL%29_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.png/1280px--1-%28CUICUL%29_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-1-(CUICUL) مدينة جميلة الأثرية.png · Nouçeiba · CC BY-SA 4.0*
+
+![-1-مدينة جميلة الأثرية.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/-1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.jpg/1280px--1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-1-مدينة جميلة الأثرية.jpg · Nouçeiba · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Situated 900 m above sea-level, Djémila, or Cuicul, with its forum, temples, ba
 - ✈ **Ain Arnat Airport (QSF)** — 39.7 km
 - ✈ **Jijel Ferhat Abbas Airport (GJL)** — 54.1 km
 - ✈ **Soummam–Abane Ramdane Airport (BJA)** — 73.8 km
+- 🚉 **Bir El Arch** — 23.9 km
+- 🚉 **Tadjenant** — 32.1 km
+- 🚉 **Sétif** — 32.4 km
+- 🚉 **Mezloug** — 42.3 km
+- ⛴ **Port de Pêche de Ziama Mansouriah** — 45.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9008.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Rénéa Hotel** — 32.5 km — star — 4★ · Rénéa
+- **Hôtel Tapis rouge** — 49.1 km — star — 4★
+- **Noxi Hotel** — 32.4 km — star — Noxi Hotel · 3★ · Noxi
+- **Frantz Fanon** — 33.2 km — star — 3★
+- **Hôtel Belle vue** — 0.5 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

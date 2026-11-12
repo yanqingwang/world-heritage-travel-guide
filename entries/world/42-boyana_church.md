@@ -8,13 +8,13 @@ country: "BG"
 country_zh: "保加利亚"
 country_en: "Bulgaria"
 unesco_id: "42"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(ii)(iii)"
 lat: 42.644672222
 lon: 23.266172222
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 博雅纳教堂 / Boyana Church
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:10Z"
 
 *Boyana Church 2 TB.JPG · see Wikimedia Commons file page*
 
-![Boyana Church](https://whc.unesco.org/uploads/sites/site_42.jpg)
+![Boyana church plan-hebrew.png](https://upload.wikimedia.org/wikipedia/commons/2/21/Boyana_church_plan-hebrew.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Boyana Church · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Boyana church plan-hebrew.png · משתמש:MT0 . Original uploader was MT0 at he.wikipedia · CC BY-SA 3.0*
+
+![Boyana-church-plan.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Boyana-church-plan.png/1280px-Boyana-church-plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Boyana-church-plan.png · Vassia Atanassova - Spiritia · CC BY-SA 3.0*
+
+![05658-Sofia (8269321366).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/05658-Sofia_%288269321366%29.jpg/1280px-05658-Sofia_%288269321366%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*05658-Sofia (8269321366).jpg · xiquinhosilva from Cacau · CC BY 2.0*
+
+![05682-Sofia (8268264101).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/05682-Sofia_%288268264101%29.jpg/1280px-05682-Sofia_%288268264101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*05682-Sofia (8268264101).jpg · xiquinhosilva from Cacau · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Located on the outskirts of Sofia, Boyana Church consists of three buildings. Th
 - ✈ **Sofia Airport (SOF)** — 13.7 km
 - ✈ **Niš Constantine the Great Airport (INI)** — 138.1 km
 - ✈ **Plovdiv International Airport (PDV)** — 145.1 km
+- 🚉 **Горна баня** — 3.9 km
+- 🚉 **Владая** — 7.0 km
+- 🚉 **Захарна фабрика** — 7.8 km
+- 🚉 **Централна гара София** — 8.7 km
+- 🚉 **Подуяне** — 9.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7347.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Sofia** — 6.0 km — star — 5★ · Hilton
+- **Хотел Анел** — 7.2 km — star — Hotel Anel · 5★
+- **Гранд Хотел София** — 7.3 km — star — Grand Hotel Sofia · 5★
+- **Sofia Balkan Palace** — 7.4 km — star — 5★ · Sheraton
+- **InterContinental** — 7.6 km — star — 5★ · InterContinental
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

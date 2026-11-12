@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 54.896944
 lon: 23.929167
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 现代主义的考纳斯：1919-1939年的乐观主义建筑 / Modernist Kaunas: Architecture of Optimism, 1919-1939

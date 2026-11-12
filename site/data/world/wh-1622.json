@@ -2,9 +2,9 @@
  "id": "wh-1622",
  "unesco_id": "1622",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 415,
- "popularity_score": 19097,
+ "tier": "full",
+ "popularity_rank": 383,
+ "popularity_score": 17592,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1622.jpg",
-   "title": "Arslantepe Mound",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1622",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Arslantepe_L%C3%B6wentor_Delaporte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Arslantepe Löwentor Delaporte.jpg",
+   "author": "Louis Delaporte (1874-1944)",
+   "license": "Public domain",
+   "credit": "Louis Delaporte: Malatya: Fouilles de la Mission Archéologique Française. Tome 1,1: Arslantepe, La porte des lions Paris 1940. Digitalisat",
+   "source": "https://commons.wikimedia.org/wiki/File:Arslantepe_L%C3%B6wentor_Delaporte.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arslantepe_Palastplan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Arslantepe Palastplan 01.jpg",
+   "author": "Ingeborg Simon",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arslantepe_Palastplan_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Arslantepe_Ruins%2C_Malatya_01.jpg/1280px-Arslantepe_Ruins%2C_Malatya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arslantepe Ruins, Malatya 01.jpg",
+   "author": "Zeynel Cebeci",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arslantepe_Ruins%2C_Malatya_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Arslantepe_Ruins%2C_Malatya_02.jpg/1280px-Arslantepe_Ruins%2C_Malatya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arslantepe Ruins, Malatya 02.jpg",
+   "author": "Zeynel Cebeci",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arslantepe_Ruins%2C_Malatya_02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1622",
@@ -101,10 +125,124 @@
   ],
   "nearest_airport_km": 24.3,
   "distance_beijing_km": 6525.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Battalgazi İskelesi",
+    "name_en": null,
+    "lat": 38.4762979,
+    "lon": 38.4322192,
+    "distance_km": 12.2,
+    "operator": null
+   },
+   {
+    "name": "Şehit Fethi Sekin İskelesi",
+    "name_en": null,
+    "lat": 38.5164305,
+    "lon": 38.4431711,
+    "distance_km": 16.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Battalgazi",
+    "name_en": null,
+    "lat": 38.4335031,
+    "lon": 38.3698881,
+    "distance_km": 5.8,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Malatya",
+    "name_en": null,
+    "lat": 38.3525196,
+    "lon": 38.2832453,
+    "distance_km": 7.5,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Dilek",
+    "name_en": null,
+    "lat": 38.4449554,
+    "lon": 38.2582073,
+    "distance_km": 11.4,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Fırat",
+    "name_en": null,
+    "lat": 38.4408898,
+    "lon": 38.5122528,
+    "distance_km": 14.7,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Yazlak",
+    "name_en": null,
+    "lat": 38.3307268,
+    "lon": 38.1762373,
+    "distance_km": 17.1,
+    "operator": "TCDD Taşımacılık"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Movenpick Malatya",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3485085,
+   "lon": 38.2990743,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Remark Hill",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3496607,
+   "lon": 38.3674494,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pırlanta Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3513255,
+   "lon": 38.3039776,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anatolia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3514061,
+   "lon": 38.3026576,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Akademi Residance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.342943,
+   "lon": 38.4252078,
+   "distance_km": 7.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -176,5 +314,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

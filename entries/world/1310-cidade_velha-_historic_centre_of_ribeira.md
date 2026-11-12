@@ -8,13 +8,13 @@ country: "CV"
 country_zh: "佛得角"
 country_en: "Cape Verde"
 unesco_id: "1310"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(ii)(iii)(vi)"
 lat: 14.916666666
 lon: -23.604166666
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 韦利亚城 / Cidade Velha, Historic Centre of Ribeira Grande
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Cidade Velha-Bord de mer (2).jpg · see Wikimedia Commons file page*
 
-![Cidade Velha, Historic Centre of Ribeira Grande](https://whc.unesco.org/uploads/sites/site_1310.jpg)
+![AchadaCidadeVelha.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/AchadaCidadeVelha.JPG/1280px-AchadaCidadeVelha.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cidade Velha, Historic Centre of Ribeira Grande · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*AchadaCidadeVelha.JPG · CorreiaPM · Public domain*
+
+![Azedinha, Cidade Velha, Ribeira Grande de Santiago 04.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Azedinha%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Azedinha, Cidade Velha, Ribeira Grande de Santiago 04.jpg · GualdimG · CC BY-SA 4.0*
+
+![Cana, Cidade Velha, Cape Verde.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Cana%2C_Cidade_Velha%2C_Cape_Verde.jpg/1280px-Cana%2C_Cidade_Velha%2C_Cape_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cana, Cidade Velha, Cape Verde.jpg · Xandu · Public domain*
+
+![Casa ao estilo antigo, Cidade Velha, Ribeira Grande de Santiago 02.jpg](https://upload.wikimedia.org/wikipedia/commons/8/88/Casa_ao_estilo_antigo%2C_Cidade_Velha%2C_Ribeira_Grande_de_Santiago_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Casa ao estilo antigo, Cidade Velha, Ribeira Grande de Santiago 02.jpg · GualdimG · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,19 @@ A Cidade Velha localiza-se no concelho da Ribeira Grande de Santiago, a 15 quil�
 - ✈ **Nelson Mandela International Airport (RAI)** — 13.1 km
 - ✈ **Maio Airport (MMO)** — 49.7 km
 - ✈ **São Filipe Airport (SFL)** — 94.2 km
+- ⛴ **Porto da Praia** — 10.9 km
+- ⛴ **Pier da ilha do MAIO** — 48.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12635.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Barceló Praia Cape Verde** — 10.1 km — star — 5★
+- **Hotel Blue Sky** — 43.1 km — star — 3★
+- **Hotel Vista Mar** — 43.4 km — star — 3★
+- **Olamar Hotel** — 8.2 km — star — 2★
+- **Limeira** — 0.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

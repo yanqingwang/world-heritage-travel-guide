@@ -2,9 +2,9 @@
  "id": "wh-677",
  "unesco_id": "677",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 352,
- "popularity_score": 24308,
+ "tier": "full",
+ "popularity_rank": 350,
+ "popularity_score": 20130,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_677.jpg",
-   "title": "Baroque Churches of the Philippines",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/677",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Baclayon_Bohol_Chch.jpg/1280px-Baclayon_Bohol_Chch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Baclayon Bohol Chch.jpg",
+   "author": "Anißäb",
+   "license": "CC BY-SA 4.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Baclayon_Bohol_Chch.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baclayon_Church_-_Alleged_face_of_Padre_Pio.JPG/1280px-Baclayon_Church_-_Alleged_face_of_Padre_Pio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Baclayon Church - Alleged face of Padre Pio.JPG",
+   "author": "Malou Buenconsejo",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Baclayon_Church_-_Alleged_face_of_Padre_Pio.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baclayon_church_-_panoramio.jpg/1280px-Baclayon_church_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Baclayon church - panoramio.jpg",
+   "author": "Qaalvin",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161025130916/http://www.panoramio.com/photo/70545179",
+   "source": "https://commons.wikimedia.org/wiki/File:Baclayon_church_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Baclayon_church_1596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Baclayon church 1596.jpg",
+   "author": "No machine-readable author provided. Magalhães assumed (based on copyright claims).",
+   "license": "Public domain",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "source": "https://commons.wikimedia.org/wiki/File:Baclayon_church_1596.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/677",
@@ -102,10 +126,107 @@
   ],
   "nearest_airport_km": 35.3,
   "distance_beijing_km": 3303.8,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Iloilo",
+    "name_en": null,
+    "lat": 10.6887864,
+    "lon": 122.57238,
+    "distance_km": 37.2,
+    "operator": null
+   },
+   {
+    "name": "Iloilo Fastcraft Terminal",
+    "name_en": null,
+    "lat": 10.6963541,
+    "lon": 122.5736287,
+    "distance_km": 37.4,
+    "operator": "Philippine Ports Authority"
+   },
+   {
+    "name": "Lapuz Wharf",
+    "name_en": null,
+    "lat": 10.7015272,
+    "lon": 122.5777239,
+    "distance_km": 38.0,
+    "operator": "F. F. Cruz"
+   },
+   {
+    "name": "Jordan RORO Port",
+    "name_en": null,
+    "lat": 10.6658282,
+    "lon": 122.5847543,
+    "distance_km": 38.3,
+    "operator": null
+   },
+   {
+    "name": "Parola Wharf",
+    "name_en": null,
+    "lat": 10.692562,
+    "lon": 122.5834536,
+    "distance_km": 38.4,
+    "operator": "PAROLA Ferry Terminal to Buenavista"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Courtyard by Marriott Iloilo",
+   "name_en": null,
+   "stars": null,
+   "brand": "Courtyard",
+   "lat": 10.71386,
+   "lon": 122.5446152,
+   "distance_km": 34.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Park Inn by Radisson Iloilo",
+   "name_en": null,
+   "stars": null,
+   "brand": "Park Inn",
+   "lat": 10.7131918,
+   "lon": 122.5495734,
+   "distance_km": 35.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Moritz Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.7324436,
+   "lon": 122.5504341,
+   "distance_km": 35.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Insular Beach",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.6573253,
+   "lon": 122.3018161,
+   "distance_km": 7.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Simrose Place",
+   "name_en": "Simrose Place",
+   "stars": null,
+   "brand": null,
+   "lat": 10.7649104,
+   "lon": 122.3181844,
+   "distance_km": 16.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PH",
   "country_zh": "菲律宾",
@@ -178,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:29Z"
 }

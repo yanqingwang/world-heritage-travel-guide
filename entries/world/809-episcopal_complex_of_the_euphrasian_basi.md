@@ -8,13 +8,13 @@ country: "HR"
 country_zh: "克罗地亚"
 country_en: "Croatia"
 unesco_id: "809"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iii)(iv)"
 lat: 45.228611111
 lon: 13.593611111
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 波雷奇历史中心的尤弗拉西苏斯大教堂建筑群 / Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:17Z"
 
 *Poreč Basilica 3.jpg · see Wikimedia Commons file page*
 
-![Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč](https://whc.unesco.org/uploads/sites/site_809.jpg)
+![98 of 'Notes, ecclesiological and picturesque, on Dalmatia, Croatia, Istria, Styria, with a visit to Montenegro' (11062870513).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/98_of_%27Notes%2C_ecclesiological_and_picturesque%2C_on_Dalmatia%2C_Croatia%2C_Istria%2C_Styria%2C_with_a_visit_to_Montenegro%27_%2811062870513%29.jpg/1280px-98_of_%27Notes%2C_ecclesiological_and_picturesque%2C_on_Dalmatia%2C_Croatia%2C_Istria%2C_Styria%2C_with_a_visit_to_Montenegro%27_%2811062870513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*98 of 'Notes, ecclesiological and picturesque, on Dalmatia, Croatia, Istria, Styria, with a visit to Montenegro' (11062870513).jpg · The British Library · No restrictions*
+
+![Arheoloska iskopavanja ispod Eufrazijeve bazilike 12 lipnja 2009.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Arheoloska_iskopavanja_ispod_Eufrazijeve_bazilike_12_lipnja_2009.jpg/1280px-Arheoloska_iskopavanja_ispod_Eufrazijeve_bazilike_12_lipnja_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arheoloska iskopavanja ispod Eufrazijeve bazilike 12 lipnja 2009.jpg · Rosier-HR , original uploader was Roberta F. at hr.wikipedia · CC BY-SA 3.0*
+
+![Basilica 19.png](https://upload.wikimedia.org/wikipedia/commons/0/0e/Basilica_19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Basilica 19.png · Project Gutenberg Distributed Proofreaders · Public domain*
+
+![Basilica de Porec - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Basilica_de_Porec_-_panoramio.jpg/1280px-Basilica_de_Porec_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Basilica de Porec - panoramio.jpg · isol · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Eufrazijeva bazilika (Eufrazijana) u Poreču jedan je od najljepših sačuvanih 
 - ✈ **Pula Airport (PUY)** — 45.3 km
 - ✈ **Trieste Airport (TRS)** — 67.4 km
 - ✈ **Rijeka Airport (RJK)** — 76.5 km
+- 🚉 **Sveti Petar u Šumi** — 22.0 km
+- 🚉 **Kanfanar** — 22.7 km
+- 🚉 **Pazin** — 27.6 km
+- 🚉 **Cerovlje** — 33.3 km
+- 🚉 **Vodnjan** — 35.7 km
+- ⛴ **Poreč** — 0.3 km
+- ⛴ **Sveti Nikola** — 0.7 km
+- ⛴ **Santa Maria** — 6.0 km
+- ⛴ **Amarin** — 14.1 km
+- ⛴ **Porto Valdibora - Rovigno** — 16.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7827.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Nautica** — 10.5 km — star — 5★
+- **Grand Park Hotel Rovinj** — 17.4 km — star — 5★
+- **San Canzian Village & Hotel** — 19.1 km — star — 5★
+- **Rocca Riviera** — 24.3 km — star — 5★
+- **Meliá Coral** — 26.5 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

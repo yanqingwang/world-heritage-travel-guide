@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1605"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2019"
 criteria: "(ii)(iv)(vi)"
 lat: 26.915
 lon: 75.82
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 斋浦尔城 / Jaipur City, Rajasthan
@@ -60,22 +60,7 @@ The walled city of Jaipur, in India’s north-western state of Rajasthan was fou
 - ✈ **Jaipur International Airport (JAI)** — 10.1 km
 - ✈ **Kishangarh Airport Ajmer (KQH)** — 106.3 km
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 213.8 km
-- 🚉 **Bais Godam** — 3.4 km
-- 🚉 **Jaipur Junction** — 3.4 km
-- 🚉 **Gandhi Nagar Jaipur** — 5.1 km
-- 🚉 **Dahar-Ka-Balaji** — 6.3 km
-- 🚉 **Durgapura** — 7.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4017.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Shahpura House** — 3.5 km — star — 5★
-- **Hilton Jaipur** — 3.9 km — star — 5★ · Hilton
-- **Trident Hotel , Jaipur** — 5.2 km — star — 5★ · Trident Hotels
-- **The Oberoi  Rajvilas** — 7.7 km — star — 5★
-- **Royal orchid** — 8.3 km — star — 5★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,39 @@
+{
+ "hotels": [
+  {
+   "name": "Niah Cave Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 3.8023634,
+   "lon": 113.7565053,
+   "distance_km": 3.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Niah Cave Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 3.802504,
+   "lon": 113.7549245,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 2,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Pengkalan Lobang",
+   "name_en": null,
+   "lat": 3.8234054,
+   "lon": 113.7623353,
+   "distance_km": 2.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:48Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-94",
  "unesco_id": "94",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 327,
- "popularity_score": 27510,
+ "tier": "full",
+ "popularity_rank": 301,
+ "popularity_score": 25209,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_94.jpg",
-   "title": "Rock Drawings in Valcamonica",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/94",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Armati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Armati.png",
+   "author": "Dipartimento Valcamonica e Lombardia",
+   "license": "CC BY-SA 3.0",
+   "credit": "http://www.simbolisullaroccia.it/img_generali/armati.gif",
+   "source": "https://commons.wikimedia.org/wiki/File:Armati.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Calco_gesso_incisione_rupestre_cervo_Valcamonica_1965.jpg/1280px-Calco_gesso_incisione_rupestre_cervo_Valcamonica_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Calco gesso incisione rupestre cervo Valcamonica 1965.jpg",
+   "author": "Roger469",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Calco_gesso_incisione_rupestre_cervo_Valcamonica_1965.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cervide_R_34_-_Luine_-_Darfo_Boario_Terme_%28Foto_Luca_Giarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Cervide R 34 - Luine - Darfo Boario Terme (Foto Luca Giarelli).jpg",
+   "author": "Luca Giarelli",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cervide_R_34_-_Luine_-_Darfo_Boario_Terme_%28Foto_Luca_Giarelli%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Masso_con_impronte_di_mani_-_Chiesa_SS._Faustina_e_Liberata_-_Capo_di_Ponte_%28Foto_Luca_Giarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Masso con impronte di mani - Chiesa SS. Faustina e Liberata - Capo di Ponte (Foto Luca Giarelli).jpg",
+   "author": "Luca Giarelli",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Masso_con_impronte_di_mani_-_Chiesa_SS._Faustina_e_Liberata_-_Capo_di_Ponte_%28Foto_Luca_Giarelli%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/94",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 63.4,
   "distance_beijing_km": 8030.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Costa Volpino",
+    "name_en": null,
+    "lat": 45.8225558,
+    "lon": 10.084199,
+    "distance_km": 30.4,
+    "operator": "Navigazione Lago d'Iseo"
+   },
+   {
+    "name": "Pisogne",
+    "name_en": null,
+    "lat": 45.8032639,
+    "lon": 10.105381,
+    "distance_km": 31.0,
+    "operator": "Navigazione Lago D'Iseo"
+   },
+   {
+    "name": "Lovere 1",
+    "name_en": null,
+    "lat": 45.8167002,
+    "lon": 10.0756243,
+    "distance_km": 31.3,
+    "operator": "Navigazione Lago D'Iseo"
+   },
+   {
+    "name": "Lovere 2",
+    "name_en": null,
+    "lat": 45.8169862,
+    "lon": 10.0761989,
+    "distance_km": 31.3,
+    "operator": "Navigazione Lago D'Iseo"
+   },
+   {
+    "name": "Lovere",
+    "name_en": null,
+    "lat": 45.8168432,
+    "lon": 10.0759116,
+    "distance_km": 31.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Capo di Ponte",
+    "name_en": null,
+    "lat": 46.0310856,
+    "lon": 10.3463753,
+    "distance_km": 0.8,
+    "operator": null
+   },
+   {
+    "name": "Cedegolo",
+    "name_en": null,
+    "lat": 46.0725204,
+    "lon": 10.3500218,
+    "distance_km": 5.4,
+    "operator": null
+   },
+   {
+    "name": "Breno",
+    "name_en": null,
+    "lat": 45.9591476,
+    "lon": 10.3057458,
+    "distance_km": 8.0,
+    "operator": null
+   },
+   {
+    "name": "Malonno",
+    "name_en": null,
+    "lat": 46.1187743,
+    "lon": 10.3167611,
+    "distance_km": 10.9,
+    "operator": "Ferrovienord"
+   },
+   {
+    "name": "Cividate-Malegno",
+    "name_en": null,
+    "lat": 45.943427,
+    "lon": 10.2687057,
+    "distance_km": 10.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Park Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8094134,
+   "lon": 10.787982,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lido Palace Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8832398,
+   "lon": 10.84654,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "EALA",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8244273,
+   "lon": 10.8124494,
+   "distance_km": 42.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alpen Suite",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.2252891,
+   "lon": 10.8247135,
+   "distance_km": 42.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Spinale",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.2281828,
+   "lon": 10.8288953,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

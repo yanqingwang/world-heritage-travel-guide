@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 49.207222222
 lon: 16.615833333
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 布尔诺的图根哈特别墅 / Tugendhat Villa in Brno
@@ -64,11 +64,11 @@ Vila Tugendhat v Brně je ojedinělým projevem funkcionalistického a internaci
 - ✈ **Brno-Tuřany Airport (BRQ)** — 8.4 km
 - ✈ **Pardubice Airport (PED)** — 109.8 km
 - ✈ **Leoš Janáček Airport Ostrava (OSR)** — 121.0 km
-- 🚉 **Brno-Židenice** — 1.6 km
-- 🚉 **Brno hlavní nádraží** — 1.8 km
+- 🚉 **Brno hlavní nádraží** — 1.9 km
 - 🚉 **Brno dolní nádraží** — 2.8 km
 - 🚉 **Brno-Královo Pole** — 3.0 km
 - 🚉 **Brno-Horní Heršpice** — 4.5 km
+- 🚉 **Brno-Slatina** — 6.4 km
 - ⛴ **Bystrc** — 7.7 km
 - ⛴ **Kozí horka** — 8.4 km
 - ⛴ **Sokolské koupaliště** — 8.9 km

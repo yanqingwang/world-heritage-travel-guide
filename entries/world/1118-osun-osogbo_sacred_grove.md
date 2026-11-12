@@ -8,13 +8,13 @@ country: "NG"
 country_zh: "尼日利亚"
 country_en: "Nigeria"
 unesco_id: "1118"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iii)(vi)"
 lat: 7.75491
 lon: 4.550625
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 奥孙－奥索博神树林 / Osun-Osogbo Sacred Grove
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Osun Osogbo forest, river and sacred groove 12.jpg · see Wikimedia Commons file page*
 
-![Osun-Osogbo Sacred Grove](https://whc.unesco.org/uploads/sites/site_1118.jpg)
+![Agere Display at Osun Oshogo festival.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Agere_Display_at_Osun_Oshogo_festival.jpg/1280px-Agere_Display_at_Osun_Oshogo_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Osun-Osogbo Sacred Grove · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Agere Display at Osun Oshogo festival.jpg · Comradeayobami · CC BY-SA 4.0*
+
+![Agogo Hairstyle at Osun Osogbo festival 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Agogo_Hairstyle_at_Osun_Osogbo_festival_01.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Agogo Hairstyle at Osun Osogbo festival 01.jpg · SM Igbalode · CC BY-SA 4.0*
+
+![Agogo Hairstyle at Osun Osogbo festival 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Agogo_Hairstyle_at_Osun_Osogbo_festival_02.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Agogo Hairstyle at Osun Osogbo festival 02.jpg · SM Igbalode · CC BY-SA 4.0*
+
+![Agogo Hairstyle at Osun Osogbo festival 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Agogo_Hairstyle_at_Osun_Osogbo_festival_03.jpg/1280px-Agogo_Hairstyle_at_Osun_Osogbo_festival_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Agogo Hairstyle at Osun Osogbo festival 03.jpg · SM Igbalode · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ The dense forest of the Osun Sacred Grove, on the outskirts of the city of Osogb
 - ✈ **General Tunde Idiagbon International Airport (ILR)** — 76.5 km
 - ✈ **Ibadan Airport (IBA)** — 76.7 km
 - ✈ **Akure Airport (AKR)** — 100.2 km
+- 🚉 **Osogbo** — 2.9 km
+- 🚉 **Ede Station** — 12.9 km
+- 🚉 **Origo Station** — 21.6 km
+- 🚉 **Okuku Railway Station** — 34.2 km
+- 🚉 **Ile Igbo Station** — 34.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11226.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **White Plain Hotel** — 2.2 km — hotel
+- **Zarah Guest House** — 2.3 km — hotel
+- **Flora Suites** — 3.8 km — hotel — Flora Suites
+- **Delightsome Hotel and Resorts Ltd** — 6.7 km — hotel
+- **Alabama Luxury Hotel** — 7.0 km — hotel — Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

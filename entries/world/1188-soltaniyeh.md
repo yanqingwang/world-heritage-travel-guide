@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1188"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: 36.434722
 lon: 48.7975
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 苏丹尼叶城 / Soltaniyeh
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *مقبره سلطان محمد خدابنده - گنبد سلطانیه.jpg · see Wikimedia Commons file page*
 
-![Soltaniyeh](https://whc.unesco.org/uploads/sites/site_1188.jpg)
+![12 Chardin Soltaniyeh.jpg](https://upload.wikimedia.org/wikipedia/commons/4/42/12_Chardin_Soltaniyeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Soltaniyeh · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*12 Chardin Soltaniyeh.jpg · Jean Chardin · Public domain*
+
+![Gole gandom.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Gole_gandom.jpg/1280px-Gole_gandom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gole gandom.jpg · Golemanoto · CC BY-SA 4.0*
+
+![Oljeitu Mausoleum (Gonbad-e Soltaniyeh), Soltaniyeh (5110744360).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Oljeitu_Mausoleum_%28Gonbad-e_Soltaniyeh%29%2C_Soltaniyeh_%285110744360%29.jpg/1280px-Oljeitu_Mausoleum_%28Gonbad-e_Soltaniyeh%29%2C_Soltaniyeh_%285110744360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Oljeitu Mausoleum (Gonbad-e Soltaniyeh), Soltaniyeh (5110744360).jpg · Fulvio Spada from Torino, Italy · CC BY-SA 2.0*
+
+![Soltanie int conigryck van Persien - Peeters Jacob - 1690.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Soltanie_int_conigryck_van_Persien_-_Peeters_Jacob_-_1690.jpg/1280px-Soltanie_int_conigryck_van_Persien_-_Peeters_Jacob_-_1690.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Soltanie int conigryck van Persien - Peeters Jacob - 1690.jpg · Jacob Peeters · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The mausoleum of Oljaytu was constructed in 1302–12 in the city of Soltaniyeh,
 - ✈ **Sardar-e-Jangal Airport (RAS)** — 122.8 km
 - ✈ **Hamadan Airport (HDM)** — 175.7 km
 - ✈ **Ramsar Airport (RZR)** — 176.5 km
+- 🚉 **ایستگاه سلطانیه** — 7.4 km
+- 🚉 **پیر زاغه** — 15.9 km
+- 🚉 **بناب** — 22.7 km
+- 🚉 **زرین دژ** — 31.7 km
+- 🚉 **ایستگاه راه آهن خرمدره** — 48.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5678.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **خانه معلم زنجان** — 39.1 km — star — 4★
+- **هتل** — 13.2 km — hotel
+- **هتل بزرگ زنجان** — 34.3 km — hotel
+- **هتل پیام** — 34.6 km — hotel
+- **هتل جهانگردی زنجان** — 35.0 km — hotel — Zanjan Tourist Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

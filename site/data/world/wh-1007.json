@@ -2,9 +2,9 @@
  "id": "wh-1007",
  "unesco_id": "1007",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 385,
- "popularity_score": 21275,
+ "tier": "full",
+ "popularity_rank": 363,
+ "popularity_score": 19389,
  "country": "ZA",
  "country_zh": "南非",
  "country_en": "South Africa",
@@ -91,10 +91,132 @@
   ],
   "nearest_airport_km": 30.1,
   "distance_beijing_km": 12966.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Houtbaai",
+    "name_en": null,
+    "lat": -34.0515711,
+    "lon": 18.347934,
+    "distance_km": 13.0,
+    "operator": null
+   },
+   {
+    "name": "Nelson Mandela Gateway to Robben Island",
+    "name_en": null,
+    "lat": -33.90647,
+    "lon": 18.4225194,
+    "distance_km": 29.3,
+    "operator": null
+   },
+   {
+    "name": "Murray's Harbour",
+    "name_en": null,
+    "lat": -33.7981967,
+    "lon": 18.3773817,
+    "distance_km": 41.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Simon's Town",
+    "name_en": "Simon's Town",
+    "lat": -34.1868154,
+    "lon": 18.4255075,
+    "distance_km": 5.2,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Glencairn",
+    "name_en": null,
+    "lat": -34.1634623,
+    "lon": 18.4320099,
+    "distance_km": 5.3,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Fish Hoek",
+    "name_en": "Fish Hoek",
+    "lat": -34.1371336,
+    "lon": 18.432552,
+    "distance_km": 6.2,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Sunny Cove",
+    "name_en": null,
+    "lat": -34.1443006,
+    "lon": 18.437119,
+    "distance_km": 6.2,
+    "operator": null
+   },
+   {
+    "name": "Kalk Bay",
+    "name_en": "Kalk Bay",
+    "lat": -34.1262669,
+    "lon": 18.45008,
+    "distance_km": 8.2,
+    "operator": "Metrorail"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "One and Only",
+   "name_en": null,
+   "stars": 7,
+   "brand": null,
+   "lat": -33.9087291,
+   "lon": 18.4164332,
+   "distance_km": 28.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tintswalo Atlantic Lodge",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -34.0649341,
+   "lon": 18.3681466,
+   "distance_km": 11.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mount Nelson Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.9318124,
+   "lon": 18.4114096,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Cape Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Taj",
+   "lat": -33.924519,
+   "lon": 18.4196851,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Cape Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": -33.9214316,
+   "lon": 18.4157801,
+   "distance_km": 27.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ZA",
   "country_zh": "南非",
@@ -176,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

@@ -8,13 +8,13 @@ country: "TH"
 country_zh: "泰国"
 country_en: "Thailand"
 unesco_id: "1662"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iii)"
 lat: 15.46658533
 lon: 101.15009308
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 西贴古镇及相关陀罗钵地古迹 / The Ancient Town of Si Thep and its Associated Dvaravati Monuments
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:24Z"
 
 *Khao Khlang Nak-1-HDR-pano.jpg · see Wikimedia Commons file page*
 
-![The Ancient Town of Si Thep and its Associated Dvaravati Monuments](https://whc.unesco.org/uploads/sites/site_1662.jpg)
+![Dpp-IMG 7700 (53274075625).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dpp-IMG_7700_%2853274075625%29.jpg/1280px-Dpp-IMG_7700_%2853274075625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Ancient Town of Si Thep and its Associated Dvaravati Monuments · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Dpp-IMG 7700 (53274075625).jpg · Wutthichai Charoenburi from Bangkok · CC BY 2.0*
+
+![Dpp-IMG 7707 (53273967459).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dpp-IMG_7707_%2853273967459%29.jpg/1280px-Dpp-IMG_7707_%2853273967459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dpp-IMG 7707 (53273967459).jpg · Wutthichai Charoenburi from Bangkok · CC BY 2.0*
+
+![Dpp-IMG 7709 (53272721902).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dpp-IMG_7709_%2853272721902%29.jpg/1280px-Dpp-IMG_7709_%2853272721902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dpp-IMG 7709 (53272721902).jpg · Wutthichai Charoenburi from Bangkok · CC BY 2.0*
+
+![Dpp-IMG 7745 (53273611946).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dpp-IMG_7745_%2853273611946%29.jpg/1280px-Dpp-IMG_7745_%2853273611946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dpp-IMG 7745 (53273611946).jpg · Wutthichai Charoenburi from Bangkok · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ This is a serial property of three component parts: a distinctive twin-town site
 - ✈ **Phetchabun Airport (PHY)** — 134.6 km
 - ✈ **Phitsanulok Airport (PHS)** — 173.4 km
 - ✈ **Don Mueang International Airport (DMK)** — 182.4 km
+- 🚉 **แผ่นดินทอง** — 26.8 km
+- 🚉 **ลำนารายณ์** — 27.4 km
+- 🚉 **ช่องสำราญ** — 28.4 km
+- 🚉 **โคกคลี** — 31.7 km
+- 🚉 **บ้านวะตะแบก (เทพสถิต)** — 33.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2996.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **พิชชาวรี รีสอร์ท** — 9.3 km — hotel — Picha Waree Resort
+- **Javarach** — 22.6 km — hotel
+- **Pasak Hillside** — 23.0 km — hotel
+- **Ban Fark Fun** — 24.0 km — hotel
+- **Rimphu Resort** — 24.4 km — hotel — Rimphu Resort
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

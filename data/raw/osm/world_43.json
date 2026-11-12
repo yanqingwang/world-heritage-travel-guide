@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Acktion",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.2743301,
+   "lon": 26.9252344,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rimini",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.2738661,
+   "lon": 26.9242594,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Странноприемница \"Стара Плиска\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3634613,
+   "lon": 27.1163304,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ayar palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.349288,
+   "lon": 27.1973559,
+   "distance_km": 10.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Acktion Deluxe",
+   "name_en": "Acktion Deluxe",
+   "stars": null,
+   "brand": null,
+   "lat": 43.2507178,
+   "lon": 26.9564078,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 33,
+ "stations": [
+  {
+   "name": "Мадара",
+   "name_en": null,
+   "lat": 43.2746995,
+   "lon": 27.0998543,
+   "distance_km": 1.6,
+   "operator": "БДЖ"
+  },
+  {
+   "name": "Каспичан",
+   "name_en": "Kaspichan",
+   "lat": 43.3116494,
+   "lon": 27.1670769,
+   "distance_km": 5.5,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Мътница",
+   "name_en": null,
+   "lat": 43.2830667,
+   "lon": 27.024875,
+   "distance_km": 7.6,
+   "operator": null
+  },
+  {
+   "name": "Плиска",
+   "name_en": "Pliska",
+   "lat": 43.3446001,
+   "lon": 27.0948332,
+   "distance_km": 7.7,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Невша",
+   "name_en": null,
+   "lat": 43.2490837,
+   "lon": 27.2843491,
+   "distance_km": 13.8,
+   "operator": null
+  },
+  {
+   "name": "Шумен",
+   "name_en": "Shumen",
+   "lat": 43.2716275,
+   "lon": 26.9437619,
+   "distance_km": 14.2,
+   "operator": null
+  },
+  {
+   "name": "Равна",
+   "name_en": "Ravna",
+   "lat": 43.2346393,
+   "lon": 27.3457187,
+   "distance_km": 19.0,
+   "operator": "НКЖИ"
+  },
+  {
+   "name": "Хан Крум",
+   "name_en": "Han Krum",
+   "lat": 43.2036428,
+   "lon": 26.890685,
+   "distance_km": 20.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Пристанище Белослав",
+   "name_en": null,
+   "lat": 43.1962996,
+   "lon": 27.7210081,
+   "distance_km": 49.6,
+   "operator": "Логистичен Център – Варна ЕАД"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:44:51Z"
+}

@@ -8,13 +8,13 @@ country: "PT"
 country_zh: "葡萄牙"
 country_en: "Portugal"
 unesco_id: "265"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1983"
 criteria: "(i)(vi)"
 lat: 39.603636
 lon: -8.419258
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 托马尔的女修道院 / Convent of Christ in Tomar
@@ -52,7 +52,22 @@ O Convento de Cristo (século XII – século XVIII) é a denominação atribuí
 - ✈ **Lisbon Humberto Delgado Airport (LIS)** — 110.3 km
 - ✈ **Cascais Airport (CAT)** — 126.7 km
 - ✈ **Aerodromo Goncalves Lobato (Viseu Airport) (VSE)** — 132.6 km
+- 🚉 **Tomar** — 0.8 km
+- 🚉 **Santa Cita** — 6.1 km
+- 🚉 **Chão de Maçãs - Fátima** — 8.5 km
+- 🚉 **Lamarosa** — 9.3 km
+- 🚉 **Barquinha** — 15.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9656.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Montebelo Mosteiro de Alcobaça Historic Hotel** — 48.3 km — star — 5★
+- **Hotel dos Templários** — 0.6 km — star — 4★
+- **Hotel Segredos de Vale Manso** — 12.6 km — star — 4★
+- **Hotel Cinquentenário** — 21.8 km — star — 4★
+- **Hotel Lux** — 22.0 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

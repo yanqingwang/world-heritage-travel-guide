@@ -2,8 +2,8 @@
  "id": "wh-1459",
  "unesco_id": "1459",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 207,
+ "tier": "basic",
+ "popularity_rank": 905,
  "popularity_score": 56619,
  "country": "AR",
  "country_zh": "阿根廷",
@@ -78,36 +78,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bridge_guardian.jpg/1280px-Bridge_guardian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Bridge guardian.jpg",
-   "author": "Felipe Huaman Puma de Ayala",
-   "license": "Public domain",
-   "credit": "Harry Järv: Frihet, jämlikhet, konstnärskap. Utblickar och författarporträtt. 1974, Cavefors.",
-   "source": "https://commons.wikimedia.org/wiki/File:Bridge_guardian.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Exposici%C3%B3n_Redescubriendo_el_Qhapac_%C3%91am.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapac_%C3%91am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exposición Redescubriendo el Qhapac Ñam.jpg",
-   "author": "Arlette Rodriguez",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exposici%C3%B3n_Redescubriendo_el_Qhapac_%C3%91am.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an_en_MUNA.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an_en_MUNA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exposición Redescubriendo el Qhapaq Ñan en MUNA.jpg",
-   "author": "Alex Benites Abad",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an_en_MUNA.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exposición Redescubriendo el Qhapaq Ñan.jpg",
-   "author": "Santiago Rodríguez Campos",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_1459.jpg",
+   "title": "Qhapaq Ñan, Andean Road System",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1459",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1459",
@@ -154,106 +130,9 @@
   "nearest_airport_km": 75.5,
   "distance_beijing_km": 17478.8,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Puquios",
-    "name_en": null,
-    "lat": -18.1749288,
-    "lon": -69.7456292,
-    "distance_km": 18.3,
-    "operator": "EFE Arica-La Paz"
-   },
-   {
-    "name": "Pampa Ossa",
-    "name_en": null,
-    "lat": -18.2894009,
-    "lon": -69.8640675,
-    "distance_km": 29.1,
-    "operator": "EFE Arica-La Paz"
-   },
-   {
-    "name": "Coronel Alcérreca",
-    "name_en": null,
-    "lat": -17.9922895,
-    "lon": -69.6607674,
-    "distance_km": 29.6,
-    "operator": "EFE Arica-La Paz"
-   },
-   {
-    "name": "Quebrada Honda",
-    "name_en": null,
-    "lat": -18.3251696,
-    "lon": -69.8827913,
-    "distance_km": 31.9,
-    "operator": "EFE Arica-La Paz"
-   },
-   {
-    "name": "Central",
-    "name_en": null,
-    "lat": -18.3602638,
-    "lon": -69.957928,
-    "distance_km": 40.6,
-    "operator": "EFE Arica-La Paz"
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Amarca Lodge",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -18.2633673,
-   "lon": -69.6010327,
-   "distance_km": 1.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Qantati",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -18.1983897,
-   "lon": -69.5652887,
-   "distance_km": 6.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Jurasi Ecolodge",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -18.2002757,
-   "lon": -69.5604212,
-   "distance_km": 6.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Terrace Lodge & Tours",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -18.1987597,
-   "lon": -69.557446,
-   "distance_km": 6.7,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hostal Cali",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": -18.1979494,
-   "lon": -69.5586573,
-   "distance_km": 6.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "AR",
   "country_zh": "阿根廷",
@@ -368,5 +247,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)(vi)"
 lat: 21.0325
 lon: 105.83972
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 河内升龙皇城 / Central Sector of the Imperial Citadel of Thang Long - Hanoi
@@ -82,7 +82,7 @@ Hoàng thành Thăng Long (昇龍皇城) là quần thể di tích gắn với l
 - **Pullman Hanoi** — 1.2 km — star — 5★ · Pullman
 - **Hotel du Parc Hanoi** — 1.6 km — star — 5★
 - **Hotel de l'Opera Hanoi** — 1.9 km — star — 5★
-- **Sofitel Legend Metropole Hà Nội** — 1.9 km — star — 5★ · Sofitel
+- **Pan Pacific Hanoi** — 1.9 km — star — 5★ · Pan Pacific
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

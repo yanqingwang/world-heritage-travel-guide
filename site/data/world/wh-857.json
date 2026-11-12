@@ -2,8 +2,8 @@
  "id": "wh-857",
  "unesco_id": "857",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 142,
+ "tier": "basic",
+ "popularity_rank": 1174,
  "popularity_score": 98416,
  "country": "BE",
  "country_zh": "比利时",
@@ -126,148 +126,10 @@
   ],
   "nearest_airport_km": 11.1,
   "distance_beijing_km": 7944.9,
-  "ferry_terminals": [
-   {
-    "name": "Sainctelette",
-    "name_en": null,
-    "lat": 50.8600955,
-    "lon": 4.3471008,
-    "distance_km": 1.5,
-    "operator": null
-   },
-   {
-    "name": "Quai des Péniches - Akenkaai",
-    "name_en": null,
-    "lat": 50.8603216,
-    "lon": 4.3480278,
-    "distance_km": 1.5,
-    "operator": null
-   },
-   {
-    "name": "Pont Van Praet - Van Praet brug",
-    "name_en": null,
-    "lat": 50.8810354,
-    "lon": 4.3731613,
-    "distance_km": 4.1,
-    "operator": null
-   },
-   {
-    "name": "Quai de Heembeek - Heembeekkaai",
-    "name_en": null,
-    "lat": 50.8852977,
-    "lon": 4.3816256,
-    "distance_km": 4.8,
-    "operator": null
-   },
-   {
-    "name": "Cruise Terminal",
-    "name_en": null,
-    "lat": 50.8948091,
-    "lon": 4.3992466,
-    "distance_km": 6.3,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Bruxelles-Central - Brussel-Centraal",
-    "name_en": "Brussels-Central",
-    "lat": 50.8454639,
-    "lon": 4.3569867,
-    "distance_km": 0.3,
-    "operator": "NMBS/SNCB"
-   },
-   {
-    "name": "Bruxelles-Nord - Brussel-Noord",
-    "name_en": "Brussels-North",
-    "lat": 50.8601446,
-    "lon": 4.3614901,
-    "distance_km": 1.6,
-    "operator": "NMBS/SNCB"
-   },
-   {
-    "name": "Bruxelles-Midi - Brussel-Zuid",
-    "name_en": "Brussels-Midi",
-    "lat": 50.8357755,
-    "lon": 4.3360541,
-    "distance_km": 1.7,
-    "operator": "NMBS/SNCB"
-   },
-   {
-    "name": "Bruxelles-Luxembourg - Brussel-Luxemburg",
-    "name_en": "Brussels-Luxembourg",
-    "lat": 50.8381995,
-    "lon": 4.3736537,
-    "distance_km": 1.8,
-    "operator": "NMBS/SNCB"
-   },
-   {
-    "name": "Bruxelles-Schuman - Brussel-Schuman",
-    "name_en": "Brussels-Schuman",
-    "lat": 50.8428667,
-    "lon": 4.3806152,
-    "distance_km": 2.0,
-    "operator": "NMBS/SNCB"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Amigo",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Rocco Forte Hotels",
-   "lat": 50.8461743,
-   "lon": 4.3511704,
-   "distance_km": 0.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Warwick Brussels",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 50.84522,
-   "lon": 4.3543208,
-   "distance_km": 0.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Radisson Collection Grand Place Brussels",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Radisson Collection",
-   "lat": 50.8494664,
-   "lon": 4.3564427,
-   "distance_km": 0.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Juliana",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Juliana",
-   "lat": 50.8516517,
-   "lon": 4.3557418,
-   "distance_km": 0.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Le Plaza Brussels",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 50.8544818,
-   "lon": 4.3562359,
-   "distance_km": 0.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "BE",
   "country_zh": "比利时",
@@ -341,5 +203,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:31Z"
 }

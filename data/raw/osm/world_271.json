@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Schloss Elmau",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.4621405,
+   "lon": 11.1863559,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alpenresort Schwarz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.3072159,
+   "lon": 10.9860105,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kurhotel Fontenay",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.0090624,
+   "lon": 10.5911493,
+   "distance_km": 43.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parkhotel am Soier See",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6948899,
+   "lon": 11.0033065,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Auf der Gsteig",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7058646,
+   "lon": 10.7874927,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 792,
+ "stations": [
+  {
+   "name": "Bad Kohlgrub",
+   "name_en": null,
+   "lat": 47.667914,
+   "lon": 11.0578811,
+   "distance_km": 11.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Peiting Ost",
+   "name_en": null,
+   "lat": 47.7930052,
+   "lon": 10.937346,
+   "distance_km": 12.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Peiting Nord",
+   "name_en": null,
+   "lat": 47.8019572,
+   "lon": 10.9264437,
+   "distance_km": 13.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Hohenpeißenberg",
+   "name_en": null,
+   "lat": 47.7887704,
+   "lon": 10.9995671,
+   "distance_km": 14.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Schongau",
+   "name_en": null,
+   "lat": 47.8127401,
+   "lon": 10.9023776,
+   "distance_km": 14.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Peißenberg",
+   "name_en": null,
+   "lat": 47.7974906,
+   "lon": 11.0602721,
+   "distance_km": 17.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Füssen",
+   "name_en": null,
+   "lat": 47.570733,
+   "lon": 10.6967299,
+   "distance_km": 19.6,
+   "operator": "DB"
+  },
+  {
+   "name": "Uffing am Staffelsee",
+   "name_en": null,
+   "lat": 47.7206021,
+   "lon": 11.158694,
+   "distance_km": 19.8,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Rosshaupten Kraftwerk",
+   "name_en": null,
+   "lat": 47.6524012,
+   "lon": 10.7448389,
+   "distance_km": 12.1,
+   "operator": "Forggenseeschifffahrt"
+  },
+  {
+   "name": "Anlegestelle Tiefental",
+   "name_en": null,
+   "lat": 47.646772,
+   "lon": 10.7361143,
+   "distance_km": 12.9,
+   "operator": "Forggenseeschifffahrt"
+  },
+  {
+   "name": "Rieden Dietringen",
+   "name_en": null,
+   "lat": 47.6364858,
+   "lon": 10.7410353,
+   "distance_km": 12.9,
+   "operator": "Forggenseeschifffahrt"
+  },
+  {
+   "name": "Segelclub Brunnen Forggensee",
+   "name_en": null,
+   "lat": 47.595035,
+   "lon": 10.7439776,
+   "distance_km": 15.1,
+   "operator": null
+  },
+  {
+   "name": "Schwangau Brunnen",
+   "name_en": null,
+   "lat": 47.5993984,
+   "lon": 10.7334759,
+   "distance_km": 15.4,
+   "operator": "Forggenseeschifffahrt"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:28Z"
+}

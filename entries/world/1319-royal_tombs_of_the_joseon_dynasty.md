@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "1319"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(iii)(iv)(vi)"
 lat: 37.19722222
 lon: 128.45277778
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 朝鲜王陵 / Royal Tombs of the Joseon Dynasty
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Sejong tomb 1.jpg · see Wikimedia Commons file page*
 
-![Royal Tombs of the Joseon Dynasty](https://whc.unesco.org/uploads/sites/site_1319.jpg)
+![Bia đá Huệ lăng.webp](https://upload.wikimedia.org/wikipedia/commons/c/c4/Bia_%C4%91%C3%A1_Hu%E1%BB%87_l%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Royal Tombs of the Joseon Dynasty · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bia đá Huệ lăng.webp · Bebevehe · CC0*
+
+![Huệ lăng.webp](https://upload.wikimedia.org/wikipedia/commons/7/7b/Hu%E1%BB%87_l%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Huệ lăng.webp · Bebevehe · CC0*
+
+![Huệ Lăng.webp](https://upload.wikimedia.org/wikipedia/commons/9/9e/Hu%E1%BB%87_L%C4%83ng.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Huệ Lăng.webp · Bebevehe · CC0*
+
+![Korean royal tomb structure.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_royal_tomb_structure.svg/1280px-Korean_royal_tomb_structure.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Korean royal tomb structure.svg · Teemeah · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Royal Tombs of the Joseon Dynasty form a collection of 40 tombs scattered ov
 - ✈ **Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU)** — 51.1 km
 - ✈ **Yangyang International Airport (YNY)** — 97.9 km
 - ✈ **Cheongju International Airport (CJJ)** — 100.2 km
+- 🚉 **영월역** — 3.0 km
+- 🚉 **청령포** — 3.0 km
+- 🚉 **연당** — 5.2 km
+- 🚉 **탄부** — 5.2 km
+- 🚉 **연하** — 9.1 km
+- ⛴ **단양나루** — 24.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1028.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **휘닉스호텔** — 44.2 km — star — Phoenix Hotel · 4★
+- **호텔인터불고** — 44.9 km — star — 4★
+- **Danyang Tourist Hotel** — 25.7 km — star — 3★
+- **원주시티호텔** — 43.7 km — star — Wonju Citi Hotel · 3★
+- **오키드호텔** — 49.2 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

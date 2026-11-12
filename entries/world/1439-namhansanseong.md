@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)"
 lat: 37.47802778
 lon: 127.18419444
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 南漢山城 / Namhansanseong
@@ -67,8 +67,8 @@ Namhansanseong was designed as an emergency capital for the Joseon dynasty (1392
 - 🚉 **복정** — 5.1 km
 - 🚉 **가천대** — 6.0 km
 - 🚉 **태평** — 6.6 km
+- 🚉 **모란** — 7.0 km
 - 🚉 **수서** — 7.1 km
-- 🚉 **야탑** — 8.9 km
 - ⛴ **한강버스 잠실선착장** — 9.9 km
 - ⛴ **한강버스 뚝섬선착장** — 11.8 km
 - ⛴ **한강버스 서울숲선착장** — 14.3 km

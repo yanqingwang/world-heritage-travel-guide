@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.4819911,
+   "lon": -1.8991869,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Birmingham Brindleyplace",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 52.4769709,
+   "lon": -1.9148913,
+   "distance_km": 41.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Birmingham",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt Regency",
+   "lat": 52.4780349,
+   "lon": -1.909254,
+   "distance_km": 41.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Marriott",
+   "lat": 53.0063615,
+   "lon": -2.263579,
+   "distance_km": 44.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Birmingham North Moor Hall Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "BW Premier Collection",
+   "lat": 52.5828355,
+   "lon": -1.8116779,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 296,
+ "stations": [
+  {
+   "name": "Horsehay & Dawley",
+   "name_en": null,
+   "lat": 52.6628276,
+   "lon": -2.481648,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Spring Village",
+   "name_en": null,
+   "lat": 52.662865,
+   "lon": -2.4825281,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Lawley Village",
+   "name_en": null,
+   "lat": 52.6714844,
+   "lon": -2.4799836,
+   "distance_km": 5.0,
+   "operator": null
+  },
+  {
+   "name": "Telford Central",
+   "name_en": null,
+   "lat": 52.6811135,
+   "lon": -2.441178,
+   "distance_km": 6.4,
+   "operator": "West Midlands Trains (West Midlands Railway)"
+  },
+  {
+   "name": "Oakengates",
+   "name_en": null,
+   "lat": 52.6930906,
+   "lon": -2.450188,
+   "distance_km": 7.6,
+   "operator": "West Midlands Trains (West Midlands Railway)"
+  },
+  {
+   "name": "Shifnal",
+   "name_en": null,
+   "lat": 52.6660075,
+   "lon": -2.3716887,
+   "distance_km": 8.1,
+   "operator": "West Midlands Trains (West Midlands Railway)"
+  },
+  {
+   "name": "Wellington",
+   "name_en": null,
+   "lat": 52.7014362,
+   "lon": -2.5167193,
+   "distance_km": 8.9,
+   "operator": "West Midlands Trains (West Midlands Railway)"
+  },
+  {
+   "name": "Bridgnorth Cliff Railway Bottom Station",
+   "name_en": null,
+   "lat": 52.5341676,
+   "lon": -2.4176529,
+   "distance_km": 10.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sabrina Boat",
+   "name_en": null,
+   "lat": 52.709833,
+   "lon": -2.7582982,
+   "distance_km": 21.4,
+   "operator": null
+  },
+  {
+   "name": "Dudley Canal and Caverns",
+   "name_en": null,
+   "lat": 52.5235689,
+   "lon": -2.0779148,
+   "distance_km": 29.0,
+   "operator": "The Dudley Canal and Tunnel Trust;Dudley Canal Trust"
+  },
+  {
+   "name": "Sherborne Wharf Water Bus Stop",
+   "name_en": null,
+   "lat": 52.478811,
+   "lon": -1.9183685,
+   "distance_km": 40.9,
+   "operator": "Sherborne Wharf"
+  },
+  {
+   "name": "Brindleyplace Water Bus Stop",
+   "name_en": null,
+   "lat": 52.4783199,
+   "lon": -1.9118598,
+   "distance_km": 41.3,
+   "operator": "Sherborne Wharf"
+  },
+  {
+   "name": "Gas Street Basin Water Bus Stop",
+   "name_en": null,
+   "lat": 52.4774762,
+   "lon": -1.9090288,
+   "distance_km": 41.6,
+   "operator": "Sherborne Wharf"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:46Z"
+}

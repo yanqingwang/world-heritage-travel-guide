@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Bron Rhiw",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.9224567,
+   "lon": -4.2342947,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Snowdonia",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 53.1909743,
+   "lon": -3.8410992,
+   "distance_km": 29.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Maes-y-Neuadd",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.8904248,
+   "lon": -4.0572156,
+   "distance_km": 31.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Craig-Y-Dderwen",
+   "name_en": "Craig Y Dderwen Riverside Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 53.0834412,
+   "lon": -3.7966003,
+   "distance_km": 32.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "St George's Hotel",
+   "name_en": "St Georges Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 53.3246884,
+   "lon": -3.8287489,
+   "distance_km": 36.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 261,
+ "stations": [
+  {
+   "name": "Caernarfon",
+   "name_en": null,
+   "lat": 53.1375302,
+   "lon": -4.2719629,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Bontnewydd",
+   "name_en": null,
+   "lat": 53.1167689,
+   "lon": -4.2759103,
+   "distance_km": 2.6,
+   "operator": null
+  },
+  {
+   "name": "Dinas",
+   "name_en": null,
+   "lat": 53.1035053,
+   "lon": -4.2769864,
+   "distance_km": 4.0,
+   "operator": null
+  },
+  {
+   "name": "Tryfan Junction",
+   "name_en": null,
+   "lat": 53.1079727,
+   "lon": -4.2398315,
+   "distance_km": 4.3,
+   "operator": null
+  },
+  {
+   "name": "Waunfawr",
+   "name_en": null,
+   "lat": 53.1063472,
+   "lon": -4.2016482,
+   "distance_km": 6.2,
+   "operator": null
+  },
+  {
+   "name": "Penllyn",
+   "name_en": null,
+   "lat": 53.1370988,
+   "lon": -4.149559,
+   "distance_km": 8.5,
+   "operator": null
+  },
+  {
+   "name": "Plas-y-nant",
+   "name_en": null,
+   "lat": 53.0829482,
+   "lon": -4.1697854,
+   "distance_km": 9.5,
+   "operator": null
+  },
+  {
+   "name": "Cei Llydan",
+   "name_en": null,
+   "lat": 53.1307266,
+   "lon": -4.1320984,
+   "distance_km": 9.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Holyhead",
+   "name_en": "Holyhead",
+   "lat": 53.3126891,
+   "lon": -4.6215978,
+   "distance_km": 29.9,
+   "operator": null
+  },
+  {
+   "name": "Irish Ferries",
+   "name_en": null,
+   "lat": 53.3094316,
+   "lon": -4.6289642,
+   "distance_km": 30.1,
+   "operator": "Irish Ferries"
+  },
+  {
+   "name": "Stena Line",
+   "name_en": null,
+   "lat": 53.3093498,
+   "lon": -4.6287858,
+   "distance_km": 30.1,
+   "operator": "Stena Line Ltd"
+  },
+  {
+   "name": "Terminal 1",
+   "name_en": null,
+   "lat": 53.3092536,
+   "lon": -4.6288658,
+   "distance_km": 30.1,
+   "operator": null
+  },
+  {
+   "name": "Barmouth Harbour",
+   "name_en": null,
+   "lat": 52.7189451,
+   "lon": -4.051155,
+   "distance_km": 49.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:41Z"
+}

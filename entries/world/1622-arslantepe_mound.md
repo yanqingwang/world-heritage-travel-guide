@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1622"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(iii)"
 lat: 38.38194444
 lon: 38.36111111
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 阿斯兰特佩土丘 / Arslantepe Mound
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:24Z"
 
 *Arslantepe5.jpg · see Wikimedia Commons file page*
 
-![Arslantepe Mound](https://whc.unesco.org/uploads/sites/site_1622.jpg)
+![Arslantepe Löwentor Delaporte.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d6/Arslantepe_L%C3%B6wentor_Delaporte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Arslantepe Mound · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Arslantepe Löwentor Delaporte.jpg · Louis Delaporte (1874-1944) · Public domain*
+
+![Arslantepe Palastplan 01.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Arslantepe_Palastplan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arslantepe Palastplan 01.jpg · Ingeborg Simon · CC BY-SA 3.0*
+
+![Arslantepe Ruins, Malatya 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Arslantepe_Ruins%2C_Malatya_01.jpg/1280px-Arslantepe_Ruins%2C_Malatya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arslantepe Ruins, Malatya 01.jpg · Zeynel Cebeci · CC BY-SA 4.0*
+
+![Arslantepe Ruins, Malatya 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Arslantepe_Ruins%2C_Malatya_02.jpg/1280px-Arslantepe_Ruins%2C_Malatya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arslantepe Ruins, Malatya 02.jpg · Zeynel Cebeci · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Arslantepe Höyüğü veya Melid, Malatya'nın 7 km kuzeydoğusunda yer alan bir
 - ✈ **Malatya Erhaç Airport (MLX)** — 24.3 km
 - ✈ **Adıyaman Airport (ADF)** — 73.0 km
 - ✈ **Elazığ Airport (EZS)** — 83.8 km
+- 🚉 **Battalgazi** — 5.8 km
+- 🚉 **Malatya** — 7.5 km
+- 🚉 **Dilek** — 11.4 km
+- 🚉 **Fırat** — 14.7 km
+- 🚉 **Yazlak** — 17.1 km
+- ⛴ **Battalgazi İskelesi** — 12.2 km
+- ⛴ **Şehit Fethi Sekin İskelesi** — 16.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6525.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Movenpick Malatya** — 6.6 km — star — 5★
+- **Remark Hill** — 3.6 km — hotel
+- **Pırlanta Hotel** — 6.0 km — hotel
+- **Anatolia Hotel** — 6.1 km — hotel
+- **Akademi Residance** — 7.1 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

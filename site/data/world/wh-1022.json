@@ -2,9 +2,9 @@
  "id": "wh-1022",
  "unesco_id": "1022",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 330,
- "popularity_score": 26630,
+ "tier": "full",
+ "popularity_rank": 352,
+ "popularity_score": 19776,
  "country": "UG",
  "country_zh": "乌干达",
  "country_en": "Uganda",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1022.jpg",
-   "title": "Tombs of Buganda Kings at Kasubi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1022",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_tour_of_the_Kasubi_tombs_in_Kampala2.jpg/1280px-A_tour_of_the_Kasubi_tombs_in_Kampala2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A tour of the Kasubi tombs in Kampala2.jpg",
+   "author": "Samson Ssemakadde",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_tour_of_the_Kasubi_tombs_in_Kampala2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/A_tour_of_the_Kasubi_tombs_in_Kampala9.jpg/1280px-A_tour_of_the_Kasubi_tombs_in_Kampala9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A tour of the Kasubi tombs in Kampala9.jpg",
+   "author": "Samson Ssemakadde",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_tour_of_the_Kasubi_tombs_in_Kampala9.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baganda_Tribe%2C_Uganda_%2816498982963%29.jpg/1280px-Baganda_Tribe%2C_Uganda_%2816498982963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Baganda Tribe, Uganda (16498982963).jpg",
+   "author": "Rod Waddington",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/rod_waddington/16498982963/",
+   "source": "https://commons.wikimedia.org/wiki/File:Baganda_Tribe%2C_Uganda_%2816498982963%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Buganda_Kingdom_Palace%2C_Kampala_%28464057348%29.jpg/1280px-Buganda_Kingdom_Palace%2C_Kampala_%28464057348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buganda Kingdom Palace, Kampala (464057348).jpg",
+   "author": "Dave Proffer",
+   "license": "CC BY 2.0",
+   "credit": "Buganda Kingdom Palace, Kampala",
+   "source": "https://commons.wikimedia.org/wiki/File:Buganda_Kingdom_Palace%2C_Kampala_%28464057348%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1022",
@@ -101,10 +125,140 @@
   ],
   "nearest_airport_km": 34.1,
   "distance_beijing_km": 9506.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port Bell",
+    "name_en": null,
+    "lat": 0.288496,
+    "lon": 32.6534725,
+    "distance_km": 12.0,
+    "operator": null
+   },
+   {
+    "name": "Serena Landing site",
+    "name_en": null,
+    "lat": 0.1988949,
+    "lon": 32.5842551,
+    "distance_km": 14.9,
+    "operator": null
+   },
+   {
+    "name": "Nakiwogo Buwaya Ferry",
+    "name_en": null,
+    "lat": 0.0895838,
+    "lon": 32.4393834,
+    "distance_km": 29.5,
+    "operator": null
+   },
+   {
+    "name": "Nakiwogo Car Ferry - Ssese Islands",
+    "name_en": null,
+    "lat": 0.08082,
+    "lon": 32.4488072,
+    "distance_km": 30.0,
+    "operator": null
+   },
+   {
+    "name": "Nakiwogo Canoe Ferry - Bussi Islands",
+    "name_en": null,
+    "lat": 0.0803462,
+    "lon": 32.4492715,
+    "distance_km": 30.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Kampala",
+    "name_en": null,
+    "lat": 0.3121624,
+    "lon": 32.5887758,
+    "distance_km": 4.4,
+    "operator": null
+   },
+   {
+    "name": "Namboole",
+    "name_en": null,
+    "lat": 0.3477263,
+    "lon": 32.6614932,
+    "distance_km": 12.2,
+    "operator": null
+   },
+   {
+    "name": "Namanve",
+    "name_en": null,
+    "lat": 0.3515149,
+    "lon": 32.6784982,
+    "distance_km": 14.1,
+    "operator": null
+   },
+   {
+    "name": "Kawolongojo",
+    "name_en": null,
+    "lat": 0.4004801,
+    "lon": 32.18234,
+    "distance_km": 42.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kampala Serena Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 0.3192287,
+   "lon": 32.586366,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Speke Resort Munyonyo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 0.2370012,
+   "lon": 32.6239672,
+   "distance_km": 12.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Tulip Canaan Kampala",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Golden Tulip",
+   "lat": 0.3259514,
+   "lon": 32.5841973,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SAFFRON BEACH BISTRO & COTTAGES",
+   "name_en": null,
+   "stars": 4,
+   "brand": "SAFFRON BEACH BISTRO & COTTAGES",
+   "lat": 0.0707944,
+   "lon": 32.4816855,
+   "distance_km": 29.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bativa Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 0.3264747,
+   "lon": 32.5722504,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "UG",
   "country_zh": "乌干达",
@@ -177,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

@@ -2,8 +2,8 @@
  "id": "wh-770",
  "unesco_id": "770",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 164,
+ "tier": "basic",
+ "popularity_rank": 1133,
  "popularity_score": 85626,
  "country": "FR",
  "country_zh": "法国",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
-   "title": "De-Canal du Midi.ogg",
-   "author": "Jeuwre",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:De-Canal_du_Midi.ogg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/20050520_Jaune-Vert.jpg/1280px-20050520_Jaune-Vert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20050520 Jaune-Vert.jpg",
-   "author": "Nicolas from Rennes, France",
-   "license": "CC BY 2.0",
-   "credit": "20050520_Jaune-Vert",
-   "source": "https://commons.wikimedia.org/wiki/File:20050520_Jaune-Vert.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/35b021.Canal_du_Medi.tif/lossy-page1-1280px-35b021.Canal_du_Medi.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "35b021.Canal du Medi.tif",
-   "author": "Pavel Goncharuk",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:35b021.Canal_du_Medi.tif"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/AP_-_Canal_du_Midi_-_Bram_ao%C3%BBt_2021_%282%29.jpg/1280px-AP_-_Canal_du_Midi_-_Bram_ao%C3%BBt_2021_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "AP - Canal du Midi - Bram août 2021 (2).jpg",
-   "author": "APB11",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:AP_-_Canal_du_Midi_-_Bram_ao%C3%BBt_2021_%282%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_770.jpg",
+   "title": "Canal du Midi",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/770",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/770",
@@ -129,132 +105,10 @@
   ],
   "nearest_airport_km": 4.8,
   "distance_beijing_km": 8670.9,
-  "ferry_terminals": [
-   {
-    "name": "Port Saint-Sauveur",
-    "name_en": null,
-    "lat": 43.5952482,
-    "lon": 1.4562994,
-    "distance_km": 3.5,
-    "operator": null
-   },
-   {
-    "name": "Port Lauragais",
-    "name_en": null,
-    "lat": 43.3532855,
-    "lon": 1.8019008,
-    "distance_km": 42.2,
-    "operator": null
-   },
-   {
-    "name": "Port du Ségala",
-    "name_en": null,
-    "lat": 43.3411579,
-    "lon": 1.8355558,
-    "distance_km": 45.1,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Toulouse-Matabiau",
-    "name_en": null,
-    "lat": 43.6114306,
-    "lon": 1.4542101,
-    "distance_km": 2.9,
-    "operator": "SNCF Gares & Connexions"
-   },
-   {
-    "name": "Toulouse-Saint-Agne",
-    "name_en": null,
-    "lat": 43.5796297,
-    "lon": 1.4503066,
-    "distance_km": 4.3,
-    "operator": "SNCF Gares & Connexions"
-   },
-   {
-    "name": "Toulouse-Montaudran",
-    "name_en": null,
-    "lat": 43.5736441,
-    "lon": 1.4800914,
-    "distance_km": 6.5,
-    "operator": "SNCF Gares & Connexions"
-   },
-   {
-    "name": "Colomiers",
-    "name_en": null,
-    "lat": 43.6035573,
-    "lon": 1.3338867,
-    "distance_km": 6.9,
-    "operator": "SNCF Gares & Connexions"
-   },
-   {
-    "name": "Portet Saint-Simon",
-    "name_en": null,
-    "lat": 43.5279954,
-    "lon": 1.3891044,
-    "distance_km": 9.5,
-    "operator": "SNCF Gares & Connexions"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "La Cour des Consuls",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 43.5994287,
-   "lon": 1.4417364,
-   "distance_km": 2.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hôtel de Brienne",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 43.607884,
-   "lon": 1.431617,
-   "distance_km": 1.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hôtel Mercure Toulouse Centre Compans",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Mercure",
-   "lat": 43.6107107,
-   "lon": 1.4348484,
-   "distance_km": 1.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Soclo",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 43.6055297,
-   "lon": 1.4379624,
-   "distance_km": 1.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Novotel Toulouse Airport",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Novotel",
-   "lat": 43.6056648,
-   "lon": 1.3989792,
-   "distance_km": 1.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -326,5 +180,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:16Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

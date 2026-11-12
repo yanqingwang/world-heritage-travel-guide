@@ -2,9 +2,9 @@
  "id": "wh-231",
  "unesco_id": "231",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1049,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 36,
+ "popularity_score": 358034,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_231.jpg",
-   "title": "Red Fort Complex",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/231",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/19-04-01-13710449_928411547267931_4629239519125204114_o.jpg/1280px-19-04-01-13710449_928411547267931_4629239519125204114_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "19-04-01-13710449 928411547267931 4629239519125204114 o.jpg",
+   "author": "Mitulshekhaliya111",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:19-04-01-13710449_928411547267931_4629239519125204114_o.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/201027-D-BN624-0881_%2850537137643%29.jpg/1280px-201027-D-BN624-0881_%2850537137643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201027-D-BN624-0881 (50537137643).jpg",
+   "author": "U.S. Secretary of Defense",
+   "license": "CC BY 2.0",
+   "credit": "201027-D-BN624-0881",
+   "source": "https://commons.wikimedia.org/wiki/File:201027-D-BN624-0881_%2850537137643%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg/1280px-20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg",
+   "author": "Jakub Hałun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/A_Corridor_in_Lal_Qila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A Corridor in Lal Qila.jpg",
+   "author": "Ashhad Ahmed",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Corridor_in_Lal_Qila.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/231",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 12.9,
   "distance_beijing_km": 3779.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Delhi Junction",
+    "name_en": null,
+    "lat": 28.660932,
+    "lon": 77.2276494,
+    "distance_km": 1.4,
+    "operator": "NR"
+   },
+   {
+    "name": "Sadar Bazar",
+    "name_en": null,
+    "lat": 28.658087,
+    "lon": 77.2170087,
+    "distance_km": 2.3,
+    "operator": "NR"
+   },
+   {
+    "name": "New Delhi",
+    "name_en": null,
+    "lat": 28.6419258,
+    "lon": 77.2217499,
+    "distance_km": 2.4,
+    "operator": "NR"
+   },
+   {
+    "name": "Shivaji Bridge",
+    "name_en": null,
+    "lat": 28.6334521,
+    "lon": 77.2266682,
+    "distance_km": 2.8,
+    "operator": "NR"
+   },
+   {
+    "name": "Tilak Bridge",
+    "name_en": null,
+    "lat": 28.6281166,
+    "lon": 77.2374037,
+    "distance_km": 3.1,
+    "operator": "NR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Connaught",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.6327049,
+   "lon": 77.213162,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shangri-La Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.6215031,
+   "lon": 77.2238516,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Le Méridien",
+   "lat": 28.618805,
+   "lon": 77.2177001,
+   "distance_km": 4.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Leela Palace Kempinski",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Leela",
+   "lat": 28.5801445,
+   "lon": 77.1893113,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Centric",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Centric",
+   "lat": 28.6289835,
+   "lon": 77.078591,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -178,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

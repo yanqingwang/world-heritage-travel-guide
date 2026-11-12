@@ -8,13 +8,13 @@ country: "FM"
 country_zh: "密克罗尼西亚联邦"
 country_en: "Federated States of Micronesia"
 unesco_id: "1503"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2016"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 6.841944
 lon: 158.332222
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 南马都尔：东密克罗尼西亚庆典中心 / Nan Madol: Ceremonial Centre of Eastern Micronesia
@@ -57,16 +57,6 @@ Nan Madol is a series of more than 100 islets off the south-east coast of Pohnpe
 
 - ✈ **Pohnpei International Airport (PNI)** — 20.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5532.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Seven Stars Inn** — 18.7 km — hotel
-- **Yvonne´s Hotel** — 19.0 km — hotel
-- **Qceanview** — 19.1 km — hotel
-- **Joy Hotel** — 19.2 km — hotel
-- **Mangrove Bay Hotel** — 19.5 km — hotel — Mangrove Bay Hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

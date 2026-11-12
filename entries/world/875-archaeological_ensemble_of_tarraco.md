@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: 41.116477777
 lon: 1.255230555
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 塔拉科考古遗址 / Archaeological Ensemble of Tarraco
@@ -71,6 +71,7 @@ Tarraco, la actual Tarragona, fue una ciudad administrativa y mercantil de gran 
 - 🚉 **Torredembarra** — 12.9 km
 - ⛴ **Port de Tarragona** — 3.6 km
 - ⛴ **Waitan Port** — 8.8 km
+- ⛴ **Drassanes** — 8.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8878.0 km**
 
 ## 附近酒店 / Nearby hotels

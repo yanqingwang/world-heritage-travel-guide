@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "491"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.5986
 lon: 23.0744
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 埃皮达鲁斯考古遗址 / Sanctuary of Asklepios at Epidaurus
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Archaeological site of Epidaurus, plan with description, 202424.jpg · see Wikimedia Commons file page*
 
-![Sanctuary of Asklepios at Epidaurus](https://whc.unesco.org/uploads/sites/site_491.jpg)
+!["Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._01.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sanctuary of Asklepios at Epidaurus · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._03.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._13.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 13.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 14.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._14.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 14.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,26 @@ In a small valley in the Peloponnesus, the shrine of Asklepios, the god of medic
 - ✈ **Athens Eleftherios Venizelos International Airport (ATH)** — 85.2 km
 - ✈ **Kalamata Airport (KLX)** — 109.9 km
 - ✈ **Kithira Airport (KIT)** — 147.4 km
+- 🚉 **Άγιοι Θεοδώροι** — 37.6 km
+- 🚉 **Κόρινθος** — 38.0 km
+- 🚉 **Κινέτα** — 42.3 km
+- 🚉 **Ζευγολατιό** — 43.4 km
+- ⛴ **ΑΓΚΙΣΤΡΙ (ΜΥΛΟΣ)** — 27.3 km
+- ⛴ **Ermioni ferry port** — 28.2 km
+- ⛴ **Σκάλα** — 28.6 km
+- ⛴ **Μονή** — 33.5 km
+- ⛴ **Λιμάνι Άστρους** — 34.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7606.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kandia's Castle** — 12.4 km — star — 5★
+- **Alkyon Hotel** — 47.2 km — star — 5★
+- **Flisvos Royal** — 20.3 km — star — 4★
+- **AKS Hinitsa Bay** — 33.1 km — star — 4★
+- **Hotel Poseidon** — 8.6 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

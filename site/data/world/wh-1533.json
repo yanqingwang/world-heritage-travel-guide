@@ -2,9 +2,9 @@
  "id": "wh-1533",
  "unesco_id": "1533",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 432,
- "popularity_score": 17933,
+ "tier": "full",
+ "popularity_rank": 392,
+ "popularity_score": 16846,
  "country": "HR",
  "country_zh": "克罗地亚",
  "country_en": "Croatia",
@@ -63,6 +63,14 @@
    "provider": "wikimedia_commons"
   },
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Opere_di_difesa_veneziane_banner.jpg/1280px-Opere_di_difesa_veneziane_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Opere di difesa veneziane banner.jpg",
+   "author": "Davide Mauro",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Opere_di_difesa_veneziane_banner.jpg"
+  },
+  {
    "url": "https://whc.unesco.org/uploads/sites/site_1533.jpg",
    "title": "Venetian Works of Defence between the 16th and 17th Centuries: <em>Stato da Terra</em> – Western <em>Stato da Mar</em>",
    "author": "UNESCO World Heritage Centre",
@@ -112,10 +120,148 @@
   ],
   "nearest_airport_km": 5.2,
   "distance_beijing_km": 8030.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Concesa",
+    "name_en": null,
+    "lat": 45.6016904,
+    "lon": 9.5294424,
+    "distance_km": 15.4,
+    "operator": null
+   },
+   {
+    "name": "Imbersago",
+    "name_en": null,
+    "lat": 45.7079015,
+    "lon": 9.4562922,
+    "distance_km": 16.1,
+    "operator": null
+   },
+   {
+    "name": "Villa d'Adda",
+    "name_en": null,
+    "lat": 45.7083748,
+    "lon": 9.4569723,
+    "distance_km": 16.1,
+    "operator": null
+   },
+   {
+    "name": "Casa del custode delle acque",
+    "name_en": null,
+    "lat": 45.5737467,
+    "lon": 9.5338113,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "Sarnico",
+    "name_en": null,
+    "lat": 45.6654605,
+    "lon": 9.9604893,
+    "distance_km": 23.4,
+    "operator": "Navigazione Lago d'Iseo"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bergamo Alta",
+    "name_en": null,
+    "lat": 45.7028375,
+    "lon": 9.6652858,
+    "distance_km": 0.1,
+    "operator": "Azienda Trasporti Bergamo"
+   },
+   {
+    "name": "Bergamo Bassa",
+    "name_en": null,
+    "lat": 45.7009953,
+    "lon": 9.6651392,
+    "distance_km": 0.3,
+    "operator": "Azienda Trasporti Bergamo"
+   },
+   {
+    "name": "Colle Aperto",
+    "name_en": null,
+    "lat": 45.7064901,
+    "lon": 9.6574582,
+    "distance_km": 0.6,
+    "operator": "Azienda Trasporti Bergamo"
+   },
+   {
+    "name": "San Vigilio",
+    "name_en": null,
+    "lat": 45.7083658,
+    "lon": 9.6507073,
+    "distance_km": 1.1,
+    "operator": "Azienda Trasporti Bergamo"
+   },
+   {
+    "name": "BG Crocefisso",
+    "name_en": null,
+    "lat": 45.7150879,
+    "lon": 9.6694762,
+    "distance_km": 1.4,
+    "operator": "Tramvie Elettriche Bergamasche"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Piazza Lorenzo Mascheroni",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7057646,
+   "lon": 9.6604913,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bianca Relais",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.7999624,
+   "lon": 9.3555991,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Excelsior Hotel Gallia",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4858962,
+   "lon": 9.2019566,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Lario",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8800435,
+   "lon": 9.1574616,
+   "distance_km": 43.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Melià Il Duca",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.479418,
+   "lon": 9.1961835,
+   "distance_km": 44.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HR",
   "country_zh": "克罗地亚",
@@ -202,5 +348,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:23Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

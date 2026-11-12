@@ -2,8 +2,8 @@
  "id": "wh-657",
  "unesco_id": "657",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 273,
+ "tier": "basic",
+ "popularity_rank": 1094,
  "popularity_score": 34294,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -102,148 +102,10 @@
   ],
   "nearest_airport_km": 59.1,
   "distance_beijing_km": 5796.6,
-  "ferry_terminals": [
-   {
-    "name": "Хвойный Бор",
-    "name_en": null,
-    "lat": 56.0857649,
-    "lon": 37.6689707,
-    "distance_km": 37.9,
-    "operator": "Столичная Судоходная компания"
-   },
-   {
-    "name": "Степаньково",
-    "name_en": null,
-    "lat": 56.0226497,
-    "lon": 37.6372644,
-    "distance_km": 44.2,
-    "operator": null
-   },
-   {
-    "name": "Бухта Радости",
-    "name_en": null,
-    "lat": 55.98412,
-    "lon": 37.6498307,
-    "distance_km": 46.9,
-    "operator": null
-   },
-   {
-    "name": "Новосельцево",
-    "name_en": null,
-    "lat": 55.9954937,
-    "lon": 37.5887536,
-    "distance_km": 48.5,
-    "operator": null
-   },
-   {
-    "name": "Троицкое",
-    "name_en": null,
-    "lat": 55.9878664,
-    "lon": 37.5775436,
-    "distance_km": 49.6,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Сергиев Посад",
-    "name_en": "Sergiyev Posad",
-    "lat": 56.3021734,
-    "lon": 38.1371689,
-    "distance_km": 1.0,
-    "operator": "ОАО «РЖД»"
-   },
-   {
-    "name": "Наугольный",
-    "name_en": "Naugolny",
-    "lat": 56.3594244,
-    "lon": 38.1768197,
-    "distance_km": 6.2,
-    "operator": "ОАО «РЖД»"
-   },
-   {
-    "name": "Хотьково",
-    "name_en": "Khotkovo",
-    "lat": 56.2569451,
-    "lon": 37.9981322,
-    "distance_km": 10.1,
-    "operator": "ОАО «РЖД»"
-   },
-   {
-    "name": "Желтиково",
-    "name_en": "Zhyoltikovo",
-    "lat": 56.2980295,
-    "lon": 37.9425323,
-    "distance_km": 11.7,
-    "operator": "ОАО «РЖД»"
-   },
-   {
-    "name": "Бужаниново",
-    "name_en": "Buzhaninovo",
-    "lat": 56.3918671,
-    "lon": 38.3079348,
-    "distance_km": 14.2,
-    "operator": "ОАО «РЖД»"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Комфорт-отель",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 56.4174955,
-   "lon": 38.1678317,
-   "distance_km": 12.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "«Четыре короны»",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 56.3440071,
-   "lon": 37.5248024,
-   "distance_km": 37.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Артурс-СПА",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 56.0949453,
-   "lon": 37.534797,
-   "distance_km": 44.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Эко-отель Лепота",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 56.6063312,
-   "lon": 37.5253327,
-   "distance_km": 49.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Владимирская",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 56.313377,
-   "lon": 38.139019,
-   "distance_km": 0.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -315,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

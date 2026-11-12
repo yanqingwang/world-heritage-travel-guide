@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(v)"
 lat: 17.731055555
 lon: 102.356277777
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 普普拉巴特历史公园 / Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period

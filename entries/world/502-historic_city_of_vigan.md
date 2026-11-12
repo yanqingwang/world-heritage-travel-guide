@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 17.57472
 lon: 120.38694
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 维甘历史古城 / Historic City of Vigan
@@ -58,11 +58,16 @@ Established in the 16th century, Vigan is the best-preserved example of a planne
 - ✈ **Laoag International Airport (LAO)** — 68.5 km
 - ✈ **Tuguegarao Airport (TUG)** — 142.9 km
 - ✈ **Cauayan Airport (CYZ)** — 161.8 km
+- ⛴ **Currimao Port** — 47.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2465.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ann-Tony's Transient House** — 0.9 km — star — 5★
+- **Condotel Asuncion** — 0.1 km — hotel
+- **Hotel Veneto de Vigan** — 0.2 km — hotel
+- **LaVie Hotel** — 0.2 km — hotel — LaVie Hotel
+- **NSCC Hotel** — 0.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

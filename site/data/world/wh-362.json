@@ -2,9 +2,9 @@
  "id": "wh-362",
  "unesco_id": "362",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 346,
- "popularity_score": 24840,
+ "tier": "full",
+ "popularity_rank": 323,
+ "popularity_score": 22856,
  "country": "LY",
  "country_zh": "利比亚",
  "country_en": "Libya",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_362.jpg",
-   "title": "Old Town of Ghadamès",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/362",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gadames.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Gadames.JPG",
+   "author": "Kazimierz Nowak",
+   "license": "Public domain",
+   "credit": "http://www.kazimierznowak.pl/2009/11/18/sladami-kazimierza-nowaka/",
+   "source": "https://commons.wikimedia.org/wiki/File:Gadames.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/AFR_V2_D105_Ghadames_district.jpg/1280px-AFR_V2_D105_Ghadames_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AFR V2 D105 Ghadames district.jpg",
+   "author": "Élisée Reclus",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: africatheearth02recluoft 1891-06-12",
+   "source": "https://commons.wikimedia.org/wiki/File:AFR_V2_D105_Ghadames_district.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/AFR_V2_D108_General_view_of_the_Ghadames.jpg/1280px-AFR_V2_D108_General_view_of_the_Ghadames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AFR V2 D108 General view of the Ghadames.jpg",
+   "author": "Élisée Reclus",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: africatheearth02recluoft",
+   "source": "https://commons.wikimedia.org/wiki/File:AFR_V2_D108_General_view_of_the_Ghadames.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Covered_Street_in_Ghadames_%285282815853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Covered Street in Ghadames (5282815853).jpg",
+   "author": "David Stanley from Nanaimo, Canada",
+   "license": "CC BY 2.0",
+   "credit": "Covered Street in Ghadames",
+   "source": "https://commons.wikimedia.org/wiki/File:Covered_Street_in_Ghadames_%285282815853%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/362",
@@ -102,7 +126,52 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق عين الفارس",
+   "name_en": "Ein Al Fares Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.1335925,
+   "lon": 9.4948978,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bab Al-Fatah",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.1294113,
+   "lon": 9.4957329,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق نجوم غدامس",
+   "name_en": "Stars Ghadamis Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.1304763,
+   "lon": 9.4927522,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق ونزريك",
+   "name_en": "Dar Ghadames Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.1141241,
+   "lon": 9.4911401,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LY",
   "country_zh": "利比亚",
@@ -174,5 +243,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

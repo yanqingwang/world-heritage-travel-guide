@@ -2,9 +2,9 @@
  "id": "wh-541",
  "unesco_id": "541",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 338,
- "popularity_score": 25804,
+ "tier": "full",
+ "popularity_rank": 312,
+ "popularity_score": 23620,
  "country": "LT",
  "country_zh": "立陶宛",
  "country_en": "Lithuania",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_541.jpg",
-   "title": "Vilnius Historic Centre",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/541",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/210_vilnius_From_Three_Crosses_Hill_%2815315336184%29.jpg/1280px-210_vilnius_From_Three_Crosses_Hill_%2815315336184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "210 vilnius From Three Crosses Hill (15315336184).jpg",
+   "author": "Brian Toward from London, United Kingdom",
+   "license": "CC0",
+   "credit": "210 vilnius From Three Crosses Hill",
+   "source": "https://commons.wikimedia.org/wiki/File:210_vilnius_From_Three_Crosses_Hill_%2815315336184%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/330_vilnius_Old_Town_%2821653498140%29.jpg/1280px-330_vilnius_Old_Town_%2821653498140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "330 vilnius Old Town (21653498140).jpg",
+   "author": "Brian Toward from London, United Kingdom",
+   "license": "CC0",
+   "credit": "330 vilnius Old Town",
+   "source": "https://commons.wikimedia.org/wiki/File:330_vilnius_Old_Town_%2821653498140%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Altstadt_von_Vilnius_%285%29%2C_1980.jpg/1280px-Altstadt_von_Vilnius_%285%29%2C_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt von Vilnius (5), 1980.jpg",
+   "author": "Ruth Leiserowitz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_von_Vilnius_%285%29%2C_1980.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Altstadt_von_Vilnius_%287%29%2C_1980.jpg/1280px-Altstadt_von_Vilnius_%287%29%2C_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Altstadt von Vilnius (7), 1980.jpg",
+   "author": "Ruth Leiserowitz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Altstadt_von_Vilnius_%287%29%2C_1980.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/541",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 5.5,
   "distance_beijing_km": 6560.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Mindaugo tiltas",
+    "name_en": null,
+    "lat": 54.6886663,
+    "lon": 25.2888327,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Žaliasis tiltas",
+    "name_en": null,
+    "lat": 54.6912964,
+    "lon": 25.2791101,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Baltasis tiltas",
+    "name_en": null,
+    "lat": 54.693971,
+    "lon": 25.2710925,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "Verslo trikampis",
+    "name_en": null,
+    "lat": 54.6856324,
+    "lon": 25.2580023,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Žvėryno tiltas",
+    "name_en": null,
+    "lat": 54.6911052,
+    "lon": 25.2593651,
+    "distance_km": 1.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Vilnius",
+    "name_en": null,
+    "lat": 54.6698774,
+    "lon": 25.2847579,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "Pavilnys",
+    "name_en": null,
+    "lat": 54.6785486,
+    "lon": 25.3547743,
+    "distance_km": 4.6,
+    "operator": null
+   },
+   {
+    "name": "Naujoji Vilnia",
+    "name_en": null,
+    "lat": 54.6939578,
+    "lon": 25.4087263,
+    "distance_km": 8.1,
+    "operator": null
+   },
+   {
+    "name": "Paneriai",
+    "name_en": null,
+    "lat": 54.6297422,
+    "lon": 25.1770585,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "Juodšiliai",
+    "name_en": null,
+    "lat": 54.5802128,
+    "lon": 25.2663272,
+    "distance_km": 11.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Stikliai",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.6806601,
+   "lon": 25.2859195,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Narutis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.6824627,
+   "lon": 25.2894325,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Collection Astorija Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 54.6773615,
+   "lon": 25.2872095,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Imperial hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.6766785,
+   "lon": 25.2887222,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vilnius Grand Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.8284111,
+   "lon": 25.1313519,
+   "distance_km": 18.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LT",
   "country_zh": "立陶宛",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

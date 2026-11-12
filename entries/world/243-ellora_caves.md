@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(iii)(vi)"
 lat: 20.026388888
 lon: 75.179166666
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 埃洛拉石窟群 / Ellora Caves

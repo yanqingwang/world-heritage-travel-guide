@@ -2,9 +2,9 @@
  "id": "wh-1061",
  "unesco_id": "1061",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 885,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 177,
+ "popularity_score": 62312,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1061.jpg",
-   "title": "Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1061",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Aj_waaj%2C_Maya_woman_offering_a_plate_of_tamales%2C_Chiik_Nahb_murals%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Aj waaj, Maya woman offering a plate of tamales, Chiik Nahb murals, Mexico.jpg",
+   "author": "Lugares INAH",
+   "license": "CC BY-SA 4.0",
+   "credit": "https://lugares.inah.gob.mx/en/pagina-de-elemento/1803",
+   "source": "https://commons.wikimedia.org/wiki/File:Aj_waaj%2C_Maya_woman_offering_a_plate_of_tamales%2C_Chiik_Nahb_murals%2C_Mexico.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ajuar_funerario_Calakmul_Museo_de_Arquitectura_Maya_Baluarte_de_la_Soledad.jpg/1280px-Ajuar_funerario_Calakmul_Museo_de_Arquitectura_Maya_Baluarte_de_la_Soledad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ajuar funerario Calakmul Museo de Arquitectura Maya Baluarte de la Soledad.jpg",
+   "author": "Mario E. Fuente Cid",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajuar_funerario_Calakmul_Museo_de_Arquitectura_Maya_Baluarte_de_la_Soledad.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bowl%2C_Calakmul%2C_Early_Classic%2C_250-600_AD.jpg/1280px-Bowl%2C_Calakmul%2C_Early_Classic%2C_250-600_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bowl, Calakmul, Early Classic, 250-600 AD.jpg",
+   "author": "Gary Lee Todd, Ph.D.",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/101561334@N08/15646194979/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowl%2C_Calakmul%2C_Early_Classic%2C_250-600_AD.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Calacmul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Calacmul.png",
+   "author": "Zykasaa at Lithuanian Wikipedia",
+   "license": "Public domain",
+   "credit": "Transferred from lt.wikipedia to Commons by Hugo.arg using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:Calacmul.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1061",
@@ -104,7 +128,52 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Puerta Calakmul",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 18.5350432,
+   "lon": -89.8948574,
+   "distance_km": 48.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yaax´Che Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.4869392,
+   "lon": -89.8994949,
+   "distance_km": 43.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mundo Maya - Calakmul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.1837124,
+   "lon": -89.7471522,
+   "distance_km": 11.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabanas Calakmul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.5400842,
+   "lon": -89.9153373,
+   "distance_km": 49.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -173,5 +242,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

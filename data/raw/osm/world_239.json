@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Chalukya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.886891,
+   "lon": 75.7049974,
+   "distance_km": 13.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clarks Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.918732,
+   "lon": 75.6803124,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mookambika Deluxe",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9241421,
+   "lon": 75.6794005,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rajsangam International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9240169,
+   "lon": 75.6796358,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Deluxe Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9245468,
+   "lon": 75.6787013,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 17,
+ "stations": [
+  {
+   "name": "Guledgudda Road",
+   "name_en": null,
+   "lat": 16.0673054,
+   "lon": 75.694556,
+   "distance_km": 18.2,
+   "operator": "SWR"
+  },
+  {
+   "name": "Lakhmapur",
+   "name_en": null,
+   "lat": 15.8698853,
+   "lon": 75.6272151,
+   "distance_km": 22.0,
+   "operator": "SWR"
+  },
+  {
+   "name": "Hole Alur",
+   "name_en": null,
+   "lat": 15.82027,
+   "lon": 75.6467462,
+   "distance_km": 23.1,
+   "operator": "SWR"
+  },
+  {
+   "name": "Sulikeri",
+   "name_en": null,
+   "lat": 16.122787,
+   "lon": 75.6508601,
+   "distance_km": 25.9,
+   "operator": "SWR"
+  },
+  {
+   "name": "Bagalkot",
+   "name_en": null,
+   "lat": 16.1793224,
+   "lon": 75.6999315,
+   "distance_km": 28.2,
+   "operator": "SWR"
+  },
+  {
+   "name": "Jadarama Kunti",
+   "name_en": null,
+   "lat": 16.2823129,
+   "lon": 75.837433,
+   "distance_km": 36.9,
+   "operator": "SWR"
+  },
+  {
+   "name": "Mallapur",
+   "name_en": null,
+   "lat": 15.672561,
+   "lon": 75.6107402,
+   "distance_km": 37.9,
+   "operator": "SWR"
+  },
+  {
+   "name": "Kudala Sangama",
+   "name_en": null,
+   "lat": 16.3075995,
+   "lon": 75.892666,
+   "distance_km": 40.5,
+   "operator": "SWR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:15Z"
+}

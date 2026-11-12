@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(viii)(ix)(x)"
 lat: 17.533333333
 lon: 106.15
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 峰牙-己榜国家公园 / Phong Nha-Ke Bang National Park and Hin Nam No National Park

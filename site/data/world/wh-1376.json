@@ -3,8 +3,8 @@
  "unesco_id": "1376",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 94,
- "popularity_score": 154121,
+ "popularity_rank": 90,
+ "popularity_score": 143889,
  "country": "BB",
  "country_zh": "巴巴多斯",
  "country_en": "Barbados",
@@ -170,6 +170,17 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "Blue Horizon Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.0746786,
+   "lon": -59.5879123,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "South Gap",
    "name_en": null,
    "stars": 3,
@@ -188,17 +199,6 @@
    "lat": 13.0826442,
    "lon": -59.6093193,
    "distance_km": 1.8,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Fairmont Royal Pavilion Resort",
-   "name_en": null,
-   "stars": null,
-   "brand": "Fairmont",
-   "lat": 13.2019053,
-   "lon": -59.6403869,
-   "distance_km": 11.9,
    "kind": "chain",
    "source": "OpenStreetMap"
   }
@@ -274,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

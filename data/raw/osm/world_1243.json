@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Le Mirador Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4814861,
+   "lon": 6.8276227,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel des Trois Couronnes",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4582265,
+   "lon": 6.8478959,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lausanne Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.5195586,
+   "lon": 6.6309165,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Royal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.3967273,
+   "lon": 6.5938011,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chalet RoyAlp Hôtel & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.293149,
+   "lon": 7.0620242,
+   "distance_km": 32.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 553,
+ "stations": [
+  {
+   "name": "Cully",
+   "name_en": null,
+   "lat": 46.4886072,
+   "lon": 6.7271541,
+   "distance_km": 1.5,
+   "operator": "SBB"
+  },
+  {
+   "name": "Puidoux",
+   "name_en": null,
+   "lat": 46.4938607,
+   "lon": 6.7656294,
+   "distance_km": 1.5,
+   "operator": "CFF"
+  },
+  {
+   "name": "Grandvaux",
+   "name_en": null,
+   "lat": 46.4969518,
+   "lon": 6.7226831,
+   "distance_km": 1.9,
+   "operator": "SBB"
+  },
+  {
+   "name": "Moreillon",
+   "name_en": null,
+   "lat": 46.5086272,
+   "lon": 6.785916,
+   "distance_km": 3.6,
+   "operator": "SBB"
+  },
+  {
+   "name": "La Conversion",
+   "name_en": null,
+   "lat": 46.5131838,
+   "lon": 6.678344,
+   "distance_km": 5.7,
+   "operator": "SBB"
+  },
+  {
+   "name": "Vevey",
+   "name_en": null,
+   "lat": 46.4629482,
+   "lon": 6.843389,
+   "distance_km": 8.1,
+   "operator": "SBB"
+  },
+  {
+   "name": "Vevey MVR",
+   "name_en": null,
+   "lat": 46.4632449,
+   "lon": 6.8437654,
+   "distance_km": 8.1,
+   "operator": "MVR-cev"
+  },
+  {
+   "name": "Palézieux",
+   "name_en": null,
+   "lat": 46.5427623,
+   "lon": 6.8379342,
+   "distance_km": 9.0,
+   "operator": "SBB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Cully",
+   "name_en": null,
+   "lat": 46.4873383,
+   "lon": 6.7318533,
+   "distance_km": 1.2,
+   "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+  },
+  {
+   "name": "Rivaz-Saint-Saphorin",
+   "name_en": null,
+   "lat": 46.4735161,
+   "lon": 6.7841879,
+   "distance_km": 3.6,
+   "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+  },
+  {
+   "name": "Lutry",
+   "name_en": null,
+   "lat": 46.5010483,
+   "lon": 6.6838832,
+   "distance_km": 4.9,
+   "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+  },
+  {
+   "name": "Pully",
+   "name_en": null,
+   "lat": 46.5047373,
+   "lon": 6.6611523,
+   "distance_km": 6.7,
+   "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+  },
+  {
+   "name": "Vevey-Marché",
+   "name_en": null,
+   "lat": 46.4587081,
+   "lon": 6.8404061,
+   "distance_km": 8.1,
+   "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:34Z"
+}

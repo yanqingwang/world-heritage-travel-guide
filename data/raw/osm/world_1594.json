@@ -1,6 +1,17 @@
 {
  "hotels": [
   {
+   "name": "Forty Seven Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "WorldHotels",
+   "lat": 53.4780973,
+   "lon": -2.2464489,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "The Lowry Hotel",
    "name_en": null,
    "stars": 5,
@@ -43,20 +54,9 @@
    "distance_km": 24.5,
    "kind": "star",
    "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hilton Garden Inn Manchester Emirates Old Trafford",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Hilton Garden Inn",
-   "lat": 53.4573326,
-   "lon": -2.286558,
-   "distance_km": 24.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 503,
+ "hotels_nearby_50km": 502,
  "stations": [
   {
    "name": "Goostrey",
@@ -165,5 +165,5 @@
    "operator": "Cheshire West and Chester Countil"
   }
  ],
- "fetched_at": "2026-11-08T16:17:09Z"
+ "fetched_at": "2026-11-12T11:52:01Z"
 }

@@ -56,7 +56,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 760,
+ "hotels_nearby_50km": 763,
  "stations": [
   {
    "name": "매교",
@@ -99,6 +99,14 @@
    "operator": "한국철도공사"
   },
   {
+   "name": "망포",
+   "name_en": "Mangpo",
+   "lat": 37.245608,
+   "lon": 127.0568913,
+   "distance_km": 5.7,
+   "operator": "한국철도공사"
+  },
+  {
    "name": "오목천",
    "name_en": "Omokcheon",
    "lat": 37.2433128,
@@ -112,14 +120,6 @@
    "lat": 37.2513466,
    "lon": 127.071279,
    "distance_km": 6.3,
-   "operator": "한국철도공사"
-  },
-  {
-   "name": "청명",
-   "name_en": "Cheongmyeong",
-   "lat": 37.2599557,
-   "lon": 127.0795065,
-   "distance_km": 6.6,
    "operator": "한국철도공사"
   }
  ],
@@ -165,5 +165,5 @@
    "operator": null
   }
  ],
- "fetched_at": "2026-11-08T16:13:57Z"
+ "fetched_at": "2026-11-12T11:50:13Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-1081",
  "unesco_id": "1081",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 381,
- "popularity_score": 21693,
+ "tier": "full",
+ "popularity_rank": 351,
+ "popularity_score": 19957,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1081.jpg",
-   "title": "Orkhon Valley Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1081",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/202408_Orkhon_Valley_01.jpg/1280px-202408_Orkhon_Valley_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "202408 Orkhon Valley 01.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:202408_Orkhon_Valley_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/202408_Orkhon_Valley_02.jpg/1280px-202408_Orkhon_Valley_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "202408 Orkhon Valley 02.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:202408_Orkhon_Valley_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/202408_Orkhon_Valley_03.jpg/1280px-202408_Orkhon_Valley_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "202408 Orkhon Valley 03.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:202408_Orkhon_Valley_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/202408_Orkhon_Valley_04.jpg/1280px-202408_Orkhon_Valley_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "202408 Orkhon Valley 04.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:202408_Orkhon_Valley_04.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1081",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Өргөөт",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 47.6695083,
+   "lon": 102.550774,
+   "distance_km": 24.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Артхан зочид буудал",
+   "name_en": "Artkhan hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 47.3682346,
+   "lon": 102.4750443,
+   "distance_km": 34.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HOTEL BAYANBURD MNT50000（No WiFi No shower No ENGLISH No restaurant ）",
+   "name_en": "HOTEL BAYANBURD MNT50000（No WiFi No shower No ENGLISH No restaurant ）",
+   "stars": null,
+   "brand": null,
+   "lat": 47.1957491,
+   "lon": 102.829333,
+   "distance_km": 40.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "점심식사 good restaurant.",
+   "name_en": "Ikh Khorum",
+   "stars": null,
+   "brand": null,
+   "lat": 47.1963451,
+   "lon": 102.8239315,
+   "distance_km": 40.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mukhulai Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 47.1940441,
+   "lon": 102.8387168,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MN",
   "country_zh": "蒙古国",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

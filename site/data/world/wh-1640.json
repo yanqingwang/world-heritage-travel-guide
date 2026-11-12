@@ -2,8 +2,8 @@
  "id": "wh-1640",
  "unesco_id": "1640",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 139,
+ "tier": "basic",
+ "popularity_rank": 964,
  "popularity_score": 105959,
  "country": "TN",
  "country_zh": "突尼斯",
@@ -126,107 +126,10 @@
   ],
   "nearest_airport_km": 14.0,
   "distance_beijing_km": 8816.9,
-  "ferry_terminals": [
-   {
-    "name": "حومة السوق",
-    "name_en": "Houmt Souk",
-    "lat": 33.8880407,
-    "lon": 10.8569912,
-    "distance_km": 11.9,
-    "operator": null
-   },
-   {
-    "name": "Houmt Souk",
-    "name_en": null,
-    "lat": 33.8903512,
-    "lon": 10.856742,
-    "distance_km": 12.1,
-    "operator": null
-   },
-   {
-    "name": "أجيم",
-    "name_en": "Adjim",
-    "lat": 33.7158639,
-    "lon": 10.7417416,
-    "distance_km": 15.1,
-    "operator": null
-   },
-   {
-    "name": "الجرف",
-    "name_en": "Djorf",
-    "lat": 33.6978572,
-    "lon": 10.7356002,
-    "distance_km": 16.7,
-    "operator": null
-   },
-   {
-    "name": "ميناء الصيد البحري ببوغرارة",
-    "name_en": null,
-    "lat": 33.5404728,
-    "lon": 10.6849103,
-    "distance_km": 32.7,
-    "operator": null
-   }
-  ],
+  "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Palm Beach Palace Djerba (ex-Sofitel)",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 33.8510387,
-   "lon": 10.9891552,
-   "distance_km": 12.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Fiesta Beach Club",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8494021,
-   "lon": 10.9885133,
-   "distance_km": 12.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Club Marmara Palm Beach Djerba",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8530526,
-   "lon": 10.9873987,
-   "distance_km": 12.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Carribean World Thalasso Djerba",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8554633,
-   "lon": 10.9854538,
-   "distance_km": 12.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "SunConnect Aqua Resort",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8331316,
-   "lon": 11.0059517,
-   "distance_km": 12.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -298,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

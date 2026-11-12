@@ -2,9 +2,9 @@
  "id": "wh-239",
  "unesco_id": "239",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1050,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 158,
+ "popularity_score": 73019,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:7th%20-%209th%20century%20Hindu%20and%20Jain%20temples%2C%20Pattadakal%20monuments%20Karnataka%207.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jambulingeshwara_Temple%2C_Pattadakal.jpg/1280px-Jambulingeshwara_Temple%2C_Pattadakal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jambulingeshwara Temple, Pattadakal.jpg",
+   "author": "Naveen R Gowda",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jambulingeshwara_Temple%2C_Pattadakal.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pattadakal_above_and_Nellaiappar_below.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Pattadakal above and Nellaiappar below.jpg",
+   "author": "Shyamal L. and Udayanga23",
+   "license": "CC BY-SA 4.0",
+   "credit": "This image has been extracted from another file",
+   "source": "https://commons.wikimedia.org/wiki/File:Pattadakal_above_and_Nellaiappar_below.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Stamp_of_India_-_2020_-_Colnect_984036_-_Pattadakal_Monuments.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Stamp of India - 2020 - Colnect 984036 - Pattadakal Monuments.jpeg",
+   "author": "Post of India",
+   "license": "GODL-India",
+   "credit": "https://colnect.com/en/stamps/stamp/984036-Pattadakal_Monuments-UNESCO_World_Heritage_Sites_in_India_Series_III_2020-India",
+   "source": "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_2020_-_Colnect_984036_-_Pattadakal_Monuments.jpeg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_239.jpg",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 102.3,
   "distance_beijing_km": 4857.8,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Guledgudda Road",
+    "name_en": null,
+    "lat": 16.0673054,
+    "lon": 75.694556,
+    "distance_km": 18.2,
+    "operator": "SWR"
+   },
+   {
+    "name": "Lakhmapur",
+    "name_en": null,
+    "lat": 15.8698853,
+    "lon": 75.6272151,
+    "distance_km": 22.0,
+    "operator": "SWR"
+   },
+   {
+    "name": "Hole Alur",
+    "name_en": null,
+    "lat": 15.82027,
+    "lon": 75.6467462,
+    "distance_km": 23.1,
+    "operator": "SWR"
+   },
+   {
+    "name": "Sulikeri",
+    "name_en": null,
+    "lat": 16.122787,
+    "lon": 75.6508601,
+    "distance_km": 25.9,
+    "operator": "SWR"
+   },
+   {
+    "name": "Bagalkot",
+    "name_en": null,
+    "lat": 16.1793224,
+    "lon": 75.6999315,
+    "distance_km": 28.2,
+    "operator": "SWR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Chalukya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.886891,
+   "lon": 75.7049974,
+   "distance_km": 13.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clarks Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.918732,
+   "lon": 75.6803124,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mookambika Deluxe",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9241421,
+   "lon": 75.6794005,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rajsangam International Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9240169,
+   "lon": 75.6796358,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Deluxe Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9245468,
+   "lon": 75.6787013,
+   "distance_km": 14.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -179,5 +300,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

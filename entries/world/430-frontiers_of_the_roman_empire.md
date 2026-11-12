@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "430"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(ii)(iii)(iv)"
 lat: 54.992611111
 lon: -2.601
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 罗马帝国边界 / Frontiers of the Roman Empire
@@ -54,7 +54,24 @@ Teile des römischen Limes mit zusammen 732,5 Kilometer sind als Grenzen des Rö
 - ✈ **Newcastle International Airport (NCL)** — 58.3 km
 - ✈ **Teesside International Airport (MME)** — 92.4 km
 - ✈ **Edinburgh Airport (EDI)** — 117.0 km
+- 🚉 **Haltwhistle** — 9.2 km
+- 🚉 **Brampton** — 9.4 km
+- 🚉 **Slaggyford** — 15.4 km
+- 🚉 **Bardon Mill** — 16.5 km
+- 🚉 **Lintley Halt** — 17.3 km
+- ⛴ **Pooley Bridge** — 44.9 km
+- ⛴ **Howtown** — 49.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7932.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Ibis Hotel Carlisle** — 23.9 km — chain — Ibis
+- **Carlisle Station Hotel** — 24.0 km — chain — Best Western
+- **Best Western Derwent Manor Hotel** — 48.4 km — chain — Best Western
+- **Gilsland Hall Hotel** — 2.2 km — hotel
+- **Greenhead Hotel** — 4.5 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

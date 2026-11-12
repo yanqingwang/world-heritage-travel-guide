@@ -8,13 +8,13 @@ country: "BH"
 country_zh: "巴林"
 country_en: "Bahrain"
 unesco_id: "1192"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: 26.233611111
 lon: 50.520555555
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 巴林贸易港考古遗址 / Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Bahrain Fort 7.jpg · see Wikimedia Commons file page*
 
-![Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun](https://whc.unesco.org/uploads/sites/site_1192.jpg)
+![Bahrain Former Port.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bahrain_Former_Port.jpg/1280px-Bahrain_Former_Port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bahrain Former Port.jpg · Dobroš · CC BY-SA 4.0*
+
+![Bahrain Fort (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bahrain_Fort_%281%29.jpg/1280px-Bahrain_Fort_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrain Fort (1).jpg · Richard Mortel · CC BY 2.0*
+
+![Bahrain Fort (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bahrain_Fort_%2810%29.jpg/1280px-Bahrain_Fort_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrain Fort (10).jpg · Richard Mortel · CC BY 2.0*
+
+![Bahrain Fort (11).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahrain_Fort_%2811%29.jpg/1280px-Bahrain_Fort_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bahrain Fort (11).jpg · Richard Mortel · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ Qal’at al-Bahrain is a typical tell – an artificial mound created by many su
 - ✈ **Bahrain International Airport (BAH)** — 12.3 km
 - ✈ **King Fahd International Airport (DMM)** — 76.6 km
 - ✈ **Al-Ahsa International Airport (HOF)** — 147.9 km
+- 🚉 **محطة قطار الدمام** — 43.9 km
+- ⛴ **واتر جاردن سيتي** — 3.4 km
+- ⛴ **هاربر هاوس** — 5.2 km
+- ⛴ **فندق الفورسيزونز** — 6.4 km
+- ⛴ **رصيف دلما الافنيوز** — 6.6 km
+- ⛴ **الساحل الشرقي** — 8.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6185.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Bahrain City Centre Hotel & Residences** — 3.5 km — star — 5★ · Hilton
+- **Algosaibi Hotel** — 31.1 km — star — 5★
+- **Moevenpick Al Khobar** — 31.8 km — star — 5★ · Mövenpick
+- **voco al Khobar, an IHG Hotel** — 33.8 km — star — 5★ · voco
+- **Grand Hyatt Al Khobar Hotel and Residences** — 34.7 km — star — 5★ · Grand Hyatt
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

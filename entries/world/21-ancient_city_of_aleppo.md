@@ -8,13 +8,13 @@ country: "SY"
 country_zh: "叙利亚"
 country_en: "Syria"
 unesco_id: "21"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(iii)(iv)"
 lat: 36.18333333
 lon: 37.15
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 阿勒颇古城 / Ancient City of Aleppo
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:10Z"
 
 *Aleppo 03.jpg · see Wikimedia Commons file page*
 
-![Ancient City of Aleppo](https://whc.unesco.org/uploads/sites/site_21.jpg)
+![Al-Shibani Alp11.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Al-Shibani_Alp11.JPG/1280px-Al-Shibani_Alp11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient City of Aleppo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Al-Shibani Alp11.JPG · Preacher lad · CC BY-SA 3.0*
+
+![Al-Shibani Alp12.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Shibani_Alp12.JPG/1280px-Al-Shibani_Alp12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Shibani Alp12.JPG · Preacher lad · CC BY-SA 3.0*
+
+![Al-Shibani Alp14.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Al-Shibani_Alp14.jpg/1280px-Al-Shibani_Alp14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Shibani Alp14.jpg · Preacher lad · CC BY-SA 4.0*
+
+![Aleppo - Ancient City of Aleppo - 20110326181828.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aleppo_-_Ancient_City_of_Aleppo_-_20110326181828.jpg/1280px-Aleppo_-_Ancient_City_of_Aleppo_-_20110326181828.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aleppo - Ancient City of Aleppo - 20110326181828.jpg · KevForkan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ Located at the crossroads of several trade routes from the 2nd millennium B.C., 
 - ✈ **Aleppo International Airport (ALP)** — 6.9 km
 - ✈ **Hatay Airport (HTY)** — 80.0 km
 - ✈ **Gaziantep Oğuzeli International Airport (GZT)** — 89.9 km
+- 🚉 **الوضيحي** — 2.2 km
+- 🚉 **حلب** — 3.4 km
+- 🚉 **تل رفعت** — 32.7 km
+- 🚉 **محطة تلاجين** — 40.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6714.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sheraton Alep** — 2.4 km — chain — Sheraton Aleppo · Sheraton
+- **Al Mansouryia Hotel** — 1.5 km — hotel
+- **فندق الخدمات** — 2.0 km — hotel
+- **Coral Julia Dumna** — 2.1 km — hotel
+- **فندق ميراج** — 2.1 km — hotel — Mirage Hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

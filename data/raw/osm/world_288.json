@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Pullman Cologne",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 50.9401912,
+   "lon": 6.9455646,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Cologne",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 50.9403843,
+   "lon": 6.9695875,
+   "distance_km": 13.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 51.2165484,
+   "lon": 6.7527457,
+   "distance_km": 44.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Breidenbacher Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2253282,
+   "lon": 6.7777564,
+   "distance_km": 45.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Parkhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2268175,
+   "lon": 6.7783854,
+   "distance_km": 45.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1227,
+ "stations": [
+  {
+   "name": "Brühl",
+   "name_en": null,
+   "lat": 50.8292719,
+   "lon": 6.9126407,
+   "distance_km": 0.4,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Sechtem",
+   "name_en": null,
+   "lat": 50.7954311,
+   "lon": 6.9577218,
+   "distance_km": 5.0,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Hürth-Kalscheuren",
+   "name_en": null,
+   "lat": 50.8764974,
+   "lon": 6.9101655,
+   "distance_km": 5.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Erftstadt",
+   "name_en": null,
+   "lat": 50.8072763,
+   "lon": 6.8330118,
+   "distance_km": 5.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Sürth Bahnhof",
+   "name_en": null,
+   "lat": 50.8642066,
+   "lon": 7.003487,
+   "distance_km": 7.8,
+   "operator": "HGK"
+  },
+  {
+   "name": "Michaelshoven",
+   "name_en": null,
+   "lat": 50.8759692,
+   "lon": 6.9990761,
+   "distance_km": 8.4,
+   "operator": "HGK"
+  },
+  {
+   "name": "Stüttgenhof",
+   "name_en": null,
+   "lat": 50.9200651,
+   "lon": 6.877153,
+   "distance_km": 10.5,
+   "operator": null
+  },
+  {
+   "name": "Marsdorf",
+   "name_en": null,
+   "lat": 50.9174863,
+   "lon": 6.8581812,
+   "distance_km": 10.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Wesseling",
+   "name_en": null,
+   "lat": 50.8256337,
+   "lon": 6.9863845,
+   "distance_km": 5.5,
+   "operator": "Stadtwerke Niederkassel;Stadtwerke Wesseling GmbH;Weisbarth Schifffahrt oHG"
+  },
+  {
+   "name": "Godorfer Hafen‎",
+   "name_en": null,
+   "lat": 50.8483558,
+   "lon": 6.9840868,
+   "distance_km": 5.8,
+   "operator": "HGK"
+  },
+  {
+   "name": "Lülsdorf",
+   "name_en": null,
+   "lat": 50.8274382,
+   "lon": 6.9922478,
+   "distance_km": 5.9,
+   "operator": "Stadtwerke Niederkassel;Stadtwerke Wesseling GmbH;Weisbarth Schifffahrt oHG"
+  },
+  {
+   "name": "Shell Deutschland Oil GmbH, Werk Süd",
+   "name_en": null,
+   "lat": 50.8235178,
+   "lon": 7.0004228,
+   "distance_km": 6.5,
+   "operator": "Shell Deutschland"
+  },
+  {
+   "name": "Zündorf - Weiß",
+   "name_en": null,
+   "lat": 50.871106,
+   "lon": 7.041163,
+   "distance_km": 10.5,
+   "operator": "KS Personenschifffahrt GmbH"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:40Z"
+}

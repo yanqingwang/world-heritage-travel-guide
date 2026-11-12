@@ -8,13 +8,13 @@ country: "TM"
 country_zh: "土库曼斯坦"
 country_en: "Turkmenistan"
 unesco_id: "886"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iii)"
 lat: 37.662777777
 lon: 62.1925
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 梅尔夫历史与文化公园 / State Historical and Cultural Park “Ancient Merv”
@@ -58,22 +58,7 @@ Merv is the oldest and best-preserved of the oasis-cities along the Silk Route i
 - ✈ **Mary International Airport (MYP)** — 26.5 km
 - ✈ **Türkmenabat International Airport (CRZ)** — 184.9 km
 - ✈ **Mashhad International Airport (MHD)** — 276.6 km
-- 🚉 **Gurbangala** — 14.3 km
-- 🚉 **Rzd. No 64** — 15.1 km
-- 🚉 **Mollanepes** — 23.5 km
-- 🚉 **Semenik** — 27.3 km
-- 🚉 **Talhatanbaba** — 29.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4668.3 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Sanjar** — 32.3 km — star — Hotel Sanjar · 2★
-- **Marguş Oteli** — 31.0 km — hotel — Margush Hotel
-- **Mary Oteli** — 31.5 km — hotel — Hotel Mary
-- **Myhmanhana** — 32.3 km — hotel
-- **Yrsgal** — 32.4 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

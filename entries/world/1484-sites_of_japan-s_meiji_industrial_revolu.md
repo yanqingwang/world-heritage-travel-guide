@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1484"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)(iv)"
 lat: 34.43055556
 lon: 131.4122222
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 明治工业革命遗迹：钢铁、造船和煤矿 / Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:22Z"
 
 *Hagi castle Masudas.JPG · see Wikimedia Commons file page*
 
-![Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining](https://whc.unesco.org/uploads/sites/site_1484.jpg)
+![Japan’s Meiji Industrial Revolution sites map Hagi City center.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Hagi_City_center.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Hagi_City_center.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Japan’s Meiji Industrial Revolution sites map Hagi City center.svg · OpenStreetMap contributors, and Pekachu OpenStreetMap contributors · CC BY-SA 2.0*
+
+![Japan’s Meiji Industrial Revolution sites map Kagoshima City.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Kagoshima_City.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Kagoshima_City.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan’s Meiji Industrial Revolution sites map Kagoshima City.svg · OpenStreetMap contributors, and Pekachu OpenStreetMap contributors · CC BY-SA 2.0*
+
+![Japan’s Meiji Industrial Revolution sites map Miike.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Miike.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Miike.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan’s Meiji Industrial Revolution sites map Miike.svg · OpenStreetMap contributors, and Pekachu OpenStreetMap contributors · CC BY-SA 2.0*
+
+![Japan’s Meiji Industrial Revolution sites map Nagasaki City center.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Nagasaki_City_center.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Nagasaki_City_center.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan’s Meiji Industrial Revolution sites map Nagasaki City center.svg · OpenStreetMap contributors, and Pekachu OpenStreetMap contributors · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ The site encompasses a series of twenty three component parts, mainly located in
 - ✈ **Iwami Airport (IWJ)** — 44.1 km
 - ✈ **Yamaguchi Ube Airport (UBJ)** — 57.0 km
 - ✈ **Kitakyushu Airport (KKJ)** — 73.7 km
+- 🚉 **越ヶ浜** — 1.3 km
+- 🚉 **東萩** — 1.5 km
+- 🚉 **玉江** — 4.1 km
+- 🚉 **萩** — 4.2 km
+- 🚉 **長門大井** — 5.7 km
+- ⛴ **鶴江の渡し（鶴江台側）** — 1.3 km
+- ⛴ **鶴江の渡し（浜崎側）** — 1.4 km
+- ⛴ **萩港** — 1.5 km
+- ⛴ **大島港** — 6.8 km
+- ⛴ **相島港** — 14.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1469.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **萩ロイヤルインテリジェントホテル** — 1.6 km — hotel
+- **ビジネスホテル　オレンジ** — 1.8 km — hotel
+- **萩本陣** — 1.9 km — hotel
+- **萩ユースホステル** — 3.2 km — hotel
+- **景清洞トロン温泉** — 17.7 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

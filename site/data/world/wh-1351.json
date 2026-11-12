@@ -2,8 +2,8 @@
  "id": "wh-1351",
  "unesco_id": "1351",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 296,
+ "tier": "basic",
+ "popularity_rank": 873,
  "popularity_score": 31135,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/CaminoRealAdentro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "CaminoRealAdentro.png",
-   "author": "U.S. National Park Service",
-   "license": "Public domain",
-   "credit": "http://www.nps.gov/elca",
-   "source": "https://commons.wikimedia.org/wiki/File:CaminoRealAdentro.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail_%2846326935275%29.jpg/1280px-El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail_%2846326935275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "El Camino Real de Tierra Adentro National Historic Trail (46326935275).jpg",
-   "author": "mypubliclands",
-   "license": "Public domain",
-   "credit": "El Camino Real de Tierra Adentro National Historic Trail",
-   "source": "https://commons.wikimedia.org/wiki/File:El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail_%2846326935275%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail%2C_New_Mexico_%2836695139496%29.jpg/1280px-El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail%2C_New_Mexico_%2836695139496%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "El Camino Real de Tierra Adentro National Historic Trail, New Mexico (36695139496).jpg",
-   "author": "mypubliclands",
-   "license": "Public domain",
-   "credit": "El Camino Real de Tierra Adentro National Historic Trail, New Mexico",
-   "source": "https://commons.wikimedia.org/wiki/File:El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail%2C_New_Mexico_%2836695139496%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/El_Camino_Real_de_Tierra_Adentro_%28IA_elcaminorealdeti00unse%29.pdf/page1-1280px-El_Camino_Real_de_Tierra_Adentro_%28IA_elcaminorealdeti00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "El Camino Real de Tierra Adentro (IA elcaminorealdeti00unse).pdf",
-   "author": "Palmer, Gabrielle G., 1938- Fosberg, Stephen L Piper, June-el Carpio, Donna, book designer United States. Bureau of Land",
-   "license": "Public domain",
-   "credit": "Internet Archive identifier : elcaminorealdeti00unse https://archive.org/download/elcaminorealdeti00unse/elcaminorealdeti00unse.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:El_Camino_Real_de_Tierra_Adentro_%28IA_elcaminorealdeti00unse%29.pdf"
+   "url": "https://whc.unesco.org/uploads/sites/site_1351.jpg",
+   "title": "Camino Real de Tierra Adentro",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1351",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1351",
@@ -129,63 +105,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hôtel Mesón de Mulatos",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 22.5724673,
-   "lon": -102.2527582,
-   "distance_km": 13.6,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Las Colinas",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 22.7323686,
-   "lon": -102.4959905,
-   "distance_km": 18.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Don Miguel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 22.766431,
-   "lon": -102.5641992,
-   "distance_km": 25.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel María Conchita",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 22.7690694,
-   "lon": -102.5709741,
-   "distance_km": 26.6,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Quinta Real",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 22.7687611,
-   "lon": -102.5756744,
-   "distance_km": 26.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -257,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

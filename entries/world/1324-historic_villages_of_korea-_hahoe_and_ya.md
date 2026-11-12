@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(iv)"
 lat: 36.53916667
 lon: 128.5166667
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 韩国历史村落：河回村和良洞村 / Historic Villages of Korea: Hahoe and Yangdong

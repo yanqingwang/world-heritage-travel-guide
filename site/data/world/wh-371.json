@@ -2,9 +2,9 @@
  "id": "wh-371",
  "unesco_id": "371",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 387,
- "popularity_score": 21159,
+ "tier": "full",
+ "popularity_rank": 359,
+ "popularity_score": 19445,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_371.jpg",
-   "title": "Ironbridge Gorge",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/371",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Abandoned_kilns.jpg/1280px-Abandoned_kilns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abandoned kilns.jpg",
+   "author": "Matt From London",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/57868312@N00/18734056645/",
+   "source": "https://commons.wikimedia.org/wiki/File:Abandoned_kilns.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coalbrookdale_gorge.jpg/1280px-Coalbrookdale_gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Coalbrookdale gorge.jpg",
+   "author": "Matt From London",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/57868312@N00/18111380354/",
+   "source": "https://commons.wikimedia.org/wiki/File:Coalbrookdale_gorge.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cottages_on_the_riverside_at_Ironbridge_-_geograph.org.uk_-_1013916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Cottages on the riverside at Ironbridge - geograph.org.uk - 1013916.jpg",
+   "author": "Mick Lobb",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:Cottages_on_the_riverside_at_Ironbridge_-_geograph.org.uk_-_1013916.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Downstream_from_the_ironbridge_-_geograph.org.uk_-_267024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Downstream from the ironbridge - geograph.org.uk - 267024.jpg",
+   "author": "John M",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk ; transferred by User:oxyman using geograph_org2commons .",
+   "source": "https://commons.wikimedia.org/wiki/File:Downstream_from_the_ironbridge_-_geograph.org.uk_-_267024.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/371",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 52.6,
   "distance_beijing_km": 8138.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Sabrina Boat",
+    "name_en": null,
+    "lat": 52.709833,
+    "lon": -2.7582982,
+    "distance_km": 21.4,
+    "operator": null
+   },
+   {
+    "name": "Dudley Canal and Caverns",
+    "name_en": null,
+    "lat": 52.5235689,
+    "lon": -2.0779148,
+    "distance_km": 29.0,
+    "operator": "The Dudley Canal and Tunnel Trust;Dudley Canal Trust"
+   },
+   {
+    "name": "Sherborne Wharf Water Bus Stop",
+    "name_en": null,
+    "lat": 52.478811,
+    "lon": -1.9183685,
+    "distance_km": 40.9,
+    "operator": "Sherborne Wharf"
+   },
+   {
+    "name": "Brindleyplace Water Bus Stop",
+    "name_en": null,
+    "lat": 52.4783199,
+    "lon": -1.9118598,
+    "distance_km": 41.3,
+    "operator": "Sherborne Wharf"
+   },
+   {
+    "name": "Gas Street Basin Water Bus Stop",
+    "name_en": null,
+    "lat": 52.4774762,
+    "lon": -1.9090288,
+    "distance_km": 41.6,
+    "operator": "Sherborne Wharf"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Horsehay & Dawley",
+    "name_en": null,
+    "lat": 52.6628276,
+    "lon": -2.481648,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Spring Village",
+    "name_en": null,
+    "lat": 52.662865,
+    "lon": -2.4825281,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Lawley Village",
+    "name_en": null,
+    "lat": 52.6714844,
+    "lon": -2.4799836,
+    "distance_km": 5.0,
+    "operator": null
+   },
+   {
+    "name": "Telford Central",
+    "name_en": null,
+    "lat": 52.6811135,
+    "lon": -2.441178,
+    "distance_km": 6.4,
+    "operator": "West Midlands Trains (West Midlands Railway)"
+   },
+   {
+    "name": "Oakengates",
+    "name_en": null,
+    "lat": 52.6930906,
+    "lon": -2.450188,
+    "distance_km": 7.6,
+    "operator": "West Midlands Trains (West Midlands Railway)"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Grand Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.4819911,
+   "lon": -1.8991869,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Birmingham Brindleyplace",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 52.4769709,
+   "lon": -1.9148913,
+   "distance_km": 41.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Birmingham",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt Regency",
+   "lat": 52.4780349,
+   "lon": -1.909254,
+   "distance_km": 41.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Marriott",
+   "lat": 53.0063615,
+   "lon": -2.263579,
+   "distance_km": 44.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Birmingham North Moor Hall Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "BW Premier Collection",
+   "lat": 52.5828355,
+   "lon": -1.8116779,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

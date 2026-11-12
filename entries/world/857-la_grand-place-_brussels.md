@@ -8,13 +8,13 @@ country: "BE"
 country_zh: "比利时"
 country_en: "Belgium"
 unesco_id: "857"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1998"
 criteria: "(ii)(iv)"
 lat: 50.84670775
 lon: 4.35253815
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 布鲁塞尔大广场 / La Grand-Place, Brussels
@@ -64,27 +64,7 @@ La Grand-Place de Bruxelles est un ensemble remarquablement homogène de bâtime
 - ✈ **Brussels Airport (BRU)** — 11.1 km
 - ✈ **Antwerp International Airport (Deurne) (ANR)** — 39.0 km
 - ✈ **Brussels South Charleroi Airport (CRL)** — 43.4 km
-- 🚉 **Bruxelles-Central - Brussel-Centraal** — 0.3 km
-- 🚉 **Bruxelles-Nord - Brussel-Noord** — 1.6 km
-- 🚉 **Bruxelles-Midi - Brussel-Zuid** — 1.7 km
-- 🚉 **Bruxelles-Luxembourg - Brussel-Luxemburg** — 1.8 km
-- 🚉 **Bruxelles-Schuman - Brussel-Schuman** — 2.0 km
-- ⛴ **Sainctelette** — 1.5 km
-- ⛴ **Quai des Péniches - Akenkaai** — 1.5 km
-- ⛴ **Pont Van Praet - Van Praet brug** — 4.1 km
-- ⛴ **Quai de Heembeek - Heembeekkaai** — 4.8 km
-- ⛴ **Cruise Terminal** — 6.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7944.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Amigo** — 0.1 km — star — 5★ · Rocco Forte Hotels
-- **Warwick Brussels** — 0.2 km — star — 5★
-- **Radisson Collection Grand Place Brussels** — 0.4 km — star — 5★ · Radisson Collection
-- **Juliana** — 0.6 km — star — 5★ · Juliana
-- **Le Plaza Brussels** — 0.9 km — star — 5★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

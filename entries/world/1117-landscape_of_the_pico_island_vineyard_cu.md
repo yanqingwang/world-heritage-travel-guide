@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(v)"
 lat: 38.51333333
 lon: -28.54111111
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 皮库岛葡萄园文化景观 / Landscape of the Pico Island Vineyard Culture

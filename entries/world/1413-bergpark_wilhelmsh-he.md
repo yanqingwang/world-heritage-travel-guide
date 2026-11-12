@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1413"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2013"
 criteria: "(iii)(iv)"
 lat: 51.3167
 lon: 9.4
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 威廉高地公园 / Bergpark Wilhelmshöhe
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:22Z"
 
 *00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg · see Wikimedia Commons file page*
 
-![Bergpark Wilhelmshöhe](https://whc.unesco.org/uploads/sites/site_1413.jpg)
+![00 1189 Blick vom Bergpark Wilhelmshöhe, Kassel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/00_1189_Blick_vom_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel.jpg/1280px-00_1189_Blick_vom_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bergpark Wilhelmshöhe · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*00 1189 Blick vom Bergpark Wilhelmshöhe, Kassel.jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel_-_L%C3%B6wenburg.jpg/1280px-00_2151_Bergpark_Wilhelmsh%C3%B6he%2C_Kassel_-_L%C3%B6wenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg · W. Bulach · CC BY-SA 4.0*
+
+![00 3152 Landschaftsbild im Bergpark Wilhelmshöhe - Kassel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmsh%C3%B6he_-_Kassel.jpg/1280px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmsh%C3%B6he_-_Kassel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 3152 Landschaftsbild im Bergpark Wilhelmshöhe - Kassel.jpg · W. Bulach · CC BY-SA 4.0*
+
+![1308 Herkules 020.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1308_Herkules_020.jpg/1280px-1308_Herkules_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1308 Herkules 020.jpg · Jens Haines · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Der Bergpark Wilhelmshöhe in der nordhessischen Großstadt Kassel ist mit einer
 - ✈ **Kassel Airport (KSF)** — 11.3 km
 - ✈ **Paderborn Lippstadt Airport (PAD)** — 63.4 km
 - ✈ **Erfurt-Weimar Airport (ERF)** — 115.2 km
+- 🚉 **Kassel-Wilhelmshöhe** — 3.4 km
+- 🚉 **Kassel-Wilhelmshöhe Hessencourier** — 3.7 km
+- 🚉 **Schauenburg-Elgershausen** — 5.1 km
+- 🚉 **Ahnatal-Weimar** — 5.2 km
+- 🚉 **Ahnatal-Heckershausen** — 5.4 km
+- ⛴ **Schifffahrtslinie MS Weserstein** — 20.3 km
+- ⛴ **Schiffsanleger für Weser und Fulda** — 20.7 km
+- ⛴ **Fähre Veckerhagen** — 24.7 km
+- ⛴ **Sperrmauer, Ufer Ost** — 27.8 km
+- ⛴ **Waldeck, Strandbad** — 28.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7645.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Kurparkhotel** — 2.3 km — star — 4★
+- **Kurfürst Wilhelm I.** — 3.2 km — star — 4★
+- **Sunday Hotel Kassel (ehem. H4 Hotel)** — 4.2 km — star — 4★
+- **Hotel Reiss** — 6.4 km — star — 4★
+- **Wyndham Garden Kassel** — 10.4 km — star — 4★ · Wyndham Garden
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

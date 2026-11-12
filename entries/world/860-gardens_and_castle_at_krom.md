@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 49.2971717
 lon: 17.3814272
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 克罗麦里兹花园和城堡 / Gardens and Castle at Kroměříž

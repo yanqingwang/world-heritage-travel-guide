@@ -23,6 +23,17 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "Blue Horizon Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 13.0746786,
+   "lon": -59.5879123,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "South Gap",
    "name_en": null,
    "stars": 3,
@@ -41,17 +52,6 @@
    "lat": 13.0826442,
    "lon": -59.6093193,
    "distance_km": 1.8,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Fairmont Royal Pavilion Resort",
-   "name_en": null,
-   "stars": null,
-   "brand": "Fairmont",
-   "lat": 13.2019053,
-   "lon": -59.6403869,
-   "distance_km": 11.9,
    "kind": "chain",
    "source": "OpenStreetMap"
   }
@@ -76,5 +76,5 @@
   }
  ],
  "ferry_terminals": [],
- "fetched_at": "2026-11-08T12:01:35Z"
+ "fetched_at": "2026-11-12T11:54:39Z"
 }

@@ -8,13 +8,13 @@ country: "LB"
 country_zh: "黎巴嫩"
 country_en: "Lebanon"
 unesco_id: "293"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1984"
 criteria: "(iii)(iv)"
 lat: 33.725833333
 lon: 35.929722222
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 安杰尔 / Anjar
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Anjar, Lebanon, Ancient ruins of the city of Anjar.jpg · see Wikimedia Commons file page*
 
-![Anjar](https://whc.unesco.org/uploads/sites/site_293.jpg)
+![Anjar 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Anjar_1.jpg/1280px-Anjar_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Anjar · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Anjar 1.jpg · Leon petrosyan · CC BY-SA 4.0*
+
+![Anjar 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Anjar_2.jpg/1280px-Anjar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anjar 2.jpg · Leon petrosyan · CC BY-SA 4.0*
+
+![Anjar 8.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Anjar_8.jpg/1280px-Anjar_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anjar 8.jpg · Leon petrosyan · CC BY-SA 4.0*
+
+![Anjar Calouste Gulbenkian Hall, March 2017.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Anjar_Calouste_Gulbenkian_Hall%2C_March_2017.jpg/1280px-Anjar_Calouste_Gulbenkian_Hall%2C_March_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anjar Calouste Gulbenkian Hall, March 2017.jpg · Bdx · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The city of Anjar was founded by Caliph Walid I at the beginning of the 8th cent
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 42.2 km
 - ✈ **Damascus International Airport (DAM)** — 64.6 km
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 131.0 km
+- 🚉 **محطة قطار جديدة الشيباني** — 30.1 km
+- 🚉 **محطة الهامة** — 33.1 km
+- 🚉 **قطنا** — 34.3 km
+- 🚉 **محطة قطار الربوة** — 38.4 km
+- 🚉 **داريا** — 41.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6985.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق غولدن مزة** — 39.0 km — star — Golden Mazzeh · 5★
+- **Le Royal** — 39.6 km — star — Le Royal · 5★
+- **Hilton Beirut Habtoor Grand** — 39.6 km — star — Hilton Beirut Habtoor Grand · 5★
+- **Sheraton** — 39.7 km — star — 5★ · Sheraton
+- **Hilton Beirut Metropolitan Palace** — 39.8 km — star — Hilton Beirut Metropolitan Palace · 5★ · Hilton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

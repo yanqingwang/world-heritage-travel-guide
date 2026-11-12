@@ -2,9 +2,9 @@
  "id": "wh-1091",
  "unesco_id": "1091",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 375,
- "popularity_score": 21905,
+ "tier": "full",
+ "popularity_rank": 342,
+ "popularity_score": 20486,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
  "country_en": "North Korea",
@@ -103,9 +103,106 @@
   "nearest_airport_km": 45.8,
   "distance_beijing_km": 783.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "룡강",
+    "name_en": "Ryonggang",
+    "lat": 38.8535053,
+    "lon": 125.4243214,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "룡호",
+    "name_en": null,
+    "lat": 38.8755669,
+    "lon": 125.3964896,
+    "distance_km": 2.1,
+    "operator": "조선민주주의인민공화국 철도성"
+   },
+   {
+    "name": "태성역",
+    "name_en": "Taeseong",
+    "lat": 38.887302,
+    "lon": 125.4591599,
+    "distance_km": 4.7,
+    "operator": null
+   },
+   {
+    "name": "양막",
+    "name_en": "Yangmak",
+    "lat": 38.8972595,
+    "lon": 125.3655555,
+    "distance_km": 5.7,
+    "operator": null
+   },
+   {
+    "name": "후산",
+    "name_en": "Husan",
+    "lat": 38.9161879,
+    "lon": 125.382678,
+    "distance_km": 6.5,
+    "operator": "조선민주주의인민공화국 철도성"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "룡강 온천 호텔",
+   "name_en": "Ryonggang Hot Spa Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.8745794,
+   "lon": 125.22032,
+   "distance_km": 16.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "량강려관",
+   "name_en": "Ryanggang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.004757,
+   "lon": 125.69391,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "서산려관",
+   "name_en": "Sosan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0106106,
+   "lon": 125.6924158,
+   "distance_km": 29.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "라그랑 호텔",
+   "name_en": "Ragrang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.9844474,
+   "lon": 125.715268,
+   "distance_km": 29.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "청년호텔",
+   "name_en": "Chongnyon Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0258052,
+   "lon": 125.6813404,
+   "distance_km": 29.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KP",
   "country_zh": "朝鲜民主主义人民共和国",
@@ -177,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

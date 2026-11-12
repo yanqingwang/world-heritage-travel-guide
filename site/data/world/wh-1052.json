@@ -3,8 +3,8 @@
  "unesco_id": "1052",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 242,
- "popularity_score": 41070,
+ "popularity_rank": 226,
+ "popularity_score": 37343,
  "country": "CZ",
  "country_zh": "捷克",
  "country_en": "Czech Republic",
@@ -170,19 +170,11 @@
   ],
   "railway_stations": [
    {
-    "name": "Brno-Židenice",
-    "name_en": null,
-    "lat": 49.2040951,
-    "lon": 16.6367029,
-    "distance_km": 1.6,
-    "operator": "Správa železnic"
-   },
-   {
     "name": "Brno hlavní nádraží",
     "name_en": null,
-    "lat": 49.1911221,
-    "lon": 16.6131116,
-    "distance_km": 1.8,
+    "lat": 49.1906657,
+    "lon": 16.6132569,
+    "distance_km": 1.9,
     "operator": "Správa železnic"
    },
    {
@@ -208,6 +200,14 @@
     "lon": 16.606795,
     "distance_km": 4.5,
     "operator": "cz:SŽDC"
+   },
+   {
+    "name": "Brno-Slatina",
+    "name_en": null,
+    "lat": 49.1695783,
+    "lon": 16.6820101,
+    "distance_km": 6.4,
+    "operator": "Správa železnic"
    }
   ]
  },
@@ -340,5 +340,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

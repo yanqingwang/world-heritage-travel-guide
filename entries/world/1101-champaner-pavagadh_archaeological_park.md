@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1101"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(iii)(iv)(v)(vi)"
 lat: 22.483333333
 lon: 73.533333333
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 尚庞–巴瓦加德考古公园 / Champaner-Pavagadh Archaeological Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Jama masjid in Champaner.JPG · see Wikimedia Commons file page*
 
-![Champaner-Pavagadh Archaeological Park](https://whc.unesco.org/uploads/sites/site_1101.jpg)
+!['Champaneer, near Baroda, India. Febr. 1879'.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d4/%27Champaneer%2C_near_Baroda%2C_India._Febr._1879%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Champaner-Pavagadh Archaeological Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*'Champaneer, near Baroda, India. Febr. 1879'.jpg · North, Marianne (1830-1890), Cousens, Henry, Burgess, James (1832-1916) · Public domain*
+
+![1 Carvings at Champaner-Pavagadh Archaeological Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/1_Carvings_at_Champaner-Pavagadh_Archaeological_Park.jpg/1280px-1_Carvings_at_Champaner-Pavagadh_Archaeological_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 Carvings at Champaner-Pavagadh Archaeological Park.jpg · Sneha G Gupta · CC BY-SA 4.0*
+
+![2 Carvings at Champaner-Pavagadh Archaeological Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2_Carvings_at_Champaner-Pavagadh_Archaeological_Park.jpg/1280px-2_Carvings_at_Champaner-Pavagadh_Archaeological_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2 Carvings at Champaner-Pavagadh Archaeological Park.jpg · Sneha G Gupta · CC BY-SA 4.0*
+
+![281214 champaner046.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/281214_champaner046.jpg/1280px-281214_champaner046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*281214 champaner046.jpg · Miteshnathani · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ A concentration of largely unexcavated archaeological, historic and living cultu
 - ✈ **Vadodara International Airport (BDQ)** — 35.6 km
 - ✈ **Sardar Vallabh Patel International Airport (AMD)** — 113.4 km
 - ✈ **Bhavnagar Airport (BHU)** — 160.9 km
+- 🚉 **Champaner Road** — 15.8 km
+- 🚉 **Bakrol** — 16.5 km
+- 🚉 **Derol** — 17.9 km
+- 🚉 **Vyankatpura** — 18.6 km
+- 🚉 **Jarod** — 20.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4514.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Airport** — 36.6 km — star — 3★
+- **Hampton by Hilton Vadodara-Alkapuri** — 42.0 km — star
+- **Hotel Sarvottam - Takes Foreigners** — 9.3 km — hotel
+- **Jambughoda Heritage Homestay** — 23.0 km — hotel
+- **Tansha Regal by Mango Hotel** — 34.6 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "ANdAZ",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 37.5254898,
+   "lon": 127.0288978,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW 메리어트 호텔 서울",
+   "name_en": "JW Marriott Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5037983,
+   "lon": 127.0048872,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Conrad Seoul",
+   "name_en": "Conrad Seoul",
+   "stars": 5,
+   "brand": "Conrad",
+   "lat": 37.5253666,
+   "lon": 126.9266335,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "오크우드 프리미어 코엑스센터 서울",
+   "name_en": "Oakwood Premier Coex Center, Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5109858,
+   "lon": 127.058106,
+   "distance_km": 9.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "시그니엘 서울",
+   "name_en": "Signiel Seoul",
+   "stars": 5,
+   "brand": "시그니엘",
+   "lat": 37.5125735,
+   "lon": 127.1028174,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 778,
+ "stations": [
+  {
+   "name": "신설동",
+   "name_en": "Sinseol-dong",
+   "lat": 37.5759931,
+   "lon": 127.0231865,
+   "distance_km": 2.6,
+   "operator": "우이신설 도시철도"
+  },
+  {
+   "name": "보문",
+   "name_en": "Bomun",
+   "lat": 37.5850289,
+   "lon": 127.0195135,
+   "distance_km": 2.6,
+   "operator": "우이신설 도시철도"
+  },
+  {
+   "name": "성신여대입구",
+   "name_en": "Sungshin Women's University",
+   "lat": 37.5924189,
+   "lon": 127.0165294,
+   "distance_km": 2.8,
+   "operator": "우이신설 도시철도"
+  },
+  {
+   "name": "서울역",
+   "name_en": "Seoul Station",
+   "lat": 37.5554175,
+   "lon": 126.9725862,
+   "distance_km": 2.8,
+   "operator": "지티엑스에이운영주식회사"
+  },
+  {
+   "name": "정릉",
+   "name_en": "Jeongneung",
+   "lat": 37.6028286,
+   "lon": 127.0133551,
+   "distance_km": 3.6,
+   "operator": "우이신설 도시철도"
+  },
+  {
+   "name": "왕십리",
+   "name_en": "Wangsimni",
+   "lat": 37.5614861,
+   "lon": 127.0385786,
+   "distance_km": 4.2,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "북한산보국문",
+   "name_en": "Bukhansan Bogungmun",
+   "lat": 37.6121803,
+   "lon": 127.0081741,
+   "distance_km": 4.4,
+   "operator": "우이신설 도시철도"
+  },
+  {
+   "name": "옥수",
+   "name_en": "Oksu",
+   "lat": 37.540264,
+   "lon": 127.0183585,
+   "distance_km": 4.4,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "한강버스 옥수선착장",
+   "name_en": "Hangang Bus Oksu Terminal",
+   "lat": 37.5387997,
+   "lon": 127.0179651,
+   "distance_km": 4.5,
+   "operator": null
+  },
+  {
+   "name": "나루터",
+   "name_en": "Ferry",
+   "lat": 37.530972,
+   "lon": 127.008265,
+   "distance_km": 5.0,
+   "operator": null
+  },
+  {
+   "name": "한강버스 압구정선착장",
+   "name_en": "Hangang Bus Apgujeong Terminal",
+   "lat": 37.5266731,
+   "lon": 127.0164598,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "한강버스 서울숲선착장",
+   "name_en": null,
+   "lat": 37.5378573,
+   "lon": 127.0409268,
+   "distance_km": 5.8,
+   "operator": null
+  },
+  {
+   "name": "한강버스 여의도선착장",
+   "name_en": "Hangang Bus Yeouido Terminal",
+   "lat": 37.5284391,
+   "lon": 126.9351299,
+   "distance_km": 7.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:34Z"
+}

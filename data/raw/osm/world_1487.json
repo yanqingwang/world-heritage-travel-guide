@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Villa Igiea Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.1453621,
+   "lon": 13.3702447,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Orleans",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.1062393,
+   "lon": 13.3554124,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ambascatori",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.114138,
+   "lon": 13.364954,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Principe di Lampedusa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.1158955,
+   "lon": 13.3649142,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Massimo Plaza Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.1203228,
+   "lon": 13.3585452,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 183,
+ "stations": [
+  {
+   "name": "Palazzo Reale-Orleans",
+   "name_en": null,
+   "lat": 38.1089585,
+   "lon": 13.3540917,
+   "distance_km": 0.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Vespri",
+   "name_en": null,
+   "lat": 38.1026972,
+   "lon": 13.3616215,
+   "distance_km": 1.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Centrale",
+   "name_en": null,
+   "lat": 38.1092571,
+   "lon": 13.3674799,
+   "distance_km": 1.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Politeama",
+   "name_en": null,
+   "lat": 38.1240325,
+   "lon": 13.3550398,
+   "distance_km": 1.5,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Guadagna",
+   "name_en": null,
+   "lat": 38.09825,
+   "lon": 13.3708454,
+   "distance_km": 2.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Porto",
+   "name_en": null,
+   "lat": 38.129118,
+   "lon": 13.3620311,
+   "distance_km": 2.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Notarbartolo",
+   "name_en": null,
+   "lat": 38.1323285,
+   "lon": 13.3415917,
+   "distance_km": 2.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Palermo Giachery",
+   "name_en": null,
+   "lat": 38.1353146,
+   "lon": 13.3580712,
+   "distance_km": 2.8,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "La Cala",
+   "name_en": null,
+   "lat": 38.1211534,
+   "lon": 13.3698179,
+   "distance_km": 1.9,
+   "operator": null
+  },
+  {
+   "name": "Palermo (Siremar)",
+   "name_en": null,
+   "lat": 38.126475,
+   "lon": 13.3645818,
+   "distance_km": 2.0,
+   "operator": null
+  },
+  {
+   "name": "Palermo",
+   "name_en": null,
+   "lat": 38.1280201,
+   "lon": 13.3637585,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "Palermo (Liberty Lines)",
+   "name_en": null,
+   "lat": 38.1253591,
+   "lon": 13.3692156,
+   "distance_km": 2.1,
+   "operator": "Liberty Lines"
+  },
+  {
+   "name": "Porto di Palermo",
+   "name_en": null,
+   "lat": 38.1289041,
+   "lon": 13.3698787,
+   "distance_km": 2.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:04Z"
+}

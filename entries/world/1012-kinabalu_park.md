@@ -8,13 +8,13 @@ country: "MY"
 country_zh: "马来西亚"
 country_en: "Malaysia"
 unesco_id: "1012"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2000"
 criteria: "(ix)(x)"
 lat: 6.15
 lon: 116.65
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 基纳巴卢山公园 / Kinabalu Park
@@ -53,6 +53,16 @@ Taman Kinabalu terletak di bahagian utara pulau Borneo, sebuah taman tertua nege
 - ✈ **Kudat Airport (KUD)** — 88.5 km
 - ✈ **Sandakan Airport (SDK)** — 158.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3797.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Sutera Sanctuary Lodge** — 13.0 km — hotel
+- **Tropicana Lodge Backpackers and Restaurant** — 13.0 km — hotel
+- **Ziang Noh Homestay** — 18.0 km — hotel
+- **Kinabalu Lodge** — 19.8 km — hotel — Kinabalu Lodge
+- **Nabalu Kundasang** — 20.1 km — hotel — Nabalu Kundasang
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

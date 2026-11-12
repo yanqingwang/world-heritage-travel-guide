@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(iv)(vi)"
 lat: 37.92917
 lon: 27.35944
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 以弗所 / Ephesus

@@ -8,13 +8,13 @@ country: "RO"
 country_zh: "罗马尼亚"
 country_en: "Romania"
 unesco_id: "596"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
 lat: 46.25402316066667
 lon: 24.57501819722222
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 特兰西瓦尼亚村落及其设防的教堂 / Villages with Fortified Churches in Transylvania
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:15Z"
 ![Kirchenburg Birthälm.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Kirchenburg%20Birth%C3%A4lm.jpg?width=1280)
 
 *Kirchenburg Birthälm.jpg · see Wikimedia Commons file page*
+
+![Interior of the bell-tower loft of the fortified church at Lovnic, Brașov County (2025).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Interior_of_the_bell-tower_loft_of_the_fortified_church_at_Lovnic%2C_Bra%C8%99ov_County_%282025%29.jpg/1280px-Interior_of_the_bell-tower_loft_of_the_fortified_church_at_Lovnic%2C_Bra%C8%99ov_County_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Interior of the bell-tower loft of the fortified church at Lovnic, Brașov County (2025).jpg · Paul Colin Hennig firstdorsal.eu · CC BY-SA 4.0*
 
 ![Villages with Fortified Churches in Transylvania](https://whc.unesco.org/uploads/sites/site_596.jpg)
 
@@ -53,6 +57,12 @@ Satele cu biserici fortificate din Transilvania constituie un sit în Patrimoniu
 - ✈ **Sibiu International Airport (SBZ)** — 64.3 km
 - ✈ **Avram Iancu Cluj International Airport (CLJ)** — 90.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7056.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

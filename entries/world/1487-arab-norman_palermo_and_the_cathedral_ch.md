@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1487"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)(iv)"
 lat: 38.110833333
 lon: 13.353055555
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 阿拉伯-诺曼时期的巴勒莫以及切法卢和蒙雷阿莱的大教堂 / Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:23Z"
 ![Arab-Norman Palermo montage.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Arab-Norman%20Palermo%20montage.jpg?width=1280)
 
 *Arab-Norman Palermo montage.jpg · see Wikimedia Commons file page*
+
+![Arab-Norman Palermo montage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Arab-Norman_Palermo_montage.jpg/1280px-Arab-Norman_Palermo_montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arab-Norman Palermo montage.jpg · Pro Regnum Siciliæ · CC BY-SA 4.0*
 
 ![Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale](https://whc.unesco.org/uploads/sites/site_1487.jpg)
 
@@ -52,7 +56,27 @@ Palermo arabo-normanna e le cattedrali di Cefalù e Monreale è un sito seriale 
 - ✈ **Falcone–Borsellino Airport (PMO)** — 24.0 km
 - ✈ **Vincenzo Florio Airport Trapani-Birgi (TPS)** — 79.0 km
 - ✈ **Comiso Airport (CIY)** — 166.2 km
+- 🚉 **Palazzo Reale-Orleans** — 0.2 km
+- 🚉 **Palermo Vespri** — 1.2 km
+- 🚉 **Palermo Centrale** — 1.3 km
+- 🚉 **Palermo Politeama** — 1.5 km
+- 🚉 **Palermo Guadagna** — 2.1 km
+- ⛴ **La Cala** — 1.9 km
+- ⛴ **Palermo (Siremar)** — 2.0 km
+- ⛴ **Palermo** — 2.1 km
+- ⛴ **Palermo (Liberty Lines)** — 2.1 km
+- ⛴ **Porto di Palermo** — 2.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8347.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Villa Igiea Hilton** — 4.1 km — star — 5★
+- **Hotel Orleans** — 0.6 km — star — 4★
+- **Hotel Ambascatori** — 1.1 km — star — 4★
+- **Principe di Lampedusa** — 1.2 km — star — 4★
+- **Massimo Plaza Hotel** — 1.2 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

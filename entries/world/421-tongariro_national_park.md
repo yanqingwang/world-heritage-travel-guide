@@ -8,13 +8,13 @@ country: "NZ"
 country_zh: "新西兰"
 country_en: "New Zealand"
 unesco_id: "421"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1990"
 criteria: "(vi)(vii)(viii)"
 lat: -39.2
 lon: 175.583333
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 汤加里罗国家公园 / Tongariro National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:13Z"
 
 *Tongariro Mahuia River n.jpg · see Wikimedia Commons file page*
 
-![Tongariro National Park](https://whc.unesco.org/uploads/sites/site_421.jpg)
+![A Magnificient View! (52393757485).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/A_Magnificient_View%21_%2852393757485%29.jpg/1280px-A_Magnificient_View%21_%2852393757485%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tongariro National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Magnificient View! (52393757485).jpg · Geoff McKay from Palmerston North, New Zealand · CC BY 2.0*
+
+![Admiring the view... (53369591873).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Admiring_the_view..._%2853369591873%29.jpg/1280px-Admiring_the_view..._%2853369591873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiring the view... (53369591873).jpg · Geoff McKay from Palmerston North, New Zealand · CC BY 2.0*
+
+![Aerial view of a snow-covered mountain top (AM 77090-1).jpg](https://upload.wikimedia.org/wikipedia/commons/3/33/Aerial_view_of_a_snow-covered_mountain_top_%28AM_77090-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aerial view of a snow-covered mountain top (AM 77090-1).jpg · Collins, Tudor Washington, 1898-1970, photographer · CC BY 4.0*
+
+![Ascent of Tongariro (Unsplash).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ascent_of_Tongariro_%28Unsplash%29.jpg/1280px-Ascent_of_Tongariro_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ascent of Tongariro (Unsplash).jpg · Antoine Barrès antoinebarres · CC0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,18 @@ In 1993 Tongariro became the first property to be inscribed on the World Heritag
 - ✈ **Taupo Airport (TUO)** — 67.0 km
 - ✈ **Wanganui Airport (WAG)** — 97.5 km
 - ✈ **Hawke's Bay Airport (NPE)** — 114.5 km
+- 🚉 **Taumarunui** — 44.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10645.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hilton Motel** — 45.0 km — chain — Hilton
+- **Skotel** — 3.5 km — hotel
+- **Pukenui Lodge** — 16.0 km — hotel — Pukenui Lodge
+- **The Park Hotel Ruapehu** — 16.0 km — hotel
+- **Tongariro Crossing Lodge** — 16.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

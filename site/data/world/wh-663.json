@@ -2,9 +2,9 @@
  "id": "wh-663",
  "unesco_id": "663",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 398,
- "popularity_score": 20673,
+ "tier": "full",
+ "popularity_rank": 377,
+ "popularity_score": 18249,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_663.jpg",
-   "title": "Shirakami-Sanchi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/663",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/400_years_old_beech_%28400%E5%B9%B4%E3%83%96%E3%83%8A%29_-_panoramio.jpg/1280px-400_years_old_beech_%28400%E5%B9%B4%E3%83%96%E3%83%8A%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "400 years old beech (400年ブナ) - panoramio.jpg",
+   "author": "Ocavis Leechroot",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161013233756/http://www.panoramio.com/photo/25274327",
+   "source": "https://commons.wikimedia.org/wiki/File:400_years_old_beech_%28400%E5%B9%B4%E3%83%96%E3%83%8A%29_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Aqua_Green_Village_ANMON_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Aqua Green Village ANMON - panoramio.jpg",
+   "author": "torakiti",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161011055046/http://www.panoramio.com/photo/7262574",
+   "source": "https://commons.wikimedia.org/wiki/File:Aqua_Green_Village_ANMON_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Dakedai_400_nen_buna.jpg/1280px-Dakedai_400_nen_buna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dakedai 400 nen buna.jpg",
+   "author": "らんで",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dakedai_400_nen_buna.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Daketai_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Daketai Spring.jpg",
+   "author": "特定非営利活動法人 あきた観光誘客促進支援機構",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Daketai_Spring.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/663",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 32.2,
   "distance_beijing_km": 2016.0,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "八森",
+    "name_en": "Hachimori",
+    "lat": 40.370987,
+    "lon": 140.0181367,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "滝ノ間",
+    "name_en": "Takinoma",
+    "lat": 40.3802448,
+    "lon": 140.0019305,
+    "distance_km": 18.4,
+    "operator": null
+   },
+   {
+    "name": "あきた白神",
+    "name_en": "Akitashirakami",
+    "lat": 40.3866983,
+    "lon": 139.9875353,
+    "distance_km": 19.2,
+    "operator": null
+   },
+   {
+    "name": "東八森",
+    "name_en": "Higashi-Hachimori",
+    "lat": 40.3316572,
+    "lon": 140.0325541,
+    "distance_km": 19.3,
+    "operator": null
+   },
+   {
+    "name": "岩館",
+    "name_en": "Iwadate",
+    "lat": 40.40601,
+    "lon": 139.966707,
+    "distance_km": 20.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "あきた白神温泉ホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.3283058,
+   "lon": 140.0274278,
+   "distance_km": 19.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ゆだんの宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6265,
+   "lon": 140.2523848,
+   "distance_km": 20.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "嶽温泉山のホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6303466,
+   "lon": 140.2682405,
+   "distance_km": 20.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "あそべの森いわき荘",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6203178,
+   "lon": 140.3347272,
+   "distance_km": 22.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "温泉旅館 中野",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6189524,
+   "lon": 140.3434828,
+   "distance_km": 22.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

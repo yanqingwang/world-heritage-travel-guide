@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "1459"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: -18.25
 lon: -69.59166667
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 印加路网 / Qhapaq Ñan, Andean Road System
@@ -27,21 +27,9 @@ updated_at: "2026-11-12T11:30:22Z"
 
 *Qapaq Nan at Mosollaqta lake DSC 2822.jpg · see Wikimedia Commons file page*
 
-![Bridge guardian.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bridge_guardian.jpg/1280px-Bridge_guardian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Qhapaq Ñan, Andean Road System](https://whc.unesco.org/uploads/sites/site_1459.jpg)
 
-*Bridge guardian.jpg · Felipe Huaman Puma de Ayala · Public domain*
-
-![Exposición Redescubriendo el Qhapac Ñam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Exposici%C3%B3n_Redescubriendo_el_Qhapac_%C3%91am.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapac_%C3%91am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exposición Redescubriendo el Qhapac Ñam.jpg · Arlette Rodriguez · CC BY-SA 4.0*
-
-![Exposición Redescubriendo el Qhapaq Ñan en MUNA.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an_en_MUNA.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an_en_MUNA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exposición Redescubriendo el Qhapaq Ñan en MUNA.jpg · Alex Benites Abad · CC BY-SA 4.0*
-
-![Exposición Redescubriendo el Qhapaq Ñan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an.jpg/1280px-Exposici%C3%B3n_Redescubriendo_el_Qhapaq_%C3%91an.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exposición Redescubriendo el Qhapaq Ñan.jpg · Santiago Rodríguez Campos · CC BY-SA 4.0*
+*Qhapaq Ñan, Andean Road System · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -66,22 +54,7 @@ Se trata de una vasta red viaria de unos 30.000 kilómetros construida a lo larg
 - ✈ **Coronel FAP Carlos Ciriani Santa Rosa International Airport (TCQ)** — 75.5 km
 - ✈ **Chacalluta International Airport (ARI)** — 79.6 km
 - ✈ **General Jorge Fernandez Maldon Airport (ILQ)** — 195.3 km
-- 🚉 **Puquios** — 18.3 km
-- 🚉 **Pampa Ossa** — 29.1 km
-- 🚉 **Coronel Alcérreca** — 29.6 km
-- 🚉 **Quebrada Honda** — 31.9 km
-- 🚉 **Central** — 40.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17478.8 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Amarca Lodge** — 1.8 km — hotel
-- **Hotel Qantati** — 6.4 km — hotel
-- **Jurasi Ecolodge** — 6.4 km — hotel
-- **Terrace Lodge & Tours** — 6.7 km — hotel
-- **Hostal Cali** — 6.8 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

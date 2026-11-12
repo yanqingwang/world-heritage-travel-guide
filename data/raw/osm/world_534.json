@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Dormero Dessau-Rosslau",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8373709,
+   "lon": 12.2455273,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landhaus Wörlitzer Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8445934,
+   "lon": 12.4199033,
+   "distance_km": 9.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HEIDE SPA",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.601086,
+   "lon": 12.5789529,
+   "distance_km": 35.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Am Kurpark",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.9998649,
+   "lon": 11.71876,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "City Hotel Am Wasserturm",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.4917239,
+   "lon": 11.9771375,
+   "distance_km": 46.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 199,
+ "stations": [
+  {
+   "name": "Roßlau (Elbe)",
+   "name_en": null,
+   "lat": 51.883838,
+   "lon": 12.2370501,
+   "distance_km": 3.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Dessau Hauptbahnhof",
+   "name_en": null,
+   "lat": 51.8398819,
+   "lon": 12.2347891,
+   "distance_km": 4.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Rodleben",
+   "name_en": null,
+   "lat": 51.8974718,
+   "lon": 12.2173582,
+   "distance_km": 5.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Wörlitz",
+   "name_en": null,
+   "lat": 51.8379057,
+   "lon": 12.4216311,
+   "distance_km": 10.0,
+   "operator": "Dessauer Verkehrs- und Eisenbahngesellschaft"
+  },
+  {
+   "name": "Oranienbaum (Anh)",
+   "name_en": null,
+   "lat": 51.8009798,
+   "lon": 12.3903839,
+   "distance_km": 10.2,
+   "operator": "Dessauer Verkehrs- und Eisenbahngesellschaft"
+  },
+  {
+   "name": "Dessau-Mosigkau",
+   "name_en": null,
+   "lat": 51.814243,
+   "lon": 12.1493176,
+   "distance_km": 10.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Coswig (Anhalt)",
+   "name_en": null,
+   "lat": 51.8878356,
+   "lon": 12.4587523,
+   "distance_km": 12.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Gräfenhainichen Ferropolis",
+   "name_en": null,
+   "lat": 51.7589959,
+   "lon": 12.4459274,
+   "distance_km": 16.2,
+   "operator": "ELS Eisenbahn und Logistik und Service GmbH"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Viking Technical GmbH",
+   "name_en": null,
+   "lat": 51.8578161,
+   "lon": 12.2125835,
+   "distance_km": 4.8,
+   "operator": null
+  },
+  {
+   "name": "Industriehafen Roßlau",
+   "name_en": null,
+   "lat": 51.8786221,
+   "lon": 12.2137178,
+   "distance_km": 4.9,
+   "operator": null
+  },
+  {
+   "name": "Moby Dick",
+   "name_en": null,
+   "lat": 51.8746698,
+   "lon": 12.1483575,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "Teelaubenfähre",
+   "name_en": null,
+   "lat": 51.8466142,
+   "lon": 12.4180854,
+   "distance_km": 9.6,
+   "operator": null
+  },
+  {
+   "name": "Amtsfähre",
+   "name_en": null,
+   "lat": 51.846331,
+   "lon": 12.4246418,
+   "distance_km": 10.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:05Z"
+}

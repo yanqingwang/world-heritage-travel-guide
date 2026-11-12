@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(v)"
 lat: 15.877135
 lon: 108.328631
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 会安古镇 / Hoi An Ancient Town
@@ -64,25 +64,25 @@ Phố cổ Hội An là một đô thị cổ nằm ở hạ lưu sông Thu Bồ
 - ✈ **Da Nang International Airport (DAD)** — 23.2 km
 - ✈ **Chu Lai Airport (VCL)** — 66.4 km
 - ✈ **Phu Bai International Airport (HUI)** — 88.5 km
-- 🚉 **Trà Kiệu** — 13.2 km
-- 🚉 **Nông Sơn** — 15.6 km
-- 🚉 **Lệ Trạch** — 19.0 km
+- 🚉 **Trà Kiệu** — 12.8 km
+- 🚉 **Nông Sơn** — 15.2 km
+- 🚉 **Lệ Trạch** — 18.7 km
 - 🚉 **Phú Cang** — 19.2 km
-- 🚉 **Đà Nẵng** — 25.3 km
-- ⛴ **Basket Boat Station** — 3.0 km
-- ⛴ **Cửa Đại** — 6.0 km
-- ⛴ **Dragon Ship Han River** — 23.4 km
-- ⛴ **River Cruise Boats** — 25.2 km
-- ⛴ **Cảng Tiên Sa** — 29.7 km
+- 🚉 **Đà Nẵng** — 25.1 km
+- ⛴ **Basket Boat Station** — 3.2 km
+- ⛴ **Cửa Đại** — 6.5 km
+- ⛴ **Dragon Ship Han River** — 23.2 km
+- ⛴ **River Cruise Boats** — 25.1 km
+- ⛴ **Cảng Tiên Sa** — 29.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2793.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- **Palm Garden Resort** — 3.8 km — star — 5★
-- **NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton** — 4.0 km — star — 5★ · Tapestry Collection by Hilton
-- **Four Seasons Resort** — 6.0 km — star — 5★ · Four Seasons
-- **Furama Villas** — 19.7 km — star — 5★
-- **Furama Resort** — 20.0 km — star — 5★
+- **Palm Garden Resort** — 4.2 km — star — 5★
+- **NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton** — 4.4 km — star — 5★ · Tapestry Collection by Hilton
+- **Four Seasons Resort** — 5.9 km — star — 5★ · Four Seasons
+- **Furama Villas** — 19.5 km — star — 5★
+- **Furama Resort** — 19.9 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 59.938888888
 lon: 30.315555555
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 圣彼得堡历史中心及其相关古迹群 / Historic Centre of Saint Petersburg and Related Groups of Monuments

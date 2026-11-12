@@ -2,8 +2,8 @@
  "id": "wh-659",
  "unesco_id": "659",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 215,
+ "tier": "basic",
+ "popularity_rank": 1095,
  "popularity_score": 53883,
  "country": "IE",
  "country_zh": "爱尔兰",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Br%C3%BA_na_B%C3%B3inne_%2852381535115%29.jpg/1280px-Br%C3%BA_na_B%C3%B3inne_%2852381535115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Brú na Bóinne (52381535115).jpg",
-   "author": "Marmontel",
-   "license": "CC BY 2.0",
-   "credit": "Brú na Bóinne",
-   "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BA_na_B%C3%B3inne_%2852381535115%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814596737390%29.jpg/1280px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814596737390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Myths and legends; the Celtic race (1910) (14596737390).jpg",
-   "author": "Internet Archive Book Images",
-   "license": "No restrictions",
-   "credit": "https://www.flickr.com/photos/internetarchivebookimages/14596737390/ Source book page: https://archive.org/stream/mythslegendscelt00roll/mythslegendscelt00roll#",
-   "source": "https://commons.wikimedia.org/wiki/File:Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814596737390%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Neolithic_hut_reconstruction_-_Bru_na_Boinne.jpg/1280px-Neolithic_hut_reconstruction_-_Bru_na_Boinne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Neolithic hut reconstruction - Bru na Boinne.jpg",
-   "author": "Rob Hurson",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Neolithic_hut_reconstruction_-_Bru_na_Boinne.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sheep_and_tombs.jpg/1280px-Sheep_and_tombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Sheep and tombs.jpg",
-   "author": "Rob Hurson",
-   "license": "CC BY-SA 2.0",
-   "credit": "https://www.flickr.com/photos/robhurson/26067614153/",
-   "source": "https://commons.wikimedia.org/wiki/File:Sheep_and_tombs.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_659.jpg",
+   "title": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/659",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/659",
@@ -126,148 +102,10 @@
   ],
   "nearest_airport_km": 31.9,
   "distance_beijing_km": 8267.0,
-  "ferry_terminals": [
-   {
-    "name": "Terminal 4",
-    "name_en": null,
-    "lat": 53.3509006,
-    "lon": -6.2229558,
-    "distance_km": 40.9,
-    "operator": "Seatruck"
-   },
-   {
-    "name": "Cruise Terminal (Berth 18)",
-    "name_en": null,
-    "lat": 53.3464117,
-    "lon": -6.2256429,
-    "distance_km": 41.3,
-    "operator": null
-   },
-   {
-    "name": "Terminal 2",
-    "name_en": null,
-    "lat": 53.3497908,
-    "lon": -6.1974619,
-    "distance_km": 41.6,
-    "operator": "Dublin Port"
-   },
-   {
-    "name": "Dublin Port Terminal 2",
-    "name_en": null,
-    "lat": 53.3476525,
-    "lon": -6.1988546,
-    "distance_km": 41.8,
-    "operator": null
-   },
-   {
-    "name": "Dublin Port Terminal 1",
-    "name_en": null,
-    "lat": 53.3465892,
-    "lon": -6.1980519,
-    "distance_km": 41.9,
-    "operator": "Irish Ferries"
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Drogheda MacBride",
-    "name_en": "Drogheda MacBride",
-    "lat": 53.7120167,
-    "lon": -6.3356412,
-    "distance_km": 7.8,
-    "operator": "Irish Rail"
-   },
-   {
-    "name": "Laytown",
-    "name_en": null,
-    "lat": 53.6795281,
-    "lon": -6.242754,
-    "distance_km": 13.7,
-    "operator": "Iarnród Éireann"
-   },
-   {
-    "name": "Gormanston",
-    "name_en": null,
-    "lat": 53.6378333,
-    "lon": -6.2170527,
-    "distance_km": 16.5,
-    "operator": "Iarnród Éireann"
-   },
-   {
-    "name": "Steam Train Express",
-    "name_en": null,
-    "lat": 53.5443988,
-    "lon": -6.4620104,
-    "distance_km": 16.5,
-    "operator": null
-   },
-   {
-    "name": "Balbriggan",
-    "name_en": null,
-    "lat": 53.6118769,
-    "lon": -6.1823282,
-    "distance_km": 19.8,
-    "operator": "Iarnród Éireann"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "The Morrison Dublin, Curio Collection by Hilton",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Curio Collection by Hilton",
-   "lat": 53.3465201,
-   "lon": -6.266077,
-   "distance_km": 40.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Westbury Hotel",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 53.3414135,
-   "lon": -6.2615173,
-   "distance_km": 41.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Conrad Dublin",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Conrad",
-   "lat": 53.3350109,
-   "lon": -6.2571852,
-   "distance_km": 41.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Old Borough Hotel",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Wetherspoon",
-   "lat": 53.4565155,
-   "lon": -6.2222425,
-   "distance_km": 30.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Carlton",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 53.4195592,
-   "lon": -6.3796265,
-   "distance_km": 30.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IE",
   "country_zh": "爱尔兰",
@@ -340,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

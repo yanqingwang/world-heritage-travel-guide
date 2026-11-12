@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(i)"
 lat: 14.390555555
 lon: 104.680277777
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 柏威夏寺 / Temple of Preah Vihear

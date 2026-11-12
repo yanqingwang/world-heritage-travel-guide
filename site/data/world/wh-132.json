@@ -2,9 +2,9 @@
  "id": "wh-132",
  "unesco_id": "132",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 939,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 137,
+ "popularity_score": 90391,
  "country": "MT",
  "country_zh": "马耳他",
  "country_en": "Malta",
@@ -126,10 +126,107 @@
   ],
   "nearest_airport_km": 30.2,
   "distance_beijing_km": 8416.8,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "L-Imġarr",
+    "name_en": "Mġarr",
+    "lat": 36.0238708,
+    "lon": 14.2984867,
+    "distance_km": 3.8,
+    "operator": null
+   },
+   {
+    "name": "Ħondoq ir-Rummien",
+    "name_en": "Ħondoq Bay",
+    "lat": 36.0278721,
+    "lon": 14.3232475,
+    "distance_km": 5.4,
+    "operator": "JoyRide"
+   },
+   {
+    "name": "Bejn il-Kmiemen",
+    "name_en": "Blue Lagoon",
+    "lat": 36.0150367,
+    "lon": 14.3238329,
+    "distance_km": 6.2,
+    "operator": null
+   },
+   {
+    "name": "Iċ-Ċirkewwa",
+    "name_en": "Ċirkewwa",
+    "lat": 35.9894161,
+    "lon": 14.328626,
+    "distance_km": 8.5,
+    "operator": null
+   },
+   {
+    "name": "Terminal tal-Ferry taċ-Ċirkewwa",
+    "name_en": "Ċirkewwa Ferry Terminal",
+    "lat": 35.9884319,
+    "lon": 14.3289716,
+    "distance_km": 8.6,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ta' Ċenċ Hotel and Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.0209866,
+   "lon": 14.2515693,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Xara Palace Relais & Chateaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 35.8851745,
+   "lon": 14.4042174,
+   "distance_km": 21.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 35.9299443,
+   "lon": 14.490719,
+   "distance_km": 23.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Corinthia (Saint George's Bay)",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 35.9287413,
+   "lon": 14.4905305,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Malta",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 35.9241922,
+   "lon": 14.4868916,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MT",
   "country_zh": "马耳他",
@@ -202,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

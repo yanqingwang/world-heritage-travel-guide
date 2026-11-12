@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(v)"
 lat: 23.021944444
 lon: 72.579722222
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 艾哈迈达巴德 / Historic City of Ahmadabad
@@ -68,7 +68,7 @@ The walled city of Ahmadabad, founded by Sultan Ahmad Shah in the 15th century, 
 - 🚉 **Maninagar** — 4.1 km
 - 🚉 **Asarva** — 4.2 km
 - 🚉 **Sabarmati Junction** — 5.5 km
-- 🚉 **Sabarmati** — 6.2 km
+- 🚉 **Sabarmati BG** — 6.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4515.7 km**
 
 ## 附近酒店 / Nearby hotels

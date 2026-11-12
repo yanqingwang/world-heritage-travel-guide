@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iv)"
 lat: 52.4
 lon: 13.033333333
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 波兹坦与柏林的宫殿与庭园 / Palaces and Parks of Potsdam and Berlin

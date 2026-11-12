@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.67556
 lon: 135.83944
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 古奈良的历史遗迹 / Historic Monuments of Ancient Nara

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 12.106141
 lon: -68.934201
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 荷属安的列斯群岛的威廉斯塔德、内城及港口古迹区 / Historic Area of Willemstad, Inner City and Harbour, Curaçao

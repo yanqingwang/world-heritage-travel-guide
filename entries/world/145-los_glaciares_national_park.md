@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "145"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1981"
 criteria: "(vii)(viii)"
 lat: -50.330530387
 lon: -73.234164314
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 冰川国家公园 / Los Glaciares National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:11Z"
 
 *Perito moreno argentinië.JPEG · see Wikimedia Commons file page*
 
-![Los Glaciares National Park](https://whc.unesco.org/uploads/sites/site_145.jpg)
+![Another blue lake Fitz Roy Trail Parque Nacional Los Glaciares El Chalten Argentina.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Another_blue_lake_Fitz_Roy_Trail_Parque_Nacional_Los_Glaciares_El_Chalten_Argentina.jpg/1280px-Another_blue_lake_Fitz_Roy_Trail_Parque_Nacional_Los_Glaciares_El_Chalten_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Los Glaciares National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Another blue lake Fitz Roy Trail Parque Nacional Los Glaciares El Chalten Argentina.jpg · amanderson2 · CC BY 2.0*
+
+![AR Los Glaciares PN (C Fitz Roy) 0702 010 (17189899806).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c1/AR_Los_Glaciares_PN_%28C_Fitz_Roy%29_0702_010_%2817189899806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Los Glaciares PN (C Fitz Roy) 0702 010 (17189899806).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![AR Los Glaciares PN (C Fitz Roy) 0702 011 (16593397224).jpg](https://upload.wikimedia.org/wikipedia/commons/3/3a/AR_Los_Glaciares_PN_%28C_Fitz_Roy%29_0702_011_%2816593397224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Los Glaciares PN (C Fitz Roy) 0702 011 (16593397224).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![AR Los Glaciares PN (C Fitz Roy) 0702 012 (16593397034).jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/AR_Los_Glaciares_PN_%28C_Fitz_Roy%29_0702_012_%2816593397034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Los Glaciares PN (C Fitz Roy) 0702 012 (16593397034).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ El Parque Nacional Los Glaciares es un sitio de excepcional belleza natural con 
 - ✈ **El Calafate - Commander Armando Tola International Airport (FTE)** — 84.0 km
 - ✈ **Lieutenant Julio Gallardo Airport (PNT)** — 157.0 km
 - ✈ **28 de Noviembre Airport (RYO)** — 158.5 km
+- ⛴ **Muelle Refugio Spegazzini** — 11.9 km
+- ⛴ **Puesto Las Vacas** — 14.8 km
+- ⛴ **Pier Cruz del Sur** — 20.7 km
+- ⛴ **Bajo las Sombras** — 23.4 km
+- ⛴ **Puerto La Soledad** — 31.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **18696.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Los Notros** — 24.2 km — hotel
+- **Estancia Nibepo Aike** — 36.9 km — hotel
+- **Estancia Cristina** — 41.6 km — hotel
+- **Hosteria Alta Vista** — 46.8 km — hotel
+- **EOLO Patagonia´s Spirit** — 46.9 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

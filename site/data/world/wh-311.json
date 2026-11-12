@@ -2,9 +2,9 @@
  "id": "wh-311",
  "unesco_id": "311",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1065,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 123,
+ "popularity_score": 102474,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_311.jpg",
-   "title": "Old Town of Segovia and its Aqueduct",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/311",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Representaci%C3%B3n_acueducto_de_Segovia.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Representación acueducto de Segovia.gif",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "Epistemowikia",
+   "source": "https://commons.wikimedia.org/wiki/File:Representaci%C3%B3n_acueducto_de_Segovia.gif"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "-2014-04-17 Roman Aquaduct, Segovia, Spain (1).JPG",
+   "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%281%29.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "-2014-04-17 Roman Aquaduct, Segovia, Spain (2).JPG",
+   "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain_%282%29.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain.JPG/500px--2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-2014-04-17 Roman Aquaduct, Segovia, Spain.JPG",
+   "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the W",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-2014-04-17_Roman_Aquaduct%2C_Segovia%2C_Spain.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/311",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 68.3,
   "distance_beijing_km": 9204.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Segovia",
+    "name_en": null,
+    "lat": 40.9335307,
+    "lon": -4.1134827,
+    "distance_km": 1.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Estación de Segovia-Guiomar",
+    "name_en": null,
+    "lat": 40.9102319,
+    "lon": -4.0947553,
+    "distance_km": 4.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Los Cotos",
+    "name_en": null,
+    "lat": 40.822317,
+    "lon": -3.9645595,
+    "distance_km": 19.0,
+    "operator": "Renfe"
+   },
+   {
+    "name": "Puerto de Navacerrada",
+    "name_en": null,
+    "lat": 40.7843819,
+    "lon": -4.0047417,
+    "distance_km": 20.5,
+    "operator": "Renfe"
+   },
+   {
+    "name": "Cercedilla",
+    "name_en": null,
+    "lat": 40.7376578,
+    "lon": -4.0660341,
+    "distance_km": 23.8,
+    "operator": "Renfe"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Eurostars Plaza Acueducto",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Eurostars Hotel Company",
+   "lat": 40.9479929,
+   "lon": -4.1164043,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel AR Los Arcos",
+   "name_en": null,
+   "stars": 4,
+   "brand": "AR Hoteles",
+   "lat": 40.9437623,
+   "lon": -4.1207786,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Rural El Mirador de la Cigüeña",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9760603,
+   "lon": -4.0325325,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Casa Rural El Zaguán de Cabanillas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9763935,
+   "lon": -4.0324628,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vivienda Turística La Dehesa de Cabanillas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9769505,
+   "lon": -4.0326878,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

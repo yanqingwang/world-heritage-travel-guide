@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "The Bridge Wroclaw MGallery",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.1137407,
+   "lon": 17.0481112,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 51.1083087,
+   "lon": 17.0434234,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 51.1109515,
+   "lon": 17.0439234,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Altus Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.105044,
+   "lon": 17.036238,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Monopol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.106234,
+   "lon": 17.030561,
+   "distance_km": 3.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 206,
+ "stations": [
+  {
+   "name": "Wrocław Główny",
+   "name_en": null,
+   "lat": 51.097916,
+   "lon": 17.0379512,
+   "distance_km": 2.9,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Wrocław Swojczyce",
+   "name_en": null,
+   "lat": 51.1158639,
+   "lon": 17.1213443,
+   "distance_km": 3.2,
+   "operator": null
+  },
+  {
+   "name": "Wrocław Nadodrze",
+   "name_en": null,
+   "lat": 51.1256579,
+   "lon": 17.0329905,
+   "distance_km": 3.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Wrocław Sołtysowice",
+   "name_en": null,
+   "lat": 51.1425485,
+   "lon": 17.0835373,
+   "distance_km": 4.0,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Wrocław Psie Pole",
+   "name_en": null,
+   "lat": 51.150452,
+   "lon": 17.1185445,
+   "distance_km": 5.6,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Smardzów Wrocławski",
+   "name_en": null,
+   "lat": 51.0306885,
+   "lon": 17.0661283,
+   "distance_km": 8.5,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Wrocław Osobowice",
+   "name_en": null,
+   "lat": 51.1670923,
+   "lon": 16.9966038,
+   "distance_km": 8.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Siechnice",
+   "name_en": null,
+   "lat": 51.0382566,
+   "lon": 17.1425423,
+   "distance_km": 8.9,
+   "operator": "PKP Polskie Linie Kolejowe"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Miejski",
+   "name_en": null,
+   "lat": 51.1286942,
+   "lon": 17.0184023,
+   "distance_km": 4.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:24Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-534",
  "unesco_id": "534",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 376,
- "popularity_score": 21801,
+ "tier": "full",
+ "popularity_rank": 345,
+ "popularity_score": 20370,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_534.jpg",
-   "title": "Garden Kingdom of Dessau-Wörlitz",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/534",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2014-04-06_159_Coswiger_Allee%2B.jpg/1280px-2014-04-06_159_Coswiger_Allee%2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2014-04-06 159 Coswiger Allee+.jpg",
+   "author": "M_H.DE",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2014-04-06_159_Coswiger_Allee%2B.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Der_Drehberg_bei_W%C3%B6rlitz.jpg/1280px-Der_Drehberg_bei_W%C3%B6rlitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Der Drehberg bei Wörlitz.jpg",
+   "author": "M_H.DE",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Der_Drehberg_bei_W%C3%B6rlitz.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Dessau%2C_Nord%2C_G%C3%A4nsewall_mit_Pyramide.jpg/1280px-Dessau%2C_Nord%2C_G%C3%A4nsewall_mit_Pyramide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dessau, Nord, Gänsewall mit Pyramide.jpg",
+   "author": "M_H.DE",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dessau%2C_Nord%2C_G%C3%A4nsewall_mit_Pyramide.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dessau%2CPyramide_am_G%C3%A4nsewall_Info_Sitzbank.jpg/1280px-Dessau%2CPyramide_am_G%C3%A4nsewall_Info_Sitzbank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dessau,Pyramide am Gänsewall Info Sitzbank.jpg",
+   "author": "M_H.DE",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dessau%2CPyramide_am_G%C3%A4nsewall_Info_Sitzbank.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/534",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 49.4,
   "distance_beijing_km": 7489.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Viking Technical GmbH",
+    "name_en": null,
+    "lat": 51.8578161,
+    "lon": 12.2125835,
+    "distance_km": 4.8,
+    "operator": null
+   },
+   {
+    "name": "Industriehafen Roßlau",
+    "name_en": null,
+    "lat": 51.8786221,
+    "lon": 12.2137178,
+    "distance_km": 4.9,
+    "operator": null
+   },
+   {
+    "name": "Moby Dick",
+    "name_en": null,
+    "lat": 51.8746698,
+    "lon": 12.1483575,
+    "distance_km": 9.2,
+    "operator": null
+   },
+   {
+    "name": "Teelaubenfähre",
+    "name_en": null,
+    "lat": 51.8466142,
+    "lon": 12.4180854,
+    "distance_km": 9.6,
+    "operator": null
+   },
+   {
+    "name": "Amtsfähre",
+    "name_en": null,
+    "lat": 51.846331,
+    "lon": 12.4246418,
+    "distance_km": 10.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Roßlau (Elbe)",
+    "name_en": null,
+    "lat": 51.883838,
+    "lon": 12.2370501,
+    "distance_km": 3.8,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Dessau Hauptbahnhof",
+    "name_en": null,
+    "lat": 51.8398819,
+    "lon": 12.2347891,
+    "distance_km": 4.1,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Rodleben",
+    "name_en": null,
+    "lat": 51.8974718,
+    "lon": 12.2173582,
+    "distance_km": 5.8,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Wörlitz",
+    "name_en": null,
+    "lat": 51.8379057,
+    "lon": 12.4216311,
+    "distance_km": 10.0,
+    "operator": "Dessauer Verkehrs- und Eisenbahngesellschaft"
+   },
+   {
+    "name": "Oranienbaum (Anh)",
+    "name_en": null,
+    "lat": 51.8009798,
+    "lon": 12.3903839,
+    "distance_km": 10.2,
+    "operator": "Dessauer Verkehrs- und Eisenbahngesellschaft"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Dormero Dessau-Rosslau",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8373709,
+   "lon": 12.2455273,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landhaus Wörlitzer Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8445934,
+   "lon": 12.4199033,
+   "distance_km": 9.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HEIDE SPA",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.601086,
+   "lon": 12.5789529,
+   "distance_km": 35.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Am Kurpark",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.9998649,
+   "lon": 11.71876,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "City Hotel Am Wasserturm",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.4917239,
+   "lon": 11.9771375,
+   "distance_km": 46.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

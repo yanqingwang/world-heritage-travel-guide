@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Fuwairit Kite Beach, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 26.0187143,
+   "lon": 51.3840464,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ibis",
+   "name_en": "ibis",
+   "stars": null,
+   "brand": null,
+   "lat": 26.206277,
+   "lon": 50.6606652,
+   "distance_km": 44.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Hotel Juffair",
+   "name_en": "Best Western Hotel Juffair",
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 26.2129643,
+   "lon": 50.6051999,
+   "distance_km": 49.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Bahrain",
+   "name_en": "Hilton Bahrain",
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 26.2235104,
+   "lon": 50.6092945,
+   "distance_km": 49.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Olive",
+   "name_en": "Best Western Plus Olive",
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 26.2195368,
+   "lon": 50.6062245,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 52,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:54Z"
+}

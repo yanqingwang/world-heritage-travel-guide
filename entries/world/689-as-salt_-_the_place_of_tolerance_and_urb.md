@@ -8,13 +8,13 @@ country: "JO"
 country_zh: "约旦"
 country_en: "Jordan"
 unesco_id: "689"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(ii)(iii)"
 lat: 32.039166666
 lon: 35.727222222
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 阿萨尔特——包容之地与好客之城 / As-Salt - The Place of Tolerance and Urban Hospitality
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *As-salt.jpg · see Wikimedia Commons file page*
 
-![As-Salt - The Place of Tolerance and Urban Hospitality](https://whc.unesco.org/uploads/sites/site_689.jpg)
+![(IWM MH33941) Yeomanry in Es Salt.jpeg](https://upload.wikimedia.org/wikipedia/commons/d/d9/%28IWM_MH33941%29_Yeomanry_in_Es_Salt.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*As-Salt - The Place of Tolerance and Urban Hospitality · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(IWM MH33941) Yeomanry in Es Salt.jpeg · Australian Official Photographer · Public domain*
+
+![Al Manshieh, As-Salt, Jordan - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%281%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al Manshieh, As-Salt, Jordan - panoramio (1).jpg · kmmj92 · CC BY-SA 3.0*
+
+![Al Manshieh, As-Salt, Jordan - panoramio (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%282%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al Manshieh, As-Salt, Jordan - panoramio (2).jpg · kmmj92 · CC BY-SA 3.0*
+
+![Al Manshieh, As-Salt, Jordan - panoramio (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%283%29.jpg/1280px-Al_Manshieh%2C_As-Salt%2C_Jordan_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al Manshieh, As-Salt, Jordan - panoramio (3).jpg · kmmj92 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,19 @@ Built on three closely-spaced hills in the Balqa highland of west-central Jordan
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 26.0 km
 - ✈ **Queen Alia International Airport (AMM)** — 43.2 km
 - ✈ **Ben Gurion International Airport (TLV)** — 79.3 km
+- 🚉 **محطة عمان** — 24.1 km
+- 🚉 **محطة القصر** — 24.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7055.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق الف ليلة** — 14.3 km — star — Thousand Nights Hotel · 5★
+- **Crowne Plaza Amman** — 16.0 km — star — Crowne Plaza Amman · 5★ · Crowne Plaza
+- **Four Seasons Hotel Amman** — 16.9 km — star — Four Seasons Hotel · 5★ · Four Seasons
+- **Sheraton Al Nabil** — 16.9 km — star — Sheraton Al Nabil · 5★ · Sheraton
+- **Signia by Hilton Amman** — 17.9 km — star — 5★ · Hilton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

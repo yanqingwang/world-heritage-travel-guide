@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Fairmont City Fire Department",
+   "name_en": null,
+   "stars": null,
+   "brand": "Fairmont",
+   "lat": 38.6455071,
+   "lon": -90.107995,
+   "distance_km": 3.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 38.6791785,
+   "lon": -90.0166107,
+   "distance_km": 5.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 38.6835019,
+   "lon": -90.0145128,
+   "distance_km": 5.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson",
+   "name_en": null,
+   "stars": null,
+   "brand": "Radisson",
+   "lat": 38.6052488,
+   "lon": -89.9817976,
+   "distance_km": 9.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn St. Louis-Fairview Heights",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn",
+   "lat": 38.6016125,
+   "lon": -89.9811942,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 208,
+ "stations": [
+  {
+   "name": "Washington Park",
+   "name_en": null,
+   "lat": 38.6136575,
+   "lon": -90.0950104,
+   "distance_km": 5.2,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "Jackie Joyner-Kersee Center",
+   "name_en": null,
+   "lat": 38.6232284,
+   "lon": -90.124398,
+   "distance_km": 6.2,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "Fairview Heights",
+   "name_en": null,
+   "lat": 38.5934909,
+   "lon": -90.0477311,
+   "distance_km": 6.9,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "Emerson Park",
+   "name_en": null,
+   "lat": 38.6288211,
+   "lon": -90.1368743,
+   "distance_km": 6.9,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "5th & Missouri",
+   "name_en": null,
+   "lat": 38.6249949,
+   "lon": -90.1594531,
+   "distance_km": 8.9,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "East Riverfront",
+   "name_en": null,
+   "lat": 38.6284932,
+   "lon": -90.1749586,
+   "distance_km": 10.0,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "Laclede's Landing",
+   "name_en": null,
+   "lat": 38.6294544,
+   "lon": -90.1840455,
+   "distance_km": 10.7,
+   "operator": "Bi-State Development Agency"
+  },
+  {
+   "name": "Convention Center",
+   "name_en": null,
+   "lat": 38.6302197,
+   "lon": -90.1893546,
+   "distance_km": 11.2,
+   "operator": "Bi-State Development Agency"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Grafton Ferry (Missouri access)",
+   "name_en": null,
+   "lat": 38.9578017,
+   "lon": -90.4358715,
+   "distance_km": 46.7,
+   "operator": null
+  },
+  {
+   "name": "Grafton Ferry (Illinois access)",
+   "name_en": null,
+   "lat": 38.9684599,
+   "lon": -90.4357996,
+   "distance_km": 47.5,
+   "operator": null
+  },
+  {
+   "name": "Golden Eagle Ferry (South Dock 2)",
+   "name_en": null,
+   "lat": 38.8619929,
+   "lon": -90.5640684,
+   "distance_km": 49.1,
+   "operator": null
+  },
+  {
+   "name": "Golden Eagle Ferry (South Dock)",
+   "name_en": null,
+   "lat": 38.8651887,
+   "lon": -90.5685391,
+   "distance_km": 49.6,
+   "operator": "Golden Eagle Ferry Company"
+  },
+  {
+   "name": "Golden Eagle Ferry (North Dock)",
+   "name_en": null,
+   "lat": 38.8714943,
+   "lon": -90.5673262,
+   "distance_km": 49.9,
+   "operator": "Golden Eagle Ferry Company"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:16Z"
+}

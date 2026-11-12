@@ -2,9 +2,9 @@
  "id": "wh-1027",
  "unesco_id": "1027",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 390,
- "popularity_score": 21028,
+ "tier": "full",
+ "popularity_rank": 360,
+ "popularity_score": 19437,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1027.jpg",
-   "title": "Mining Area of the Great Copper Mountain in Falun",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1027",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Creutz_lave%2C_Falu_Koppargruva.jpg/1280px-Creutz_lave%2C_Falu_Koppargruva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Creutz lave, Falu Koppargruva.jpg",
+   "author": "Per Falun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Creutz_lave%2C_Falu_Koppargruva.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Falun_Grubenstadt_Falun_1.JPG/1280px-Falun_Grubenstadt_Falun_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Falun Grubenstadt Falun 1.JPG",
+   "author": "Zairon",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Falun_Grubenstadt_Falun_1.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Falun_Grubenstadt_Falun_2.JPG/1280px-Falun_Grubenstadt_Falun_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Falun Grubenstadt Falun 2.JPG",
+   "author": "Zairon",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Falun_Grubenstadt_Falun_2.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Falun_Grubenstadt_Falun_3.JPG/1280px-Falun_Grubenstadt_Falun_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Falun Grubenstadt Falun 3.JPG",
+   "author": "Zairon",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Falun_Grubenstadt_Falun_3.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1027",
@@ -102,10 +126,140 @@
   ],
   "nearest_airport_km": 21.3,
   "distance_beijing_km": 6763.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Ångbåtsbryggan",
+    "name_en": null,
+    "lat": 60.4660064,
+    "lon": 15.574793,
+    "distance_km": 15.7,
+    "operator": null
+   },
+   {
+    "name": "Ångbåtsbrygga",
+    "name_en": null,
+    "lat": 60.4639545,
+    "lon": 15.5719289,
+    "distance_km": 16.0,
+    "operator": null
+   },
+   {
+    "name": "Långbryggan",
+    "name_en": null,
+    "lat": 60.8812469,
+    "lon": 15.1038453,
+    "distance_km": 42.0,
+    "operator": null
+   },
+   {
+    "name": "Vaverön gäst port",
+    "name_en": null,
+    "lat": 60.8295936,
+    "lon": 14.8742838,
+    "distance_km": 48.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Falun",
+    "name_en": null,
+    "lat": 60.602958,
+    "lon": 15.6429205,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Borlänge",
+    "name_en": null,
+    "lat": 60.4826671,
+    "lon": 15.4251175,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "Djurås",
+    "name_en": null,
+    "lat": 60.560075,
+    "lon": 15.1386137,
+    "distance_km": 27.3,
+    "operator": null
+   },
+   {
+    "name": "Säter",
+    "name_en": null,
+    "lat": 60.3467066,
+    "lon": 15.7572096,
+    "distance_km": 29.5,
+    "operator": null
+   },
+   {
+    "name": "Gagnef",
+    "name_en": null,
+    "lat": 60.5989744,
+    "lon": 15.080637,
+    "distance_km": 30.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Dalecarlia Hotel & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Nordic Choice",
+   "lat": 60.8187786,
+   "lon": 14.9886414,
+   "distance_km": 42.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scandic Lugnet Falun",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 60.6130119,
+   "lon": 15.6530614,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Gustaf Wasa Hotell",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 60.4819951,
+   "lon": 15.4289337,
+   "distance_km": 17.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Hotell Lerdalshöjden",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 60.8781988,
+   "lon": 15.1259732,
+   "distance_km": 41.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "First Hotel Grand",
+   "name_en": null,
+   "stars": null,
+   "brand": "First Hotels",
+   "lat": 60.6063444,
+   "lon": 15.6338845,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SE",
   "country_zh": "瑞典",
@@ -177,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

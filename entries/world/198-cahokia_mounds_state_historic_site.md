@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "198"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(iii)(iv)"
 lat: 38.653888888
 lon: -90.064444444
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 卡俄基亚土丘历史遗址 / Cahokia Mounds State Historic Site
@@ -58,7 +58,27 @@ Cahokia Mounds, some 13 km north-east of St Louis, Missouri, is the largest pre-
 - ✈ **Scott AFB/Midamerica Airport (BLV)** — 23.3 km
 - ✈ **St. Louis Lambert International Airport (STL)** — 28.5 km
 - ✈ **Veterans Airport of Southern Illinois (MWA)** — 135.9 km
+- 🚉 **Washington Park** — 5.2 km
+- 🚉 **Jackie Joyner-Kersee Center** — 6.2 km
+- 🚉 **Fairview Heights** — 6.9 km
+- 🚉 **Emerson Park** — 6.9 km
+- 🚉 **5th & Missouri** — 8.9 km
+- ⛴ **Grafton Ferry (Missouri access)** — 46.7 km
+- ⛴ **Grafton Ferry (Illinois access)** — 47.5 km
+- ⛴ **Golden Eagle Ferry (South Dock 2)** — 49.1 km
+- ⛴ **Golden Eagle Ferry (South Dock)** — 49.6 km
+- ⛴ **Golden Eagle Ferry (North Dock)** — 49.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10868.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Fairmont City Fire Department** — 3.9 km — chain — Fairmont
+- **DoubleTree** — 5.0 km — chain — DoubleTree
+- **Hampton** — 5.4 km — chain — Hampton
+- **Radisson** — 9.0 km — chain — Radisson
+- **Holiday Inn St. Louis-Fairview Heights** — 9.3 km — chain — Holiday Inn
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

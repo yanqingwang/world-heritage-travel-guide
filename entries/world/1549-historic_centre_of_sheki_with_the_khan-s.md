@@ -8,13 +8,13 @@ country: "AZ"
 country_zh: "阿塞拜疆"
 country_en: "Azerbaijan"
 unesco_id: "1549"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(ii)(v)"
 lat: 41.191944444
 lon: 47.170555555
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 舍基历史中心及汗王宫殿 / Historic Centre of Sheki with the Khan’s Palace
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:23Z"
 
 *Şəki şəhəri ümumi görünüş. çaykənarı.jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Sheki with the Khan’s Palace](https://whc.unesco.org/uploads/sites/site_1549.jpg)
+![Architectural Detail - Sheki - Azerbaijan (18240101286).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Architectural_Detail_-_Sheki_-_Azerbaijan_%2818240101286%29.jpg/1280px-Architectural_Detail_-_Sheki_-_Azerbaijan_%2818240101286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre of Sheki with the Khan’s Palace · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Architectural Detail - Sheki - Azerbaijan (18240101286).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
+
+![ASK Wine Office.png](https://upload.wikimedia.org/wikipedia/commons/f/f6/ASK_Wine_Office.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*ASK Wine Office.png · OmarBayramov · CC BY-SA 4.0*
+
+![Bridge in Sheki - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bridge_in_Sheki_-_panoramio.jpg/1280px-Bridge_in_Sheki_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bridge in Sheki - panoramio.jpg · Michael Karavanov · CC BY-SA 3.0*
+
+![Bronze pitchfork from Sheki.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bronze_pitchfork_from_Sheki.jpg/960px-Bronze_pitchfork_from_Sheki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bronze pitchfork from Sheki.jpg · Interfase · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The historic city of Sheki is located at the foot of the Greater Caucasus Mounta
 - ✈ **Gabala International Airport (GBB)** — 63.1 km
 - ✈ **Ganja International Airport (GNJ)** — 87.4 km
 - ✈ **Lachin International Airport (LHL)** — 160.7 km
+- 🚉 **Şəki stansiyası** — 14.1 km
+- 🚉 **Qax Stansiyası** — 28.8 km
+- 🚉 **Şəkikənd stansiyası** — 30.3 km
+- 🚉 **Qorağan Stansiyası** — 41.3 km
+- 🚉 **Xanabad Stansiyası** — 44.6 km
+- ⛴ **Priçal** — 48.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5668.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **EL Resort Hotel** — 31.7 km — star — 5★
+- **Şəki Saray Otel** — 1.4 km — star — Sheki Saray Hotel · 4★
+- **Kür Otel** — 49.1 km — star — Kur Hotel \ Mingəçevir · 4★ · KUR
+- **Şəki Otel** — 1.4 km — star — Shaki Hotel · 3★
+- **Karvansaray Hotel** — 2.2 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

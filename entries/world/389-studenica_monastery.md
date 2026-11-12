@@ -8,13 +8,13 @@ country: "RS"
 country_zh: "塞尔维亚"
 country_en: "Serbia"
 unesco_id: "389"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.486722222
 lon: 20.531638888
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 斯图德尼察修道院 / Studenica Monastery
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:13Z"
 
 *Studenica monastery (Manastir Studenica) - by Pudelek.jpg · see Wikimedia Commons file page*
 
-![Studenica Monastery](https://whc.unesco.org/uploads/sites/site_389.jpg)
+![04 - Studenica-20.3-30.5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/04_-_Studenica-20.3-30.5.jpg/1280px-04_-_Studenica-20.3-30.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Studenica Monastery · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*04 - Studenica-20.3-30.5.jpg · Zlatnogrivasti Marmozet · CC BY-SA 4.0*
+
+![MACKENZIE(1877) p2.319 PORTAL OF THE CHURCH OF STUDENITZA.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f9/MACKENZIE%281877%29_p2.319_PORTAL_OF_THE_CHURCH_OF_STUDENITZA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*MACKENZIE(1877) p2.319 PORTAL OF THE CHURCH OF STUDENITZA.jpg · Public domain*
+
+![2010-09-18 08-30-18 - Studenica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2010-09-18_08-30-18_-_Studenica.jpg/1280px-2010-09-18_08-30-18_-_Studenica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-09-18 08-30-18 - Studenica.jpg · Dekanski · CC BY-SA 4.0*
+
+![2010-09-18 08-38-48 - Studenica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2010-09-18_08-38-48_-_Studenica.jpg/1280px-2010-09-18_08-38-48_-_Studenica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-09-18 08-38-48 - Studenica.jpg · Dekanski · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Studenica Monastery was established in the late 12th century by Stevan Neman
 - ✈ **Morava Airport (KVO)** — 37.0 km
 - ✈ **Niš Constantine the Great Airport (INI)** — 108.3 km
 - ✈ **Priština Adem Jashari International Airport (PRN)** — 109.6 km
+- 🚉 **Ушће** — 7.8 km
+- 🚉 **Полумир** — 8.1 km
+- 🚉 **Јошаничка Бања** — 13.3 km
+- 🚉 **Пискања** — 14.3 km
+- 🚉 **Бревник** — 17.2 km
+- ⛴ **Ледена Пећина Сјеница** — 47.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7468.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Горски** — 31.7 km — star — 5★ · MK Resorts
+- **Viceroy Kopaonik Serbia** — 31.8 km — star — 5★ · Viceroy Hotel Group
+- **Небеске столице 1** — 32.1 km — star — 4★
+- **Небеске столице 2** — 32.2 km — star — 4★
+- **Хотел Парк** — 32.6 km — star — Hotel Park · 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

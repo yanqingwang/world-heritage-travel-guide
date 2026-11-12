@@ -2,8 +2,8 @@
  "id": "wh-836",
  "unesco_id": "836",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 151,
+ "tier": "basic",
+ "popularity_rank": 1168,
  "popularity_score": 89683,
  "country": "MA",
  "country_zh": "摩洛哥",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Alignement_de_portes_de_deux_monuments_d%27%C3%A9poque_romaine_-_A900.jpg/1280px-Alignement_de_portes_de_deux_monuments_d%27%C3%A9poque_romaine_-_A900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Alignement de portes de deux monuments d'époque romaine - A900.jpg",
-   "author": "Passet Stéphane",
-   "license": "CC0",
-   "credit": "Notice : https://collections.albert-kahn.hauts-de-seine.fr/document/alignement-de-portes-de-deux-monuments-d-epoque-romaine/617a7a3ecf8b8968b3360d5c",
-   "source": "https://commons.wikimedia.org/wiki/File:Alignement_de_portes_de_deux_monuments_d%27%C3%A9poque_romaine_-_A900.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Chapiteau_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Chapiteau Volubilis.jpg",
-   "author": "reibai",
-   "license": "CC BY 2.0",
-   "credit": "Flickr : Volubilis",
-   "source": "https://commons.wikimedia.org/wiki/File:Chapiteau_Volubilis.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Denys%2C_Roger_with_Sporan%2C_Dick._Joan_at_Volubilis_%2837086260703%29.jpg/1280px-Denys%2C_Roger_with_Sporan%2C_Dick._Joan_at_Volubilis_%2837086260703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Denys, Roger with Sporan, Dick. Joan at Volubilis (37086260703).jpg",
-   "author": "Dr Mary Gillham Archive Project",
-   "license": "CC BY 2.0",
-   "credit": "Denys, Roger with Sporan, Dick. Joan at Volubilis",
-   "source": "https://commons.wikimedia.org/wiki/File:Denys%2C_Roger_with_Sporan%2C_Dick._Joan_at_Volubilis_%2837086260703%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/General_view_of_Ted_and_Volubillis_%2837724550682%29.jpg/1280px-General_view_of_Ted_and_Volubillis_%2837724550682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "General view of Ted and Volubillis (37724550682).jpg",
-   "author": "Dr Mary Gillham Archive Project",
-   "license": "CC BY 2.0",
-   "credit": "General view of Ted and Volubillis",
-   "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Ted_and_Volubillis_%2837724550682%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_836.jpg",
+   "title": "Archaeological Site of Volubilis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/836",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/836",
@@ -127,106 +103,9 @@
   "nearest_airport_km": 55.3,
   "distance_beijing_km": 9835.2,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Ain Karma",
-    "name_en": null,
-    "lat": 34.0105329,
-    "lon": -5.6246271,
-    "distance_km": 6.6,
-    "operator": null
-   },
-   {
-    "name": "Oued Rdom",
-    "name_en": null,
-    "lat": 34.0690844,
-    "lon": -5.6488534,
-    "distance_km": 8.6,
-    "operator": null
-   },
-   {
-    "name": "Ouarzigha",
-    "name_en": null,
-    "lat": 33.9342348,
-    "lon": -5.5448096,
-    "distance_km": 11.9,
-    "operator": null
-   },
-   {
-    "name": "Meknès - Al Amir Abdelkader",
-    "name_en": null,
-    "lat": 33.8992372,
-    "lon": -5.5451334,
-    "distance_km": 15.7,
-    "operator": null
-   },
-   {
-    "name": "Meknès مكناس",
-    "name_en": null,
-    "lat": 33.8965745,
-    "lon": -5.5317426,
-    "distance_km": 16.2,
-    "operator": "ONCF"
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Zaki",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8814892,
-   "lon": -5.5336808,
-   "distance_km": 17.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Z Hotel Meknes",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 33.8419841,
-   "lon": -5.5207124,
-   "distance_km": 22.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Ibis Meknes",
-   "name_en": null,
-   "stars": 3,
-   "brand": "Ibis",
-   "lat": 33.8956086,
-   "lon": -5.5536521,
-   "distance_km": 16.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Belle Vue",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 33.8951509,
-   "lon": -5.5488273,
-   "distance_km": 16.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Ibis Budget Fes",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 34.0511773,
-   "lon": -5.0360553,
-   "distance_km": 48.5,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "MA",
   "country_zh": "摩洛哥",
@@ -299,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

@@ -8,13 +8,13 @@ country: "GE"
 country_zh: "格鲁吉亚"
 country_en: "Georgia"
 unesco_id: "710"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(iv)"
 lat: 42.294722222
 lon: 42.768055555
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 格拉蒂修道院 / Gelati Monastery
@@ -23,9 +23,9 @@ updated_at: "2026-11-12T11:30:16Z"
 
 ## 图片 / Images
 
-![Kutaisi, Bagrati Cathedral (35702146540).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Kutaisi%2C%20Bagrati%20Cathedral%20%2835702146540%29.jpg?width=1280)
+![Gelati Monastery 1.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Gelati%20Monastery%201.jpg?width=1280)
 
-*Kutaisi, Bagrati Cathedral (35702146540).jpg · see Wikimedia Commons file page*
+*Gelati Monastery 1.jpg · see Wikimedia Commons file page*
 
 ![Gelati Monastery](https://whc.unesco.org/uploads/sites/site_710.jpg)
 
@@ -52,7 +52,22 @@ Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece
 - ✈ **David the Builder Kutaisi International Airport (KUT)** — 26.7 km
 - ✈ **Alexander Kartveli Batumi International Airport (BUS)** — 123.0 km
 - ✈ **Vladislav Ardzinba Sukhum International Airport (SUI)** — 148.2 km
+- 🚉 **ქუთაისი-1** — 5.8 km
+- 🚉 **ქუთაისი-2** — 9.1 km
+- 🚉 **რიონი** — 11.7 km
+- 🚉 **ბროწეულა** — 13.8 km
+- 🚉 **არგვეთი** — 24.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6005.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **ბაგრატი** — 6.1 km — star — Bagrati · 5★
+- **გელათი რეზიდენსი** — 5.1 km — star — Gelati Residence · 4★
+- **Belona Hotel** — 6.0 km — star — Belona Hotel · 4★
+- **ლეგენდს წყალტუბო სპა რეზორტის** — 13.8 km — star — Legends Tskaltubo Spa Resort · 4★
+- **Four Seasons Riverside** — 6.2 km — chain — Four Seasons Riverside · Four Seasons
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

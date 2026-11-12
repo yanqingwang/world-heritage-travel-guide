@@ -2,9 +2,9 @@
  "id": "wh-1258",
  "unesco_id": "1258",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 373,
- "popularity_score": 22061,
+ "tier": "full",
+ "popularity_rank": 349,
+ "popularity_score": 20144,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -102,10 +102,107 @@
   ],
   "nearest_airport_km": 24.9,
   "distance_beijing_km": 11026.1,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Puerto de Los Cristianos",
+    "name_en": "Los Cristianos Harbour",
+    "lat": 28.0479544,
+    "lon": -16.7183512,
+    "distance_km": 26.0,
+    "operator": null
+   },
+   {
+    "name": "Naviera Armas terminal",
+    "name_en": null,
+    "lat": 28.0469174,
+    "lon": -16.7179629,
+    "distance_km": 26.1,
+    "operator": "Naviera Armas"
+   },
+   {
+    "name": "Fred. Olsen Express terminal",
+    "name_en": null,
+    "lat": 28.0477111,
+    "lon": -16.7186811,
+    "distance_km": 26.1,
+    "operator": "Fred. Olsen Express"
+   },
+   {
+    "name": "Puerto de Candelaria",
+    "name_en": null,
+    "lat": 28.3569606,
+    "lon": -16.3680811,
+    "distance_km": 26.5,
+    "operator": null
+   },
+   {
+    "name": "Puerto de Buen Jesús",
+    "name_en": null,
+    "lat": 28.3759572,
+    "lon": -16.8604035,
+    "distance_km": 26.8,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Radisson Resort & Residences Tenerife",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 28.4079827,
+   "lon": -16.5487396,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Taoro",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.4123261,
+   "lon": -16.5482112,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Semiramis",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Best Hotels",
+   "lat": 28.4162453,
+   "lon": -16.5352618,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Los Jardines de Abama Suites & Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Abama Hotels",
+   "lat": 28.1712446,
+   "lon": -16.7872377,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ritz - Carlton Abama",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 28.1709384,
+   "lon": -16.8012279,
+   "distance_km": 20.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -177,5 +274,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

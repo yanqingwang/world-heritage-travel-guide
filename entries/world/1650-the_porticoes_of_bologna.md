@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1650"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(iv)"
 lat: 44.491388888
 lon: 11.332777777
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 博洛尼亚的拱廊 / The Porticoes of Bologna
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:24Z"
 
 *I colori di Via Farini.jpg · see Wikimedia Commons file page*
 
-![The Porticoes of Bologna](https://whc.unesco.org/uploads/sites/site_1650.jpg)
+![0370061039-MIBAC NikyLovesMonuments 5.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/0370061039-MIBAC_NikyLovesMonuments_5.JPG/1280px-0370061039-MIBAC_NikyLovesMonuments_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Porticoes of Bologna · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0370061039-MIBAC NikyLovesMonuments 5.JPG · NikyLovesMonuments · CC BY-SA 3.0*
+
+![0370061040-MIBAC NikyLovesMonuments.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/0370061040-MIBAC_NikyLovesMonuments.JPG/1280px-0370061040-MIBAC_NikyLovesMonuments.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0370061040-MIBAC NikyLovesMonuments.JPG · NikyLovesMonuments · CC BY-SA 3.0*
+
+![1 i portici di Bologna.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/1_i_portici_di_Bologna.jpg/1280px-1_i_portici_di_Bologna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 i portici di Bologna.jpg · Michela.osteri · CC BY-SA 4.0*
+
+![50 portici.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/50_portici.jpg/1280px-50_portici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*50 portici.jpg · AnetaMalinowskaART · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ I portici di Bologna rappresentano un importante patrimonio architettonico e cul
 - ✈ **Bologna Guglielmo Marconi Airport (BLQ)** — 6.0 km
 - ✈ **Forlì-Luigi Ridolfi International Airport (FRL)** — 67.3 km
 - ✈ **Florence Airport, Peretola (FLR)** — 76.6 km
+- 🚉 **Bologna Centrale** — 1.8 km
+- 🚉 **Bologna Centrale Alta Velocità** — 1.9 km
+- 🚉 **Bologna Zanolini** — 2.3 km
+- 🚉 **Bologna San Vitale** — 3.2 km
+- 🚉 **Lazzaretto** — 3.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8015.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Art Hotel Commercianti** — 0.8 km — star — 4★
+- **Hotel Touring** — 0.8 km — star — 4★
+- **Zanhotel Tre Vecchi** — 1.3 km — star — 4★
+- **Suite Hotel Elite** — 1.5 km — star — 4★
+- **Grand Hotel Elite** — 1.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

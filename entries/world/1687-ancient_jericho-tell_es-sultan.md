@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 31.87171944
 lon: 35.44456389
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 古耶利哥城/苏丹台形遗址 / Ancient Jericho/Tell es-Sultan
@@ -64,11 +64,11 @@ Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 52.8 km
 - ✈ **Queen Alia International Airport (AMM)** — 54.4 km
 - ✈ **Ben Gurion International Airport (TLV)** — 54.9 km
-- 🚉 **Binyene Ha'Uma ICC** — 24.6 km
 - 🚉 **ירושלים - יצחק נבון** — 24.7 km
-- 🚉 **Betsal'el Bazak** — 26.2 km
-- 🚉 **Giv'at Mordekhay** — 26.2 km
-- 🚉 **Pat Junction** — 26.6 km
+- 🚉 **ירושלים מלחה** — 27.9 km
+- 🚉 **גן החיות התנ"כי** — 28.9 km
+- 🚉 **מודיעין מרכז** — 41.6 km
+- 🚉 **בית שמש** — 44.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7055.1 km**
 
 ## 附近酒店 / Nearby hotels

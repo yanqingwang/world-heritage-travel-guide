@@ -1,0 +1,113 @@
+{
+ "hotels": [
+  {
+   "name": "Muthu Royal Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 58.5936825,
+   "lon": -3.5210241,
+   "distance_km": 48.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Station Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 58.5917841,
+   "lon": -3.5253968,
+   "distance_km": 48.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Standing Stones Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.9868643,
+   "lon": -3.2161992,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mill of Eyrland",
+   "name_en": "Mill of Eyrland",
+   "stars": null,
+   "brand": null,
+   "lat": 58.968858,
+   "lon": -3.2278268,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Harbouraide Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.9639398,
+   "lon": -3.297542,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 44,
+ "stations": [
+  {
+   "name": "Thurso",
+   "name_en": null,
+   "lat": 58.5897358,
+   "lon": -3.5278692,
+   "distance_km": 48.8,
+   "operator": "ScotRail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Stromness",
+   "name_en": null,
+   "lat": 58.9636162,
+   "lon": -3.2951145,
+   "distance_km": 5.9,
+   "operator": null
+  },
+  {
+   "name": "Stromness Ferry Terminal",
+   "name_en": null,
+   "lat": 58.9640671,
+   "lon": -3.2955424,
+   "distance_km": 5.9,
+   "operator": null
+  },
+  {
+   "name": "Graemsay Ferry",
+   "name_en": null,
+   "lat": 58.9632123,
+   "lon": -3.2968449,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "Graemsay Ferry Terminal",
+   "name_en": null,
+   "lat": 58.9312217,
+   "lon": -3.2677485,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "Houton Ferry Terminal",
+   "name_en": null,
+   "lat": 58.916893,
+   "lon": -3.184296,
+   "distance_km": 9.1,
+   "operator": "Orkney ferries"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:56Z"
+}

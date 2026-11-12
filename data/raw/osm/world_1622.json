@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Movenpick Malatya",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.3485085,
+   "lon": 38.2990743,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Remark Hill",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3496607,
+   "lon": 38.3674494,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pırlanta Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3513255,
+   "lon": 38.3039776,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anatolia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.3514061,
+   "lon": 38.3026576,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Akademi Residance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.342943,
+   "lon": 38.4252078,
+   "distance_km": 7.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [
+  {
+   "name": "Battalgazi",
+   "name_en": null,
+   "lat": 38.4335031,
+   "lon": 38.3698881,
+   "distance_km": 5.8,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Malatya",
+   "name_en": null,
+   "lat": 38.3525196,
+   "lon": 38.2832453,
+   "distance_km": 7.5,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Dilek",
+   "name_en": null,
+   "lat": 38.4449554,
+   "lon": 38.2582073,
+   "distance_km": 11.4,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Fırat",
+   "name_en": null,
+   "lat": 38.4408898,
+   "lon": 38.5122528,
+   "distance_km": 14.7,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Yazlak",
+   "name_en": null,
+   "lat": 38.3307268,
+   "lon": 38.1762373,
+   "distance_km": 17.1,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Yazıhan",
+   "name_en": null,
+   "lat": 38.5957628,
+   "lon": 38.1816948,
+   "distance_km": 28.4,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Kuşsarayı",
+   "name_en": null,
+   "lat": 38.4528439,
+   "lon": 38.6810729,
+   "distance_km": 29.0,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Akçadağ",
+   "name_en": null,
+   "lat": 38.2908984,
+   "lon": 38.0444287,
+   "distance_km": 29.4,
+   "operator": "TCDD Taşımacılık"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Battalgazi İskelesi",
+   "name_en": null,
+   "lat": 38.4762979,
+   "lon": 38.4322192,
+   "distance_km": 12.2,
+   "operator": null
+  },
+  {
+   "name": "Şehit Fethi Sekin İskelesi",
+   "name_en": null,
+   "lat": 38.5164305,
+   "lon": 38.4431711,
+   "distance_km": 16.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:08Z"
+}

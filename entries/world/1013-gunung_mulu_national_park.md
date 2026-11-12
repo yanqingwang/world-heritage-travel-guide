@@ -8,13 +8,13 @@ country: "MY"
 country_zh: "马来西亚"
 country_en: "Malaysia"
 unesco_id: "1013"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2000"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 4.0425
 lon: 114.8125
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 穆鲁山国家公园 / Gunung Mulu National Park
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:30:19Z"
 ![Mulu.JPG](https://commons.wikimedia.org/wiki/Special:FilePath/Mulu.JPG?width=1280)
 
 *Mulu.JPG · see Wikimedia Commons file page*
+
+![Mulu Pinnacles.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mulu_Pinnacles.jpg/1280px-Mulu_Pinnacles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mulu Pinnacles.jpg · Nur Nafis Naim · CC BY-SA 4.0*
+
+![Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_02.jpg/1280px-Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 02.jpg · Calistemon · CC BY-SA 4.0*
+
+![Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_03.jpg/1280px-Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 03.jpg · Calistemon · CC BY-SA 4.0*
 
 ![Gunung Mulu National Park](https://whc.unesco.org/uploads/sites/site_1013.jpg)
 
@@ -52,7 +64,15 @@ Taman Negara Gunung Mulu, atau Taman Negara Mulu yang terletak di sebelah utara 
 - ✈ **Mulu Airport (MZV)** — 1.1 km
 - ✈ **Long Seridan Airport (ODN)** — 29.2 km
 - ✈ **Marudi Airport (MUR)** — 55.6 km
+- ⛴ **Batu Bungan** — 1.4 km
+- ⛴ **Kuala Litut** — 6.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4010.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Mulu Marriott Resort & Spa** — 1.9 km — chain — Mulu Marriott Resort & Spa · Marriott
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

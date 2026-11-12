@@ -2,9 +2,9 @@
  "id": "wh-1662",
  "unesco_id": "1662",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 430,
- "popularity_score": 18088,
+ "tier": "full",
+ "popularity_rank": 396,
+ "popularity_score": 16724,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1662.jpg",
-   "title": "The Ancient Town of Si Thep and its Associated Dvaravati Monuments",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1662",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dpp-IMG_7700_%2853274075625%29.jpg/1280px-Dpp-IMG_7700_%2853274075625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dpp-IMG 7700 (53274075625).jpg",
+   "author": "Wutthichai Charoenburi from Bangkok",
+   "license": "CC BY 2.0",
+   "credit": "dpp-IMG_7700",
+   "source": "https://commons.wikimedia.org/wiki/File:Dpp-IMG_7700_%2853274075625%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dpp-IMG_7707_%2853273967459%29.jpg/1280px-Dpp-IMG_7707_%2853273967459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dpp-IMG 7707 (53273967459).jpg",
+   "author": "Wutthichai Charoenburi from Bangkok",
+   "license": "CC BY 2.0",
+   "credit": "dpp-IMG_7707",
+   "source": "https://commons.wikimedia.org/wiki/File:Dpp-IMG_7707_%2853273967459%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dpp-IMG_7709_%2853272721902%29.jpg/1280px-Dpp-IMG_7709_%2853272721902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dpp-IMG 7709 (53272721902).jpg",
+   "author": "Wutthichai Charoenburi from Bangkok",
+   "license": "CC BY 2.0",
+   "credit": "dpp-IMG_7709",
+   "source": "https://commons.wikimedia.org/wiki/File:Dpp-IMG_7709_%2853272721902%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dpp-IMG_7745_%2853273611946%29.jpg/1280px-Dpp-IMG_7745_%2853273611946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dpp-IMG 7745 (53273611946).jpg",
+   "author": "Wutthichai Charoenburi from Bangkok",
+   "license": "CC BY 2.0",
+   "credit": "dpp-IMG_7745",
+   "source": "https://commons.wikimedia.org/wiki/File:Dpp-IMG_7745_%2853273611946%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1662",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 134.6,
   "distance_beijing_km": 2996.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "แผ่นดินทอง",
+    "name_en": "Phaendin Thong",
+    "lat": 15.2502428,
+    "lon": 101.2605966,
+    "distance_km": 26.8,
+    "operator": null
+   },
+   {
+    "name": "ลำนารายณ์",
+    "name_en": "Lam Narai",
+    "lat": 15.2200983,
+    "lon": 101.1395215,
+    "distance_km": 27.4,
+    "operator": null
+   },
+   {
+    "name": "ช่องสำราญ",
+    "name_en": "Chong Samran",
+    "lat": 15.3521079,
+    "lon": 101.3869595,
+    "distance_km": 28.4,
+    "operator": null
+   },
+   {
+    "name": "โคกคลี",
+    "name_en": "Khok Khli",
+    "lat": 15.2745824,
+    "lon": 101.3691956,
+    "distance_km": 31.7,
+    "operator": null
+   },
+   {
+    "name": "บ้านวะตะแบก (เทพสถิต)",
+    "name_en": "Ban Wa Tabaek (Thep Sathit)",
+    "lat": 15.3971958,
+    "lon": 101.4535189,
+    "distance_km": 33.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "พิชชาวรี รีสอร์ท",
+   "name_en": "Picha Waree Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 15.3979316,
+   "lon": 101.1012406,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Javarach",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.666183,
+   "lon": 101.1120056,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pasak Hillside",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.2625032,
+   "lon": 101.1175196,
+   "distance_km": 23.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ban Fark Fun",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.4046616,
+   "lon": 101.3649427,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rimphu Resort",
+   "name_en": "Rimphu Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 15.6569826,
+   "lon": 101.0364543,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TH",
   "country_zh": "泰国",
@@ -176,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

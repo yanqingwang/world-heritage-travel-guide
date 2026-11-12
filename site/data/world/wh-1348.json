@@ -2,9 +2,9 @@
  "id": "wh-1348",
  "unesco_id": "1348",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 391,
- "popularity_score": 21018,
+ "tier": "full",
+ "popularity_rank": 361,
+ "popularity_score": 19424,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1348.jpg",
-   "title": "Ancient Villages of Northern Syria",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1348",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Btirsa2.jpg/1280px-Btirsa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Btirsa2.jpg",
+   "author": "Bertramz",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Btirsa2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Darkita_-_GAR_-_9-01.JPG/1280px-Darkita_-_GAR_-_9-01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Darkita - GAR - 9-01.JPG",
+   "author": "Gianfranco Gazzetti",
+   "license": "CC BY-SA 4.0",
+   "credit": "9/Darkita_01 This file was provided to Wikimedia Commons by the Gruppo Archeologico Romano as part of the cooperation project Connected Open Heritage with Wikim",
+   "source": "https://commons.wikimedia.org/wiki/File:Darkita_-_GAR_-_9-01.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Darkita_-_GAR_-_9-02.JPG/1280px-Darkita_-_GAR_-_9-02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Darkita - GAR - 9-02.JPG",
+   "author": "Gianfranco Gazzetti",
+   "license": "CC BY-SA 4.0",
+   "credit": "9/Darkita_02 This file was provided to Wikimedia Commons by the Gruppo Archeologico Romano as part of the cooperation project Connected Open Heritage with Wikim",
+   "source": "https://commons.wikimedia.org/wiki/File:Darkita_-_GAR_-_9-02.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Darkita_-_GAR_-_9-03.JPG/1280px-Darkita_-_GAR_-_9-03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Darkita - GAR - 9-03.JPG",
+   "author": "Gianfranco Gazzetti",
+   "license": "CC BY-SA 4.0",
+   "credit": "9/Darkita_03 This file was provided to Wikimedia Commons by the Gruppo Archeologico Romano as part of the cooperation project Connected Open Heritage with Wikim",
+   "source": "https://commons.wikimedia.org/wiki/File:Darkita_-_GAR_-_9-03.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1348",
@@ -103,9 +127,90 @@
   "nearest_airport_km": 38.3,
   "distance_beijing_km": 6714.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "تل رفعت",
+    "name_en": null,
+    "lat": 36.4732157,
+    "lon": 37.0889203,
+    "distance_km": 26.8,
+    "operator": null
+   },
+   {
+    "name": "حلب",
+    "name_en": "Aleppo",
+    "lat": 36.214335,
+    "lon": 37.1475005,
+    "distance_km": 30.3,
+    "operator": null
+   },
+   {
+    "name": "الوضيحي",
+    "name_en": "Wudeihi",
+    "lat": 36.1644891,
+    "lon": 37.1427053,
+    "distance_km": 32.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sheraton Alep",
+   "name_en": "Sheraton Aleppo",
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": 36.2050158,
+   "lon": 37.1541183,
+   "distance_km": 31.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "أبو أحمد عبيد",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2946763,
+   "lon": 36.8068073,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Reyhanlı Miray Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2382871,
+   "lon": 36.5713782,
+   "distance_km": 26.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "مجمع جولدن سيتي للأفراح",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2295942,
+   "lon": 37.1288668,
+   "distance_km": 28.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "بولمان",
+   "name_en": "Pullman",
+   "stars": null,
+   "brand": null,
+   "lat": 36.2130262,
+   "lon": 37.1263367,
+   "distance_km": 28.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SY",
   "country_zh": "叙利亚",
@@ -177,5 +282,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:35Z"
 }

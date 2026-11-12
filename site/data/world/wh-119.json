@@ -2,9 +2,9 @@
  "id": "wh-119",
  "unesco_id": "119",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 912,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 23,
+ "popularity_score": 523365,
  "country": "ML",
  "country_zh": "马里",
  "country_en": "Mali",
@@ -125,10 +125,83 @@
   ],
   "nearest_airport_km": 4.8,
   "distance_beijing_km": 11138.0,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Kabara",
+    "name_en": null,
+    "lat": 16.7046359,
+    "lon": -2.9852077,
+    "distance_km": 8.0,
+    "operator": "COMANAV"
+   },
+   {
+    "name": "Koriomé",
+    "name_en": null,
+    "lat": 16.6624194,
+    "lon": -3.0234667,
+    "distance_km": 12.5,
+    "operator": "COMANAV"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel La Maison",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7758617,
+   "lon": -3.0075316,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Colombe 2",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7725608,
+   "lon": -3.0108041,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Colombe 3",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.773362,
+   "lon": -3.0107076,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bouctou Annex",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7746528,
+   "lon": -3.0118723,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bouctou",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.7754843,
+   "lon": -3.014411,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ML",
   "country_zh": "马里",
@@ -200,5 +273,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

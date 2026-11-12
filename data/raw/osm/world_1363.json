@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Steigenberger Inselhotel Konstanz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.664203,
+   "lon": 9.1784727,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Riva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.6673197,
+   "lon": 9.1881312,
+   "distance_km": 5.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lilienberg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6686421,
+   "lon": 9.0745018,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Strandhotel Löchnerhaus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6913419,
+   "lon": 9.0532001,
+   "distance_km": 5.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wellnesshotel Golfpanorama",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6217595,
+   "lon": 9.0587159,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 800,
+ "stations": [
+  {
+   "name": "Tägerwilen-Gottlieben",
+   "name_en": null,
+   "lat": 47.6595931,
+   "lon": 9.1329282,
+   "distance_km": 1.9,
+   "operator": "SBB"
+  },
+  {
+   "name": "Ermatingen",
+   "name_en": null,
+   "lat": 47.6699561,
+   "lon": 9.0856637,
+   "distance_km": 2.7,
+   "operator": "SBB"
+  },
+  {
+   "name": "Tägerwilen Dorf",
+   "name_en": null,
+   "lat": 47.6535316,
+   "lon": 9.1394739,
+   "distance_km": 2.7,
+   "operator": "SBB"
+  },
+  {
+   "name": "Konstanz-Petershausen",
+   "name_en": null,
+   "lat": 47.6737893,
+   "lon": 9.1744445,
+   "distance_km": 4.0,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Kreuzlingen",
+   "name_en": null,
+   "lat": 47.6525028,
+   "lon": 9.1690645,
+   "distance_km": 4.4,
+   "operator": "SBB"
+  },
+  {
+   "name": "Konstanz",
+   "name_en": null,
+   "lat": 47.6588689,
+   "lon": 9.1772175,
+   "distance_km": 4.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bernrain",
+   "name_en": null,
+   "lat": 47.6424037,
+   "lon": 9.1623911,
+   "distance_km": 4.7,
+   "operator": "SBB"
+  },
+  {
+   "name": "Mannenbach-Salenstein",
+   "name_en": null,
+   "lat": 47.6736465,
+   "lon": 9.052531,
+   "distance_km": 5.1,
+   "operator": "SBB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Gottlieben (Schifflände)",
+   "name_en": null,
+   "lat": 47.6646376,
+   "lon": 9.1349234,
+   "distance_km": 1.5,
+   "operator": "URh"
+  },
+  {
+   "name": "Ermatingen (See)",
+   "name_en": null,
+   "lat": 47.6753965,
+   "lon": 9.0855577,
+   "distance_km": 2.7,
+   "operator": "URh"
+  },
+  {
+   "name": "Steg Bodenseeforum (Bofo)",
+   "name_en": null,
+   "lat": 47.6705727,
+   "lon": 9.1646927,
+   "distance_km": 3.3,
+   "operator": "Bodensee-Schiffsbetriebe"
+  },
+  {
+   "name": "Anlegestelle-BSB-Konstanz",
+   "name_en": null,
+   "lat": 47.6605261,
+   "lon": 9.179105,
+   "distance_km": 4.6,
+   "operator": "Bodensee-Schiffsbetriebe GmbH"
+  },
+  {
+   "name": "Konstanz",
+   "name_en": null,
+   "lat": 47.6599495,
+   "lon": 9.1784961,
+   "distance_km": 4.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:02Z"
+}

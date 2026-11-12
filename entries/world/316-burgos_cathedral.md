@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(ii)(iv)(vi)"
 lat: 42.340805555
 lon: -3.704472222
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 布尔戈斯大教堂 / Burgos Cathedral
@@ -66,9 +66,9 @@ La construcción de la Catedral de Santa María de Burgos comenzó en el siglo X
 - ✈ **Valladolid Airport (VLL)** — 118.2 km
 - 🚉 **Burgos - Rosa Manzano** — 4.6 km
 - 🚉 **Villaquirán** — 28.0 km
-- 🚉 **Campolara** — 33.5 km
 - 🚉 **Briviesca** — 38.8 km
 - 🚉 **Cascajares de la Sierra** — 41.1 km
+- 🚉 **Barbadillo del Mercado** — 44.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8960.0 km**
 
 ## 附近酒店 / Nearby hotels

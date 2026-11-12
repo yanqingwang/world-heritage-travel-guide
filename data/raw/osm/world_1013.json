@@ -1,0 +1,36 @@
+{
+ "hotels": [
+  {
+   "name": "Mulu Marriott Resort & Spa",
+   "name_en": "Mulu Marriott Resort & Spa",
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 4.0307964,
+   "lon": 114.7998053,
+   "distance_km": 1.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Batu Bungan",
+   "name_en": null,
+   "lat": 4.0533377,
+   "lon": 114.8190323,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Kuala Litut",
+   "name_en": null,
+   "lat": 4.0963649,
+   "lon": 114.8375461,
+   "distance_km": 6.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:47Z"
+}

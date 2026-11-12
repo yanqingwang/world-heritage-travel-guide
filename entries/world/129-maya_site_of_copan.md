@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)(vi)"
 lat: 14.837963888
 lon: -89.142441666
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 科潘玛雅古迹遗址 / Maya Site of Copan

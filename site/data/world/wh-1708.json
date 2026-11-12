@@ -2,8 +2,8 @@
  "id": "wh-1708",
  "unesco_id": "1708",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 52,
+ "tier": "basic",
+ "popularity_rank": 986,
  "popularity_score": 233631,
  "country": "IT",
  "country_zh": "意大利",
@@ -126,148 +126,10 @@
   ],
   "nearest_airport_km": 7.0,
   "distance_beijing_km": 8124.7,
-  "ferry_terminals": [
-   {
-    "name": "Isola Tiberina",
-    "name_en": null,
-    "lat": 41.8903339,
-    "lon": 12.4757678,
-    "distance_km": 7.2,
-    "operator": null
-   },
-   {
-    "name": "Ponte Cavour",
-    "name_en": null,
-    "lat": 41.9044109,
-    "lon": 12.4743542,
-    "distance_km": 8.5,
-    "operator": null
-   },
-   {
-    "name": "Sant'Angelo",
-    "name_en": null,
-    "lat": 41.901758,
-    "lon": 12.4681481,
-    "distance_km": 8.6,
-    "operator": null
-   },
-   {
-    "name": "Ponte Risorgimento",
-    "name_en": null,
-    "lat": 41.9194623,
-    "lon": 12.4702226,
-    "distance_km": 10.1,
-    "operator": null
-   },
-   {
-    "name": "Anguillara Sabazia",
-    "name_en": null,
-    "lat": 42.0929108,
-    "lon": 12.2676718,
-    "distance_km": 35.5,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Capannelle",
-    "name_en": null,
-    "lat": 41.8307873,
-    "lon": 12.5687872,
-    "distance_km": 3.2,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Roma Tuscolana",
-    "name_en": null,
-    "lat": 41.8792595,
-    "lon": 12.5236368,
-    "distance_km": 4.3,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Roma Prenestina",
-    "name_en": null,
-    "lat": 41.8978602,
-    "lon": 12.5460519,
-    "distance_km": 6.4,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Serenissima",
-    "name_en": null,
-    "lat": 41.8999933,
-    "lon": 12.5578627,
-    "distance_km": 6.8,
-    "operator": "Rete Ferroviaria Italiana"
-   },
-   {
-    "name": "Ciampino",
-    "name_en": null,
-    "lat": 41.8042547,
-    "lon": 12.5995067,
-    "distance_km": 6.9,
-    "operator": "Rete Ferroviaria Italiana"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hyatt Regency Rome Central",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Hyatt",
-   "lat": 41.8965671,
-   "lon": 12.5063063,
-   "distance_km": 6.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Roma Luxus Hotel",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 41.8958579,
-   "lon": 12.487205,
-   "distance_km": 7.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "NH Collection Hotels Roma Palazzo Cinquecento",
-   "name_en": null,
-   "stars": 5,
-   "brand": "NH Collection Hotels",
-   "lat": 41.902594,
-   "lon": 12.5016035,
-   "distance_km": 7.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel La Griffe",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 41.9013529,
-   "lon": 12.4944032,
-   "distance_km": 7.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Thompson Hotel",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Hyatt",
-   "lat": 41.894764,
-   "lon": 12.4798889,
-   "distance_km": 7.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -339,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:25Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

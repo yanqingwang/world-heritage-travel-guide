@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Applegarth Villa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.3791334,
+   "lon": -2.9075004,
+   "distance_km": 21.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Langdale Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 54.4362992,
+   "lon": -3.0411943,
+   "distance_km": 10.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Old England",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 54.3640847,
+   "lon": -2.9220359,
+   "distance_km": 21.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pennington Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 54.3547599,
+   "lon": -3.4105608,
+   "distance_km": 22.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ennerdale Country House Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 54.5098718,
+   "lon": -3.5182069,
+   "distance_km": 22.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 280,
+ "stations": [
+  {
+   "name": "Dalegarth",
+   "name_en": null,
+   "lat": 54.3954722,
+   "lon": -3.2747011,
+   "distance_km": 13.6,
+   "operator": "Ravenglass & Eskdale Railway"
+  },
+  {
+   "name": "Beckfoot",
+   "name_en": null,
+   "lat": 54.3925969,
+   "lon": -3.2824455,
+   "distance_km": 14.1,
+   "operator": "Ravenglass & Eskdale Railway"
+  },
+  {
+   "name": "Threlkeld Quarry",
+   "name_en": null,
+   "lat": 54.6085896,
+   "lon": -3.0439443,
+   "distance_km": 14.4,
+   "operator": null
+  },
+  {
+   "name": "Threlkeld Quarry Station",
+   "name_en": null,
+   "lat": 54.6110501,
+   "lon": -3.0440881,
+   "distance_km": 14.7,
+   "operator": null
+  },
+  {
+   "name": "Fisherground Halt",
+   "name_en": null,
+   "lat": 54.3923259,
+   "lon": -3.3034231,
+   "distance_km": 14.9,
+   "operator": "Ravenglass & Eskdale Railway"
+  },
+  {
+   "name": "Eskdale Green",
+   "name_en": null,
+   "lat": 54.386818,
+   "lon": -3.3177092,
+   "distance_km": 15.9,
+   "operator": "Ravenglass & Eskdale Railway"
+  },
+  {
+   "name": "Irton Road",
+   "name_en": null,
+   "lat": 54.3879142,
+   "lon": -3.3300669,
+   "distance_km": 16.3,
+   "operator": "Ravenglass & Eskdale Railway"
+  },
+  {
+   "name": "Murthwaite Halt",
+   "name_en": null,
+   "lat": 54.3806285,
+   "lon": -3.3619494,
+   "distance_km": 18.3,
+   "operator": "Ravenglass and Eskdale Railway"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Lodore",
+   "name_en": null,
+   "lat": 54.5630535,
+   "lon": -3.1391179,
+   "distance_km": 7.2,
+   "operator": null
+  },
+  {
+   "name": "High Brandelhow",
+   "name_en": null,
+   "lat": 54.5675759,
+   "lon": -3.1584714,
+   "distance_km": 7.5,
+   "operator": null
+  },
+  {
+   "name": "Low Brandelhow",
+   "name_en": null,
+   "lat": 54.5761011,
+   "lon": -3.157385,
+   "distance_km": 8.5,
+   "operator": null
+  },
+  {
+   "name": "Barrow Bay Jetty",
+   "name_en": null,
+   "lat": 54.5736943,
+   "lon": -3.1328264,
+   "distance_km": 8.5,
+   "operator": null
+  },
+  {
+   "name": "Hawes End",
+   "name_en": null,
+   "lat": 54.5813174,
+   "lon": -3.1597007,
+   "distance_km": 9.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:52Z"
+}

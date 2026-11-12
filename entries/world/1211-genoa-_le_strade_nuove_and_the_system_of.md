@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iv)"
 lat: 44.412222222
 lon: 8.931111111
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 热那亚的新街和罗利宫殿体系 / Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli

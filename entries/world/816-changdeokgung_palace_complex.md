@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)"
 lat: 37.579444444
 lon: 126.991666666
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 昌德宫建筑群 / Changdeokgung Palace Complex

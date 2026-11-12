@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 18.533333333
 lon: 31.816666666
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 博尔戈尔山和纳巴塔地区 / Gebel Barkal and the Sites of the Napatan Region

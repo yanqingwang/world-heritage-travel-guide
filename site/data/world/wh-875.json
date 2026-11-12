@@ -3,8 +3,8 @@
  "unesco_id": "875",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 293,
- "popularity_score": 31411,
+ "popularity_rank": 270,
+ "popularity_score": 29173,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -141,6 +141,14 @@
     "lat": 41.0875001,
     "lon": 1.157971,
     "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Drassanes",
+    "name_en": null,
+    "lat": 41.0857453,
+    "lon": 1.1566722,
+    "distance_km": 8.9,
     "operator": null
    }
   ],
@@ -315,5 +323,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:31Z"
 }

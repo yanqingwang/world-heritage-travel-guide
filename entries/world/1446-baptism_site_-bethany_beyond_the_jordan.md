@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(vi)"
 lat: 31.837222222
 lon: 35.550277777
-updated_at: "2026-11-12T11:30:22Z"
+updated_at: "2026-11-12T11:55:36Z"
 ---
 
 # 施洗之地 / Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)
@@ -66,18 +66,18 @@ Situated on the eastern bank of the River Jordan, nine kilometres north of the D
 - ✈ **Queen Alia International Airport (AMM)** — 43.8 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 44.3 km
 - ✈ **Ben Gurion International Airport (TLV)** — 65.6 km
-- 🚉 **Binyene Ha'Uma ICC** — 33.2 km
 - 🚉 **ירושלים - יצחק נבון** — 33.3 km
-- 🚉 **Giv'at Mordekhay** — 34.2 km
-- 🚉 **Betsal'el Bazak** — 34.3 km
-- 🚉 **Gonenim** — 34.5 km
+- 🚉 **ירושלים מלחה** — 35.6 km
+- 🚉 **גן החיות התנ"כי** — 36.6 km
+- 🚉 **محطة القصر** — 37.3 km
+- 🚉 **محطة عمان** — 42.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7069.9 km**
 
 ## 附近酒店 / Nearby hotels
 
 - **Hilton Dead Sea Resort & Spa** — 13.3 km — star — 5★ · Hilton
-- **מלון המלך דוד** — 31.7 km — star — King David Hotel · 5★
 - **Waldorf Astoria** — 31.7 km — star — 5★ · Waldorf Astoria
+- **מלון המלך דוד** — 31.8 km — star — King David Hotel · 5★
 - **מלון וולדורף אסטוריה ירושלים** — 31.8 km — star — Waldorf Astoria Jerusalem · 5★ · Waldorf Astoria
 - **שרתון** — 32.2 km — star — 5★
 

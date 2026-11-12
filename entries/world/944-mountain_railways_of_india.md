@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "944"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
 lat: 22.75877910565116
 lon: 78.97488981386047
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 印度山区铁路 / Mountain Railways of India
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:18Z"
 ![KSR Train on a big bridge 05-02-12 71.jpeg](https://commons.wikimedia.org/wiki/Special:FilePath/KSR%20Train%20on%20a%20big%20bridge%2005-02-12%2071.jpeg?width=1280)
 
 *KSR Train on a big bridge 05-02-12 71.jpeg · see Wikimedia Commons file page*
+
+![Kalka–Shimla toy train.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kalka%E2%80%93Shimla_toy_train.jpg/1280px-Kalka%E2%80%93Shimla_toy_train.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kalka–Shimla toy train.jpg · Rakeshk9548 · CC BY-SA 4.0*
 
 ![Mountain Railways of India](https://whc.unesco.org/uploads/sites/site_944.jpg)
 
@@ -53,6 +57,12 @@ This site includes three railways. The Darjeeling Himalayan Railway was the firs
 - ✈ **Raja Bhoj International Airport (BHO)** — 177.6 km
 - ✈ **Dr. Babasaheb Ambedkar International Airport (NAG)** — 185.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3898.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

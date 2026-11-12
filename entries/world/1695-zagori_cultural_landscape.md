@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "1695"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(v)"
 lat: 39.8667
 lon: 20.7
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 扎戈里文化景观 / Zagori Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:24Z"
 
 *Kokoris.jpg · see Wikimedia Commons file page*
 
-![Zagori Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1695.jpg)
+![Entering Zagori - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f3/Entering_Zagori_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Zagori Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Entering Zagori - panoramio.jpg · Numenor · CC BY-SA 3.0*
+
+![Gamilla Peak.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gamilla_Peak.jpg/1280px-Gamilla_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gamilla Peak.jpg · Mark Brunner · CC BY-SA 4.0*
+
+![New rebuild center of Sheperi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/New_rebuild_center_of_Sheperi.jpg/1280px-New_rebuild_center_of_Sheperi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*New rebuild center of Sheperi.jpg · Qytetarnderi · CC BY-SA 4.0*
+
+![Papingo Blossom.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Papingo_Blossom.jpg/1280px-Papingo_Blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Papingo Blossom.jpg · EAMorton · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Located in a remote rural landscape in northwestern Greece, small stone villages
 - ✈ **Corfu Ioannis Kapodistrias International Airport (CFU)** — 73.5 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 81.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7715.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Epirus Palace** — 33.9 km — star — Epirus Palace · 5★
+- **Μπουραζάνι** — 21.7 km — star — 4★
+- **Olympic** — 25.9 km — star — 4★
+- **Αρχονταρίκι** — 26.0 km — star — 4★
+- **Melesin Distillery and Hotel** — 32.9 km — star — Melesin Distillery and Hotel · 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

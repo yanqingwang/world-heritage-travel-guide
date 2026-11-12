@@ -2,9 +2,9 @@
  "id": "wh-390",
  "unesco_id": "390",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 388,
- "popularity_score": 21144,
+ "tier": "full",
+ "popularity_rank": 362,
+ "popularity_score": 19410,
  "country": "SI",
  "country_zh": "斯洛文尼亚",
  "country_en": "Slovenia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_390.jpg",
-   "title": "Škocjan Caves",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/390",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Reka_pri_%C5%A0kocjanu_1815.jpg/1280px-Reka_pri_%C5%A0kocjanu_1815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Reka pri Škocjanu 1815.jpg",
+   "author": "Ferdinand Runk / Karel Postl",
+   "license": "Public domain",
+   "credit": "europeana",
+   "source": "https://commons.wikimedia.org/wiki/File:Reka_pri_%C5%A0kocjanu_1815.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2134-Skocjan-Caves_%2827802955942%29.jpg/1280px-2134-Skocjan-Caves_%2827802955942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2134-Skocjan-Caves (27802955942).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "2134-Skocjan-Caves",
+   "source": "https://commons.wikimedia.org/wiki/File:2134-Skocjan-Caves_%2827802955942%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2136-Skocjan-Caves_%2827291552453%29.jpg/1280px-2136-Skocjan-Caves_%2827291552453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2136-Skocjan-Caves (27291552453).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "2136-Skocjan-Caves",
+   "source": "https://commons.wikimedia.org/wiki/File:2136-Skocjan-Caves_%2827291552453%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2144-Skocjan-Caves_%2827904364205%29.jpg/1280px-2144-Skocjan-Caves_%2827904364205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2144-Skocjan-Caves (27904364205).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "2144-Skocjan-Caves",
+   "source": "https://commons.wikimedia.org/wiki/File:2144-Skocjan-Caves_%2827904364205%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/390",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 44.8,
   "distance_beijing_km": 7791.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Zona Industriale",
+    "name_en": null,
+    "lat": 45.6129904,
+    "lon": 13.8118231,
+    "distance_km": 15.4,
+    "operator": null
+   },
+   {
+    "name": "Liberty Lines",
+    "name_en": null,
+    "lat": 45.6542045,
+    "lon": 13.7683504,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "Trieste Terminal Passaggeri s.p.a.",
+    "name_en": null,
+    "lat": 45.6543885,
+    "lon": 13.768317,
+    "distance_km": 17.6,
+    "operator": null
+   },
+   {
+    "name": "Arsenale San Marco",
+    "name_en": null,
+    "lat": 45.6341581,
+    "lon": 13.7708551,
+    "distance_km": 17.7,
+    "operator": null
+   },
+   {
+    "name": "Trieste - Molo Audace",
+    "name_en": null,
+    "lat": 45.6518679,
+    "lon": 13.7670679,
+    "distance_km": 17.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Divača",
+    "name_en": null,
+    "lat": 45.6813513,
+    "lon": 13.9654776,
+    "distance_km": 2.9,
+    "operator": null
+   },
+   {
+    "name": "Rodik",
+    "name_en": null,
+    "lat": 45.6271905,
+    "lon": 13.9752024,
+    "distance_km": 4.5,
+    "operator": null
+   },
+   {
+    "name": "Gornje Ležeče",
+    "name_en": null,
+    "lat": 45.6664132,
+    "lon": 14.072282,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Povir",
+    "name_en": null,
+    "lat": 45.6993855,
+    "lon": 13.9304127,
+    "distance_km": 6.3,
+    "operator": null
+   },
+   {
+    "name": "Hrpelje-Kozina",
+    "name_en": null,
+    "lat": 45.6037206,
+    "lon": 13.9351622,
+    "distance_km": 8.2,
+    "operator": "SŽ Infrastruktura"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Maestoso",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.6686913,
+   "lon": 13.8825677,
+   "distance_km": 8.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Savoia Excelsior Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.6493021,
+   "lon": 13.7657631,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greif Maria Theresia",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.6804829,
+   "lon": 13.7544405,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tivoli Wellness Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Tivoli",
+   "lat": 45.7666132,
+   "lon": 13.6367755,
+   "distance_km": 30.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Palace Portorož",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.5147537,
+   "lon": 13.5921833,
+   "distance_km": 35.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SI",
   "country_zh": "斯洛文尼亚",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "629"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1997"
 criteria: "(vii)(viii)"
 lat: -54.63
 lon: 158.86
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 麦夸里岛 / Macquarie Island
@@ -27,21 +27,21 @@ updated_at: "2026-11-12T11:30:15Z"
 
 *MacquarieIsland7.JPG · see Wikimedia Commons file page*
 
-![Acaena minor Stevage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Acaena_minor_Stevage.jpg/1280px-Acaena_minor_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Acaena minor Stevage.jpg · Stevage · CC BY-SA 4.0*
-
 ![Admiralty Chart No 1022 Island and anchorages in the Southern Ocean including Macquarie Island, Published 1917.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Admiralty_Chart_No_1022_Island_and_anchorages_in_the_Southern_Ocean_including_Macquarie_Island%2C_Published_1917.jpg/1280px-Admiralty_Chart_No_1022_Island_and_anchorages_in_the_Southern_Ocean_including_Macquarie_Island%2C_Published_1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Admiralty Chart No 1022 Island and anchorages in the Southern Ocean including Macquarie Island, Published 1917.jpg · United Kingdom Hydrographic Office · Public domain*
 
-![Antarctic Mail 1911.jpg](https://upload.wikimedia.org/wikipedia/commons/3/30/Antarctic_Mail_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Macquarie Island, Australia (ASTER).jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Macquarie_Island%2C_Australia_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Antarctic Mail 1911.jpg · British Government · Public domain*
+*Macquarie Island, Australia (ASTER).jpg · NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team · Public domain*
 
-![AudioElleSeals.oga](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+![Macquarie Island, Australia (Part 1).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Macquarie_Island%2C_Australia_%28Part_1%29.webm/1280px--Macquarie_Island%2C_Australia_%28Part_1%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*AudioElleSeals.oga · Hullwarren · CC BY-SA 3.0*
+*Macquarie Island, Australia (Part 1).webm · Blagoj Klincharski · CC BY 3.0*
+
+![Macquarie Island, Australia (Part 2).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Macquarie_Island%2C_Australia_%28Part_2%29.webm/1280px--Macquarie_Island%2C_Australia_%28Part_2%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*Macquarie Island, Australia (Part 2).webm · Blagoj Klincharski · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -58,6 +58,12 @@ Macquarie Island (34 km long x 5 km wide) is an oceanic island in the Southern O
 - ✈ **Invercargill Airport (IVC)** — 1080.9 km
 - ✈ **Dunedin International Airport (DUD)** — 1190.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11272.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

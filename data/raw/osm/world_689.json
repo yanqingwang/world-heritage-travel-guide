@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "فندق الف ليلة",
+   "name_en": "Thousand Nights Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.9880771,
+   "lon": 35.8663533,
+   "distance_km": 14.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza Amman",
+   "name_en": "Crowne Plaza Amman",
+   "stars": 5,
+   "brand": "Crowne Plaza",
+   "lat": 31.9622351,
+   "lon": 35.87013,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Hotel Amman",
+   "name_en": "Four Seasons Hotel",
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 31.9617,
+   "lon": 35.8809836,
+   "distance_km": 16.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton Al Nabil",
+   "name_en": "Sheraton Al Nabil",
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 31.9603261,
+   "lon": 35.880001,
+   "distance_km": 16.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Signia by Hilton Amman",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 31.9684555,
+   "lon": 35.8973019,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 233,
+ "stations": [
+  {
+   "name": "محطة عمان",
+   "name_en": "Amman Station",
+   "lat": 31.9688433,
+   "lon": 35.9687857,
+   "distance_km": 24.1,
+   "operator": "Jordan Hejaz Railway"
+  },
+  {
+   "name": "محطة القصر",
+   "name_en": "Qasr Station",
+   "lat": 31.9070843,
+   "lon": 35.9367374,
+   "distance_km": 24.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:25Z"
+}

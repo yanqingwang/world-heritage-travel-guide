@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)(v)"
 lat: 32.926111111
 lon: 35.083888888
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 阿克古城 / Old City of Acre

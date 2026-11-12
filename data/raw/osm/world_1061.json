@@ -1,0 +1,52 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Puerta Calakmul",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 18.5350432,
+   "lon": -89.8948574,
+   "distance_km": 48.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yaax´Che Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.4869392,
+   "lon": -89.8994949,
+   "distance_km": 43.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mundo Maya - Calakmul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.1837124,
+   "lon": -89.7471522,
+   "distance_km": 11.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cabanas Calakmul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.5400842,
+   "lon": -89.9153373,
+   "distance_km": 49.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 4,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:59Z"
+}

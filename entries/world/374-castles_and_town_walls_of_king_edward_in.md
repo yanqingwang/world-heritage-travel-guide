@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "374"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(i)(iii)(iv)"
 lat: 53.139722222
 lon: -4.276944444
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 圭内斯郡爱德华国王城堡和城墙 / Castles and Town Walls of King Edward in Gwynedd
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:30:13Z"
 ![Caernarfon Castle 1994.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Caernarfon%20Castle%201994.jpg?width=1280)
 
 *Caernarfon Castle 1994.jpg · see Wikimedia Commons file page*
+
+![Castell Gwain Goch, Penrhyndeudraeth.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Castell_Gwain_Goch%2C_Penrhyndeudraeth.jpg/1280px-Castell_Gwain_Goch%2C_Penrhyndeudraeth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Castell Gwain Goch, Penrhyndeudraeth.jpg · Peter Broster · CC0*
+
+![Dog walking across the bailey of Hugh D'Avranches' castle - geograph.org.uk - 658748.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Dog_walking_across_the_bailey_of_Hugh_D%27Avranches%27_castle_-_geograph.org.uk_-_658748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Dog walking across the bailey of Hugh D'Avranches' castle - geograph.org.uk - 658748.jpg · Eric Jones · CC BY-SA 2.0*
+
+![Tomen Dolbenmaen Motte - geograph.org.uk - 257820.jpg](https://upload.wikimedia.org/wikipedia/commons/6/63/Tomen_Dolbenmaen_Motte_-_geograph.org.uk_-_257820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Tomen Dolbenmaen Motte - geograph.org.uk - 257820.jpg · Eric Jones · CC BY-SA 2.0*
 
 ![Castles and Town Walls of King Edward in Gwynedd](https://whc.unesco.org/uploads/sites/site_374.jpg)
 
@@ -46,7 +58,27 @@ The castles of Beaumaris and Harlech (largely the work of the greatest military 
 - ✈ **Liverpool John Lennon Airport (LPL)** — 97.4 km
 - ✈ **Isle of Man Airport (IOM)** — 107.4 km
 - ✈ **Manchester Airport (MAN)** — 134.9 km
+- 🚉 **Caernarfon** — 0.4 km
+- 🚉 **Bontnewydd** — 2.6 km
+- 🚉 **Dinas** — 4.0 km
+- 🚉 **Tryfan Junction** — 4.3 km
+- 🚉 **Waunfawr** — 6.2 km
+- ⛴ **Holyhead** — 29.9 km
+- ⛴ **Irish Ferries** — 30.1 km
+- ⛴ **Stena Line** — 30.1 km
+- ⛴ **Terminal 1** — 30.1 km
+- ⛴ **Barmouth Harbour** — 49.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8120.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Bron Rhiw** — 24.3 km — star — 4★
+- **Hilton Garden Inn Snowdonia** — 29.6 km — star — 4★ · Hilton
+- **Hotel Maes-y-Neuadd** — 31.4 km — star — 4★
+- **Craig-Y-Dderwen** — 32.7 km — star — Craig Y Dderwen Riverside Hotel · 4★
+- **St George's Hotel** — 36.2 km — star — St Georges Hotel · 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "368"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1986"
 criteria: "(viii)(ix)(x)"
 lat: -29.6
 lon: 149.6
-updated_at: "2026-11-12T11:30:13Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 澳大利亚冈瓦纳雨林 / Gondwana Rainforests of Australia
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:30:13Z"
 ![Box Log Falls.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Box%20Log%20Falls.jpg?width=1280)
 
 *Box Log Falls.jpg · see Wikimedia Commons file page*
+
+![Natural Bridge Panorama.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b3/Natural_Bridge_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Natural Bridge Panorama.jpg · CC BY-SA 2.5*
+
+![雪梨歌劇院15.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E9%9B%AA%E6%A2%A8%E6%AD%8C%E5%8A%87%E9%99%A215.jpg/1280px-%E9%9B%AA%E6%A2%A8%E6%AD%8C%E5%8A%87%E9%99%A215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*雪梨歌劇院15.jpg · 林高志 · CC BY-SA 4.0*
 
 ![Gondwana Rainforests of Australia](https://whc.unesco.org/uploads/sites/site_368.jpg)
 
@@ -46,7 +54,15 @@ This site, comprising several protected areas, is situated predominantly along t
 - ✈ **Moree Airport (MRZ)** — 26.2 km
 - ✈ **Narrabri Airport (NAA)** — 82.9 km
 - ✈ **Walgett Airport (WGE)** — 150.1 km
+- 🚉 **Moree** — 27.8 km
+- 🚉 **Bellata Station** — 39.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8464.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

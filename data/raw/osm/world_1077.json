@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Belgheys guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6071257,
+   "lon": 47.221088,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل رنجی",
+   "name_en": "Ranji Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.4062933,
+   "lon": 47.1185059,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pension",
+   "name_en": "Pension",
+   "stars": null,
+   "brand": null,
+   "lat": 36.3999478,
+   "lon": 47.1116425,
+   "distance_km": 25.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:02Z"
+}

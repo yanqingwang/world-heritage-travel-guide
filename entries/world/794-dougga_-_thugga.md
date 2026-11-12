@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "794"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iii)"
 lat: 36.42333333
 lon: 9.22027778
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 沙格镇 / Dougga / Thugga
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:17Z"
 
 *Dougga, Beja.jpg · see Wikimedia Commons file page*
 
-![Dougga / Thugga](https://whc.unesco.org/uploads/sites/site_794.jpg)
+![A tunnel in Dougga 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/A_tunnel_in_Dougga_01.jpg/1280px-A_tunnel_in_Dougga_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Dougga / Thugga · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A tunnel in Dougga 01.jpg · Kritzolina · CC BY-SA 4.0*
+
+![A tunnel in Dougga 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/A_tunnel_in_Dougga_02.jpg/1280px-A_tunnel_in_Dougga_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A tunnel in Dougga 02.jpg · Kritzolina · CC BY-SA 4.0*
+
+![Auditorium liber pater dougga.JPG](https://upload.wikimedia.org/wikipedia/commons/2/25/Auditorium_liber_pater_dougga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Auditorium liber pater dougga.JPG · Pradigue · CC BY-SA 3.0*
+
+![Byzantine Fortifications at Dougga - isawnyu.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Byzantine_Fortifications_at_Dougga_-_isawnyu.jpg/1280px-Byzantine_Fortifications_at_Dougga_-_isawnyu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Byzantine Fortifications at Dougga - isawnyu.jpg · Institute for the Study of the Ancient World · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ Before the Roman annexation of Numidia, the town of Thugga, built on an elevated
 - ✈ **Tabarka-Aïn Draham International Airport (TBJ)** — 69.1 km
 - ✈ **Tunis Carthage International Airport (TUN)** — 101.7 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 115.9 km
+- 🚉 **قعفور** — 14.7 km
+- 🚉 **سيدي عياد** — 17.2 km
+- 🚉 **الخوات** — 19.0 km
+- 🚉 **الكريب** — 19.1 km
+- 🚉 **سيدي إسماعيل** — 21.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8715.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hôtel Thugga** — 4.9 km — star — 2★
+- **Hotel Sidi Bou Teffaha** — 33.8 km — hotel — Hotel Sidi Bou Teffaha
+- **Hôtel Aladino** — 33.9 km — hotel
+- **فندق زاما** — 39.2 km — hotel — Hotel ZAMA
+- **فندق أطلس** — 40.5 km — hotel — Hotel Atlas
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "231"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iii)(vi)"
 lat: 28.655833333
 lon: 77.240277777
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 德里红堡群 / Red Fort Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Red Fort, Delhi by alexfurr.jpg · see Wikimedia Commons file page*
 
-![Red Fort Complex](https://whc.unesco.org/uploads/sites/site_231.jpg)
+![19-04-01-13710449 928411547267931 4629239519125204114 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/19-04-01-13710449_928411547267931_4629239519125204114_o.jpg/1280px-19-04-01-13710449_928411547267931_4629239519125204114_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Red Fort Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*19-04-01-13710449 928411547267931 4629239519125204114 o.jpg · Mitulshekhaliya111 · CC BY-SA 4.0*
+
+![201027-D-BN624-0881 (50537137643).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/201027-D-BN624-0881_%2850537137643%29.jpg/1280px-201027-D-BN624-0881_%2850537137643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*201027-D-BN624-0881 (50537137643).jpg · U.S. Secretary of Defense · CC BY 2.0*
+
+![20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg/1280px-20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg · Jakub Hałun · CC BY-SA 4.0*
+
+![A Corridor in Lal Qila.jpg](https://upload.wikimedia.org/wikipedia/commons/8/89/A_Corridor_in_Lal_Qila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A Corridor in Lal Qila.jpg · Ashhad Ahmed · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The Red Fort Complex was built as the palace fort of Shahjahanabad – the new c
 - ✈ **Hindon Airport / Hindon Air Force Station (HDO)** — 12.9 km
 - ✈ **Indira Gandhi International Airport (DEL)** — 18.0 km
 - ✈ **Noida International Airport (DXN)** — 64.2 km
+- 🚉 **Delhi Junction** — 1.4 km
+- 🚉 **Sadar Bazar** — 2.3 km
+- 🚉 **New Delhi** — 2.4 km
+- 🚉 **Shivaji Bridge** — 2.8 km
+- 🚉 **Tilak Bridge** — 3.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3779.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Connaught** — 3.7 km — star — 5★
+- **Shangri-La Hotel** — 4.1 km — star — 5★
+- **Le Méridien** — 4.7 km — star — 5★ · Le Méridien
+- **The Leela Palace Kempinski** — 9.8 km — star — 5★ · The Leela
+- **Hyatt Centric** — 16.1 km — star — 5★ · Hyatt Centric
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

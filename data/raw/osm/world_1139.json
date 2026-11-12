@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Atlantide",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2772958,
+   "lon": -0.0510523,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Complexe Bel-Air",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2654237,
+   "lon": -0.0428161,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Motel des Askia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.26625,
+   "lon": -0.0397167,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tizy Mizy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2628972,
+   "lon": -0.0322292,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tizy Mizy Annex",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.2607423,
+   "lon": -0.0335275,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 5,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Gao",
+   "name_en": null,
+   "lat": 16.2781256,
+   "lon": -0.0517336,
+   "distance_km": 1.5,
+   "operator": "COMANAV"
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:14Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-491",
  "unesco_id": "491",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 394,
- "popularity_score": 20949,
+ "tier": "full",
+ "popularity_rank": 370,
+ "popularity_score": 18735,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_491.jpg",
-   "title": "Sanctuary of Asklepios at Epidaurus",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/491",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._01.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._03.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 03.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._13.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 13.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._13.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._14.jpg/1280px-%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Epidauros ist die bedeutendste antike Kultstätte für den Heilgott Asklepios. 14.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Epidauros_ist_die_bedeutendste_antike_Kultst%C3%A4tte_f%C3%BCr_den_Heilgott_Asklepios._14.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/491",
@@ -101,10 +125,140 @@
   ],
   "nearest_airport_km": 85.2,
   "distance_beijing_km": 7606.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "ΑΓΚΙΣΤΡΙ (ΜΥΛΟΣ)",
+    "name_en": "Agistri (Mylos)",
+    "lat": 37.7136821,
+    "lon": 23.3483435,
+    "distance_km": 27.3,
+    "operator": null
+   },
+   {
+    "name": "Ermioni ferry port",
+    "name_en": null,
+    "lat": 37.3862055,
+    "lon": 23.2495901,
+    "distance_km": 28.2,
+    "operator": null
+   },
+   {
+    "name": "Σκάλα",
+    "name_en": null,
+    "lat": 37.7081485,
+    "lon": 23.3686675,
+    "distance_km": 28.6,
+    "operator": null
+   },
+   {
+    "name": "Μονή",
+    "name_en": "Moni",
+    "lat": 37.6955087,
+    "lon": 23.4347856,
+    "distance_km": 33.5,
+    "operator": null
+   },
+   {
+    "name": "Λιμάνι Άστρους",
+    "name_en": null,
+    "lat": 37.4146671,
+    "lon": 22.7665412,
+    "distance_km": 34.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Άγιοι Θεοδώροι",
+    "name_en": null,
+    "lat": 37.9331977,
+    "lon": 23.1370307,
+    "distance_km": 37.6,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Κόρινθος",
+    "name_en": "Corinth",
+    "lat": 37.9214056,
+    "lon": 22.932332,
+    "distance_km": 38.0,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Κινέτα",
+    "name_en": null,
+    "lat": 37.9654263,
+    "lon": 23.2010511,
+    "distance_km": 42.3,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Ζευγολατιό",
+    "name_en": null,
+    "lat": 37.925942,
+    "lon": 22.8056108,
+    "distance_km": 43.4,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kandia's Castle",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5162616,
+   "lon": 22.979539,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alkyon Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9635213,
+   "lon": 22.7995759,
+   "distance_km": 47.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Flisvos Royal",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.5250837,
+   "lon": 22.863005,
+   "distance_km": 20.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "AKS Hinitsa Bay",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.3061921,
+   "lon": 23.1448643,
+   "distance_km": 33.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Poseidon",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.6382851,
+   "lon": 23.1577821,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GR",
   "country_zh": "希腊",
@@ -176,5 +330,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

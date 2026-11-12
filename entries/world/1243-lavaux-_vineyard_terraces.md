@@ -8,13 +8,13 @@ country: "CH"
 country_zh: "瑞士"
 country_en: "Switzerland"
 unesco_id: "1243"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(iii)(iv)(v)"
 lat: 46.491944444
 lon: 6.746111111
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 拉沃葡萄园梯田 / Lavaux, Vineyard Terraces
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Lavaux Switzerland.jpg · see Wikimedia Commons file page*
 
-![Lavaux, Vineyard Terraces](https://whc.unesco.org/uploads/sites/site_1243.jpg)
+![2009-08-27 Lake Geneva 404.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2009-08-27_Lake_Geneva_404.JPG/1280px-2009-08-27_Lake_Geneva_404.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lavaux, Vineyard Terraces · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2009-08-27 Lake Geneva 404.JPG · Norbert Aepli, Switzerland ( User:Noebu ) · CC BY 3.0*
+
+![2009-08-27 Lake Geneva 405.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2009-08-27_Lake_Geneva_405.JPG/1280px-2009-08-27_Lake_Geneva_405.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2009-08-27 Lake Geneva 405.JPG · Norbert Aepli, Switzerland ( User:Noebu ) · CC BY 3.0*
+
+![2009-08-27 Lake Geneva 406.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2009-08-27_Lake_Geneva_406.JPG/1280px-2009-08-27_Lake_Geneva_406.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2009-08-27 Lake Geneva 406.JPG · Norbert Aepli, Switzerland ( User:Noebu ) · CC BY 3.0*
+
+![2009-08-27 Lake Geneva 407.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2009-08-27_Lake_Geneva_407.JPG/1280px-2009-08-27_Lake_Geneva_407.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2009-08-27 Lake Geneva 407.JPG · Norbert Aepli, Switzerland ( User:Noebu ) · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Lavaux [lavo] (früher deutsch Ryf, wozu Ryfwyn, Reifwein ‚Wein vom Lavaux
 - ✈ **Geneva International Airport (GVA)** — 56.5 km
 - ✈ **Bern Airport (BRN)** — 74.1 km
 - ✈ **Annecy Meythet airport (NCY)** — 80.0 km
+- 🚉 **Cully** — 1.5 km
+- 🚉 **Puidoux** — 1.5 km
+- 🚉 **Grandvaux** — 1.9 km
+- 🚉 **Moreillon** — 3.6 km
+- 🚉 **La Conversion** — 5.7 km
+- ⛴ **Cully** — 1.2 km
+- ⛴ **Rivaz-Saint-Saphorin** — 3.6 km
+- ⛴ **Lutry** — 4.9 km
+- ⛴ **Pully** — 6.7 km
+- ⛴ **Vevey-Marché** — 8.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8200.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Le Mirador Resort & Spa** — 6.3 km — star — 5★
+- **Hôtel des Trois Couronnes** — 8.6 km — star — 5★
+- **Lausanne Palace** — 9.3 km — star — 5★
+- **Hôtel Royal** — 15.8 km — star — 5★
+- **Chalet RoyAlp Hôtel & Spa** — 32.8 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

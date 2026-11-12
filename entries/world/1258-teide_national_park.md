@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "1258"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2007"
 criteria: "(vii)(viii)"
 lat: 28.2647
 lon: -16.6181
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 泰德国家公园 / Teide National Park
@@ -52,7 +52,22 @@ Situado en la isla de Tenerife, este sitio comprende esencialmente el estratovol
 - ✈ **Tenerife Sur Airport (TFS)** — 24.9 km
 - ✈ **Tenerife Norte-Ciudad de La Laguna Airport (TFN)** — 36.3 km
 - ✈ **La Gomera Airport (GMZ)** — 64.1 km
+- ⛴ **Puerto de Los Cristianos** — 26.0 km
+- ⛴ **Naviera Armas terminal** — 26.1 km
+- ⛴ **Fred. Olsen Express terminal** — 26.1 km
+- ⛴ **Puerto de Candelaria** — 26.5 km
+- ⛴ **Puerto de Buen Jesús** — 26.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11026.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Radisson Resort & Residences Tenerife** — 17.3 km — star — 5★ · Radisson
+- **Gran Hotel Taoro** — 17.8 km — star — 5★
+- **Semiramis** — 18.7 km — star — 5★ · Best Hotels
+- **Los Jardines de Abama Suites & Villas** — 19.6 km — star — 5★ · Abama Hotels
+- **Ritz - Carlton Abama** — 20.8 km — star — 5★ · The Ritz-Carlton
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

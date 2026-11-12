@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Sheraton Alep",
+   "name_en": "Sheraton Aleppo",
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": 36.2050158,
+   "lon": 37.1541183,
+   "distance_km": 31.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "أبو أحمد عبيد",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2946763,
+   "lon": 36.8068073,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Reyhanlı Miray Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2382871,
+   "lon": 36.5713782,
+   "distance_km": 26.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "مجمع جولدن سيتي للأفراح",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2295942,
+   "lon": 37.1288668,
+   "distance_km": 28.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "بولمان",
+   "name_en": "Pullman",
+   "stars": null,
+   "brand": null,
+   "lat": 36.2130262,
+   "lon": 37.1263367,
+   "distance_km": 28.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 41,
+ "stations": [
+  {
+   "name": "تل رفعت",
+   "name_en": null,
+   "lat": 36.4732157,
+   "lon": 37.0889203,
+   "distance_km": 26.8,
+   "operator": null
+  },
+  {
+   "name": "حلب",
+   "name_en": "Aleppo",
+   "lat": 36.214335,
+   "lon": 37.1475005,
+   "distance_km": 30.3,
+   "operator": null
+  },
+  {
+   "name": "الوضيحي",
+   "name_en": "Wudeihi",
+   "lat": 36.1644891,
+   "lon": 37.1427053,
+   "distance_km": 32.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:50Z"
+}

@@ -2,9 +2,9 @@
  "id": "wh-1012",
  "unesco_id": "1012",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 421,
- "popularity_score": 18383,
+ "tier": "full",
+ "popularity_rank": 394,
+ "popularity_score": 16793,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -105,7 +105,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sutera Sanctuary Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.0458636,
+   "lon": 116.7037057,
+   "distance_km": 13.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tropicana Lodge Backpackers and Restaurant",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.0467621,
+   "lon": 116.7042774,
+   "distance_km": 13.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ziang Noh Homestay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.0030516,
+   "lon": 116.5811527,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kinabalu Lodge",
+   "name_en": "Kinabalu Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 6.0087659,
+   "lon": 116.5410722,
+   "distance_km": 19.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nabalu Kundasang",
+   "name_en": "Nabalu Kundasang",
+   "stars": null,
+   "brand": null,
+   "lat": 5.9869942,
+   "lon": 116.5714816,
+   "distance_km": 20.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MY",
   "country_zh": "马来西亚",
@@ -178,5 +234,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

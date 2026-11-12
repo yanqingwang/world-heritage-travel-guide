@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Oberoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Oberoi",
+   "lat": 18.9270024,
+   "lon": 72.8206042,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Trident, Nariman-Point",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Trident",
+   "lat": 18.9276399,
+   "lon": 72.8210332,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Lands End",
+   "name_en": "Taj Lands End",
+   "stars": 5,
+   "brand": "Taj",
+   "lat": 19.0435761,
+   "lon": 72.8196888,
+   "distance_km": 14.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW Marriott Mumbai Sahar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "JW Marriott",
+   "lat": 19.1031373,
+   "lon": 72.8777603,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Taj Santacruz Mumbai",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Taj",
+   "lat": 19.0926852,
+   "lon": 72.8543788,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 373,
+ "stations": [
+  {
+   "name": "Mysore Colony",
+   "name_en": null,
+   "lat": 19.0277168,
+   "lon": 72.8914397,
+   "distance_km": 8.3,
+   "operator": null
+  },
+  {
+   "name": "Bharat Petroleum",
+   "name_en": null,
+   "lat": 19.0352839,
+   "lon": 72.8955553,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "Sewri",
+   "name_en": null,
+   "lat": 18.9987796,
+   "lon": 72.8544218,
+   "distance_km": 9.0,
+   "operator": "CR"
+  },
+  {
+   "name": "Dockyard Road",
+   "name_en": null,
+   "lat": 18.9674767,
+   "lon": 72.8445477,
+   "distance_km": 9.1,
+   "operator": "CR"
+  },
+  {
+   "name": "Bhakti Park",
+   "name_en": null,
+   "lat": 19.028972,
+   "lon": 72.8775722,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "Reay Road",
+   "name_en": null,
+   "lat": 18.9775506,
+   "lon": 72.8441011,
+   "distance_km": 9.3,
+   "operator": "CR"
+  },
+  {
+   "name": "Mankhurd",
+   "name_en": "Mankhurd",
+   "lat": 19.0482086,
+   "lon": 72.9317136,
+   "distance_km": 9.4,
+   "operator": "CR"
+  },
+  {
+   "name": "Nhava Sheva",
+   "name_en": null,
+   "lat": 18.898061,
+   "lon": 72.9877967,
+   "distance_km": 9.4,
+   "operator": "CR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Elephanta Caves Jetty",
+   "name_en": null,
+   "lat": 18.9724069,
+   "lon": 72.9309607,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Uran",
+   "name_en": null,
+   "lat": 18.9145979,
+   "lon": 72.9277423,
+   "distance_km": 5.4,
+   "operator": null
+  },
+  {
+   "name": "Bhaucha Dhakka / Ferry Wharf",
+   "name_en": null,
+   "lat": 18.9568222,
+   "lon": 72.8494839,
+   "distance_km": 8.6,
+   "operator": null
+  },
+  {
+   "name": "M2M Ro-Ro Terminal",
+   "name_en": null,
+   "lat": 18.9573602,
+   "lon": 72.8475783,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "Angriya Water Terminal",
+   "name_en": null,
+   "lat": 18.953769,
+   "lon": 72.8464559,
+   "distance_km": 9.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:19Z"
+}

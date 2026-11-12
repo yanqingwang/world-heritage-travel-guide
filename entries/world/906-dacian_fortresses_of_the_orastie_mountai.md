@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)(iv)"
 lat: 45.6231
 lon: 23.3119
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 奥拉斯迪山的达亚恩城堡 / Dacian Fortresses of the Orastie Mountains

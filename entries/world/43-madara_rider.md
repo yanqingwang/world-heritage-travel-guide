@@ -8,13 +8,13 @@ country: "BG"
 country_zh: "保加利亚"
 country_en: "Bulgaria"
 unesco_id: "43"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(iii)"
 lat: 43.2773746
 lon: 27.1188945
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 马达腊骑士崖雕 / Madara Rider
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:10Z"
 
 *JEŹDZIEC Z MADARY.JPG · see Wikimedia Commons file page*
 
-![Madara Rider](https://whc.unesco.org/uploads/sites/site_43.jpg)
+![Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 35.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_35.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Madara Rider · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 35.jpg · Diego Delso · CC BY-SA 4.0*
+
+![Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 36.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_36.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 36.jpg · Diego Delso · CC BY-SA 4.0*
+
+![Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 37.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_37.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 37.jpg · Diego Delso · CC BY-SA 4.0*
+
+![Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 38.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_38.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 38.jpg · Diego Delso · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Madara Rider, representing the figure of a knight triumphing over a lion, is
 - ✈ **Varna Airport (VAR)** — 57.4 km
 - ✈ **Burgas Airport (BOJ)** — 85.0 km
 - ✈ **Bucharest Băneasa Aurel Vlaicu International Airport (BBU)** — 158.8 km
+- 🚉 **Мадара** — 1.6 km
+- 🚉 **Каспичан** — 5.5 km
+- 🚉 **Мътница** — 7.6 km
+- 🚉 **Плиска** — 7.7 km
+- 🚉 **Невша** — 13.8 km
+- ⛴ **Пристанище Белослав** — 49.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7011.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Acktion** — 15.7 km — star — 3★
+- **Rimini** — 15.8 km — star — 3★
+- **Странноприемница "Стара Плиска"** — 9.6 km — hotel
+- **Ayar palace** — 10.2 km — hotel
+- **Acktion Deluxe** — 13.5 km — hotel — Acktion Deluxe
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

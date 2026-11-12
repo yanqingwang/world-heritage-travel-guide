@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "514"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 58.9975
 lon: -3.215
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 奥克尼新石器时代遗址 / Heart of Neolithic Orkney
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Orkney Skara Brae.jpg · see Wikimedia Commons file page*
 
-![Heart of Neolithic Orkney](https://whc.unesco.org/uploads/sites/site_514.jpg)
+![Ancient house at Liddle - geograph.org.uk - 54648.jpg](https://upload.wikimedia.org/wikipedia/commons/d/df/Ancient_house_at_Liddle_-_geograph.org.uk_-_54648.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Heart of Neolithic Orkney · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ancient house at Liddle - geograph.org.uk - 54648.jpg · David Wyatt · CC BY-SA 2.0*
+
+![Archeological Investigation - geograph.org.uk - 2316278.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Archeological_Investigation_-_geograph.org.uk_-_2316278.jpg/1280px-Archeological_Investigation_-_geograph.org.uk_-_2316278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archeological Investigation - geograph.org.uk - 2316278.jpg · Derek Mayes · CC BY-SA 2.0*
+
+![Bonze Age House - geograph.org.uk - 3105144.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bonze_Age_House_-_geograph.org.uk_-_3105144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bonze Age House - geograph.org.uk - 3105144.jpg · Graeme Smith · CC BY-SA 2.0*
+
+![Bronze Age House at Liddel Farm - geograph.org.uk - 1997717.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a8/Bronze_Age_House_at_Liddel_Farm_-_geograph.org.uk_-_1997717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bronze Age House at Liddel Farm - geograph.org.uk - 1997717.jpg · Becky Williamson · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,23 @@ The group of Neolithic monuments on Orkney consists of a large chambered tomb (M
 - ✈ **Kirkwall Airport (KOI)** — 18.3 km
 - ✈ **Eday Airport (EOI)** — 33.2 km
 - ✈ **Stronsay Airport (SOY)** — 37.2 km
+- 🚉 **Thurso** — 48.8 km
+- ⛴ **Stromness** — 5.9 km
+- ⛴ **Stromness Ferry Terminal** — 5.9 km
+- ⛴ **Graemsay Ferry** — 6.0 km
+- ⛴ **Graemsay Ferry Terminal** — 8.0 km
+- ⛴ **Houton Ferry Terminal** — 9.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7678.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Muthu Royal Hotel** — 48.2 km — star — 3★
+- **Station Hotel** — 48.5 km — star — 3★
+- **Standing Stones Hotel** — 1.2 km — hotel
+- **Mill of Eyrland** — 3.3 km — hotel — Mill of Eyrland
+- **Harbouraide Guest House** — 6.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

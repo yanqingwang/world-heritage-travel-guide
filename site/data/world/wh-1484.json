@@ -2,9 +2,9 @@
  "id": "wh-1484",
  "unesco_id": "1484",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 377,
- "popularity_score": 21792,
+ "tier": "full",
+ "popularity_rank": 348,
+ "popularity_score": 20290,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1484.jpg",
-   "title": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1484",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Hagi_City_center.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Hagi_City_center.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Japan’s Meiji Industrial Revolution sites map Hagi City center.svg",
+   "author": "OpenStreetMap contributors, and Pekachu OpenStreetMap contributors",
+   "license": "CC BY-SA 2.0",
+   "credit": "You may find a page on the OpenStreetMap wiki page for Hagi",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Hagi_City_center.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Kagoshima_City.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Kagoshima_City.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Japan’s Meiji Industrial Revolution sites map Kagoshima City.svg",
+   "author": "OpenStreetMap contributors, and Pekachu OpenStreetMap contributors",
+   "license": "CC BY-SA 2.0",
+   "credit": "You may find a page on the OpenStreetMap wiki page for Kagoshima",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Kagoshima_City.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Miike.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Miike.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Japan’s Meiji Industrial Revolution sites map Miike.svg",
+   "author": "OpenStreetMap contributors, and Pekachu OpenStreetMap contributors",
+   "license": "CC BY-SA 2.0",
+   "credit": "You may find a page on the OpenStreetMap wiki page for Omuta",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Miike.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Nagasaki_City_center.svg/1280px-Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Nagasaki_City_center.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Japan’s Meiji Industrial Revolution sites map Nagasaki City center.svg",
+   "author": "OpenStreetMap contributors, and Pekachu OpenStreetMap contributors",
+   "license": "CC BY-SA 2.0",
+   "credit": "You may find a page on the OpenStreetMap wiki page for Nagasaki",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan%E2%80%99s_Meiji_Industrial_Revolution_sites_map_Nagasaki_City_center.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1484",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 44.1,
   "distance_beijing_km": 1469.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "鶴江の渡し（鶴江台側）",
+    "name_en": null,
+    "lat": 34.4223316,
+    "lon": 131.4025435,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "鶴江の渡し（浜崎側）",
+    "name_en": null,
+    "lat": 34.4217455,
+    "lon": 131.401981,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "萩港",
+    "name_en": null,
+    "lat": 34.423412,
+    "lon": 131.3988262,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "大島港",
+    "name_en": null,
+    "lat": 34.4914202,
+    "lon": 131.4115163,
+    "distance_km": 6.8,
+    "operator": null
+   },
+   {
+    "name": "相島港",
+    "name_en": null,
+    "lat": 34.5016633,
+    "lon": 131.280415,
+    "distance_km": 14.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "越ヶ浜",
+    "name_en": "Koshigahama",
+    "lat": 34.438941,
+    "lon": 131.422519,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "東萩",
+    "name_en": "Higashi-Hagi",
+    "lat": 34.4169951,
+    "lon": 131.4105197,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "玉江",
+    "name_en": "Tamae",
+    "lat": 34.4054441,
+    "lon": 131.3795987,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "萩",
+    "name_en": "Hagi",
+    "lat": 34.3938041,
+    "lon": 131.4010475,
+    "distance_km": 4.2,
+    "operator": null
+   },
+   {
+    "name": "長門大井",
+    "name_en": "Nagato-Ōi",
+    "lat": 34.4712655,
+    "lon": 131.4498012,
+    "distance_km": 5.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "萩ロイヤルインテリジェントホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4166867,
+   "lon": 131.4097624,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ビジネスホテル　オレンジ",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4147408,
+   "lon": 131.4075069,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "萩本陣",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4147011,
+   "lon": 131.4189197,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "萩ユースホステル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4148399,
+   "lon": 131.3830904,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "景清洞トロン温泉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2885422,
+   "lon": 131.3246407,
+   "distance_km": 17.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:22Z"
+ "updated_at": "2026-11-12T11:55:36Z"
 }

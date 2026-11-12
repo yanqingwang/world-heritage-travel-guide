@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "旅館湯の峯荘;Yunomineso",
+   "name_en": "Yunomineso",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.8241064,
+   "lon": 135.7541998,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテル なみ",
+   "name_en": "Hotel Nami",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.8957779,
+   "lon": 136.1164409,
+   "distance_km": 32.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hanaya",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 33.7346743,
+   "lon": 135.3810976,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "j hoppers",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.8296502,
+   "lon": 135.7582022,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "旅館よしのや;Yoshinoya",
+   "name_en": "Ryokan Yoshinoya",
+   "stars": null,
+   "brand": null,
+   "lat": 33.8294937,
+   "lon": 135.7579177,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 176,
+ "stations": [
+  {
+   "name": "湯ノ口温泉",
+   "name_en": null,
+   "lat": 33.8642028,
+   "lon": 135.8902967,
+   "distance_km": 10.9,
+   "operator": null
+  },
+  {
+   "name": "瀞流荘",
+   "name_en": null,
+   "lat": 33.8706308,
+   "lon": 135.9003366,
+   "distance_km": 12.0,
+   "operator": null
+  },
+  {
+   "name": "新宮",
+   "name_en": "Shingu",
+   "lat": 33.7250784,
+   "lon": 135.9940846,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "紀伊井田",
+   "name_en": "Kii-Ida",
+   "lat": 33.7601927,
+   "lon": 136.0239144,
+   "distance_km": 24.4,
+   "operator": null
+  },
+  {
+   "name": "阿田和",
+   "name_en": "Atawa",
+   "lat": 33.8048076,
+   "lon": 136.0423644,
+   "distance_km": 24.8,
+   "operator": null
+  },
+  {
+   "name": "鵜殿",
+   "name_en": "Udono",
+   "lat": 33.7370321,
+   "lon": 136.015952,
+   "distance_km": 24.8,
+   "operator": null
+  },
+  {
+   "name": "紀伊佐野",
+   "name_en": "Kii-Sano",
+   "lat": 33.6797315,
+   "lon": 135.9703859,
+   "distance_km": 25.0,
+   "operator": null
+  },
+  {
+   "name": "三輪崎",
+   "name_en": "Miwasaki",
+   "lat": 33.6894155,
+   "lon": 135.9847756,
+   "distance_km": 25.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Dorokyo boat terminal",
+   "name_en": null,
+   "lat": 33.8146057,
+   "lon": 135.8581934,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "那智勝浦港フェリーターミナル",
+   "name_en": "Nachikatsuura-town Ferry Terminal",
+   "lat": 33.6625177,
+   "lon": 135.986783,
+   "distance_km": 27.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:15Z"
+}

@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "939"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(iii)(iv)"
 lat: 18.804305555
 lon: -99.296638888
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:31Z"
 ---
 
 # 霍齐卡尔科的历史纪念区 / Archaeological Monuments Zone of Xochicalco
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:18Z"
 
 *Mexico xochicalco pyramids.JPG · see Wikimedia Commons file page*
 
-![Archaeological Monuments Zone of Xochicalco](https://whc.unesco.org/uploads/sites/site_939.jpg)
+![2019 01 01-JuanCarlosGomez 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2019_01_01-JuanCarlosGomez_1.jpg/1280px-2019_01_01-JuanCarlosGomez_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Monuments Zone of Xochicalco · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2019 01 01-JuanCarlosGomez 1.jpg · Juan Carlos Gomez · CC BY 4.0*
+
+![Acrópolis de la Zona arqueológica de Xochicalco, Morelos.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Acr%C3%B3polis_de_la_Zona_arqueol%C3%B3gica_de_Xochicalco%2C_Morelos.jpg/1280px-Acr%C3%B3polis_de_la_Zona_arqueol%C3%B3gica_de_Xochicalco%2C_Morelos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acrópolis de la Zona arqueológica de Xochicalco, Morelos.jpg · Logue 0019 · CC BY-SA 4.0*
+
+![Acrópolis desde arriba.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Acr%C3%B3polis_desde_arriba.jpg/1280px-Acr%C3%B3polis_desde_arriba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acrópolis desde arriba.jpg · Ximena parra36 · CC BY-SA 4.0*
+
+![Acrópolis piedras.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Acr%C3%B3polis_piedras.jpg/1280px-Acr%C3%B3polis_piedras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Acrópolis piedras.jpg · Ximena parra36 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,16 @@ Xochicalco es un ejemplo de centro político, religioso y comercial fortificado,
 - ✈ **Mexico City Benito Juárez International Airport (MEX)** — 74.1 km
 - ✈ **Hermanos Serdán International Airport (PBC)** — 104.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12420.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Racquet Cuernavaca** — 18.5 km — star — 5★ · Ostar Grupo Hotelero
+- **Las Casas B+B Boutique Hotel, Spa & Restaurante Cuernavaca** — 14.5 km — star — 4★
+- **Camino Real Sumiya** — 14.7 km — star — 4★ · Camino Real
+- **Hotel Suites Pintel** — 17.7 km — star — 4★
+- **Mansión Inn** — 43.6 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

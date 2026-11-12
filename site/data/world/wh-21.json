@@ -2,9 +2,9 @@
  "id": "wh-21",
  "unesco_id": "21",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 411,
- "popularity_score": 19692,
+ "tier": "full",
+ "popularity_rank": 376,
+ "popularity_score": 18384,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_21.jpg",
-   "title": "Ancient City of Aleppo",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/21",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Al-Shibani_Alp11.JPG/1280px-Al-Shibani_Alp11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al-Shibani Alp11.JPG",
+   "author": "Preacher lad",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al-Shibani_Alp11.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Shibani_Alp12.JPG/1280px-Al-Shibani_Alp12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al-Shibani Alp12.JPG",
+   "author": "Preacher lad",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al-Shibani_Alp12.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Al-Shibani_Alp14.jpg/1280px-Al-Shibani_Alp14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al-Shibani Alp14.jpg",
+   "author": "Preacher lad",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al-Shibani_Alp14.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aleppo_-_Ancient_City_of_Aleppo_-_20110326181828.jpg/1280px-Aleppo_-_Ancient_City_of_Aleppo_-_20110326181828.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aleppo - Ancient City of Aleppo - 20110326181828.jpg",
+   "author": "KevForkan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aleppo_-_Ancient_City_of_Aleppo_-_20110326181828.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/21",
@@ -103,9 +127,98 @@
   "nearest_airport_km": 6.9,
   "distance_beijing_km": 6714.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "الوضيحي",
+    "name_en": "Wudeihi",
+    "lat": 36.1644891,
+    "lon": 37.1427053,
+    "distance_km": 2.2,
+    "operator": null
+   },
+   {
+    "name": "حلب",
+    "name_en": "Aleppo",
+    "lat": 36.214165,
+    "lon": 37.1476467,
+    "distance_km": 3.4,
+    "operator": null
+   },
+   {
+    "name": "تل رفعت",
+    "name_en": null,
+    "lat": 36.4732157,
+    "lon": 37.0889203,
+    "distance_km": 32.7,
+    "operator": null
+   },
+   {
+    "name": "محطة تلاجين",
+    "name_en": "Mahattat Tallajin",
+    "lat": 35.8334679,
+    "lon": 37.0339671,
+    "distance_km": 40.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sheraton Alep",
+   "name_en": "Sheraton Aleppo",
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": 36.2050158,
+   "lon": 37.1541183,
+   "distance_km": 2.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Al Mansouryia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.1956107,
+   "lon": 37.1558517,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الخدمات",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.1992765,
+   "lon": 37.1600563,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coral Julia Dumna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.2013122,
+   "lon": 37.1560216,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق ميراج",
+   "name_en": "Mirage Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.2020312,
+   "lon": 37.1505901,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SY",
   "country_zh": "叙利亚",
@@ -177,5 +290,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

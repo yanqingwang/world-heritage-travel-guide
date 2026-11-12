@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hyatt Regency Cologne",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 50.9403843,
+   "lon": 6.9695875,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Cologne",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 50.9401912,
+   "lon": 6.9455646,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 51.2165484,
+   "lon": 6.7527457,
+   "distance_km": 33.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Breidenbacher Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2253282,
+   "lon": 6.7777564,
+   "distance_km": 34.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Parkhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2268175,
+   "lon": 6.7783854,
+   "distance_km": 34.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1316,
+ "stations": [
+  {
+   "name": "Köln Hauptbahnhof",
+   "name_en": null,
+   "lat": 50.9427839,
+   "lon": 6.9590705,
+   "distance_km": 0.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Köln Hansaring",
+   "name_en": null,
+   "lat": 50.9490803,
+   "lon": 6.9526445,
+   "distance_km": 0.9,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Köln Messe/Deutz (tief)",
+   "name_en": null,
+   "lat": 50.9417015,
+   "lon": 6.9738248,
+   "distance_km": 1.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Köln Messe/Deutz",
+   "name_en": "Cologne Trade Fair/Deutz",
+   "lat": 50.9409887,
+   "lon": 6.9751312,
+   "distance_km": 1.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Tanzbrunnen",
+   "name_en": null,
+   "lat": 50.9472048,
+   "lon": 6.9725633,
+   "distance_km": 1.2,
+   "operator": "Kleinbahn.Koeln GmbH"
+  },
+  {
+   "name": "Köln West",
+   "name_en": null,
+   "lat": 50.9421702,
+   "lon": 6.9328532,
+   "distance_km": 1.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Köln Süd",
+   "name_en": null,
+   "lat": 50.9276006,
+   "lon": 6.9372707,
+   "distance_km": 2.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Köln-Nippes",
+   "name_en": null,
+   "lat": 50.9589937,
+   "lon": 6.9417766,
+   "distance_km": 2.3,
+   "operator": "DB Netz AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Deutz",
+   "name_en": null,
+   "lat": 50.9249984,
+   "lon": 6.9760114,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "Deutzer Hafen",
+   "name_en": null,
+   "lat": 50.9241348,
+   "lon": 6.9768684,
+   "distance_km": 2.3,
+   "operator": null
+  },
+  {
+   "name": "Mülheimer Hafen",
+   "name_en": null,
+   "lat": 50.9558052,
+   "lon": 6.9876089,
+   "distance_km": 2.6,
+   "operator": null
+  },
+  {
+   "name": "Hafenbecken 4",
+   "name_en": null,
+   "lat": 50.9733025,
+   "lon": 6.984779,
+   "distance_km": 4.0,
+   "operator": null
+  },
+  {
+   "name": "Hafenbecken 3",
+   "name_en": null,
+   "lat": 50.9765159,
+   "lon": 6.9790391,
+   "distance_km": 4.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:40Z"
+}

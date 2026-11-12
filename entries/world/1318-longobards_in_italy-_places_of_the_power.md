@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(vi)"
 lat: 46.09416667
 lon: 13.43305556
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 意大利伦巴第人遗址 / Longobards in Italy. Places of the Power (568-774 A.D.)

@@ -8,13 +8,13 @@ country: "MU"
 country_zh: "毛里求斯"
 country_en: "Mauritius"
 unesco_id: "1259"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(vi)"
 lat: -20.460555555
 lon: 57.313611111
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 莫纳山 / Le Morne Cultural Landscape
@@ -27,21 +27,9 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Le Morne Peninsula in Mauritius (53697779236).jpg · see Wikimedia Commons file page*
 
-![1 Le Morne Brabant viewed from Ebony Forest Chamarel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1_Le_Morne_Brabant_viewed_from_Ebony_Forest_Chamarel.jpg/1280px-1_Le_Morne_Brabant_viewed_from_Ebony_Forest_Chamarel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Le Morne Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1259.jpg)
 
-*1 Le Morne Brabant viewed from Ebony Forest Chamarel.jpg · S Molteno · CC BY-SA 4.0*
-
-![Aerial view of the Indian Ocean on the southwest part of Mauritius (53697773506).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_view_of_the_Indian_Ocean_on_the_southwest_part_of_Mauritius_%2853697773506%29.jpg/1280px-Aerial_view_of_the_Indian_Ocean_on_the_southwest_part_of_Mauritius_%2853697773506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Aerial view of the Indian Ocean on the southwest part of Mauritius (53697773506).jpg · "dronepicr" · CC BY 2.0*
-
-![Aerial view of the landscape of Mauritius (53698215290).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_the_landscape_of_Mauritius_%2853698215290%29.jpg/1280px-Aerial_view_of_the_landscape_of_Mauritius_%2853698215290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Aerial view of the landscape of Mauritius (53698215290).jpg · "dronepicr" · CC BY 2.0*
-
-![Aerial view of the peninsula Le Morne in Mauritius (53698115579).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Aerial_view_of_the_peninsula_Le_Morne_in_Mauritius_%2853698115579%29.jpg/1280px-Aerial_view_of_the_peninsula_Le_Morne_in_Mauritius_%2853698115579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Aerial view of the peninsula Le Morne in Mauritius (53698115579).jpg · "dronepicr" · CC BY 2.0*
+*Le Morne Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -66,24 +54,7 @@ Le Paysage culturel du Morne est une montagne accidentée qui s’avance dans l�
 - ✈ **Sir Seewoosagur Ramgoolam International Airport (MRU)** — 38.7 km
 - ✈ **Roland Garros Airport (RUN)** — 192.7 km
 - ✈ **Saint-Pierre Pierrefonds Airport (ZSE)** — 218.4 km
-- 🚉 **Curepipe Central** — 27.3 km
-- 🚉 **Quatre Bornes Central** — 27.7 km
-- 🚉 **Phoenix** — 28.1 km
-- 🚉 **St. Jean** — 28.3 km
-- 🚉 **Belle Rose** — 28.5 km
-- ⛴ **Port Louis** — 39.0 km
-- ⛴ **Terminal passagers** — 39.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9076.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Lux*** — 0.4 km — star — 5★
-- **Hotel Le Paradis** — 2.6 km — star — 5★
-- **Hilton Mauritius Resort & Spa** — 17.8 km — star — 5★ · Hilton
-- **Hotel Riu Turquoise** — 0.7 km — star — 4★ · RIU
-- **Hotel Riu Palace Mauritius** — 0.7 km — star — 4★ · RIU
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

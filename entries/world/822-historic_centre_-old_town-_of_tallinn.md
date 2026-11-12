@@ -8,13 +8,13 @@ country: "EE"
 country_zh: "爱沙尼亚"
 country_en: "Estonia"
 unesco_id: "822"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iv)"
 lat: 59.437222222
 lon: 24.745277777
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 塔林历史中心（老城） / Historic Centre (Old Town) of Tallinn
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:17Z"
 
 *Old Town of Tallinn, Tallinn, Estonia - panoramio (58).jpg · see Wikimedia Commons file page*
 
-![Historic Centre (Old Town) of Tallinn](https://whc.unesco.org/uploads/sites/site_822.jpg)
+![Facade Tallinn (1).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Facade_Tallinn_%281%29.JPG/1280px-Facade_Tallinn_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre (Old Town) of Tallinn · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Facade Tallinn (1).JPG · -jkb- · CC BY-SA 3.0*
+
+![Facade Tallinn (8).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Facade_Tallinn_%288%29.JPG/1280px-Facade_Tallinn_%288%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Facade Tallinn (8).JPG · -jkb- · CC BY-SA 3.0*
+
+![Facade Tallinn (9).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Facade_Tallinn_%289%29.JPG/1280px-Facade_Tallinn_%289%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Facade Tallinn (9).JPG · -jkb- · CC BY-SA 3.0*
+
+![Maquette de la ville (Musée de la ville de Tallinn) (7649878744).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Maquette_de_la_ville_%28Mus%C3%A9e_de_la_ville_de_Tallinn%29_%287649878744%29.jpg/1280px-Maquette_de_la_ville_%28Mus%C3%A9e_de_la_ville_de_Tallinn%29_%287649878744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Maquette de la ville (Musée de la ville de Tallinn) (7649878744).jpg · Jean-Pierre Dalbéra from Paris, France · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Tallinna vanalinn on Tallinna linna vanim osa ja kuulub 1997. aastast UNESCO maa
 - ✈ **Lennart Meri Tallinn Airport (TLL)** — 5.6 km
 - ✈ **Helsinki Vantaa Airport (HEL)** — 98.7 km
 - ✈ **Pärnu Airport (EPU)** — 114.3 km
+- 🚉 **Tallinn** — 0.6 km
+- 🚉 **Tallinn-Väike** — 2.7 km
+- 🚉 **Ülemiste** — 3.3 km
+- 🚉 **Liiva** — 5.7 km
+- 🚉 **Pääsküla** — 9.6 km
+- ⛴ **Patareisadam** — 1.2 km
+- ⛴ **A-terminal** — 1.3 km
+- ⛴ **D-terminal** — 1.4 km
+- ⛴ **Tallinn** — 1.6 km
+- ⛴ **Kruiisiterminal** — 1.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6355.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Telegraaf** — 0.1 km — star — 5★ · Autograph Collection
+- **Swissôtel** — 1.0 km — star — 5★ · Swissôtel
+- **Hestia Hotel Ilmarine** — 0.8 km — star — 4★
+- **Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn** — 0.8 km — star — 4★ · Park Inn
+- **Radisson Collection Hotel** — 0.8 km — star — 4★ · Radisson Blu
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

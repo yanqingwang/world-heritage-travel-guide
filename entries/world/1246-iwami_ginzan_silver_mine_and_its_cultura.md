@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1246"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iii)(v)"
 lat: 35.107222
 lon: 132.4375
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 石见银山遗迹及其文化景观 / Iwami Ginzan Silver Mine and its Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *180504 Shimizudani Refinery Ruins of Iwami Ginzan Silver Mine Oda Shimane pref Japan03s.jpg · see Wikimedia Commons file page*
 
-![Iwami Ginzan Silver Mine and its Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1246.jpg)
+![180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan01o.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan01o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan01o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Iwami Ginzan Silver Mine and its Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan01o.JPG · 663highland · CC BY-SA 4.0*
+
+![180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan02o.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan02o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan02o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan02o.JPG · 663highland · CC BY-SA 4.0*
+
+![180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan03o.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan03o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan03o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan03o.JPG · 663highland · CC BY-SA 4.0*
+
+![180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan04o.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan04o.JPG/1280px-180504_Kamaya-mabu_of_Iwami_Ginzan_Silver_Mine_Oda_Shimane_pref_Japan04o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*180504 Kamaya-mabu of Iwami Ginzan Silver Mine Oda Shimane pref Japan04o.JPG · 663highland · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,22 @@ The Iwami Ginzan Silver Mine in the south-west of Honshu Island is a cluster of 
 - ✈ **Izumo Enmusubi Airport (IZO)** — 53.4 km
 - ✈ **Iwami Airport (IWJ)** — 76.0 km
 - ✈ **Yonago Kitaro Airport / JASDF Miho Air Base (YGJ)** — 84.2 km
+- 🚉 **馬路** — 5.1 km
+- 🚉 **湯里** — 5.6 km
+- 🚉 **仁万** — 5.8 km
+- 🚉 **温泉津** — 8.1 km
+- 🚉 **五十猛** — 9.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1521.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **旅館ますや** — 8.3 km — hotel
+- **New Sky Hotel** — 11.5 km — hotel — New Sky Hotel
+- **スカイホテル大田** — 11.7 km — hotel — Sky Hotel Ohda
+- **スーパーホテル江津駅前** — 22.1 km — hotel
+- **風の国** — 25.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

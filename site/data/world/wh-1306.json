@@ -2,9 +2,9 @@
  "id": "wh-1306",
  "unesco_id": "1306",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 370,
- "popularity_score": 22391,
+ "tier": "full",
+ "popularity_rank": 338,
+ "popularity_score": 21200,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -51,6 +51,22 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:PortArthurPenitentiary.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/WoolmersEstateLongford.jpg/1280px-WoolmersEstateLongford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "WoolmersEstateLongford.jpg",
+   "author": "Willis Lim",
+   "license": "CC BY-SA 2.0",
+   "credit": "DSC_0948 Uploaded by hebrides",
+   "source": "https://commons.wikimedia.org/wiki/File:WoolmersEstateLongford.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/WoolmersEstateLongfordVeranda.jpg/1280px-WoolmersEstateLongfordVeranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "WoolmersEstateLongfordVeranda.jpg",
+   "author": "Willis Lim",
+   "license": "CC BY-SA 2.0",
+   "credit": "DSC_0963 Uploaded by hebrides",
+   "source": "https://commons.wikimedia.org/wiki/File:WoolmersEstateLongfordVeranda.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1306.jpg",
@@ -102,10 +118,148 @@
   ],
   "nearest_airport_km": 61.9,
   "distance_beijing_km": 8939.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Milson's Passage Public Wharf",
+    "name_en": null,
+    "lat": -33.5161615,
+    "lon": 151.1775482,
+    "distance_km": 22.9,
+    "operator": null
+   },
+   {
+    "name": "Berowra Waters Ferry Berrilee Ramp",
+    "name_en": null,
+    "lat": -33.5998093,
+    "lon": 151.1223171,
+    "distance_km": 27.3,
+    "operator": null
+   },
+   {
+    "name": "Berowra Waters Ferry Berowra Ramp",
+    "name_en": null,
+    "lat": -33.600507,
+    "lon": 151.1247673,
+    "distance_km": 27.5,
+    "operator": "Transport for NSW"
+   },
+   {
+    "name": "Brooklyn Wharf",
+    "name_en": null,
+    "lat": -33.5461037,
+    "lon": 151.2275673,
+    "distance_km": 28.6,
+    "operator": null
+   },
+   {
+    "name": "Dangar Island Wharf",
+    "name_en": null,
+    "lat": -33.5362744,
+    "lon": 151.241076,
+    "distance_km": 28.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Berowra",
+    "name_en": null,
+    "lat": -33.6235384,
+    "lon": 151.1531676,
+    "distance_km": 31.0,
+    "operator": null
+   },
+   {
+    "name": "Tascott",
+    "name_en": null,
+    "lat": -33.4509136,
+    "lon": 151.3186164,
+    "distance_km": 31.2,
+    "operator": null
+   },
+   {
+    "name": "Windsor",
+    "name_en": null,
+    "lat": -33.6136867,
+    "lon": 150.8110535,
+    "distance_km": 31.2,
+    "operator": "Sydney Trains"
+   },
+   {
+    "name": "Mulgrave",
+    "name_en": null,
+    "lat": -33.6266428,
+    "lon": 150.8304778,
+    "distance_km": 31.5,
+    "operator": "Sydney Trains"
+   },
+   {
+    "name": "Koolewong",
+    "name_en": null,
+    "lat": -33.4664036,
+    "lon": 151.318514,
+    "distance_km": 31.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Marsden Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Conquest",
+   "lat": -33.8195671,
+   "lon": 150.9999131,
+   "distance_km": 49.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Heritage Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.5657357,
+   "lon": 150.8393308,
+   "distance_km": 25.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bella Vista Motel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.4350061,
+   "lon": 151.2975091,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Time and Tide Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.742035,
+   "lon": 151.2876908,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibis Budget Gosford",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ibis Budget",
+   "lat": -33.4265487,
+   "lon": 151.3243751,
+   "distance_km": 31.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AU",
   "country_zh": "澳大利亚",
@@ -177,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

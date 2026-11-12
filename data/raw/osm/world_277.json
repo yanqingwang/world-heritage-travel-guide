@@ -1,0 +1,74 @@
+{
+ "hotels": [
+  {
+   "name": "فندق الحضر",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.5788513,
+   "lon": 42.7326512,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحضر الدولي",
+   "name_en": "Funduq al Hadar ad Duwali",
+   "stars": null,
+   "brand": null,
+   "lat": 35.6080456,
+   "lon": 42.7331065,
+   "distance_km": 2.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحضر الدولى",
+   "name_en": "فندق الحضر الدولى",
+   "stars": null,
+   "brand": null,
+   "lat": 35.6078882,
+   "lon": 42.7326463,
+   "distance_km": 2.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [
+  {
+   "name": "محطة قطار الجرنف",
+   "name_en": "Jernaf Railway Station",
+   "lat": 35.6079067,
+   "lon": 43.1380879,
+   "distance_km": 38.0,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار أتلول الباج",
+   "name_en": "Atlul Al Baj Railway Station",
+   "lat": 35.4203038,
+   "lon": 43.1074772,
+   "distance_km": 39.9,
+   "operator": null
+  },
+  {
+   "name": "محطة جرناف",
+   "name_en": "Jarnaf Railway Station",
+   "lat": 35.5841203,
+   "lon": 43.2342947,
+   "distance_km": 46.7,
+   "operator": null
+  },
+  {
+   "name": "Sirqat Railway Station",
+   "name_en": null,
+   "lat": 35.5177487,
+   "lon": 43.2380347,
+   "distance_km": 47.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:45:21Z"
+}

@@ -8,13 +8,13 @@ country: "PH"
 country_zh: "菲律宾"
 country_en: "Philippines"
 unesco_id: "722"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iii)(iv)(v)"
 lat: 16.93389
 lon: 121.13667
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 菲律宾科迪勒拉山的水稻梯田 / Rice Terraces of the Philippine Cordilleras
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:16Z"
 
 *Batad Rice Terraces after the rain.JPG · see Wikimedia Commons file page*
 
-![Rice Terraces of the Philippine Cordilleras](https://whc.unesco.org/uploads/sites/site_722.jpg)
+![Barlig Rice Terraces.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Barlig_Rice_Terraces.jpg/1280px-Barlig_Rice_Terraces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rice Terraces of the Philippine Cordilleras · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Barlig Rice Terraces.jpg · Tyrel Fang-asan Faniswa · CC BY-SA 4.0*
+
+![Batad Rice Terraces 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Batad_Rice_Terraces_1.jpg/1280px-Batad_Rice_Terraces_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Batad Rice Terraces 1.jpg · Philip Nalangan · CC BY-SA 4.0*
+
+![Batad Rice Terraces 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Batad_Rice_Terraces_2.jpg/1280px-Batad_Rice_Terraces_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Batad Rice Terraces 2.jpg · Philip Nalangan · CC BY-SA 4.0*
+
+![Batad Rice Terraces 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Batad_Rice_Terraces_3.jpg/1280px-Batad_Rice_Terraces_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Batad Rice Terraces 3.jpg · Philip Nalangan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ For 2,000 years, the high rice fields of the Ifugao have followed the contours o
 - ✈ **Tuguegarao Airport (TUG)** — 101.2 km
 - ✈ **Laoag International Airport (LAO)** — 152.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2622.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Banaue Hotel** — 8.2 km — hotel
+- **Banaue Evergreen Hotel** — 8.3 km — hotel
+- **People's Lodge and Restaurant, Meine Unterkunft** — 8.4 km — hotel
+- **Greenview** — 8.4 km — hotel
+- **Uyami's Green View Lodge** — 8.4 km — hotel — Uyami's Green View Lodge
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

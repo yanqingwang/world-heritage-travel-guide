@@ -8,13 +8,13 @@ country: "ML"
 country_zh: "马里"
 country_en: "Mali"
 unesco_id: "1139"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 16.289722
 lon: -0.044444
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 阿斯基亚王陵 / Tomb of Askia
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Askia.jpg · see Wikimedia Commons file page*
 
-![Tomb of Askia](https://whc.unesco.org/uploads/sites/site_1139.jpg)
+![2014.11.29 - Tombeau des Askia.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2014.11.29_-_Tombeau_des_Askia.jpg/1280px-2014.11.29_-_Tombeau_des_Askia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tomb of Askia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2014.11.29 - Tombeau des Askia.jpg · Alexis Amarante · CC0*
+
+![Askia.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Askia.jpg · Taguelmoust · CC BY-SA 3.0*
+
+![ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0548.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0548.tif/lossy-page1-1280px-ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0548.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0548.tif · Walter Mittelholzer · Public domain*
+
+![ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0549.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif/lossy-page1-1280px-ETH-BIB-Grabmal_von_Askia%2C_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0549.tif · Walter Mittelholzer · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,18 @@ The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mo
 - ✈ **Gao International Airport (GAQ)** — 6.2 km
 - ✈ **Tombouktou Airport (TOM)** — 319.7 km
 - ✈ **Diori Hamani International Airport (NIM)** — 393.5 km
+- ⛴ **Gao** — 1.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10958.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Atlantide** — 1.6 km — hotel
+- **Hôtel Complexe Bel-Air** — 2.7 km — hotel
+- **Motel des Askia** — 2.7 km — hotel
+- **Tizy Mizy** — 3.3 km — hotel
+- **Tizy Mizy Annex** — 3.4 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

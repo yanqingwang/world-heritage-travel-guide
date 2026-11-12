@@ -2,9 +2,9 @@
  "id": "wh-1720",
  "unesco_id": "1720",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 420,
- "popularity_score": 18587,
+ "tier": "full",
+ "popularity_rank": 389,
+ "popularity_score": 16895,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1720.jpg",
-   "title": "The Historic Town and Archaeological Site of Gedi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1720",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2011-11-12_Ruins_of_Gedi.jpg/1280px-2011-11-12_Ruins_of_Gedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2011-11-12 Ruins of Gedi.jpg",
+   "author": "François Terrier",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/fterrier/6347722331/",
+   "source": "https://commons.wikimedia.org/wiki/File:2011-11-12_Ruins_of_Gedi.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg/1280px-Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ancient foundations and massive trees at Gedi Ruins.jpg",
+   "author": "Lebu Ayiga",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Diademmeerkatze_in_Gede_1.jpg/1280px-Diademmeerkatze_in_Gede_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Diademmeerkatze in Gede 1.jpg",
+   "author": "ordercrazy",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Diademmeerkatze_in_Gede_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Diademmeerkatze_in_Gede.jpg/1280px-Diademmeerkatze_in_Gede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Diademmeerkatze in Gede.jpg",
+   "author": "ordercrazy",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Diademmeerkatze_in_Gede.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1720",
@@ -104,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hemingway Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -3.36121,
+   "lon": 40.0069171,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lion On The Sand",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -3.2602218,
+   "lon": 40.1288516,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ocean Beach Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -3.1914002,
+   "lon": 40.1214849,
+   "distance_km": 17.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gede Resort",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -3.3319559,
+   "lon": 40.0113977,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Baobab Safari Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -3.6288654,
+   "lon": 39.8705387,
+   "distance_km": 39.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KE",
   "country_zh": "肯尼亚",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:25Z"
+ "updated_at": "2026-11-12T11:55:38Z"
 }

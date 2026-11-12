@@ -8,13 +8,13 @@ country: "BE"
 country_zh: "比利时"
 country_en: "Belgium"
 unesco_id: "1298"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(i)(ii)"
 lat: 50.83514
 lon: 4.41625
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 斯托克莱宫 / Stoclet House
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Palais Stoclet, vue ensemble.JPG · see Wikimedia Commons file page*
 
-![Stoclet House](https://whc.unesco.org/uploads/sites/site_1298.jpg)
+![20120923 Brussels PalaisStoclet Hoffmann DSC06725 PtrQs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg/1280px-20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Stoclet House · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20120923 Brussels PalaisStoclet Hoffmann DSC06725 PtrQs.jpg · PtrQs · CC BY-SA 4.0*
+
+![20120923 Brussels PalaisStoclet Hoffmann DSC06729 PtrQs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20120923_Brussels_PalaisStoclet_Hoffmann_DSC06729_PtrQs.jpg/1280px-20120923_Brussels_PalaisStoclet_Hoffmann_DSC06729_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20120923 Brussels PalaisStoclet Hoffmann DSC06729 PtrQs.jpg · PtrQs · CC BY-SA 4.0*
+
+![20120923 Brussels PalaisStoclet Hoffmann DSC06728 PtrQs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20120923_Brussels_PalaisStoclet_Hoffmann_DSC06728_PtrQs.jpg/1280px-20120923_Brussels_PalaisStoclet_Hoffmann_DSC06728_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20120923 Brussels PalaisStoclet Hoffmann DSC06728 PtrQs.jpg · PtrQs · CC BY-SA 4.0*
+
+![Palais Stoclet, vue ensemble.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Palais_Stoclet%2C_vue_ensemble.JPG/1280px-Palais_Stoclet%2C_vue_ensemble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Palais Stoclet, vue ensemble.JPG · Busoni · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Le Palais a été conçu en 1905 à la demande du banquier et collectionneur Ado
 - ✈ **Brussels Airport (BRU)** — 8.8 km
 - ✈ **Antwerp International Airport (Deurne) (ANR)** — 39.7 km
 - ✈ **Brussels South Charleroi Airport (CRL)** — 41.6 km
+- 🚉 **Etterbeek** — 2.4 km
+- 🚉 **Bruxelles-Schuman - Brussel-Schuman** — 2.6 km
+- 🚉 **Bruxelles-Luxembourg - Brussel-Luxemburg** — 3.0 km
+- 🚉 **Watermael - Watermaal** — 3.2 km
+- 🚉 **Evere** — 3.8 km
+- ⛴ **Quai des Péniches - Akenkaai** — 5.5 km
+- ⛴ **Sainctelette** — 5.6 km
+- ⛴ **Pont Van Praet - Van Praet brug** — 5.9 km
+- ⛴ **Quai de Heembeek - Heembeekkaai** — 6.1 km
+- ⛴ **Cruise Terminal** — 6.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7944.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Eurostars Montgomery Hotel** — 0.7 km — star — 5★ · Eurostars Hotels Company
+- **Sofitel Brussels Europe** — 2.5 km — star — 5★ · Sofitel
+- **Tangla Hotel Brussels** — 3.0 km — star — 5★
+- **Stanhope Hotel Brussels by Thon Hotels** — 3.5 km — star — 5★ · Thon Hotels
+- **Le Châtelain Boutique Hotel** — 3.8 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

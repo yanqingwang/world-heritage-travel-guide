@@ -8,13 +8,13 @@ country: "BY"
 country_zh: "白俄罗斯"
 country_en: "Belarus"
 unesco_id: "1196"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iv)(vi)"
 lat: 53.222877777
 lon: 26.691736111
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 涅斯维日的拉济维乌家族城堡建筑群 / Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Замак-палац у Нясьвіжы знутры.jpg · see Wikimedia Commons file page*
 
-![Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh](https://whc.unesco.org/uploads/sites/site_1196.jpg)
+![042-304 Несвиж, дворец (из-за озера), снято 29 января 2005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/042-304_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%28%D0%B8%D0%B7-%D0%B7%D0%B0_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%29%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg/1280px-042-304_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%28%D0%B8%D0%B7-%D0%B7%D0%B0_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%29%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*042-304 Несвиж, дворец (из-за озера), снято 29 января 2005.jpg · Globustut · CC BY 4.0*
+
+![042-305 Несвиж, снято 29 января 2005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/042-305_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg/1280px-042-305_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*042-305 Несвиж, снято 29 января 2005.jpg · Globustut · CC BY 4.0*
+
+![042-306 Несвиж, снято 29 января 2005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/042-306_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg/1280px-042-306_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*042-306 Несвиж, снято 29 января 2005.jpg · Globustut · CC BY 4.0*
+
+![042-307 Несвиж, снято 29 января 2005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/042-307_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg/1280px-042-307_%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6%2C_%D1%81%D0%BD%D1%8F%D1%82%D0%BE_29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*042-307 Несвиж, снято 29 января 2005.jpg · Globustut · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ The Architectural, Residential and Cultural Complex of the Radziwill Family at N
 - ✈ **Minsk National Airport (MSQ)** — 115.8 km
 - ✈ **Vilnius International Airport (VNO)** — 181.9 km
 - ✈ **Brest International Airport (BQT)** — 225.6 km
+- 🚉 **Гарадзея** — 14.5 km
+- 🚉 **Клецк** — 16.4 km
+- 🚉 **Пагарэльцы** — 26.4 km
+- 🚉 **Цімкавічы** — 27.3 km
+- 🚉 **Стоўбцы** — 29.2 km
+- ⛴ **Ільвы** — 1.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6436.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Гатэль Марыінскі** — 46.3 km — star — Mariinsky hotel · 3★
+- **Гасцініца Эдэльвейс** — 35.0 km — star — 2★
+- **Палац** — 0.1 km — hotel
+- **Гатэль Нясвіж** — 0.9 km — hotel — Nesvizh Hotel
+- **Гатэль «Беласток»** — 1.0 km — hotel — Hatel "Belastok"
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

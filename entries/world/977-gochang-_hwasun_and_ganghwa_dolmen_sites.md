@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)"
 lat: 34.96667
 lon: 126.92917
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 高昌、华森和江华的史前墓遗址 / Gochang, Hwasun and Ganghwa Dolmen Sites

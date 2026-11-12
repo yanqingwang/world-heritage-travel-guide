@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "ბაგრატი",
+   "name_en": "Bagrati",
+   "stars": 5,
+   "brand": null,
+   "lat": 42.2680049,
+   "lon": 42.703504,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "გელათი რეზიდენსი",
+   "name_en": "Gelati Residence",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.2753018,
+   "lon": 42.7114441,
+   "distance_km": 5.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Belona Hotel",
+   "name_en": "Belona Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.269745,
+   "lon": 42.7027517,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ლეგენდს წყალტუბო სპა რეზორტის",
+   "name_en": "Legends Tskaltubo Spa Resort",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3212795,
+   "lon": 42.6042176,
+   "distance_km": 13.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Riverside",
+   "name_en": "Four Seasons Riverside",
+   "stars": null,
+   "brand": "Four Seasons",
+   "lat": 42.2643794,
+   "lon": 42.7051716,
+   "distance_km": 6.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 143,
+ "stations": [
+  {
+   "name": "ქუთაისი-1",
+   "name_en": "Kutaisi-1",
+   "lat": 42.2613876,
+   "lon": 42.7131017,
+   "distance_km": 5.8,
+   "operator": "სს \"საქართველოს რკინიგზა\""
+  },
+  {
+   "name": "ქუთაისი-2",
+   "name_en": "Kutaisi-2",
+   "lat": 42.2559979,
+   "lon": 42.6699664,
+   "distance_km": 9.1,
+   "operator": null
+  },
+  {
+   "name": "რიონი",
+   "name_en": "Rioni",
+   "lat": 42.198543,
+   "lon": 42.7091464,
+   "distance_km": 11.7,
+   "operator": null
+  },
+  {
+   "name": "ბროწეულა",
+   "name_en": "Brotseula",
+   "lat": 42.2005479,
+   "lon": 42.6597619,
+   "distance_km": 13.8,
+   "operator": null
+  },
+  {
+   "name": "არგვეთი",
+   "name_en": "Argveti",
+   "lat": 42.1338624,
+   "lon": 42.9662679,
+   "distance_km": 24.2,
+   "operator": null
+  },
+  {
+   "name": "ქუთაისის საერთაშორისო აეროპორტი",
+   "name_en": "Kutaisi International Airport",
+   "lat": 42.1898046,
+   "lon": 42.4885398,
+   "distance_km": 25.8,
+   "operator": null
+  },
+  {
+   "name": "ზესტაფონი",
+   "name_en": "Zestafoni",
+   "lat": 42.107972,
+   "lon": 43.0390879,
+   "distance_km": 30.5,
+   "operator": null
+  },
+  {
+   "name": "სამტრედია-2",
+   "name_en": "Samtredia-2",
+   "lat": 42.1726484,
+   "lon": 42.3943781,
+   "distance_km": 33.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:22Z"
+}

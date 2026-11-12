@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Marsden Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Conquest",
+   "lat": -33.8195671,
+   "lon": 150.9999131,
+   "distance_km": 49.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Heritage Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.5657357,
+   "lon": 150.8393308,
+   "distance_km": 25.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bella Vista Motel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.4350061,
+   "lon": 151.2975091,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Time and Tide Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -33.742035,
+   "lon": 151.2876908,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibis Budget Gosford",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ibis Budget",
+   "lat": -33.4265487,
+   "lon": 151.3243751,
+   "distance_km": 31.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 78,
+ "stations": [
+  {
+   "name": "Berowra",
+   "name_en": null,
+   "lat": -33.6235384,
+   "lon": 151.1531676,
+   "distance_km": 31.0,
+   "operator": null
+  },
+  {
+   "name": "Tascott",
+   "name_en": null,
+   "lat": -33.4509136,
+   "lon": 151.3186164,
+   "distance_km": 31.2,
+   "operator": null
+  },
+  {
+   "name": "Windsor",
+   "name_en": null,
+   "lat": -33.6136867,
+   "lon": 150.8110535,
+   "distance_km": 31.2,
+   "operator": "Sydney Trains"
+  },
+  {
+   "name": "Mulgrave",
+   "name_en": null,
+   "lat": -33.6266428,
+   "lon": 150.8304778,
+   "distance_km": 31.5,
+   "operator": "Sydney Trains"
+  },
+  {
+   "name": "Koolewong",
+   "name_en": null,
+   "lat": -33.4664036,
+   "lon": 151.318514,
+   "distance_km": 31.6,
+   "operator": null
+  },
+  {
+   "name": "Point Clare",
+   "name_en": null,
+   "lat": -33.4461883,
+   "lon": 151.3284368,
+   "distance_km": 31.9,
+   "operator": null
+  },
+  {
+   "name": "Clarendon",
+   "name_en": null,
+   "lat": -33.6086191,
+   "lon": 150.7879859,
+   "distance_km": 32.0,
+   "operator": "Sydney Trains"
+  },
+  {
+   "name": "Narara",
+   "name_en": null,
+   "lat": -33.3947187,
+   "lon": 151.3443981,
+   "distance_km": 32.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Milson's Passage Public Wharf",
+   "name_en": null,
+   "lat": -33.5161615,
+   "lon": 151.1775482,
+   "distance_km": 22.9,
+   "operator": null
+  },
+  {
+   "name": "Berowra Waters Ferry Berrilee Ramp",
+   "name_en": null,
+   "lat": -33.5998093,
+   "lon": 151.1223171,
+   "distance_km": 27.3,
+   "operator": null
+  },
+  {
+   "name": "Berowra Waters Ferry Berowra Ramp",
+   "name_en": null,
+   "lat": -33.600507,
+   "lon": 151.1247673,
+   "distance_km": 27.5,
+   "operator": "Transport for NSW"
+  },
+  {
+   "name": "Brooklyn Wharf",
+   "name_en": null,
+   "lat": -33.5461037,
+   "lon": 151.2275673,
+   "distance_km": 28.6,
+   "operator": null
+  },
+  {
+   "name": "Dangar Island Wharf",
+   "name_en": null,
+   "lat": -33.5362744,
+   "lon": 151.241076,
+   "distance_km": 28.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:43Z"
+}

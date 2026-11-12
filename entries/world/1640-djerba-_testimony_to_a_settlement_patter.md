@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "1640"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2023"
 criteria: "(v)"
 lat: 33.7837
 lon: 10.8833
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 杰尔巴：岛屿区域定居模式的见证 / Djerba: Testimony to a settlement pattern in an island territory
@@ -64,22 +64,7 @@ This serial property is a testimony to a settlement pattern that developed on th
 - ✈ **Djerba Zarzis International Airport (DJE)** — 14.0 km
 - ✈ **Sfax Thyna International Airport (SFA)** — 105.4 km
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 219.9 km
-- ⛴ **حومة السوق** — 11.9 km
-- ⛴ **Houmt Souk** — 12.1 km
-- ⛴ **أجيم** — 15.1 km
-- ⛴ **الجرف** — 16.7 km
-- ⛴ **ميناء الصيد البحري ببوغرارة** — 32.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8816.9 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Palm Beach Palace Djerba (ex-Sofitel)** — 12.3 km — star — 5★
-- **Fiesta Beach Club** — 12.2 km — star — 4★
-- **Club Marmara Palm Beach Djerba** — 12.3 km — star — 4★
-- **Carribean World Thalasso Djerba** — 12.4 km — star — 4★
-- **SunConnect Aqua Resort** — 12.6 km — star — 4★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

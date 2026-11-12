@@ -2,9 +2,9 @@
  "id": "wh-275",
  "unesco_id": "275",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 397,
- "popularity_score": 20795,
+ "tier": "full",
+ "popularity_rank": 365,
+ "popularity_score": 19073,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_275.jpg",
-   "title": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/275",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A Current Description of the Province of the Society of Jesus in Paraguay with Neighboring Areas WDL2581.png",
+   "author": "Retz, Francisco",
+   "license": "Public domain",
+   "credit": "http://dl.wdl.org/2581.png Gallery: http://www.wdl.org/en/item/2581/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Conquista_espiritual_hecha_por_los_religiosos_de_la_Compa%C3%B1ia_de_Iesus%2C_en_las_prouincias_del_Paraguay%2C_Parana%2C_Vruguay_y_Tape_%28IA_A1100623%29.pdf/page1-250px-Conquista_espiritual_hecha_por_los_religiosos_de_la_Compa%C3%B1ia_de_Iesus%2C_en_las_prouincias_del_Paraguay%2C_Parana%2C_Vruguay_y_Tape_%28IA_A1100623%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Conquista espiritual hecha por los religiosos de la Compañia de Iesus, en las prouincias del Paraguay, Parana, Vruguay y Tape (IA A1100623).pdf",
+   "author": "Ruiz de Montoya, Antonio (S.I.) Imprenta Real (Madrid)",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier: A1100623 https://archive.org/download/A1100623/A1100623.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Conquista_espiritual_hecha_por_los_religiosos_de_la_Compa%C3%B1ia_de_Iesus%2C_en_las_prouincias_del_Paraguay%2C_Parana%2C_Vruguay_y_Tape_%28IA_A1100623%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/AngelMLP1.jpg/1280px-AngelMLP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "AngelMLP1.jpg",
+   "author": "Lmalena",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:AngelMLP1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arte_de_la_Lengua_Guarani_-_Antonio_Ruiz_de_Montoya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Arte de la Lengua Guarani - Antonio Ruiz de Montoya.jpg",
+   "author": "Antonio Ruiz de Montoya",
+   "license": "Public domain",
+   "credit": "[1]",
+   "source": "https://commons.wikimedia.org/wiki/File:Arte_de_la_Lengua_Guarani_-_Antonio_Ruiz_de_Montoya.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/275",
@@ -107,10 +131,132 @@
   ],
   "nearest_airport_km": 30.4,
   "distance_beijing_km": 18424.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Puerto San Ignacio",
+    "name_en": null,
+    "lat": -27.2674831,
+    "lon": -55.568759,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Puerto Viejo San Ignacio",
+    "name_en": null,
+    "lat": -27.2409646,
+    "lon": -55.5674254,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Puerto Cantera",
+    "name_en": null,
+    "lat": -27.2238022,
+    "lon": -55.6007019,
+    "distance_km": 7.7,
+    "operator": null
+   },
+   {
+    "name": "Puerto Santa Ana",
+    "name_en": null,
+    "lat": -27.3359848,
+    "lon": -55.5886955,
+    "distance_km": 10.6,
+    "operator": null
+   },
+   {
+    "name": "Puerto Cazador",
+    "name_en": null,
+    "lat": -27.1552258,
+    "lon": -55.5551924,
+    "distance_km": 11.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Encarnación",
+    "name_en": null,
+    "lat": -27.3607272,
+    "lon": -55.8484176,
+    "distance_km": 33.4,
+    "operator": null
+   },
+   {
+    "name": "Posadas",
+    "name_en": null,
+    "lat": -27.3801656,
+    "lon": -55.8838812,
+    "distance_km": 37.5,
+    "operator": "Casimiro Internacional"
+   },
+   {
+    "name": "Garupá",
+    "name_en": null,
+    "lat": -27.4849245,
+    "lon": -55.825694,
+    "distance_km": 38.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "HOTEL TRAVEL ENCARNACIÓN",
+   "name_en": null,
+   "stars": 5,
+   "brand": "HTE",
+   "lat": -27.3022846,
+   "lon": -55.8850429,
+   "distance_km": 35.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Müller Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.0407048,
+   "lon": -55.5789224,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Julio César",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3697284,
+   "lon": -55.8957865,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HA Urbano Posadas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3664896,
+   "lon": -55.8974946,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maitei Posadas Hotel & Resort",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3971716,
+   "lon": -55.9625684,
+   "distance_km": 45.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AR",
   "country_zh": "阿根廷",
@@ -192,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

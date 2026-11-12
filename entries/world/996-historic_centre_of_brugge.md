@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)(vi)"
 lat: 51.20891
 lon: 3.22527
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 布鲁日历史中心 / Historic Centre of Brugge

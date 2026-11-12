@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "544"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1990"
 criteria: "(i)(iv)(v)"
 lat: 62.06767
 lon: 35.22345
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 基日岛的木结构教堂 / Kizhi Pogost
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Kishi church 0.jpg · see Wikimedia Commons file page*
 
-![Kizhi Pogost](https://whc.unesco.org/uploads/sites/site_544.jpg)
+![0432Ac. остров Кижи.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/0432Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg/1280px-0432Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kizhi Pogost · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0432Ac. остров Кижи.jpg · Александровы АГ · CC BY-SA 4.0*
+
+![0433Ac. Kizhi Island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0433Ac._Kizhi_Island.jpg/1280px-0433Ac._Kizhi_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0433Ac. Kizhi Island.jpg · Александровы АГ · CC BY-SA 4.0*
+
+![0434Ac. остров Кижи.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/0434Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg/1280px-0434Ac._%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9A%D0%B8%D0%B6%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0434Ac. остров Кижи.jpg · Александровы АГ · CC BY-SA 4.0*
+
+![0453Ac. Kizhi Pogost in Karelia.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/0453Ac._Kizhi_Pogost_in_Karelia.jpg/1280px-0453Ac._Kizhi_Pogost_in_Karelia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0453Ac. Kizhi Pogost in Karelia.jpg · Александровы АГ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,21 @@ The pogost of Kizhi (i.e. the Kizhi enclosure) is located on one of the many isl
 - ✈ **Petrozavodsk Airport (PES)** — 59.4 km
 - ✈ **Joensuu Airport (JOE)** — 296.3 km
 - ✈ **Savonlinna Airport (SVL)** — 327.9 km
+- 🚉 **Илемсельга** — 44.8 km
+- 🚉 **Мянсельга** — 45.8 km
+- 🚉 **Нигозеро** — 48.9 km
+- ⛴ **Причал** — 0.7 km
+- ⛴ **Кижи** — 0.7 km
+- ⛴ **Пристань Отяевщина** — 2.8 km
+- ⛴ **Пристань "Кометы" Великая губа** — 20.8 km
+- ⛴ **Стеклянное** — 48.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5784.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Гостевой комплекс "Вороний остров"** — 19.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

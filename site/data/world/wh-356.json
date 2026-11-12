@@ -2,8 +2,8 @@
  "id": "wh-356",
  "unesco_id": "356",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 8,
+ "tier": "basic",
+ "popularity_rank": 1038,
  "popularity_score": 1218108,
  "country": "TR",
  "country_zh": "土耳其",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
-   "title": "De-Hagia Sophia.ogg",
-   "author": "Jeuwre",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:De-Hagia_Sophia.ogg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/17th_century_Picatrix_man_Istanbul%2C_Hagia_Sophia_2443_fol_84r.jpg/1280px-17th_century_Picatrix_man_Istanbul%2C_Hagia_Sophia_2443_fol_84r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "17th century Picatrix man Istanbul, Hagia Sophia 2443 fol 84r.jpg",
-   "author": "Unknown author Unknown author",
-   "license": "Public domain",
-   "credit": "https://www.quranicthought.com/ar/books/غاية-الحكيم-في-السحر-2443/",
-   "source": "https://commons.wikimedia.org/wiki/File:17th_century_Picatrix_man_Istanbul%2C_Hagia_Sophia_2443_fol_84r.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/20231005_Replica_of_Hagia_Sophia_in_the_Window_of_the_World.jpg/1280px-20231005_Replica_of_Hagia_Sophia_in_the_Window_of_the_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231005 Replica of Hagia Sophia in the Window of the World.jpg",
-   "author": "Yumeto",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231005_Replica_of_Hagia_Sophia_in_the_Window_of_the_World.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/20260211_Istanbul_03_%2822810%29.jpg/1280px-20260211_Istanbul_03_%2822810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260211 Istanbul 03 (22810).jpg",
-   "author": "Sergey A. Demidov",
-   "license": "CC BY 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260211_Istanbul_03_%2822810%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_356.jpg",
+   "title": "Historic Areas of Istanbul",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/356",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/356",
@@ -126,148 +102,10 @@
   ],
   "nearest_airport_km": 30.2,
   "distance_beijing_km": 7040.7,
-  "ferry_terminals": [
-   {
-    "name": "Ahırkapı İskelesi",
-    "name_en": null,
-    "lat": 41.0035807,
-    "lon": 28.9823737,
-    "distance_km": 0.6,
-    "operator": "İBB Şehir Hatları"
-   },
-   {
-    "name": "Sirkeci",
-    "name_en": null,
-    "lat": 41.016772,
-    "lon": 28.9776393,
-    "distance_km": 1.0,
-    "operator": null
-   },
-   {
-    "name": "Eminönü İskelesi паром",
-    "name_en": "Eminonu Pier",
-    "lat": 41.0171316,
-    "lon": 28.976271,
-    "distance_km": 1.0,
-    "operator": null
-   },
-   {
-    "name": "Sarayburnu Limanı",
-    "name_en": null,
-    "lat": 41.0173357,
-    "lon": 28.9832049,
-    "distance_km": 1.0,
-    "operator": null
-   },
-   {
-    "name": "Sirkeci-Harem İskelesi",
-    "name_en": null,
-    "lat": 41.0168221,
-    "lon": 28.9765587,
-    "distance_km": 1.0,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Cankurtaran",
-    "name_en": null,
-    "lat": 41.0055376,
-    "lon": 28.9830122,
-    "distance_km": 0.4,
-    "operator": "TCDD Taşımacılık"
-   },
-   {
-    "name": "Sirkeci",
-    "name_en": "Sirkeci",
-    "lat": 41.0136066,
-    "lon": 28.9771437,
-    "distance_km": 0.6,
-    "operator": "TCDD Taşımacılık"
-   },
-   {
-    "name": "Kumkapı",
-    "name_en": null,
-    "lat": 41.0033651,
-    "lon": 28.9629002,
-    "distance_km": 1.5,
-    "operator": "TCDD Taşımacılık"
-   },
-   {
-    "name": "Karaköy",
-    "name_en": "Karaköy Station, Tünel Line",
-    "lat": 41.0228645,
-    "lon": 28.9740393,
-    "distance_km": 1.7,
-    "operator": null
-   },
-   {
-    "name": "Beyoğlu",
-    "name_en": "Beyoğlu Station, Tünel Line",
-    "lat": 41.0283447,
-    "lon": 28.9739892,
-    "distance_km": 2.3,
-    "operator": null
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Four Seasons Hotel",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Four Seasons",
-   "lat": 41.0065618,
-   "lon": 28.9802407,
-   "distance_km": 0.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Hilton",
-   "lat": 41.0065608,
-   "lon": 28.9790796,
-   "distance_km": 0.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Sura Design Hotel and Suites",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Sura Hotels",
-   "lat": 41.0086121,
-   "lon": 28.9759195,
-   "distance_km": 0.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Sura Hagia Sophia Hotel and Spa",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 41.0087202,
-   "lon": 28.9761783,
-   "distance_km": 0.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "DoubleTree by Hilton Hotel Istanbul - Old Town",
-   "name_en": null,
-   "stars": 5,
-   "brand": "DoubleTree",
-   "lat": 41.0090498,
-   "lon": 28.9603467,
-   "distance_km": 1.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -339,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

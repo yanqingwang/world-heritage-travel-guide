@@ -2,9 +2,9 @@
  "id": "wh-1243",
  "unesco_id": "1243",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 433,
- "popularity_score": 17916,
+ "tier": "full",
+ "popularity_rank": 398,
+ "popularity_score": 16643,
  "country": "CH",
  "country_zh": "瑞士",
  "country_en": "Switzerland",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1243.jpg",
-   "title": "Lavaux, Vineyard Terraces",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1243",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2009-08-27_Lake_Geneva_404.JPG/1280px-2009-08-27_Lake_Geneva_404.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-08-27 Lake Geneva 404.JPG",
+   "author": "Norbert Aepli, Switzerland ( User:Noebu )",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-08-27_Lake_Geneva_404.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2009-08-27_Lake_Geneva_405.JPG/1280px-2009-08-27_Lake_Geneva_405.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-08-27 Lake Geneva 405.JPG",
+   "author": "Norbert Aepli, Switzerland ( User:Noebu )",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-08-27_Lake_Geneva_405.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2009-08-27_Lake_Geneva_406.JPG/1280px-2009-08-27_Lake_Geneva_406.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-08-27 Lake Geneva 406.JPG",
+   "author": "Norbert Aepli, Switzerland ( User:Noebu )",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-08-27_Lake_Geneva_406.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2009-08-27_Lake_Geneva_407.JPG/1280px-2009-08-27_Lake_Geneva_407.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-08-27 Lake Geneva 407.JPG",
+   "author": "Norbert Aepli, Switzerland ( User:Noebu )",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-08-27_Lake_Geneva_407.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1243",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 56.5,
   "distance_beijing_km": 8200.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Cully",
+    "name_en": null,
+    "lat": 46.4873383,
+    "lon": 6.7318533,
+    "distance_km": 1.2,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Rivaz-Saint-Saphorin",
+    "name_en": null,
+    "lat": 46.4735161,
+    "lon": 6.7841879,
+    "distance_km": 3.6,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Lutry",
+    "name_en": null,
+    "lat": 46.5010483,
+    "lon": 6.6838832,
+    "distance_km": 4.9,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Pully",
+    "name_en": null,
+    "lat": 46.5047373,
+    "lon": 6.6611523,
+    "distance_km": 6.7,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   },
+   {
+    "name": "Vevey-Marché",
+    "name_en": null,
+    "lat": 46.4587081,
+    "lon": 6.8404061,
+    "distance_km": 8.1,
+    "operator": "Compagnie générale de navigation sur le lac Léman (CGN)"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Cully",
+    "name_en": null,
+    "lat": 46.4886072,
+    "lon": 6.7271541,
+    "distance_km": 1.5,
+    "operator": "SBB"
+   },
+   {
+    "name": "Puidoux",
+    "name_en": null,
+    "lat": 46.4938607,
+    "lon": 6.7656294,
+    "distance_km": 1.5,
+    "operator": "CFF"
+   },
+   {
+    "name": "Grandvaux",
+    "name_en": null,
+    "lat": 46.4969518,
+    "lon": 6.7226831,
+    "distance_km": 1.9,
+    "operator": "SBB"
+   },
+   {
+    "name": "Moreillon",
+    "name_en": null,
+    "lat": 46.5086272,
+    "lon": 6.785916,
+    "distance_km": 3.6,
+    "operator": "SBB"
+   },
+   {
+    "name": "La Conversion",
+    "name_en": null,
+    "lat": 46.5131838,
+    "lon": 6.678344,
+    "distance_km": 5.7,
+    "operator": "SBB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Le Mirador Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4814861,
+   "lon": 6.8276227,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel des Trois Couronnes",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.4582265,
+   "lon": 6.8478959,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lausanne Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.5195586,
+   "lon": 6.6309165,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Royal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.3967273,
+   "lon": 6.5938011,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chalet RoyAlp Hôtel & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.293149,
+   "lon": 7.0620242,
+   "distance_km": 32.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CH",
   "country_zh": "瑞士",
@@ -180,5 +342,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

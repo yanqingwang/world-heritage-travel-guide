@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iii)"
 lat: -8.95777778
 lon: 39.52277778
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 基尔瓦基斯瓦尼遗址和松戈马拉遗址 / Ruins of Kilwa Kisiwani and Ruins of Songo Mnara

@@ -8,13 +8,13 @@ country: "IS"
 country_zh: "冰岛"
 country_en: "Iceland"
 unesco_id: "1604"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2019"
 criteria: "(viii)"
 lat: 64.5
 lon: -17.0
-updated_at: "2026-11-12T11:30:24Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 瓦特纳冰川国家公园-火与冰的动态 / Vatnajökull National Park - Dynamic Nature of Fire and Ice
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:30:24Z"
 ![Skaftafellsjökull 2010.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Skaftafellsj%C3%B6kull%202010.jpg?width=1280)
 
 *Skaftafellsjökull 2010.jpg · see Wikimedia Commons file page*
+
+![193 Herd of Reindeers running in Southern Iceland Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/193_Herd_of_Reindeers_running_in_Southern_Iceland_Photo_by_Giles_Laurent.jpg/1280px-193_Herd_of_Reindeers_running_in_Southern_Iceland_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*193 Herd of Reindeers running in Southern Iceland Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![View from Skaftafell National Park July 2014 -2.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/View_from_Skaftafell_National_Park_July_2014_-2.JPG/1280px-View_from_Skaftafell_National_Park_July_2014_-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*View from Skaftafell National Park July 2014 -2.JPG · Martin Falbisoner · CC BY-SA 4.0*
+
+![View from Skaftafell National Park July 2014 -4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/View_from_Skaftafell_National_Park_July_2014_-4.jpg/1280px-View_from_Skaftafell_National_Park_July_2014_-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*View from Skaftafell National Park July 2014 -4.jpg · Martin Falbisoner · CC BY-SA 4.0*
 
 ![Vatnajökull National Park - Dynamic Nature of Fire and Ice](https://whc.unesco.org/uploads/sites/site_1604.jpg)
 
@@ -53,6 +65,12 @@ Vatnajökulsþjóðgarður var stofnaður árið 2008. Hann nær yfir allan Vatn
 - ✈ **Akureyri International Airport (AEY)** — 138.1 km
 - ✈ **Egilsstaðir Airport (EGS)** — 150.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7668.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

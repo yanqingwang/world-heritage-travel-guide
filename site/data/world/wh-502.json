@@ -3,8 +3,8 @@
  "unesco_id": "502",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 189,
- "popularity_score": 66531,
+ "popularity_rank": 181,
+ "popularity_score": 60247,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -126,10 +126,75 @@
   ],
   "nearest_airport_km": 68.5,
   "distance_beijing_km": 2465.0,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Currimao Port",
+    "name_en": null,
+    "lat": 17.9880712,
+    "lon": 120.4878168,
+    "distance_km": 47.2,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ann-Tony's Transient House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 17.5666156,
+   "lon": 120.3875683,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Condotel Asuncion",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.5739322,
+   "lon": 120.3879008,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Veneto de Vigan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.5732309,
+   "lon": 120.3885268,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "LaVie Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "LaVie Hotel",
+   "lat": 17.5727809,
+   "lon": 120.3874383,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NSCC Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.5727573,
+   "lon": 120.3875754,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PH",
   "country_zh": "菲律宾",
@@ -202,5 +267,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-58",
  "unesco_id": "58",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 303,
- "popularity_score": 30358,
+ "tier": "full",
+ "popularity_rank": 275,
+ "popularity_score": 28366,
  "country": "NO",
  "country_zh": "挪威",
  "country_en": "Norway",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_58.jpg",
-   "title": "Urnes Stave Church",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/58",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dahl_2.Heft_Tafel_1.png/1280px-Dahl_2.Heft_Tafel_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dahl 2.Heft Tafel 1.png",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Dahl_2.Heft_Tafel_1.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Holy_St._Olav_or_Jesus%2C_from_Urnes_stavechurch.jpg/1280px-Holy_St._Olav_or_Jesus%2C_from_Urnes_stavechurch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Holy St. Olav or Jesus, from Urnes stavechurch.jpg",
+   "author": "Arild Nybø",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/arnybo/2353584156/",
+   "source": "https://commons.wikimedia.org/wiki/File:Holy_St._Olav_or_Jesus%2C_from_Urnes_stavechurch.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Madonna_or_St._Sunniva-statue.jpg/1280px-Old_Madonna_or_St._Sunniva-statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Old Madonna or St. Sunniva-statue.jpg",
+   "author": "Arild Nybø",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/arnybo/2352750519/",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Madonna_or_St._Sunniva-statue.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Urnes_fra_M%C3%A5saviki.jpg/1280px-Urnes_fra_M%C3%A5saviki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Urnes fra Måsaviki.jpg",
+   "author": "WikiTimewatch",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Urnes_fra_M%C3%A5saviki.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/58",
@@ -101,10 +125,116 @@
   ],
   "nearest_airport_km": 18.6,
   "distance_beijing_km": 7097.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Ornes",
+    "name_en": null,
+    "lat": 61.2993816,
+    "lon": 7.3125706,
+    "distance_km": 0.6,
+    "operator": "Lustrabaatane"
+   },
+   {
+    "name": "Solvorn",
+    "name_en": null,
+    "lat": 61.301349,
+    "lon": 7.2487066,
+    "distance_km": 4.0,
+    "operator": "Lustrabaatane"
+   },
+   {
+    "name": "Kaupanger",
+    "name_en": null,
+    "lat": 61.1828972,
+    "lon": 7.2504101,
+    "distance_km": 13.4,
+    "operator": null
+   },
+   {
+    "name": "Sogndal",
+    "name_en": null,
+    "lat": 61.2295279,
+    "lon": 7.1045036,
+    "distance_km": 13.9,
+    "operator": null
+   },
+   {
+    "name": "Mannheller",
+    "name_en": null,
+    "lat": 61.1602065,
+    "lon": 7.3367887,
+    "distance_km": 15.3,
+    "operator": "Fjord1"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Flåm",
+    "name_en": null,
+    "lat": 60.8629525,
+    "lon": 7.1131783,
+    "distance_km": 49.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Best Western Lægreid Hotell",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 61.2302125,
+   "lon": 7.1007299,
+   "distance_km": 14.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Walaker Hotell",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3019374,
+   "lon": 7.2479232,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eikum Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3154246,
+   "lon": 7.2034068,
+   "distance_km": 6.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tørvis Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3808583,
+   "lon": 7.3071522,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gaupnetunet",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.4025699,
+   "lon": 7.2991088,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NO",
   "country_zh": "挪威",
@@ -178,5 +308,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

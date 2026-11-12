@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(iii)"
 lat: 45.390036124750004
 lon: 73.0072743635
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 曼格斯套岩凿清真寺及相关圣地 / Rock Mosques and Associated Sacred Sites of Mangystau

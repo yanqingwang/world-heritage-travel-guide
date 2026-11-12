@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "84"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(vi)"
 lat: 47.466388888
 lon: 3.748333333
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 韦兹莱教堂和山丘 / Vézelay, Church and Hill
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:10Z"
 
 *Vezelay-7776-Bearbeitet.jpg · see Wikimedia Commons file page*
 
-![Vézelay, Church and Hill](https://whc.unesco.org/uploads/sites/site_84.jpg)
+![180 of 'Histoire des Villes de France, avec une introduction générale pour chaque province par A. Guilbert et une Société de Membres de l'Institut, de savants, etc' (11022635914).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/180_of_%27Histoire_des_Villes_de_France%2C_avec_une_introduction_g%C3%A9n%C3%A9rale_pour_chaque_province_par_A._Guilbert_et_une_Soci%C3%A9t%C3%A9_de_Membres_de_l%27Institut%2C_de_savants%2C_etc%27_%2811022635914%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vézelay, Church and Hill · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*180 of 'Histoire des Villes de France, avec une introduction générale pour chaque province par A. Guilbert et une Société de Membres de l'Institut, de savants, etc' (11022635914).jpg · The British Library · No restrictions*
+
+![Aerial image of Vézelay Abbey (view from the southwest).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aerial_image_of_V%C3%A9zelay_Abbey_%28view_from_the_southwest%29.jpg/1280px-Aerial_image_of_V%C3%A9zelay_Abbey_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial image of Vézelay Abbey (view from the southwest).jpg · Carsten Steger · CC BY-SA 4.0*
+
+![Basilique de Vézelay - Portail RHu.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Basilique_de_V%C3%A9zelay_-_Portail_RHu.JPG/1280px-Basilique_de_V%C3%A9zelay_-_Portail_RHu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Basilique de Vézelay - Portail RHu.JPG · Meneerke bloem · CC BY-SA 4.0*
+
+![Basilique Sainte-Marie-Madeleine de Vézelay 2016 (5).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Basilique_Sainte-Marie-Madeleine_de_V%C3%A9zelay_2016_%285%29.jpg/1280px-Basilique_Sainte-Marie-Madeleine_de_V%C3%A9zelay_2016_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Basilique Sainte-Marie-Madeleine de Vézelay 2016 (5).jpg · Pierre André Leclercq · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,25 @@ Peu après sa fondation au IXe siècle, le monastère bénédictin a acquis les 
 - ✈ **Dole Tavaux Airport (DLE)** — 135.4 km
 - ✈ **Chalons Vatry airport (XCR)** — 149.2 km
 - ✈ **Paris-Orly Airport (ORY)** — 174.3 km
+- 🚉 **Sermizelles - Vézelay** — 7.7 km
+- 🚉 **Châtel-Censoir** — 11.6 km
+- 🚉 **Avallon** — 12.8 km
+- 🚉 **Flez Cuzy Tannay** — 15.3 km
+- 🚉 **Mailly-la-Ville** — 16.3 km
+- ⛴ **Port de Plaisance de Montbard** — 47.1 km
+- ⛴ **Port de Plaisance de Tonnerre** — 47.4 km
+- ⛴ **Halte Nautique de Tanlay** — 49.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8179.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Château de Vault de Lugny** — 8.6 km — star — 5★
+- **Hôtel de la Poste** — 12.3 km — star — 4★
+- **Les Clos** — 38.6 km — star — 4★
+- **Hôtel les Maréchaux** — 39.2 km — star — 4★
+- **Mercure Auxerre Nord** — 45.6 km — star — 4★ · Mercure
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

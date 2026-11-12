@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "776"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.29577
 lon: 132.320105
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 严岛神殿 / Itsukushima Shinto Shrine
@@ -64,27 +64,7 @@ The island of Itsukushima, in the Seto inland sea, has been a holy place of Shin
 - ✈ **Iwakuni Kintaikyo Airport (IWK)** — 17.9 km
 - ✈ **Hiroshima Airport (HIJ)** — 57.1 km
 - ✈ **Matsuyama Airport (MYJ)** — 62.8 km
-- 🚉 **広電宮島口** — 2.3 km
-- 🚉 **宮島口** — 2.4 km
-- 🚉 **宮島ボートレース場** — 2.5 km
-- 🚉 **前空** — 2.9 km
-- 🚉 **阿品** — 3.1 km
-- ⛴ **宮島桟橋** — 0.7 km
-- ⛴ **宮島口フェリーのりば旅客ターミナル** — 2.2 km
-- ⛴ **三高〜宇品** — 9.0 km
-- ⛴ **三高桟橋** — 9.0 km
-- ⛴ **高田** — 12.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1534.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- **蔵宿いろは** — 0.5 km — star — Kurayado Iroha · 5★
-- **旅館水羽荘** — 0.4 km — star — Auberge Mizuhaso · 3★
-- **宮島シーサイドホテル** — 1.7 km — star — Miyajima Seaside Hotel · 3★
-- **EN HOTEL** — 17.3 km — star — EN Hotel Hiroshima · 3★
-- **山一別館** — 0.7 km — star — Yamaichi Bekkan · 2★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

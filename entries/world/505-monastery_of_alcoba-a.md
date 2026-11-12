@@ -8,13 +8,13 @@ country: "PT"
 country_zh: "葡萄牙"
 country_en: "Portugal"
 unesco_id: "505"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1989"
 criteria: "(i)(iv)"
 lat: 39.548594
 lon: -8.978628
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 阿尔科巴萨修道院 / Monastery of Alcobaça
@@ -52,7 +52,25 @@ O Mosteiro de Alcobaça, também conhecido como Real Mosteiro de Santa Maria de 
 - ✈ **Lisbon Humberto Delgado Airport (LIS)** — 86.4 km
 - ✈ **Cascais Airport (CAT)** — 97.2 km
 - ✈ **Aerodromo Goncalves Lobato (Viseu Airport) (VSE)** — 160.3 km
+- 🚉 **Valado** — 5.2 km
+- 🚉 **Pataias** — 11.9 km
+- 🚉 **São Martinho do Porto** — 14.0 km
+- 🚉 **Martingança** — 15.7 km
+- 🚉 **Caldas da Rainha** — 21.0 km
+- ⛴ **Peniche** — 40.6 km
+- ⛴ **Berlengas** — 47.7 km
+- ⛴ **Berlengas Grande** — 47.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9656.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Montebelo Mosteiro de Alcobaça Historic Hotel** — 0.0 km — star — 5★
+- **Real Abadia, Congress & Spa Hotel** — 2.1 km — star — 4★
+- **Hotel Praia** — 9.7 km — star — 4★
+- **Haven Nature Hotel and Villas** — 17.4 km — star — 4★
+- **Hotel Lis Batalha** — 17.8 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

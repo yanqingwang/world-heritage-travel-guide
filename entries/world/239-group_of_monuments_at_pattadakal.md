@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "239"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(iii)(iv)"
 lat: 15.951333333
 lon: 75.814638888
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:25Z"
 ---
 
 # 帕塔达卡尔建筑群 / Group of Monuments at Pattadakal
@@ -26,6 +26,18 @@ updated_at: "2026-11-12T11:30:12Z"
 ![7th - 9th century Hindu and Jain temples, Pattadakal monuments Karnataka 7.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/7th%20-%209th%20century%20Hindu%20and%20Jain%20temples%2C%20Pattadakal%20monuments%20Karnataka%207.jpg?width=1280)
 
 *7th - 9th century Hindu and Jain temples, Pattadakal monuments Karnataka 7.jpg · see Wikimedia Commons file page*
+
+![Jambulingeshwara Temple, Pattadakal.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jambulingeshwara_Temple%2C_Pattadakal.jpg/1280px-Jambulingeshwara_Temple%2C_Pattadakal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jambulingeshwara Temple, Pattadakal.jpg · Naveen R Gowda · CC BY-SA 4.0*
+
+![Pattadakal above and Nellaiappar below.jpg](https://upload.wikimedia.org/wikipedia/commons/7/75/Pattadakal_above_and_Nellaiappar_below.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Pattadakal above and Nellaiappar below.jpg · Shyamal L. and Udayanga23 · CC BY-SA 4.0*
+
+![Stamp of India - 2020 - Colnect 984036 - Pattadakal Monuments.jpeg](https://upload.wikimedia.org/wikipedia/commons/2/20/Stamp_of_India_-_2020_-_Colnect_984036_-_Pattadakal_Monuments.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Stamp of India - 2020 - Colnect 984036 - Pattadakal Monuments.jpeg · Post of India · GODL-India*
 
 ![Group of Monuments at Pattadakal](https://whc.unesco.org/uploads/sites/site_239.jpg)
 
@@ -52,7 +64,22 @@ Pattadakal, in Karnataka, represents the high point of an eclectic art which, in
 - ✈ **Hubballi Airport (HBX)** — 102.3 km
 - ✈ **Belagavi Airport (IXG)** — 128.3 km
 - ✈ **Kolhapur Airport (KLH)** — 181.1 km
+- 🚉 **Guledgudda Road** — 18.2 km
+- 🚉 **Lakhmapur** — 22.0 km
+- 🚉 **Hole Alur** — 23.1 km
+- 🚉 **Sulikeri** — 25.9 km
+- 🚉 **Bagalkot** — 28.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4857.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Chalukya** — 13.7 km — hotel
+- **Clarks Inn** — 14.8 km — hotel
+- **Hotel Mookambika Deluxe** — 14.8 km — hotel
+- **Rajsangam International Hotel** — 14.8 km — hotel
+- **Royal Deluxe Lodge** — 14.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,9 +2,9 @@
  "id": "wh-247",
  "unesco_id": "247",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1052,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 255,
+ "popularity_score": 30843,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -51,6 +51,14 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Jaipur%2003-2016%2004%20Amber%20Fort.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wall_of_Amber_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wall of Amber fort.jpg",
+   "author": "CR Shelare",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wall_of_Amber_fort.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_247.jpg",
@@ -102,9 +110,106 @@
   "nearest_airport_km": 81.3,
   "distance_beijing_km": 4312.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Chittaurgarh Junction",
+    "name_en": null,
+    "lat": 24.8760203,
+    "lon": 74.6232714,
+    "distance_km": 2.4,
+    "operator": "WR"
+   },
+   {
+    "name": "Chanderiya Junction",
+    "name_en": null,
+    "lat": 24.9381421,
+    "lon": 74.6289998,
+    "distance_km": 6.3,
+    "operator": "WR"
+   },
+   {
+    "name": "Ordi",
+    "name_en": null,
+    "lat": 24.8264014,
+    "lon": 74.6319933,
+    "distance_km": 6.5,
+    "operator": "WR"
+   },
+   {
+    "name": "Thambavati Nagri",
+    "name_en": null,
+    "lat": 24.9685251,
+    "lon": 74.6947172,
+    "distance_km": 10.7,
+    "operator": "WCR"
+   },
+   {
+    "name": "Ghosunda",
+    "name_en": null,
+    "lat": 24.8716029,
+    "lon": 74.5352246,
+    "distance_km": 11.3,
+    "operator": "NWR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Grand Chittor",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 24.883235,
+   "lon": 74.6312159,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Laxmi Lodge",
+   "name_en": "Hotel Laxmi Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 24.8887978,
+   "lon": 74.6347417,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aadimata",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8915157,
+   "lon": 74.6359359,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8821115,
+   "lon": 74.629211,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amber Plaza",
+   "name_en": "Amber Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 24.8823545,
+   "lon": 74.6273153,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -174,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "244"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(i)(iii)"
 lat: 18.963333333
 lon: 72.931388888
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 埃勒凡塔石窟（象岛石窟） / Elephanta Caves
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Elephanta Caves, India.jpg · see Wikimedia Commons file page*
 
-![Elephanta Caves](https://whc.unesco.org/uploads/sites/site_244.jpg)
+![A cave among others (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/A_cave_among_others_%28cropped%29.jpg/1280px-A_cave_among_others_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Elephanta Caves · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A cave among others (cropped).jpg · Bryophyllum1 · CC BY-SA 4.0*
+
+![A cave among others.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/A_cave_among_others.jpg/1280px-A_cave_among_others.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A cave among others.jpg · Bryophyllum1 · CC BY-SA 4.0*
+
+![A seating space in Elephanta Caves.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_seating_space_in_Elephanta_Caves.jpg/1280px-A_seating_space_in_Elephanta_Caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A seating space in Elephanta Caves.jpg · Kalyan07kumar · CC BY-SA 4.0*
+
+![A way to Elephanta Caves.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_way_to_Elephanta_Caves.jpg/1280px-A_way_to_Elephanta_Caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A way to Elephanta Caves.jpg · Raahichauhan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ The 'City of Caves', on an island in the Sea of Oman close to Mumbai, contains a
 - ✈ **Navi Mumbai International Airport (NMI)** — 14.3 km
 - ✈ **Chhatrapati Shivaji Maharaj International Airport (BOM)** — 15.5 km
 - ✈ **Pune International Airport (PNQ)** — 112.4 km
+- 🚉 **Mysore Colony** — 8.3 km
+- 🚉 **Bharat Petroleum** — 8.8 km
+- 🚉 **Sewri** — 9.0 km
+- 🚉 **Dockyard Road** — 9.1 km
+- 🚉 **Bhakti Park** — 9.2 km
+- ⛴ **Elephanta Caves Jetty** — 1.0 km
+- ⛴ **Uran** — 5.4 km
+- ⛴ **Bhaucha Dhakka / Ferry Wharf** — 8.6 km
+- ⛴ **M2M Ro-Ro Terminal** — 8.8 km
+- ⛴ **Angriya Water Terminal** — 9.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4755.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Oberoi** — 12.3 km — star — 5★ · Oberoi
+- **Trident, Nariman-Point** — 12.3 km — star — 5★ · Trident
+- **Taj Lands End** — 14.7 km — star — Taj Lands End · 5★ · Taj
+- **JW Marriott Mumbai Sahar** — 16.5 km — star — 5★ · JW Marriott
+- **Taj Santacruz Mumbai** — 16.5 km — star — 5★ · Taj
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

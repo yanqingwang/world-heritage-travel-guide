@@ -8,13 +8,13 @@ country: "SE"
 country_zh: "瑞典"
 country_en: "Sweden"
 unesco_id: "1027"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iii)(v)"
 lat: 60.604722222
 lon: 15.630833333
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 法伦的大铜山采矿区 / Mining Area of the Great Copper Mountain in Falun
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Falu koppargruva July 2017 01.jpg · see Wikimedia Commons file page*
 
-![Mining Area of the Great Copper Mountain in Falun](https://whc.unesco.org/uploads/sites/site_1027.jpg)
+![Creutz lave, Falu Koppargruva.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Creutz_lave%2C_Falu_Koppargruva.jpg/1280px-Creutz_lave%2C_Falu_Koppargruva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mining Area of the Great Copper Mountain in Falun · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Creutz lave, Falu Koppargruva.jpg · Per Falun · CC BY-SA 4.0*
+
+![Falun Grubenstadt Falun 1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Falun_Grubenstadt_Falun_1.JPG/1280px-Falun_Grubenstadt_Falun_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Falun Grubenstadt Falun 1.JPG · Zairon · CC BY-SA 3.0*
+
+![Falun Grubenstadt Falun 2.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Falun_Grubenstadt_Falun_2.JPG/1280px-Falun_Grubenstadt_Falun_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Falun Grubenstadt Falun 2.JPG · Zairon · CC BY-SA 3.0*
+
+![Falun Grubenstadt Falun 3.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Falun_Grubenstadt_Falun_3.JPG/1280px-Falun_Grubenstadt_Falun_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Falun Grubenstadt Falun 3.JPG · Zairon · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,26 @@ För det historiska bergslaget, se Stora Kopparberget Falun och Kopparbergslagen
 - ✈ **Dala Airport (BLE)** — 21.3 km
 - ✈ **Mora Airport (MXX)** — 72.3 km
 - ✈ **Stockholm Västerås Airport (VST)** — 125.8 km
+- 🚉 **Falun** — 0.7 km
+- 🚉 **Borlänge** — 17.6 km
+- 🚉 **Djurås** — 27.3 km
+- 🚉 **Säter** — 29.5 km
+- 🚉 **Gagnef** — 30.0 km
+- ⛴ **Ångbåtsbryggan** — 15.7 km
+- ⛴ **Ångbåtsbrygga** — 16.0 km
+- ⛴ **Långbryggan** — 42.0 km
+- ⛴ **Vaverön gäst port** — 48.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6763.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Dalecarlia Hotel & Spa** — 42.3 km — star — 4★ · Nordic Choice
+- **Scandic Lugnet Falun** — 1.5 km — star — 3★
+- **Best Western Gustaf Wasa Hotell** — 17.6 km — chain — Best Western
+- **Best Western Hotell Lerdalshöjden** — 41.0 km — chain — Best Western
+- **First Hotel Grand** — 0.2 km — hotel — First Hotels
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

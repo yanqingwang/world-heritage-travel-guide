@@ -8,13 +8,13 @@ country: "PL"
 country_zh: "波兰"
 country_en: "Poland"
 unesco_id: "1165"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(i)(ii)(iv)"
 lat: 51.106944444
 lon: 17.077222222
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 弗罗茨瓦夫百年厅 / Centennial Hall in Wrocław
@@ -26,6 +26,14 @@ updated_at: "2026-11-12T11:30:20Z"
 ![Wroclaw - Hala Stulecia 03a.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Wroclaw%20-%20Hala%20Stulecia%2003a.jpg?width=1280)
 
 *Wroclaw - Hala Stulecia 03a.jpg · see Wikimedia Commons file page*
+
+![Hala Stulecia, Wrocław, Polska (2026-04-04) 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hala_Stulecia%2C_Wroc%C5%82aw%2C_Polska_%282026-04-04%29_1.jpg/1280px-Hala_Stulecia%2C_Wroc%C5%82aw%2C_Polska_%282026-04-04%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hala Stulecia, Wrocław, Polska (2026-04-04) 1.jpg · Olgierd Rudak · CC BY-SA 4.0*
+
+![Hala Stulecia, Wrocław, Polska (2026-04-04) 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Hala_Stulecia%2C_Wroc%C5%82aw%2C_Polska_%282026-04-04%29_2.jpg/1280px-Hala_Stulecia%2C_Wroc%C5%82aw%2C_Polska_%282026-04-04%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hala Stulecia, Wrocław, Polska (2026-04-04) 2.jpg · Olgierd Rudak · CC BY-SA 4.0*
 
 ![Centennial Hall in Wrocław](https://whc.unesco.org/uploads/sites/site_1165.jpg)
 
@@ -52,7 +60,23 @@ Hala Stulecia (niem. Jahrhunderthalle), od 1945 także Hala Ludowa – hala wido
 - ✈ **Copernicus Wrocław Airport (WRO)** — 13.6 km
 - ✈ **Zielona Góra-Babimost Airport (IEG)** — 144.7 km
 - ✈ **Poznań-Ławica Airport (POZ)** — 147.2 km
+- 🚉 **Wrocław Główny** — 2.9 km
+- 🚉 **Wrocław Swojczyce** — 3.2 km
+- 🚉 **Wrocław Nadodrze** — 3.7 km
+- 🚉 **Wrocław Sołtysowice** — 4.0 km
+- 🚉 **Wrocław Psie Pole** — 5.6 km
+- ⛴ **Port Miejski** — 4.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7245.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- **The Bridge Wroclaw MGallery** — 2.2 km — star — 5★
+- **DoubleTree by Hilton** — 2.4 km — star — 5★ · DoubleTree
+- **Radisson Blu Hotel** — 2.4 km — star — 5★ · Radisson Blu
+- **Hotel Altus Palace** — 2.9 km — star — 5★
+- **Hotel Monopol** — 3.3 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

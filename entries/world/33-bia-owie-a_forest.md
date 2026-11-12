@@ -8,13 +8,13 @@ country: "BY"
 country_zh: "白俄罗斯"
 country_en: "Belarus"
 unesco_id: "33"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1979"
 criteria: "(ix)(x)"
 lat: 52.75
 lon: 23.95
-updated_at: "2026-11-12T11:30:10Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 比亚沃维耶扎原始森林 / Białowieża Forest
@@ -64,7 +64,22 @@ The Białowieża Forest World Heritage site, on the border between Poland and Be
 - ✈ **Brest International Airport (BQT)** — 71.5 km
 - ✈ **Lublin Airport (LUZ)** — 188.0 km
 - ✈ **Warsaw Chopin Airport (WAW)** — 212.3 km
+- 🚉 **Siemianówka** — 19.0 km
+- 🚉 **Narewka** — 19.4 km
+- 🚉 **Hajnówka Wąskotorowa** — 23.2 km
+- 🚉 **Hajnówka** — 24.8 km
+- 🚉 **Свіслач** — 30.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6773.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hotel Żubrówka** — 9.1 km — star — 4★
+- **Hotel Białowieski** — 7.6 km — star — 3★
+- **Unikat** — 8.3 km — hotel
+- **Gawra** — 9.2 km — hotel
+- **Sioło Budy** — 15.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

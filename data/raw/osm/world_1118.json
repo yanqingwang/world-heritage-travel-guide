@@ -1,0 +1,120 @@
+{
+ "hotels": [
+  {
+   "name": "White Plain Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.7586198,
+   "lon": 4.5311137,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zarah Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.7573062,
+   "lon": 4.5297235,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Flora Suites",
+   "name_en": "Flora Suites",
+   "stars": null,
+   "brand": null,
+   "lat": 7.7870166,
+   "lon": 4.5390802,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Delightsome Hotel and Resorts Ltd",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.8007197,
+   "lon": 4.5112336,
+   "distance_km": 6.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alabama Luxury Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hotel",
+   "lat": 7.808385,
+   "lon": 4.5849048,
+   "distance_km": 7.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 13,
+ "stations": [
+  {
+   "name": "Osogbo",
+   "name_en": null,
+   "lat": 7.7803987,
+   "lon": 4.5477655,
+   "distance_km": 2.9,
+   "operator": null
+  },
+  {
+   "name": "Ede Station",
+   "name_en": null,
+   "lat": 7.75,
+   "lon": 4.433333,
+   "distance_km": 12.9,
+   "operator": null
+  },
+  {
+   "name": "Origo Station",
+   "name_en": null,
+   "lat": 7.6922287,
+   "lon": 4.365094,
+   "distance_km": 21.6,
+   "operator": null
+  },
+  {
+   "name": "Okuku Railway Station",
+   "name_en": null,
+   "lat": 8.033333,
+   "lon": 4.683333,
+   "distance_km": 34.2,
+   "operator": null
+  },
+  {
+   "name": "Ile Igbo Station",
+   "name_en": null,
+   "lat": 7.5980189,
+   "lon": 4.2813662,
+   "distance_km": 34.4,
+   "operator": null
+  },
+  {
+   "name": "Iwo Station",
+   "name_en": null,
+   "lat": 7.5565171,
+   "lon": 4.2048025,
+   "distance_km": 44.0,
+   "operator": null
+  },
+  {
+   "name": "Offa Railway",
+   "name_en": null,
+   "lat": 8.1548933,
+   "lon": 4.7265797,
+   "distance_km": 48.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:13Z"
+}

@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "515"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iii)(iv)"
 lat: 49.65369
 lon: 8.56858
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 洛尔施修道院 / Abbey and Altenmünster of Lorsch
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:14Z"
 
 *Lorsch.jpg · see Wikimedia Commons file page*
 
-![Abbey and Altenmünster of Lorsch](https://whc.unesco.org/uploads/sites/site_515.jpg)
+![0246b Klostermauer Lorsch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/0246b_Klostermauer_Lorsch.jpg/1280px-0246b_Klostermauer_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Abbey and Altenmünster of Lorsch · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0246b Klostermauer Lorsch.jpg · Heinz-Vale · CC BY-SA 4.0*
+
+![2023-06-14 11-52-56 Kloster Lorsch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2023-06-14_11-52-56_Kloster_Lorsch.jpg/1280px-2023-06-14_11-52-56_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2023-06-14 11-52-56 Kloster Lorsch.jpg · Norbert Rau · CC BY-SA 4.0*
+
+![2023-06-14 11-57-23 Kloster Lorsch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023-06-14_11-57-23_Kloster_Lorsch.jpg/1280px-2023-06-14_11-57-23_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2023-06-14 11-57-23 Kloster Lorsch.jpg · Norbert Rau · CC BY-SA 4.0*
+
+![2023-06-14 12-03-54 Kloster Lorsch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2023-06-14_12-03-54_Kloster_Lorsch.jpg/1280px-2023-06-14_12-03-54_Kloster_Lorsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2023-06-14 12-03-54 Kloster Lorsch.jpg · Norbert Rau · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Kloster Lorsch (St. Nazarius) war eine Benediktinerabtei in Lorsch im Landkr
 - ✈ **Mannheim-City Airport (MHG)** — 20.5 km
 - ✈ **Frankfurt Main Airport (FRA)** — 41.5 km
 - ✈ **Frankfurt-Hahn Airport (HHN)** — 99.3 km
+- 🚉 **Lorsch** — 0.6 km
+- 🚉 **Bensheim** — 4.6 km
+- 🚉 **Heppenheim (Bergstr)** — 4.9 km
+- 🚉 **Bensheim-Auerbach** — 6.2 km
+- 🚉 **Bürstadt** — 8.0 km
+- ⛴ **Fähranleger Gernsheim** — 13.0 km
+- ⛴ **Marina-Steganlage " Zum Eicher See"** — 15.1 km
+- ⛴ **Altrheinhafen, Becken 32** — 15.9 km
+- ⛴ **Ölhafen** — 16.2 km
+- ⛴ **Waldhofbecken** — 16.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7830.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Heidelberg Suites** — 28.3 km — star — 5★
+- **Europäischer Hof** — 28.8 km — star — 5★
+- **Hotel Deidesheimer Hof** — 38.7 km — star — 5★
+- **Ketschauer Hof** — 38.9 km — star — 5★
+- **Hyatt Regency Mainz** — 43.3 km — star — 5★ · Hyatt Regency
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

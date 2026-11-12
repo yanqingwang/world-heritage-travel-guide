@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "萩ロイヤルインテリジェントホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4166867,
+   "lon": 131.4097624,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ビジネスホテル　オレンジ",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4147408,
+   "lon": 131.4075069,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "萩本陣",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4147011,
+   "lon": 131.4189197,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "萩ユースホステル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4148399,
+   "lon": 131.3830904,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "景清洞トロン温泉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2885422,
+   "lon": 131.3246407,
+   "distance_km": 17.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 93,
+ "stations": [
+  {
+   "name": "越ヶ浜",
+   "name_en": "Koshigahama",
+   "lat": 34.438941,
+   "lon": 131.422519,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "東萩",
+   "name_en": "Higashi-Hagi",
+   "lat": 34.4169951,
+   "lon": 131.4105197,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "玉江",
+   "name_en": "Tamae",
+   "lat": 34.4054441,
+   "lon": 131.3795987,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "萩",
+   "name_en": "Hagi",
+   "lat": 34.3938041,
+   "lon": 131.4010475,
+   "distance_km": 4.2,
+   "operator": null
+  },
+  {
+   "name": "長門大井",
+   "name_en": "Nagato-Ōi",
+   "lat": 34.4712655,
+   "lon": 131.4498012,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "三見",
+   "name_en": "Sammi",
+   "lat": 34.397333,
+   "lon": 131.3301857,
+   "distance_km": 8.4,
+   "operator": null
+  },
+  {
+   "name": "奈古",
+   "name_en": "Nago",
+   "lat": 34.5028228,
+   "lon": 131.4724664,
+   "distance_km": 9.8,
+   "operator": null
+  },
+  {
+   "name": "飯井",
+   "name_en": "Ii",
+   "lat": 34.3791578,
+   "lon": 131.2950367,
+   "distance_km": 12.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "鶴江の渡し（鶴江台側）",
+   "name_en": null,
+   "lat": 34.4223316,
+   "lon": 131.4025435,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "鶴江の渡し（浜崎側）",
+   "name_en": null,
+   "lat": 34.4217455,
+   "lon": 131.401981,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "萩港",
+   "name_en": null,
+   "lat": 34.423412,
+   "lon": 131.3988262,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "大島港",
+   "name_en": null,
+   "lat": 34.4914202,
+   "lon": 131.4115163,
+   "distance_km": 6.8,
+   "operator": null
+  },
+  {
+   "name": "相島港",
+   "name_en": null,
+   "lat": 34.5016633,
+   "lon": 131.280415,
+   "distance_km": 14.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:00Z"
+}

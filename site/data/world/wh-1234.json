@@ -2,9 +2,9 @@
  "id": "wh-1234",
  "unesco_id": "1234",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 343,
- "popularity_score": 24946,
+ "tier": "full",
+ "popularity_rank": 321,
+ "popularity_score": 23027,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1234.jpg",
-   "title": "Putorana Plateau",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1234",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dendrochronologist_at_work.jpg/1280px-Dendrochronologist_at_work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dendrochronologist at work.jpg",
+   "author": "Ivan Smorkalov",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dendrochronologist_at_work.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lac_Ayan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Lac Ayan.png",
+   "author": "NASA",
+   "license": "Public domain",
+   "credit": "http://explorer.worldwind.earth",
+   "source": "https://commons.wikimedia.org/wiki/File:Lac_Ayan.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lake_Glubokoye_%28Krasnoyarsk_Krai%29_2022-08-03_Sentinel-2_L2A_True_color.jpg/1280px-Lake_Glubokoye_%28Krasnoyarsk_Krai%29_2022-08-03_Sentinel-2_L2A_True_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lake Glubokoye (Krasnoyarsk Krai) 2022-08-03 Sentinel-2 L2A True color.jpg",
+   "author": "European Space Agency",
+   "license": "Attribution",
+   "credit": "https://apps.sentinel-hub.com/eo-browser",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Glubokoye_%28Krasnoyarsk_Krai%29_2022-08-03_Sentinel-2_L2A_True_color.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lama_Lake%2C_Putorana_01.jpg/1280px-Lama_Lake%2C_Putorana_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lama Lake, Putorana 01.jpg",
+   "author": "hunter74",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://wikimapia.org/#lang=fr&lat=69.246419&lon=93.982544&z=8&show=/10024118/fr/Lac-Lama&search=Putorana%20Reserve",
+   "source": "https://commons.wikimedia.org/wiki/File:Lama_Lake%2C_Putorana_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1234",
@@ -168,5 +192,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

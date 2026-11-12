@@ -3,8 +3,8 @@
  "unesco_id": "1028",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 173,
- "popularity_score": 78200,
+ "popularity_rank": 162,
+ "popularity_score": 71446,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -219,6 +219,17 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "Forty Seven Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "WorldHotels",
+   "lat": 53.4780973,
+   "lon": -2.2464489,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "Weetwood Hall",
    "name_en": null,
    "stars": 4,
@@ -237,17 +248,6 @@
    "lat": 53.7933504,
    "lon": -1.5496214,
    "distance_km": 16.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hilton Leeds City",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Hilton",
-   "lat": 53.7936944,
-   "lon": -1.5473199,
-   "distance_km": 16.7,
    "kind": "star",
    "source": "OpenStreetMap"
   }
@@ -323,5 +323,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }

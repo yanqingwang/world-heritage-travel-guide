@@ -2,9 +2,9 @@
  "id": "wh-1295",
  "unesco_id": "1295",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 933,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 252,
+ "popularity_score": 31451,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1295.jpg",
-   "title": "Fort Jesus, Mombasa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1295",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Die_Portugiesenzeit_%28Strandes%29_183.jpg/1280px-Die_Portugiesenzeit_%28Strandes%29_183.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Die Portugiesenzeit (Strandes) 183.jpg",
+   "author": "Justus Strandes (1859–1930)",
+   "license": "Public domain",
+   "credit": "Scan from original book",
+   "source": "https://commons.wikimedia.org/wiki/File:Die_Portugiesenzeit_%28Strandes%29_183.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fort_Jesus-Map-XVIIs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Fort Jesus-Map-XVIIs.jpg",
+   "author": "João Teixera",
+   "license": "Public domain",
+   "credit": "Bibliothèque nationale de Vienne",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Jesus-Map-XVIIs.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fort_Jesus-Map-XVIIs1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Fort Jesus-Map-XVIIs1.jpg",
+   "author": "Ori~",
+   "license": "Public domain",
+   "credit": "Own work after File:Fort Jesus-Map-XVIIs.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Jesus-Map-XVIIs1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fortaleza_de_mombaca.jpg/1280px-Fortaleza_de_mombaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fortaleza de mombaca.jpg",
+   "author": "Pedro Barreto de Resende",
+   "license": "Public domain",
+   "credit": "Livro das Plantas de todas as fortalezas, cidades e povoaçoens do Estado da Índia Oriental",
+   "source": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_mombaca.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1295",
@@ -101,10 +125,124 @@
   ],
   "nearest_airport_km": 10.5,
   "distance_beijing_km": 9199.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Likoni Ferry",
+    "name_en": null,
+    "lat": -4.0783041,
+    "lon": 39.6655941,
+    "distance_km": 2.0,
+    "operator": "Kenya Ferry Services"
+   },
+   {
+    "name": "Mtongwe Ferry",
+    "name_en": null,
+    "lat": -4.0682046,
+    "lon": 39.6423008,
+    "distance_km": 4.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Mombasa Central MGR Station",
+    "name_en": null,
+    "lat": -4.0577275,
+    "lon": 39.6620118,
+    "distance_km": 2.7,
+    "operator": null
+   },
+   {
+    "name": "Changamwe East",
+    "name_en": null,
+    "lat": -4.012411,
+    "lon": 39.6299339,
+    "distance_km": 8.7,
+    "operator": "Kenya Railways"
+   },
+   {
+    "name": "Changamwe West",
+    "name_en": null,
+    "lat": -4.0092437,
+    "lon": 39.6020298,
+    "distance_km": 11.2,
+    "operator": "Kenya railways"
+   },
+   {
+    "name": "Mombasa SGR Terminus",
+    "name_en": null,
+    "lat": -4.0214386,
+    "lon": 39.5793699,
+    "distance_km": 12.7,
+    "operator": null
+   },
+   {
+    "name": "Mazeras",
+    "name_en": null,
+    "lat": -3.9658038,
+    "lon": 39.5483394,
+    "distance_km": 18.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Severin Sea Lodge",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -3.9868983,
+   "lon": 39.7390714,
+   "distance_km": 11.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Reef hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -4.0286323,
+   "lon": 39.7204302,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Travellers Beach Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.992121,
+   "lon": 39.7344232,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bamburi Beach Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.9904416,
+   "lon": 39.736024,
+   "distance_km": 10.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plaza Beach Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.9870718,
+   "lon": 39.7384107,
+   "distance_km": 11.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KE",
   "country_zh": "肯尼亚",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

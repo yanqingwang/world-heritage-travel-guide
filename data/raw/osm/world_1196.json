@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Гатэль Марыінскі",
+   "name_en": "Mariinsky hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 53.1318793,
+   "lon": 26.0144344,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гасцініца Эдэльвейс",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 53.0395465,
+   "lon": 26.2648913,
+   "distance_km": 35.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Палац",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 53.2222743,
+   "lon": 26.6926427,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гатэль Нясвіж",
+   "name_en": "Nesvizh Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 53.2183575,
+   "lon": 26.680833,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гатэль «Беласток»",
+   "name_en": "Hatel \"Belastok\"",
+   "stars": null,
+   "brand": null,
+   "lat": 53.2234482,
+   "lon": 26.677155,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 19,
+ "stations": [
+  {
+   "name": "Гарадзея",
+   "name_en": null,
+   "lat": 53.3149057,
+   "lon": 26.5379772,
+   "distance_km": 14.5,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Клецк",
+   "name_en": null,
+   "lat": 53.0765367,
+   "lon": 26.6599646,
+   "distance_km": 16.4,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Пагарэльцы",
+   "name_en": null,
+   "lat": 53.2044448,
+   "lon": 26.2963582,
+   "distance_km": 26.4,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Цімкавічы",
+   "name_en": null,
+   "lat": 53.0865172,
+   "lon": 27.0324243,
+   "distance_km": 27.3,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Стоўбцы",
+   "name_en": null,
+   "lat": 53.4824032,
+   "lon": 26.7560125,
+   "distance_km": 29.2,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Райтанаў",
+   "name_en": null,
+   "lat": 52.979571,
+   "lon": 26.307327,
+   "distance_km": 37.3,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Коласава",
+   "name_en": null,
+   "lat": 53.5285083,
+   "lon": 26.9256261,
+   "distance_km": 37.4,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Ляхавічы",
+   "name_en": null,
+   "lat": 53.0288636,
+   "lon": 26.2277373,
+   "distance_km": 37.7,
+   "operator": "БЧ"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ільвы",
+   "name_en": null,
+   "lat": 53.230109,
+   "lon": 26.701369,
+   "distance_km": 1.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:47:20Z"
+}

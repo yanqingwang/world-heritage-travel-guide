@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1208"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 29.106111111
 lon: 58.356944444
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 巴姆城及其文化景观 / Bam and its Cultural Landscape
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *بم - panoramio (1).jpg · see Wikimedia Commons file page*
 
-![Bam and its Cultural Landscape](https://whc.unesco.org/uploads/sites/site_1208.jpg)
+![(((بم))) - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%28%28%28%D8%A8%D9%85%29%29%29_-_panoramio.jpg/1280px-%28%28%28%D8%A8%D9%85%29%29%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bam and its Cultural Landscape · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(((بم))) - panoramio.jpg · auoob farabi · CC BY-SA 3.0*
+
+![20250325 172807ارگ بم(ورودی بخش عامه مردم).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/20250325_172807%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D8%AE%D8%B4_%D8%B9%D8%A7%D9%85%D9%87_%D9%85%D8%B1%D8%AF%D9%85%29.jpg/1280px-20250325_172807%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%A8%D8%AE%D8%B4_%D8%B9%D8%A7%D9%85%D9%87_%D9%85%D8%B1%D8%AF%D9%85%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250325 172807ارگ بم(ورودی بخش عامه مردم).jpg · M.afshari9 · CC BY-SA 4.0*
+
+![20250325 173336ارگ بم(نمایه کلی).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/20250325_173336%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%86%D9%85%D8%A7%DB%8C%D9%87_%DA%A9%D9%84%DB%8C%29.jpg/1280px-20250325_173336%D8%A7%D8%B1%DA%AF_%D8%A8%D9%85%28%D9%86%D9%85%D8%A7%DB%8C%D9%87_%DA%A9%D9%84%DB%8C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250325 173336ارگ بم(نمایه کلی).jpg · M.afshari9 · CC BY-SA 4.0*
+
+![Bam (2000) 40.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f6/Bam_%282000%29_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bam (2000) 40.jpg · LBM1948 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,17 @@ Bam is situated in a desert environment on the southern edge of the Iranian high
 - ✈ **Bam Airport (BXR)** — 9.4 km
 - ✈ **Ayatollah Hashemi Rafsanjani International Airport (KER)** — 187.8 km
 - ✈ **Zahedan International Airport (ZAH)** — 250.6 km
+- 🚉 **بم** — 8.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5364.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **هتل پارسیان آزادی بم** — 3.5 km — star — 4★
+- **هتل جهانگردی بم** — 1.2 km — star — Bam Tourist Hotel · 3★
+- **هتل کوروش** — 3.6 km — hotel — Kourosh Hotel
+- **هتل ارگ جدید** — 12.9 km — hotel — Hotel Arg-e-Jadid
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

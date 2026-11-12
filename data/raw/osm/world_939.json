@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Racquet Cuernavaca",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Ostar Grupo Hotelero",
+   "lat": 18.9655665,
+   "lon": -99.2542366,
+   "distance_km": 18.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Las Casas B+B Boutique Hotel, Spa & Restaurante Cuernavaca",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 18.9203931,
+   "lon": -99.2339753,
+   "distance_km": 14.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Camino Real Sumiya",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Camino Real",
+   "lat": 18.8914079,
+   "lon": -99.1917842,
+   "distance_km": 14.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Suites Pintel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 18.9471288,
+   "lon": -99.2223568,
+   "distance_km": 17.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mansión Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 19.1646748,
+   "lon": -99.4596619,
+   "distance_km": 43.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 132,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:37Z"
+}

@@ -8,13 +8,13 @@ country: "MY"
 country_zh: "马来西亚"
 country_en: "Malaysia"
 unesco_id: "1014"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2024"
 criteria: "(iii)(v)"
 lat: 3.813889
 lon: 113.781389
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 尼亚国家公园洞穴考古遗产 / The Archaeological Heritage of Niah National Park’s Caves Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *The main entrance to the Niah Caves at sunset..jpg · see Wikimedia Commons file page*
 
-![The Archaeological Heritage of Niah National Park’s Caves Complex](https://whc.unesco.org/uploads/sites/site_1014.jpg)
+![Araceae (Alocasia sp.) (15660763492).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Araceae_%28Alocasia_sp.%29_%2815660763492%29.jpg/1280px-Araceae_%28Alocasia_sp.%29_%2815660763492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Archaeological Heritage of Niah National Park’s Caves Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Araceae (Alocasia sp.) (15660763492).jpg · Bernard DUPONT from FRANCE · CC BY-SA 2.0*
+
+![Aroid Flower (Scindapsus sp.) (14249106111).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aroid_Flower_%28Scindapsus_sp.%29_%2814249106111%29.jpg/1280px-Aroid_Flower_%28Scindapsus_sp.%29_%2814249106111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aroid Flower (Scindapsus sp.) (14249106111).jpg · Bernard DUPONT from FRANCE · CC BY-SA 2.0*
+
+![Benuang (Octomeles sumatrana) big buttress (15473933249).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Benuang_%28Octomeles_sumatrana%29_big_buttress_%2815473933249%29.jpg/1280px-Benuang_%28Octomeles_sumatrana%29_big_buttress_%2815473933249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Benuang (Octomeles sumatrana) big buttress (15473933249).jpg · Bernard DUPONT from FRANCE · CC BY-SA 2.0*
+
+![Benuang (Octomeles sumatrana) big buttress (15660479965).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Benuang_%28Octomeles_sumatrana%29_big_buttress_%2815660479965%29.jpg/1280px-Benuang_%28Octomeles_sumatrana%29_big_buttress_%2815660479965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Benuang (Octomeles sumatrana) big buttress (15660479965).jpg · Bernard DUPONT from FRANCE · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,15 @@ Gua Niah (Jawi:ڬوا نياه)ialah sebuah gua terletak di pedalaman bandar Mir
 - ✈ **Miri Airport (MYY)** — 60.9 km
 - ✈ **Marudi Airport (MUR)** — 73.2 km
 - ✈ **Bintulu Airport (BTU)** — 114.1 km
+- ⛴ **Pengkalan Lobang** — 2.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3984.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Niah Cave Hotel** — 3.0 km — hotel
+- **Niah Cave Inn** — 3.2 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -3,8 +3,8 @@
  "unesco_id": "138",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 37,
- "popularity_score": 345058,
+ "popularity_rank": 39,
+ "popularity_score": 317869,
  "country": "PK",
  "country_zh": "巴基斯坦",
  "country_en": "Pakistan",
@@ -193,6 +193,17 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "Lakarna Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5508688,
+   "lon": 68.2118584,
+   "distance_km": 25.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "Husnain Hotel Larakna",
    "name_en": null,
    "stars": null,
@@ -211,17 +222,6 @@
    "lat": 27.5519657,
    "lon": 68.2127143,
    "distance_km": 25.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Green Palace Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.5521417,
-   "lon": 68.2134171,
-   "distance_km": 25.9,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -298,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-43",
  "unesco_id": "43",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 328,
- "popularity_score": 26919,
+ "tier": "full",
+ "popularity_rank": 302,
+ "popularity_score": 25098,
  "country": "BG",
  "country_zh": "保加利亚",
  "country_en": "Bulgaria",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_43.jpg",
-   "title": "Madara Rider",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/43",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_35.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 35.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_35.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_36.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 36.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_36.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_37.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 37.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_37.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_38.jpg/1280px-Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Caballero de Madara, reserva histórico-arqueológica Nacional de Madara, Bulgaria, 2016-05-27, DD 38.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caballero_de_Madara%2C_reserva_hist%C3%B3rico-arqueol%C3%B3gica_Nacional_de_Madara%2C_Bulgaria%2C_2016-05-27%2C_DD_38.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/43",
@@ -102,10 +126,116 @@
   ],
   "nearest_airport_km": 57.4,
   "distance_beijing_km": 7011.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Пристанище Белослав",
+    "name_en": null,
+    "lat": 43.1962996,
+    "lon": 27.7210081,
+    "distance_km": 49.6,
+    "operator": "Логистичен Център – Варна ЕАД"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Мадара",
+    "name_en": null,
+    "lat": 43.2746995,
+    "lon": 27.0998543,
+    "distance_km": 1.6,
+    "operator": "БДЖ"
+   },
+   {
+    "name": "Каспичан",
+    "name_en": "Kaspichan",
+    "lat": 43.3116494,
+    "lon": 27.1670769,
+    "distance_km": 5.5,
+    "operator": "НКЖИ"
+   },
+   {
+    "name": "Мътница",
+    "name_en": null,
+    "lat": 43.2830667,
+    "lon": 27.024875,
+    "distance_km": 7.6,
+    "operator": null
+   },
+   {
+    "name": "Плиска",
+    "name_en": "Pliska",
+    "lat": 43.3446001,
+    "lon": 27.0948332,
+    "distance_km": 7.7,
+    "operator": "НКЖИ"
+   },
+   {
+    "name": "Невша",
+    "name_en": null,
+    "lat": 43.2490837,
+    "lon": 27.2843491,
+    "distance_km": 13.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Acktion",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.2743301,
+   "lon": 26.9252344,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rimini",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.2738661,
+   "lon": 26.9242594,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Странноприемница \"Стара Плиска\"",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3634613,
+   "lon": 27.1163304,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ayar palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.349288,
+   "lon": 27.1973559,
+   "distance_km": 10.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Acktion Deluxe",
+   "name_en": "Acktion Deluxe",
+   "stars": null,
+   "brand": null,
+   "lat": 43.2507178,
+   "lon": 26.9564078,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "BG",
   "country_zh": "保加利亚",
@@ -177,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:10Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

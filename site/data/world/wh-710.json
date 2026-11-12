@@ -2,9 +2,9 @@
  "id": "wh-710",
  "unesco_id": "710",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1137,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 316,
+ "popularity_score": 23385,
  "country": "GE",
  "country_zh": "格鲁吉亚",
  "country_en": "Georgia",
@@ -45,11 +45,11 @@
  "intro_local_source": "wikipedia",
  "images": [
   {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kutaisi%2C%20Bagrati%20Cathedral%20%2835702146540%29.jpg?width=1280",
-   "title": "Kutaisi, Bagrati Cathedral (35702146540).jpg",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelati%20Monastery%201.jpg?width=1280",
+   "title": "Gelati Monastery 1.jpg",
    "author": "",
    "license": "see Wikimedia Commons file page",
-   "source": "https://commons.wikimedia.org/wiki/File:Kutaisi%2C%20Bagrati%20Cathedral%20%2835702146540%29.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gelati%20Monastery%201.jpg",
    "provider": "wikimedia_commons"
   },
   {
@@ -103,9 +103,106 @@
   "nearest_airport_km": 26.7,
   "distance_beijing_km": 6005.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "ქუთაისი-1",
+    "name_en": "Kutaisi-1",
+    "lat": 42.2613876,
+    "lon": 42.7131017,
+    "distance_km": 5.8,
+    "operator": "სს \"საქართველოს რკინიგზა\""
+   },
+   {
+    "name": "ქუთაისი-2",
+    "name_en": "Kutaisi-2",
+    "lat": 42.2559979,
+    "lon": 42.6699664,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "რიონი",
+    "name_en": "Rioni",
+    "lat": 42.198543,
+    "lon": 42.7091464,
+    "distance_km": 11.7,
+    "operator": null
+   },
+   {
+    "name": "ბროწეულა",
+    "name_en": "Brotseula",
+    "lat": 42.2005479,
+    "lon": 42.6597619,
+    "distance_km": 13.8,
+    "operator": null
+   },
+   {
+    "name": "არგვეთი",
+    "name_en": "Argveti",
+    "lat": 42.1338624,
+    "lon": 42.9662679,
+    "distance_km": 24.2,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "ბაგრატი",
+   "name_en": "Bagrati",
+   "stars": 5,
+   "brand": null,
+   "lat": 42.2680049,
+   "lon": 42.703504,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "გელათი რეზიდენსი",
+   "name_en": "Gelati Residence",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.2753018,
+   "lon": 42.7114441,
+   "distance_km": 5.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Belona Hotel",
+   "name_en": "Belona Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.269745,
+   "lon": 42.7027517,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ლეგენდს წყალტუბო სპა რეზორტის",
+   "name_en": "Legends Tskaltubo Spa Resort",
+   "stars": 4,
+   "brand": null,
+   "lat": 42.3212795,
+   "lon": 42.6042176,
+   "distance_km": 13.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Riverside",
+   "name_en": "Four Seasons Riverside",
+   "stars": null,
+   "brand": "Four Seasons",
+   "lat": 42.2643794,
+   "lon": 42.7051716,
+   "distance_km": 6.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GE",
   "country_zh": "格鲁吉亚",
@@ -174,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:16Z"
+ "updated_at": "2026-11-12T11:55:29Z"
 }

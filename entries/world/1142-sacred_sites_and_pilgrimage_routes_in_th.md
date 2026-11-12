@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1142"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 33.83694
 lon: 135.77639
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 纪伊山地的圣地与参拜道 / Sacred Sites and Pilgrimage Routes in the Kii Mountain Range
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Daimonzaka8618.JPG · see Wikimedia Commons file page*
 
-![Sacred Sites and Pilgrimage Routes in the Kii Mountain Range](https://whc.unesco.org/uploads/sites/site_1142.jpg)
+![Map Kumano Kodo.png](https://upload.wikimedia.org/wikipedia/commons/d/da/Map_Kumano_Kodo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Sacred Sites and Pilgrimage Routes in the Kii Mountain Range · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map Kumano Kodo.png · ja:利用者: Yosemite · Public domain*
+
+![LocMap of WH Kii Mountain Range.png](https://upload.wikimedia.org/wikipedia/commons/e/ea/LocMap_of_WH_Kii_Mountain_Range.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Kii Mountain Range.png · Original uploader was 光合成 at zh.wikipedia · CC BY-SA 3.0*
+
+![Aerial photograph of the Hongu district.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_photograph_of_the_Hongu_district.jpg/1280px-Aerial_photograph_of_the_Hongu_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial photograph of the Hongu district.jpg · 国土交通省 · Attribution*
+
+![Aerial photograph of the Hongu district.The written version of the name of a place.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_photograph_of_the_Hongu_district.The_written_version_of_the_name_of_a_place.jpg/1280px-Aerial_photograph_of_the_Hongu_district.The_written_version_of_the_name_of_a_place.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial photograph of the Hongu district.The written version of the name of a place.jpg · 国土交通省 · Attribution*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Set in the dense forests of the Kii Mountains overlooking the Pacific Ocean, thr
 - ✈ **Nanki Shirahama Airport (SHM)** — 42.8 km
 - ✈ **Kansai International Airport (KIX)** — 81.9 km
 - ✈ **Kobe Airport (UKB)** — 102.0 km
+- 🚉 **湯ノ口温泉** — 10.9 km
+- 🚉 **瀞流荘** — 12.0 km
+- 🚉 **新宮** — 23.7 km
+- 🚉 **紀伊井田** — 24.4 km
+- 🚉 **阿田和** — 24.8 km
+- ⛴ **Dorokyo boat terminal** — 8.0 km
+- ⛴ **那智勝浦港フェリーターミナル** — 27.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1811.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **旅館湯の峯荘;Yunomineso** — 2.5 km — star — Yunomineso · 3★
+- **ホテル なみ** — 32.1 km — star — Hotel Nami · 3★
+- **Hotel Hanaya** — 38.3 km — star — 2★
+- **j hoppers** — 1.9 km — hotel
+- **旅館よしのや;Yoshinoya** — 1.9 km — hotel — Ryokan Yoshinoya
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

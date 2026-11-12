@@ -2,9 +2,9 @@
  "id": "wh-1565",
  "unesco_id": "1565",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 401,
- "popularity_score": 20647,
+ "tier": "full",
+ "popularity_rank": 369,
+ "popularity_score": 18754,
  "country": "PS",
  "country_zh": "巴勒斯坦",
  "country_en": "Palestine",
@@ -103,9 +103,106 @@
   "nearest_airport_km": 58.0,
   "distance_beijing_km": 7140.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "גן החיות התנ\"כי",
+    "name_en": "Biblical Zoo",
+    "lat": 31.7448338,
+    "lon": 35.1781123,
+    "distance_km": 25.3,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "ירושלים מלחה",
+    "name_en": "Jerusalem Malcha",
+    "lat": 31.7477545,
+    "lon": 35.1882146,
+    "distance_km": 25.9,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "בית שמש",
+    "name_en": "Bet Shemesh",
+    "lat": 31.7578195,
+    "lon": 34.9893645,
+    "distance_km": 28.2,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "ירושלים - יצחק נבון",
+    "name_en": "Jerusalem - Yitzhak Navon",
+    "lat": 31.7881125,
+    "lon": 35.2027658,
+    "distance_km": 30.6,
+    "operator": "רכבת ישראל"
+   },
+   {
+    "name": "קריית גת",
+    "name_en": "Kiryat Gat",
+    "lat": 31.6031494,
+    "lon": 34.7779274,
+    "distance_km": 32.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "מלון המלך דוד",
+   "name_en": "King David Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7743582,
+   "lon": 35.2225158,
+   "distance_km": 29.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "שרתון",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7771582,
+   "lon": 35.2167728,
+   "distance_km": 29.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון וולדורף אסטוריה ירושלים",
+   "name_en": "Waldorf Astoria Jerusalem",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7773467,
+   "lon": 35.2216124,
+   "distance_km": 30.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7774592,
+   "lon": 35.2223554,
+   "distance_km": 30.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 42.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PS",
   "country_zh": "巴勒斯坦國",
@@ -174,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:23Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

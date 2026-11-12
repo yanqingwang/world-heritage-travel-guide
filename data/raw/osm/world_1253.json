@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "ZiJin hotel Jezero",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.0890294,
+   "lon": 22.004954,
+   "distance_km": 25.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Србија ТИС",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.903485,
+   "lon": 22.2777382,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Албо",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.0568713,
+   "lon": 22.1055982,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Inex Krajina",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.2306878,
+   "lon": 22.5296841,
+   "distance_km": 45.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Магура",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 43.7248702,
+   "lon": 22.5894453,
+   "distance_km": 37.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 30,
+ "stations": [
+  {
+   "name": "Зајечар",
+   "name_en": "Zajecar",
+   "lat": 43.9049821,
+   "lon": 22.2730309,
+   "distance_km": 7.0,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Грљан",
+   "name_en": "Grljan",
+   "lat": 43.8559391,
+   "lon": 22.2901946,
+   "distance_km": 9.6,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Вражогрнац",
+   "name_en": "Vrazogrnac",
+   "lat": 43.9536647,
+   "lon": 22.324409,
+   "distance_km": 12.6,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Рготина",
+   "name_en": "Rgotina",
+   "lat": 44.0071878,
+   "lon": 22.2796042,
+   "distance_km": 14.1,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Заграђе",
+   "name_en": "Zagradje",
+   "lat": 44.0337677,
+   "lon": 22.213839,
+   "distance_km": 15.1,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Трнавац",
+   "name_en": "Trnavac",
+   "lat": 43.9974204,
+   "lon": 22.3275402,
+   "distance_km": 15.7,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Бор теретна",
+   "name_en": "Bor teretna",
+   "lat": 44.059958,
+   "lon": 22.1252079,
+   "distance_km": 18.5,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Бор",
+   "name_en": "Bor",
+   "lat": 44.0731421,
+   "lon": 22.1028256,
+   "distance_km": 20.4,
+   "operator": "Инфраструктура железнице Србије"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:47:28Z"
+}

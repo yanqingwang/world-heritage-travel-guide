@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Forss House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 58.5961268,
+   "lon": -3.6604692,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Station Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 58.5917841,
+   "lon": -3.5253968,
+   "distance_km": 25.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Muthu Royal Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 58.5936825,
+   "lon": -3.5210241,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Strathy Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 58.5625472,
+   "lon": -4.0105739,
+   "distance_km": 29.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Commercial Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 58.5138138,
+   "lon": -3.4955052,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 41,
+ "stations": [
+  {
+   "name": "Altnabreac",
+   "name_en": null,
+   "lat": 58.3881251,
+   "lon": -3.7061485,
+   "distance_km": 3.3,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Scotscalder",
+   "name_en": null,
+   "lat": 58.4828499,
+   "lon": -3.55207,
+   "distance_km": 13.8,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Forsinard",
+   "name_en": "Forsinard",
+   "lat": 58.3568564,
+   "lon": -3.8969589,
+   "distance_km": 14.0,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Georgemas Junction",
+   "name_en": null,
+   "lat": 58.5135504,
+   "lon": -3.4513992,
+   "distance_km": 19.9,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Kinbrace",
+   "name_en": null,
+   "lat": 58.2585833,
+   "lon": -3.9411518,
+   "distance_km": 20.7,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Thurso",
+   "name_en": null,
+   "lat": 58.5897358,
+   "lon": -3.5278692,
+   "distance_km": 25.4,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Kildonan",
+   "name_en": null,
+   "lat": 58.1707751,
+   "lon": -3.8690934,
+   "distance_km": 25.5,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Helmsdale",
+   "name_en": "Helmsdale",
+   "lat": 58.1177286,
+   "lon": -3.6591456,
+   "distance_km": 28.2,
+   "operator": "ScotRail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Scrabster",
+   "name_en": null,
+   "lat": 58.6120383,
+   "lon": -3.5401222,
+   "distance_km": 27.6,
+   "operator": null
+  },
+  {
+   "name": "Passenger Terminal",
+   "name_en": null,
+   "lat": 58.6123836,
+   "lon": -3.5397342,
+   "distance_km": 27.7,
+   "operator": null
+  },
+  {
+   "name": "Pentland Ferries",
+   "name_en": null,
+   "lat": 58.6383114,
+   "lon": -3.1617899,
+   "distance_km": 41.4,
+   "operator": null
+  },
+  {
+   "name": "Gills Bay",
+   "name_en": null,
+   "lat": 58.6392153,
+   "lon": -3.1613074,
+   "distance_km": 41.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:17Z"
+}

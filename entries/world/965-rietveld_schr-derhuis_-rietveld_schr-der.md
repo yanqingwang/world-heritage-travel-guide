@@ -8,13 +8,13 @@ country: "NL"
 country_zh: "荷兰王国"
 country_en: "Kingdom of the Netherlands"
 unesco_id: "965"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(i)(ii)"
 lat: 52.085333
 lon: 5.147597
-updated_at: "2026-11-12T11:30:18Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 里特维德-施罗德住宅 / Rietveld Schröderhuis (Rietveld Schröder House)
@@ -52,7 +52,27 @@ Het Rietveld Schröderhuis is een door Truus Schröder-Schräder en Gerrit Rietv
 - ✈ **Amsterdam Airport Schiphol (AMS)** — 36.1 km
 - ✈ **Rotterdam The Hague Airport (RTM)** — 50.7 km
 - ✈ **Eindhoven Airport (EIN)** — 72.3 km
+- 🚉 **De Kromme Rijn** — 0.7 km
+- 🚉 **Stadion Galgenwaard** — 0.7 km
+- 🚉 **Utrecht Maliebaan** — 1.2 km
+- 🚉 **Padualaan** — 1.4 km
+- 🚉 **Heidelberglaan** — 1.8 km
+- ⛴ **Voetveer over de Kruisvaart** — 2.2 km
+- ⛴ **Museumhaven Veilinghaven** — 2.8 km
+- ⛴ **Pont** — 8.0 km
+- ⛴ **Nieuwegein, Veer** — 10.1 km
+- ⛴ **Vianen, Veer** — 10.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7827.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Pestana Amsterdam Riverside** — 34.0 km — star — 5★ · Pestana
+- **Sir Albert** — 34.8 km — star — 5★
+- **Hilton Amsterdam** — 35.0 km — star — 5★ · Hilton
+- **Waldorf Astoria Amsterdam** — 35.4 km — star — 5★ · Waldorf Astoria
+- **Conservatorium** — 35.5 km — star — 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

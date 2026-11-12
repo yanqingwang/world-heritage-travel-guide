@@ -8,13 +8,13 @@ country: "ZA"
 country_zh: "南非"
 country_en: "South Africa"
 unesco_id: "1007"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2004"
 criteria: "(ix)(x)"
 lat: -34.166667
 lon: 18.375
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:32Z"
 ---
 
 # 开普植物保护区 / Cape Floral Region Protected Areas
@@ -45,7 +45,25 @@ Inscribed on the World Heritage List in 2004, the property is located at the sou
 
 - ✈ **Cape Town International Airport (CPT)** — 30.1 km
 - ✈ **George Airport (GRJ)** — 369.1 km
+- 🚉 **Simon's Town** — 5.2 km
+- 🚉 **Glencairn** — 5.3 km
+- 🚉 **Fish Hoek** — 6.2 km
+- 🚉 **Sunny Cove** — 6.2 km
+- 🚉 **Kalk Bay** — 8.2 km
+- ⛴ **Houtbaai** — 13.0 km
+- ⛴ **Nelson Mandela Gateway to Robben Island** — 29.3 km
+- ⛴ **Murray's Harbour** — 41.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12966.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- **One and Only** — 28.9 km — star — 7★
+- **Tintswalo Atlantic Lodge** — 11.3 km — star — 5★
+- **Mount Nelson Hotel** — 26.3 km — star — 5★
+- **Taj Cape Town** — 27.2 km — star — 5★ · Taj
+- **Hyatt Regency Cape Town** — 27.5 km — star — 5★ · Hyatt Regency
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

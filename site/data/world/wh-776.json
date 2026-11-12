@@ -2,8 +2,8 @@
  "id": "wh-776",
  "unesco_id": "776",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 71,
+ "tier": "basic",
+ "popularity_rank": 1136,
  "popularity_score": 189167,
  "country": "JP",
  "country_zh": "日本",
@@ -126,148 +126,10 @@
   ],
   "nearest_airport_km": 17.9,
   "distance_beijing_km": 1534.6,
-  "ferry_terminals": [
-   {
-    "name": "宮島桟橋",
-    "name_en": "Miyajima Ferry Terminal",
-    "lat": 34.3020991,
-    "lon": 132.3222525,
-    "distance_km": 0.7,
-    "operator": null
-   },
-   {
-    "name": "宮島口フェリーのりば旅客ターミナル",
-    "name_en": "Miyajimaguchi Ferry Terminal",
-    "lat": 34.3110993,
-    "lon": 132.3052316,
-    "distance_km": 2.2,
-    "operator": null
-   },
-   {
-    "name": "三高〜宇品",
-    "name_en": null,
-    "lat": 34.2599512,
-    "lon": 132.4076624,
-    "distance_km": 9.0,
-    "operator": null
-   },
-   {
-    "name": "三高桟橋",
-    "name_en": null,
-    "lat": 34.2589998,
-    "lon": 132.4076318,
-    "distance_km": 9.0,
-    "operator": null
-   },
-   {
-    "name": "高田",
-    "name_en": null,
-    "lat": 34.2372684,
-    "lon": 132.4351556,
-    "distance_km": 12.4,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "広電宮島口",
-    "name_en": "Hiroden-Miyajima-guchi",
-    "lat": 34.3117771,
-    "lon": 132.3049223,
-    "distance_km": 2.3,
-    "operator": "広島電鉄"
-   },
-   {
-    "name": "宮島口",
-    "name_en": "Miyajimaguchi",
-    "lat": 34.3123127,
-    "lon": 132.3029382,
-    "distance_km": 2.4,
-    "operator": null
-   },
-   {
-    "name": "宮島ボートレース場",
-    "name_en": null,
-    "lat": 34.3143211,
-    "lon": 132.304935,
-    "distance_km": 2.5,
-    "operator": "広島電鉄"
-   },
-   {
-    "name": "前空",
-    "name_en": "Maezora",
-    "lat": 34.3009973,
-    "lon": 132.2893928,
-    "distance_km": 2.9,
-    "operator": null
-   },
-   {
-    "name": "阿品",
-    "name_en": "Ajina",
-    "lat": 34.3230984,
-    "lon": 132.3143115,
-    "distance_km": 3.1,
-    "operator": "ジェイアール西日本メンテック"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "蔵宿いろは",
-   "name_en": "Kurayado Iroha",
-   "stars": 5,
-   "brand": null,
-   "lat": 34.2996222,
-   "lon": 132.3216408,
-   "distance_km": 0.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "旅館水羽荘",
-   "name_en": "Auberge Mizuhaso",
-   "stars": 3,
-   "brand": null,
-   "lat": 34.2953622,
-   "lon": 132.3162282,
-   "distance_km": 0.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "宮島シーサイドホテル",
-   "name_en": "Miyajima Seaside Hotel",
-   "stars": 3,
-   "brand": null,
-   "lat": 34.3043952,
-   "lon": 132.3350871,
-   "distance_km": 1.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "EN HOTEL",
-   "name_en": "EN Hotel Hiroshima",
-   "stars": 3,
-   "brand": null,
-   "lat": 34.3916119,
-   "lon": 132.4685847,
-   "distance_km": 17.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "山一別館",
-   "name_en": "Yamaichi Bekkan",
-   "stars": 2,
-   "brand": null,
-   "lat": 34.3013929,
-   "lon": 132.322745,
-   "distance_km": 0.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -339,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:16Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

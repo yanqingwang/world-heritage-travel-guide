@@ -8,13 +8,13 @@ country: "AT"
 country_zh: "奥地利"
 country_en: "Austria"
 unesco_id: "1363"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(iv)(v)"
 lat: 47.674596574
 lon: 9.120991545
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:35Z"
 ---
 
 # 阿尔卑斯地区史前湖岸木桩建筑 / Prehistoric Pile Dwellings around the Alps
@@ -52,7 +52,27 @@ Unter der Bezeichnung Prähistorische Pfahlbauten um die Alpen führt die UNESCO
 - ✈ **Bodensee Airport Friedrichshafen (FDH)** — 29.2 km
 - ✈ **Sankt Gallen Altenrhein Airport (ACH)** — 39.1 km
 - ✈ **Zürich Airport (ZRH)** — 49.3 km
+- 🚉 **Tägerwilen-Gottlieben** — 1.9 km
+- 🚉 **Ermatingen** — 2.7 km
+- 🚉 **Tägerwilen Dorf** — 2.7 km
+- 🚉 **Konstanz-Petershausen** — 4.0 km
+- 🚉 **Kreuzlingen** — 4.4 km
+- ⛴ **Gottlieben (Schifflände)** — 1.5 km
+- ⛴ **Ermatingen (See)** — 2.7 km
+- ⛴ **Steg Bodenseeforum (Bofo)** — 3.3 km
+- ⛴ **Anlegestelle-BSB-Konstanz** — 4.6 km
+- ⛴ **Konstanz** — 4.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7900.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Steigenberger Inselhotel Konstanz** — 4.5 km — star — 5★
+- **Riva** — 5.1 km — star — 5★
+- **Lilienberg** — 3.5 km — star — 4★
+- **Strandhotel Löchnerhaus** — 5.4 km — star — 4★
+- **Wellnesshotel Golfpanorama** — 7.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

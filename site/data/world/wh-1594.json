@@ -3,8 +3,8 @@
  "unesco_id": "1594",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 170,
- "popularity_score": 79381,
+ "popularity_rank": 154,
+ "popularity_score": 75757,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -213,6 +213,17 @@
  },
  "hotels": [
   {
+   "name": "Forty Seven Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "WorldHotels",
+   "lat": 53.4780973,
+   "lon": -2.2464489,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "The Lowry Hotel",
    "name_en": null,
    "stars": 5,
@@ -253,17 +264,6 @@
    "lat": 53.0265881,
    "lon": -2.1959627,
    "distance_km": 24.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hilton Garden Inn Manchester Emirates Old Trafford",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Hilton Garden Inn",
-   "lat": 53.4573326,
-   "lon": -2.286558,
-   "distance_km": 24.6,
    "kind": "star",
    "source": "OpenStreetMap"
   }
@@ -339,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

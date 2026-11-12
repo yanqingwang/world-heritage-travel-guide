@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Kampala Serena Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 0.3192287,
+   "lon": 32.586366,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Speke Resort Munyonyo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 0.2370012,
+   "lon": 32.6239672,
+   "distance_km": 12.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Tulip Canaan Kampala",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Golden Tulip",
+   "lat": 0.3259514,
+   "lon": 32.5841973,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SAFFRON BEACH BISTRO & COTTAGES",
+   "name_en": null,
+   "stars": 4,
+   "brand": "SAFFRON BEACH BISTRO & COTTAGES",
+   "lat": 0.0707944,
+   "lon": 32.4816855,
+   "distance_km": 29.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bativa Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 0.3264747,
+   "lon": 32.5722504,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 275,
+ "stations": [
+  {
+   "name": "Kampala",
+   "name_en": null,
+   "lat": 0.3121624,
+   "lon": 32.5887758,
+   "distance_km": 4.4,
+   "operator": null
+  },
+  {
+   "name": "Namboole",
+   "name_en": null,
+   "lat": 0.3477263,
+   "lon": 32.6614932,
+   "distance_km": 12.2,
+   "operator": null
+  },
+  {
+   "name": "Namanve",
+   "name_en": null,
+   "lat": 0.3515149,
+   "lon": 32.6784982,
+   "distance_km": 14.1,
+   "operator": null
+  },
+  {
+   "name": "Kawolongojo",
+   "name_en": null,
+   "lat": 0.4004801,
+   "lon": 32.18234,
+   "distance_km": 42.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Bell",
+   "name_en": null,
+   "lat": 0.288496,
+   "lon": 32.6534725,
+   "distance_km": 12.0,
+   "operator": null
+  },
+  {
+   "name": "Serena Landing site",
+   "name_en": null,
+   "lat": 0.1988949,
+   "lon": 32.5842551,
+   "distance_km": 14.9,
+   "operator": null
+  },
+  {
+   "name": "Nakiwogo Buwaya Ferry",
+   "name_en": null,
+   "lat": 0.0895838,
+   "lon": 32.4393834,
+   "distance_km": 29.5,
+   "operator": null
+  },
+  {
+   "name": "Nakiwogo Car Ferry - Ssese Islands",
+   "name_en": null,
+   "lat": 0.08082,
+   "lon": 32.4488072,
+   "distance_km": 30.0,
+   "operator": null
+  },
+  {
+   "name": "Nakiwogo Canoe Ferry - Bussi Islands",
+   "name_en": null,
+   "lat": 0.0803462,
+   "lon": 32.4492715,
+   "distance_km": 30.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:46:56Z"
+}

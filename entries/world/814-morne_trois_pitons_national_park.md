@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(viii)(x)"
 lat: 15.266667
 lon: -61.283333
-updated_at: "2026-11-12T11:30:17Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 毛恩特鲁瓦皮顿山国家公园 / Morne Trois Pitons National Park

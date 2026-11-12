@@ -1,0 +1,121 @@
+{
+ "hotels": [
+  {
+   "name": "EL Resort Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.4378925,
+   "lon": 46.9783884,
+   "distance_km": 31.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Şəki Saray Otel",
+   "name_en": "Sheki Saray Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 41.2029003,
+   "lon": 47.1785494,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kür Otel",
+   "name_en": "Kur Hotel \\ Mingəçevir",
+   "stars": 4,
+   "brand": "KUR",
+   "lat": 40.7619911,
+   "lon": 47.0384719,
+   "distance_km": 49.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Şəki Otel",
+   "name_en": "Shaki Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.2025401,
+   "lon": 47.1800748,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Karvansaray Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 41.2010218,
+   "lon": 47.1940784,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 51,
+ "stations": [
+  {
+   "name": "Şəki stansiyası",
+   "name_en": null,
+   "lat": 41.068683,
+   "lon": 47.1332628,
+   "distance_km": 14.1,
+   "operator": null
+  },
+  {
+   "name": "Qax Stansiyası",
+   "name_en": null,
+   "lat": 41.3190762,
+   "lon": 46.8702971,
+   "distance_km": 28.8,
+   "operator": null
+  },
+  {
+   "name": "Şəkikənd stansiyası",
+   "name_en": null,
+   "lat": 40.9209997,
+   "lon": 47.2052211,
+   "distance_km": 30.3,
+   "operator": null
+  },
+  {
+   "name": "Qorağan Stansiyası",
+   "name_en": null,
+   "lat": 41.3929029,
+   "lon": 46.755131,
+   "distance_km": 41.3,
+   "operator": null
+  },
+  {
+   "name": "Xanabad Stansiyası",
+   "name_en": null,
+   "lat": 40.792226,
+   "lon": 47.2096005,
+   "distance_km": 44.6,
+   "operator": null
+  },
+  {
+   "name": "Mingəçevir Stansiyası",
+   "name_en": null,
+   "lat": 40.766015,
+   "lon": 47.0097336,
+   "distance_km": 49.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Priçal",
+   "name_en": null,
+   "lat": 40.7666969,
+   "lon": 47.0382871,
+   "distance_km": 48.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:48:05Z"
+}

@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1708"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2024"
 criteria: "(iii)(iv)(vi)"
 lat: 41.841389
 lon: 12.5325
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 阿庇亚道：道路女王 / Via Appia. Regina Viarum
@@ -64,27 +64,7 @@ La via Appia era una strada romana che collegava Roma a Capua. Fu poi prolungata
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 7.0 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 23.6 km
 - ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 139.5 km
-- 🚉 **Capannelle** — 3.2 km
-- 🚉 **Roma Tuscolana** — 4.3 km
-- 🚉 **Roma Prenestina** — 6.4 km
-- 🚉 **Serenissima** — 6.8 km
-- 🚉 **Ciampino** — 6.9 km
-- ⛴ **Isola Tiberina** — 7.2 km
-- ⛴ **Ponte Cavour** — 8.5 km
-- ⛴ **Sant'Angelo** — 8.6 km
-- ⛴ **Ponte Risorgimento** — 10.1 km
-- ⛴ **Anguillara Sabazia** — 35.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hyatt Regency Rome Central** — 6.5 km — star — 5★ · Hyatt
-- **Roma Luxus Hotel** — 7.1 km — star — 5★
-- **NH Collection Hotels Roma Palazzo Cinquecento** — 7.3 km — star — 5★ · NH Collection Hotels
-- **Hotel La Griffe** — 7.4 km — star — 5★
-- **Thompson Hotel** — 7.4 km — star — 5★ · Hyatt
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

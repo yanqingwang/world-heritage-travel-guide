@@ -2,9 +2,9 @@
  "id": "wh-1066",
  "unesco_id": "1066",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 887,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 304,
+ "popularity_score": 24739,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1066.jpg",
-   "title": "Upper Middle Rhine Valley",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1066",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%22St._Nikolaus_I%22.jpg/1280px-%22St._Nikolaus_I%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"St. Nikolaus I\".jpg",
+   "author": "AK-Bino",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22St._Nikolaus_I%22.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/1-214_CAB_take_%22Final_Flight%22_over_Southern_Germany_before_Change_of_Command_%289174172%29.jpg/1280px-1-214_CAB_take_%22Final_Flight%22_over_Southern_Germany_before_Change_of_Command_%289174172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1-214 CAB take \"Final Flight\" over Southern Germany before Change of Command (9174172).jpg",
+   "author": "U.S. Amy photo by Claudia Neve",
+   "license": "Public domain",
+   "credit": "This image was released by the United States Army with the ID 250616-A-CV950-7146 (next) . This tag does not indicate the copyright status of the attached work.",
+   "source": "https://commons.wikimedia.org/wiki/File:1-214_CAB_take_%22Final_Flight%22_over_Southern_Germany_before_Change_of_Command_%289174172%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/4_Hartsteinwerke_Sooneck_34DSC_0460_%2845685241104%29.jpg/1280px-4_Hartsteinwerke_Sooneck_34DSC_0460_%2845685241104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "4 Hartsteinwerke Sooneck 34DSC 0460 (45685241104).jpg",
+   "author": "János Korom Dr. >17 Million views from Wien, Austria",
+   "license": "CC BY-SA 2.0",
+   "credit": "4 Hartsteinwerke Sooneck 34DSC_0460",
+   "source": "https://commons.wikimedia.org/wiki/File:4_Hartsteinwerke_Sooneck_34DSC_0460_%2845685241104%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Aerial_image_of_the_Lorelei.jpg/1280px-Aerial_image_of_the_Lorelei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial image of the Lorelei.jpg",
+   "author": "Carsten Steger",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Lorelei.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1066",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 39.9,
   "distance_beijing_km": 7865.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Sankt Goarshausen",
+    "name_en": null,
+    "lat": 50.1532559,
+    "lon": 7.717472,
+    "distance_km": 2.8,
+    "operator": "Fähre Loreley GmbH & Co. KG"
+   },
+   {
+    "name": "KD-Anlegestelle St. Goar",
+    "name_en": null,
+    "lat": 50.1509859,
+    "lon": 7.7162513,
+    "distance_km": 3.0,
+    "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+   },
+   {
+    "name": "Sankt Goar",
+    "name_en": null,
+    "lat": 50.1501928,
+    "lon": 7.7177448,
+    "distance_km": 3.1,
+    "operator": "Fähre Loreley GmbH & Co. KG"
+   },
+   {
+    "name": "KD Anleger Bad Salzig",
+    "name_en": null,
+    "lat": 50.2068584,
+    "lon": 7.635664,
+    "distance_km": 5.6,
+    "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+   },
+   {
+    "name": "KD-Anlegestelle Oberwesel",
+    "name_en": null,
+    "lat": 50.1078682,
+    "lon": 7.7289852,
+    "distance_km": 7.7,
+    "operator": "Köln Düsseldorfer Deutsche Rheinschiffahrt AG"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "St. Goar",
+    "name_en": null,
+    "lat": 50.1500951,
+    "lon": 7.7145404,
+    "distance_km": 3.0,
+    "operator": "DB Netz AG;DB Station&Service AG"
+   },
+   {
+    "name": "Kamp-Bornhofen",
+    "name_en": null,
+    "lat": 50.2279315,
+    "lon": 7.6183036,
+    "distance_km": 8.1,
+    "operator": "DB Netz AG;DB Station&Service AG"
+   },
+   {
+    "name": "Oberwesel",
+    "name_en": null,
+    "lat": 50.1041366,
+    "lon": 7.731883,
+    "distance_km": 8.2,
+    "operator": "DB Netz AG"
+   },
+   {
+    "name": "Emmelshausen",
+    "name_en": null,
+    "lat": 50.1576397,
+    "lon": 7.560506,
+    "distance_km": 9.7,
+    "operator": "DB Netz AG"
+   },
+   {
+    "name": "Boppard Hbf",
+    "name_en": null,
+    "lat": 50.2314019,
+    "lon": 7.5860131,
+    "distance_km": 10.0,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Dorint Pallas Wiesbaden",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Dorint",
+   "lat": 50.0740899,
+   "lon": 8.2462063,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bad Salzig Park Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.204014,
+   "lon": 7.628036,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landhotel Becker",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.2147197,
+   "lon": 7.6283741,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel & Residenz Rheinpracht",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.2151612,
+   "lon": 7.6253164,
+   "distance_km": 6.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Burghotel Schönburg",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.1011261,
+   "lon": 7.7323604,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

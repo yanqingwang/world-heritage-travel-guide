@@ -2,9 +2,9 @@
  "id": "wh-543",
  "unesco_id": "543",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 341,
- "popularity_score": 25679,
+ "tier": "full",
+ "popularity_rank": 317,
+ "popularity_score": 23382,
  "country": "UZ",
  "country_zh": "乌兹别克斯坦",
  "country_en": "Uzbekistan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_543.jpg",
-   "title": "Itchan Kala",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/543",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/205_Venedores_a_la_pla%C3%A7a_de_la_madrassa_d%27Islam_Khodja%2C_davant_l%27Escola_Russa_%28Khiv%C3%A0%29.jpg/1280px-205_Venedores_a_la_pla%C3%A7a_de_la_madrassa_d%27Islam_Khodja%2C_davant_l%27Escola_Russa_%28Khiv%C3%A0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "205 Venedores a la plaça de la madrassa d'Islam Khodja, davant l'Escola Russa (Khivà).jpg",
+   "author": "Enric",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:205_Venedores_a_la_pla%C3%A7a_de_la_madrassa_d%27Islam_Khodja%2C_davant_l%27Escola_Russa_%28Khiv%C3%A0%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum_2.jpg/1280px-Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abulgazi Muhammad Rahim Khan 1 Mausoleum 2.jpg",
+   "author": "Nassima Chahboun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum.jpg/1280px-Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abulgazi Muhammad Rahim Khan 1 Mausoleum.jpg",
+   "author": "Nassima Chahboun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Abulgazi_Muhammad_Rahim_Khan_1_Mausoleum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Allaquli_Muhammad_Bahadirkhan_mausoleum.jpg/1280px-Allaquli_Muhammad_Bahadirkhan_mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Allaquli Muhammad Bahadirkhan mausoleum.jpg",
+   "author": "Nassima Chahboun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Allaquli_Muhammad_Bahadirkhan_mausoleum.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/543",
@@ -103,9 +127,106 @@
   "nearest_airport_km": 32.8,
   "distance_beijing_km": 4625.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Xiva",
+    "name_en": "Khiva",
+    "lat": 41.3771547,
+    "lon": 60.3765965,
+    "distance_km": 1.4,
+    "operator": "UzRailways"
+   },
+   {
+    "name": "Urganch",
+    "name_en": "Urgench",
+    "lat": 41.536503,
+    "lon": 60.6321451,
+    "distance_km": 28.8,
+    "operator": null
+   },
+   {
+    "name": "Urganch Aeroporti",
+    "name_en": "Urgench Airport",
+    "lat": 41.5836997,
+    "lon": 60.6347209,
+    "distance_km": 32.4,
+    "operator": null
+   },
+   {
+    "name": "Ханки",
+    "name_en": "Khanki",
+    "lat": 41.4663065,
+    "lon": 60.7707647,
+    "distance_km": 35.7,
+    "operator": null
+   },
+   {
+    "name": "Шават",
+    "name_en": null,
+    "lat": 41.7071568,
+    "lon": 60.2757229,
+    "distance_km": 37.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Asia Khiva",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.3741243,
+   "lon": 60.3585565,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Karavan mehmonxonasi",
+   "name_en": "Karavan hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.5461913,
+   "lon": 60.6190398,
+   "distance_km": 28.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "O'zbekiston mehmonxonasi",
+   "name_en": "Uzbekistan Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.5667534,
+   "lon": 60.6313332,
+   "distance_km": 30.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Turon mehmonxonasi",
+   "name_en": "Turon",
+   "stars": 2,
+   "brand": null,
+   "lat": 41.5343996,
+   "lon": 60.6614801,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Green Grand Garden",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 41.5332988,
+   "lon": 60.6008694,
+   "distance_km": 26.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "UZ",
   "country_zh": "乌兹别克斯坦",
@@ -178,5 +299,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-421",
  "unesco_id": "421",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 307,
- "popularity_score": 30011,
+ "tier": "full",
+ "popularity_rank": 280,
+ "popularity_score": 27739,
  "country": "NZ",
  "country_zh": "新西兰",
  "country_en": "New Zealand",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_421.jpg",
-   "title": "Tongariro National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/421",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/A_Magnificient_View%21_%2852393757485%29.jpg/1280px-A_Magnificient_View%21_%2852393757485%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Magnificient View! (52393757485).jpg",
+   "author": "Geoff McKay from Palmerston North, New Zealand",
+   "license": "CC BY 2.0",
+   "credit": "A Magnificient View!",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Magnificient_View%21_%2852393757485%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Admiring_the_view..._%2853369591873%29.jpg/1280px-Admiring_the_view..._%2853369591873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Admiring the view... (53369591873).jpg",
+   "author": "Geoff McKay from Palmerston North, New Zealand",
+   "license": "CC BY 2.0",
+   "credit": "Admiring the view...",
+   "source": "https://commons.wikimedia.org/wiki/File:Admiring_the_view..._%2853369591873%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Aerial_view_of_a_snow-covered_mountain_top_%28AM_77090-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Aerial view of a snow-covered mountain top (AM 77090-1).jpg",
+   "author": "Collins, Tudor Washington, 1898-1970, photographer",
+   "license": "CC BY 4.0",
+   "credit": "API data Catalogue record Photo",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_a_snow-covered_mountain_top_%28AM_77090-1%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ascent_of_Tongariro_%28Unsplash%29.jpg/1280px-Ascent_of_Tongariro_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ascent of Tongariro (Unsplash).jpg",
+   "author": "Antoine Barrès antoinebarres",
+   "license": "CC0",
+   "credit": "https://unsplash.com/photos/CfU-yAa-W5w Image at the Wayback Machine Gallery at the Wayback Machine",
+   "source": "https://commons.wikimedia.org/wiki/File:Ascent_of_Tongariro_%28Unsplash%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/421",
@@ -100,9 +124,74 @@
   "nearest_airport_km": 67.0,
   "distance_beijing_km": 10645.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Taumarunui",
+    "name_en": null,
+    "lat": -38.8826708,
+    "lon": 175.2647468,
+    "distance_km": 44.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": -38.8835844,
+   "lon": 175.2577048,
+   "distance_km": 45.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Skotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.1997585,
+   "lon": 175.543023,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pukenui Lodge",
+   "name_en": "Pukenui Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": -39.1736091,
+   "lon": 175.4012373,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Park Hotel Ruapehu",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.1726099,
+   "lon": 175.4012785,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tongariro Crossing Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.171671,
+   "lon": 175.3985052,
+   "distance_km": 16.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NZ",
   "country_zh": "新西兰",
@@ -176,5 +265,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

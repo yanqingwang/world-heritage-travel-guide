@@ -2,9 +2,9 @@
  "id": "wh-669",
  "unesco_id": "669",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1130,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 343,
+ "popularity_score": 20444,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Camino%20Primitivo%20%281433111595%29.jpg",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Route_between_Sarria_and_Santiago_de_Compostela_on_the_French_Way.svg/1280px-Route_between_Sarria_and_Santiago_de_Compostela_on_the_French_Way.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Route between Sarria and Santiago de Compostela on the French Way.svg",
+   "author": "WikiPate",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work , credit to Tschubby, https://commons.wikimedia.org/wiki/File:Relief_map_of_Spain_Asturias_and_Galicia.png and for the logo: Manfred Zentgraf, https://",
+   "source": "https://commons.wikimedia.org/wiki/File:Route_between_Sarria_and_Santiago_de_Compostela_on_the_French_Way.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Route_von_Sarria_nach_Santiago_de_Compostela_auf_dem_Camino_Frances.svg/1280px-Route_von_Sarria_nach_Santiago_de_Compostela_auf_dem_Camino_Frances.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Route von Sarria nach Santiago de Compostela auf dem Camino Frances.svg",
+   "author": "WikiPate",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work , credit to Tschubby, https://commons.wikimedia.org/wiki/File:Relief_map_of_Spain_Asturias_and_Galicia.png and for the logo: Manfred Zentgraf, https://",
+   "source": "https://commons.wikimedia.org/wiki/File:Route_von_Sarria_nach_Santiago_de_Compostela_auf_dem_Camino_Frances.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ruta_del_Camino_de_Santiago_Frances.svg/1280px-Ruta_del_Camino_de_Santiago_Frances.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ruta del Camino de Santiago Frances.svg",
+   "author": "jynus",
+   "license": "CC BY-SA 2.5",
+   "credit": "Image created by me using Inkscape, based on Image:Europe countries.svg , by User:Tintazul .",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruta_del_Camino_de_Santiago_Frances.svg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_669.jpg",
@@ -106,9 +130,106 @@
   "nearest_airport_km": 39.8,
   "distance_beijing_km": 9081.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Caneiru",
+    "name_en": null,
+    "lat": 43.5418774,
+    "lon": -6.4460113,
+    "distance_km": 23.1,
+    "operator": null
+   },
+   {
+    "name": "Cadavedo",
+    "name_en": null,
+    "lat": 43.5428908,
+    "lon": -6.3918198,
+    "distance_km": 23.2,
+    "operator": null
+   },
+   {
+    "name": "Luarca",
+    "name_en": null,
+    "lat": 43.5375773,
+    "lon": -6.5366703,
+    "distance_km": 24.6,
+    "operator": "Renfe"
+   },
+   {
+    "name": "Grado",
+    "name_en": null,
+    "lat": 43.3944345,
+    "lon": -6.063731,
+    "distance_km": 29.1,
+    "operator": "Adif"
+   },
+   {
+    "name": "Pravia",
+    "name_en": null,
+    "lat": 43.4911431,
+    "lon": -6.1106188,
+    "distance_km": 30.1,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Blau Gran Hotel Las Caldas",
+   "name_en": null,
+   "stars": 5,
+   "brand": "blau hotels",
+   "lat": 43.3315673,
+   "lon": -5.9239674,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Castillo del Bosque la Zoreda",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.323961,
+   "lon": -5.869781,
+   "distance_km": 44.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Barceló Oviedo Cervantes",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Barceló Hotels & Resorts",
+   "lat": 43.3624551,
+   "lon": -5.8559481,
+   "distance_km": 45.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel de la Reconquista",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars",
+   "lat": 43.3636991,
+   "lon": -5.8543335,
+   "distance_km": 45.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parador Nacional de Corias",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Paradores",
+   "lat": 43.1947934,
+   "lon": -6.5436791,
+   "distance_km": 18.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -180,5 +301,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:15Z"
+ "updated_at": "2026-11-12T11:55:29Z"
 }

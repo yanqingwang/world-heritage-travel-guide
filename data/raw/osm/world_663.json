@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "あきた白神温泉ホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.3283058,
+   "lon": 140.0274278,
+   "distance_km": 19.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ゆだんの宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6265,
+   "lon": 140.2523848,
+   "distance_km": 20.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "嶽温泉山のホテル",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6303466,
+   "lon": 140.2682405,
+   "distance_km": 20.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "あそべの森いわき荘",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6203178,
+   "lon": 140.3347272,
+   "distance_km": 22.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "温泉旅館 中野",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.6189524,
+   "lon": 140.3434828,
+   "distance_km": 22.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 80,
+ "stations": [
+  {
+   "name": "八森",
+   "name_en": "Hachimori",
+   "lat": 40.370987,
+   "lon": 140.0181367,
+   "distance_km": 17.6,
+   "operator": null
+  },
+  {
+   "name": "滝ノ間",
+   "name_en": "Takinoma",
+   "lat": 40.3802448,
+   "lon": 140.0019305,
+   "distance_km": 18.4,
+   "operator": null
+  },
+  {
+   "name": "あきた白神",
+   "name_en": "Akitashirakami",
+   "lat": 40.3866983,
+   "lon": 139.9875353,
+   "distance_km": 19.2,
+   "operator": null
+  },
+  {
+   "name": "東八森",
+   "name_en": "Higashi-Hachimori",
+   "lat": 40.3316572,
+   "lon": 140.0325541,
+   "distance_km": 19.3,
+   "operator": null
+  },
+  {
+   "name": "岩館",
+   "name_en": "Iwadate",
+   "lat": 40.40601,
+   "lon": 139.966707,
+   "distance_km": 20.2,
+   "operator": null
+  },
+  {
+   "name": "大間越",
+   "name_en": "Ōmagoshi",
+   "lat": 40.4924738,
+   "lon": 139.9501457,
+   "distance_km": 21.5,
+   "operator": null
+  },
+  {
+   "name": "沢目",
+   "name_en": "Sawame",
+   "lat": 40.2965565,
+   "lon": 140.0377814,
+   "distance_km": 21.9,
+   "operator": null
+  },
+  {
+   "name": "白神岳登山口",
+   "name_en": "Shirakamidaketozanguchi",
+   "lat": 40.512981,
+   "lon": 139.9503412,
+   "distance_km": 22.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:18Z"
+}

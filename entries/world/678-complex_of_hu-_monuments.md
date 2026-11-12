@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "678"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
 lat: 19.283347222142858
 lon: 106.81887417457145
-updated_at: "2026-11-12T11:30:15Z"
+updated_at: "2026-11-12T11:55:29Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments
@@ -23,25 +23,25 @@ updated_at: "2026-11-12T11:30:15Z"
 
 ## 图片 / Images
 
-![Citadel Hue.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Citadel%20Hue.jpg?width=1280)
+![Vietnam, Hue, Imperial City of Hue, Meridian Gate 2.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Vietnam%2C%20Hue%2C%20Imperial%20City%20of%20Hue%2C%20Meridian%20Gate%202.jpg?width=1280)
 
-*Citadel Hue.jpg · see Wikimedia Commons file page*
+*Vietnam, Hue, Imperial City of Hue, Meridian Gate 2.jpg · see Wikimedia Commons file page*
 
-![26587027158 0f752c94ce h OXPK.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/26587027158_0f752c94ce_h_OXPK.jpg/1280px-26587027158_0f752c94ce_h_OXPK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![18 photogr. d'Annam et du Tonkin, par P. Dieulefils, photogr. à Hanoi, et Rigal, dont les portraits du jeune roi d'Annam, Tam-thaï, et du défunt roi, Dong-Khanh, don Camille Paris en 1892 - btv1b531743452 (14 of 18).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/18_photogr._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_photogr._%C3%A0_Hanoi%2C_et_Rigal%2C_dont_les_portraits_du_jeune_roi_d%27Annam%2C_Tam-tha%C3%AF%2C_et_du_d%C3%A9funt_roi%2C_Dong-Khanh%2C_don_Camille_Paris_en_1892_-_btv1b531743452_%2814_of_18%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*26587027158 0f752c94ce h OXPK.jpg · Unknown author Unknown author · CC0*
+*18 photogr. d'Annam et du Tonkin, par P. Dieulefils, photogr. à Hanoi, et Rigal, dont les portraits du jeune roi d'Annam, Tam-thaï, et du défunt roi, Dong-Khanh, don Camille Paris en 1892 - btv1b531743452 (14 of 18).jpg · Dieulefils, P. (18..-18..?). Photographe Rigal (18..-18..?). Photographe · Public domain*
 
-![26587027168 0fd23e2736 h ZWIK.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/26587027168_0fd23e2736_h_ZWIK.jpg/1280px-26587027168_0fd23e2736_h_ZWIK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (03 of 30).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2803_of_30%29.jpg/1280px-30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2803_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*26587027168 0fd23e2736 h ZWIK.jpg · Unknown author Unknown author · CC0*
+*30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (03 of 30).jpg · Dieulefils, P. (18..-18..?). Photographe Pérot, E. (18..-19..?). Photographe Rigal (18..-18..?). Photographe · Public domain*
 
-![27482324309 9077e026d1 h TPNY.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/27482324309_9077e026d1_h_TPNY.jpg/1280px-27482324309_9077e026d1_h_TPNY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (04 of 30).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2804_of_30%29.jpg/1280px-30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2804_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*27482324309 9077e026d1 h TPNY.jpg · Unknown author Unknown author · CC0*
+*30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (04 of 30).jpg · Dieulefils, P. (18..-18..?). Photographe Pérot, E. (18..-19..?). Photographe Rigal (18..-18..?). Photographe · Public domain*
 
-![4.4 Hue-23 (36458207732).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/4.4_Hue-23_%2836458207732%29.jpg/1280px-4.4_Hue-23_%2836458207732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (09 of 30).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2809_of_30%29.jpg/1280px-30_phot._d%27Annam_et_du_Tonkin%2C_par_P._Dieulefils%2C_P%C3%A9rot%2C_Rigal%2C_don_Camille_Paris_en_1892_-_btv1b53174374v_%2809_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*4.4 Hue-23 (36458207732).jpg · Esmée Winnubst · CC BY 2.0*
+*30 phot. d'Annam et du Tonkin, par P. Dieulefils, Pérot, Rigal, don Camille Paris en 1892 - btv1b53174374v (09 of 30).jpg · Dieulefils, P. (18..-18..?). Photographe Pérot, E. (18..-19..?). Photographe Rigal (18..-18..?). Photographe · Public domain*
 
 ## 简介 / Introduction
 
@@ -64,27 +64,7 @@ Hoàng thành Huế (chữ Hán: 皇城) hay còn được gọi là Đại Nộ
 - ✈ **Vinh Airport (VII)** — 135.1 km
 - ✈ **Tho Xuan Airport (THD)** — 157.4 km
 - ✈ **Cat Bi International Airport (HPH)** — 170.9 km
-- 🚉 **Huế** — 1.4 km
-- 🚉 **Văn Xá** — 9.0 km
-- 🚉 **Hương Thuỷ** — 10.9 km
-- 🚉 **Hiền Sỹ** — 16.8 km
-- 🚉 **Phò Trạch** — 26.3 km
-- ⛴ **Moonlight Cruises** — 1.1 km
-- ⛴ **Thien Mu Boat Station** — 4.0 km
-- ⛴ **Truồi** — 26.4 km
-- ⛴ **Bến Tàu Túy Vân** — 36.3 km
-- ⛴ **Cầu Hai** — 38.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2593.0 km**
-
-## 附近酒店 / Nearby hotels
-
-- **La Résidence** — 1.2 km — star — 5★ · Azerai
-- **Silk Path Grand Hue Hotel** — 1.3 km — star — 5★ · Silk Path
-- **Imperial** — 1.5 km — star — 5★
-- **Khách sạn Indochine Palace** — 2.4 km — star — Indochine Palace · 5★
-- **Camellia** — 1.9 km — star — 4★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(ii)(iii)(iv)"
 lat: 37.074
 lon: 22.3673
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:27Z"
 ---
 
 # 米斯特拉斯考古遗址 / Archaeological Site of Mystras
@@ -64,11 +64,19 @@ Mystras, the 'wonder of the Morea', was built as an amphitheatre around the fort
 - ✈ **Kalamata Airport (KLX)** — 30.3 km
 - ✈ **Kithira Airport (KIT)** — 106.2 km
 - ✈ **Patras Araxos Agamemnon Airport (GPA)** — 145.7 km
+- 🚉 **Καλαμάτα** — 23.3 km
+- 🚉 **Ασπρόχωμα** — 27.0 km
+- ⛴ **Λιμάνι Καλαμάτας** — 23.4 km
+- ⛴ **Γύθειο** — 39.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7800.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Horizon Blu** — 21.4 km — star — 5★
+- **Λήδα** — 5.1 km — star — 4★
+- **Pharae Palace Hotel** — 22.9 km — star — 4★
+- **LAS HOTEL & SPA** — 39.1 km — star — 4★
+- **Manifest Boutique Hotel** — 41.6 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

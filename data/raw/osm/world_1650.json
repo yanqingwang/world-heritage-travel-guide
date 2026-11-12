@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Art Hotel Commercianti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4925464,
+   "lon": 11.3424465,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Touring",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4889603,
+   "lon": 11.3426323,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zanhotel Tre Vecchi",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4995205,
+   "lon": 11.3443649,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Suite Hotel Elite",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.5016995,
+   "lon": 11.3198597,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Elite",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.5015929,
+   "lon": 11.3201326,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 384,
+ "stations": [
+  {
+   "name": "Bologna Centrale",
+   "name_en": null,
+   "lat": 44.5058779,
+   "lon": 11.3433433,
+   "distance_km": 1.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Bologna Centrale Alta Velocità",
+   "name_en": null,
+   "lat": 44.507242,
+   "lon": 11.3429171,
+   "distance_km": 1.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Bologna Zanolini",
+   "name_en": null,
+   "lat": 44.4978306,
+   "lon": 11.3597377,
+   "distance_km": 2.3,
+   "operator": "Ferrovie Emilia Romagna"
+  },
+  {
+   "name": "Bologna San Vitale",
+   "name_en": null,
+   "lat": 44.496028,
+   "lon": 11.3730902,
+   "distance_km": 3.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Lazzaretto",
+   "name_en": null,
+   "lat": 44.5178846,
+   "lon": 11.3178738,
+   "distance_km": 3.2,
+   "operator": "Marconi Express"
+  },
+  {
+   "name": "Bologna Mazzini",
+   "name_en": null,
+   "lat": 44.4826161,
+   "lon": 11.3762573,
+   "distance_km": 3.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Bologna Fiere",
+   "name_en": null,
+   "lat": 44.5128098,
+   "lon": 11.3686679,
+   "distance_km": 3.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Bologna San Ruffillo",
+   "name_en": null,
+   "lat": 44.4626716,
+   "lon": 11.3730831,
+   "distance_km": 4.5,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:48:17Z"
+}

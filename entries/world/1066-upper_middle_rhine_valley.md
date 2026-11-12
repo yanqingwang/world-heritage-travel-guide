@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "1066"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2002"
 criteria: "(ii)(iv)(v)"
 lat: 50.1736
 lon: 7.694169444
-updated_at: "2026-11-12T11:30:19Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 莱茵河中上游河谷 / Upper Middle Rhine Valley
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:19Z"
 
 *Mittelrhein Burg Katz.jpg · see Wikimedia Commons file page*
 
-![Upper Middle Rhine Valley](https://whc.unesco.org/uploads/sites/site_1066.jpg)
+!["St. Nikolaus I".jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%22St._Nikolaus_I%22.jpg/1280px-%22St._Nikolaus_I%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Upper Middle Rhine Valley · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"St. Nikolaus I".jpg · AK-Bino · CC BY-SA 4.0*
+
+![1-214 CAB take "Final Flight" over Southern Germany before Change of Command (9174172).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/1-214_CAB_take_%22Final_Flight%22_over_Southern_Germany_before_Change_of_Command_%289174172%29.jpg/1280px-1-214_CAB_take_%22Final_Flight%22_over_Southern_Germany_before_Change_of_Command_%289174172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1-214 CAB take "Final Flight" over Southern Germany before Change of Command (9174172).jpg · U.S. Amy photo by Claudia Neve · Public domain*
+
+![4 Hartsteinwerke Sooneck 34DSC 0460 (45685241104).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/4_Hartsteinwerke_Sooneck_34DSC_0460_%2845685241104%29.jpg/1280px-4_Hartsteinwerke_Sooneck_34DSC_0460_%2845685241104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4 Hartsteinwerke Sooneck 34DSC 0460 (45685241104).jpg · János Korom Dr. >17 Million views from Wien, Austria · CC BY-SA 2.0*
+
+![Aerial image of the Lorelei.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Aerial_image_of_the_Lorelei.jpg/1280px-Aerial_image_of_the_Lorelei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial image of the Lorelei.jpg · Carsten Steger · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,27 @@ Das Obere Mittelrheintal (vereinzelt auch Obermittelrheintal) ist eine naturräu
 - ✈ **Frankfurt-Hahn Airport (HHN)** — 39.9 km
 - ✈ **Frankfurt Main Airport (FRA)** — 63.8 km
 - ✈ **Cologne Bonn Airport (CGN)** — 86.3 km
+- 🚉 **St. Goar** — 3.0 km
+- 🚉 **Kamp-Bornhofen** — 8.1 km
+- 🚉 **Oberwesel** — 8.2 km
+- 🚉 **Emmelshausen** — 9.7 km
+- 🚉 **Boppard Hbf** — 10.0 km
+- ⛴ **Sankt Goarshausen** — 2.8 km
+- ⛴ **KD-Anlegestelle St. Goar** — 3.0 km
+- ⛴ **Sankt Goar** — 3.1 km
+- ⛴ **KD Anleger Bad Salzig** — 5.6 km
+- ⛴ **KD-Anlegestelle Oberwesel** — 7.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7865.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Dorint Pallas Wiesbaden** — 40.9 km — star — 5★ · Dorint
+- **Bad Salzig Park Hotel** — 5.8 km — star — 4★
+- **Landhotel Becker** — 6.5 km — star — 4★
+- **Hotel & Residenz Rheinpracht** — 6.7 km — star — 4★
+- **Burghotel Schönburg** — 8.5 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

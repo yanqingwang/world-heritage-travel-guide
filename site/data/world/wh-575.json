@@ -2,9 +2,9 @@
  "id": "wh-575",
  "unesco_id": "575",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 423,
- "popularity_score": 18352,
+ "tier": "full",
+ "popularity_rank": 391,
+ "popularity_score": 16856,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_575.jpg",
-   "title": "Ban Chiang Archaeological Site",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/575",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ban_Chaing._Prehistory.jpg/1280px-Ban_Chaing._Prehistory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ban Chaing. Prehistory.jpg",
+   "author": "SF12",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Chaing._Prehistory.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ban_Chiang_Archaeological_Site_UNESCO_plaque.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ban Chiang Archaeological Site UNESCO plaque.JPG",
+   "author": "The original uploader was Akiponkun at Japanese Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from ja.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Chiang_Archaeological_Site_UNESCO_plaque.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Ban_Chiang_Archaeological_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ban Chiang Archaeological Site.jpg",
+   "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+   "license": "CC BY 2.5",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Chiang_Archaeological_Site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ban_Chiang_excavations.jpg/1280px-Ban_Chiang_excavations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ban Chiang excavations.jpg",
+   "author": "Steve from Bangkok, Thailand",
+   "license": "CC BY-SA 2.0",
+   "credit": "Ban Chiang Archeology, North East Thailand Uploaded by Botev",
+   "source": "https://commons.wikimedia.org/wiki/File:Ban_Chiang_excavations.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/575",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "แอนเจลิส รีสอร์ท",
+   "name_en": "Angeles Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 17.6392944,
+   "lon": 103.2440838,
+   "distance_km": 15.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "สะเดาหวาน รีสอร์ท",
+   "name_en": "Sadao Wan Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 17.6673797,
+   "lon": 103.2426347,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ลัคกี้ รีสอร์ท",
+   "name_en": "Lucky Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 17.6678526,
+   "lon": 103.2436661,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "M&B BanDung hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.6878756,
+   "lon": 103.2613848,
+   "distance_km": 18.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "เพชรแพรวา รีสอร์ท",
+   "name_en": "Phetpraewa Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 17.677581,
+   "lon": 103.2377305,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TH",
   "country_zh": "泰国",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:14Z"
+ "updated_at": "2026-11-12T11:55:28Z"
 }

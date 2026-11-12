@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "775"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1996"
 criteria: "(vi)"
 lat: 34.395555555
 lon: 132.453611111
-updated_at: "2026-11-12T11:30:16Z"
+updated_at: "2026-11-12T11:55:30Z"
 ---
 
 # 广岛和平纪念公园(原爆遗址) / Hiroshima Peace Memorial (Genbaku Dome)
@@ -64,27 +64,7 @@ The Hiroshima Peace Memorial (Genbaku Dome) was the only structure left standing
 - ✈ **Iwakuni Kintaikyo Airport (IWK)** — 33.6 km
 - ✈ **Hiroshima Airport (HIJ)** — 42.9 km
 - ✈ **Matsuyama Airport (MYJ)** — 67.2 km
-- 🚉 **本通** — 0.4 km
-- 🚉 **県庁前** — 0.4 km
-- 🚉 **城北** — 1.2 km
-- 🚉 **新白島** — 1.6 km
-- 🚉 **横川** — 1.7 km
-- ⛴ **元安桟橋** — 0.2 km
-- ⛴ **Hiroshima World Heritage River Cruise** — 0.2 km
-- ⛴ **広島港宇品旅客ターミナル** — 4.8 km
-- ⛴ **Hiroshima Port Cruise Terminal** — 5.0 km
-- ⛴ **広島国際フェリーポート** — 5.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1534.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- **蔵宿いろは** — 16.1 km — star — Kurayado Iroha · 5★
-- **EN HOTEL** — 1.4 km — star — EN Hotel Hiroshima · 3★
-- **宮島シーサイドホテル** — 14.9 km — star — Miyajima Seaside Hotel · 3★
-- **旅館水羽荘** — 16.8 km — star — Auberge Mizuhaso · 3★
-- **山一別館** — 15.9 km — star — Yamaichi Bekkan · 2★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

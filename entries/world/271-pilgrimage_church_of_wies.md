@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "271"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1983"
 criteria: "(i)(iii)"
 lat: 47.6806
 lon: 10.900445
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 维斯教堂 / Pilgrimage Church of Wies
@@ -26,6 +26,10 @@ updated_at: "2026-11-12T11:30:12Z"
 ![Wieskirche boenisch okt 2003.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Wieskirche%20boenisch%20okt%202003.jpg?width=1280)
 
 *Wieskirche boenisch okt 2003.jpg · see Wikimedia Commons file page*
+
+![And01.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c0/And01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*And01.jpg · Unknown author Unknown author · Public domain*
 
 ![Pilgrimage Church of Wies](https://whc.unesco.org/uploads/sites/site_271.jpg)
 
@@ -52,7 +56,27 @@ Die Wieskirche, offiziell Wallfahrtskirche zum Gegeißelten Heiland auf der Wies
 - ✈ **Innsbruck Airport (INN)** — 57.4 km
 - ✈ **Memmingen Allgau Airport (FMM)** — 60.1 km
 - ✈ **Munich Airport (MUC)** — 99.7 km
+- 🚉 **Bad Kohlgrub** — 11.9 km
+- 🚉 **Peiting Ost** — 12.8 km
+- 🚉 **Peiting Nord** — 13.6 km
+- 🚉 **Hohenpeißenberg** — 14.1 km
+- 🚉 **Schongau** — 14.7 km
+- ⛴ **Rosshaupten Kraftwerk** — 12.1 km
+- ⛴ **Anlegestelle Tiefental** — 12.9 km
+- ⛴ **Rieden Dietringen** — 12.9 km
+- ⛴ **Segelclub Brunnen Forggensee** — 15.1 km
+- ⛴ **Schwangau Brunnen** — 15.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7821.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Schloss Elmau** — 32.4 km — star — 5★
+- **Alpenresort Schwarz** — 42.0 km — star — 5★
+- **Kurhotel Fontenay** — 43.2 km — star — 5★
+- **Parkhotel am Soier See** — 7.9 km — star — 4★
+- **Hotel Auf der Gsteig** — 8.9 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -2,9 +2,9 @@
  "id": "wh-1077",
  "unesco_id": "1077",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 892,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 318,
+ "popularity_score": 23301,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1077.jpg",
-   "title": "Takht-e Soleyman",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1077",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/040313-IMG_7256-2.jpg/1280px-040313-IMG_7256-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "040313-IMG 7256-2.jpg",
+   "author": "Safa.daneshvar",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:040313-IMG_7256-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/040313-IMG_7261-2.jpg/1280px-040313-IMG_7261-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "040313-IMG 7261-2.jpg",
+   "author": "Safa.daneshvar",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:040313-IMG_7261-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/040313-IMG_7262-2.jpg/1280px-040313-IMG_7262-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "040313-IMG 7262-2.jpg",
+   "author": "Safa.daneshvar",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:040313-IMG_7262-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/040313-IMG_7263-2.jpg/1280px-040313-IMG_7263-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "040313-IMG 7263-2.jpg",
+   "author": "Safa.daneshvar",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:040313-IMG_7263-2.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1077",
@@ -104,7 +128,41 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Belgheys guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6071257,
+   "lon": 47.221088,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل رنجی",
+   "name_en": "Ranji Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.4062933,
+   "lon": 47.1185059,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pension",
+   "name_en": "Pension",
+   "stars": null,
+   "brand": null,
+   "lat": 36.3999478,
+   "lon": 47.1116425,
+   "distance_km": 25.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -176,5 +234,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

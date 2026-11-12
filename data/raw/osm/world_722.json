@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Banaue Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9066402,
+   "lon": 121.0652015,
+   "distance_km": 8.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Banaue Evergreen Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9072003,
+   "lon": 121.0633195,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "People's Lodge and Restaurant, Meine Unterkunft",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9121897,
+   "lon": 121.0609334,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greenview",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 16.9122487,
+   "lon": 121.0607993,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Uyami's Green View Lodge",
+   "name_en": "Uyami's Green View Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 16.9119414,
+   "lon": 121.0606743,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 54,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-12T11:46:23Z"
+}

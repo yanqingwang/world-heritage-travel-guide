@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1290"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2008"
 criteria: "(vii)"
 lat: 19.606388888
 lon: -100.241666666
-updated_at: "2026-11-12T11:30:21Z"
+updated_at: "2026-11-12T11:55:34Z"
 ---
 
 # 莫那其蝴蝶生物圈保护区 / Monarch Butterfly Biosphere Reserve
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:21Z"
 
 *Santuario de la Mariposa Monarca (3088019191).jpg · see Wikimedia Commons file page*
 
-![Monarch Butterfly Biosphere Reserve](https://whc.unesco.org/uploads/sites/site_1290.jpg)
+![Abetos, Reserva de la Biosfera de la Mariposa Monarca.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Abetos%2C_Reserva_de_la_Biosfera_de_la_Mariposa_Monarca.jpg/1280px-Abetos%2C_Reserva_de_la_Biosfera_de_la_Mariposa_Monarca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Monarch Butterfly Biosphere Reserve · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abetos, Reserva de la Biosfera de la Mariposa Monarca.jpg · Juan Carlos Fonseca Mata · CC BY-SA 4.0*
+
+![Angangueo monarchs.jpg](https://upload.wikimedia.org/wikipedia/commons/2/23/Angangueo_monarchs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Angangueo monarchs.jpg · Bfpage at English Wikipedia · CC BY 3.0*
+
+![Ejido El Rosario (Reserva de la Biosfera de la Mariposa Monarca).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ejido_El_Rosario_%28Reserva_de_la_Biosfera_de_la_Mariposa_Monarca%29.jpg/1280px-Ejido_El_Rosario_%28Reserva_de_la_Biosfera_de_la_Mariposa_Monarca%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ejido El Rosario (Reserva de la Biosfera de la Mariposa Monarca).jpg · Juan Carlos Fonseca Mata · CC BY-SA 4.0*
+
+![Flor Mariposa (3088852182).jpg](https://upload.wikimedia.org/wikipedia/commons/9/9d/Flor_Mariposa_%283088852182%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Flor Mariposa (3088852182).jpg · Solo se puede ser libre Cuándo no se tiene nada que perder from Mexico D.F., México · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,20 @@ De una extensión de 56.259 hectáreas, esta reserva de biosfera se sitúa en me
 - ✈ **Adolfo López Mateos International Airport (TLC)** — 76.9 km
 - ✈ **General Francisco J. Mujica International Airport (MLM)** — 86.3 km
 - ✈ **Querétaro Intercontinental Airport (QRO)** — 112.7 km
+- 🚉 **Estación Ferrocarril Zitácuaro** — 22.1 km
+- 🚉 **Estación de El Oro (abandoned)** — 24.6 km
+- 🚉 **Tepetitlan** — 38.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12420.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **El Santuario** — 44.4 km — star — 5★
+- **Casa Rodavento** — 47.3 km — star — 5★
+- **La Cueva del León** — 47.3 km — star — 3★
+- **Hotel Jardín** — 4.7 km — hotel
+- **Hotel Juárez** — 4.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

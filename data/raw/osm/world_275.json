@@ -1,0 +1,129 @@
+{
+ "hotels": [
+  {
+   "name": "HOTEL TRAVEL ENCARNACIÓN",
+   "name_en": null,
+   "stars": 5,
+   "brand": "HTE",
+   "lat": -27.3022846,
+   "lon": -55.8850429,
+   "distance_km": 35.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Müller Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.0407048,
+   "lon": -55.5789224,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Julio César",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3697284,
+   "lon": -55.8957865,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HA Urbano Posadas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3664896,
+   "lon": -55.8974946,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maitei Posadas Hotel & Resort",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -27.3971716,
+   "lon": -55.9625684,
+   "distance_km": 45.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 132,
+ "stations": [
+  {
+   "name": "Encarnación",
+   "name_en": null,
+   "lat": -27.3607272,
+   "lon": -55.8484176,
+   "distance_km": 33.4,
+   "operator": null
+  },
+  {
+   "name": "Posadas",
+   "name_en": null,
+   "lat": -27.3801656,
+   "lon": -55.8838812,
+   "distance_km": 37.5,
+   "operator": "Casimiro Internacional"
+  },
+  {
+   "name": "Garupá",
+   "name_en": null,
+   "lat": -27.4849245,
+   "lon": -55.825694,
+   "distance_km": 38.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Puerto San Ignacio",
+   "name_en": null,
+   "lat": -27.2674831,
+   "lon": -55.568759,
+   "distance_km": 3.9,
+   "operator": null
+  },
+  {
+   "name": "Puerto Viejo San Ignacio",
+   "name_en": null,
+   "lat": -27.2409646,
+   "lon": -55.5674254,
+   "distance_km": 3.9,
+   "operator": null
+  },
+  {
+   "name": "Puerto Cantera",
+   "name_en": null,
+   "lat": -27.2238022,
+   "lon": -55.6007019,
+   "distance_km": 7.7,
+   "operator": null
+  },
+  {
+   "name": "Puerto Santa Ana",
+   "name_en": null,
+   "lat": -27.3359848,
+   "lon": -55.5886955,
+   "distance_km": 10.6,
+   "operator": null
+  },
+  {
+   "name": "Puerto Cazador",
+   "name_en": null,
+   "lat": -27.1552258,
+   "lon": -55.5551924,
+   "distance_km": 11.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:22Z"
+}

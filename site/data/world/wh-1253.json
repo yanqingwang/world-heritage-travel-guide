@@ -2,9 +2,9 @@
  "id": "wh-1253",
  "unesco_id": "1253",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 424,
- "popularity_score": 18317,
+ "tier": "full",
+ "popularity_rank": 390,
+ "popularity_score": 16893,
  "country": "RS",
  "country_zh": "塞尔维亚",
  "country_en": "Serbia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1253.jpg",
-   "title": "Gamzigrad-Romuliana, Palace of Galerius",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1253",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad_-_Zaje%C4%8Dar.jpg/1280px-Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad_-_Zaje%C4%8Dar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arheološko nalazište Gamzigrad - Zaječar.jpg",
+   "author": "Karolina Đukić",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad_-_Zaje%C4%8Dar.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad.jpg/1280px-Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arheološko nalazište Gamzigrad.jpg",
+   "author": "Karolina Đukić",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arheolo%C5%A1ko_nalazi%C5%A1te_Gamzigrad.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Artifacts_at_Felix_Romuliana_%28VII%29_%285446808498%29.jpg/1280px-Artifacts_at_Felix_Romuliana_%28VII%29_%285446808498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Artifacts at Felix Romuliana (VII) (5446808498).jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "credit": "Artifacts at Felix Romuliana (VII)",
+   "source": "https://commons.wikimedia.org/wiki/File:Artifacts_at_Felix_Romuliana_%28VII%29_%285446808498%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Artifacts_at_Felix_Romuliana_%28XLVI%29_%285446804890%29.jpg/1280px-Artifacts_at_Felix_Romuliana_%28XLVI%29_%285446804890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Artifacts at Felix Romuliana (XLVI) (5446804890).jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "credit": "Artifacts at Felix Romuliana (XLVI)",
+   "source": "https://commons.wikimedia.org/wiki/File:Artifacts_at_Felix_Romuliana_%28XLVI%29_%285446804890%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1253",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 68.0,
   "distance_beijing_km": 7413.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Зајечар",
+    "name_en": "Zajecar",
+    "lat": 43.9049821,
+    "lon": 22.2730309,
+    "distance_km": 7.0,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Грљан",
+    "name_en": "Grljan",
+    "lat": 43.8559391,
+    "lon": 22.2901946,
+    "distance_km": 9.6,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Вражогрнац",
+    "name_en": "Vrazogrnac",
+    "lat": 43.9536647,
+    "lon": 22.324409,
+    "distance_km": 12.6,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Рготина",
+    "name_en": "Rgotina",
+    "lat": 44.0071878,
+    "lon": 22.2796042,
+    "distance_km": 14.1,
+    "operator": "Инфраструктура железнице Србије"
+   },
+   {
+    "name": "Заграђе",
+    "name_en": "Zagradje",
+    "lat": 44.0337677,
+    "lon": 22.213839,
+    "distance_km": 15.1,
+    "operator": "Инфраструктура железнице Србије"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "ZiJin hotel Jezero",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.0890294,
+   "lon": 22.004954,
+   "distance_km": 25.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хотел Србија ТИС",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.903485,
+   "lon": 22.2777382,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Албо",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.0568713,
+   "lon": 22.1055982,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Inex Krajina",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.2306878,
+   "lon": 22.5296841,
+   "distance_km": 45.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Магура",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 43.7248702,
+   "lon": 22.5894453,
+   "distance_km": 37.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RS",
   "country_zh": "塞尔维亚",
@@ -176,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:21Z"
+ "updated_at": "2026-11-12T11:55:34Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-809",
  "unesco_id": "809",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 393,
- "popularity_score": 20979,
+ "tier": "full",
+ "popularity_rank": 353,
+ "popularity_score": 19620,
  "country": "HR",
  "country_zh": "克罗地亚",
  "country_en": "Croatia",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_809.jpg",
-   "title": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/809",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/98_of_%27Notes%2C_ecclesiological_and_picturesque%2C_on_Dalmatia%2C_Croatia%2C_Istria%2C_Styria%2C_with_a_visit_to_Montenegro%27_%2811062870513%29.jpg/1280px-98_of_%27Notes%2C_ecclesiological_and_picturesque%2C_on_Dalmatia%2C_Croatia%2C_Istria%2C_Styria%2C_with_a_visit_to_Montenegro%27_%2811062870513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "98 of 'Notes, ecclesiological and picturesque, on Dalmatia, Croatia, Istria, Styria, with a visit to Montenegro' (11062870513).jpg",
+   "author": "The British Library",
+   "license": "No restrictions",
+   "credit": "Image taken from page 98 of 'Notes, ecclesiological and picturesque, on Dalmatia, Croatia, Istria, Styria, with a visit to Montenegro'",
+   "source": "https://commons.wikimedia.org/wiki/File:98_of_%27Notes%2C_ecclesiological_and_picturesque%2C_on_Dalmatia%2C_Croatia%2C_Istria%2C_Styria%2C_with_a_visit_to_Montenegro%27_%2811062870513%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Arheoloska_iskopavanja_ispod_Eufrazijeve_bazilike_12_lipnja_2009.jpg/1280px-Arheoloska_iskopavanja_ispod_Eufrazijeve_bazilike_12_lipnja_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arheoloska iskopavanja ispod Eufrazijeve bazilike 12 lipnja 2009.jpg",
+   "author": "Rosier-HR , original uploader was Roberta F. at hr.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from hr.wikipedia ; transferred to Commons by User:Roberta F. using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:Arheoloska_iskopavanja_ispod_Eufrazijeve_bazilike_12_lipnja_2009.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Basilica_19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Basilica 19.png",
+   "author": "Project Gutenberg Distributed Proofreaders",
+   "license": "Public domain",
+   "credit": "Encyclopædia Britannica, 1911",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilica_19.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Basilica_de_Porec_-_panoramio.jpg/1280px-Basilica_de_Porec_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Basilica de Porec - panoramio.jpg",
+   "author": "isol",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161010082457/http://www.panoramio.com/photo/3501937",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilica_de_Porec_-_panoramio.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/809",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 45.3,
   "distance_beijing_km": 7827.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Poreč",
+    "name_en": null,
+    "lat": 45.226722,
+    "lon": 13.5915538,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Sveti Nikola",
+    "name_en": null,
+    "lat": 45.2242556,
+    "lon": 13.587307,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Santa Maria",
+    "name_en": null,
+    "lat": 45.2823665,
+    "lon": 13.5969582,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Amarin",
+    "name_en": null,
+    "lat": 45.1029997,
+    "lon": 13.620256,
+    "distance_km": 14.1,
+    "operator": null
+   },
+   {
+    "name": "Porto Valdibora - Rovigno",
+    "name_en": null,
+    "lat": 45.0838515,
+    "lon": 13.6332092,
+    "distance_km": 16.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Sveti Petar u Šumi",
+    "name_en": null,
+    "lat": 45.1850388,
+    "lon": 13.8672813,
+    "distance_km": 22.0,
+    "operator": "HŽ Infrastruktura"
+   },
+   {
+    "name": "Kanfanar",
+    "name_en": null,
+    "lat": 45.1171478,
+    "lon": 13.8367064,
+    "distance_km": 22.7,
+    "operator": "HŽ Infrastruktura"
+   },
+   {
+    "name": "Pazin",
+    "name_en": null,
+    "lat": 45.2397126,
+    "lon": 13.9460657,
+    "distance_km": 27.6,
+    "operator": "HŽ Infrastruktura"
+   },
+   {
+    "name": "Cerovlje",
+    "name_en": null,
+    "lat": 45.2766101,
+    "lon": 14.0137707,
+    "distance_km": 33.3,
+    "operator": "HŽ Infrastruktura"
+   },
+   {
+    "name": "Vodnjan",
+    "name_en": null,
+    "lat": 44.9667256,
+    "lon": 13.8560524,
+    "distance_km": 35.7,
+    "operator": "HŽ Infrastruktura"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Nautica",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3204994,
+   "lon": 13.5638627,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Park Hotel Rovinj",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.0754263,
+   "lon": 13.6368944,
+   "distance_km": 17.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "San Canzian Village & Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.3874413,
+   "lon": 13.6864865,
+   "distance_km": 19.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rocca Riviera",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4414657,
+   "lon": 13.5222252,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Meliá Coral",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4602223,
+   "lon": 13.5144308,
+   "distance_km": 26.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HR",
   "country_zh": "克罗地亚",
@@ -177,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:17Z"
+ "updated_at": "2026-11-12T11:55:30Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-173",
  "unesco_id": "173",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1021,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 54,
+ "popularity_score": 216611,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
  "country_en": "Tanzania",
@@ -128,7 +128,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Park Hyatt Zanzibar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Park Hyatt",
+   "lat": -6.1624582,
+   "lon": 39.1860421,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tulia Zanzibar Unique Beach Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -6.0346041,
+   "lon": 39.4065394,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SBH Kilindini Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "SBH Hotels & Resort",
+   "lat": -5.9031791,
+   "lon": 39.3540934,
+   "distance_km": 33.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SBH Monica Zanzibar",
+   "name_en": null,
+   "stars": 5,
+   "brand": "SBH Hotels & Resorts",
+   "lat": -6.2746914,
+   "lon": 39.5361542,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Beyt Al Salaam",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -6.1633903,
+   "lon": 39.186462,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TZ",
   "country_zh": "坦桑尼亚",
@@ -201,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:25Z"
 }

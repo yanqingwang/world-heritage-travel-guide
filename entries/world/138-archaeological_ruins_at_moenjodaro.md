@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ii)(iii)"
 lat: 27.329166666
 lon: 68.138888888
-updated_at: "2026-11-12T11:30:11Z"
+updated_at: "2026-11-12T11:55:24Z"
 ---
 
 # 摩亨佐达罗考古遗迹 / Archaeological Ruins at Moenjodaro
@@ -75,9 +75,9 @@ The ruins of the huge city of Moenjodaro – built entirely of unbaked brick in 
 
 - **Khahawar Hotel** — 25.4 km — hotel
 - **Sambara Inn** — 25.4 km — hotel
+- **Lakarna Inn** — 25.7 km — hotel
 - **Husnain Hotel Larakna** — 25.8 km — hotel
 - **Paris Inn** — 25.8 km — hotel
-- **Green Palace Hotel** — 25.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

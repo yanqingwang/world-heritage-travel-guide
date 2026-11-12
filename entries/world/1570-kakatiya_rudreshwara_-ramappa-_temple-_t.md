@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iii)"
 lat: 18.259444444
 lon: 79.9425
-updated_at: "2026-11-12T11:30:23Z"
+updated_at: "2026-11-12T11:55:37Z"
 ---
 
 # 特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙 / Kakatiya Rudreshwara (Ramappa) Temple, Telangana

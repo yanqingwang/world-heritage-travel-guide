@@ -2,9 +2,9 @@
  "id": "wh-1097",
  "unesco_id": "1097",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 402,
- "popularity_score": 20552,
+ "tier": "full",
+ "popularity_rank": 371,
+ "popularity_score": 18734,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -102,10 +102,148 @@
   ],
   "nearest_airport_km": 23.8,
   "distance_beijing_km": 5817.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Лужники-Служебный",
+    "name_en": null,
+    "lat": 55.7219919,
+    "lon": 37.5424455,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "Лужники",
+    "name_en": null,
+    "lat": 55.7132165,
+    "lon": 37.549022,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "Воробьёвы горы",
+    "name_en": null,
+    "lat": 55.7116962,
+    "lon": 37.5468169,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Андреевский",
+    "name_en": null,
+    "lat": 55.7116439,
+    "lon": 37.5722533,
+    "distance_km": 1.9,
+    "operator": null
+   },
+   {
+    "name": "Нескучный сад",
+    "name_en": null,
+    "lat": 55.7227372,
+    "lon": 37.5911546,
+    "distance_km": 2.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Москва-Пассажирская-Киевская",
+    "name_en": "Moscow-Passanger-Kiyevskya",
+    "lat": 55.7420034,
+    "lon": 37.5628449,
+    "distance_km": 1.8,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Москва-Сортировочная-Киевская",
+    "name_en": null,
+    "lat": 55.7282829,
+    "lon": 37.5123234,
+    "distance_km": 2.8,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Фили",
+    "name_en": "Fili",
+    "lat": 55.7440926,
+    "lon": 37.514551,
+    "distance_km": 3.3,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Канатчиково",
+    "name_en": null,
+    "lat": 55.7017698,
+    "lon": 37.591367,
+    "distance_km": 3.5,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Москва-Товарная-Смоленская",
+    "name_en": null,
+    "lat": 55.7721776,
+    "lon": 37.5564951,
+    "distance_km": 5.1,
+    "operator": "ОАО «РЖД»"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Золотое кольцо",
+   "name_en": "Golden Ring",
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7452006,
+   "lon": 37.5805303,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Diamond Apartments",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7494359,
+   "lon": 37.5342229,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plaza Garden бизнесс корпус",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Crowne Plaza",
+   "lat": 55.7542311,
+   "lon": 37.5577755,
+   "distance_km": 3.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lotte Hotel Moscow",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Lotte Hotels & Resorts",
+   "lat": 55.7501358,
+   "lon": 37.5837586,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Звезды Арбата",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7529432,
+   "lon": 37.5805336,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -177,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

@@ -8,13 +8,13 @@ country: "KE"
 country_zh: "肯尼亚"
 country_en: "Kenya"
 unesco_id: "1720"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2024"
 criteria: "(ii)(iii)(iv)"
 lat: -3.309166666
 lon: 40.016666666
-updated_at: "2026-11-12T11:30:25Z"
+updated_at: "2026-11-12T11:55:38Z"
 ---
 
 # 格迪古镇和考古遗址 / The Historic Town and Archaeological Site of Gedi
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:25Z"
 
 *Great Mosque of Gede.jpg · see Wikimedia Commons file page*
 
-![The Historic Town and Archaeological Site of Gedi](https://whc.unesco.org/uploads/sites/site_1720.jpg)
+![2011-11-12 Ruins of Gedi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2011-11-12_Ruins_of_Gedi.jpg/1280px-2011-11-12_Ruins_of_Gedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Historic Town and Archaeological Site of Gedi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2011-11-12 Ruins of Gedi.jpg · François Terrier · CC BY 2.0*
+
+![Ancient foundations and massive trees at Gedi Ruins.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg/1280px-Ancient_foundations_and_massive_trees_at_Gedi_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient foundations and massive trees at Gedi Ruins.jpg · Lebu Ayiga · CC BY-SA 4.0*
+
+![Diademmeerkatze in Gede 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Diademmeerkatze_in_Gede_1.jpg/1280px-Diademmeerkatze_in_Gede_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Diademmeerkatze in Gede 1.jpg · ordercrazy · CC0*
+
+![Diademmeerkatze in Gede.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Diademmeerkatze_in_Gede.jpg/1280px-Diademmeerkatze_in_Gede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Diademmeerkatze in Gede.jpg · ordercrazy · CC0*
 
 ## 简介 / Introduction
 
@@ -47,6 +59,16 @@ Surrounded by a remnant coastal forest, away from the coastline, the abandoned c
 - ✈ **Moi International Airport (MBA)** — 93.3 km
 - ✈ **Manda Airport (LAU)** — 154.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9098.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Hemingway Resort** — 5.9 km — star — 5★
+- **Lion On The Sand** — 13.6 km — star — 5★
+- **Ocean Beach Resort** — 17.5 km — star — 5★
+- **Gede Resort** — 2.6 km — star — 3★
+- **Baobab Safari Hotel** — 39.1 km — star — 3★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

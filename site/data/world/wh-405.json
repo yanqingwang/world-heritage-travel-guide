@@ -2,9 +2,9 @@
  "id": "wh-405",
  "unesco_id": "405",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 378,
- "popularity_score": 21787,
+ "tier": "full",
+ "popularity_rank": 354,
+ "popularity_score": 19581,
  "country": "LK",
  "country_zh": "斯里兰卡",
  "country_en": "Sri Lanka",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_405.jpg",
-   "title": "Sinharaja Forest Reserve",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/405",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/20160127_Sri_Lanka_4068%2B3%2B4_Sinharaja_Forest_Reserve_sRGB_%2825674521251%29.jpg/1280px-20160127_Sri_Lanka_4068%2B3%2B4_Sinharaja_Forest_Reserve_sRGB_%2825674521251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160127 Sri Lanka 4068+3+4 Sinharaja Forest Reserve sRGB (25674521251).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160127_Sri Lanka_4068+3+4 Sinharaja Forest Reserve sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160127_Sri_Lanka_4068%2B3%2B4_Sinharaja_Forest_Reserve_sRGB_%2825674521251%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20160127_Sri_Lanka_4078%2B0-3_Sinharaja_Forest_Reserve_sRGB_%2825143004933%29.jpg/1280px-20160127_Sri_Lanka_4078%2B0-3_Sinharaja_Forest_Reserve_sRGB_%2825143004933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160127 Sri Lanka 4078+0-3 Sinharaja Forest Reserve sRGB (25143004933).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160127_Sri Lanka_4078+0-3 Sinharaja Forest Reserve sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160127_Sri_Lanka_4078%2B0-3_Sinharaja_Forest_Reserve_sRGB_%2825143004933%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20160128_Sri_Lanka_4099%2B4135%2B7_Sinharaja_Forest_Reserve_sRGB_%2825648621362%29.jpg/1280px-20160128_Sri_Lanka_4099%2B4135%2B7_Sinharaja_Forest_Reserve_sRGB_%2825648621362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160128 Sri Lanka 4099+4135+7 Sinharaja Forest Reserve sRGB (25648621362).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160128_Sri Lanka_4099+4135+7 Sinharaja Forest Reserve sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160128_Sri_Lanka_4099%2B4135%2B7_Sinharaja_Forest_Reserve_sRGB_%2825648621362%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/20160128_Sri_Lanka_4127_Sinharaja_Forest_Reserve_sRGB_%2825648600912%29.jpg/1280px-20160128_Sri_Lanka_4127_Sinharaja_Forest_Reserve_sRGB_%2825648600912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160128 Sri Lanka 4127 Sinharaja Forest Reserve sRGB (25648600912).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160128_Sri Lanka_4127 Sinharaja Forest Reserve sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160128_Sri_Lanka_4127_Sinharaja_Forest_Reserve_sRGB_%2825648600912%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/405",
@@ -102,9 +126,106 @@
   "nearest_airport_km": 27.7,
   "distance_beijing_km": 5236.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Kumarakanda",
+    "name_en": null,
+    "lat": 6.1124485,
+    "lon": 80.1242871,
+    "distance_km": 22.3,
+    "operator": null
+   },
+   {
+    "name": "Richmond Hill",
+    "name_en": null,
+    "lat": 6.0539303,
+    "lon": 80.2048071,
+    "distance_km": 22.3,
+    "operator": null
+   },
+   {
+    "name": "Seenigama",
+    "name_en": null,
+    "lat": 6.1586793,
+    "lon": 80.094758,
+    "distance_km": 22.4,
+    "operator": null
+   },
+   {
+    "name": "Thiranagama",
+    "name_en": null,
+    "lat": 6.1223145,
+    "lon": 80.1143858,
+    "distance_km": 22.5,
+    "operator": null
+   },
+   {
+    "name": "Rathgama",
+    "name_en": null,
+    "lat": 6.09335,
+    "lon": 80.1401109,
+    "distance_km": 22.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Bartizan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 6.0256695,
+   "lon": 80.2160463,
+   "distance_km": 24.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sielen Diva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.9986625,
+   "lon": 80.2706127,
+   "distance_km": 26.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weligama Bay Marriott Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 5.9730237,
+   "lon": 80.4394311,
+   "distance_km": 34.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thaala Bentota",
+   "name_en": "Thaala Bentota",
+   "stars": 4,
+   "brand": null,
+   "lat": 6.4235375,
+   "lon": 79.9964815,
+   "distance_km": 37.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Talalla Retreat",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 5.9431254,
+   "lon": 80.619838,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LK",
   "country_zh": "斯里兰卡",
@@ -177,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:13Z"
+ "updated_at": "2026-11-12T11:55:27Z"
 }

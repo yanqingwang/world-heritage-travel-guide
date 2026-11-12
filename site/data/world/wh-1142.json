@@ -2,9 +2,9 @@
  "id": "wh-1142",
  "unesco_id": "1142",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 396,
- "popularity_score": 20855,
+ "tier": "full",
+ "popularity_rank": 368,
+ "popularity_score": 18812,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1142.jpg",
-   "title": "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1142",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Map_Kumano_Kodo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Map Kumano Kodo.png",
+   "author": "ja:利用者: Yosemite",
+   "license": "Public domain",
+   "credit": "modified from Japanse wiki [1] This file was derived from: Map Kumano Kodo (ja).png",
+   "source": "https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LocMap_of_WH_Kii_Mountain_Range.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap of WH Kii Mountain Range.png",
+   "author": "Original uploader was 光合成 at zh.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from zh.wikipedia ; transferred to Commons by User:Shizhao using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_of_WH_Kii_Mountain_Range.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_photograph_of_the_Hongu_district.jpg/1280px-Aerial_photograph_of_the_Hongu_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial photograph of the Hongu district.jpg",
+   "author": "国土交通省",
+   "license": "Attribution",
+   "credit": "国土情報ウェブマッピングシステム",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_the_Hongu_district.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_photograph_of_the_Hongu_district.The_written_version_of_the_name_of_a_place.jpg/1280px-Aerial_photograph_of_the_Hongu_district.The_written_version_of_the_name_of_a_place.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial photograph of the Hongu district.The written version of the name of a place.jpg",
+   "author": "国土交通省",
+   "license": "Attribution",
+   "credit": "国土情報ウェブマッピングシステム",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_the_Hongu_district.The_written_version_of_the_name_of_a_place.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1142",
@@ -105,10 +129,124 @@
   ],
   "nearest_airport_km": 42.8,
   "distance_beijing_km": 1811.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Dorokyo boat terminal",
+    "name_en": null,
+    "lat": 33.8146057,
+    "lon": 135.8581934,
+    "distance_km": 8.0,
+    "operator": null
+   },
+   {
+    "name": "那智勝浦港フェリーターミナル",
+    "name_en": "Nachikatsuura-town Ferry Terminal",
+    "lat": 33.6625177,
+    "lon": 135.986783,
+    "distance_km": 27.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "湯ノ口温泉",
+    "name_en": null,
+    "lat": 33.8642028,
+    "lon": 135.8902967,
+    "distance_km": 10.9,
+    "operator": null
+   },
+   {
+    "name": "瀞流荘",
+    "name_en": null,
+    "lat": 33.8706308,
+    "lon": 135.9003366,
+    "distance_km": 12.0,
+    "operator": null
+   },
+   {
+    "name": "新宮",
+    "name_en": "Shingu",
+    "lat": 33.7250784,
+    "lon": 135.9940846,
+    "distance_km": 23.7,
+    "operator": null
+   },
+   {
+    "name": "紀伊井田",
+    "name_en": "Kii-Ida",
+    "lat": 33.7601927,
+    "lon": 136.0239144,
+    "distance_km": 24.4,
+    "operator": null
+   },
+   {
+    "name": "阿田和",
+    "name_en": "Atawa",
+    "lat": 33.8048076,
+    "lon": 136.0423644,
+    "distance_km": 24.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "旅館湯の峯荘;Yunomineso",
+   "name_en": "Yunomineso",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.8241064,
+   "lon": 135.7541998,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテル なみ",
+   "name_en": "Hotel Nami",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.8957779,
+   "lon": 136.1164409,
+   "distance_km": 32.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Hanaya",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 33.7346743,
+   "lon": 135.3810976,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "j hoppers",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.8296502,
+   "lon": 135.7582022,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "旅館よしのや;Yoshinoya",
+   "name_en": "Ryokan Yoshinoya",
+   "stars": null,
+   "brand": null,
+   "lat": 33.8294937,
+   "lon": 135.7579177,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -180,5 +318,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:20Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

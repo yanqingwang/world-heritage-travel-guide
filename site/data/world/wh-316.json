@@ -3,8 +3,8 @@
  "unesco_id": "316",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 235,
- "popularity_score": 43661,
+ "popularity_rank": 218,
+ "popularity_score": 39742,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -145,14 +145,6 @@
     "operator": "Adif"
    },
    {
-    "name": "Campolara",
-    "name_en": null,
-    "lat": 42.1224758,
-    "lon": -3.4234312,
-    "distance_km": 33.5,
-    "operator": null
-   },
-   {
     "name": "Briviesca",
     "name_en": null,
     "lat": 42.5427319,
@@ -166,6 +158,14 @@
     "lat": 42.0556318,
     "lon": -3.3869956,
     "distance_km": 41.1,
+    "operator": null
+   },
+   {
+    "name": "Barbadillo del Mercado",
+    "name_en": null,
+    "lat": 42.0316195,
+    "lon": -3.3546921,
+    "distance_km": 44.9,
     "operator": null
    }
   ]
@@ -298,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:12Z"
+ "updated_at": "2026-11-12T11:55:26Z"
 }

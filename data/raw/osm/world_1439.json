@@ -56,7 +56,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_50km": 776,
+ "hotels_nearby_50km": 779,
  "stations": [
   {
    "name": "복정",
@@ -83,12 +83,20 @@
    "operator": "한국철도공사"
   },
   {
+   "name": "모란",
+   "name_en": "Moran",
+   "lat": 37.4322241,
+   "lon": 127.1290831,
+   "distance_km": 7.0,
+   "operator": "한국철도공사"
+  },
+  {
    "name": "수서",
    "name_en": "Suseo",
    "lat": 37.485099,
    "lon": 127.1046888,
    "distance_km": 7.1,
-   "operator": "에스알"
+   "operator": "한국철도공사"
   },
   {
    "name": "야탑",
@@ -112,14 +120,6 @@
    "lat": 37.491389,
    "lon": 127.0727494,
    "distance_km": 9.9,
-   "operator": "한국철도공사"
-  },
-  {
-   "name": "이매",
-   "name_en": "Imae",
-   "lat": 37.3953023,
-   "lon": 127.1282395,
-   "distance_km": 10.4,
    "operator": "한국철도공사"
   }
  ],
@@ -165,5 +165,5 @@
    "operator": null
   }
  ],
- "fetched_at": "2026-11-08T16:16:54Z"
+ "fetched_at": "2026-11-12T11:51:49Z"
 }

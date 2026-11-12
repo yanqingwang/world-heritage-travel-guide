@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Park Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8094134,
+   "lon": 10.787982,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lido Palace Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8832398,
+   "lon": 10.84654,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "EALA",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.8244273,
+   "lon": 10.8124494,
+   "distance_km": 42.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alpen Suite",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.2252891,
+   "lon": 10.8247135,
+   "distance_km": 42.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Spinale",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.2281828,
+   "lon": 10.8288953,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 993,
+ "stations": [
+  {
+   "name": "Capo di Ponte",
+   "name_en": null,
+   "lat": 46.0310856,
+   "lon": 10.3463753,
+   "distance_km": 0.8,
+   "operator": null
+  },
+  {
+   "name": "Cedegolo",
+   "name_en": null,
+   "lat": 46.0725204,
+   "lon": 10.3500218,
+   "distance_km": 5.4,
+   "operator": null
+  },
+  {
+   "name": "Breno",
+   "name_en": null,
+   "lat": 45.9591476,
+   "lon": 10.3057458,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "Malonno",
+   "name_en": null,
+   "lat": 46.1187743,
+   "lon": 10.3167611,
+   "distance_km": 10.9,
+   "operator": "Ferrovienord"
+  },
+  {
+   "name": "Cividate-Malegno",
+   "name_en": null,
+   "lat": 45.943427,
+   "lon": 10.2687057,
+   "distance_km": 10.9,
+   "operator": null
+  },
+  {
+   "name": "Cogno-Esine",
+   "name_en": null,
+   "lat": 45.9295242,
+   "lon": 10.241103,
+   "distance_km": 13.5,
+   "operator": null
+  },
+  {
+   "name": "Edolo",
+   "name_en": null,
+   "lat": 46.1769904,
+   "lon": 10.3294059,
+   "distance_km": 17.1,
+   "operator": "Ferrovienord"
+  },
+  {
+   "name": "Darfo-Corna",
+   "name_en": null,
+   "lat": 45.8843162,
+   "lon": 10.1811619,
+   "distance_km": 20.3,
+   "operator": "Ferrovienord"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Costa Volpino",
+   "name_en": null,
+   "lat": 45.8225558,
+   "lon": 10.084199,
+   "distance_km": 30.4,
+   "operator": "Navigazione Lago d'Iseo"
+  },
+  {
+   "name": "Pisogne",
+   "name_en": null,
+   "lat": 45.8032639,
+   "lon": 10.105381,
+   "distance_km": 31.0,
+   "operator": "Navigazione Lago D'Iseo"
+  },
+  {
+   "name": "Lovere 1",
+   "name_en": null,
+   "lat": 45.8167002,
+   "lon": 10.0756243,
+   "distance_km": 31.3,
+   "operator": "Navigazione Lago D'Iseo"
+  },
+  {
+   "name": "Lovere 2",
+   "name_en": null,
+   "lat": 45.8169862,
+   "lon": 10.0761989,
+   "distance_km": 31.3,
+   "operator": "Navigazione Lago D'Iseo"
+  },
+  {
+   "name": "Lovere",
+   "name_en": null,
+   "lat": 45.8168432,
+   "lon": 10.0759116,
+   "distance_km": 31.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-12T11:45:01Z"
+}

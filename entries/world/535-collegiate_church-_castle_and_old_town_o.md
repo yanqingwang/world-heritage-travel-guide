@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iv)"
 lat: 51.78333
 lon: 11.15
-updated_at: "2026-11-12T11:30:14Z"
+updated_at: "2026-11-12T11:55:28Z"
 ---
 
 # 奎德林堡神学院、城堡和古城 / Collegiate Church, Castle and Old Town of Quedlinburg

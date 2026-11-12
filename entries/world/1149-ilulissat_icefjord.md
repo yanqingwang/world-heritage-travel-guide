@@ -8,13 +8,13 @@ country: "DK"
 country_zh: "丹麦"
 country_en: "Denmark"
 unesco_id: "1149"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2004"
 criteria: "(vii)(viii)"
 lat: 69.15
 lon: -49.55
-updated_at: "2026-11-12T11:30:20Z"
+updated_at: "2026-11-12T11:55:33Z"
 ---
 
 # 伊路利萨特冰湾 / Ilulissat Icefjord
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:20Z"
 
 *Greenland Ilulissat1.jpg · see Wikimedia Commons file page*
 
-![Ilulissat Icefjord](https://whc.unesco.org/uploads/sites/site_1149.jpg)
+![A Motorcade Carrying Secretary Kerry Approaches the Town of Ilulissat, Greenland - Flickr - U.S. Department of State.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/A_Motorcade_Carrying_Secretary_Kerry_Approaches_the_Town_of_Ilulissat%2C_Greenland_-_Flickr_-_U.S._Department_of_State.jpg/1280px-A_Motorcade_Carrying_Secretary_Kerry_Approaches_the_Town_of_Ilulissat%2C_Greenland_-_Flickr_-_U.S._Department_of_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ilulissat Icefjord · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Motorcade Carrying Secretary Kerry Approaches the Town of Ilulissat, Greenland - Flickr - U.S. Department of State.jpg · U.S. Department of State from United States · Public domain*
+
+![Beware of Dog Sleds.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Beware_of_Dog_Sleds.jpg/1280px-Beware_of_Dog_Sleds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beware of Dog Sleds.jpg · Pamela Hathaway · CC BY-SA 3.0*
+
+![Buiobuione Greenland 2018 Ilulissat.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Buiobuione_Greenland_2018_Ilulissat.jpg/1280px-Buiobuione_Greenland_2018_Ilulissat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buiobuione Greenland 2018 Ilulissat.jpg · Buiobuione · CC BY-SA 4.0*
+
+![Città di Ilulissat dall'alto.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Citt%C3%A0_di_Ilulissat_dall%27alto.jpg/1280px-Citt%C3%A0_di_Ilulissat_dall%27alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Città di Ilulissat dall'alto.jpg · Buiobuione · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -53,6 +65,12 @@ Ilulissat Isfjord (Kangiata Sullua) er en Grønlandsk fjord i Ilulissat Lokalomr
 - ✈ **Aasiaat Airport (JEG)** — 137.7 km
 - ✈ **Qaarsut Airport (JQA)** — 213.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7816.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

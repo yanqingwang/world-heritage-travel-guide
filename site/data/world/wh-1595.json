@@ -2,8 +2,8 @@
  "id": "wh-1595",
  "unesco_id": "1595",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 51,
+ "tier": "basic",
+ "popularity_rank": 946,
  "popularity_score": 235019,
  "country": "JM",
  "country_zh": "牙买加",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/110727-N-XD935-231_%285988128648%29.jpg/1280px-110727-N-XD935-231_%285988128648%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "110727-N-XD935-231 (5988128648).jpg",
-   "author": "U.S. Department of Defense Current Photos",
-   "license": "Public domain",
-   "credit": "110727-N-XD935-231",
-   "source": "https://commons.wikimedia.org/wiki/File:110727-N-XD935-231_%285988128648%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/110729-N-XD935-032_%286002139847%29.jpg/1280px-110729-N-XD935-032_%286002139847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "110729-N-XD935-032 (6002139847).jpg",
-   "author": "U.S. Department of Defense Current Photos",
-   "license": "Public domain",
-   "credit": "110729-N-XD935-032",
-   "source": "https://commons.wikimedia.org/wiki/File:110729-N-XD935-032_%286002139847%29.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1988_Port_Royal_Fort_Charles_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "1988 Port Royal Fort Charles 2.jpg",
-   "author": "De Geo",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:1988_Port_Royal_Fort_Charles_2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_view_of_Port_Royal_Jamaica.JPG/1280px-Aerial_view_of_Port_Royal_Jamaica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Aerial view of Port Royal Jamaica.JPG",
-   "author": "Raychristofer",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Royal_Jamaica.JPG"
+   "url": "https://whc.unesco.org/uploads/sites/site_1595.jpg",
+   "title": "The Archaeological Ensemble of 17th Century Port Royal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1595",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1595",
@@ -124,100 +100,10 @@
   ],
   "nearest_airport_km": 5.7,
   "distance_beijing_km": 13416.8,
-  "ferry_terminals": [
-   {
-    "name": "Port Royal Cruise Ship Port",
-    "name_en": null,
-    "lat": 17.9411362,
-    "lon": -76.8363318,
-    "distance_km": 0.7,
-    "operator": null
-   },
-   {
-    "name": "Errol Flynn Marina",
-    "name_en": null,
-    "lat": 18.1807194,
-    "lon": -76.4534096,
-    "distance_km": 49.1,
-    "operator": null
-   },
-   {
-    "name": "Ken Wright Cruise Ship Pier",
-    "name_en": null,
-    "lat": 18.1826419,
-    "lon": -76.4537355,
-    "distance_km": 49.2,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Old Bog Walk Railway Station",
-    "name_en": null,
-    "lat": 18.1009443,
-    "lon": -77.0068524,
-    "distance_km": 25.2,
-    "operator": null
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "ROK Hotel Kingston, Tapestry Collection by Hilton",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 17.9643417,
-   "lon": -76.7926384,
-   "distance_km": 6.0,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Courtyard by Marriott Kingston, Jamaica",
-   "name_en": null,
-   "stars": null,
-   "brand": "Courtyard",
-   "lat": 18.0038894,
-   "lon": -76.7901438,
-   "distance_km": 9.2,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Four Seasons",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 18.0079689,
-   "lon": -76.7943657,
-   "distance_km": 9.3,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Kingston Hilton Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 18.0049378,
-   "lon": -76.7872505,
-   "distance_km": 9.4,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "AC Marriott Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": "Marriott",
-   "lat": 18.0084581,
-   "lon": -76.7785094,
-   "distance_km": 10.3,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "JM",
   "country_zh": "牙买加",
@@ -290,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:24Z"
+ "updated_at": "2026-11-12T11:55:37Z"
 }

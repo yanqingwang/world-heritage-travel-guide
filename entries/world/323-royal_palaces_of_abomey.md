@@ -8,13 +8,13 @@ country: "BJ"
 country_zh: "贝宁"
 country_en: "Benin"
 unesco_id: "323"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(iii)(iv)"
 lat: 7.18556
 lon: 1.98806
-updated_at: "2026-11-12T11:30:12Z"
+updated_at: "2026-11-12T11:55:26Z"
 ---
 
 # 阿波美皇宫 / Royal Palaces of Abomey
@@ -27,9 +27,21 @@ updated_at: "2026-11-12T11:30:12Z"
 
 *Abomey 2006 1.jpg · see Wikimedia Commons file page*
 
-![Royal Palaces of Abomey](https://whc.unesco.org/uploads/sites/site_323.jpg)
+![20131007-DSC 2962 (10290369573).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/20131007-DSC_2962_%2810290369573%29.jpg/1280px-20131007-DSC_2962_%2810290369573%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Royal Palaces of Abomey · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20131007-DSC 2962 (10290369573).jpg · jbdodane · CC BY 2.0*
+
+![20131007-DSC 2963 (10290269226).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/20131007-DSC_2963_%2810290269226%29.jpg/1280px-20131007-DSC_2963_%2810290269226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20131007-DSC 2963 (10290269226).jpg · jbdodane · CC BY 2.0*
+
+![20131007-DSC 2965 (10290419403).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/20131007-DSC_2965_%2810290419403%29.jpg/1280px-20131007-DSC_2965_%2810290419403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20131007-DSC 2965 (10290419403).jpg · jbdodane · CC BY 2.0*
+
+![20131007-DSC 2988 (10290616373).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20131007-DSC_2988_%2810290616373%29.jpg/1280px-20131007-DSC_2988_%2810290616373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20131007-DSC 2988 (10290616373).jpg · jbdodane · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ De 1625 à 1900, douze rois se succédèrent à la tête du puissant royaume d�
 - ✈ **Cotonou Cadjehoun International Airport (COO)** — 102.0 km
 - ✈ **Lomé–Tokoin International Airport (LFW)** — 139.4 km
 - ✈ **Murtala Muhammed International Airport (LOS)** — 162.0 km
+- 🚉 **Bohicon** — 8.8 km
+- 🚉 **Dan** — 18.7 km
+- 🚉 **Setto** — 35.7 km
+- 🚉 **Houègbo** — 47.1 km
+- ⛴ **Embarcadère Dèmè (vers Lokoli)** — 33.0 km
+- ⛴ **Embarcadère de Lokoli (vers Dèmè)** — 33.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11554.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Résidence Marie-Josée** — 0.6 km — hotel
+- **Hôtel Cœur des Montagnes** — 0.8 km — hotel
+- **Motel d'Abomey** — 1.0 km — hotel
+- **BIS Hotel** — 1.1 km — hotel
+- **Auberge d'Abomey** — 1.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

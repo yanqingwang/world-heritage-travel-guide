@@ -2,9 +2,9 @@
  "id": "wh-1076",
  "unesco_id": "1076",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 891,
- "popularity_score": null,
+ "tier": "full",
+ "popularity_rank": 395,
+ "popularity_score": 16734,
  "country": "AZ",
  "country_zh": "阿塞拜疆",
  "country_en": "Azerbaijan",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1076.jpg",
-   "title": "Gobustan Rock Art Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1076",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/%28L%29_qobustan_048.jpg/1280px-%28L%29_qobustan_048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(L) qobustan 048.jpg",
+   "author": "Naturefriends",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%28L%29_qobustan_048.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%28L%29_qobustan_049.JPG/1280px-%28L%29_qobustan_049.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(L) qobustan 049.JPG",
+   "author": "Naturefriends",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%28L%29_qobustan_049.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/A_recreation_of_a_tandoor_oven_for_making_bread_%2837092480082%29.jpg/1280px-A_recreation_of_a_tandoor_oven_for_making_bread_%2837092480082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A recreation of a tandoor oven for making bread (37092480082).jpg",
+   "author": "shankar s. from Dubai, united arab emirates",
+   "license": "CC BY 2.0",
+   "credit": "A recreation of a tandoor oven for making bread",
+   "source": "https://commons.wikimedia.org/wiki/File:A_recreation_of_a_tandoor_oven_for_making_bread_%2837092480082%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ana_za%C4%9Fa_d%C3%BC%C5%9F%C9%99rg%C9%99si_2026_%281%29.jpg/1280px-Ana_za%C4%9Fa_d%C3%BC%C5%9F%C9%99rg%C9%99si_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ana zağa düşərgəsi 2026 (1).jpg",
+   "author": "Rəcəb Yaxşı",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ana_za%C4%9Fa_d%C3%BC%C5%9F%C9%99rg%C9%99si_2026_%281%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1076",
@@ -101,10 +125,140 @@
   ],
   "nearest_airport_km": 69.4,
   "distance_beijing_km": 5502.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bәrә Terminalı",
+    "name_en": "Ferry Terminal",
+    "lat": 39.9730288,
+    "lon": 49.4427897,
+    "distance_km": 15.4,
+    "operator": null
+   },
+   {
+    "name": "Alat",
+    "name_en": null,
+    "lat": 39.9721181,
+    "lon": 49.4430383,
+    "distance_km": 15.5,
+    "operator": null
+   },
+   {
+    "name": "Boat to Turkmenbasi",
+    "name_en": null,
+    "lat": 40.3723315,
+    "lon": 49.8572746,
+    "distance_km": 49.6,
+    "operator": null
+   },
+   {
+    "name": "Bakı Dəniz Vağzalı",
+    "name_en": null,
+    "lat": 40.3731777,
+    "lon": 49.8569505,
+    "distance_km": 49.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Qobustan Stansiyası",
+    "name_en": "Qobustan",
+    "lat": 40.0909094,
+    "lon": 49.4144282,
+    "distance_km": 2.7,
+    "operator": null
+   },
+   {
+    "name": "Sǝngǝçal Stansiyası",
+    "name_en": null,
+    "lat": 40.1658799,
+    "lon": 49.4624134,
+    "distance_km": 9.2,
+    "operator": null
+   },
+   {
+    "name": "Baş Ələt Stansiyası",
+    "name_en": "Bash - Alat",
+    "lat": 39.9765524,
+    "lon": 49.4084761,
+    "distance_km": 14.4,
+    "operator": null
+   },
+   {
+    "name": "Yeni Ələt Deposu",
+    "name_en": null,
+    "lat": 39.9491489,
+    "lon": 49.4045627,
+    "distance_km": 17.4,
+    "operator": null
+   },
+   {
+    "name": "Yeni Ələt",
+    "name_en": null,
+    "lat": 39.9433197,
+    "lon": 49.3882604,
+    "distance_km": 18.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Pullman Hotel Baku",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 40.3551994,
+   "lon": 49.8038621,
+   "distance_km": 44.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 40.3635458,
+   "lon": 49.8350231,
+   "distance_km": 47.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amber Otel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.3816903,
+   "lon": 49.8295056,
+   "distance_km": 48.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Baku",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 40.388146,
+   "lon": 49.8242136,
+   "distance_km": 48.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sapphire Hotel & Restaurant",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.375227,
+   "lon": 49.8403864,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AZ",
   "country_zh": "阿塞拜疆",
@@ -177,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:33Z"
 }

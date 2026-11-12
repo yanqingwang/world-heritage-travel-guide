@@ -2,9 +2,9 @@
  "id": "wh-120",
  "unesco_id": "120",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 321,
- "popularity_score": 28124,
+ "tier": "full",
+ "popularity_rank": 296,
+ "popularity_score": 25713,
  "country": "NP",
  "country_zh": "尼泊尔",
  "country_en": "Nepal",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_120.jpg",
-   "title": "Sagarmatha National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/120",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LocMap_Sagarmatha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap Sagarmatha.png",
+   "author": "Gus ,",
+   "license": "Public domain",
+   "credit": "Transferred from pl.wikipedia to Commons by Pjahr using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_Sagarmatha.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/120327-021_Mong_La.jpg/1280px-120327-021_Mong_La.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "120327-021 Mong La.jpg",
+   "author": "Faj2323",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:120327-021_Mong_La.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/120405-018_Ama_Dablam%2C_Phortse-Pangboche.jpg/1280px-120405-018_Ama_Dablam%2C_Phortse-Pangboche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "120405-018 Ama Dablam, Phortse-Pangboche.jpg",
+   "author": "Faj2323",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:120405-018_Ama_Dablam%2C_Phortse-Pangboche.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/120408_Pheriche_Pano_4k.jpg/1280px-120408_Pheriche_Pano_4k.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "120408 Pheriche Pano 4k.jpg",
+   "author": "Faj2323",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:120408_Pheriche_Pano_4k.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/120",
@@ -105,7 +129,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Snowland Lodge & Restaurant Khare",
+   "name_en": "Snowland Lodge & Restaurant Khare",
+   "stars": null,
+   "brand": null,
+   "lat": 27.7445108,
+   "lon": 86.8780263,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "绒布旅馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.1950928,
+   "lon": 86.826621,
+   "distance_km": 36.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chiwang ABC lodge and restaurant",
+   "name_en": "Chiwang ABC lodge and restaurant",
+   "stars": null,
+   "brand": null,
+   "lat": 27.5348522,
+   "lon": 86.5971918,
+   "distance_km": 40.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Surmuche Hotel",
+   "name_en": "Surmuche Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 27.8878572,
+   "lon": 86.2583097,
+   "distance_km": 42.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Dream Lodge & Restaurant",
+   "name_en": "Hotel Dream Lodge & Restaurant",
+   "stars": null,
+   "brand": null,
+   "lat": 27.5153203,
+   "lon": 86.5845231,
+   "distance_km": 43.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NP",
   "country_zh": "尼泊尔",
@@ -177,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:11Z"
+ "updated_at": "2026-11-12T11:55:24Z"
 }

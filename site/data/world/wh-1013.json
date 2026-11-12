@@ -2,9 +2,9 @@
  "id": "wh-1013",
  "unesco_id": "1013",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 332,
- "popularity_score": 26342,
+ "tier": "full",
+ "popularity_rank": 308,
+ "popularity_score": 24039,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -51,6 +51,30 @@
    "license": "see Wikimedia Commons file page",
    "source": "https://commons.wikimedia.org/wiki/File:Mulu.JPG",
    "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mulu_Pinnacles.jpg/1280px-Mulu_Pinnacles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mulu Pinnacles.jpg",
+   "author": "Nur Nafis Naim",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_02.jpg/1280px-Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 02.jpg",
+   "author": "Calistemon",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_03.jpg/1280px-Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ridley’s Cave Racer snake (Orthriophis taeniurus ridleyi) in Racer Cave, Gunung Mulu National Park, April 2025 03.jpg",
+   "author": "Calistemon",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ridley%E2%80%99s_Cave_Racer_snake_%28Orthriophis_taeniurus_ridleyi%29_in_Racer_Cave%2C_Gunung_Mulu_National_Park%2C_April_2025_03.jpg"
   },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1013.jpg",
@@ -102,10 +126,39 @@
   ],
   "nearest_airport_km": 1.1,
   "distance_beijing_km": 4010.5,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Batu Bungan",
+    "name_en": null,
+    "lat": 4.0533377,
+    "lon": 114.8190323,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "Kuala Litut",
+    "name_en": null,
+    "lat": 4.0963649,
+    "lon": 114.8375461,
+    "distance_km": 6.6,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Mulu Marriott Resort & Spa",
+   "name_en": "Mulu Marriott Resort & Spa",
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 4.0307964,
+   "lon": 114.7998053,
+   "distance_km": 1.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MY",
   "country_zh": "马来西亚",
@@ -178,5 +231,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-12T11:30:19Z"
+ "updated_at": "2026-11-12T11:55:32Z"
 }
