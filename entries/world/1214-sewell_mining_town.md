@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)"
 lat: -34.085
 lon: -70.3825
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 塞维尔铜矿城 / Sewell Mining Town
@@ -49,10 +49,10 @@ Situada a 60 km al este de Rancagua, a mí¡s de 2.000 metros de altitud, en la 
 
 ## 交通 / Transport
 
-- ✈ **Comodoro Arturo Merino Benítez International Airport (SCL)** — 85.5 km
+- ✈ **Comodoro Arturo Merino Benítez International Airport (SCL)** — 86.1 km
 - ✈ **Suboficial Ay Santiago Germano Airport (AFA)** — 190.1 km
 - ✈ **Governor Francisco Gabrielli International Airport (MDZ)** — 202.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **19023.8 km**
+- ✈ 距北京直线距离 / great-circle from Beijing: **19023.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

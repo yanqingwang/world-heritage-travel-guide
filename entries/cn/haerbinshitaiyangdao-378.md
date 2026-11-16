@@ -13,22 +13,12 @@ province_en: "Heilongjiang"
 city_en: "Harbin"
 lat: 45.790589
 lon: 126.605126
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 哈尔滨市太阳岛景区 / Taiyangdao Scenic Area
 
 > 黑龙江省 · 哈尔滨市 · 生态湿地
-
-## 图片 / Images
-
-![The Names of Tomatoes in Chinese Dialects.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Names_of_Tomatoes_in_Chinese_Dialects.pdf/page1-960px-The_Names_of_Tomatoes_in_Chinese_Dialects.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The Names of Tomatoes in Chinese Dialects.pdf · 张迎雪，项梦冰 · CC BY 4.0*
-
-![城镇化地区综合交通网规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf/page1-960px-%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*城镇化地区综合交通网规划.pdf · National Development and Reform Commission and Ministry of Transport, People's Republic of China · Public domain*
 
 ## 简介 / Introduction
 

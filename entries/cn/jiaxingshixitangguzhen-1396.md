@@ -2,7 +2,7 @@
 id: "cn-1396"
 dataset: "china_5a"
 name_zh: "嘉兴市西塘古镇旅游景区"
-name_en: "Jiaxingshixitangguzhen Scenic Area"
+name_en: "Jiaxing"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,26 +13,12 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.949711
 lon: 120.902526
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 嘉兴市西塘古镇旅游景区 / Jiaxingshixitangguzhen Scenic Area
+# 嘉兴市西塘古镇旅游景区 / Jiaxing
 
 > 浙江省 · 嘉兴市 · 古镇村落
-
-## 图片 / Images
-
-![Xitang photo by Dror Allon.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ad/Xitang_photo_by_Dror_Allon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Xitang photo by Dror Allon.jpg · היידן · CC BY-SA 4.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
 
 ## 简介 / Introduction
 
@@ -42,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Xitang Ancient Town has a flat terrain and dense rivers, presenting a landscape with "many bridges, lanes, and sheds". As one of the first batch of historical and cultural towns in China and one of the six ancient towns in Jiangnan, it has a long history and is one of the birthplaces of ancient Wuyue culture. It has won the Outstanding Achievement Award for World Heritage Protection and has been included in China's World Cultural Heritage Preparatory List by the State Administration of Cultural Heritage.
-
-*English introduction: machine translation.*
+Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāxīng; Wade–Giles: Chia-hsing), alternately romanized as Kashing, is a prefecture-level city in northern Zhejiang province, China. Lying on the Grand Canal of China, Jiaxing borders Hangzhou to the southwest, Huzhou to the west, Shanghai to the northeast, and the province of Jiangsu to the north. As of the 2020 census, its population was 5,400,868 and its built-up (or metro) area, made up of 2 urban districts was home to 1,518,654 inhabitants.
 
 ## 交通 / Transport
 
@@ -67,10 +51,10 @@ Xitang Ancient Town has a flat terrain and dense rivers, presenting a landscape 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西塘镇 (嘉善县))
+- [Wikipedia](https://zh.wikipedia.org/wiki/嘉兴市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

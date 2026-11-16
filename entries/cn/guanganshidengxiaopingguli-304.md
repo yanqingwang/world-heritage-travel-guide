@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Guangan City"
 lat: 30.525267
 lon: 106.643279
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 广安市邓小平故里旅游区 / Deng Xiaoping
 
 > 四川省 · 广安市 · 度假休闲
-
-## 图片 / Images
-
-![Deng Xiaoping at the arrival ceremony for the Vice Premier of China (cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/d/dd/Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Deng Xiaoping at the arrival ceremony for the Vice Premier of China (cropped).jpg · Unknown author Unknown author · Public domain*
-
-![Deng Xiaoping (cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b5/Deng_Xiaoping_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Deng Xiaoping (cropped).jpg · Unknown or not provided · Public domain*
-
-![Deng Xiaoping and Jimmy Carter at the arrival ceremony for the Vice Premier of China. - NARA - 183157-restored(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Deng Xiaoping and Jimmy Carter at the arrival ceremony for the Vice Premier of China. - NARA - 183157-restored(cropped).jpg · Unknown author Unknown author · Public domain*
-
-![Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-10.jpg/1280px-Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-10.jpg · Acroterion · CC BY-SA 4.0*
-
-![Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-5.jpg/1280px-Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-5.jpg · Acroterion · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

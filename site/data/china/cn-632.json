@@ -10,8 +10,8 @@
  "city_zh": "拉萨市",
  "city_en": "Lhasa",
  "name_zh": "拉萨市布达拉宫景区",
- "name_en": "Potala Palace",
- "name_en_source": "wikipedia",
+ "name_en": "Lasashibudalagong Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "lasashibudalagong-632",
  "lat": 29.660346,
  "lon": 91.125038,
@@ -22,50 +22,9 @@
  "category_zh": "石窟艺术",
  "category_en": "Grotto art",
  "intro_zh": "布达拉宫是世界上海拔最高，也是西藏最庞大、最完整的古代宫堡建筑群。布达拉宫是中华民族古建筑的精华之作，是第五套人民币50元纸币背面的风景图案，是国家AAAAA级旅游景区和世界文化遗产。布达拉宫主要景观由宫殿、壁画、灵塔组成，主要景点有帕巴拉康、白宫德央厦、措钦司西平措努、伍孜加毗、其美德丹基、堆廓拉康、布达拉宫珍宝馆等。",
- "intro_en": "Potala Palace (Tibetan: ཕོ་བྲང་པོ་ཏ་ལ་, Wylie: pho brang po ta la; simplified Chinese: 布达拉宫; traditional Chinese: 布達拉宮; pinyin: Bùdálā Gōng) is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China. It was formerly the winter palace of the Dalai Lamas, and from 1649 until 1959 served as the Dalai Lamas' residence. The palace complex became a museum following the annexation of Tibet by the People's Republic of China. The palace is named after Mount Potalaka, regarded in Buddhist tradition as the mythical abode of the bodhisattva Avalokiteśvara. Construction of the present structure was begun in 1645 at the order of the 5th Dalai Lama, advised by Konchog Chophel, the Thirty-fifth Ganden Tripa of the Gelug school. It was built on the site of an earlier palace attributed to Songtsen Gampo (traditionally dated to 637). Built in the dzong style, at an altitude of about 3,700 metres (12,100 ft) on Marpo Ri in the center of the Lhasa Valley, the palace measures 400 metres (1,300 ft) east–west and 350 metres (1,150 ft) north–south. Its sloping stone walls average 3 metres (9.8 ft) thick, 5 metres (16 ft) at the base, with copper poured into the foundations for earth",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/1280px-Potala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Potala.jpg",
-   "author": "Ondřej Žváček",
-   "license": "CC BY 2.5",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Potala.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Chinese_stone_lion_at_the_entrance_to_the_Potala_Pallace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Chinese stone lion at the entrance to the Potala Pallace.jpg",
-   "author": "nathan",
-   "license": "CC BY-SA 2.0",
-   "credit": "Onward Tibet http://www.onwardtibet.org/20-1-0.html",
-   "source": "https://commons.wikimedia.org/wiki/File:Chinese_stone_lion_at_the_entrance_to_the_Potala_Pallace.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Courtyard_of_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg/1280px-Courtyard_of_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Courtyard of the Potala Palace in Lhasa, Tibet.jpg",
-   "author": "Jan Kranendonk ( https://www.jankranendonk.nl )",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Courtyard_of_the_Potala_Palace_in_Lhasa,_Tibet.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Inside_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg/1280px-Inside_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Inside the Potala Palace in Lhasa, Tibet.jpg",
-   "author": "Jan Kranendonk ( https://www.jankranendonk.nl )",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Potala_Palace_in_Lhasa,_Tibet.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Potala_Palace_%2823651397662%29.jpg/1280px-Potala_Palace_%2823651397662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Potala Palace (23651397662).jpg",
-   "author": "Laika ac from UK",
-   "license": "CC BY-SA 2.0",
-   "credit": "Potala Palace",
-   "source": "https://commons.wikimedia.org/wiki/File:Potala_Palace_(23651397662).jpg"
-  }
- ],
+ "intro_en": "The Potala Palace is the highest altitude in the world and the largest and most complete ancient palace complex in Tibet. The Potala Palace is the essence of the Chinese nation's ancient architecture. It is the landscape pattern on the back of the fifth set of RMB 50 banknotes. It is a national AAAAA-level tourist attraction and a world cultural heritage. The main landscape of the Potala Palace consists of palaces, murals, and pagodas. The main attractions include Pabalakhang, White House Deyang Building, Tsoqin Sipingtsonu, Wuzijiapi, Qimeidanji, Tukuolakang, Potala Palace Treasure Hall, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -196,11 +155,10 @@
  "hotels_nearby_30km": 39,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -219,7 +177,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -229,13 +187,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/布达拉宫"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

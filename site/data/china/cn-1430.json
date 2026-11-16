@@ -10,7 +10,7 @@
  "city_zh": "保定市",
  "city_en": "Baoding",
  "name_zh": "保定市白石山景区",
- "name_en": "Baodingshibaishishan Scenic Area",
+ "name_en": "Baishishan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "baodingshibaishishan-1430",
  "lat": 39.242194,
@@ -112,9 +112,10 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -144,12 +145,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/白石山镇 (涞源县)"
+   "url": "https://zh.wikipedia.org/wiki/白石山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

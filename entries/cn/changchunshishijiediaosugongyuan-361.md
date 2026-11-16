@@ -13,34 +13,12 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.828262
 lon: 125.340278
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 长春市世界雕塑公园景区 / Changchun World Sculpture Park
 
 > 吉林省 · 长春市 · 山地风光
-
-## 图片 / Images
-
-![长春世界雕塑公园主塔.jpg](https://upload.wikimedia.org/wikipedia/commons/2/22/%E9%95%BF%E6%98%A5%E4%B8%96%E7%95%8C%E9%9B%95%E5%A1%91%E5%85%AC%E5%9B%AD%E4%B8%BB%E5%A1%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*长春世界雕塑公园主塔.jpg · GB at Chinese Wikipedia · CC BY-SA 3.0*
-
-![25240-Changchun (49052553227).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/25240-Changchun_%2849052553227%29.jpg/1280px-25240-Changchun_%2849052553227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*25240-Changchun (49052553227).jpg · xiquinhosilva · CC BY 2.0*
-
-![25337-Changchun (49052555402).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/25337-Changchun_%2849052555402%29.jpg/1280px-25337-Changchun_%2849052555402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*25337-Changchun (49052555402).jpg · xiquinhosilva · CC BY 2.0*
-
-![25342-Changchun (49052343521).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/25342-Changchun_%2849052343521%29.jpg/1280px-25342-Changchun_%2849052343521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*25342-Changchun (49052343521).jpg · xiquinhosilva · CC BY 2.0*
-
-![25348-Changchun (49052556792).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/25348-Changchun_%2849052556792%29.jpg/1280px-25348-Changchun_%2849052556792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*25348-Changchun (49052556792).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 

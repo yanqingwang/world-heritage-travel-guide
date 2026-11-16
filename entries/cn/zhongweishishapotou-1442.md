@@ -13,34 +13,12 @@ province_en: "Ningxia"
 city_en: "Zhongwei"
 lat: 37.478011
 lon: 105.005776
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 中卫市沙坡头旅游景区 / Shapotou Scenic Area
 
 > 宁夏回族自治区 · 中卫市 · 历史遗址
-
-## 图片 / Images
-
-![20260809 Shapotou Scenic Area (Desert Area) 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_01.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260809 Shapotou Scenic Area (Desert Area) 01.jpg · Windmemories · CC BY-SA 4.0*
-
-![20260809 Shapotou Scenic Area (Desert Area) 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_02.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260809 Shapotou Scenic Area (Desert Area) 02.jpg · Windmemories · CC BY-SA 4.0*
-
-![20260809 Shapotou Scenic Area (Desert Area) 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_03.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260809 Shapotou Scenic Area (Desert Area) 03.jpg · Windmemories · CC BY-SA 4.0*
-
-![20260809 Yellow River at Shapotou.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/20260809_Yellow_River_at_Shapotou.jpg/1280px-20260809_Yellow_River_at_Shapotou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260809 Yellow River at Shapotou.jpg · Windmemories · CC BY-SA 4.0*
-
-![Shapotou National Park.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7f/Shapotou_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Shapotou National Park.jpg · 千里走单骑 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

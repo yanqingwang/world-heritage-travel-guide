@@ -13,34 +13,12 @@ province_en: "Shandong"
 city_en: "Linyi"
 lat: 35.567217
 lon: 117.984396
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 沂蒙山旅游区 / Yimengshan Tourist Area
 
 > 山东省 · 临沂市 · 山地风光
-
-## 图片 / Images
-
-![沂蒙山天蒙旅游区望海楼（背面）.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%E6%B2%82%E8%92%99%E5%B1%B1%E5%A4%A9%E8%92%99%E6%97%85%E6%B8%B8%E5%8C%BA%E6%9C%9B%E6%B5%B7%E6%A5%BC%EF%BC%88%E8%83%8C%E9%9D%A2%EF%BC%89.jpg/1280px-%E6%B2%82%E8%92%99%E5%B1%B1%E5%A4%A9%E8%92%99%E6%97%85%E6%B8%B8%E5%8C%BA%E6%9C%9B%E6%B5%B7%E6%A5%BC%EF%BC%88%E8%83%8C%E9%9D%A2%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*沂蒙山天蒙旅游区望海楼（背面）.jpg · WPTO · CC BY 4.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![临沂市蒙山保护条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%E4%B8%B4%E6%B2%82%E5%B8%82%E8%92%99%E5%B1%B1%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E4%B8%B4%E6%B2%82%E5%B8%82%E8%92%99%E5%B1%B1%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*临沂市蒙山保护条例.pdf · Q106070819 · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![沂蒙山天蒙旅游区玻璃索桥远眺.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E6%B2%82%E8%92%99%E5%B1%B1%E5%A4%A9%E8%92%99%E6%97%85%E6%B8%B8%E5%8C%BA%E7%8E%BB%E7%92%83%E7%B4%A2%E6%A1%A5%E8%BF%9C%E7%9C%BA.jpg/1280px-%E6%B2%82%E8%92%99%E5%B1%B1%E5%A4%A9%E8%92%99%E6%97%85%E6%B8%B8%E5%8C%BA%E7%8E%BB%E7%92%83%E7%B4%A2%E6%A1%A5%E8%BF%9C%E7%9C%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*沂蒙山天蒙旅游区玻璃索桥远眺.jpg · WPTO · CC BY 4.0*
 
 ## 简介 / Introduction
 

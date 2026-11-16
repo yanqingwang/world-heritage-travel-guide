@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Fuzhou"
 lat: 26.088452
 lon: 119.303186
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 福州市三坊七巷景区 / Sanfang Qixiang
 
 > 福建省 · 福州市 · 宗教文化
-
-## 图片 / Images
-
-![东百中心A馆10楼瞭望台西三坊七巷.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E4%B8%9C%E7%99%BE%E4%B8%AD%E5%BF%83A%E9%A6%8610%E6%A5%BC%E7%9E%AD%E6%9C%9B%E5%8F%B0%E8%A5%BF%E4%B8%89%E5%9D%8A%E4%B8%83%E5%B7%B7.jpg/1280px-%E4%B8%9C%E7%99%BE%E4%B8%AD%E5%BF%83A%E9%A6%8610%E6%A5%BC%E7%9E%AD%E6%9C%9B%E5%8F%B0%E8%A5%BF%E4%B8%89%E5%9D%8A%E4%B8%83%E5%B7%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*东百中心A馆10楼瞭望台西三坊七巷.jpg · 董辰兴 · CC BY-SA 4.0*
-
-![Fuzhou Three Lanes and Seven Alleys Mainstreet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Fuzhou_Three_Lanes_and_Seven_Alleys_Mainstreet.jpg/1280px-Fuzhou_Three_Lanes_and_Seven_Alleys_Mainstreet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuzhou Three Lanes and Seven Alleys Mainstreet.jpg · Lennartbj · CC BY-SA 4.0*
-
-![Fuzhou Three Lanes and Seven Alleys Nightview.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fuzhou_Three_Lanes_and_Seven_Alleys_Nightview.jpg/1280px-Fuzhou_Three_Lanes_and_Seven_Alleys_Nightview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuzhou Three Lanes and Seven Alleys Nightview.jpg · Lennartbj · CC BY-SA 4.0*
-
-![Map of Three Lanes and Seven Alleys.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Three_Lanes_and_Seven_Alleys.svg/1280px-Map_of_Three_Lanes_and_Seven_Alleys.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Map of Three Lanes and Seven Alleys.svg · Siyuwj · CC BY-SA 4.0*
-
-![Protection sign of Three Lanes and Seven Alleys, 2019-09-29.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Protection_sign_of_Three_Lanes_and_Seven_Alleys%2C_2019-09-29.jpg/1280px-Protection_sign_of_Three_Lanes_and_Seven_Alleys%2C_2019-09-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Protection sign of Three Lanes and Seven Alleys, 2019-09-29.jpg · Siyuwj · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

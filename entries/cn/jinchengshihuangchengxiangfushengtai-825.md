@@ -13,34 +13,12 @@ province_en: "Shanxi"
 city_en: "Jincheng"
 lat: 35.522279
 lon: 112.585095
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 晋城市皇城相府生态文化旅游区 / House of the Huangcheng Chancellor
 
 > 山西省 · 晋城市 · 历史遗址
-
-## 图片 / Images
-
-![Huangcheng Xiangfu 2.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Huangcheng_Xiangfu_2.JPG/1280px-Huangcheng_Xiangfu_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangcheng Xiangfu 2.JPG · Underbar dk · CC BY-SA 4.0*
-
-![Huangcheng Xiangfu 1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Huangcheng_Xiangfu_1.JPG/1280px-Huangcheng_Xiangfu_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangcheng Xiangfu 1.JPG · Underbar dk · CC BY-SA 4.0*
-
-![晋城皇城相府 - panoramio (18).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2818%29.jpg/1280px-%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*晋城皇城相府 - panoramio (18).jpg · 江上清风1961 · CC BY 3.0*
-
-![晋城皇城相府 - panoramio (24).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2824%29.jpg/1280px-%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*晋城皇城相府 - panoramio (24).jpg · 江上清风1961 · CC BY 3.0*
-
-![晋城皇城相府 - panoramio (32).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2832%29.jpg/1280px-%E6%99%8B%E5%9F%8E%E7%9A%87%E5%9F%8E%E7%9B%B8%E5%BA%9C_-_panoramio_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*晋城皇城相府 - panoramio (32).jpg · 江上清风1961 · CC BY 3.0*
 
 ## 简介 / Introduction
 

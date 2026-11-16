@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Wenzhou City"
 lat: 28.373528
 lon: 121.109514
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 温州市雁荡山风景区 / Yandang Mountains
 
 > 浙江省 · 温州市 · 山地风光
-
-## 图片 / Images
-
-![China2011 Zhejiang YandangShan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/China2011_Zhejiang_YandangShan.jpg/1280px-China2011_Zhejiang_YandangShan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*China2011 Zhejiang YandangShan.jpg · Glasreifen · CC BY-SA 4.0*
-
-![Tracks in Yandangshan Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tracks_in_Yandangshan_Railway_Station.jpg/1280px-Tracks_in_Yandangshan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tracks in Yandangshan Railway Station.jpg · Siyuwj · CC BY-SA 3.0*
-
-![Yandang Mountain.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d4/Yandang_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yandang Mountain.jpg · Qian Weicheng · Public domain*
-
-![Yandangshan Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yandangshan_Railway_Station.jpg/1280px-Yandangshan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yandangshan Railway Station.jpg · Micromesistius · CC BY-SA 3.0*
-
-![Yandangshan banner3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Yandangshan_banner3.jpg/1280px-Yandangshan_banner3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yandangshan banner3.jpg · Dcpeets · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

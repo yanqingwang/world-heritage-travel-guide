@@ -13,26 +13,12 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 27.956867
 lon: 109.599454
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 湘西州凤凰古城旅游区 / Fenghuanggucheng Tourist Area
 
 > 湖南省 · 湘西土家族苗族自治州 · 古镇村落
-
-## 图片 / Images
-
-![凤凰古城东城门 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E4%B8%9C%E5%9F%8E%E9%97%A8_-_panoramio.jpg/1280px-%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E4%B8%9C%E5%9F%8E%E9%97%A8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*凤凰古城东城门 - panoramio.jpg · 江上清风1961 · CC BY 3.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
 
 ## 简介 / Introduction
 
@@ -57,7 +43,7 @@ Fenghuang Ancient City Tourist Area consists of two areas: Fenghuang Ancient Cit
 
 ## 附近酒店 / Nearby hotels
 
-- **Fenghuang Jinshuian River View Hotel** — 0.5 km — hotel — Fenghuang Jinshuian River View Hotel
+- **凤仙境·温德姆森林温泉酒店** — 1.8 km — chain
 - **凤凰城** — 0.4 km — hotel — Feng Huang Cheng Hotel
 - **景宿梦澜·云裳180°全景智能江景美宿name:en=Yunshang 180 ° panoramic intelligent Jiang Jing Mei Su** — 0.4 km — hotel
 - **九栖客栈** — 0.5 km — hotel — Jiuqi Inn

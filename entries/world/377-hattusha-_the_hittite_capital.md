@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 40.01389
 lon: 34.62056
-updated_at: "2026-11-12T14:36:23Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 哈图莎：希泰首都 / Hattusha: the Hittite Capital

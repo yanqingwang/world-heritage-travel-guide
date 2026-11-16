@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Maanshan City"
 lat: 31.639665
 lon: 118.442385
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 马鞍山市长江采石矶文化生态旅游区 / Caishi Rock
 
 > 安徽省 · 马鞍山市 · 山地风光
-
-## 图片 / Images
-
-![三元洞 - panoramio - 陈宏宇 (1).jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%89%E5%85%83%E6%B4%9E_-_panoramio_-_%E9%99%88%E5%AE%8F%E5%AE%87_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*三元洞 - panoramio - 陈宏宇 (1).jpg · 陈宏宇 · CC BY 3.0*
-
-![Miao Song - The Taibo Wine Pavilion at Caishi Rock - 7-1998 - Saint Louis Art Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Miao_Song_-_The_Taibo_Wine_Pavilion_at_Caishi_Rock_-_7-1998_-_Saint_Louis_Art_Museum.jpg/1280px-Miao_Song_-_The_Taibo_Wine_Pavilion_at_Caishi_Rock_-_7-1998_-_Saint_Louis_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Miao Song - The Taibo Wine Pavilion at Caishi Rock - 7-1998 - Saint Louis Art Museum.jpg · Public domain*
-
-![三元洞 - panoramio - 陈宏宇.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3a/%E4%B8%89%E5%85%83%E6%B4%9E_-_panoramio_-_%E9%99%88%E5%AE%8F%E5%AE%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*三元洞 - panoramio - 陈宏宇.jpg · 陈宏宇 · CC BY 3.0*
-
-![导游图 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%AF%BC%E6%B8%B8%E5%9B%BE_-_panoramio.jpg/1280px-%E5%AF%BC%E6%B8%B8%E5%9B%BE_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*导游图 - panoramio.jpg · 陈宏宇 · CC BY 3.0*
-
-![延园 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8c/%E5%BB%B6%E5%9B%AD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*延园 - panoramio.jpg · 陈宏宇 · CC BY 3.0*
 
 ## 简介 / Introduction
 

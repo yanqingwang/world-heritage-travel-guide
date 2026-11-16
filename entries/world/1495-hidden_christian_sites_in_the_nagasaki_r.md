@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)"
 lat: 32.802222
 lon: 128.903889
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 长崎地区隐藏的基督教遗址 / Hidden Christian Sites in the Nagasaki Region

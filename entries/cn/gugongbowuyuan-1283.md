@@ -2,7 +2,7 @@
 id: "cn-1283"
 dataset: "china_5a"
 name_zh: "故宫博物院"
-name_en: "Palace Museum"
+name_en: "Gugong Museum"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.924091
 lon: 116.403414
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 故宫博物院 / Palace Museum
+# 故宫博物院 / Gugong Museum
 
 > 北京市 · 东城区 · 历史遗址
-
-## 图片 / Images
-
-![Forbidden City Beijing Shenwumen Gate.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1280px-Forbidden_City_Beijing_Shenwumen_Gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Forbidden City Beijing Shenwumen Gate.JPG · user:kallgan · CC BY-SA 3.0*
-
-![Model of Palace Museum North Branch at BIAD stall, CIFTIS Hall 13 (20240914161300).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Model_of_Palace_Museum_North_Branch_at_BIAD_stall%2C_CIFTIS_Hall_13_%2820240914161300%29.jpg/1280px-Model_of_Palace_Museum_North_Branch_at_BIAD_stall%2C_CIFTIS_Hall_13_%2820240914161300%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Model of Palace Museum North Branch at BIAD stall, CIFTIS Hall 13 (20240914161300).jpg · N509FZ · CC BY-SA 4.0*
-
-![Model of Palace Museum North Branch at BIAD stall, CIFTIS Hall 13 (20240914161302).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Model_of_Palace_Museum_North_Branch_at_BIAD_stall%2C_CIFTIS_Hall_13_%2820240914161302%29.jpg/1280px-Model_of_Palace_Museum_North_Branch_at_BIAD_stall%2C_CIFTIS_Hall_13_%2820240914161302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Model of Palace Museum North Branch at BIAD stall, CIFTIS Hall 13 (20240914161302).jpg · N509FZ · CC BY-SA 4.0*
-
-![NTUL-9910002018 國立北平故宫博物院十週年紀念文獻特刊.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/NTUL-9910002018_%E5%9C%8B%E7%AB%8B%E5%8C%97%E5%B9%B3%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%8D%81%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%96%87%E7%8D%BB%E7%89%B9%E5%88%8A.pdf/page1-1280px-NTUL-9910002018_%E5%9C%8B%E7%AB%8B%E5%8C%97%E5%B9%B3%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%8D%81%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%96%87%E7%8D%BB%E7%89%B9%E5%88%8A.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*NTUL-9910002018 國立北平故宫博物院十週年紀念文獻特刊.pdf · 國立北平故宫博物院文獻館編輯會編輯 · Public domain*
-
-![North Branch of the Palace Museum under construction (20250224150705).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/North_Branch_of_the_Palace_Museum_under_construction_%2820250224150705%29.jpg/1280px-North_Branch_of_the_Palace_Museum_under_construction_%2820250224150705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*North Branch of the Palace Museum under construction (20250224150705).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:45Z"
 
 ### English
 
-The Palace Museum (Chinese: 故宫博物院; pinyin: Gùgōng Bówùyùan), also known as the Beijing Palace Museum, is a large national museum complex housed in the Forbidden City at the core of Beijing, China. With 720,000 square metres (180 acres), the museum inherited the imperial royal palaces from the Ming and Qing dynasties of China and opened to the public in 1925 after the last Emperor of China, the Xuantong Emperor (Puyi), was evicted in 1924. Constructed from 1406 to 1420, the museum consists of 980 buildings. It is home to over 1.8 million pieces of art, mostly from the imperial collection of the Ming and Qing dynasties. The 20th century saw its expansion through new acquisitions, transfers from other museums, and new archaeological discoveries. According to the Beijing Evening Post, the museum has seen more than 17 million visitors in 2018, making it the world's most visited museum. It has an average of 15 million visitors annually since 2012. Due to this increased pressure, the management has set a daily limit for visitors of 80,000 since 2015 to protect the structure and the experience.
+The Palace Museum in Beijing was established on October 10, 1925. It is located in the Forbidden City of the Forbidden City in Beijing. It is a comprehensive museum based on the imperial palaces of the Ming and Qing dynasties and their collections. It is also the largest museum of ancient culture and art in China. Its cultural relics collection mainly comes from the old collections of the Qing Dynasty palace. It is the first batch of national patriotism education demonstration bases. It was included in the "World Cultural Heritage List" in 1987.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -76,7 +56,7 @@ The Palace Museum (Chinese: 故宫博物院; pinyin: Gùgōng Bówùyùan), also
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 30.43178
 lon: 109.173293
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 恩施州恩施大峡谷景区 / Enshi Grand Canyon
 
 > 湖北省 · 恩施土家族苗族自治州 · 地质奇观
-
-## 图片 / Images
-
-![Enshi Grand Canyon 20240725.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Enshi_Grand_Canyon_20240725.jpg/1280px-Enshi_Grand_Canyon_20240725.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi Grand Canyon 20240725.jpg · HoweyYuan · CC BY-SA 4.0*
-
-![Enshi Grand Canyon 20240725 130732.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Enshi_Grand_Canyon_20240725_130732.jpg/1280px-Enshi_Grand_Canyon_20240725_130732.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi Grand Canyon 20240725 130732.jpg · HoweyYuan · CC BY-SA 4.0*
-
-![Enshi grand canyon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Enshi_grand_canyon.jpg/1280px-Enshi_grand_canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi grand canyon.jpg · Unknown author Unknown author · CC0*
-
-![Enshi grand canyon 2025 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Enshi_grand_canyon_2025_02.jpg/1280px-Enshi_grand_canyon_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi grand canyon 2025 02.jpg · Wimwamble · CC BY-SA 4.0*
-
-![Enshi grand canyon 2025 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Enshi_grand_canyon_2025_04.jpg/1280px-Enshi_grand_canyon_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi grand canyon 2025 04.jpg · Wimwamble · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

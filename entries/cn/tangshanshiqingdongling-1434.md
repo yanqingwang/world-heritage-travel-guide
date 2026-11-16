@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Tangshan"
 lat: 40.041526
 lon: 117.726881
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 唐山市清东陵景区 / Eastern Qing tombs
 
 > 河北省 · 唐山市 · 历史遗址
-
-## 图片 / Images
-
-![Eastern Qing Tombs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Qing_Tombs.jpg/1280px-Eastern_Qing_Tombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Eastern Qing Tombs.jpg · gongfu_king · CC BY-SA 2.0*
-
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf/page1-500px-2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf · 全国人民代表大会常务委员会法制工作委员会 · Public domain*
-
-![CADAL09013850 河北省政府公報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/CADAL09013850_%E6%B2%B3%E5%8C%97%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL09013850_%E6%B2%B3%E5%8C%97%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09013850 河北省政府公報.djvu · Public domain*
-
-![CADAL11110521 中國地理.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL11110521_%E4%B8%AD%E5%9C%8B%E5%9C%B0%E7%90%86.djvu/page1-1280px-CADAL11110521_%E4%B8%AD%E5%9C%8B%E5%9C%B0%E7%90%86.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL11110521 中國地理.djvu · （美）哈金森；姜毓文；邝富灼 · Public domain*
 
 ## 简介 / Introduction
 
@@ -64,10 +42,10 @@ The Eastern Qing tombs (Chinese: 清東陵; pinyin: Qīng Dōng líng; Manchu: �
 ## 附近酒店 / Nearby hotels
 
 - **遵化金融街古泉皇冠假日酒店** — 18.2 km — chain — Crowne Plaza
+- **锦江都城酒店** — 25.1 km — chain — Metropole Jinjiang Hotel
+- **维也纳酒店** — 28.4 km — chain — Vienna Hotels · 维也纳酒店
 - **兰阳宾馆** — 15.7 km — hotel
 - **玉田宾馆** — 15.8 km — hotel
-- **御苑山庄** — 15.9 km — hotel
-- **百客快捷宾馆** — 17.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

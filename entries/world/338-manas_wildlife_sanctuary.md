@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(vii)(ix)(x)"
 lat: 26.716666666
 lon: 90.933333333
-updated_at: "2026-11-12T14:36:22Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 马纳斯野生动植物保护区 / Manas Wildlife Sanctuary

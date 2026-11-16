@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Lu'an"
 lat: 31.141125
 lon: 115.785284
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 六安市天堂寨旅游景区 / Tiantangzhai
 
 > 安徽省 · 六安市 · 度假休闲
-
-## 图片 / Images
-
-![索道.jpg](https://upload.wikimedia.org/wikipedia/commons/0/03/%E7%B4%A2%E9%81%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*索道.jpg · Jasonfang86 · CC BY-SA 4.0*
-
-![安徽省高速公路网规划修编（2020—2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%E5%AE%89%E5%BE%BD%E7%9C%81%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%E4%BF%AE%E7%BC%96%EF%BC%882020%E2%80%942035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E5%AE%89%E5%BE%BD%E7%9C%81%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%E4%BF%AE%E7%BC%96%EF%BC%882020%E2%80%942035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*安徽省高速公路网规划修编（2020—2035年）.pdf · 安徽省交通运输厅 · Public domain*
-
-![Forest in Tiantangzhai Forest Park.JPG](https://upload.wikimedia.org/wikipedia/commons/b/b5/Forest_in_Tiantangzhai_Forest_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Forest in Tiantangzhai Forest Park.JPG · そらみみ · CC BY-SA 4.0*
-
-![Gate of Tiantangzhai Forest Park.JPG](https://upload.wikimedia.org/wikipedia/commons/5/56/Gate_of_Tiantangzhai_Forest_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Gate of Tiantangzhai Forest Park.JPG · そらみみ · CC BY-SA 4.0*
-
-![Guide map of Mount Zherenfeng in Tiantangzhai Forest Park.JPG](https://upload.wikimedia.org/wikipedia/commons/a/ad/Guide_map_of_Mount_Zherenfeng_in_Tiantangzhai_Forest_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Guide map of Mount Zherenfeng in Tiantangzhai Forest Park.JPG · そらみみ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Chongqing"
 city_en: "Wulong County"
 lat: 29.460274
 lon: 107.74164
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 喀斯特旅游区 / Wulong Karst
 
 > 重庆市 · 武隆县 · 历史遗址
-
-## 图片 / Images
-
-![Wulongtianshengsanqiao.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wulongtianshengsanqiao.JPG/1280px-Wulongtianshengsanqiao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wulongtianshengsanqiao.JPG · Brookqi · Public domain*
-
-![Bus Area at the end of Wulong Karst visit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bus_Area_at_the_end_of_Wulong_Karst_visit.jpg/1280px-Bus_Area_at_the_end_of_Wulong_Karst_visit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bus Area at the end of Wulong Karst visit.jpg · Hugo LUC · CC BY-SA 4.0*
-
-![Bus shuttle at Tourist Center of Wulong Karst.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bus_shuttle_at_Tourist_Center_of_Wulong_Karst.jpg/1280px-Bus_shuttle_at_Tourist_Center_of_Wulong_Karst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bus shuttle at Tourist Center of Wulong Karst.jpg · Hugo LUC · CC BY-SA 4.0*
-
-![Display for Wulong Karst bus shuttle at Wulong South Railway station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Display_for_Wulong_Karst_bus_shuttle_at_Wulong_South_Railway_station.jpg/1280px-Display_for_Wulong_Karst_bus_shuttle_at_Wulong_South_Railway_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Display for Wulong Karst bus shuttle at Wulong South Railway station.jpg · Hugo LUC · CC BY-SA 4.0*
-
-![Guide Map of Wulong Karst Toursim Region (Natural Three Bridges).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Guide_Map_of_Wulong_Karst_Toursim_Region_%28Natural_Three_Bridges%29.jpg/1280px-Guide_Map_of_Wulong_Karst_Toursim_Region_%28Natural_Three_Bridges%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Guide Map of Wulong Karst Toursim Region (Natural Three Bridges).jpg · Hugo LUC · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Beijing"
 city_en: "Huairou District"
 lat: 40.367951
 lon: 115.984491
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 八达岭—慕田峪长城旅游区 / Great Wall of China
 
 > 北京市 · 怀柔区 · 历史遗址
-
-## 图片 / Images
-
-![Badaling China Great-Wall-of-China-06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Badaling_China_Great-Wall-of-China-06.jpg/1280px-Badaling_China_Great-Wall-of-China-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Badaling China Great-Wall-of-China-06.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![The Great Wall of China at Jinshanling-edit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1280px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The Great Wall of China at Jinshanling-edit.jpg · Severin.stalder · CC BY-SA 3.0*
-
-![长城保护总体规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长城保护总体规划.pdf · 中华人民共和国文化和旅游部、国家文物局 · Public domain*
-
-![20090529 Great Wall 8185.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/1280px-20090529_Great_Wall_8185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090529 Great Wall 8185.jpg · Jakub Hałun · CC BY-SA 3.0*
-
-![20090529 Great Wall 8219.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/20090529_Great_Wall_8219.jpg/1280px-20090529_Great_Wall_8219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090529 Great Wall 8219.jpg · Jakub Hałun · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

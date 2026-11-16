@@ -13,34 +13,12 @@ province_en: "Tianjin"
 city_en: "Nankai District"
 lat: 39.148444
 lon: 117.182192
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 天津古文化街旅游区（津门故里） / Guwenhua Jie
 
 > 天津市 · 南开区 · 宗教文化
-
-## 图片 / Images
-
-![Ancient Culture Street entrance.jpg](https://upload.wikimedia.org/wikipedia/commons/8/84/Ancient_Culture_Street_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Ancient Culture Street entrance.jpg · William M Benson · Public domain*
-
-![20230220 Guwenhua Jie.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20230220_Guwenhua_Jie.jpg/1280px-20230220_Guwenhua_Jie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20230220 Guwenhua Jie.jpg · Yumeto · CC BY-SA 4.0*
-
-![Tianjin Guwenhua Jie-20150522-RM-120620.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tianjin_Guwenhua_Jie-20150522-RM-120620.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-120620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianjin Guwenhua Jie-20150522-RM-120620.jpg · Ermell · CC BY-SA 4.0*
-
-![Tianjin Guwenhua Jie-20150522-RM-121846.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tianjin_Guwenhua_Jie-20150522-RM-121846.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-121846.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianjin Guwenhua Jie-20150522-RM-121846.jpg · Ermell · CC BY-SA 4.0*
-
-![Tianjin Guwenhua Jie-20150522-RM-121902.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Tianjin_Guwenhua_Jie-20150522-RM-121902.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-121902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianjin Guwenhua Jie-20150522-RM-121902.jpg · Ermell · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.296135
 lon: 106.515563
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 银川市水洞沟旅游区 / Shuidonggou
@@ -42,10 +42,10 @@ Shuidonggou is an archaeological site and tourist attraction in Ordos, Yinchuan,
 
 ## 附近酒店 / Nearby hotels
 
+- **智选假日酒店** — 28.6 km — chain — Holiday Inn
 - **银川之悦酒店** — 27.3 km — hotel
 - **爱的空间主题酒店** — 27.3 km — hotel
 - **奥瑞莱商务酒店** — 27.9 km — hotel — Alright Business Hotel
-- **智选假日酒店** — 28.6 km — chain — Holiday Inn
 - **建国璞隐酒店** — 28.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

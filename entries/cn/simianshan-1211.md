@@ -13,34 +13,12 @@ province_en: "Chongqing"
 city_en: "Jiangjin District"
 lat: 28.720354
 lon: 106.486508
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 四面山景区 / Simian Mountain
 
 > 重庆市 · 江津区 · 度假休闲
-
-## 图片 / Images
-
-![The waterfall in Simian Mountain,Jiangjin,Chongqing.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/The_waterfall_in_Simian_Mountain%2CJiangjin%2CChongqing.jpg/1280px-The_waterfall_in_Simian_Mountain%2CJiangjin%2CChongqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The waterfall in Simian Mountain,Jiangjin,Chongqing.jpg · Chen Hualin · CC BY-SA 3.0*
-
-![CADAL09006823 世界兩大散文詩作家代表作.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/CADAL09006823_%E4%B8%96%E7%95%8C%E5%85%A9%E5%A4%A7%E6%95%A3%E6%96%87%E8%A9%A9%E4%BD%9C%E5%AE%B6%E4%BB%A3%E8%A1%A8%E4%BD%9C.djvu/page1-1280px-CADAL09006823_%E4%B8%96%E7%95%8C%E5%85%A9%E5%A4%A7%E6%95%A3%E6%96%87%E8%A9%A9%E4%BD%9C%E5%AE%B6%E4%BB%A3%E8%A1%A8%E4%BD%9C.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09006823 世界兩大散文詩作家代表作.djvu · （俄） 屠格涅夫（著）；（法） 波特莱尔（著）；李冰若 · Public domain*
-
-![CADAL11102877 疾風.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/CADAL11102877_%E7%96%BE%E9%A2%A8.djvu/page1-1280px-CADAL11102877_%E7%96%BE%E9%A2%A8.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL11102877 疾風.djvu · 林谷 · Public domain*
-
-![广东省文物保护单位细美寨保护规划（2021-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%BB%86%E7%BE%8E%E5%AF%A8%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-1280px-%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%BB%86%E7%BE%8E%E5%AF%A8%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*广东省文物保护单位细美寨保护规划（2021-2035年）.pdf · 韶关市人民政府 · Public domain*
-
-![Simian Mountain -- Boats in the lake.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Simian_Mountain_--_Boats_in_the_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Simian Mountain -- Boats in the lake.jpg · Fay in China · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,18 +13,12 @@ province_en: "Fujian"
 city_en: "Ningde"
 lat: 27.058977
 lon: 119.118059
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 宁德市（白水洋•鸳鸯溪）旅游景区 / Baishuiyang Scenic Area
 
 > 福建省 · 宁德市 · 自然风光
-
-## 图片 / Images
-
-![波光粼粼 - Sparkling Ripples - 2014.07 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC_-_Sparkling_Ripples_-_2014.07_-_panoramio.jpg/1280px-%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC_-_Sparkling_Ripples_-_2014.07_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*波光粼粼 - Sparkling Ripples - 2014.07 - panoramio.jpg · rheins · CC BY 3.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(i)(ii)(iv)"
 lat: 19.836388888
 lon: -98.662222222
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 腾布里克神父水道桥水利设施 / Aqueduct of Padre Tembleque Hydraulic System

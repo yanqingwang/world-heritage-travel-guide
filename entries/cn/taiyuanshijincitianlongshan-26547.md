@@ -13,34 +13,12 @@ province_en: "Shanxi"
 city_en: "Taiyuan"
 lat: 37.705129
 lon: 112.449184
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 太原市晋祠天龙山景区 / Jinci
 
 > 山西省 · 太原市 · 石窟艺术
-
-## 图片 / Images
-
-![Goddess Temple Jinsi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1280px-Goddess_Temple_Jinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Goddess Temple Jinsi.JPG · Gisling · CC BY 3.0*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![Lingshi Jinci Miao 2013.08.24 16-15-59.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lingshi_Jinci_Miao_2013.08.24_16-15-59.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-15-59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingshi Jinci Miao 2013.08.24 16-15-59.jpg · Zhangzhugang · CC BY-SA 3.0*
-
-![Lingshi Jinci Miao 2013.08.24 16-16-13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lingshi_Jinci_Miao_2013.08.24_16-16-13.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-16-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingshi Jinci Miao 2013.08.24 16-16-13.jpg · Zhangzhugang · CC BY-SA 3.0*
-
-![Lingshi Jinci Miao 2013.08.24 16-20-13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lingshi_Jinci_Miao_2013.08.24_16-20-13.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-20-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingshi Jinci Miao 2013.08.24 16-20-13.jpg · Zhangzhugang · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -66,8 +44,8 @@ The Jinci or Jin Temple (晉祠) is the most prominent temple complex in Shanxi,
 - **凯宾斯基饭店** — 15.7 km — star — Kempinski Hotels · 5★ · Kempinski
 - **太原富力铂尔曼大酒店** — 24.9 km — star — Pullman Taiyuan · 5★
 - **JW Marriott** — 16.5 km — chain
-- **Hampton by Hilton Taiyuan Wuyi Square** — 19.8 km — chain — Hampton
-- **悦海四季酒店** — 21.7 km — chain
+- **全季酒店** — 17.0 km — chain — Ji Hotel · 全季酒店
+- **锦江之星** — 19.8 km — chain — Jinjiang Inn · 锦江之星
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

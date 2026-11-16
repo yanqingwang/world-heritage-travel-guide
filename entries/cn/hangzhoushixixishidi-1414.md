@@ -2,7 +2,7 @@
 id: "cn-1414"
 dataset: "china_5a"
 name_zh: "杭州市西溪湿地旅游区"
-name_en: "Hangzhoushixixishidi Tourist Area"
+name_en: "South Xixi Wetland station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 30.283595
 lon: 120.076821
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 杭州市西溪湿地旅游区 / Hangzhoushixixishidi Tourist Area
+# 杭州市西溪湿地旅游区 / South Xixi Wetland station
 
 > 浙江省 · 杭州市 · 生态湿地
-
-## 图片 / Images
-
-![长江三角洲城市群发展规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长江三角洲城市群发展规划.pdf · 中华人民共和国国家发展和改革委员会 · Public domain*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Xixi Wetland is a national wetland park integrating urban wetlands, agricultural wetlands and cultural wetlands. The total area of ​​the scenic area is about 11.5 square kilometers, which is divided into the eastern wetland ecological protection and cultivation area, the central wetland ecological tourism and leisure area, and the western wetland ecological landscape enclosure area.
-
-*English introduction: machine translation.*
+South Xixi Wetland (simplified Chinese: 西溪湿地南; traditional Chinese: 西溪濕地南) is a metro station of Line 3 of Hangzhou Metro in China, which opened on 10 June 2022. It is located in Xihu District of Hangzhou, adjacent to the Xixi National Wetland Park. Here Line 3 splits into two directions. The mainline heading toward Hangzhou West railway station in Yuhang District while the branch stretches into Xiaoheshan Higher Education Park in Xihu District.
 
 ## 交通 / Transport
 
@@ -60,10 +52,10 @@ Xixi Wetland is a national wetland park integrating urban wetlands, agricultural
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西溪 (杭州市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/西溪湿地南站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

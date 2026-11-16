@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(i)(ii)"
 lat: 51.154722222
 lon: 11.803888888
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 瑙姆堡大教堂 / Naumburg Cathedral

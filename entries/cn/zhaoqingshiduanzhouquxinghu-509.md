@@ -2,7 +2,7 @@
 id: "cn-509"
 dataset: "china_5a"
 name_zh: "肇庆市端州区星湖旅游景区"
-name_en: "Zhaoqing railway station"
+name_en: "Zhaoqingshibowuguan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Zhaoqing City"
 lat: 23.081657
 lon: 112.476283
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 肇庆市端州区星湖旅游景区 / Zhaoqing railway station
+# 肇庆市端州区星湖旅游景区 / Zhaoqingshibowuguan Scenic Area
 
 > 广东省 · 肇庆市 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Zhaoqing railway station (simplified Chinese: 肇庆站; traditional Chinese: 肇慶站) serves the city of Zhaoqing, Guangdong province, China. The station hosts train services to and from Guangzhou, Hong Kong, Kunming, Nanning, Hainan, and other parts of China. The station is an intermediate stop on the Guangzhou–Maoming railway and the western terminus of the higher-speed Guangzhou–Zhaoqing intercity railway.
+Zhaoqing Xinghu Scenic Area consists of two major scenic spots, Qixing Rock and Dinghu Mountain. The main attractions are Tianxi Ten Scenes, Yunxi Ten Scenes, Baoding Garden, etc. It is one of the first batch of key scenic spots in the country. The specialty flower mats in the scenic spot and the Duan inkstone produced in Duanzhou are famous both at home and abroad.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,10 @@ Zhaoqing railway station (simplified Chinese: 肇庆站; traditional Chinese: �
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/肇庆站)
+- [Wikipedia](https://zh.wikipedia.org/wiki/肇庆市博物馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

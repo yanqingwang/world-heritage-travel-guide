@@ -10,8 +10,8 @@
  "city_zh": "保定市",
  "city_en": "Baoding",
  "name_zh": "保定市清西陵景区",
- "name_en": "Xiling Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Western Qing tombs",
+ "name_en_source": "wikipedia",
  "slug": "baodingshiqingxiling-1426",
  "lat": 39.370705,
  "lon": 115.361948,
@@ -22,18 +22,9 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "清西陵是清朝最后一处帝王陵墓群。清西陵以14座陵寝为主，行宫、永福寺、营房、衙署为辅的83平方公里的广袤陵区，是现存规模宏大、保存最完整、陵寝建筑类型最齐全的古代皇家陵墓群。景点主要有泰陵、昌西陵、慕陵、崇陵、永福寺。2000年被列入《世界文化遗产名录》。",
- "intro_en": "The Qingxi Mausoleum is the last imperial tomb complex in the Qing Dynasty. The Western Mausoleum of the Qing Dynasty consists of 14 mausoleums, supplemented by palaces, Yongfu Temple, barracks, and government offices, covering a vast mausoleum area of ​​83 square kilometers. It is an ancient royal mausoleum group with the largest scale, the most complete preservation, and the most complete types of mausoleum buildings. The main attractions include Tailing Tomb, Changxi Tomb, Muling Tomb, Chongling Tomb and Yongfu Temple. It was included in the \"World Cultural Heritage List\" in 2000.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf/page1-500px-2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf",
-   "author": "全国人民代表大会常务委员会法制工作委员会",
-   "license": "Public domain",
-   "credit": "http://www.npc.gov.cn/npc/fgsfjsndbaml/202205/3c76392b1cc942d081e0dab7ba5a9cb6/files/308a1b2c88374c36bbb2fd54d6e3b8f6.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf"
-  }
- ],
+ "intro_en": "The Western Qing tombs (Chinese: 清西陵; pinyin: Qīng Xī líng; Manchu: ᠸᠠᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ, romanized: wargi ergi munggan) are located some 140 km (87 mi) southwest of Beijing in Yi County, Hebei Province. They constitute a necropolis that incorporates four royal mausoleums where seventy-eight royal members are buried. These include four emperors of the Qing dynasty and their empresses, imperial concubines, princes and princesses, as well as other royal servants.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -131,9 +122,9 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": true,
-  "ko": false,
+  "ko": true,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -154,7 +145,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -165,12 +156,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/西陵"
+   "url": "https://zh.wikipedia.org/wiki/清西陵"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

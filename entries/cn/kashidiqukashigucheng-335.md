@@ -2,7 +2,7 @@
 id: "cn-335"
 dataset: "china_5a"
 name_zh: "喀什地区喀什古城景区"
-name_en: "Kashizhan Scenic Area"
+name_en: "Kashgar railway station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 39.483206
 lon: 76.001757
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 喀什地区喀什古城景区 / Kashizhan Scenic Area
+# 喀什地区喀什古城景区 / Kashgar railway station
 
 > 新疆维吾尔自治区 · 喀什地区 · 古镇村落
-
-## 图片 / Images
-
-![Kashgar Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kashgar_Railway_Station.jpg/1280px-Kashgar_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kashgar Railway Station.jpg · xue siyang (df45086) · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Kashgar Old City Scenic Area covers an area of ​​4.25 square kilometers and has approximately 126,800 residents. The streets and alleys in the old city are criss-crossed, with flexible layouts and winding paths. Most of the residences are made of earth, wood, brick and wood structures. Many traditional residences have a history of hundreds of years. It is a labyrinth-like urban block characterized by Islamic culture.
-
-*English introduction: machine translation.*
+Kashgar railway station (喀什站) is the main railway station of Kashgar, Xinjiang and the westernmost railway station in China. It is the western terminus for the Southern Xinjiang and Kashgar–Hotan Railways. The station is located northeast of the city of Kashgar and is served by regular passenger trains to Ürümqi via Turpan. A trip on the faster kind (K-series) takes under 22 hours from Kashgar to Turpan or just over 24 hours to Ürümqi.
 
 ## 交通 / Transport
 
@@ -59,7 +51,7 @@ Kashgar Old City Scenic Area covers an area of ​​4.25 square kilometers and 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

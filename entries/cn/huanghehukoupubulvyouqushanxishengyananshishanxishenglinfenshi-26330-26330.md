@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.077286
 lon: 110.47329
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市) / Hukou Waterfalls
 
 > 陕西省 · 延安市 · 地质奇观
-
-## 图片 / Images
-
-![Hukou Waterfall.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hukou_Waterfall.jpg/1280px-Hukou_Waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hukou Waterfall.jpg · Leruswing · CC BY-SA 3.0*
-
-![Hukou Waterfall, Oct 6 2023.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Hukou_Waterfall%2C_Oct_6_2023.webm/1280px--Hukou_Waterfall%2C_Oct_6_2023.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
-
-*Hukou Waterfall, Oct 6 2023.webm · A Chinese ID · CC BY-SA 4.0*
-
-![Hukou Waterfalls, Shaanxi 34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hukou_Waterfalls%2C_Shaanxi_34.jpg/1280px-Hukou_Waterfalls%2C_Shaanxi_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hukou Waterfalls, Shaanxi 34.jpg · H2v5o68z · CC0*
-
-![Hukou Waterfalls (20170930163540).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hukou_Waterfalls_%2820170930163540%29.jpg/1280px-Hukou_Waterfalls_%2820170930163540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hukou Waterfalls (20170930163540).jpg · N509FZ · CC BY-SA 4.0*
-
-![Hukou Waterfalls (Shaanxi Side), Oct 6 2023.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hukou_Waterfalls_%28Shaanxi_Side%29%2C_Oct_6_2023.png/1280px-Hukou_Waterfalls_%28Shaanxi_Side%29%2C_Oct_6_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hukou Waterfalls (Shaanxi Side), Oct 6 2023.png · A Chinese ID · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -63,9 +41,9 @@ The Hukou Waterfalls (simplified Chinese: 壶口瀑布; traditional Chinese: 壺
 
 ## 附近酒店 / Nearby hotels
 
+- **汉庭酒店** — 18.4 km — chain — Hanting Hotel · 汉庭酒店
 - **望河楼大酒店** — 3.3 km — hotel
 - **壶口观景楼大酒店** — 3.9 km — hotel
-- **汉庭酒店** — 18.4 km — chain — Hanting Hotel · 汉庭酒店
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

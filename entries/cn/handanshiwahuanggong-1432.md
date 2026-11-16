@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.63978
 lon: 113.614932
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 邯郸市娲皇宫景区 / Nüwa Palace
@@ -28,7 +28,9 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-The Nüwa Palace, also known as Wahuang Palace and by its Chinese name Wahuanggong, is a compound of palaces and temples beside Phoenix Mountain (Fenghuangshan) in She County, Handan Prefecture, Hebei Province, China. It principally honors the Chinese goddess Nüwa, whom the ancient Chinese believed created mankind and repaired the sky in prehistoric times. As such, the location is treated as a kind of ancestral shrine of all humankind and sees increased pilgrimage on Tomb Sweeping Day. The scenic area now covers 2600 mu (1.67 km2 or 0.64 sq mi) and was made a AAAAA tourist attraction by China's National Tourism Administration in 2015.
+The Wa Palace Scenic Area is located on the Neolithic Age site 10,000 years ago. It consists of five parts: the entrance area, Butian Garden, Butian Lake, Wa Palace and Butian Valley. The Wa Palace was built with three temples in the Han Dynasty. Ancient ruins such as Northern Qi stone carvings, Tang Dynasty inscriptions, Song Dynasty brick walls, Ming and Qing buildings, and natural landscapes such as woodland, valleys, gardens, and water systems now exist. It is an important base for studying my country's ancestral culture.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Tonghua City"
 lat: 41.183529
 lon: 126.11615
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 通化市高句丽文物古迹旅游景区 / Capital Cities and Tombs of the Ancient Koguryo Kingdom

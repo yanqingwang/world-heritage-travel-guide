@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 24.659148
 lon: 116.982954
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 福建土楼（永定•南靖）旅游景区 / Fujian tulou
 
 > 福建省 · 龙岩市 · 自然人文
-
-## 图片 / Images
-
-![Hakka china.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5c/Hakka_china.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Hakka china.jpg · yazi-swallow · CC BY 2.0*
-
-![福建省国省道公路网规划（2024-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%9B%BD%E7%9C%81%E9%81%93%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%9B%BD%E7%9C%81%E9%81%93%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*福建省国省道公路网规划（2024-2035年）.pdf · 福建省交通运输厅 · Public domain*
-
-![@tulou (4056336054).jpg](https://upload.wikimedia.org/wikipedia/commons/2/23/%40tulou_%284056336054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*@tulou (4056336054).jpg · Vincent · CC BY-SA 2.0*
-
-![@tulou (4056345018).jpg](https://upload.wikimedia.org/wikipedia/commons/9/99/%40tulou_%284056345018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*@tulou (4056345018).jpg · Vincent · CC BY-SA 2.0*
-
-![@tulou (4058111783).jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/%40tulou_%284058111783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*@tulou (4058111783).jpg · Vincent · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 

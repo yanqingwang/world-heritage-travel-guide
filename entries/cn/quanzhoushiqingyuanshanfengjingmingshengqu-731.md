@@ -2,7 +2,7 @@
 id: "cn-731"
 dataset: "china_5a"
 name_zh: "泉州市清源山风景名胜区"
-name_en: "Mount Qingyuan"
+name_en: "Huanglong Scenic and Historic Interest Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Quanzhou"
 lat: 24.947416
 lon: 118.603989
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 泉州市清源山风景名胜区 / Mount Qingyuan
+# 泉州市清源山风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 福建省 · 泉州市 · 历史遗址
-
-## 图片 / Images
-
-![Laozi 002.jpg](https://upload.wikimedia.org/wikipedia/commons/a/af/Laozi_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Laozi 002.jpg · Thanato · CC BY-SA 3.0*
-
-![Quanzhou Qingyuan Shan 20120301-15.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Quanzhou_Qingyuan_Shan_20120301-15.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Quanzhou Qingyuan Shan 20120301-15.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Quanzhou Qingyuan Shan 20120301-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Quanzhou_Qingyuan_Shan_20120301-17.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Quanzhou Qingyuan Shan 20120301-17.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Quanzhou Qingyuan Shan 20120301-18.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Quanzhou_Qingyuan_Shan_20120301-18.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Quanzhou Qingyuan Shan 20120301-18.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Quanzhou Qingyuan Shan 20120301-19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Quanzhou_Qingyuan_Shan_20120301-19.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Quanzhou Qingyuan Shan 20120301-19.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Mount Qingyuan (Chinese: 清源山; pinyin: Qīngyuán Shān; Tâi-lô: Tshing-guân Suann) is a mountain and national park protecting it, Fujian Province, located in the East China region of China.
+Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
 
 ## 交通 / Transport
 
@@ -73,10 +51,10 @@ Mount Qingyuan (Chinese: 清源山; pinyin: Qīngyuán Shān; Tâi-lô: Tshing-g
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/清源山)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

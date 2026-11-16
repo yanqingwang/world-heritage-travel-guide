@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Ganzi Tibetan Autonomous Prefecture"
 lat: 29.652451
 lon: 102.12944
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 甘孜州海螺沟景区 / Hailuogou
 
 > 四川省 · 甘孜藏族自治州 · 地质奇观
-
-## 图片 / Images
-
-![Hailuogou glacier.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hailuogou_glacier.JPG/1280px-Hailuogou_glacier.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hailuogou glacier.JPG · Truthven · CC BY-SA 3.0*
-
-![HailuogouGlacierPanorama.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HailuogouGlacierPanorama.jpg/1280px-HailuogouGlacierPanorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*HailuogouGlacierPanorama.jpg · Oliver Ren · CC BY-SA 3.0*
-
-![Hailuogou Glaciers in Summer.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hailuogou_Glaciers_in_Summer.jpeg/1280px-Hailuogou_Glaciers_in_Summer.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hailuogou Glaciers in Summer.jpeg · 来斤小仓鼠吧 · CC BY-SA 4.0*
-
-![Hailuogou Glaciers in Summer 10 23 06 250000.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hailuogou_Glaciers_in_Summer_10_23_06_250000.jpeg/1280px-Hailuogou_Glaciers_in_Summer_10_23_06_250000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hailuogou Glaciers in Summer 10 23 06 250000.jpeg · 来斤小仓鼠吧 · CC BY-SA 4.0*
-
-![Hailuogou Glaciers in Summer 10 24 10 817000.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Hailuogou_Glaciers_in_Summer_10_24_10_817000.jpeg/1280px-Hailuogou_Glaciers_in_Summer_10_24_10_817000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hailuogou Glaciers in Summer 10 24 10 817000.jpeg · 来斤小仓鼠吧 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

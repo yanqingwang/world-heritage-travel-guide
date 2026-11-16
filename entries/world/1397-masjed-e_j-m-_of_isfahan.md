@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)"
 lat: 32.669722222
 lon: 51.685277777
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 伊斯法罕聚礼清真寺 / Masjed-e Jāmé of Isfahan

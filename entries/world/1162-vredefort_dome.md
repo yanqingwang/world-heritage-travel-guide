@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(viii)"
 lat: -27.0
 lon: 27.5
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:09Z"
 ---
 
 # 弗里德堡陨石坑 / Vredefort Dome

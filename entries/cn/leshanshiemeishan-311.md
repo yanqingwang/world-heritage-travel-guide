@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Leshan"
 lat: 29.573827
 lon: 103.356304
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 乐山市峨眉山景区 / Mount Emei
 
 > 四川省 · 乐山市 · 主题乐园
-
-## 图片 / Images
-
-![峨眉山风景区 Mount Emei Scenic Area 07.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%E5%B3%A8%E7%9C%89%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA_Mount_Emei_Scenic_Area_07.jpg/1280px-%E5%B3%A8%E7%9C%89%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA_Mount_Emei_Scenic_Area_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*峨眉山风景区 Mount Emei Scenic Area 07.jpg · George N · CC BY 2.0*
-
-![Jinding.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jinding.jpg/1280px-Jinding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinding.jpg · Zhou Yuji1028 · CC BY-SA 4.0*
-
-![Mount Emei dot.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mount_Emei_dot.png/1280px-Mount_Emei_dot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Emei dot.png · LupinBot ( talk ) ( Uploads ) · CC BY-SA 3.0*
-
-![Mount emei tour.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Mount_emei_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Mount emei tour.jpg · Ihtc2015 · CC BY-SA 4.0*
-
-![在峨秀湖远望峨眉山 Mount Emei 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%E5%9C%A8%E5%B3%A8%E7%A7%80%E6%B9%96%E8%BF%9C%E6%9C%9B%E5%B3%A8%E7%9C%89%E5%B1%B1_Mount_Emei_1.jpg/1280px-%E5%9C%A8%E5%B3%A8%E7%A7%80%E6%B9%96%E8%BF%9C%E6%9C%9B%E5%B3%A8%E7%9C%89%E5%B1%B1_Mount_Emei_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*在峨秀湖远望峨眉山 Mount Emei 1.jpg · 书剑飘零 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

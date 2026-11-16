@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Daxinganling"
 lat: 53.487363
 lon: 122.366127
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 大兴安岭地区北极村旅游景区 / Beijicun Scenic Area

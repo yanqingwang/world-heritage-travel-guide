@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Baoji"
 lat: 34.138888
 lon: 107.91526
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 宝鸡市太白山旅游景区 / Mount Taibai
 
 > 陕西省 · 宝鸡市 · 度假休闲
-
-## 图片 / Images
-
-![TaibaiShanNFP.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/TaibaiShanNFP.JPG/1280px-TaibaiShanNFP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*TaibaiShanNFP.JPG · Danielinblue · CC BY-SA 3.0*
-
-![Mountain Taibai No.1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mountain_Taibai_No.1.jpg/1280px-Mountain_Taibai_No.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mountain Taibai No.1.jpg · Wenmingxing · CC BY-SA 4.0*
-
-![Mountain Taibai No.2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mountain_Taibai_No.2.jpg/1280px-Mountain_Taibai_No.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mountain Taibai No.2.jpg · Wenmingxing · CC BY-SA 4.0*
-
-![Taibai-Dadian-Shan-3x.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Taibai-Dadian-Shan-3x.jpg/1280px-Taibai-Dadian-Shan-3x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Taibai-Dadian-Shan-3x.jpg · The original uploader was Jamguo at Chinese Wikipedia . · CC BY-SA 1.0*
-
-![Taibai Mountain- Daye Sea.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taibai_Mountain-_Daye_Sea.jpg/1280px-Taibai_Mountain-_Daye_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Taibai Mountain- Daye Sea.jpg · Shedous · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

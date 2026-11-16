@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 28.884916
 lon: 118.073312
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 上饶市玉山县三清山风景区 / Mount Sanqing
 
 > 江西省 · 上饶市 · 宗教文化
-
-## 图片 / Images
-
-![19190-SanQingShan (45434925915).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/19190-SanQingShan_%2845434925915%29.jpg/1280px-19190-SanQingShan_%2845434925915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*19190-SanQingShan (45434925915).jpg · xiquinhosilva · CC BY 2.0*
-
-![Cliffs of Sanqing Mountain.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Cliffs_of_Sanqing_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Cliffs of Sanqing Mountain.jpg · Huangdan2060 · CC0*
-
-![Mount Sanqing.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mount_Sanqing.JPG/1280px-Mount_Sanqing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Sanqing.JPG · Zhangzhugang · CC BY-SA 3.0*
-
-![Sanqing Mountain1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sanqing_Mountain1.jpg/1280px-Sanqing_Mountain1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sanqing Mountain1.jpg · Huangdan2060 · CC0*
-
-![Sanqing Shan 32.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sanqing_Shan_32.jpg/1280px-Sanqing_Shan_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sanqing Shan 32.jpg · Tyler from Shanghai, China · CC BY 2.0*
 
 ## 简介 / Introduction
 

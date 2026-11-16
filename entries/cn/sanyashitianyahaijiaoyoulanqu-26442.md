@@ -13,34 +13,12 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.300971
 lon: 109.354708
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 三亚市天涯海角游览区 / Tianya Haijiao
 
 > 海南省 · 三亚市 · 海滨度假
-
-## 图片 / Images
-
-![Beach of Tianya-Haijiao near Tianya Rock (20230325134441).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Beach_of_Tianya-Haijiao_near_Tianya_Rock_%2820230325134441%29.jpg/1280px-Beach_of_Tianya-Haijiao_near_Tianya_Rock_%2820230325134441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Beach of Tianya-Haijiao near Tianya Rock (20230325134441).jpg · N509FZ · CC BY-SA 4.0*
-
-![Nantian Yizhu Rock at Tianya-Haijiao (20230325135141).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nantian_Yizhu_Rock_at_Tianya-Haijiao_%2820230325135141%29.jpg/1280px-Nantian_Yizhu_Rock_at_Tianya-Haijiao_%2820230325135141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Nantian Yizhu Rock at Tianya-Haijiao (20230325135141).jpg · N509FZ · CC BY-SA 4.0*
-
-![Tianya Haijiao, Sanya.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tianya_Haijiao%2C_Sanya.jpg/1280px-Tianya_Haijiao%2C_Sanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianya Haijiao, Sanya.jpg · 钉钉 · CC BY-SA 4.0*
-
-![Tianya Haijiao 020.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tianya_Haijiao_020.JPG/1280px-Tianya_Haijiao_020.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianya Haijiao 020.JPG · Huangdan2060 · CC BY 3.0*
-
-![Tianya Haijiao 056.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Tianya_Haijiao_056.JPG/1280px-Tianya_Haijiao_056.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianya Haijiao 056.JPG · Huangdan2060 · CC BY 3.0*
 
 ## 简介 / Introduction
 

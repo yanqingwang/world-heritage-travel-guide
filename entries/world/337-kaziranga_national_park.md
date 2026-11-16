@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(ix)(x)"
 lat: 26.666666666
 lon: 93.35
-updated_at: "2026-11-12T14:36:22Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 卡齐兰加国家公园 / Kaziranga National Park

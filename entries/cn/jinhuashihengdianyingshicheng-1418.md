@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Jinhua City"
 lat: 29.143633
 lon: 120.323376
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 金华市横店影视城景区 / Hengdian World Studios
 
 > 浙江省 · 金华市 · 自然人文
-
-## 图片 / Images
-
-![Hengdian World Studios 011.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Hengdian_World_Studios_011.jpg/1280px-Hengdian_World_Studios_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hengdian World Studios 011.jpg · kanegen from Tokyo, Japan · CC BY 2.0*
-
-![大红岩景区停车场 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/7/72/%E5%A4%A7%E7%BA%A2%E5%B2%A9%E6%99%AF%E5%8C%BA%E5%81%9C%E8%BD%A6%E5%9C%BA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*大红岩景区停车场 - panoramio.jpg · 江上清风1961 · CC BY 3.0*
-
-![大红岩景区的八卦池 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5e/%E5%A4%A7%E7%BA%A2%E5%B2%A9%E6%99%AF%E5%8C%BA%E7%9A%84%E5%85%AB%E5%8D%A6%E6%B1%A0_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*大红岩景区的八卦池 - panoramio.jpg · 江上清风1961 · CC BY 3.0*
-
-![方岩景区的店铺 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c6/%E6%96%B9%E5%B2%A9%E6%99%AF%E5%8C%BA%E7%9A%84%E5%BA%97%E9%93%BA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*方岩景区的店铺 - panoramio.jpg · 江上清风1961 · CC BY 3.0*
-
-![方岩景区象麦垛一样的小山 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/6/60/%E6%96%B9%E5%B2%A9%E6%99%AF%E5%8C%BA%E8%B1%A1%E9%BA%A6%E5%9E%9B%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B0%8F%E5%B1%B1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*方岩景区象麦垛一样的小山 - panoramio.jpg · 江上清风1961 · CC BY 3.0*
 
 ## 简介 / Introduction
 

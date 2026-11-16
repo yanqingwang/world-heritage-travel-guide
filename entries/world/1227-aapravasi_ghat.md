@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(vi)"
 lat: -20.158611
 lon: 57.503056
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 阿普拉瓦西•加特地区 / Aapravasi Ghat

@@ -2,7 +2,7 @@
 id: "cn-373"
 dataset: "china_5a"
 name_zh: "伊春市林海奇石景区"
-name_en: "Jan Lamb"
+name_en: "Yichunshilinhaiqishi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Heilongjiang"
 city_en: "Yichun City"
 lat: 48.465019
 lon: 129.458354
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 伊春市林海奇石景区 / Jan Lamb
+# 伊春市林海奇石景区 / Yichunshilinhaiqishi Scenic Area
 
 > 黑龙江省 · 伊春市 · 生态湿地
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Jan Lamb Hoi-fong (Chinese: 林海峰; born 28 January 1967) is a Hong Kong DJ, singer and actor. Lamb is the elder brother of Jerry Lamb and younger brother of singer and radio personality Sandy Lamb. He formed a comedic musical duo during the late 1980s with fellow actor and comedian Eric Kot called Softhard). His wife Cass Phang is a singer.
+Linhai Qishishi Scenic Area is an eco-tourism area and national geological heritage park composed of cultural landscapes and natural landscapes. The scenic spot can be divided into eight major areas: natural pasture, snow-colored pine forest, stream wetland, ethnic customs, landscape viewing, Xing'an stone forest, autumn pine forest, and flower viewing.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -48,10 +50,9 @@ Jan Lamb Hoi-fong (Chinese: 林海峰; born 28 January 1967) is a Hong Kong DJ, 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/林海峰 (香港))
 - [OpenStreetMap](https://www.openstreetmap.org/)

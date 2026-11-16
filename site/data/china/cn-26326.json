@@ -24,48 +24,7 @@
  "intro_zh": "织金洞是中国目前发现的一座规模宏伟、造型奇特的洞穴资源宝库，具有多层次、多系统、多类别、多形态的完整岩溶系统，景观和空间造型奇特，具有“大”、“奇”、“全”的溶洞特色。2015年，织金洞被联合国教科文组织列为世界地质公园。",
  "intro_en": "Zhijin Cave (simplified Chinese: 织金洞; traditional Chinese: 織金洞; pinyin: Zhījīn Dòng; lit. 'Weaving Gold Cave') is a karst cave located in Minzhai Village (民寨乡), Zhijin County, Guizhou Province, People's Republic of China. An important tourism area, the site lies 23 km (14 mi) northeast of the county town and 166 km (103 mi) from the provincial capital, Guiyang.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Zhijin_Cave_Entrance_2019_01.jpg/1280px-Zhijin_Cave_Entrance_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zhijin Cave Entrance 2019 01.jpg",
-   "author": "Esiymbro",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Zhijin_Cave_Entrance_2019_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/CADAL09006788_%E4%B8%AD%E5%9C%8B%E5%90%88%E4%BD%9C%E4%BA%8B%E6%A5%AD.djvu/page1-1280px-CADAL09006788_%E4%B8%AD%E5%9C%8B%E5%90%88%E4%BD%9C%E4%BA%8B%E6%A5%AD.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL09006788 中國合作事業.djvu",
-   "author": "行政院新闻局",
-   "license": "Public domain",
-   "credit": "Wuhan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL09006788_中國合作事業.djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/CADAL09008447_%E8%AE%80%E5%8F%B2%E6%96%B9%E8%BC%BF%E7%B4%80%E8%A6%81%C2%B7%28%E5%9B%9B%E5%8D%81%E4%B8%80%29.djvu/page1-1280px-CADAL09008447_%E8%AE%80%E5%8F%B2%E6%96%B9%E8%BC%BF%E7%B4%80%E8%A6%81%C2%B7%28%E5%9B%9B%E5%8D%81%E4%B8%80%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL09008447 讀史方輿紀要·(四十一).djvu",
-   "author": "顾祖禹（辑著）",
-   "license": "Public domain",
-   "credit": "Wuhan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL09008447_讀史方輿紀要·(四十一).djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/CADAL09010675_%E9%87%91%E7%9F%B3%E7%B4%A2%C2%B7%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.djvu/page1-1280px-CADAL09010675_%E9%87%91%E7%9F%B3%E7%B4%A2%C2%B7%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL09010675 金石索·（十一）.djvu",
-   "author": "冯云鹏（编）；冯云鹓（编）",
-   "license": "Public domain",
-   "credit": "Wuhan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL09010675_金石索·（十一）.djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/CADAL11101387_%E9%8B%BC%E9%90%B5.djvu/page1-1280px-CADAL11101387_%E9%8B%BC%E9%90%B5.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL11101387 鋼鐵.djvu",
-   "author": "",
-   "license": "Public domain",
-   "credit": "Sichuan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL11101387_鋼鐵.djvu"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "http://market.gzzjd.com/#/ticketDetail?id=1",
  "transport": {
@@ -138,17 +97,6 @@
  },
  "hotels": [
   {
-   "name": "黔西大酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.0124021,
-   "lon": 106.0386552,
-   "distance_km": 29.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "水西假日酒店",
    "name_en": "Shuixi Holiday Inn",
    "stars": null,
@@ -157,6 +105,17 @@
    "lon": 106.0349874,
    "distance_km": 29.7,
    "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "黔西大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0124021,
+   "lon": 106.0386552,
+   "distance_km": 29.5,
+   "kind": "hotel",
    "source": "OpenStreetMap"
   }
  ],
@@ -204,5 +163,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)"
 lat: 60.3975
 lon: 5.323333333
-updated_at: "2026-11-12T14:36:20Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 卑尔根市布吕根区 / Bryggen

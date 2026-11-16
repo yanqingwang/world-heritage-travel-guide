@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(iii)(iv)"
 lat: 50.4065
 lon: 12.8373
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 厄尔士/克鲁什内山脉矿区 / Erzgebirge/Krušnohoří Mining Region

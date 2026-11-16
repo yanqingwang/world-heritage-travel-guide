@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Yangzhou"
 lat: 32.408155
 lon: 119.432817
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 扬州市瘦西湖风景区 / Slender West Lake
 
 > 江苏省 · 扬州市 · 山地风光
-
-## 图片 / Images
-
-![Thin West Lake south entrance.JPG](https://upload.wikimedia.org/wikipedia/commons/e/e0/Thin_West_Lake_south_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Thin West Lake south entrance.JPG · Gisling · CC BY 3.0*
-
-![Eight Eccentrics of Yangzhou 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eight_Eccentrics_of_Yangzhou_1.jpg/1280px-Eight_Eccentrics_of_Yangzhou_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Eight Eccentrics of Yangzhou 1.jpg · huangdan2060 · Public domain*
-
-![Eight Eccentrics of Yangzhou 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Eight_Eccentrics_of_Yangzhou_2.jpg/1280px-Eight_Eccentrics_of_Yangzhou_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Eight Eccentrics of Yangzhou 2.jpg · huangdan2060 · Public domain*
-
-![Eight Eccentrics of Yangzhou 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Eight_Eccentrics_of_Yangzhou_3.jpg/1280px-Eight_Eccentrics_of_Yangzhou_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Eight Eccentrics of Yangzhou 3.jpg · huangdan2060 · Public domain*
-
-![Eight Eccentrics of Yangzhou 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Eight_Eccentrics_of_Yangzhou_5.jpg/1280px-Eight_Eccentrics_of_Yangzhou_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Eight Eccentrics of Yangzhou 5.jpg · huangdan2060 · Public domain*
 
 ## 简介 / Introduction
 

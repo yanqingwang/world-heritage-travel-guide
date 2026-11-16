@@ -2,7 +2,7 @@
 id: "cn-310"
 dataset: "china_5a"
 name_zh: "阿坝州九寨沟景区"
-name_en: "Jiuzhaigou"
+name_en: "Abazhoujiuzhaigou Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 33.163223
 lon: 103.921224
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 阿坝州九寨沟景区 / Jiuzhaigou
+# 阿坝州九寨沟景区 / Abazhoujiuzhaigou Scenic Area
 
 > 四川省 · 阿坝藏族羌族自治州 · 地质奇观
-
-## 图片 / Images
-
-![1 nuorilang jiuzhaigou 2023.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1_nuorilang_jiuzhaigou_2023.jpg/1280px-1_nuorilang_jiuzhaigou_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1 nuorilang jiuzhaigou 2023.jpg · Chensiyuan · CC BY-SA 4.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![1 jiuzhaigou valley wu hua hai 2011b.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1 jiuzhaigou valley wu hua hai 2011b.jpg · Chensiyuan · CC BY-SA 4.0*
-
-![Jiuzhaigou Sichuan China Board-at-visitor-center-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jiuzhaigou_Sichuan_China_Board-at-visitor-center-01.jpg/1280px-Jiuzhaigou_Sichuan_China_Board-at-visitor-center-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiuzhaigou Sichuan China Board-at-visitor-center-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Jiuzhaigou Sichuan China Costume-rental-at-Sword-Rock-02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Jiuzhaigou_Sichuan_China_Costume-rental-at-Sword-Rock-02.jpg/1280px-Jiuzhaigou_Sichuan_China_Costume-rental-at-Sword-Rock-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiuzhaigou Sichuan China Costume-rental-at-Sword-Rock-02.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Jiuzhaigou ([tɕjòʊ.ʈʂâɪ.kóʊ] ; Chinese: 九寨沟; pinyin: Jiǔzhàigōu) is a nature reserve and national park located in the north of Sichuan Province in southwestern China. A long valley running north to south, Jiuzhaigou was inscribed by UNESCO as a World Heritage Site in 1992 and a World Biosphere Reserve in 1997. It belongs to the category V (Protected Landscape) in the IUCN system of protected area categorization. The Jiuzhaigou valley is part of the Min Mountains on the edge of the Tibetan Plateau and stretches over 72,000 hectares (180,000 acres). It has an altitude of over 4800 meters and is composed of a series of diverse forest ecosystems. It is known for its many multi-level waterfalls, colorful lakes, and snow-capped peaks. Its elevation ranges from 2,000 to 4,500 metres (6,600 to 14,800 ft). The Jiuzhaigou area borders the Minshan Garna Peak in the south, and the Huanglong Scenic Area is to Jiuzhaigou's north. It originates from the Baishui River area, one of the headwaters of the Jialing River and a part of the Yangtze River system.
+Jiuzhaigou Valley is located in Zhangza Town, Jiuzhaigou County, Aba Tibetan and Qiang Autonomous Prefecture, in the southern section of the Minshan Mountains in northwest Sichuan Province. It is located on the northeast side of Gonggan Ridge in the southern section of the Minshan Mountains. The terrain of Jiuzhaigou Nature Reserve is high in the south and low in the north, with deep valleys and huge height differences. Jiuzhaigou Valley is a world natural heritage, a national key scenic spot, a national nature reserve, a national geological park, and a world network of biosphere reserves. It is also China's first nature reserve with the main purpose of protecting natural scenery.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,9 @@ Jiuzhaigou ([tɕjòʊ.ʈʂâɪ.kóʊ] ; Chinese: 九寨沟; pinyin: Jiǔzhàigō
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/九寨沟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

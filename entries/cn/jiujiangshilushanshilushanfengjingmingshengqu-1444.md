@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.561544
 lon: 116.001082
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 九江市庐山市庐山风景名胜区 / Huanglong Scenic and Historic Interest Area
@@ -42,10 +42,10 @@ Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huá
 ## 附近酒店 / Nearby hotels
 
 - **九江希尔顿逸林酒店** — 7.8 km — chain
-- **牯岭大酒店** — 2.2 km — hotel — Gu Ling Hotel
-- **Yunke Hotel** — 2.3 km — hotel — Yunke Hotel
-- **Lushan Tianjie Hotel** — 2.3 km — hotel — Lushan Tianjie Hotel
-- **庐山和园别墅** — 2.3 km — hotel — Heyuan Villa
+- **格林豪泰酒店** — 15.7 km — chain
+- **锦江之星庐山南路店** — 16.6 km — chain
+- **全季酒店** — 17.3 km — chain — Ji Hotel · 全季酒店
+- **汉庭快捷酒店** — 18.4 km — chain — Hanting Hotel · 汉庭酒店
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

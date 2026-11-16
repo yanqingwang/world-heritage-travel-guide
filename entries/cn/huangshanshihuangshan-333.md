@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 30.097085
 lon: 118.194235
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 黄山市黄山风景区 / Huangshan
 
 > 安徽省 · 黄山市 · 度假休闲
-
-## 图片 / Images
-
-![Huangshan fengjing.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Huangshan fengjing.jpg · Public domain*
-
-![安徽省黄山市黄山区太平湖风景 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E5%A4%AA%E5%B9%B3%E6%B9%96%E9%A3%8E%E6%99%AF_-_panoramio.jpg/1280px-%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E5%A4%AA%E5%B9%B3%E6%B9%96%E9%A3%8E%E6%99%AF_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*安徽省黄山市黄山区太平湖风景 - panoramio.jpg · luchangjiang~鲁昌江 · CC BY-SA 3.0*
-
-![安徽省黄山市黄山区甘棠镇(县城)风景 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E7%94%98%E6%A3%A0%E9%95%87%28%E5%8E%BF%E5%9F%8E%29%E9%A3%8E%E6%99%AF_-_panoramio.jpg/1280px-%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E7%94%98%E6%A3%A0%E9%95%87%28%E5%8E%BF%E5%9F%8E%29%E9%A3%8E%E6%99%AF_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*安徽省黄山市黄山区甘棠镇(县城)风景 - panoramio.jpg · luchangjiang~鲁昌江 · CC BY-SA 3.0*
-
-![安徽省黄山市黄山区甘棠镇(县城)风景 - panoramio - luchangjiang~鲁昌江.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E7%94%98%E6%A3%A0%E9%95%87%28%E5%8E%BF%E5%9F%8E%29%E9%A3%8E%E6%99%AF_-_panoramio_-_luchangjiang~%E9%B2%81%E6%98%8C%E6%B1%9F.jpg/1280px-%E5%AE%89%E5%BE%BD%E7%9C%81%E9%BB%84%E5%B1%B1%E5%B8%82%E9%BB%84%E5%B1%B1%E5%8C%BA%E7%94%98%E6%A3%A0%E9%95%87%28%E5%8E%BF%E5%9F%8E%29%E9%A3%8E%E6%99%AF_-_panoramio_-_luchangjiang~%E9%B2%81%E6%98%8C%E6%B1%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*安徽省黄山市黄山区甘棠镇(县城)风景 - panoramio - luchangjiang~鲁昌江.jpg · luchangjiang~鲁昌江 · CC BY-SA 3.0*
-
-![安徽黟县西递村, 2010-10-19 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E5%AE%89%E5%BE%BD%E9%BB%9F%E5%8E%BF%E8%A5%BF%E9%80%92%E6%9D%91%2C_2010-10-19_02.jpg/1280px-%E5%AE%89%E5%BE%BD%E9%BB%9F%E5%8E%BF%E8%A5%BF%E9%80%92%E6%9D%91%2C_2010-10-19_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*安徽黟县西递村, 2010-10-19 02.jpg · 江上清风1961 · CC BY 3.0*
 
 ## 简介 / Introduction
 

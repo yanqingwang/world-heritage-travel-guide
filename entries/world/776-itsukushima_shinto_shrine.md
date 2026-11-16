@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.29577
 lon: 132.320105
-updated_at: "2026-11-12T14:36:26Z"
+updated_at: "2026-11-16T11:41:07Z"
 ---
 
 # 严岛神殿 / Itsukushima Shinto Shrine

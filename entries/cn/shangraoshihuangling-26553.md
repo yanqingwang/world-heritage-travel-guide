@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.324639
 lon: 118.126786
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 上饶市篁岭景区 / Huangling, Wuyuan County
 
 > 江西省 · 上饶市 · 古镇村落
-
-## 图片 / Images
-
-![Huangling Village 10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Huangling_Village_10.jpg/1280px-Huangling_Village_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangling Village 10.jpg · EditQ · CC BY-SA 4.0*
-
-![Huangling Village 11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Huangling_Village_11.jpg/1280px-Huangling_Village_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangling Village 11.jpg · EditQ · CC BY-SA 4.0*
-
-![Huangling Village 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Huangling_Village_13.jpg/1280px-Huangling_Village_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangling Village 13.jpg · EditQ · CC BY-SA 4.0*
-
-![Huangling Village 20231020 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Huangling_Village_20231020_03.jpg/1280px-Huangling_Village_20231020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangling Village 20231020 03.jpg · 沈澄心 · CC0*
-
-![Huangling Village 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Huangling_Village_4.jpg/1280px-Huangling_Village_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huangling Village 4.jpg · EditQ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

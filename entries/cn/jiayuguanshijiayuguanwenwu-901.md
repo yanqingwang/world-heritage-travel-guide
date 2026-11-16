@@ -13,34 +13,12 @@ province_en: "Gansu"
 city_en: "Jiayuguan City"
 lat: 39.807534
 lon: 98.221721
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 嘉峪关市嘉峪关文物景区 / Jiayu Pass
 
 > 甘肃省 · 嘉峪关市 · 历史遗址
-
-## 图片 / Images
-
-![JiayuguanFort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/JiayuguanFort.jpg/1280px-JiayuguanFort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*JiayuguanFort.jpg · User:Doron · CC BY-SA 3.0*
-
-![内蒙古自治区省道网规划（2023—2035 年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E7%9C%81%E9%81%93%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882023%E2%80%942035_%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E7%9C%81%E9%81%93%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882023%E2%80%942035_%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*内蒙古自治区省道网规划（2023—2035 年）.pdf · 内蒙古自治区发展和改革委员会、内蒙古自治区交通运输厅 · Public domain*
-
-![长城保护总体规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长城保护总体规划.pdf · 中华人民共和国文化和旅游部、国家文物局 · Public domain*
-
-![Jiayuguan0691.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Jiayuguan0691.JPG/1280px-Jiayuguan0691.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiayuguan0691.JPG · Emcc83 · CC BY-SA 3.0*
-
-![Jiayuguan Gatetower (20230919150124).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Jiayuguan_Gatetower_%2820230919150124%29.jpg/1280px-Jiayuguan_Gatetower_%2820230919150124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiayuguan Gatetower (20230919150124).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

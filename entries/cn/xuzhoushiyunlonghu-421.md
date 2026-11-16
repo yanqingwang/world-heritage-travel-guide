@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Xuzhou"
 lat: 34.334121
 lon: 117.291025
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 徐州市云龙湖景区 / Yunlong Lake
 
 > 江苏省 · 徐州市 · 山地风光
-
-## 图片 / Images
-
-![20260131 Yunlong Lake in Xuzhou 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20260131_Yunlong_Lake_in_Xuzhou_03.jpg/1280px-20260131_Yunlong_Lake_in_Xuzhou_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260131 Yunlong Lake in Xuzhou 03.jpg · Windmemories · CC BY-SA 4.0*
-
-![20260722 Yunlong Lake Xuzhou 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/20260722_Yunlong_Lake_Xuzhou_01.jpg/1280px-20260722_Yunlong_Lake_Xuzhou_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260722 Yunlong Lake Xuzhou 01.jpg · 祝鱼贵 · CC BY-SA 4.0*
-
-![20260722 Yunlong Lake Xuzhou 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20260722_Yunlong_Lake_Xuzhou_02.jpg/1280px-20260722_Yunlong_Lake_Xuzhou_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260722 Yunlong Lake Xuzhou 02.jpg · 祝鱼贵 · CC BY-SA 4.0*
-
-![20260722 Yunlong Lake Xuzhou 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/20260722_Yunlong_Lake_Xuzhou_03.jpg/1280px-20260722_Yunlong_Lake_Xuzhou_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260722 Yunlong Lake Xuzhou 03.jpg · 祝鱼贵 · CC BY-SA 4.0*
-
-![20260722 Yunlong Lake Xuzhou 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/20260722_Yunlong_Lake_Xuzhou_04.jpg/1280px-20260722_Yunlong_Lake_Xuzhou_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260722 Yunlong Lake Xuzhou 04.jpg · 祝鱼贵 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

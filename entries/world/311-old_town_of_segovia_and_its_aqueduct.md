@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 40.947888888
 lon: -4.117805555
-updated_at: "2026-11-12T14:36:22Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 塞哥维亚古城及其输水道 / Old Town of Segovia and its Aqueduct

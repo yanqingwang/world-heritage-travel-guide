@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(v)"
 lat: 47.996111111
 lon: 19.591666666
-updated_at: "2026-11-12T14:36:23Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 霍洛克古村落及其周边 / Old Village of Hollókő and its Surroundings

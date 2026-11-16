@@ -13,18 +13,12 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 25.721
 lon: 116.81794
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 龙岩市冠豸山景区 / Guanzhishan Scenic Area
 
 > 福建省 · 龙岩市 · 山地风光
-
-## 图片 / Images
-
-![灵芝峰顶看长寿亭 - View of Longevity Pavilion from the Glossy Ganoderma Peak - 2010.07 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%E7%81%B5%E8%8A%9D%E5%B3%B0%E9%A1%B6%E7%9C%8B%E9%95%BF%E5%AF%BF%E4%BA%AD_-_View_of_Longevity_Pavilion_from_the_Glossy_Ganoderma_Peak_-_2010.07_-_panoramio.jpg/1280px-%E7%81%B5%E8%8A%9D%E5%B3%B0%E9%A1%B6%E7%9C%8B%E9%95%BF%E5%AF%BF%E4%BA%AD_-_View_of_Longevity_Pavilion_from_the_Glossy_Ganoderma_Peak_-_2010.07_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*灵芝峰顶看长寿亭 - View of Longevity Pavilion from the Glossy Ganoderma Peak - 2010.07 - panoramio.jpg · rheins · CC BY 3.0*
 
 ## 简介 / Introduction
 

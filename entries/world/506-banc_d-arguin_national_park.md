@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(ix)(x)"
 lat: 20.234722222
 lon: -16.108888888
-updated_at: "2026-11-12T14:36:24Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 阿尔金岩石礁国家公园 / Banc d'Arguin National Park

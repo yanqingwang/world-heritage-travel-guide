@@ -2,7 +2,7 @@
 id: "cn-715"
 dataset: "china_5a"
 name_zh: "广州市番禺区长隆旅游度假区"
-name_en: "Dashi station"
+name_en: "Panyu railway station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.005809
 lon: 113.331839
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 广州市番禺区长隆旅游度假区 / Dashi station
+# 广州市番禺区长隆旅游度假区 / Panyu railway station
 
 > 广东省 · 广州市 · 主题乐园
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Dashi Station (Chinese: 大石站; Cantonese Yale: Daaihsehk Jaahm; lit. 'Big Rock Station') is a station of Line 3 of the Guangzhou Metro that started operation on 28 December 2006. It is located under the New Moon Pearl Garden (新月明珠花园) in the Dashi Subdistrict, Panyu District, which is near where the Xinguang Expressway (新光快速公路) passes over Qunxian Road (群贤路). The station has reservations to interchange with Line 7. The northern end of the concourse has structures reserved for the two side platforms for Line 7. However, Line 7 was adjusted and changed to Hanxi Changlong station and the reserved structure of this station has been left unused and covered with enamel panels.
+Panyu railway station (Chinese: 番禺站; pinyin: Pānyú Zhàn; Cantonese Yale: Pūn'yùh Jaahm) is an underground railway station in Panyu District, Guangzhou, Guangdong, China. The station opened on 26 May 2024. It is operated by Guangdong Intercity Railway Operation Co., Ltd.
 
 ## 交通 / Transport
 
@@ -57,5 +57,5 @@ Dashi Station (Chinese: 大石站; Cantonese Yale: Daaihsehk Jaahm; lit. 'Big Ro
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/大石站 (广州市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/番禺站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

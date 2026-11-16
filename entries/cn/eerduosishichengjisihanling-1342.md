@@ -13,34 +13,12 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 39.349464
 lon: 109.807367
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 鄂尔多斯市成吉思汗陵旅游区 / Mausoleum of Genghis Khan
 
 > 内蒙古自治区 · 鄂尔多斯市 · 历史遗址
-
-## 图片 / Images
-
-![成吉思汗陵2021.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E9%99%B52021.jpg/1280px-%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E9%99%B52021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*成吉思汗陵2021.jpg · ScareCriterion12 · CC BY-SA 4.0*
-
-![Tombeau Gengis Khan.1897.1.png](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tombeau_Gengis_Khan.1897.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Tombeau Gengis Khan.1897.1.png · Charles-Eudes Bonin · Public domain*
-
-![GhinggisKhanMausoleum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/GhinggisKhanMausoleum.jpg/1280px-GhinggisKhanMausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GhinggisKhanMausoleum.jpg · Fanghong · CC BY-SA 3.0*
-
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Urumqi"
 lat: 43.499388
 lon: 87.448685
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 乌鲁木齐市天山大峡谷 / Tianshan Grand Canyon
 
 > 新疆维吾尔自治区 · 乌鲁木齐市 · 度假休闲
-
-## 图片 / Images
-
-![天山托木尔大峡谷 - panoramio (5).jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*天山托木尔大峡谷 - panoramio (5).jpg · landagent · CC BY-SA 3.0*
-
-![天山大峡谷内道路 the road in the Grand Canyon of Tianshan Mountains (202504190657).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%86%85%E9%81%93%E8%B7%AF_the_road_in_the_Grand_Canyon_of_Tianshan_Mountains_%28202504190657%29.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%86%85%E9%81%93%E8%B7%AF_the_road_in_the_Grand_Canyon_of_Tianshan_Mountains_%28202504190657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*天山大峡谷内道路 the road in the Grand Canyon of Tianshan Mountains (202504190657).jpg · HaziiDozen · CC BY-SA 4.0*
-
-![天山大峡谷内道路 the road in the Grand Canyon of Tianshan Mountains (202504190658).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%86%85%E9%81%93%E8%B7%AF_the_road_in_the_Grand_Canyon_of_Tianshan_Mountains_%28202504190658%29.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%86%85%E9%81%93%E8%B7%AF_the_road_in_the_Grand_Canyon_of_Tianshan_Mountains_%28202504190658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*天山大峡谷内道路 the road in the Grand Canyon of Tianshan Mountains (202504190658).jpg · HaziiDozen · CC BY-SA 4.0*
-
-![天山大峡谷大门 Grand Canyon of Tianshan Mountains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%A4%A7%E9%97%A8_Grand_Canyon_of_Tianshan_Mountains.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%A4%A7%E9%97%A8_Grand_Canyon_of_Tianshan_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*天山大峡谷大门 Grand Canyon of Tianshan Mountains.jpg · HaziiDozen · CC BY-SA 4.0*
-
-![天山大峡谷的天鹅湖 Swan Lake in the Grand Canyon of Tianshan Mountains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E7%9A%84%E5%A4%A9%E9%B9%85%E6%B9%96_Swan_Lake_in_the_Grand_Canyon_of_Tianshan_Mountains.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A7%E5%B3%A1%E8%B0%B7%E7%9A%84%E5%A4%A9%E9%B9%85%E6%B9%96_Swan_Lake_in_the_Grand_Canyon_of_Tianshan_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*天山大峡谷的天鹅湖 Swan Lake in the Grand Canyon of Tianshan Mountains.jpg · HaziiDozen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

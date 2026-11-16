@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iv)"
 lat: 62.2501367
 lon: 25.1839449
-updated_at: "2026-11-12T14:36:24Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 佩泰耶韦西老教堂 / Petäjävesi Old Church

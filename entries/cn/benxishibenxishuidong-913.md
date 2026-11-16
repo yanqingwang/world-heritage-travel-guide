@@ -13,34 +13,12 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.307454
 lon: 124.088332
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 本溪市本溪水洞景区 / Benxi Water Caves
 
 > 辽宁省 · 本溪市 · 地质奇观
-
-## 图片 / Images
-
-![本溪水洞洞口.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/%E6%9C%AC%E6%BA%AA%E6%B0%B4%E6%B4%9E%E6%B4%9E%E5%8F%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*本溪水洞洞口.jpg · Unsonique · CC BY-SA 3.0*
-
-![Benxi Water Caves - By boat.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Benxi_Water_Caves_-_By_boat.jpg/1280px-Benxi_Water_Caves_-_By_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Benxi Water Caves - By boat.jpg · Yoshi Canopus · CC BY-SA 4.0*
-
-![Benxi Water Caves - Entrance.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Benxi_Water_Caves_-_Entrance.jpg/1280px-Benxi_Water_Caves_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Benxi Water Caves - Entrance.jpg · Yoshi Canopus · CC BY-SA 4.0*
-
-![Benxi Watercave National Park banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Benxi_Watercave_National_Park_banner.jpg/1280px-Benxi_Watercave_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Benxi Watercave National Park banner.jpg · Drew Lietzow - User: (WT-shared) Zepppep at wts wikivoyage · Public domain*
-
-![Benxi Watercave National Park entrance.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Benxi_Watercave_National_Park_entrance.JPG/1280px-Benxi_Watercave_National_Park_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Benxi Watercave National Park entrance.JPG · Drew Lietzow - User: (WT-shared) Zepppep at wts wikivoyage · Public domain*
 
 ## 简介 / Introduction
 

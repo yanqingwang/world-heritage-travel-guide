@@ -13,26 +13,12 @@ province_en: "Guangdong"
 city_en: "Jiangmen City"
 lat: 22.378728
 lon: 112.586021
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 江门市开平市开平碉楼文化旅游区 / Kaipingdiaolou Cultural Tourism Area
 
 > 广东省 · 江门市 · 古镇村落
-
-## 图片 / Images
-
-![Zili Village Yunhuan Lou 0005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zili_Village_Yunhuan_Lou_0005.jpg/1280px-Zili_Village_Yunhuan_Lou_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zili Village Yunhuan Lou 0005.jpg · Stefan Fussan · CC BY-SA 3.0*
-
-![江门市国土空间总体规划（2021—2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*江门市国土空间总体规划（2021—2035年）.pdf · 江门市人民政府 · Public domain*
-
-![江门市国民经济和社会发展第十四个五年规划和2035年远景目标纲要.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C2035%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C2035%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*江门市国民经济和社会发展第十四个五年规划和2035年远景目标纲要.pdf · 江门市人民政府 · Public domain*
 
 ## 简介 / Introduction
 

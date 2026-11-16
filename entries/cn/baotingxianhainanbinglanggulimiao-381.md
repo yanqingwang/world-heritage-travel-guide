@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Baotinglizumiaozuzizhi County"
 lat: 18.882055
 lon: 109.67537
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 保亭县海南槟榔谷黎苗文化旅游区 / Wuzhi Mountain

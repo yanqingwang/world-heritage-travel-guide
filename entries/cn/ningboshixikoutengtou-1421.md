@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Ningbo City"
 lat: 29.705123
 lon: 121.396879
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 宁波市溪口-滕头旅游景区 / Xikou

@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)(iv)"
 lat: 49.017222222
 lon: 12.096944444
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:09Z"
 ---
 
 # 德国多瑙河畔“雷根斯堡旧城” / Old town of Regensburg with Stadtamhof

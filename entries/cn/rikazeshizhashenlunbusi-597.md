@@ -13,34 +13,12 @@ province_en: "Tibet"
 city_en: "Rikaze Prefecture"
 lat: 29.2694
 lon: 88.879074
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 日喀则市扎什伦布寺景区 / Tashi Lhunpo Monastery
 
 > 西藏自治区 · 日喀则地区 · 宗教文化
-
-## 图片 / Images
-
-![Entrance to Tashilhunpo Monastery.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4b/Entrance_to_Tashilhunpo_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Entrance to Tashilhunpo Monastery.jpg · B_cool from SIN, Singapore · CC BY 2.0*
-
-![Bylakuppe. Tashi Lhunpo Monastery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bylakuppe._Tashi_Lhunpo_Monastery.jpg/1280px-Bylakuppe._Tashi_Lhunpo_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bylakuppe. Tashi Lhunpo Monastery.jpg · Prof tpms · CC BY-SA 4.0*
-
-![Door in the Tashi Lhunpo monastery in Tibet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Door_in_the_Tashi_Lhunpo_monastery_in_Tibet.jpg/1280px-Door_in_the_Tashi_Lhunpo_monastery_in_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Door in the Tashi Lhunpo monastery in Tibet.jpg · Jan Kranendonk ( https://www.jankranendonk.nl ) · CC BY-SA 4.0*
-
-![TashiLhunpoMonastery6.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/TashiLhunpoMonastery6.jpg/1280px-TashiLhunpoMonastery6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*TashiLhunpoMonastery6.jpg · PinkSnowfall · CC0*
-
-![Tashi Lhunpo Monastery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tashi_Lhunpo_Monastery.jpg/1280px-Tashi_Lhunpo_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tashi Lhunpo Monastery.jpg · GreySnowfall · CC0*
 
 ## 简介 / Introduction
 

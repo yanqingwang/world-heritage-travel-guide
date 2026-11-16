@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Chenzhou City"
 lat: 25.871959
 lon: 113.317574
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 郴州市东江湖旅游区 / Jianghu

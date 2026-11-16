@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jinhua City"
 lat: 29.192493
 lon: 119.63307
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 金华市双龙风景旅游区 / Shuanglong Tourist Area
@@ -44,11 +44,11 @@ Jinhua Shuanglong Scenic Tourist Area is located at the foothills of Jinhua Moun
 
 ## 附近酒店 / Nearby hotels
 
+- **金华世茂大饭店** — 8.8 km — chain — Best Western World Trade Hotel Jinhua · Best Western
+- **格林豪泰快捷酒店** — 9.0 km — chain
+- **亚朵酒店** — 9.5 km — chain — Atour Hotel · 亚朵酒店
 - **金华万豪酒店** — 11.4 km — chain — Marriott
-- **电站宾馆** — 1.8 km — hotel
-- **隐居芥子园酒店** — 2.0 km — hotel
-- **浙师大国际交流中心** — 6.3 km — hotel
-- **俏江南** — 7.2 km — hotel
+- **豪森假日花园大酒店** — 13.1 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

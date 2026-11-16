@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Shiyan"
 lat: 32.510141
 lon: 111.100659
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 十堰市武当山风景区 / Wudang Mountains
 
 > 湖北省 · 十堰市 · 宗教文化
-
-## 图片 / Images
-
-![Wudangshan 2003 10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Wudangshan_2003_10.jpg/1280px-Wudangshan_2003_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wudangshan 2003 10.jpg · Public domain*
-
-!["North Wudang Mountain" by Li Qun 1991.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%22North_Wudang_Mountain%22_by_Li_Qun_1991.jpg/1280px-%22North_Wudang_Mountain%22_by_Li_Qun_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*"North Wudang Mountain" by Li Qun 1991.jpg · Li Qun · CC BY-SA 4.0*
-
-![FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg/1280px-FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg · Mireya Mya · CC BY-SA 4.0*
-
-![Wudang Garden 2.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/Wudang_Garden_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wudang Garden 2.jpg · Bernalicious · CC BY-SA 4.0*
-
-![Wulong Palace (Five Dragon Palace), Wudang Mountains, Hubei, China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wulong_Palace_%28Five_Dragon_Palace%29%2C_Wudang_Mountains%2C_Hubei%2C_China.jpg/1280px-Wulong_Palace_%28Five_Dragon_Palace%29%2C_Wudang_Mountains%2C_Hubei%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wulong Palace (Five Dragon Palace), Wudang Mountains, Hubei, China.jpg · 折金扇 · CC BY 2.5*
 
 ## 简介 / Introduction
 

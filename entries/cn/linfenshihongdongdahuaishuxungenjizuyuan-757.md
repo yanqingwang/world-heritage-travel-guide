@@ -13,18 +13,12 @@ province_en: "Shanxi"
 city_en: "Linfen"
 lat: 36.277087
 lon: 111.682355
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 临汾市洪洞大槐树寻根祭祖园旅游景区 / Locust tree of Hongtong
 
 > 山西省 · 临汾市 · 主题乐园
-
-## 图片 / Images
-
-![洪洞大槐树根组纪念园 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%E6%B4%AA%E6%B4%9E%E5%A4%A7%E6%A7%90%E6%A0%91%E6%A0%B9%E7%BB%84%E7%BA%AA%E5%BF%B5%E5%9B%AD_06.jpg/1280px-%E6%B4%AA%E6%B4%9E%E5%A4%A7%E6%A7%90%E6%A0%91%E6%A0%B9%E7%BB%84%E7%BA%AA%E5%BF%B5%E5%9B%AD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*洪洞大槐树根组纪念园 06.jpg · Larry yang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

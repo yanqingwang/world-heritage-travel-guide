@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Xinyang"
 lat: 31.81925
 lon: 114.083414
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 信阳市鸡公山景区 / Mount Jigong
 
 > 河南省 · 信阳市 · 山地风光
-
-## 图片 / Images
-
-![Jigongshan (Rooster Mountain) - 10323711716.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Jigongshan_%28Rooster_Mountain%29_-_10323711716.jpg/1280px-Jigongshan_%28Rooster_Mountain%29_-_10323711716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jigongshan (Rooster Mountain) - 10323711716.jpg · Gary Lee Todd, Ph.D. · CC0*
-
-![信阳市大气污染防治条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E4%BF%A1%E9%98%B3%E5%B8%82%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E4%BF%A1%E9%98%B3%E5%B8%82%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*信阳市大气污染防治条例.pdf · Q106008837 · Public domain*
-
-![Jigongshan (Rooster Mountain).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jigongshan_%28Rooster_Mountain%29.jpg/1280px-Jigongshan_%28Rooster_Mountain%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jigongshan (Rooster Mountain).jpg · Gary Lee Todd, Ph.D. · CC0*
-
-![Jigongshan (Rooster Mountain) - 10323713646.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Jigongshan_%28Rooster_Mountain%29_-_10323713646.jpg/1280px-Jigongshan_%28Rooster_Mountain%29_-_10323713646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jigongshan (Rooster Mountain) - 10323713646.jpg · Gary Lee Todd, Ph.D. · CC0*
-
-![Jigongshan (Rooster Mountain) - 10323737306.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Jigongshan_%28Rooster_Mountain%29_-_10323737306.jpg/1280px-Jigongshan_%28Rooster_Mountain%29_-_10323737306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jigongshan (Rooster Mountain) - 10323737306.jpg · Gary Lee Todd, Ph.D. · CC0*
 
 ## 简介 / Introduction
 

@@ -2,7 +2,7 @@
 id: "cn-349"
 dataset: "china_5a"
 name_zh: "伊犁哈萨克自治州那拉提旅游风景区"
-name_en: "Nalaticaoyuan Scenic Area"
+name_en: "Yilihasakezizhizhounalatilvyoufeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Ili Kazakh Autonomous Prefecture"
 lat: 43.325552
 lon: 84.032821
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 伊犁哈萨克自治州那拉提旅游风景区 / Nalaticaoyuan Scenic Area
+# 伊犁哈萨克自治州那拉提旅游风景区 / Yilihasakezizhizhounalatilvyoufeng Scenic Area
 
 > 新疆维吾尔自治区 · 伊犁哈萨克自治州 · 草原沙漠
 
@@ -47,10 +47,9 @@ Ili Nalati Tourist Scenic Area is located in the hinterland of the Tianshan Moun
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/那拉提草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

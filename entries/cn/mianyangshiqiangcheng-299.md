@@ -2,7 +2,7 @@
 id: "cn-299"
 dataset: "china_5a"
 name_zh: "绵阳市羌城旅游区"
-name_en: "Mianyangshiqiangcheng Tourist Area"
+name_en: "Poqiangcheng Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Mianyang"
 lat: 31.819425
 lon: 104.456375
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 绵阳市羌城旅游区 / Mianyangshiqiangcheng Tourist Area
+# 绵阳市羌城旅游区 / Poqiangcheng Tourist Area
 
 > 四川省 · 绵阳市 · 历史遗址
 
@@ -55,4 +55,5 @@ The tourist area is located in Beichuan Qiang Autonomous County in the northwest
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/破羌城)
 - [OpenStreetMap](https://www.openstreetmap.org/)

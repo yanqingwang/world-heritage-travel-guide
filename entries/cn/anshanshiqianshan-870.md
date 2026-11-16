@@ -13,34 +13,12 @@ province_en: "Liaoning"
 city_en: "Anshan City"
 lat: 41.035262
 lon: 123.148632
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 鞍山市千山景区 / Qianshan
 
 > 辽宁省 · 鞍山市 · 山地风光
-
-## 图片 / Images
-
-![ChinaAnqingQianshan.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ChinaAnqingQianshan.png/1280px-ChinaAnqingQianshan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*ChinaAnqingQianshan.png · Slb nsk · CC BY-SA 4.0*
-
-![Qianshan Bridge, Zhuhai.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Qianshan_Bridge%2C_Zhuhai.jpg/1280px-Qianshan_Bridge%2C_Zhuhai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qianshan Bridge, Zhuhai.jpg · 钉钉 · CC BY-SA 4.0*
-
-![Qianshan Maitreya Buddha.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Qianshan_Maitreya_Buddha.jpg/1280px-Qianshan_Maitreya_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qianshan Maitreya Buddha.jpg · Yoshi Canopus · CC BY-SA 4.0*
-
-![Taiwan barbet (Psilopogon nuchalis) Qianshan 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg/1280px-Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Taiwan barbet (Psilopogon nuchalis) Qianshan 2.jpg · Charles J. Sharp · CC BY-SA 4.0*
-
-![Warning signs in Qianshan Museum (20170117101917).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Warning_signs_in_Qianshan_Museum_%2820170117101917%29.jpg/1280px-Warning_signs_in_Qianshan_Museum_%2820170117101917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Warning signs in Qianshan Museum (20170117101917).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Qianshan is the atonal pinyin romanization of various Chinese placenames related to mountains or islands. It may refer to: Qian Mountains (千山, Qiānshān), a northeastern mountain range Qianshan District (千山区, Qiānshānqū) in Anshan, Liaoning Qianshan County (潜山县, Qianshanxian), Anhui Yanshan County (铅山; Yánshān), Jiangxi (the characters in its name are usually pronounced as Qianshan in standard Mandarin) Qianshan (千山镇, Qianshanzhen), a town within Qianshan District, Anshan, Liaoning Qianshan (钤山镇, Qianshanzhen), a town in Fenyi County, Jiangxi Qianshan Subdistrict (前山街道, Qiánshān Jiēdào), a subdistrict (formerly a separate town) of Xiangzhou District, Zhuhai, Guangdong Qianshan National Park (千山国家公园, Qianshan Guojia Gongyuan) in Anshan, Liaoning
+Qianshan Scenic Area is famous for its beautiful peaks, steep rocks, secluded valleys, ancient temples, tall Buddhas, strange pines and abundant flowers. It has rich history, religion and culture, and its natural scenery is magical and magnificent. Qianshan is divided into five tourist areas: Tianshangtian, Big Buddha, Five Buddha Summit, Peach Blossom Valley and National Forest Park Xianren Terrace.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

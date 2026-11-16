@@ -10,8 +10,8 @@
  "city_zh": "池州市",
  "city_en": "Chizhou",
  "name_zh": "池州市九华山风景区",
- "name_en": "Jiuhuashan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Jiuhua",
+ "name_en_source": "wikipedia",
  "slug": "chizhoushijiuhuashan-332",
  "lat": 30.483187,
  "lon": 117.806842,
@@ -22,18 +22,9 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "九华山，是以佛教文化、自然人文盛景为特色的山岳型国家级风景名胜区。景区内群峰竞秀，怪石林立，九大主峰如九朵莲花，千姿百态，各具神韵，构成了一幅幅清新自然的山水画卷。",
- "intro_en": "Jiuhua Mountain is a mountainous national scenic spot featuring Buddhist culture and natural and cultural scenery. In the scenic area, there are many beautiful peaks and strange rocks. The nine main peaks are like nine lotus flowers, each with its own charm, forming a fresh and natural landscape painting.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jiuhuashan_yunhai.JPG/1280px-Jiuhuashan_yunhai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jiuhuashan yunhai.JPG",
-   "author": "",
-   "license": "Public domain",
-   "credit": "",
-   "source": "https://commons.wikimedia.org/wiki/File:Jiuhuashan_yunhai.JPG"
-  }
- ],
+ "intro_en": "Mount Jiuhua (simplified Chinese: 九华山; traditional Chinese: 九華山; pinyin: Jǐuhuá Shān; lit. 'Nine Glorious Mountains') located in Chizhou, Anhui Province in China is an important Buddhist site and natural scenic spot. It is one of the four famous Buddhist mountains in China, one of the first batch of 5A level scenic spots in China, one of the first batch of natural and cultural heritage sites in China, and the main scenic spot of \"two mountains and one lake\" (Jiuhua Mountain, Taiping Lake, Huangshan) tourism development strategy in Anhui Province. The planned area of the scenic spot is 120 square kilometers, and the protected area is 174 square kilometers, which is composed of 11 scenic spots.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "http://www.jiuhuashan.gov.cn/",
  "booking": "http://www.jiuhuashan.gov.cn/",
  "transport": {
@@ -164,10 +155,11 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -186,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -204,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

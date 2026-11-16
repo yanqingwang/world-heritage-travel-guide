@@ -2,7 +2,7 @@
 id: "cn-315"
 dataset: "china_5a"
 name_zh: "武汉市黄鹤楼公园"
-name_en: "Huanghelou"
+name_en: "Yellow Crane Tower"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,22 +13,12 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.549101
 lon: 114.310611
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 武汉市黄鹤楼公园 / Huanghelou
+# 武汉市黄鹤楼公园 / Yellow Crane Tower
 
 > 湖北省 · 武汉市 · 自然风光
-
-## 图片 / Images
-
-![CN - Hubei - Wuhan - Kranichpagode.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg/1280px-CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CN - Hubei - Wuhan - Kranichpagode.jpg · MonsieurRoi · CC BY-SA 3.0*
-
-![武汉市人民政府关于公布第六批武汉市文物保护单位的通知.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E6%AD%A6%E6%B1%89%E5%B8%82%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E6%AD%A6%E6%B1%89%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5.pdf/page1-960px-%E6%AD%A6%E6%B1%89%E5%B8%82%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E6%AD%A6%E6%B1%89%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*武汉市人民政府关于公布第六批武汉市文物保护单位的通知.pdf · 武汉市人民政府 · Public domain*
 
 ## 简介 / Introduction
 
@@ -38,9 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-The Yellow Crane Tower is a landmark building in Wuhan. Together with Qingchuan Pavilion and Guqintai, it is known as one of the "Three Famous Scenic Spots in Wuhan." It is also known as the "Three Famous Towers in Jiangnan" along with the Yueyang Tower in Hunan and the Tengwang Pavilion in Nanchang, Jiangxi. The entire building has a unique national style, exuding the spirit, temperament, and charm of traditional Chinese culture.
-
-*English introduction: machine translation.*
+Yellow Crane Tower (simplified Chinese: 黄鹤楼; traditional Chinese: 黃鶴樓; pinyin: Huánghè Lóu) is a traditional Chinese tower located in Wuhan. The current structure was built from 1981 to 1985, but the tower has existed in various forms from as early as AD 223. The current Yellow Crane Tower is 51.4 m (169 ft) high and covers an area of 3,219 m2 (34,650 sq ft). It is situated on Snake Hill (蛇山), one kilometer away from the original site, on the banks of the Yangtze River in Wuchang District.
 
 ## 交通 / Transport
 
@@ -64,7 +52,7 @@ The Yellow Crane Tower is a landmark building in Wuhan. Together with Qingchuan 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

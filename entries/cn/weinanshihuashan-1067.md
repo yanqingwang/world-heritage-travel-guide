@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Weinan"
 lat: 34.532844
 lon: 110.108226
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 渭南市华山风景区 / Mount Hua
 
 > 陕西省 · 渭南市 · 山地风光
-
-## 图片 / Images
-
-![Hua Shan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hua_Shan.jpg/1280px-Hua_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hua Shan.jpg · Ondřej Žváček · CC BY 2.5*
-
-![陕西省华山风景名胜区条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E9%99%95%E8%A5%BF%E7%9C%81%E5%8D%8E%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA%E6%9D%A1%E4%BE%8B.pdf/page1-500px-%E9%99%95%E8%A5%BF%E7%9C%81%E5%8D%8E%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*陕西省华山风景名胜区条例.pdf · Q15902894 · Public domain*
-
-![Chinese Chess Pavilion In Mount Hua.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Chinese_Chess_Pavilion_In_Mount_Hua.jpg/1280px-Chinese_Chess_Pavilion_In_Mount_Hua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chinese Chess Pavilion In Mount Hua.jpg · Liuboyoupeter · CC BY-SA 4.0*
-
-![Mount Hua, May, 2018-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mount_Hua%2C_May%2C_2018-10.jpg/1280px-Mount_Hua%2C_May%2C_2018-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Hua, May, 2018-10.jpg · Alexey Komarov · CC BY-SA 4.0*
-
-![Mount Hua in 2026 - 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Mount_Hua_in_2026_-_2.jpg/1280px-Mount_Hua_in_2026_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Hua in 2026 - 2.jpg · Renek78 · CC0*
 
 ## 简介 / Introduction
 

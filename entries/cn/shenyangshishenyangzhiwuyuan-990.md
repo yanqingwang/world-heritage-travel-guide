@@ -13,34 +13,12 @@ province_en: "Liaoning"
 city_en: "Shenyang"
 lat: 41.874927
 lon: 123.655984
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 沈阳市沈阳植物园 / Shenyang Botanical Garden
 
 > 辽宁省 · 沈阳市 · 主题乐园
-
-## 图片 / Images
-
-![Shenyang 世博园 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Shenyang_%E4%B8%96%E5%8D%9A%E5%9B%AD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Shenyang 世博园 - panoramio.jpg · George Wenn · CC BY-SA 3.0*
-
-![Concourse, Shenyang Botanical Garden Station, SYMTR 202506.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Concourse%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202506.jpg/1280px-Concourse%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Concourse, Shenyang Botanical Garden Station, SYMTR 202506.jpg · EddieZhang0128 · CC BY-SA 4.0*
-
-![Exit A, Shenyang Botanical Garden Station, SYMTR 202510.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Exit_A%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202510.jpg/1280px-Exit_A%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exit A, Shenyang Botanical Garden Station, SYMTR 202510.jpg · EddieZhang0128 · CC BY-SA 4.0*
-
-![Platform, Shenyang Botanical Garden Station, SYMTR 202506.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Platform%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202506.jpg/1280px-Platform%2C_Shenyang_Botanical_Garden_Station%2C_SYMTR_202506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Platform, Shenyang Botanical Garden Station, SYMTR 202506.jpg · EddieZhang0128 · CC BY-SA 4.0*
-
-![山楂 Crataegus pinnatifida -瀋陽植物園 Shenyang Botanical Garden, China- (9227095813).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%E5%B1%B1%E6%A5%82_Crataegus_pinnatifida_-%E7%80%8B%E9%99%BD%E6%A4%8D%E7%89%A9%E5%9C%92_Shenyang_Botanical_Garden%2C_China-_%289227095813%29.jpg/1280px-%E5%B1%B1%E6%A5%82_Crataegus_pinnatifida_-%E7%80%8B%E9%99%BD%E6%A4%8D%E7%89%A9%E5%9C%92_Shenyang_Botanical_Garden%2C_China-_%289227095813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*山楂 Crataegus pinnatifida -瀋陽植物園 Shenyang Botanical Garden, China- (9227095813).jpg · 阿橋 HQ · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 

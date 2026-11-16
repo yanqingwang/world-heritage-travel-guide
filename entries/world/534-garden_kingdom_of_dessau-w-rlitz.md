@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 51.8636
 lon: 12.2814
-updated_at: "2026-11-12T14:36:24Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 德绍－沃尔利茨园林王国 / Garden Kingdom of Dessau-Wörlitz

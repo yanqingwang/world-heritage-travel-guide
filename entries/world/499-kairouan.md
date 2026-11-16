@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iii)(v)(vi)"
 lat: 35.683333333
 lon: 10.1
-updated_at: "2026-11-12T14:36:24Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 凯鲁万 / Kairouan

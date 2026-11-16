@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Nanchang"
 lat: 28.687376
 lon: 115.887675
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 南昌市东湖区滕王阁旅游区 / Pavilion of Prince Teng
 
 > 江西省 · 南昌市 · 自然风光
-
-## 图片 / Images
-
-![Pavilion of Prince Teng 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Pavilion_of_Prince_Teng_3.jpg/1280px-Pavilion_of_Prince_Teng_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pavilion of Prince Teng 3.jpg · No machine-readable author provided. BetacommandBot assumed (based on copyright claims). · CC BY-SA 3.0*
-
-![长江中游城市群发展规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长江中游城市群发展规划.pdf · National Development and Reform Commission of the People's Republic of China · Public domain*
-
-![Paifang in front of Pavilion of Prince Teng 2023021303.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg/1280px-Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Paifang in front of Pavilion of Prince Teng 2023021303.jpg · Huangdan2060 · CC BY 4.0*
-
-![Pavilion of Prince Teng, Nanchang, China1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pavilion_of_Prince_Teng%2C_Nanchang%2C_China1.jpg/1280px-Pavilion_of_Prince_Teng%2C_Nanchang%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pavilion of Prince Teng, Nanchang, China1.jpg · Sherbet · CC BY 2.5*
-
-![Pavilion of Prince Teng 2023021301.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pavilion_of_Prince_Teng_2023021301.jpg/1280px-Pavilion_of_Prince_Teng_2023021301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pavilion of Prince Teng 2023021301.jpg · Huangdan2060 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -67,8 +45,8 @@ The Pavilion of Prince Teng (traditional Chinese: 滕王閣; simplified Chinese:
 - **嘉莱特和平国际酒店** — 2.7 km — star — 5★
 - **力高皇冠国际假日酒店** — 3.4 km — star — 5★
 - **唯客丽晶国际大酒店** — 3.3 km — star — 4★
-- **南昌香格里拉大酒店** — 3.3 km — chain
-- **希尔顿欢朋酒店** — 5.7 km — chain
+- **锦江之星** — 0.5 km — chain — Jinjiang Inn · 锦江之星
+- **全季酒店** — 1.0 km — chain — Ji Hotel · 全季酒店
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

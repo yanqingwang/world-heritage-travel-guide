@@ -2,7 +2,7 @@
 id: "cn-1430"
 dataset: "china_5a"
 name_zh: "保定市白石山景区"
-name_en: "Baodingshibaishishan Scenic Area"
+name_en: "Baishishan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.242194
 lon: 114.722083
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 保定市白石山景区 / Baodingshibaishishan Scenic Area
+# 保定市白石山景区 / Baishishan Scenic Area
 
 > 河北省 · 保定市 · 山地风光
 
@@ -49,10 +49,10 @@ Baishi Mountain Scenic Area is located 15 kilometers south of Laiyuan County, Ba
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ko
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/白石山镇 (涞源县))
+- [Wikipedia](https://zh.wikipedia.org/wiki/白石山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

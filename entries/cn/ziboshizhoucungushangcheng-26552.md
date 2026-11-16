@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Zibo"
 lat: 36.804704
 lon: 117.847544
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 淄博市周村古商城景区 / Ziboshizhoucungushangcheng Scenic Area
@@ -44,11 +44,11 @@ Zhoucun Ancient Mall Scenic Area is located in Zhoucun District, Zibo City, Shan
 
 ## 附近酒店 / Nearby hotels
 
+- **淄博民泰假日酒店** — 16.5 km — chain
+- **锦江之星** — 17.8 km — chain — Jinjiang Inn · 锦江之星
 - **邹平宾馆** — 12.9 km — hotel
 - **魏桥君澜大酒店** — 13.0 km — hotel
 - **杏园宾馆** — 13.4 km — hotel
-- **淄博民泰假日酒店** — 16.5 km — chain
-- **锦江之星** — 17.8 km — chain — Jinjiang Inn · 锦江之星
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

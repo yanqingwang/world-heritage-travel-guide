@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(vi)"
 lat: 8.335
 lon: 80.410833333
-updated_at: "2026-11-12T14:36:21Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 阿努拉德普勒圣城 / Sacred City of Anuradhapura

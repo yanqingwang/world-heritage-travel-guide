@@ -13,18 +13,12 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.725419
 lon: 110.421374
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 延安市延川黄河乾坤湾景区 / Qiankunwan Scenic Area
 
 > 陕西省 · 延安市 · 地质奇观
-
-## 图片 / Images
-
-![黄河乾坤湾 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E9%BB%84%E6%B2%B3%E4%B9%BE%E5%9D%A4%E6%B9%BE_1.jpg/1280px-%E9%BB%84%E6%B2%B3%E4%B9%BE%E5%9D%A4%E6%B9%BE_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*黄河乾坤湾 1.jpg · H2v5o68z · CC0*
 
 ## 简介 / Introduction
 
@@ -44,7 +38,7 @@ The Nine-Meander Yellow River splits from the earth and meanders along the Yanch
 - ✈ **Lüliang Dawu Airport (LLV)** — 124.2 km
 - ✈ **Linfen Yaodu Airport (LFQ)** — 127.5 km
 - 🚉 **延川** — 35.0 km
-- 🚉 **石楼县** — 43.0 km
+- 🚉 **石楼县** — 42.6 km
 - 🚉 **隰县** — 45.3 km
 
 ## 附近酒店 / Nearby hotels

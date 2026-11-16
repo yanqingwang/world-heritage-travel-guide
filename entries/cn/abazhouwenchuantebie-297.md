@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 30.937221
 lon: 103.427301
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 阿坝州汶川特别旅游区 / Abazhouwenchuantebie Tourist Area

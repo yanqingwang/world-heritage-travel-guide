@@ -10,8 +10,8 @@
  "city_zh": "巴中市",
  "city_en": "Bazhong City",
  "name_zh": "巴中市光雾山旅游景区",
- "name_en": "Bazhongdongzhan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Odorrana kuangwuensis",
+ "name_en_source": "wikipedia",
  "slug": "bazhongshiguangwushan-285",
  "lat": 32.720751,
  "lon": 106.866943,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "旅游区位于四川省巴中市南江县北部，米仓山腹心，川陕交界处，居成都、重庆、西安三大城市几何中心，幅员830平方公里，奇特的岭脊峰丛地貌、本璞的原生态植被、迷人的瀑潭秀水、秀丽的峡谷风光和独特的古巴人文化、米仓古道文化、三国文化交相辉映，春赏杜鹃、夏纳清凉、秋品红叶、冬览雾凇，四季皆景。2004年批准为国家级风景名胜区，2018年被列为世界地质公园。",
- "intro_en": "The tourist area is located in the northern part of Nanjiang County, Bazhong City, Sichuan Province, at the heart of Micang Mountain, at the junction of Sichuan and Shaanxi. It is located in the geometric center of the three major cities of Chengdu, Chongqing and Xi'an, covering an area of 830 square kilometers. Ecological vegetation, charming waterfalls and pools, beautiful canyon scenery and unique Cuban culture, Micang ancient road culture, and the culture of the Three Kingdoms complement each other. You can enjoy azaleas in spring, enjoy the coolness in the summer, enjoy red leaves in autumn, and see rime in winter. It was approved as a national scenic spot in 2004 and listed as a World Geopark in 2018.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Odorrana kuangwuensis (common names: Kuang-wu Shan frog, Kuangwu odorous frog) is a species of frog in the family Ranidae that is endemic to China. It is found in northeastern Sichuan and northwestern Hubei. Its name refers to the type locality, Mount Guangwu (=\"Kuang-wu\" in older romanization) in Nanjiang County, northern Sichuan. Its natural habitats are large streams in hill forests. It is threatened by habitat loss. Male Odorrana kuangwuensis grow to a snout–vent length of about 57 mm (2.2 in) and females to 69 mm (2.7 in).",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -122,10 +122,11 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -144,7 +145,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -155,12 +156,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/巴中东站"
+   "url": "https://zh.wikipedia.org/wiki/光雾臭蛙"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

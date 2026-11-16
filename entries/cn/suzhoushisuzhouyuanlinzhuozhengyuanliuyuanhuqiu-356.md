@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.330209
 lon: 120.635512
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 苏州市苏州园林（拙政园-留园-虎丘） / Tiger Hill, Suzhou
 
 > 江苏省 · 苏州市 · 皇家园林
-
-## 图片 / Images
-
-![2024-Apr Suzhou - Tiger Hill Pagoda 虎丘塔 (Huqiu Ta) - img 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2024-Apr_Suzhou_-_Tiger_Hill_Pagoda_%E8%99%8E%E4%B8%98%E5%A1%94_%28Huqiu_Ta%29_-_img_04.jpg/1280px-2024-Apr_Suzhou_-_Tiger_Hill_Pagoda_%E8%99%8E%E4%B8%98%E5%A1%94_%28Huqiu_Ta%29_-_img_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2024-Apr Suzhou - Tiger Hill Pagoda 虎丘塔 (Huqiu Ta) - img 04.jpg · Chainwit. · CC BY 4.0*
-
-![2024-Apr Suzhou - Tiger Hill Scenic Area (Hu Qiu) 虎丘 - img 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2024-Apr_Suzhou_-_Tiger_Hill_Scenic_Area_%28Hu_Qiu%29_%E8%99%8E%E4%B8%98_-_img_02.jpg/1280px-2024-Apr_Suzhou_-_Tiger_Hill_Scenic_Area_%28Hu_Qiu%29_%E8%99%8E%E4%B8%98_-_img_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2024-Apr Suzhou - Tiger Hill Scenic Area (Hu Qiu) 虎丘 - img 02.jpg · Chainwit. · CC BY 4.0*
-
-![Bailiankai at Tiger Hill, Suzhou-20250402.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bailiankai_at_Tiger_Hill%2C_Suzhou-20250402.jpg/1280px-Bailiankai_at_Tiger_Hill%2C_Suzhou-20250402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bailiankai at Tiger Hill, Suzhou-20250402.jpg · Shwangtianyuan · CC BY-SA 4.0*
-
-![Tiger Hill, Suzhou, December 2015 - 16.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Tiger_Hill%2C_Suzhou%2C_December_2015_-_16.JPG/1280px-Tiger_Hill%2C_Suzhou%2C_December_2015_-_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tiger Hill, Suzhou, December 2015 - 16.JPG · Another Believer · CC BY-SA 4.0*
-
-![Tiger Hill, Suzhou, December 2015 - 27.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tiger_Hill%2C_Suzhou%2C_December_2015_-_27.JPG/1280px-Tiger_Hill%2C_Suzhou%2C_December_2015_-_27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tiger Hill, Suzhou, December 2015 - 27.JPG · Another Believer · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -10,8 +10,8 @@
  "city_zh": "安顺市",
  "city_en": "Anshun City",
  "name_zh": "安顺市西秀区龙宫景区",
- "name_en": "Anshunshixixiuqulonggong Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Anshun West railway station",
+ "name_en_source": "wikipedia",
  "slug": "anshunshixixiuqulonggong-1370",
  "lat": 26.112673,
  "lon": 105.88403,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "龙宫景区集溶洞、峡谷、瀑布、峰林、绝壁、溪河、石林、漏斗、暗河等多种喀斯特地质地貌景观于一体，是喀斯特地貌形态展示最为集中的景区之一。",
- "intro_en": "Dragon Palace Scenic Area integrates various karst geological and landform landscapes such as caves, canyons, waterfalls, peak forests, cliffs, streams, stone forests, funnels, and underground rivers. It is one of the scenic spots with the most concentrated display of karst landforms.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Anshun West railway station (simplified Chinese: 安顺西站; traditional Chinese: 安順西站; pinyin: Ānshùn Xīzhàn) is a railway station of Shanghai–Kunming high-speed railway in Guizhou, People's Republic of China.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.china-longgong.com/index.html",
  "booking": "http://www.china-longgong.com/index.html",
@@ -165,10 +165,11 @@
  "hotels_nearby_30km": 11,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -187,7 +188,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -198,12 +199,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/西街街道 (安顺市)"
+   "url": "https://zh.wikipedia.org/wiki/安顺西站"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

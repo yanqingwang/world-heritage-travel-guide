@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iii)"
 lat: 35.058352777
 lon: 51.420136111
-updated_at: "2026-11-12T14:36:33Z"
+updated_at: "2026-11-16T11:41:12Z"
 ---
 
 # 波斯商队驿站 / The Persian Caravanserai

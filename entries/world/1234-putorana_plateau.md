@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(vii)(ix)"
 lat: 69.0
 lon: 93.0
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 普托拉納高原 / Putorana Plateau

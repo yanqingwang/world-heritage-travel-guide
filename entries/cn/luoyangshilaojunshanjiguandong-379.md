@@ -13,26 +13,12 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 33.789265
 lon: 111.57707
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 洛阳市老君山-鸡冠洞旅游区 / Jiguan Cave
 
 > 河南省 · 洛阳市 · 地质奇观
-
-## 图片 / Images
-
-![河南 栾川县 鸡冠洞 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E6%B2%B3%E5%8D%97_%E6%A0%BE%E5%B7%9D%E5%8E%BF_%E9%B8%A1%E5%86%A0%E6%B4%9E_-_panoramio.jpg/1280px-%E6%B2%B3%E5%8D%97_%E6%A0%BE%E5%B7%9D%E5%8E%BF_%E9%B8%A1%E5%86%A0%E6%B4%9E_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河南 栾川县 鸡冠洞 - panoramio.jpg · Nyx Ning · CC BY-SA 3.0*
-
-![Cuba- population, history and resources 1907 (IA cubapopulationhi00cuba).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cuba%29.pdf/page1-500px-Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cuba%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cuba- population, history and resources 1907 (IA cubapopulationhi00cuba).pdf · Cuba. Oficina Nacional del Censo Olmsted, Victor H. (Victor Hugo), 1853-1925 Gannett, Henry, 1846-1914 · Public domain*
-
-![Cuba- population, history and resources 1907 (IA cubapopulationhi00cubaiala).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cubaiala%29.pdf/page1-500px-Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cubaiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cuba- population, history and resources 1907 (IA cubapopulationhi00cubaiala).pdf · Cuba. Oficina del censo Olmsted, Victor Hugo, 1853- Gannett, Henry, 1846-1914 · Public domain*
 
 ## 简介 / Introduction
 
@@ -42,7 +28,9 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Jiguan Cave (鸡冠洞) is located at Luoyang city in Henan province, China. This cave is on the side of the Jiguan mountain, a branch of Funiu Mountains, at an altitude of 1201 meters. Jiguan Cave was formed about 600 million years ago and was discovered in the Qianlong period of the Qing dynasty. In August 1992, Jiguan Cave was developed, completed on March 31, 1993, and it opened up in April 1993. Jiguan Cave is a limestone cave, mainly consisting of stalactites and stalagmites. It is geologically described as a karst landform. This cave reaches a length of 5600 meters, the vertical stratification is five, and it drops 138 meters. There are 1800 meters, and 2300 square meters for travelling. The cave is naturally air conditioned to 18°C in all seasons.
+Laojunshan-Jiguandong tourist area is located in the hinterland of Funiu Mountain in western Henan. The ancient name of Laojun Mountain is Jingshi Mountain, which is named after Laozi, the founder of Taoism in the Eastern Zhou Dynasty, who lived in seclusion here. It is the main peak of Funiu Mountain in 800 miles away, with an altitude of 2217 meters. Jiguan Cave is a natural limestone cave, geologically called "karst karst landform".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

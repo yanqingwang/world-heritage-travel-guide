@@ -2,7 +2,7 @@
 id: "cn-354"
 dataset: "china_5a"
 name_zh: "吐鲁番市葡萄沟风景区"
-name_en: "Grape Valley"
+name_en: "Tulufanshiputaogoufeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Tulufan Prefecture"
 lat: 43.005375
 lon: 89.249626
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 吐鲁番市葡萄沟风景区 / Grape Valley
+# 吐鲁番市葡萄沟风景区 / Tulufanshiputaogoufeng Scenic Area
 
 > 新疆维吾尔自治区 · 吐鲁番地区 · 地质奇观
-
-## 图片 / Images
-
-![Valley of Grapes Turpan (14).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Valley_of_Grapes_Turpan_%2814%29.jpg/1280px-Valley_of_Grapes_Turpan_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Valley of Grapes Turpan (14).jpg · Radosław Botev · CC BY 3.0 pl*
-
-![Grape worker.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Grape_worker.jpg/1280px-Grape_worker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Grape worker.jpg · Tomas Castelazo · CC BY 3.0*
-
-![Grapes, Dry Creek Valley-7705.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/1280px-Grapes%2C_Dry_Creek_Valley-7705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Grapes, Dry Creek Valley-7705.jpg · Frank Schulenburg · CC BY-SA 4.0*
-
-![Turpan grape valley.jpg](https://upload.wikimedia.org/wikipedia/commons/4/42/Turpan_grape_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Turpan grape valley.jpg · Muzzleflash · CC0*
-
-![Valley of Grapes Turpan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Valley_of_Grapes_Turpan.jpg/1280px-Valley_of_Grapes_Turpan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Valley of Grapes Turpan.jpg · Radosław Botev · CC BY 3.0 pl*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Grape Valley (Chinese: 葡萄沟; pinyin: Pútáogōu) is an area of arid land in Turpan, Xinjiang, China, where grapes and other fruits are grown. The valley is 8 km long, 600-2,000 meters wide, and is located some 10 km east of Turpan's city center. Turpan has a historically long tradition of growing grape and other fruits, using the karez underground irrigation system. It is famous for growing the seedless white grape, the manaizi (Chinese: 马奶子; pinyin: mǎnǎizi, mare's nipple) grape. Raisins and other dried fruits are also sold at the Grape Valley tourists' area. Grape and raisin production in Turpan accounts for over eighty percent of China's total, making China the world's third-largest producer of raisins and the world's largest producer of green raisins.
+The Grape Valley Scenic Area in Turpan City is located in the Flame Mountain and is a canyon under the Flame Mountain. The Buyiruk River flows through the ditch. Its main water source is melted snow from the mountains. It is named after its abundant grapes and is a tourist attraction in Turpan, Xinjiang. In 2007, it was approved by the National Tourism Administration as a national AAAAA tourist attraction.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,9 @@ Grape Valley (Chinese: 葡萄沟; pinyin: Pútáogōu) is an area of arid land i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/葡萄沟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

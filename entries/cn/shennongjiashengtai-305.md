@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 31.360115
 lon: 110.576563
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 神农架生态旅游区 / Shennongjiashengtai Tourist Area

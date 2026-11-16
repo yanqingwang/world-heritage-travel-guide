@@ -13,18 +13,12 @@ province_en: "Henan"
 city_en: "Kaifeng"
 lat: 34.813951
 lon: 114.349998
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 开封市清明上河园景区 / Qingmingshangheyuan Scenic Area
 
 > 河南省 · 开封市 · 主题乐园
-
-## 图片 / Images
-
-![Millennium City Park 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Millennium_City_Park_02.jpg/1280px-Millennium_City_Park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Millennium City Park 02.jpg · Windmemories · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

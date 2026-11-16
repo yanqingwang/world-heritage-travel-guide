@@ -110,3 +110,9 @@
 - 修复三个传输层 bug：fetch_wikidata / enrich_wiki fetch_sitelinks / common.wiki_api 原走 python-requests（本网络 TLS 卡死静默失败），全部改 curl 传输。此前 Wikidata sitelinks 与非英语维基提取从未成功抓取。
 - fetch_wikidata 改用 P757 dossier 编号匹配（如佛罗伦萨为 174quater 而非 174），Wikidata 映射 1,182 → 1,270 条（99.8%），仅余 20 条无坐标（多为 2024-25 新入选系列遗产）。
 - 海外条目本地语言简介覆盖率大幅提升（约 33% → 63%，佛罗伦萨等此前完全缺失的条目现已有意大利语文本）；基本资料条目不足 2 图时自动补一次 Commons 查询（单图条目 141 → 124）。
+
+## 2026-11-16
+
+- 中国 5A：359 条；海外世界遗产：1,213 条。
+- 新增 0 条，移除 0 条，更新 972 条。
+- 变更字段：images × 843、tier × 488、hotels × 482、transport.ferry_terminals × 268、name_en × 177、intro_en × 164、intro_local × 102、intro_zh × 26

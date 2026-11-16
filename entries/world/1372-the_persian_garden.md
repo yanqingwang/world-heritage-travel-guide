@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2011"
 criteria: "(i)(ii)(iii)(iv)(vi)"
-lat: 33.61440442844444
+lat: 33.614404428444445
 lon: 51.4889180087037
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 波斯园林 / The Persian Garden

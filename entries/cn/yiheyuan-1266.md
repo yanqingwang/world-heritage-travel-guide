@@ -13,34 +13,12 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.004215
 lon: 116.287499
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 颐和园 / Summer Palace
 
 > 北京市 · 海淀区 · 皇家园林
-
-## 图片 / Images
-
-![Longevity Hill of the Summer Palace.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longevity Hill of the Summer Palace.jpg · xiquinhosilva · CC BY 2.0*
-
-![West Gate of Summer Palace Station (20170708).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/West_Gate_of_Summer_Palace_Station_%2820170708%29.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820170708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Gate of Summer Palace Station (20170708).jpg · FRDian · CC BY-SA 4.0*
-
-![West Gate of Summer Palace Station (20231203).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/West_Gate_of_Summer_Palace_Station_%2820231203%29.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820231203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Gate of Summer Palace Station (20231203).jpg · 深鸣 · CC BY-SA 4.0*
-
-![West Gate of Summer Palace Station (20231203) 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Gate_of_Summer_Palace_Station_%2820231203%29_02.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820231203%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Gate of Summer Palace Station (20231203) 02.jpg · 深鸣 · CC BY-SA 4.0*
-
-![West Gate of Summer Palace Station (Xijiao Line) 20180430.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/West_Gate_of_Summer_Palace_Station_%28Xijiao_Line%29_20180430.jpg/1280px-West_Gate_of_Summer_Palace_Station_%28Xijiao_Line%29_20180430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Gate of Summer Palace Station (Xijiao Line) 20180430.jpg · Tyg728 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-The Summer Palace or Yihe Garden (simplified Chinese: 颐和园; traditional Chinese: 頤和園; pinyin: Yíhéyuán) was a pavilion built by the Chinese Empress Dowager Cixi for quiet retreat. It consists of a vast ensemble of lakes, gardens and palaces located in Beijing. An imperial garden during the Qing dynasty, it includes Longevity Hill (万寿山; 萬壽山; Wànshòu Shān), Kunming Lake, and Seventeen-Arch Bridge. It covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water. Longevity Hill is about 60 metres (200 ft) high and has many buildings positioned in sequence. The front hill is the site of halls and pavilions, while the back hill, in sharp contrast, is quiet with natural beauty. The central Kunming Lake, covering 2.2 square kilometres (540 acres), was entirely man-made and the excavated soil was used to build Longevity Hill. The Summer Palace, which is inspired by the gardens of South China, contains over 3,000 Chinese ancient buildings that house a collection of over 40,000 valuable historical relics from various dynasties. In December 1998, UNESCO included the Summer Palace on its World Heritage List. It declared the Summer Palace "a masterpiece of Chinese land
+The Summer Palace or Yihe Garden (simplified Chinese: 颐和园; traditional Chinese: 頤和園; pinyin: Yíhéyuán) consists of a vast ensemble of lakes, gardens and palaces located in Beijing. An imperial garden during the Qing dynasty, it includes Longevity Hill (万寿山; 萬壽山; Wànshòu Shān), Kunming Lake, and Seventeen-Arch Bridge. It covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water. Longevity Hill is about 60 metres (200 ft) high and has many buildings positioned in sequence. The front hill is the site of halls and pavilions, while the back hill, in sharp contrast, is quiet with natural beauty. The central Kunming Lake, covering 2.2 square kilometres (540 acres), was entirely man-made and the excavated soil was used to build Longevity Hill. The Summer Palace, which is inspired by the gardens of South China, contains over 3,000 Chinese ancient buildings that house a collection of over 40,000 valuable historical relics from various dynasties. In December 1998, UNESCO included the Summer Palace on its World Heritage List. It declared the Summer Palace "a masterpiece of Chinese landscape garden design. The natural landscape of hills and open water is combined 
 
 ## 交通 / Transport
 

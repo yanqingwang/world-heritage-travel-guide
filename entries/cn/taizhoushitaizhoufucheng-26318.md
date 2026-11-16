@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.85245
 lon: 121.12379
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 台州市台州府城文化旅游区 / Walled City of Taizhou Fu
 
 > 浙江省 · 台州市 · 古镇村落
-
-## 图片 / Images
-
-![灵江.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%E7%81%B5%E6%B1%9F.JPG/1280px-%E7%81%B5%E6%B1%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*灵江.JPG · Marcus Hsu talk · CC BY 3.0*
-
-![全国重点文物保护单位肇庆古城墙保护规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E8%82%87%E5%BA%86%E5%8F%A4%E5%9F%8E%E5%A2%99%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92.pdf/page1-1280px-%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E8%82%87%E5%BA%86%E5%8F%A4%E5%9F%8E%E5%A2%99%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*全国重点文物保护单位肇庆古城墙保护规划.pdf · 肇庆市人民政府 · Public domain*
-
-![Linhai Ancient City Wall 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Linhai_Ancient_City_Wall_02.jpg/1280px-Linhai_Ancient_City_Wall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Linhai Ancient City Wall 02.jpg · 黑揍红 · CC BY 2.5*
-
-![Linhai Ancient City Wall 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Linhai_Ancient_City_Wall_03.jpg/1280px-Linhai_Ancient_City_Wall_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Linhai Ancient City Wall 03.jpg · 黑揍红 · CC BY 2.5*
-
-![Linhai Ancient City Wall 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Linhai_Ancient_City_Wall_04.jpg/1280px-Linhai_Ancient_City_Wall_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Linhai Ancient City Wall 04.jpg · 黑揍红 · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -63,11 +41,11 @@ The Walled City of Taizhou Fu (Chinese: 台州府城) stands as a cultural prese
 
 ## 附近酒店 / Nearby hotels
 
+- **临海福朋喜来登酒店** — 1.4 km — chain
+- **格林豪泰智选酒店(台州临海高铁南站店)** — 3.4 km — chain — 格林豪泰
 - **万豪酒店** — 26.7 km — chain — Zhejiang Taizhou Marriott Hotel
 - **海友** — 0.6 km — hotel
 - **双鳩国際飯店** — 1.4 km — hotel — Double Dove International Hotel
-- **格林豪泰智选酒店(台州临海高铁南站店)** — 3.4 km — chain — 格林豪泰
-- **黄岩耀达大酒店** — 25.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

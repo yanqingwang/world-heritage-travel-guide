@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(viii)"
 lat: 37.76527778
 lon: 15.0
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 埃特纳火山 / Mount Etna

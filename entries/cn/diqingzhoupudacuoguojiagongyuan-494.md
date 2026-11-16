@@ -13,34 +13,12 @@ province_en: "Yunnan"
 city_en: "Diqing Tibetan Autonomous Prefecture"
 lat: 27.808283
 lon: 99.913131
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 迪庆州普达措国家公园 / Potatson National Park
 
 > 云南省 · 迪庆藏族自治州 · 生态湿地
-
-## 图片 / Images
-
-![Meadow in Pudacuo.JPG](https://upload.wikimedia.org/wikipedia/commons/7/7f/Meadow_in_Pudacuo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Meadow in Pudacuo.JPG · Asaikana · CC BY-SA 3.0*
-
-![Militang Pasture, Potatso (Pudacuo) National Park, Diqing - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Militang_Pasture%2C_Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg/1280px-Militang_Pasture%2C_Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Militang Pasture, Potatso (Pudacuo) National Park, Diqing - panoramio.jpg · Colin W · CC BY-SA 3.0*
-
-![Potatso (Pudacuo) National Park, Diqing - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Potatso (Pudacuo) National Park, Diqing - panoramio.jpg · Colin W · CC BY-SA 3.0*
-
-![Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W.jpg · Colin W · CC BY-SA 3.0*
-
-![Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%282%29.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (2).jpg · Colin W · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

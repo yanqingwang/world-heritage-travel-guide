@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)(vi)"
 lat: 38.978888888
 lon: 45.473333333
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 伊朗的亚美尼亚隐修院集合体 / Armenian Monastic Ensembles of Iran

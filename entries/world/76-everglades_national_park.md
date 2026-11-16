@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(viii)(ix)(x)"
 lat: 25.3125
 lon: -80.6875
-updated_at: "2026-11-12T14:36:20Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 大沼泽国家公园 / Everglades National Park

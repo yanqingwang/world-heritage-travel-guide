@@ -10,8 +10,8 @@
  "city_zh": "南阳市",
  "city_en": "Nanyang",
  "name_zh": "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区",
- "name_en": "Funiu Mountains",
- "name_en_source": "wikipedia",
+ "name_en": "Yangchengzhen (xixiaxian) Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "nanyangshixixiakonglongyijiyuanfuniushanlaojieling-374",
  "lat": 33.234916,
  "lon": 111.691965,
@@ -22,50 +22,9 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "景区位于河南省南阳市西峡县，主要有老界岭和恐龙遗迹园两大主景区，是中国南阳伏牛山世界地质公园的精髓和核心，是国家级自然保护区，位于中国南北气候的分界线，是长江流域和黄河流域的分水岭，是一个集观光体验、科普科考、休闲度假于一体的综合性旅游目的地。",
- "intro_en": "The Funiu Mountains, also known by their Chinese name Funiu Shan, are a mountain range in southern Shanxi and western Henan provinces in China.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%B3%E5%8D%97_%E4%BC%8F%E7%89%9B%E5%B1%B1_%E8%BF%9C%E5%B1%B1%E7%9A%84%E5%91%BC%E5%94%A4_-_panoramio.jpg/1280px-%E6%B2%B3%E5%8D%97_%E4%BC%8F%E7%89%9B%E5%B1%B1_%E8%BF%9C%E5%B1%B1%E7%9A%84%E5%91%BC%E5%94%A4_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "河南 伏牛山 远山的呼唤 - panoramio.jpg",
-   "author": "Nyx Ning",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161102173217/http://www.panoramio.com/photo/98266214",
-   "source": "https://commons.wikimedia.org/wiki/File:河南_伏牛山_远山的呼唤_-_panoramio.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Funiu_mountain.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Funiu mountain.png",
-   "author": "Fnsdq",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Funiu_mountain.png"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Funiu_mountain_culture_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Funiu mountain culture area.png",
-   "author": "Fnsdq",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Funiu_mountain_culture_area.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/ISS010-E-7423_-_View_of_China.jpg/1280px-ISS010-E-7423_-_View_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "ISS010-E-7423 - View of China.jpg",
-   "author": "Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center",
-   "license": "Public domain",
-   "credit": "JSC Gateway to Astronaut Photography of Earth",
-   "source": "https://commons.wikimedia.org/wiki/File:ISS010-E-7423_-_View_of_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ISS010-E-7424_-_View_of_China.jpg/1280px-ISS010-E-7424_-_View_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "ISS010-E-7424 - View of China.jpg",
-   "author": "Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center",
-   "license": "Public domain",
-   "credit": "JSC Gateway to Astronaut Photography of Earth",
-   "source": "https://commons.wikimedia.org/wiki/File:ISS010-E-7424_-_View_of_China.jpg"
-  }
- ],
+ "intro_en": "The scenic spot is located in Xixia County, Nanyang City, Henan Province. It mainly has two main scenic spots, Laojie Ridge and Dinosaur Relics Park. It is the essence and core of the Funiu Mountain Global Geopark in Nanyang, China. It is a national nature reserve. It is located on the dividing line between the climate of north and south China. It is the watershed of the Yangtze River Basin and the Yellow River Basin. It is a comprehensive tourist destination integrating sightseeing experience, popular science and research, and leisure vacation.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -163,11 +122,10 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -186,7 +144,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -197,12 +155,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/伏牛山"
+   "url": "https://zh.wikipedia.org/wiki/阳城镇 (西峡县)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

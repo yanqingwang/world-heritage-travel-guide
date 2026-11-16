@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 25.080626
 lon: 102.769359
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 昆明市昆明世博园景区 / World Horti-Expo Garden

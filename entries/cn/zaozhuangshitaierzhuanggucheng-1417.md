@@ -13,26 +13,12 @@ province_en: "Shandong"
 city_en: "Zaozhuang"
 lat: 34.533821
 lon: 117.589556
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 枣庄市台儿庄古城景区 / Taierzhuanggucheng Scenic Area
 
 > 山东省 · 枣庄市 · 古镇村落
-
-## 图片 / Images
-
-![台儿庄古城99.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a2/%E5%8F%B0%E5%84%BF%E5%BA%84%E5%8F%A4%E5%9F%8E99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*台儿庄古城99.jpg · 蟋有的蟀 · CC BY-SA 3.0*
-
-![山东省人民政府关于公布第三批省级文物保护单位名单的通知.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5.pdf/page1-1280px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*山东省人民政府关于公布第三批省级文物保护单位名单的通知.pdf · 山东省人民政府 · Public domain*
-
-![山东省人民政府关于公布第五批省级文物保护单位的通知（鲁政字〔2015〕142号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*山东省人民政府关于公布第五批省级文物保护单位的通知（鲁政字〔2015〕142号）.pdf · 山东省人民政府 · Public domain*
 
 ## 简介 / Introduction
 

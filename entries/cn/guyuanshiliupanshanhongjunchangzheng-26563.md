@@ -2,7 +2,7 @@
 id: "cn-26563"
 dataset: "china_5a"
 name_zh: "固原市六盘山红军长征旅游区"
-name_en: "Liupan Mountains"
+name_en: "Liupanshan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Ningxia"
 city_en: "Guyuan City"
 lat: 35.673415
 lon: 106.20037
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 固原市六盘山红军长征旅游区 / Liupan Mountains
+# 固原市六盘山红军长征旅游区 / Liupanshan Tourist Area
 
 > 宁夏回族自治区 · 固原市 · 红色旅游
-
-## 图片 / Images
-
-![六盘山红军长征纪念馆西眺.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/%E5%85%AD%E7%9B%98%E5%B1%B1%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E7%BA%AA%E5%BF%B5%E9%A6%86%E8%A5%BF%E7%9C%BA.jpg/1280px-%E5%85%AD%E7%9B%98%E5%B1%B1%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E7%BA%AA%E5%BF%B5%E9%A6%86%E8%A5%BF%E7%9C%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*六盘山红军长征纪念馆西眺.jpg · 董辰兴 · CC BY-SA 4.0*
-
-![East portal of G22 Liupanshan Tunnel at K1605 (20260201135500).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/East_portal_of_G22_Liupanshan_Tunnel_at_K1605_%2820260201135500%29.jpg/1280px-East_portal_of_G22_Liupanshan_Tunnel_at_K1605_%2820260201135500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*East portal of G22 Liupanshan Tunnel at K1605 (20260201135500).jpg · N509FZ · CC BY-SA 4.0*
-
-![Habitat (10.3897-zookeys.975.53472) Figures 21–24.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Habitat_%2810.3897-zookeys.975.53472%29_Figures_21%E2%80%9324.jpg/1280px-Habitat_%2810.3897-zookeys.975.53472%29_Figures_21%E2%80%9324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Habitat (10.3897-zookeys.975.53472) Figures 21–24.jpg · Li K-Q, Liang H-B (2020) Four new species and two new records of genus Zeugophora (Coleoptera, Megalopodidae, Zeugophori · CC BY 4.0*
-
-![Liupan Mountains from the observation deck (20260201152712).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Liupan_Mountains_from_the_observation_deck_%2820260201152712%29.jpg/1280px-Liupan_Mountains_from_the_observation_deck_%2820260201152712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Liupan Mountains from the observation deck (20260201152712).jpg · N509FZ · CC BY-SA 4.0*
-
-![Liupanshan Red Army Long March Memorial Hall (20260201154058).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Liupanshan_Red_Army_Long_March_Memorial_Hall_%2820260201154058%29.jpg/1280px-Liupanshan_Red_Army_Long_March_Memorial_Hall_%2820260201154058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Liupanshan Red Army Long March Memorial Hall (20260201154058).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:45Z"
 
 ### English
 
-The Liupan Mountains (Chinese: 六盘山; pinyin: Lìupán Shān) are a mountain range in northwestern China, located mostly in southern Ningxia Hui Autonomous Region. The range marks the southwestern boundary of the Ordos Basin. Its southern section is known as Mount Long (Chinese: 陇山; pinyin: Lǒng Shān), which strides southeast through eastern Gansu and western Shaanxi province before joining into the Qinling Mountains, giving rise to regional names like "Longxi" (陇西, lit. "west of Mount Long"), "Longdong" (陇东, "east of Mount Long", referring to the Jing River valley basin region around eastern Pingliang, southern Qingyang and northern Xianyang) and "Longnan" (陇南, "south of Mount Long"). It is the western boundary of the Guanzhong Plain, and is also the source of the Qian River (千河), a left tributary of the Wei River that flows through the prefectural city of Baoji.
+Liupan Mountain is a famous historical mountain. It appears in many ancient poems. Emperors of Qin, Han, Wu and Genghis Khan left their footprints here. From August 1935 to October 1936, the 25th Red Army, the Central Red Army (Shaanxi-Gansu Detachment), the Western Expedition Red Army, and the Second Red Front Army passed through Liupanshan District four times, opening a new chapter in the revolution that laid the foundation for the Northwest. Liupanshan was therefore known as the "Mountain of Dawn" and "The Mountain of Victory."
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -71,7 +51,7 @@ The Liupan Mountains (Chinese: 六盘山; pinyin: Lìupán Shān) are a mountain
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: 36.434722
 lon: 48.7975
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 苏丹尼叶城 / Soltaniyeh

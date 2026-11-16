@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.223141
 lon: 108.978798
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 西安市大雁塔-大唐芙蓉园景区 / Giant Wild Goose Pagoda
 
 > 陕西省 · 西安市 · 主题乐园
-
-## 图片 / Images
-
-![Giant Wild Goose Pagoda.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Giant_Wild_Goose_Pagoda.jpg/1280px-Giant_Wild_Goose_Pagoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Giant Wild Goose Pagoda.jpg · Alex Kwok · CC BY-SA 3.0*
-
-![Giant Wild Goose-Pagoda.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c2/Giant_Wild_Goose-Pagoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Giant Wild Goose-Pagoda.jpg · Sharonkuei · CC BY-SA 4.0*
-
-![Giant Wild Goose Pagoda, Xi'an, May, 2018-1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Giant_Wild_Goose_Pagoda%2C_Xi%27an%2C_May%2C_2018-1.jpg/1280px-Giant_Wild_Goose_Pagoda%2C_Xi%27an%2C_May%2C_2018-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Giant Wild Goose Pagoda, Xi'an, May, 2018-1.jpg · Alexey Komarov · CC BY-SA 4.0*
-
-![Giant Wild Goose Pagoda, Xi'an.jpg](https://upload.wikimedia.org/wikipedia/commons/3/37/Giant_Wild_Goose_Pagoda%2C_Xi%27an.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Giant Wild Goose Pagoda, Xi'an.jpg · John Hill · CC BY-SA 4.0*
-
-![Giant Wild Goose Pagoda 20140502.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Giant_Wild_Goose_Pagoda_20140502.JPG/1280px-Giant_Wild_Goose_Pagoda_20140502.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Giant Wild Goose Pagoda 20140502.JPG · 颐园新居 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

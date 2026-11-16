@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(x)"
 lat: -0.5
 lon: 29.5
-updated_at: "2026-11-12T14:36:20Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 维龙加国家公园 / Virunga National Park
