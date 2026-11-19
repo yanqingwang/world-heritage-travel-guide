@@ -65,7 +65,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "东城区",
-   "city_en": "Dongcheng District"
+   "city_en": "Dongcheng District",
+   "admission": "paid"
   },
   {
    "id": "cn-26564",
@@ -118,7 +119,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "阿克苏地区",
-   "city_en": "Aksu Prefecture"
+   "city_en": "Aksu Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-26563",
@@ -171,7 +173,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "固原市",
-   "city_en": "Guyuan City"
+   "city_en": "Guyuan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26562",
@@ -215,7 +218,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "甘南藏族自治州",
-   "city_en": "Gannanzangzu Autonomous Prefecture"
+   "city_en": "Gannanzangzu Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-26561",
@@ -268,7 +272,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "咸阳市",
-   "city_en": "Xianyang"
+   "city_en": "Xianyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-26560",
@@ -321,7 +326,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "黔西南布依族苗族自治州",
-   "city_en": "Qianxinanbuyizumiaozu Autonomous Prefecture"
+   "city_en": "Qianxinanbuyizumiaozu Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-26559",
@@ -374,7 +380,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "成都市",
-   "city_en": "Chengdu"
+   "city_en": "Chengdu",
+   "admission": "unknown"
   },
   {
    "id": "cn-26558",
@@ -427,7 +434,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "崇左市",
-   "city_en": "Chongzuo City"
+   "city_en": "Chongzuo City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26557",
@@ -480,7 +488,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "龙岩市",
-   "city_en": "Longyan"
+   "city_en": "Longyan",
+   "admission": "unknown"
   },
   {
    "id": "cn-26556",
@@ -533,7 +542,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "河源市",
-   "city_en": "Heyuan City"
+   "city_en": "Heyuan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26555",
@@ -587,7 +597,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "黄冈市",
-   "city_en": "Huanggang City"
+   "city_en": "Huanggang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26554",
@@ -631,7 +642,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "新乡市",
-   "city_en": "Xinxiang"
+   "city_en": "Xinxiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-26553",
@@ -694,7 +706,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "上饶市",
-   "city_en": "Shangrao"
+   "city_en": "Shangrao",
+   "admission": "unknown"
   },
   {
    "id": "cn-26552",
@@ -748,7 +761,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "淄博市",
-   "city_en": "Zibo"
+   "city_en": "Zibo",
+   "admission": "partial"
   },
   {
    "id": "cn-26551",
@@ -802,7 +816,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "金华市",
-   "city_en": "Jinhua City"
+   "city_en": "Jinhua City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26550",
@@ -865,7 +880,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "齐齐哈尔市",
-   "city_en": "Qiqihaer City"
+   "city_en": "Qiqihaer City",
+   "admission": "paid"
   },
   {
    "id": "cn-26549",
@@ -909,7 +925,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "白城市",
-   "city_en": "Baicheng City"
+   "city_en": "Baicheng City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26548",
@@ -953,7 +970,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "呼和浩特市",
-   "city_en": "Hohhot"
+   "city_en": "Hohhot",
+   "admission": "unknown"
   },
   {
    "id": "cn-26547",
@@ -1006,7 +1024,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "太原市",
-   "city_en": "Taiyuan"
+   "city_en": "Taiyuan",
+   "admission": "paid"
   },
   {
    "id": "cn-26546",
@@ -1059,7 +1078,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "衡水市",
-   "city_en": "Hengshui City"
+   "city_en": "Hengshui City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26545",
@@ -1122,7 +1142,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "晋中市",
-   "city_en": "Jinzhong"
+   "city_en": "Jinzhong",
+   "admission": "paid"
   },
   {
    "id": "cn-26447",
@@ -1166,7 +1187,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "吴忠市",
-   "city_en": "Wuzhong City"
+   "city_en": "Wuzhong City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26446",
@@ -1219,7 +1241,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "延安市",
-   "city_en": "Yan'an"
+   "city_en": "Yan'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-26445",
@@ -1263,7 +1286,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "保山市",
-   "city_en": "Baoshan"
+   "city_en": "Baoshan",
+   "admission": "unknown"
   },
   {
    "id": "cn-26444",
@@ -1316,7 +1340,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "阿坝藏族羌族自治州",
-   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture"
+   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-26443",
@@ -1360,7 +1385,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "涪陵区",
-   "city_en": "Fuling District"
+   "city_en": "Fuling District",
+   "admission": "unknown"
   },
   {
    "id": "cn-26442",
@@ -1413,7 +1439,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "三亚市",
-   "city_en": "Sanya"
+   "city_en": "Sanya",
+   "admission": "free"
   },
   {
    "id": "cn-26441",
@@ -1466,7 +1493,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "柳州市",
-   "city_en": "Liuzhou"
+   "city_en": "Liuzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-26440",
@@ -1519,7 +1547,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "湘西土家族苗族自治州",
-   "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture"
+   "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture",
+   "admission": "partial"
   },
   {
    "id": "cn-26439",
@@ -1572,7 +1601,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "荆门市",
-   "city_en": "Jingmen City"
+   "city_en": "Jingmen City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26438",
@@ -1616,7 +1646,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "周口市",
-   "city_en": "Zhoukou City"
+   "city_en": "Zhoukou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26437",
@@ -1670,7 +1701,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "青岛市",
-   "city_en": "Qingdao"
+   "city_en": "Qingdao",
+   "admission": "free"
   },
   {
    "id": "cn-26436",
@@ -1723,7 +1755,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "厦门市",
-   "city_en": "Xiamen"
+   "city_en": "Xiamen",
+   "admission": "unknown"
   },
   {
    "id": "cn-26435",
@@ -1786,7 +1819,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "滁州市",
-   "city_en": "Chuzhou City"
+   "city_en": "Chuzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26434",
@@ -1839,7 +1873,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "丽水市",
-   "city_en": "Lishui City"
+   "city_en": "Lishui City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26433",
@@ -1892,7 +1927,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "连云港市",
-   "city_en": "Lianyungang"
+   "city_en": "Lianyungang",
+   "admission": "unknown"
   },
   {
    "id": "cn-26432",
@@ -1946,7 +1982,8 @@
    "province_en": "Shanghai",
    "province_iso": "CN-SH",
    "city_zh": "崇明区",
-   "city_en": "Chongming District"
+   "city_en": "Chongming District",
+   "admission": "unknown"
   },
   {
    "id": "cn-26431",
@@ -1999,7 +2036,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "松原市",
-   "city_en": "Songyuan City"
+   "city_en": "Songyuan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26430",
@@ -2043,7 +2081,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "本溪市",
-   "city_en": "Benxi City"
+   "city_en": "Benxi City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26429",
@@ -2087,7 +2126,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "呼伦贝尔市",
-   "city_en": "Hulunbuir"
+   "city_en": "Hulunbuir",
+   "admission": "unknown"
   },
   {
    "id": "cn-26428",
@@ -2131,7 +2171,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "唐山市",
-   "city_en": "Tangshan"
+   "city_en": "Tangshan",
+   "admission": "partial"
   },
   {
    "id": "cn-26427",
@@ -2184,7 +2225,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "通州区",
-   "city_en": "Tongzhou District"
+   "city_en": "Tongzhou District",
+   "admission": "unknown"
   },
   {
    "id": "cn-26330",
@@ -2237,7 +2279,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "延安市",
-   "city_en": "Yan'an"
+   "city_en": "Yan'an",
+   "admission": "paid"
   },
   {
    "id": "cn-26328",
@@ -2281,7 +2324,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "昌吉回族自治州",
-   "city_en": "Changji Hui Autonomous Prefecture"
+   "city_en": "Changji Hui Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-26327",
@@ -2325,7 +2369,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "陇南市",
-   "city_en": "Longnan City"
+   "city_en": "Longnan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26326",
@@ -2378,7 +2423,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "毕节市",
-   "city_en": "Bijie City"
+   "city_en": "Bijie City",
+   "admission": "paid"
   },
   {
    "id": "cn-26325",
@@ -2422,7 +2468,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "成都市",
-   "city_en": "Chengdu"
+   "city_en": "Chengdu",
+   "admission": "partial"
   },
   {
    "id": "cn-26324",
@@ -2485,7 +2532,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "奉节县",
-   "city_en": "Fengjie County"
+   "city_en": "Fengjie County",
+   "admission": "unknown"
   },
   {
    "id": "cn-26323",
@@ -2529,7 +2577,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "贺州市",
-   "city_en": "Hezhou City"
+   "city_en": "Hezhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-26322",
@@ -2592,7 +2641,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "宜昌市",
-   "city_en": "Yichang"
+   "city_en": "Yichang",
+   "admission": "unknown"
   },
   {
    "id": "cn-26321",
@@ -2645,7 +2695,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "信阳市",
-   "city_en": "Xinyang"
+   "city_en": "Xinyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-26320",
@@ -2708,7 +2759,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "济宁市",
-   "city_en": "Jining"
+   "city_en": "Jining",
+   "admission": "unknown"
   },
   {
    "id": "cn-26319",
@@ -2761,7 +2813,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "赣州市",
-   "city_en": "Ganzhou"
+   "city_en": "Ganzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-26318",
@@ -2814,7 +2867,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "台州市",
-   "city_en": "Taizhou City"
+   "city_en": "Taizhou City",
+   "admission": "partial"
   },
   {
    "id": "cn-26317",
@@ -2867,7 +2921,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "临汾市",
-   "city_en": "Linfen"
+   "city_en": "Linfen",
+   "admission": "paid"
   },
   {
    "id": "cn-26271",
@@ -2921,7 +2976,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "长治市",
-   "city_en": "Changzhi"
+   "city_en": "Changzhi",
+   "admission": "unknown"
   },
   {
    "id": "cn-1459",
@@ -2975,7 +3031,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "宜春市",
-   "city_en": "Yichun"
+   "city_en": "Yichun",
+   "admission": "unknown"
   },
   {
    "id": "cn-1458",
@@ -3019,7 +3076,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "赣州市",
-   "city_en": "Ganzhou"
+   "city_en": "Ganzhou",
+   "admission": "free"
   },
   {
    "id": "cn-1457",
@@ -3063,7 +3121,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "景德镇市",
-   "city_en": "Jingdezhen"
+   "city_en": "Jingdezhen",
+   "admission": "paid"
   },
   {
    "id": "cn-1456",
@@ -3116,7 +3175,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "抚州市",
-   "city_en": "Fuzhou"
+   "city_en": "Fuzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-1455",
@@ -3170,7 +3230,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "上饶市",
-   "city_en": "Shangrao"
+   "city_en": "Shangrao",
+   "admission": "unknown"
   },
   {
    "id": "cn-1454",
@@ -3224,7 +3285,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "上饶市",
-   "city_en": "Shangrao"
+   "city_en": "Shangrao",
+   "admission": "unknown"
   },
   {
    "id": "cn-1453",
@@ -3287,7 +3349,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "南昌市",
-   "city_en": "Nanchang"
+   "city_en": "Nanchang",
+   "admission": "paid"
   },
   {
    "id": "cn-1452",
@@ -3340,7 +3403,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "鹰潭市",
-   "city_en": "Yingtan City"
+   "city_en": "Yingtan City",
+   "admission": "paid"
   },
   {
    "id": "cn-1451",
@@ -3403,7 +3467,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "萍乡市",
-   "city_en": "Pingxiang City"
+   "city_en": "Pingxiang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1450",
@@ -3466,7 +3531,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "上饶市",
-   "city_en": "Shangrao"
+   "city_en": "Shangrao",
+   "admission": "paid"
   },
   {
    "id": "cn-1449",
@@ -3519,7 +3585,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "九江市",
-   "city_en": "Jiujiang"
+   "city_en": "Jiujiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-1448",
@@ -3572,7 +3639,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "吉安市",
-   "city_en": "Ji'an"
+   "city_en": "Ji'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-1447",
@@ -3625,7 +3693,8 @@
    "province_en": "Shanghai",
    "province_iso": "CN-SH",
    "city_zh": "浦东新区",
-   "city_en": "Pudong New Area"
+   "city_en": "Pudong New Area",
+   "admission": "unknown"
   },
   {
    "id": "cn-1446",
@@ -3688,7 +3757,8 @@
    "province_en": "Shanghai",
    "province_iso": "CN-SH",
    "city_zh": "浦东新区",
-   "city_en": "Pudong New Area"
+   "city_en": "Pudong New Area",
+   "admission": "unknown"
   },
   {
    "id": "cn-1445",
@@ -3751,7 +3821,8 @@
    "province_en": "Shanghai",
    "province_iso": "CN-SH",
    "city_zh": "浦东新区",
-   "city_en": "Pudong New Area"
+   "city_en": "Pudong New Area",
+   "admission": "unknown"
   },
   {
    "id": "cn-1444",
@@ -3795,7 +3866,8 @@
    "province_en": "Jiangxi",
    "province_iso": "CN-JX",
    "city_zh": "九江市",
-   "city_en": "Jiujiang"
+   "city_en": "Jiujiang",
+   "admission": "paid"
   },
   {
    "id": "cn-1443",
@@ -3858,7 +3930,8 @@
    "province_en": "Shanghai",
    "province_iso": "CN-SH",
    "city_zh": "黄浦区",
-   "city_en": "Huangpu District"
+   "city_en": "Huangpu District",
+   "admission": "free"
   },
   {
    "id": "cn-1442",
@@ -3921,7 +3994,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "中卫市",
-   "city_en": "Zhongwei"
+   "city_en": "Zhongwei",
+   "admission": "paid"
   },
   {
    "id": "cn-1441",
@@ -3974,7 +4048,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "保定市",
-   "city_en": "Baoding"
+   "city_en": "Baoding",
+   "admission": "unknown"
   },
   {
    "id": "cn-1439",
@@ -4037,7 +4112,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "承德市",
-   "city_en": "Chengde"
+   "city_en": "Chengde",
+   "admission": "paid"
   },
   {
    "id": "cn-1438",
@@ -4090,7 +4166,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "保定市",
-   "city_en": "Baoding"
+   "city_en": "Baoding",
+   "admission": "unknown"
   },
   {
    "id": "cn-1437",
@@ -4144,7 +4221,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "石嘴山市",
-   "city_en": "Shizuishan City"
+   "city_en": "Shizuishan City",
+   "admission": "paid"
   },
   {
    "id": "cn-1436",
@@ -4188,7 +4266,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "石家庄市",
-   "city_en": "Shijiazhuang"
+   "city_en": "Shijiazhuang",
+   "admission": "free"
   },
   {
    "id": "cn-1435",
@@ -4242,7 +4321,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "银川市",
-   "city_en": "Yinchuan"
+   "city_en": "Yinchuan",
+   "admission": "paid"
   },
   {
    "id": "cn-1434",
@@ -4295,7 +4375,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "唐山市",
-   "city_en": "Tangshan"
+   "city_en": "Tangshan",
+   "admission": "paid"
   },
   {
    "id": "cn-1433",
@@ -4349,7 +4430,8 @@
    "province_en": "Ningxia",
    "province_iso": "CN-NX",
    "city_zh": "银川市",
-   "city_en": "Yinchuan"
+   "city_en": "Yinchuan",
+   "admission": "paid"
   },
   {
    "id": "cn-1432",
@@ -4393,7 +4475,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "邯郸市",
-   "city_en": "Handan"
+   "city_en": "Handan",
+   "admission": "paid"
   },
   {
    "id": "cn-1431",
@@ -4447,7 +4530,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "邯郸市",
-   "city_en": "Handan"
+   "city_en": "Handan",
+   "admission": "unknown"
   },
   {
    "id": "cn-1430",
@@ -4491,7 +4575,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "保定市",
-   "city_en": "Baoding"
+   "city_en": "Baoding",
+   "admission": "paid"
   },
   {
    "id": "cn-1429",
@@ -4544,7 +4629,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "烟台市",
-   "city_en": "Yantai"
+   "city_en": "Yantai",
+   "admission": "paid"
   },
   {
    "id": "cn-1428",
@@ -4597,7 +4683,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "秦皇岛市",
-   "city_en": "Qinhuangdao"
+   "city_en": "Qinhuangdao",
+   "admission": "paid"
   },
   {
    "id": "cn-1427",
@@ -4651,7 +4738,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "济宁市",
-   "city_en": "Jining"
+   "city_en": "Jining",
+   "admission": "paid"
   },
   {
    "id": "cn-1426",
@@ -4704,7 +4792,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "保定市",
-   "city_en": "Baoding"
+   "city_en": "Baoding",
+   "admission": "paid"
   },
   {
    "id": "cn-1425",
@@ -4767,7 +4856,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "泰安市",
-   "city_en": "Tai'an"
+   "city_en": "Tai'an",
+   "admission": "paid"
   },
   {
    "id": "cn-1424",
@@ -4830,7 +4920,8 @@
    "province_en": "Hebei",
    "province_iso": "CN-HE",
    "city_zh": "承德市",
-   "city_en": "Chengde"
+   "city_en": "Chengde",
+   "admission": "unknown"
   },
   {
    "id": "cn-1423",
@@ -4893,7 +4984,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "青岛市",
-   "city_en": "Qingdao"
+   "city_en": "Qingdao",
+   "admission": "paid"
   },
   {
    "id": "cn-1422",
@@ -4937,7 +5029,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "烟台市",
-   "city_en": "Yantai"
+   "city_en": "Yantai",
+   "admission": "unknown"
   },
   {
    "id": "cn-1421",
@@ -4981,7 +5074,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "宁波市",
-   "city_en": "Ningbo City"
+   "city_en": "Ningbo City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1420",
@@ -5035,7 +5129,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "嘉兴市",
-   "city_en": "Jiaxing City"
+   "city_en": "Jiaxing City",
+   "admission": "paid"
   },
   {
    "id": "cn-1419",
@@ -5088,7 +5183,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "威海市",
-   "city_en": "Weihai"
+   "city_en": "Weihai",
+   "admission": "paid"
   },
   {
    "id": "cn-1418",
@@ -5151,7 +5247,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "金华市",
-   "city_en": "Jinhua City"
+   "city_en": "Jinhua City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1417",
@@ -5204,7 +5301,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "枣庄市",
-   "city_en": "Zaozhuang"
+   "city_en": "Zaozhuang",
+   "admission": "paid"
   },
   {
    "id": "cn-1416",
@@ -5258,7 +5356,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "嘉兴市",
-   "city_en": "Jiaxing City"
+   "city_en": "Jiaxing City",
+   "admission": "free"
   },
   {
    "id": "cn-1415",
@@ -5312,7 +5411,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "济南市",
-   "city_en": "Jinan"
+   "city_en": "Jinan",
+   "admission": "unknown"
   },
   {
    "id": "cn-1414",
@@ -5375,7 +5475,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "杭州市",
-   "city_en": "Hangzhou"
+   "city_en": "Hangzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-1412",
@@ -5428,7 +5529,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "临沂市",
-   "city_en": "Linyi"
+   "city_en": "Linyi",
+   "admission": "partial"
   },
   {
    "id": "cn-1411",
@@ -5481,7 +5583,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "绍兴市",
-   "city_en": "Shaoxing City"
+   "city_en": "Shaoxing City",
+   "admission": "partial"
   },
   {
    "id": "cn-1409",
@@ -5535,7 +5638,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "衢州市",
-   "city_en": "Quzhou City"
+   "city_en": "Quzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1408",
@@ -5598,7 +5702,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "潍坊市",
-   "city_en": "Weifang"
+   "city_en": "Weifang",
+   "admission": "free"
   },
   {
    "id": "cn-1406",
@@ -5642,7 +5747,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "湖州市",
-   "city_en": "Huzhou City"
+   "city_en": "Huzhou City",
+   "admission": "free"
   },
   {
    "id": "cn-1404",
@@ -5686,7 +5792,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "威海市",
-   "city_en": "Weihai"
+   "city_en": "Weihai",
+   "admission": "unknown"
   },
   {
    "id": "cn-1403",
@@ -5739,7 +5846,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "台州市",
-   "city_en": "Taizhou City"
+   "city_en": "Taizhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1400",
@@ -5792,7 +5900,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "东营市",
-   "city_en": "Dongying"
+   "city_en": "Dongying",
+   "admission": "unknown"
   },
   {
    "id": "cn-1399",
@@ -5836,7 +5945,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "台州市",
-   "city_en": "Taizhou City"
+   "city_en": "Taizhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1396",
@@ -5889,7 +5999,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "嘉兴市",
-   "city_en": "Jiaxing City"
+   "city_en": "Jiaxing City",
+   "admission": "paid"
   },
   {
    "id": "cn-1393",
@@ -5952,7 +6063,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "衢州市",
-   "city_en": "Quzhou City"
+   "city_en": "Quzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1392",
@@ -6005,7 +6117,8 @@
    "province_en": "Shandong",
    "province_iso": "CN-SD",
    "city_zh": "临沂市",
-   "city_en": "Linyi"
+   "city_en": "Linyi",
+   "admission": "unknown"
   },
   {
    "id": "cn-1388",
@@ -6058,7 +6171,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "宁波市",
-   "city_en": "Ningbo City"
+   "city_en": "Ningbo City",
+   "admission": "partial"
   },
   {
    "id": "cn-1386",
@@ -6121,7 +6235,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "安顺市",
-   "city_en": "Anshun City"
+   "city_en": "Anshun City",
+   "admission": "paid"
   },
   {
    "id": "cn-1382",
@@ -6174,7 +6289,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "丽水市",
-   "city_en": "Lishui City"
+   "city_en": "Lishui City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1376",
@@ -6227,7 +6343,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "温州市",
-   "city_en": "Wenzhou City"
+   "city_en": "Wenzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1370",
@@ -6281,7 +6398,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "安顺市",
-   "city_en": "Anshun City"
+   "city_en": "Anshun City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1365",
@@ -6325,7 +6443,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "鄂尔多斯市",
-   "city_en": "Ordos"
+   "city_en": "Ordos",
+   "admission": "paid"
   },
   {
    "id": "cn-1354",
@@ -6378,7 +6497,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "毕节市",
-   "city_en": "Bijie City"
+   "city_en": "Bijie City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1350",
@@ -6422,7 +6542,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "呼伦贝尔市",
-   "city_en": "Hulunbuir"
+   "city_en": "Hulunbuir",
+   "admission": "unknown"
   },
   {
    "id": "cn-1342",
@@ -6475,7 +6596,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "鄂尔多斯市",
-   "city_en": "Ordos"
+   "city_en": "Ordos",
+   "admission": "paid"
   },
   {
    "id": "cn-1336",
@@ -6519,7 +6641,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "黔南布依族苗族自治州",
-   "city_en": "Qiannanbuyizumiaozu Autonomous Prefecture"
+   "city_en": "Qiannanbuyizumiaozu Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-1333",
@@ -6563,7 +6686,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "呼伦贝尔市",
-   "city_en": "Hulunbuir"
+   "city_en": "Hulunbuir",
+   "admission": "paid"
   },
   {
    "id": "cn-1325",
@@ -6607,7 +6731,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "贵阳市",
-   "city_en": "Guiyang City"
+   "city_en": "Guiyang City",
+   "admission": "paid"
   },
   {
    "id": "cn-1320",
@@ -6651,7 +6776,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "赤峰市",
-   "city_en": "Chifeng City"
+   "city_en": "Chifeng City",
+   "admission": "paid"
   },
   {
    "id": "cn-1313",
@@ -6704,7 +6830,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "铜仁地区",
-   "city_en": "Tongren Prefecture"
+   "city_en": "Tongren Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-1308",
@@ -6748,7 +6875,8 @@
    "province_en": "Inner Mongolia",
    "province_iso": "CN-NM",
    "city_zh": "阿拉善盟",
-   "city_en": "Alashan League"
+   "city_en": "Alashan League",
+   "admission": "paid"
   },
   {
    "id": "cn-1304",
@@ -6811,7 +6939,8 @@
    "province_en": "Tianjin",
    "province_iso": "CN-TJ",
    "city_zh": "南开区",
-   "city_en": "Nankai District"
+   "city_en": "Nankai District",
+   "admission": "free"
   },
   {
    "id": "cn-1300",
@@ -6865,7 +6994,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "黔东南苗族侗族自治州",
-   "city_en": "Qiandongnanmiaozudongzu Autonomous Prefecture"
+   "city_en": "Qiandongnanmiaozudongzu Autonomous Prefecture",
+   "admission": "partial"
   },
   {
    "id": "cn-1295",
@@ -6909,7 +7039,8 @@
    "province_en": "Tianjin",
    "province_iso": "CN-TJ",
    "city_zh": "蓟州区",
-   "city_en": "Jizhou District"
+   "city_en": "Jizhou District",
+   "admission": "unknown"
   },
   {
    "id": "cn-1291",
@@ -6953,7 +7084,8 @@
    "province_en": "Guizhou",
    "province_iso": "CN-GZ",
    "city_zh": "遵义市",
-   "city_en": "Zunyi City"
+   "city_en": "Zunyi City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1275",
@@ -7016,7 +7148,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "东城区",
-   "city_en": "Dongcheng District"
+   "city_en": "Dongcheng District",
+   "admission": "paid"
   },
   {
    "id": "cn-1272",
@@ -7079,7 +7212,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "大足县",
-   "city_en": "Dazu County"
+   "city_en": "Dazu County",
+   "admission": "paid"
   },
   {
    "id": "cn-1266",
@@ -7142,7 +7276,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "海淀区",
-   "city_en": "Haidian District"
+   "city_en": "Haidian District",
+   "admission": "paid"
   },
   {
    "id": "cn-1259",
@@ -7196,7 +7331,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "巫山县",
-   "city_en": "Wushan County"
+   "city_en": "Wushan County",
+   "admission": "unknown"
   },
   {
    "id": "cn-1247",
@@ -7249,7 +7385,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "武隆县",
-   "city_en": "Wulong County"
+   "city_en": "Wulong County",
+   "admission": "paid"
   },
   {
    "id": "cn-1242",
@@ -7312,7 +7449,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "怀柔区",
-   "city_en": "Huairou District"
+   "city_en": "Huairou District",
+   "admission": "paid"
   },
   {
    "id": "cn-1238",
@@ -7365,7 +7503,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "酉阳土家族苗族自治县",
-   "city_en": "Youyangtujiazumiaozuzizhi County"
+   "city_en": "Youyangtujiazumiaozuzizhi County",
+   "admission": "unknown"
   },
   {
    "id": "cn-1231",
@@ -7428,7 +7567,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "昌平区",
-   "city_en": "Changping District"
+   "city_en": "Changping District",
+   "admission": "paid"
   },
   {
    "id": "cn-1227",
@@ -7472,7 +7612,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "綦江县",
-   "city_en": "Qijiang County"
+   "city_en": "Qijiang County",
+   "admission": "unknown"
   },
   {
    "id": "cn-1225",
@@ -7535,7 +7676,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "西城区",
-   "city_en": "Xicheng District"
+   "city_en": "Xicheng District",
+   "admission": "paid"
   },
   {
    "id": "cn-1222",
@@ -7588,7 +7730,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "南川区",
-   "city_en": "Nanchuan District"
+   "city_en": "Nanchuan District",
+   "admission": "unknown"
   },
   {
    "id": "cn-1218",
@@ -7651,7 +7794,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "朝阳区",
-   "city_en": "Zhaoyang District"
+   "city_en": "Zhaoyang District",
+   "admission": "free"
   },
   {
    "id": "cn-1211",
@@ -7704,7 +7848,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "江津区",
-   "city_en": "Jiangjin District"
+   "city_en": "Jiangjin District",
+   "admission": "unknown"
   },
   {
    "id": "cn-1208",
@@ -7767,7 +7912,8 @@
    "province_en": "Beijing",
    "province_iso": "CN-BJ",
    "city_zh": "海淀区",
-   "city_en": "Haidian District"
+   "city_en": "Haidian District",
+   "admission": "paid"
   },
   {
    "id": "cn-1196",
@@ -7821,7 +7967,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "云阳县",
-   "city_en": "Yunyang County"
+   "city_en": "Yunyang County",
+   "admission": "unknown"
   },
   {
    "id": "cn-1194",
@@ -7865,7 +8012,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "阳江市",
-   "city_en": "Yangjiang City"
+   "city_en": "Yangjiang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1188",
@@ -7909,7 +8057,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "彭水苗族土家族自治县",
-   "city_en": "Pengshuimiaozutujiazuzizhi County"
+   "city_en": "Pengshuimiaozutujiazuzizhi County",
+   "admission": "unknown"
   },
   {
    "id": "cn-1187",
@@ -7972,7 +8121,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "衡阳市",
-   "city_en": "Hengyang City"
+   "city_en": "Hengyang City",
+   "admission": "paid"
   },
   {
    "id": "cn-1184",
@@ -8016,7 +8166,8 @@
    "province_en": "Chongqing",
    "province_iso": "CN-CQ",
    "city_zh": "黔江区",
-   "city_en": "Qianjiang District"
+   "city_en": "Qianjiang District",
+   "admission": "unknown"
   },
   {
    "id": "cn-1183",
@@ -8069,7 +8220,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "张家界市",
-   "city_en": "Zhangjiajie"
+   "city_en": "Zhangjiajie",
+   "admission": "paid"
   },
   {
    "id": "cn-1177",
@@ -8132,7 +8284,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "岳阳市",
-   "city_en": "Yueyang City"
+   "city_en": "Yueyang City",
+   "admission": "paid"
   },
   {
    "id": "cn-1168",
@@ -8185,7 +8338,8 @@
    "province_en": "Qinghai",
    "province_iso": "CN-QH",
    "city_zh": "海南藏族自治州",
-   "city_en": "Hainan Tibetan Autonomous Prefecture"
+   "city_en": "Hainan Tibetan Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-1160",
@@ -8239,7 +8393,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "湘潭市",
-   "city_en": "Xiangtan City"
+   "city_en": "Xiangtan City",
+   "admission": "free"
   },
   {
    "id": "cn-1154",
@@ -8292,7 +8447,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "长沙市",
-   "city_en": "Changsha"
+   "city_en": "Changsha",
+   "admission": "free"
   },
   {
    "id": "cn-1153",
@@ -8355,7 +8511,8 @@
    "province_en": "Qinghai",
    "province_iso": "CN-QH",
    "city_zh": "西宁市",
-   "city_en": "Xining"
+   "city_en": "Xining",
+   "admission": "paid"
   },
   {
    "id": "cn-1150",
@@ -8409,7 +8566,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "长沙市",
-   "city_en": "Changsha"
+   "city_en": "Changsha",
+   "admission": "free"
   },
   {
    "id": "cn-1143",
@@ -8463,7 +8621,8 @@
    "province_en": "Qinghai",
    "province_iso": "CN-QH",
    "city_zh": "海东地区",
-   "city_en": "Haidong Prefecture"
+   "city_en": "Haidong Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-1135",
@@ -8507,7 +8666,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "郴州市",
-   "city_en": "Chenzhou City"
+   "city_en": "Chenzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1126",
@@ -8560,7 +8720,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "邵阳市",
-   "city_en": "Shaoyang City"
+   "city_en": "Shaoyang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1119",
@@ -8604,7 +8765,8 @@
    "province_en": "Qinghai",
    "province_iso": "CN-QH",
    "city_zh": "海北藏族自治州",
-   "city_en": "Haibei Tibetan Autonomous Prefecture"
+   "city_en": "Haibei Tibetan Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-1116",
@@ -8648,7 +8810,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "株洲市",
-   "city_en": "Zhuzhou City"
+   "city_en": "Zhuzhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1110",
@@ -8701,7 +8864,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "常德市",
-   "city_en": "Changde City"
+   "city_en": "Changde City",
+   "admission": "unknown"
   },
   {
    "id": "cn-1108",
@@ -8754,7 +8918,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "西安市",
-   "city_en": "Xi'an"
+   "city_en": "Xi'an",
+   "admission": "paid"
   },
   {
    "id": "cn-1091",
@@ -8798,7 +8963,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "西安市",
-   "city_en": "Xi'an"
+   "city_en": "Xi'an",
+   "admission": "paid"
   },
   {
    "id": "cn-1087",
@@ -8851,7 +9017,8 @@
    "province_en": "Hunan",
    "province_iso": "CN-HN",
    "city_zh": "湘西土家族苗族自治州",
-   "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture"
+   "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-1080",
@@ -8895,7 +9062,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "延安市",
-   "city_en": "Yan'an"
+   "city_en": "Yan'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-1067",
@@ -8958,7 +9126,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "渭南市",
-   "city_en": "Weinan"
+   "city_en": "Weinan",
+   "admission": "paid"
   },
   {
    "id": "cn-1033",
@@ -9021,7 +9190,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "杭州市",
-   "city_en": "Hangzhou"
+   "city_en": "Hangzhou",
+   "admission": "free"
   },
   {
    "id": "cn-1031",
@@ -9074,7 +9244,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "西安市",
-   "city_en": "Xi'an"
+   "city_en": "Xi'an",
+   "admission": "paid"
   },
   {
    "id": "cn-1023",
@@ -9127,7 +9298,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "温州市",
-   "city_en": "Wenzhou City"
+   "city_en": "Wenzhou City",
+   "admission": "paid"
   },
   {
    "id": "cn-1016",
@@ -9181,7 +9353,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "宝鸡市",
-   "city_en": "Baoji"
+   "city_en": "Baoji",
+   "admission": "paid"
   },
   {
    "id": "cn-1011",
@@ -9234,7 +9407,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "舟山市",
-   "city_en": "Zhoushan City"
+   "city_en": "Zhoushan City",
+   "admission": "paid"
   },
   {
    "id": "cn-1004",
@@ -9287,7 +9461,8 @@
    "province_en": "Zhejiang",
    "province_iso": "CN-ZJ",
    "city_zh": "杭州市",
-   "city_en": "Hangzhou"
+   "city_en": "Hangzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-997",
@@ -9331,7 +9506,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "商洛市",
-   "city_en": "Shangluo"
+   "city_en": "Shangluo",
+   "admission": "unknown"
   },
   {
    "id": "cn-990",
@@ -9384,7 +9560,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "沈阳市",
-   "city_en": "Shenyang"
+   "city_en": "Shenyang",
+   "admission": "paid"
   },
   {
    "id": "cn-977",
@@ -9437,7 +9614,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "大连市",
-   "city_en": "Dalian"
+   "city_en": "Dalian",
+   "admission": "paid"
   },
   {
    "id": "cn-953",
@@ -9500,7 +9678,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "宝鸡市",
-   "city_en": "Baoji"
+   "city_en": "Baoji",
+   "admission": "unknown"
   },
   {
    "id": "cn-940",
@@ -9544,7 +9723,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "西安市",
-   "city_en": "Xi'an"
+   "city_en": "Xi'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-926",
@@ -9597,7 +9777,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "延安市",
-   "city_en": "Yan'an"
+   "city_en": "Yan'an",
+   "admission": "free"
   },
   {
    "id": "cn-924",
@@ -9650,7 +9831,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "大连市",
-   "city_en": "Dalian"
+   "city_en": "Dalian",
+   "admission": "unknown"
   },
   {
    "id": "cn-914",
@@ -9713,7 +9895,8 @@
    "province_en": "Shaanxi",
    "province_iso": "CN-SN",
    "city_zh": "西安市",
-   "city_en": "Xi'an"
+   "city_en": "Xi'an",
+   "admission": "partial"
   },
   {
    "id": "cn-913",
@@ -9766,7 +9949,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "本溪市",
-   "city_en": "Benxi City"
+   "city_en": "Benxi City",
+   "admission": "paid"
   },
   {
    "id": "cn-901",
@@ -9829,7 +10013,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "嘉峪关市",
-   "city_en": "Jiayuguan City"
+   "city_en": "Jiayuguan City",
+   "admission": "paid"
   },
   {
    "id": "cn-887",
@@ -9883,7 +10068,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "平凉市",
-   "city_en": "Pingliang City"
+   "city_en": "Pingliang City",
+   "admission": "paid"
   },
   {
    "id": "cn-875",
@@ -9937,7 +10123,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "天水市",
-   "city_en": "Tianshui City"
+   "city_en": "Tianshui City",
+   "admission": "paid"
   },
   {
    "id": "cn-870",
@@ -9990,7 +10177,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "鞍山市",
-   "city_en": "Anshan City"
+   "city_en": "Anshan City",
+   "admission": "paid"
   },
   {
    "id": "cn-858",
@@ -10034,7 +10222,8 @@
    "province_en": "Liaoning",
    "province_iso": "CN-LN",
    "city_zh": "盘锦市",
-   "city_en": "Panjin City"
+   "city_en": "Panjin City",
+   "admission": "paid"
   },
   {
    "id": "cn-854",
@@ -10087,7 +10276,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "酒泉市",
-   "city_en": "Jiuquan City"
+   "city_en": "Jiuquan City",
+   "admission": "paid"
   },
   {
    "id": "cn-847",
@@ -10131,7 +10321,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "大同市",
-   "city_en": "Datong"
+   "city_en": "Datong",
+   "admission": "paid"
   },
   {
    "id": "cn-837",
@@ -10185,7 +10376,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "张掖市",
-   "city_en": "Zhangye City"
+   "city_en": "Zhangye City",
+   "admission": "unknown"
   },
   {
    "id": "cn-835",
@@ -10229,7 +10421,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "忻州市",
-   "city_en": "Xinzhou"
+   "city_en": "Xinzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-825",
@@ -10282,7 +10475,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "晋城市",
-   "city_en": "Jincheng"
+   "city_en": "Jincheng",
+   "admission": "paid"
   },
   {
    "id": "cn-812",
@@ -10336,7 +10530,8 @@
    "province_en": "Gansu",
    "province_iso": "CN-GS",
    "city_zh": "临夏回族自治州",
-   "city_en": "Linxiahuizu Autonomous Prefecture"
+   "city_en": "Linxiahuizu Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-803",
@@ -10380,7 +10575,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "晋中市",
-   "city_en": "Jinzhong"
+   "city_en": "Jinzhong",
+   "admission": "paid"
   },
   {
    "id": "cn-786",
@@ -10433,7 +10629,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "厦门市",
-   "city_en": "Xiamen"
+   "city_en": "Xiamen",
+   "admission": "paid"
   },
   {
    "id": "cn-778",
@@ -10477,7 +10674,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "晋中市",
-   "city_en": "Jinzhong"
+   "city_en": "Jinzhong",
+   "admission": "partial"
   },
   {
    "id": "cn-775",
@@ -10531,7 +10729,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "南平市",
-   "city_en": "Nanping"
+   "city_en": "Nanping",
+   "admission": "paid"
   },
   {
    "id": "cn-763",
@@ -10575,7 +10774,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "三明市",
-   "city_en": "Sanming"
+   "city_en": "Sanming",
+   "admission": "paid"
   },
   {
    "id": "cn-762",
@@ -10628,7 +10828,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "忻州市",
-   "city_en": "Xinzhou"
+   "city_en": "Xinzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-757",
@@ -10681,7 +10882,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "临汾市",
-   "city_en": "Linfen"
+   "city_en": "Linfen",
+   "admission": "paid"
   },
   {
    "id": "cn-753",
@@ -10734,7 +10936,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "龙岩市",
-   "city_en": "Longyan"
+   "city_en": "Longyan",
+   "admission": "unknown"
   },
   {
    "id": "cn-749",
@@ -10778,7 +10981,8 @@
    "province_en": "Shanxi",
    "province_iso": "CN-SX",
    "city_zh": "临汾市",
-   "city_en": "Linfen"
+   "city_en": "Linfen",
+   "admission": "unknown"
   },
   {
    "id": "cn-743",
@@ -10831,7 +11035,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "宁德市",
-   "city_en": "Ningde"
+   "city_en": "Ningde",
+   "admission": "unknown"
   },
   {
    "id": "cn-731",
@@ -10884,7 +11089,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "泉州市",
-   "city_en": "Quanzhou"
+   "city_en": "Quanzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-715",
@@ -10938,7 +11144,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "广州市",
-   "city_en": "Guangzhou"
+   "city_en": "Guangzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-708",
@@ -10992,7 +11199,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "深圳市",
-   "city_en": "Shenzhen"
+   "city_en": "Shenzhen",
+   "admission": "paid"
   },
   {
    "id": "cn-701",
@@ -11045,7 +11253,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "宁德市",
-   "city_en": "Ningde"
+   "city_en": "Ningde",
+   "admission": "unknown"
   },
   {
    "id": "cn-690",
@@ -11108,7 +11317,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "福州市",
-   "city_en": "Fuzhou"
+   "city_en": "Fuzhou",
+   "admission": "free"
   },
   {
    "id": "cn-688",
@@ -11152,7 +11362,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "深圳市",
-   "city_en": "Shenzhen"
+   "city_en": "Shenzhen",
+   "admission": "unknown"
   },
   {
    "id": "cn-674",
@@ -11196,7 +11407,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "梅州市",
-   "city_en": "Meizhou"
+   "city_en": "Meizhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-670",
@@ -11240,7 +11452,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "龙岩市",
-   "city_en": "Longyan"
+   "city_en": "Longyan",
+   "admission": "free"
   },
   {
    "id": "cn-665",
@@ -11293,7 +11506,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "广州市",
-   "city_en": "Guangzhou"
+   "city_en": "Guangzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-656",
@@ -11337,7 +11551,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "清远市",
-   "city_en": "Qingyuan"
+   "city_en": "Qingyuan",
+   "admission": "unknown"
   },
   {
    "id": "cn-655",
@@ -11390,7 +11605,8 @@
    "province_en": "Fujian",
    "province_iso": "CN-FJ",
    "city_zh": "莆田市",
-   "city_en": "Putian"
+   "city_en": "Putian",
+   "admission": "paid"
   },
   {
    "id": "cn-649",
@@ -11443,7 +11659,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "韶关市",
-   "city_en": "Shaoguan"
+   "city_en": "Shaoguan",
+   "admission": "unknown"
   },
   {
    "id": "cn-637",
@@ -11496,7 +11713,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "佛山市",
-   "city_en": "Foshan"
+   "city_en": "Foshan",
+   "admission": "free"
   },
   {
    "id": "cn-632",
@@ -11549,7 +11767,8 @@
    "province_en": "Tibet",
    "province_iso": "CN-XZ",
    "city_zh": "拉萨市",
-   "city_en": "Lhasa"
+   "city_en": "Lhasa",
+   "admission": "paid"
   },
   {
    "id": "cn-620",
@@ -11603,7 +11822,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "佛山市",
-   "city_en": "Foshan"
+   "city_en": "Foshan",
+   "admission": "unknown"
   },
   {
    "id": "cn-618",
@@ -11656,7 +11876,8 @@
    "province_en": "Tibet",
    "province_iso": "CN-XZ",
    "city_zh": "拉萨市",
-   "city_en": "Lhasa"
+   "city_en": "Lhasa",
+   "admission": "paid"
   },
   {
    "id": "cn-606",
@@ -11709,7 +11930,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "惠州市",
-   "city_en": "Huizhou"
+   "city_en": "Huizhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-604",
@@ -11762,7 +11984,8 @@
    "province_en": "Tibet",
    "province_iso": "CN-XZ",
    "city_zh": "林芝地区",
-   "city_en": "Linzhi Prefecture"
+   "city_en": "Linzhi Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-597",
@@ -11815,7 +12038,8 @@
    "province_en": "Tibet",
    "province_iso": "CN-XZ",
    "city_zh": "日喀则地区",
-   "city_en": "Rikaze Prefecture"
+   "city_en": "Rikaze Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-575",
@@ -11868,7 +12092,8 @@
    "province_en": "Tibet",
    "province_iso": "CN-XZ",
    "city_zh": "林芝地区",
-   "city_en": "Linzhi Prefecture"
+   "city_en": "Linzhi Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-563",
@@ -11912,7 +12137,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "昆明市",
-   "city_en": "Kunming"
+   "city_en": "Kunming",
+   "admission": "paid"
   },
   {
    "id": "cn-552",
@@ -11965,7 +12191,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "丽江市",
-   "city_en": "Lijiang"
+   "city_en": "Lijiang",
+   "admission": "paid"
   },
   {
    "id": "cn-539",
@@ -12018,7 +12245,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "西双版纳傣族自治州",
-   "city_en": "Xishuangbanna Dai Autonomous Prefecture"
+   "city_en": "Xishuangbanna Dai Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-525",
@@ -12071,7 +12299,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "丽江市",
-   "city_en": "Lijiang"
+   "city_en": "Lijiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-521",
@@ -12115,7 +12344,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "中山市",
-   "city_en": "Zhongshan City"
+   "city_en": "Zhongshan City",
+   "admission": "free"
   },
   {
    "id": "cn-515",
@@ -12168,7 +12398,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "惠州市",
-   "city_en": "Huizhou"
+   "city_en": "Huizhou",
+   "admission": "free"
   },
   {
    "id": "cn-509",
@@ -12212,7 +12443,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "肇庆市",
-   "city_en": "Zhaoqing City"
+   "city_en": "Zhaoqing City",
+   "admission": "unknown"
   },
   {
    "id": "cn-507",
@@ -12265,7 +12497,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "大理白族自治州",
-   "city_en": "Dali Bai Autonomous Prefecture"
+   "city_en": "Dali Bai Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-500",
@@ -12318,7 +12551,8 @@
    "province_en": "Guangdong",
    "province_iso": "CN-GD",
    "city_zh": "江门市",
-   "city_en": "Jiangmen City"
+   "city_en": "Jiangmen City",
+   "admission": "unknown"
   },
   {
    "id": "cn-495",
@@ -12381,7 +12615,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "free"
   },
   {
    "id": "cn-494",
@@ -12434,7 +12669,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "迪庆藏族自治州",
-   "city_en": "Diqing Tibetan Autonomous Prefecture"
+   "city_en": "Diqing Tibetan Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-487",
@@ -12488,7 +12724,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "南通市",
-   "city_en": "Nantong City"
+   "city_en": "Nantong City",
+   "admission": "free"
   },
   {
    "id": "cn-483",
@@ -12542,7 +12779,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "镇江市",
-   "city_en": "Zhenjiang"
+   "city_en": "Zhenjiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-480",
@@ -12586,7 +12824,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "昆明市",
-   "city_en": "Kunming"
+   "city_en": "Kunming",
+   "admission": "unknown"
   },
   {
    "id": "cn-474",
@@ -12649,7 +12888,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "无锡市",
-   "city_en": "Wuxi"
+   "city_en": "Wuxi",
+   "admission": "unknown"
   },
   {
    "id": "cn-459",
@@ -12712,7 +12952,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-457",
@@ -12756,7 +12997,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "保山市",
-   "city_en": "Baoshan"
+   "city_en": "Baoshan",
+   "admission": "unknown"
   },
   {
    "id": "cn-451",
@@ -12800,7 +13042,8 @@
    "province_en": "Yunnan",
    "province_iso": "CN-YN",
    "city_zh": "文山壮族苗族自治州",
-   "city_en": "Wenshan Zhuang and Miao Autonomous Prefecture"
+   "city_en": "Wenshan Zhuang and Miao Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-446",
@@ -12854,7 +13097,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "常州市",
-   "city_en": "Changzhou"
+   "city_en": "Changzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-443",
@@ -12908,7 +13152,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-442",
@@ -12971,7 +13216,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "郑州市",
-   "city_en": "Zhengzhou"
+   "city_en": "Zhengzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-437",
@@ -13034,7 +13280,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "镇江市",
-   "city_en": "Zhenjiang"
+   "city_en": "Zhenjiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-435",
@@ -13097,7 +13344,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "洛阳市",
-   "city_en": "Luoyang"
+   "city_en": "Luoyang",
+   "admission": "paid"
   },
   {
    "id": "cn-432",
@@ -13150,7 +13398,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "淮安市",
-   "city_en": "Huai'an"
+   "city_en": "Huai'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-424",
@@ -13194,7 +13443,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "盐城市",
-   "city_en": "Yancheng"
+   "city_en": "Yancheng",
+   "admission": "unknown"
   },
   {
    "id": "cn-421",
@@ -13257,7 +13507,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "徐州市",
-   "city_en": "Xuzhou"
+   "city_en": "Xuzhou",
+   "admission": "free"
   },
   {
    "id": "cn-416",
@@ -13301,7 +13552,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "连云港市",
-   "city_en": "Lianyungang"
+   "city_en": "Lianyungang",
+   "admission": "unknown"
   },
   {
    "id": "cn-407",
@@ -13345,7 +13597,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "焦作市",
-   "city_en": "Jiaozuo"
+   "city_en": "Jiaozuo",
+   "admission": "paid"
   },
   {
    "id": "cn-404",
@@ -13399,7 +13652,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "常州市",
-   "city_en": "Changzhou"
+   "city_en": "Changzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-402",
@@ -13453,7 +13707,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "无锡市",
-   "city_en": "Wuxi"
+   "city_en": "Wuxi",
+   "admission": "partial"
   },
   {
    "id": "cn-400",
@@ -13516,7 +13771,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "开封市",
-   "city_en": "Kaifeng"
+   "city_en": "Kaifeng",
+   "admission": "paid"
   },
   {
    "id": "cn-397",
@@ -13569,7 +13825,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "宿迁市",
-   "city_en": "Suqian City"
+   "city_en": "Suqian City",
+   "admission": "unknown"
   },
   {
    "id": "cn-391",
@@ -13613,7 +13870,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "崇左市",
-   "city_en": "Chongzuo City"
+   "city_en": "Chongzuo City",
+   "admission": "unknown"
   },
   {
    "id": "cn-390",
@@ -13657,7 +13915,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "百色市",
-   "city_en": "Baise City"
+   "city_en": "Baise City",
+   "admission": "free"
   },
   {
    "id": "cn-389",
@@ -13701,7 +13960,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "北海市",
-   "city_en": "Beihai"
+   "city_en": "Beihai",
+   "admission": "unknown"
   },
   {
    "id": "cn-388",
@@ -13754,7 +14014,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "洛阳市",
-   "city_en": "Luoyang"
+   "city_en": "Luoyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-387",
@@ -13798,7 +14059,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "三亚市",
-   "city_en": "Sanya"
+   "city_en": "Sanya",
+   "admission": "unknown"
   },
   {
    "id": "cn-386",
@@ -13861,7 +14123,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "安阳市",
-   "city_en": "Anyang"
+   "city_en": "Anyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-385",
@@ -13914,7 +14177,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "三亚市",
-   "city_en": "Sanya"
+   "city_en": "Sanya",
+   "admission": "free"
   },
   {
    "id": "cn-384",
@@ -13958,7 +14222,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "保亭黎族苗族自治县",
-   "city_en": "Baotinglizumiaozuzizhi County"
+   "city_en": "Baotinglizumiaozuzizhi County",
+   "admission": "unknown"
   },
   {
    "id": "cn-383",
@@ -14011,7 +14276,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "平顶山市",
-   "city_en": "Pingdingshan City"
+   "city_en": "Pingdingshan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-382",
@@ -14064,7 +14330,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "陵水黎族自治县",
-   "city_en": "Lingshuilizuzizhi County"
+   "city_en": "Lingshuilizuzizhi County",
+   "admission": "unknown"
   },
   {
    "id": "cn-381",
@@ -14108,7 +14375,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "保亭黎族苗族自治县",
-   "city_en": "Baotinglizumiaozuzizhi County"
+   "city_en": "Baotinglizumiaozuzizhi County",
+   "admission": "unknown"
   },
   {
    "id": "cn-380",
@@ -14161,7 +14429,8 @@
    "province_en": "Hainan",
    "province_iso": "CN-HI",
    "city_zh": "三亚市",
-   "city_en": "Sanya"
+   "city_en": "Sanya",
+   "admission": "unknown"
   },
   {
    "id": "cn-379",
@@ -14214,7 +14483,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "洛阳市",
-   "city_en": "Luoyang"
+   "city_en": "Luoyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-378",
@@ -14277,7 +14547,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "哈尔滨市",
-   "city_en": "Harbin"
+   "city_en": "Harbin",
+   "admission": "paid"
   },
   {
    "id": "cn-377",
@@ -14340,7 +14611,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "洛阳市",
-   "city_en": "Luoyang"
+   "city_en": "Luoyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-376",
@@ -14384,7 +14656,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "黑河市",
-   "city_en": "Heihe City"
+   "city_en": "Heihe City",
+   "admission": "unknown"
   },
   {
    "id": "cn-375",
@@ -14437,7 +14710,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "牡丹江市",
-   "city_en": "Mudanjiang City"
+   "city_en": "Mudanjiang City",
+   "admission": "paid"
   },
   {
    "id": "cn-374",
@@ -14490,7 +14764,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "南阳市",
-   "city_en": "Nanyang"
+   "city_en": "Nanyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-373",
@@ -14534,7 +14809,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "伊春市",
-   "city_en": "Yichun City"
+   "city_en": "Yichun City",
+   "admission": "unknown"
   },
   {
    "id": "cn-372",
@@ -14597,7 +14873,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "驻马店市",
-   "city_en": "Zhumadian City"
+   "city_en": "Zhumadian City",
+   "admission": "unknown"
   },
   {
    "id": "cn-371",
@@ -14641,7 +14918,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "大兴安岭",
-   "city_en": "Daxinganling"
+   "city_en": "Daxinganling",
+   "admission": "unknown"
   },
   {
    "id": "cn-370",
@@ -14684,7 +14962,8 @@
    "province_en": "Heilongjiang",
    "province_iso": "CN-HL",
    "city_zh": "鸡西市",
-   "city_en": "Jixi City"
+   "city_en": "Jixi City",
+   "admission": "unknown"
   },
   {
    "id": "cn-369",
@@ -14728,7 +15007,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "长春市",
-   "city_en": "Changchun"
+   "city_en": "Changchun",
+   "admission": "paid"
   },
   {
    "id": "cn-368",
@@ -14781,7 +15061,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "安阳市",
-   "city_en": "Anyang"
+   "city_en": "Anyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-367",
@@ -14834,7 +15115,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "延边朝鲜族自治州",
-   "city_en": "Yanbian Korean Autonomous Prefecture"
+   "city_en": "Yanbian Korean Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-366",
@@ -14878,7 +15160,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "长春市",
-   "city_en": "Changchun"
+   "city_en": "Changchun",
+   "admission": "paid"
   },
   {
    "id": "cn-365",
@@ -14931,7 +15214,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "长春市",
-   "city_en": "Changchun"
+   "city_en": "Changchun",
+   "admission": "unknown"
   },
   {
    "id": "cn-363",
@@ -14975,7 +15259,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "延边朝鲜族自治州",
-   "city_en": "Yanbian Korean Autonomous Prefecture"
+   "city_en": "Yanbian Korean Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-362",
@@ -15029,7 +15314,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "商丘市",
-   "city_en": "Shangqiu City"
+   "city_en": "Shangqiu City",
+   "admission": "unknown"
   },
   {
    "id": "cn-361",
@@ -15082,7 +15368,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "长春市",
-   "city_en": "Changchun"
+   "city_en": "Changchun",
+   "admission": "unknown"
   },
   {
    "id": "cn-360",
@@ -15126,7 +15413,8 @@
    "province_en": "Jilin",
    "province_iso": "CN-JL",
    "city_zh": "通化市",
-   "city_en": "Tonghua City"
+   "city_en": "Tonghua City",
+   "admission": "unknown"
   },
   {
    "id": "cn-359",
@@ -15170,7 +15458,8 @@
    "province_en": "Henan",
    "province_iso": "CN-HA",
    "city_zh": "新乡市",
-   "city_en": "Xinxiang"
+   "city_en": "Xinxiang",
+   "admission": "unknown"
   },
   {
    "id": "cn-358",
@@ -15223,7 +15512,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "南京市",
-   "city_en": "Nanjing"
+   "city_en": "Nanjing",
+   "admission": "partial"
   },
   {
    "id": "cn-357",
@@ -15277,7 +15567,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "无锡市",
-   "city_en": "Wuxi"
+   "city_en": "Wuxi",
+   "admission": "unknown"
   },
   {
    "id": "cn-356",
@@ -15340,7 +15631,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-355",
@@ -15393,7 +15685,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "昌吉回族自治州",
-   "city_en": "Changji Hui Autonomous Prefecture"
+   "city_en": "Changji Hui Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-354",
@@ -15446,7 +15739,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "吐鲁番地区",
-   "city_en": "Tulufan Prefecture"
+   "city_en": "Tulufan Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-350",
@@ -15490,7 +15784,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "阿勒泰地区",
-   "city_en": "Altay Prefecture"
+   "city_en": "Altay Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-349",
@@ -15534,7 +15829,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "伊犁哈萨克自治州",
-   "city_en": "Ili Kazakh Autonomous Prefecture"
+   "city_en": "Ili Kazakh Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-348",
@@ -15578,7 +15874,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "阿勒泰地区",
-   "city_en": "Altay Prefecture"
+   "city_en": "Altay Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-347",
@@ -15622,7 +15919,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-346",
@@ -15675,7 +15973,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "喀什地区",
-   "city_en": "Kashgar Prefecture"
+   "city_en": "Kashgar Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-345",
@@ -15738,7 +16037,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "无锡市",
-   "city_en": "Wuxi"
+   "city_en": "Wuxi",
+   "admission": "unknown"
   },
   {
    "id": "cn-344",
@@ -15801,7 +16101,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "南京市",
-   "city_en": "Nanjing"
+   "city_en": "Nanjing",
+   "admission": "free"
   },
   {
    "id": "cn-343",
@@ -15854,7 +16155,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "巴音郭楞蒙古自治州",
-   "city_en": "Bayinguolengmenggu Autonomous Prefecture"
+   "city_en": "Bayinguolengmenggu Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-341",
@@ -15917,7 +16219,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "扬州市",
-   "city_en": "Yangzhou"
+   "city_en": "Yangzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-339",
@@ -15961,7 +16264,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "苏州市",
-   "city_en": "Suzhou"
+   "city_en": "Suzhou",
+   "admission": "paid"
   },
   {
    "id": "cn-338",
@@ -16014,7 +16318,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "乌鲁木齐市",
-   "city_en": "Urumqi"
+   "city_en": "Urumqi",
+   "admission": "unknown"
   },
   {
    "id": "cn-337",
@@ -16068,7 +16373,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "常州市",
-   "city_en": "Changzhou"
+   "city_en": "Changzhou",
+   "admission": "unknown"
   },
   {
    "id": "cn-336",
@@ -16112,7 +16418,8 @@
    "province_en": "Jiangsu",
    "province_iso": "CN-JS",
    "city_zh": "泰州市",
-   "city_en": "Taizhou City"
+   "city_en": "Taizhou City",
+   "admission": "unknown"
   },
   {
    "id": "cn-335",
@@ -16165,7 +16472,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "喀什地区",
-   "city_en": "Kashgar Prefecture"
+   "city_en": "Kashgar Prefecture",
+   "admission": "free"
   },
   {
    "id": "cn-334",
@@ -16209,7 +16517,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "伊犁哈萨克自治州",
-   "city_en": "Ili Kazakh Autonomous Prefecture"
+   "city_en": "Ili Kazakh Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-333",
@@ -16272,7 +16581,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "黄山市",
-   "city_en": "Huangshan"
+   "city_en": "Huangshan",
+   "admission": "paid"
   },
   {
    "id": "cn-332",
@@ -16325,7 +16635,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "池州市",
-   "city_en": "Chizhou"
+   "city_en": "Chizhou",
+   "admission": "paid"
   },
   {
    "id": "cn-331",
@@ -16369,7 +16680,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "巴音郭楞蒙古自治州",
-   "city_en": "Bayinguolengmenggu Autonomous Prefecture"
+   "city_en": "Bayinguolengmenggu Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-330",
@@ -16432,7 +16744,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "黄山市",
-   "city_en": "Huangshan"
+   "city_en": "Huangshan",
+   "admission": "paid"
   },
   {
    "id": "cn-329",
@@ -16485,7 +16798,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "安庆市",
-   "city_en": "Anqing"
+   "city_en": "Anqing",
+   "admission": "paid"
   },
   {
    "id": "cn-328",
@@ -16529,7 +16843,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "阿勒泰地区",
-   "city_en": "Altay Prefecture"
+   "city_en": "Altay Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-327",
@@ -16592,7 +16907,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "六安市",
-   "city_en": "Lu'an"
+   "city_en": "Lu'an",
+   "admission": "paid"
   },
   {
    "id": "cn-326",
@@ -16655,7 +16971,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "宣城市",
-   "city_en": "Xuancheng"
+   "city_en": "Xuancheng",
+   "admission": "unknown"
   },
   {
    "id": "cn-325",
@@ -16699,7 +17016,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "阜阳市",
-   "city_en": "Fuyang City"
+   "city_en": "Fuyang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-324",
@@ -16743,7 +17061,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "喀什地区",
-   "city_en": "Kashgar Prefecture"
+   "city_en": "Kashgar Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-323",
@@ -16797,7 +17116,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "黄山市",
-   "city_en": "Huangshan"
+   "city_en": "Huangshan",
+   "admission": "unknown"
   },
   {
    "id": "cn-322",
@@ -16841,7 +17161,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "克拉玛依市",
-   "city_en": "Kelamayi City"
+   "city_en": "Kelamayi City",
+   "admission": "unknown"
   },
   {
    "id": "cn-321",
@@ -16885,7 +17206,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "合肥市",
-   "city_en": "Hefei"
+   "city_en": "Hefei",
+   "admission": "free"
   },
   {
    "id": "cn-320",
@@ -16929,7 +17251,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "芜湖市",
-   "city_en": "Wuhu"
+   "city_en": "Wuhu",
+   "admission": "unknown"
   },
   {
    "id": "cn-319",
@@ -16973,7 +17296,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "阿拉尔市",
-   "city_en": "Alaer City"
+   "city_en": "Alaer City",
+   "admission": "unknown"
   },
   {
    "id": "cn-318",
@@ -17017,7 +17341,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "六安市",
-   "city_en": "Lu'an"
+   "city_en": "Lu'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-317",
@@ -17070,7 +17395,8 @@
    "province_en": "Anhui",
    "province_iso": "CN-AH",
    "city_zh": "马鞍山市",
-   "city_en": "Maanshan City"
+   "city_en": "Maanshan City",
+   "admission": "unknown"
   },
   {
    "id": "cn-316",
@@ -17123,7 +17449,8 @@
    "province_en": "Xinjiang",
    "province_iso": "CN-XJ",
    "city_zh": "博尔塔拉蒙古自治州",
-   "city_en": "Bortala Mongol Autonomous Prefecture"
+   "city_en": "Bortala Mongol Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-315",
@@ -17186,7 +17513,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "武汉市",
-   "city_en": "Wuhan"
+   "city_en": "Wuhan",
+   "admission": "paid"
   },
   {
    "id": "cn-314",
@@ -17230,7 +17558,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "宜昌市",
-   "city_en": "Yichang"
+   "city_en": "Yichang",
+   "admission": "partial"
   },
   {
    "id": "cn-313",
@@ -17283,7 +17612,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "成都市",
-   "city_en": "Chengdu"
+   "city_en": "Chengdu",
+   "admission": "paid"
   },
   {
    "id": "cn-312",
@@ -17336,7 +17666,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "十堰市",
-   "city_en": "Shiyan"
+   "city_en": "Shiyan",
+   "admission": "paid"
   },
   {
    "id": "cn-311",
@@ -17388,7 +17719,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "乐山市",
-   "city_en": "Leshan"
+   "city_en": "Leshan",
+   "admission": "paid"
   },
   {
    "id": "cn-310",
@@ -17441,7 +17773,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "阿坝藏族羌族自治州",
-   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture"
+   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-309",
@@ -17493,7 +17826,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "乐山市",
-   "city_en": "Leshan"
+   "city_en": "Leshan",
+   "admission": "paid"
   },
   {
    "id": "cn-308",
@@ -17547,7 +17881,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "宜昌市",
-   "city_en": "Yichang"
+   "city_en": "Yichang",
+   "admission": "paid"
   },
   {
    "id": "cn-307",
@@ -17600,7 +17935,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "恩施土家族苗族自治州",
-   "city_en": "Enshi Tujia and Miao Autonomous Prefecture"
+   "city_en": "Enshi Tujia and Miao Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-306",
@@ -17644,7 +17980,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "阿坝藏族羌族自治州",
-   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture"
+   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-305",
@@ -17688,7 +18025,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "宜昌市",
-   "city_en": "Yichang"
+   "city_en": "Yichang",
+   "admission": "paid"
   },
   {
    "id": "cn-304",
@@ -17741,7 +18079,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "广安市",
-   "city_en": "Guangan City"
+   "city_en": "Guangan City",
+   "admission": "free"
   },
   {
    "id": "cn-303",
@@ -17794,7 +18133,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "宜昌市",
-   "city_en": "Yichang"
+   "city_en": "Yichang",
+   "admission": "unknown"
   },
   {
    "id": "cn-302",
@@ -17838,7 +18178,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "南充市",
-   "city_en": "Nanchang"
+   "city_en": "Nanchang",
+   "admission": "unknown"
   },
   {
    "id": "cn-301",
@@ -17901,7 +18242,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "武汉市",
-   "city_en": "Wuhan"
+   "city_en": "Wuhan",
+   "admission": "free"
   },
   {
    "id": "cn-300",
@@ -17955,7 +18297,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "武汉市",
-   "city_en": "Wuhan"
+   "city_en": "Wuhan",
+   "admission": "unknown"
   },
   {
    "id": "cn-299",
@@ -17999,7 +18342,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "绵阳市",
-   "city_en": "Mianyang"
+   "city_en": "Mianyang",
+   "admission": "unknown"
   },
   {
    "id": "cn-298",
@@ -18062,7 +18406,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "恩施土家族苗族自治州",
-   "city_en": "Enshi Tujia and Miao Autonomous Prefecture"
+   "city_en": "Enshi Tujia and Miao Autonomous Prefecture",
+   "admission": "paid"
   },
   {
    "id": "cn-297",
@@ -18106,7 +18451,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "阿坝藏族羌族自治州",
-   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture"
+   "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-296",
@@ -18159,7 +18505,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "广元市",
-   "city_en": "Guangyuan"
+   "city_en": "Guangyuan",
+   "admission": "unknown"
   },
   {
    "id": "cn-295",
@@ -18213,7 +18560,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "咸宁市",
-   "city_en": "Xianning City"
+   "city_en": "Xianning City",
+   "admission": "unknown"
   },
   {
    "id": "cn-294",
@@ -18266,7 +18614,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "襄阳市",
-   "city_en": "Xiangyang City"
+   "city_en": "Xiangyang City",
+   "admission": "unknown"
   },
   {
    "id": "cn-293",
@@ -18329,7 +18678,8 @@
    "province_en": "Hubei",
    "province_iso": "CN-HB",
    "city_zh": "恩施土家族苗族自治州",
-   "city_en": "Enshi Tujia and Miao Autonomous Prefecture"
+   "city_en": "Enshi Tujia and Miao Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-292",
@@ -18373,7 +18723,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "南充市",
-   "city_en": "Nanchang"
+   "city_en": "Nanchang",
+   "admission": "free"
   },
   {
    "id": "cn-291",
@@ -18426,7 +18777,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "甘孜藏族自治州",
-   "city_en": "Ganzi Tibetan Autonomous Prefecture"
+   "city_en": "Ganzi Tibetan Autonomous Prefecture",
+   "admission": "unknown"
   },
   {
    "id": "cn-290",
@@ -18479,7 +18831,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "桂林市",
-   "city_en": "Guilin"
+   "city_en": "Guilin",
+   "admission": "unknown"
   },
   {
    "id": "cn-288",
@@ -18522,7 +18875,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "雅安市",
-   "city_en": "Ya'an"
+   "city_en": "Ya'an",
+   "admission": "unknown"
   },
   {
    "id": "cn-287",
@@ -18575,7 +18929,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "桂林市",
-   "city_en": "Guilin"
+   "city_en": "Guilin",
+   "admission": "unknown"
   },
   {
    "id": "cn-286",
@@ -18628,7 +18983,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "南宁市",
-   "city_en": "Nanning"
+   "city_en": "Nanning",
+   "admission": "unknown"
   },
   {
    "id": "cn-285",
@@ -18672,7 +19028,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "巴中市",
-   "city_en": "Bazhong City"
+   "city_en": "Bazhong City",
+   "admission": "unknown"
   },
   {
    "id": "cn-284",
@@ -18716,7 +19073,8 @@
    "province_en": "Guangxi",
    "province_iso": "CN-GX",
    "city_zh": "桂林市",
-   "city_en": "Guilin"
+   "city_en": "Guilin",
+   "admission": "unknown"
   },
   {
    "id": "cn-283",
@@ -18769,7 +19127,8 @@
    "province_en": "Sichuan",
    "province_iso": "CN-SC",
    "city_zh": "甘孜藏族自治州",
-   "city_en": "Ganzi Tibetan Autonomous Prefecture"
+   "city_en": "Ganzi Tibetan Autonomous Prefecture",
+   "admission": "paid"
   }
  ]
 }

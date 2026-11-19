@@ -206,6 +206,7 @@ def index_record(site: dict) -> dict:
             "province_iso": site.get("province_iso") or "",
             "city_zh": site.get("city_zh") or "",
             "city_en": site.get("city_en") or "",
+            "admission": site.get("admission") or "unknown",
         })
     else:
         rec.update({

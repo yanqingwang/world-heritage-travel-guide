@@ -225,6 +225,10 @@ def main() -> int:
     website_langs = load_json(RAW / "website_langs.json", {}) or {}
     country_info = (load_json(RAW / "country_info.json", {}) or {}).get("items", {})
     previous = {s["id"]: s for s in (load_json(DATA / "china.json", {}) or {}).get("sites", [])}
+    # 门票核验数据（人工维护，按景区名匹配）：free / partial / paid / unknown
+    admission_doc = load_json(DATA / "admission.json", {}) or {}
+    admission_map = admission_doc.get("sites", {}) or {}
+    admission_checked = admission_doc.get("checked_at") or ""
 
     # Machine-translate the official intro and address once per unique string.
     # These calls used to run sequentially; eight workers cut the build from
@@ -304,6 +308,10 @@ def main() -> int:
             "category": cat,
             "category_zh": cat_zh,
             "category_en": cat_en,
+            "admission": (admission_map.get(site["name"]) or {}).get("admission", "unknown"),
+            "admission_note_zh": (admission_map.get(site["name"]) or {}).get("note_zh", ""),
+            "admission_source": (admission_map.get(site["name"]) or {}).get("source", ""),
+            "admission_checked_at": admission_checked,
             "intro_zh": intro_zh,
             "intro_en": (intro_en or "")[:1200],
             "intro_en_source": intro_en_source,

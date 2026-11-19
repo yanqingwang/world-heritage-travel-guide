@@ -43,6 +43,8 @@
       allCategories: "全部类型",
       allVisa: "全部签证状态",
       allTier: "全部资料等级",
+      allAdmission: "全部门票",
+      admission: { free: "免费开放", partial: "部分免费", paid: "需购票", unknown: "未标注" },
       reset: "重置",
       loadMore: "加载更多",
       empty: "没有找到匹配的目的地。",
@@ -70,10 +72,13 @@
         intro: "简介", local: "本地语言介绍", transport: "交通", hotels: "附近酒店",
         visa: "签证（中国护照）", langs: "多语言信息", sources: "来源与图片署名",
         foreign: "境外游客", ranking: "热度", practical: "旅行实用信息",
+        ticket: "门票",
       },
       labels: {
         airport: "机场", hsr: "高铁站", rail: "火车站", ferry: "码头",
         distance: "距离", fromBeijing: "距北京直线距离（至最近机场）", nearest: "最近",
+        ticketUnknown: "门票信息待核实，请以景区官方公告为准。",
+        ticketChecked: "人工核验于",
         star: "星级", chain: "连锁", hotel: "酒店", noHotels: "暂未收录酒店数据；下次 OSM 刷新后补齐。",
         noTransport: "暂无交通设施数据。", coords: "坐标", map: "在 OpenStreetMap 查看",
         official: "官网", booking: "预约", unesco: "UNESCO 页面",
@@ -130,6 +135,8 @@
       allCategories: "All categories",
       allVisa: "All visa statuses",
       allTier: "All record tiers",
+      allAdmission: "All admission",
+      admission: { free: "Free entry", partial: "Partly free", paid: "Ticket required", unknown: "Not verified" },
       reset: "Reset",
       loadMore: "Load more",
       empty: "No matching destination found.",
@@ -157,11 +164,13 @@
         intro: "Introduction", local: "In the local language", transport: "Transport",
         hotels: "Nearby hotels", visa: "Visa (Chinese passport)", langs: "Language availability",
         sources: "Sources & image credits", foreign: "International visitors", ranking: "Popularity",
-        practical: "Practical information",
+        practical: "Practical information", ticket: "Admission",
       },
       labels: {
         airport: "Airport", hsr: "High-speed rail", rail: "Railway station", ferry: "Ferry terminal",
         distance: "Distance", fromBeijing: "Great-circle distance from Beijing (nearest airport)", nearest: "Nearest",
+        ticketUnknown: "Admission not verified yet; check the official site before travelling.",
+        ticketChecked: "Manually verified on",
         star: "Star-rated", chain: "Chain", hotel: "Hotel", noHotels: "Hotel data not collected yet; the next OSM refresh will fill it.",
         noTransport: "No transport data available.", coords: "Coordinates", map: "View on OpenStreetMap",
         official: "Official site", booking: "Booking", unesco: "UNESCO page",
@@ -188,6 +197,7 @@
     category: "",
     visa: "",
     tier: "",
+    admission: "",
     visitedOnly: false,
     limit: 60,
     data: { china: null, world: null },
@@ -311,6 +321,7 @@
     const category = $("#category-filter");
     const visa = $("#visa-filter");
     const tier = $("#tier-filter");
+    const admission = $("#admission-filter");
     const data = state.data[state.tab];
     if (data) {
       if (state.tab === "china") {
@@ -328,6 +339,7 @@
         subdivision.disabled = false;
         visa.disabled = true;
         tier.disabled = true;
+        admission.disabled = false;
       } else {
         // Countries with the most full-tier records first, then alphabetical.
         const fullCount = new Map();
@@ -348,7 +360,7 @@
         country.disabled = false;
         visa.disabled = false;
         tier.disabled = false;
-        buildSubdivisionOptions();
+        admission.disabled = true;
       }
       const cats = [...new Set(data.sites.map((s) => s.category).filter(Boolean))];
       category.innerHTML = `<option value="">${esc(t().allCategories)}</option>` +
@@ -359,6 +371,8 @@
       Object.entries(t().visa).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
     tier.innerHTML = `<option value="">${esc(t().allTier)}</option>` +
       Object.entries(t().tier).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
+    admission.innerHTML = `<option value="">${esc(t().allAdmission)}</option>` +
+      Object.entries(t().admission).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
     // Language switches rebuild the options, so restore the active filters.
     country.value = state.country || (state.tab === "china" ? "CN" : "");
     if (state.tab === "world") buildSubdivisionOptions();
@@ -366,6 +380,7 @@
     category.value = state.category;
     visa.value = state.visa;
     tier.value = state.tier;
+    admission.value = state.admission;
   }
 
   // ISO 3166-2 subdivisions of the selected country that actually have sites.
@@ -508,6 +523,8 @@
       }
       if (state.visitedOnly && !(state.marks[s.id] || {}).v) return false;
       if (state.category && s.category !== state.category) return false;
+      if (state.tab === "china" && state.admission &&
+          (s.admission || "unknown") !== state.admission) return false;
       if (state.tab === "world") {
         if (state.visa && s.visa_summary !== state.visa) return false;
         if (state.tier && s.tier !== state.tier) return false;
@@ -663,6 +680,10 @@
     if (site.dataset === "china_5a") {
       chips.push(`<span class="chip green">${esc(categoryLabel(site))}</span>`);
       chips.push(`<span class="chip">${esc((state.lang === "zh" ? site.address_zh : site.address_en) || site.address_zh || "")}</span>`);
+      const adm = site.admission || "unknown";
+      if (adm !== "unknown") {
+        chips.push(`<span class="chip ${adm === "free" ? "green" : adm === "partial" ? "clay" : ""}">${esc(t().admission[adm])}</span>`);
+      }
     } else {
       chips.push(`<span class="chip green">${esc(categoryLabel(site))}</span>`);
       if (site.year) chips.push(`<span class="chip">${t().labels.year} ${esc(site.year)}</span>`);
@@ -675,6 +696,18 @@
     }
     body.push(`<div class="chips">${chips.join("")}</div>`);
     body.push(markRowHTML(site));
+
+    if (site.dataset === "china_5a") {
+      const adm = site.admission || "unknown";
+      const note = state.lang === "zh" ? site.admission_note_zh : "";
+      const checked = site.admission_checked_at
+        ? ` <span class="note">（${t().labels.ticketChecked} ${esc(site.admission_checked_at)}）</span>` : "";
+      const text = adm === "unknown"
+        ? t().labels.ticketUnknown
+        : `${esc(note || t().admission[adm])}${checked}`;
+      body.push(sectionHTML(`${t().sections.ticket} · ${t().admission[adm]}`,
+        `<p class="prose">${text}</p>`));
+    }
 
     const intro = state.lang === "zh" ? site.intro_zh : site.intro_en;
     const introSource = state.lang === "zh" ? site.intro_zh_source : site.intro_en_source;
@@ -1278,8 +1311,9 @@
   $("#category-filter").addEventListener("change", (e) => { state.category = e.target.value; state.limit = 60; render(); });
   $("#visa-filter").addEventListener("change", (e) => { state.visa = e.target.value; state.limit = 60; render(); });
   $("#tier-filter").addEventListener("change", (e) => { state.tier = e.target.value; state.limit = 60; render(); });
+  $("#admission-filter").addEventListener("change", (e) => { state.admission = e.target.value; state.limit = 60; render(); });
   $("#reset").addEventListener("click", () => {
-    state.query = state.subdivision = state.category = state.visa = state.tier = "";
+    state.query = state.subdivision = state.category = state.visa = state.tier = state.admission = "";
     state.country = state.tab === "china" ? "CN" : "";
     state.visitedOnly = false;
     state.limit = 60;
@@ -1289,6 +1323,7 @@
     $("#category-filter").value = "";
     $("#visa-filter").value = "";
     $("#tier-filter").value = "";
+    $("#admission-filter").value = "";
     syncVisitedToggle();
     render();
   });
