@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.765512
 lon: 119.477774
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 连云港市连岛景区 / Lian Island
 
 > 江苏省 · 连云港市 · 海滨度假
-
-## 图片 / Images
-
-![西连岛远眺.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E8%A5%BF%E8%BF%9E%E5%B2%9B%E8%BF%9C%E7%9C%BA.JPG/1280px-%E8%A5%BF%E8%BF%9E%E5%B2%9B%E8%BF%9C%E7%9C%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*西连岛远眺.JPG · 赵文博 · CC BY-SA 3.0*
-
-![GA 36-2014.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GA_36-2014.pdf/page1-960px-GA_36-2014.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GA 36-2014.pdf · Ministry of Public Security · Public domain*
-
-![Baai en strand van de Lian Island, Lianyungang, China.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9b/Baai_en_strand_van_de_Lian_Island%2C_Lianyungang%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Baai en strand van de Lian Island, Lianyungang, China.jpg · LianIsland · CC BY 4.0*
-
-![Boten aangemeerd in Lian Island, Lianyungang, China.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Boten_aangemeerd_in_Lian_Island%2C_Lianyungang%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Boten aangemeerd in Lian Island, Lianyungang, China.jpg · LianIsland · CC BY 4.0*
-
-![Boten in de haven van Lian Island.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1c/Boten_in_de_haven_van_Lian_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Boten in de haven van Lian Island.jpg · LianIsland · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -64,10 +42,10 @@ Lian Island (Chinese: 连岛; pinyin: lián dǎo) is the largest island in Liany
 ## 附近酒店 / Nearby hotels
 
 - **神州宾馆** — 10.7 km — star — Shenzhou Hotel · 4★
-- **枫树山庄** — 8.1 km — hotel
-- **Ju Chuan hotel** — 9.9 km — hotel — Ju Chuan hotel
-- **Nuclear Power Hotel** — 10.4 km — hotel — Nuclear Power Hotel
 - **连云港在海一方假日酒店** — 10.5 km — chain
+- **连云港连云区嘉瑞宝广场亚朵酒店** — 11.6 km — chain
+- **7天酒店** — 28.5 km — chain — 7 Days Inn · 7天酒店
+- **枫树山庄** — 8.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

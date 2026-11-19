@@ -13,22 +13,12 @@ province_en: "Guangxi"
 city_en: "Nanning"
 lat: 22.794981
 lon: 108.395823
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 南宁市青秀山风景名胜旅游区 / Qingxiushan Tourist Area
 
 > 广西壮族自治区 · 南宁市 · 山地风光
-
-## 图片 / Images
-
-![南宁青秀山观音禅寺.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E5%8D%97%E5%AE%81%E9%9D%92%E7%A7%80%E5%B1%B1%E8%A7%82%E9%9F%B3%E7%A6%85%E5%AF%BA.jpg/1280px-%E5%8D%97%E5%AE%81%E9%9D%92%E7%A7%80%E5%B1%B1%E8%A7%82%E9%9F%B3%E7%A6%85%E5%AF%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*南宁青秀山观音禅寺.jpg · EditQ · CC BY-SA 4.0*
-
-![南宁市大明山保护管理条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%8D%97%E5%AE%81%E5%B8%82%E5%A4%A7%E6%98%8E%E5%B1%B1%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E5%8D%97%E5%AE%81%E5%B8%82%E5%A4%A7%E6%98%8E%E5%B1%B1%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*南宁市大明山保护管理条例.pdf · Q106007132 · Public domain*
 
 ## 简介 / Introduction
 

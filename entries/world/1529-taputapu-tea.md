@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)(iv)(vi)"
 lat: -16.836111111
 lon: -151.359166666
-updated_at: "2026-11-12T14:36:32Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 塔普塔普阿泰 / Taputapuātea

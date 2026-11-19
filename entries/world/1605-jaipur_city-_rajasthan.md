@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(iv)(vi)"
 lat: 26.915
 lon: 75.82
-updated_at: "2026-11-12T14:36:32Z"
+updated_at: "2026-11-16T11:41:12Z"
 ---
 
 # 斋浦尔城 / Jaipur City, Rajasthan

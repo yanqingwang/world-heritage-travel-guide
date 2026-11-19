@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -0.666666666
 lon: -90.55
-updated_at: "2026-11-12T14:36:19Z"
+updated_at: "2026-11-16T11:41:03Z"
 ---
 
 # 加拉帕戈斯群岛 / Galápagos Islands

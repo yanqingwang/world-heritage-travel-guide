@@ -2,7 +2,7 @@
 id: "cn-331"
 dataset: "china_5a"
 name_zh: "巴音郭楞蒙古自治州巴音布鲁克景区"
-name_en: "Bayinguolengmengguzizhizhoubayinbuluke Scenic Area"
+name_en: "Bayanbulak Grassland National Nature Reserve"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Bayinguolengmenggu Autonomous Prefecture"
 lat: 42.769767
 lon: 84.439264
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 巴音郭楞蒙古自治州巴音布鲁克景区 / Bayinguolengmengguzizhizhoubayinbuluke Scenic Area
+# 巴音郭楞蒙古自治州巴音布鲁克景区 / Bayanbulak Grassland National Nature Reserve
 
 > 新疆维吾尔自治区 · 巴音郭楞蒙古自治州 · 山地风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Bayin Prefecture and Jing Bayinbuluke Scenic Area consists of three parts: Swan Lake scenic spot, tourist area and Bayinbuluke Town. It covers an area of ​​1,259.47 square kilometers, with an average altitude of 2,000-2,500 meters, and the surrounding mountains are more than 3,000 meters above sea level. In 2016, it was rated as a national AAAAA tourist attraction by the National Tourism Administration.
-
-*English introduction: machine translation.*
+Bayanbulak Grassland National Nature Reserve (Chinese: 巴音布鲁克; pinyin: Bāyīnbùlǔkè) (from Mongolian "abundant spring") is the second largest grassland in China, located in the Bayanbulak Basin of the Tian Shan mountains in northwest China. The terrain is mostly flat, and encompasses a middle section of the Kaidu River ("Peacock River"). The reserve is 200 km northwest of Korla in Bayingolin Mongol Autonomous Prefecture of Xinjiang Uyghur Autonomous Region. As a high-altitude marshland (at 2,000 - 2,500 meters), the reserve is an important breeding and staging ground for birds and waterfowl, and is the highest-altitude breeding ground for swans in the world. The area has been designated an Important Bird and Biodiversity Area (IBA #CN-114) by Birdlife International. At the center of the reserve is "Swan Lake", a connected series of wetlands, which was designated in 1980 as the "Bayanbulak Swan Nature Reserve" by the Xinjiang government, and upgraded in 1986 to a "National Swan Reserve" by the government of China.
 
 ## 交通 / Transport
 
@@ -46,9 +44,10 @@ Bayin Prefecture and Jing Bayinbuluke Scenic Area consists of three parts: Swan 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/巴音布鲁克草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

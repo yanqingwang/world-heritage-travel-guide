@@ -2,7 +2,7 @@
 id: "cn-1300"
 dataset: "china_5a"
 name_zh: "黔东南州镇远县镇远古城旅游景区"
-name_en: "Tianhougong (zhenyuanxian) Scenic Area"
+name_en: "Zhenyuan railway station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guizhou"
 city_en: "Qiandongnanmiaozudongzu Autonomous Prefecture"
 lat: 27.055783
 lon: 108.42516
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 黔东南州镇远县镇远古城旅游景区 / Tianhougong (zhenyuanxian) Scenic Area
+# 黔东南州镇远县镇远古城旅游景区 / Zhenyuan railway station
 
 > 贵州省 · 黔东南苗族侗族自治州 · 古镇村落
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Zhenyuan Ancient Town is located on the bank of Wuyang River, with the old Fucheng on the north bank and the old Acropolis on the south bank. Both cities were built in the Ming Dynasty, and some of the city walls and gates still exist. There are a lot of ancient buildings, traditional houses, and historical docks inside and outside the city. Zhenyuan has a long history. It has a history of nearly 2,300 years since the county was established in the 30th year of King Zhao of Qin (277 BC). It has been the seat of Taoism and government for more than 700 years in the Yuan and Qing dynasties.
-
-*English introduction: machine translation.*
+Zhenyuan railway station (simplified Chinese: 镇远站; traditional Chinese: 鎮遠站; pinyin: Zhènyuǎn Zhàn) is a railway station located in Zhenyuan County, Guizhou, China, on the Shanghai–Kunming railway line, which are operated by China Railway Chengdu Group.
 
 ## 交通 / Transport
 
@@ -50,10 +48,10 @@ Zhenyuan Ancient Town is located on the bank of Wuyang River, with the old Fuche
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天后宫 (镇远县))
+- [Wikipedia](https://zh.wikipedia.org/wiki/镇远站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

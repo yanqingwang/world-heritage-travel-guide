@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Zhoushan City"
 lat: 30.007976
 lon: 122.397608
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 舟山市普陀山风景区 / Mount Putuo
 
 > 浙江省 · 舟山市 · 海滨度假
-
-## 图片 / Images
-
-![远眺南海观音像.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E8%BF%9C%E7%9C%BA%E5%8D%97%E6%B5%B7%E8%A7%82%E9%9F%B3%E5%83%8F.jpg/1280px-%E8%BF%9C%E7%9C%BA%E5%8D%97%E6%B5%B7%E8%A7%82%E9%9F%B3%E5%83%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*远眺南海观音像.jpg · Shizhao · CC BY-SA 3.0*
-
-![浙江省人民政府公报2019年第3期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第3期.pdf · Zhejiang People's Government · Public domain*
-
-![Putuo Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Putuo_Mountain.jpg/1280px-Putuo_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Putuo Mountain.jpg · xiquinhosilva · CC BY 4.0*
-
-![Putuo Mountain - 55332529567.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Putuo_Mountain_-_55332529567.jpg/1280px-Putuo_Mountain_-_55332529567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Putuo Mountain - 55332529567.jpg · xiquinhosilva · CC BY 4.0*
-
-![Putuo Mountain - 55333612628.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Putuo_Mountain_-_55333612628.jpg/1280px-Putuo_Mountain_-_55333612628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Putuo Mountain - 55333612628.jpg · xiquinhosilva · CC BY 4.0*
 
 ## 简介 / Introduction
 

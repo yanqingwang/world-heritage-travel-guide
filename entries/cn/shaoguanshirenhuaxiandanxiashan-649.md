@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Shaoguan"
 lat: 25.027559
 lon: 113.727658
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 韶关市仁化县丹霞山景区 / Mount Danxia
 
 > 广东省 · 韶关市 · 地质奇观
-
-## 图片 / Images
-
-![锦石岩寺 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E9%94%A6%E7%9F%B3%E5%B2%A9%E5%AF%BA_3.jpg/1280px-%E9%94%A6%E7%9F%B3%E5%B2%A9%E5%AF%BA_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*锦石岩寺 3.jpg · Mx. Granger · CC0*
-
-![全国重点文物保护单位丹霞山摩崖石刻保护规划-第一部分 规划文本.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86_%E8%A7%84%E5%88%92%E6%96%87%E6%9C%AC.pdf/page1-1280px-%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86_%E8%A7%84%E5%88%92%E6%96%87%E6%9C%AC.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*全国重点文物保护单位丹霞山摩崖石刻保护规划-第一部分 规划文本.pdf · 韶关市人民政府 · Public domain*
-
-![全国重点文物保护单位丹霞山摩崖石刻保护规划-第三部分 规划说明.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86_%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.pdf/page1-1280px-%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86_%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*全国重点文物保护单位丹霞山摩崖石刻保护规划-第三部分 规划说明.pdf · 韶关市人民政府 · Public domain*
-
-![全国重点文物保护单位丹霞山摩崖石刻保护规划-第四部分 基础资料汇编.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86_%E5%9F%BA%E7%A1%80%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96.pdf/page1-1280px-%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E6%91%A9%E5%B4%96%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92-%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86_%E5%9F%BA%E7%A1%80%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*全国重点文物保护单位丹霞山摩崖石刻保护规划-第四部分 基础资料汇编.pdf · 韶关市人民政府 · Public domain*
-
-![广东省文物保护单位丹霞山塔墓群保护规划（2022-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E5%A1%94%E5%A2%93%E7%BE%A4%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882022-2035%E5%B9%B4%EF%BC%89.pdf/page1-1280px-%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%B8%B9%E9%9C%9E%E5%B1%B1%E5%A1%94%E5%A2%93%E7%BE%A4%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882022-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*广东省文物保护单位丹霞山塔墓群保护规划（2022-2035年）.pdf · 韶关市人民政府 · Public domain*
 
 ## 简介 / Introduction
 

@@ -2,7 +2,7 @@
 id: "cn-350"
 dataset: "china_5a"
 name_zh: "阿勒泰地区喀纳斯景区"
-name_en: "Kanas Lake"
+name_en: "Aleitaidiqukanasi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 48.513535
 lon: 87.138377
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 阿勒泰地区喀纳斯景区 / Kanas Lake
+# 阿勒泰地区喀纳斯景区 / Aleitaidiqukanasi Scenic Area
 
 > 新疆维吾尔自治区 · 阿勒泰地区 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Kanas Lake (Chinese: 喀纳斯湖; pinyin: Kānàsī Hú, Xiao'erjing: كَانَاسِ خٗ; Mongolian: Ханас нуур; Uyghur: قاناس كۆلى, romanized: Qanas köli, UYY: Ⱪanas köli, USY: Қанас Көли) is a lake in Altay Prefecture, Xinjiang, China. The lake is located in a valley in the Altai Mountains, near the very northern tip of Xinjiang and the autonomous region's borders with Russia, Kazakhstan and Mongolia. The lake was formed around 200,000 years ago during the Quaternary period as a result of glacier movement. The crescent moon shaped lake has an estimated water storage capacity of 53.8 billion cubic meters, coupled with an average depth of around 120 meters. The Kanas River, flowing out of the lake, later merges with the Hemu River to form the Burqin River, which itself discharges into the Irtysh River at Burqin Town, the county seat of Burqin County. There is a large population of ethnic Tuvans and Kazakhs in the Kanas valley. While most of these people have maintained their traditional agricultural and nomadic life styles, many work in the developing tourism industry and have established facilities for orienteering, hiking, rafting, rock climbing, paragliding and camping. The scenic spot is classif
+The Kanas Scenic Area in the Altay region is located in the middle section of the Altai Mountains in Xinjiang, on the border between China, Kazakhstan, Russia, and Mongolia. The main attractions include Kanas Lake, Wolong Bay, Taiga Forest Corridor, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -47,10 +49,9 @@ Kanas Lake (Chinese: 喀纳斯湖; pinyin: Kānàsī Hú, Xiao'erjing: كَان�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/喀纳斯湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

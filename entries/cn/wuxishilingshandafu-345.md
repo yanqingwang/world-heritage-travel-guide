@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.4364
 lon: 120.102894
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 无锡市灵山大佛景区 / Grand Buddha at Ling Shan
 
 > 江苏省 · 无锡市 · 主题乐园
-
-## 图片 / Images
-
-![Grand Buddha at Ling Shan, China.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_Buddha_at_Ling_Shan%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Grand Buddha at Ling Shan, China.jpg · gdczjkk · CC BY 3.0*
-
-![Grand Buddha at Ling Shan(99 Steps).jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Grand_Buddha_at_Ling_Shan%2899_Steps%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Grand Buddha at Ling Shan(99 Steps).jpg · Cabby329 at English Wikipedia · Public domain*
-
-![Grand Buddha at Ling Shan.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/Grand_Buddha_at_Ling_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Grand Buddha at Ling Shan.jpg · 王波波 · CC BY-SA 3.0*
-
-![Grand Buddha at Ling Shan (01).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Grand_Buddha_at_Ling_Shan_%2801%29.jpg/1280px-Grand_Buddha_at_Ling_Shan_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Grand Buddha at Ling Shan (01).jpg · Mike · CC BY-SA 2.0*
-
-![Ling shan Buddha's birth.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Ling_shan_Buddha%27s_birth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Ling shan Buddha's birth.jpg · Synyan · CC BY 3.0*
 
 ## 简介 / Introduction
 

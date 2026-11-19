@@ -10,8 +10,8 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区喀什古城景区",
- "name_en": "Kashizhan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Kashgar railway station",
+ "name_en_source": "wikipedia",
  "slug": "kashidiqukashigucheng-335",
  "lat": 39.483206,
  "lon": 76.001757,
@@ -22,18 +22,9 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "喀什噶尔老城景区，面积4.25平方公里，约有居民12.68万人。老城区街巷纵横交错，布局灵活多变，曲径通幽，民居大多为土木、砖木结构，不少传统民居已有上百年的历史，是以伊斯兰文化为特色的迷宫式城市街区。",
- "intro_en": "Kashgar Old City Scenic Area covers an area of ​​4.25 square kilometers and has approximately 126,800 residents. The streets and alleys in the old city are criss-crossed, with flexible layouts and winding paths. Most of the residences are made of earth, wood, brick and wood structures. Many traditional residences have a history of hundreds of years. It is a labyrinth-like urban block characterized by Islamic culture.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kashgar_Railway_Station.jpg/1280px-Kashgar_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Kashgar Railway Station.jpg",
-   "author": "xue siyang (df45086)",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://www.panoramio.com/photo/103261533",
-   "source": "https://commons.wikimedia.org/wiki/File:Kashgar_Railway_Station.jpg"
-  }
- ],
+ "intro_en": "Kashgar railway station (喀什站) is the main railway station of Kashgar, Xinjiang and the westernmost railway station in China. It is the western terminus for the Southern Xinjiang and Kashgar–Hotan Railways. The station is located northeast of the city of Kashgar and is served by regular passenger trains to Ürümqi via Turpan. A trip on the faster kind (K-series) takes under 22 hours from Kashgar to Turpan or just over 24 hours to Ürümqi.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -164,10 +155,11 @@
  "hotels_nearby_30km": 20,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -186,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -204,9 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z",
- "admission": "free",
- "admission_note_zh": "古城免费开放，部分演艺项目另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

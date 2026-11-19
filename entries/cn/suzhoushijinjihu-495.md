@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.31043
 lon: 120.707796
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 苏州市金鸡湖旅游区 / Jinji Lake
 
 > 江苏省 · 苏州市 · 自然风光
-
-## 图片 / Images
-
-![Suzhou Industrial Park (SIP) - West Bank of Jin Ji Lake.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Suzhou_Industrial_Park_%28SIP%29_-_West_Bank_of_Jin_Ji_Lake.jpg/1280px-Suzhou_Industrial_Park_%28SIP%29_-_West_Bank_of_Jin_Ji_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Suzhou Industrial Park (SIP) - West Bank of Jin Ji Lake.jpg · Donaldytong · CC BY-SA 3.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![Diagram of Jinji Lake Tunnel & Suzhou Rail Transit Line 6.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Diagram_of_Jinji_Lake_Tunnel_%26_Suzhou_Rail_Transit_Line_6.svg/1280px-Diagram_of_Jinji_Lake_Tunnel_%26_Suzhou_Rail_Transit_Line_6.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Diagram of Jinji Lake Tunnel & Suzhou Rail Transit Line 6.svg · Nanhuajiaren · CC BY-SA 4.0*
-
-![Jinji Lake Bridge, Gate to the East, and Suzhou Center.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Jinji_Lake_Bridge%2C_Gate_to_the_East%2C_and_Suzhou_Center.jpg/1280px-Jinji_Lake_Bridge%2C_Gate_to_the_East%2C_and_Suzhou_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinji Lake Bridge, Gate to the East, and Suzhou Center.jpg · E8xE8 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)(vi)"
 lat: 45.108889
 lon: -64.309167
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 格朗普雷 / Landscape of Grand Pré

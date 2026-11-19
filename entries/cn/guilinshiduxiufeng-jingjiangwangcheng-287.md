@@ -13,18 +13,12 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.287727
 lon: 110.305667
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 桂林市独秀峰•靖江王城景区 / Duxiufeng Scenic Area
 
 > 广西壮族自治区 · 桂林市 · 山地风光
-
-## 图片 / Images
-
-![Guilin Duxiu Feng 2012.09.28 13-57-40.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Guilin_Duxiu_Feng_2012.09.28_13-57-40.jpg/1280px-Guilin_Duxiu_Feng_2012.09.28_13-57-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Guilin Duxiu Feng 2012.09.28 13-57-40.jpg · Zhangzhugang · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Nanjing"
 lat: 32.061544
 lon: 118.860636
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 南京市钟山风景名胜区-中山陵园风景区 / Sun Yat-sen Mausoleum
 
 > 江苏省 · 南京市 · 红色旅游
-
-## 图片 / Images
-
-![Hall of Sun Yat-sen Mausoleum.jpg](https://upload.wikimedia.org/wikipedia/commons/a/aa/Hall_of_Sun_Yat-sen_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Hall of Sun Yat-sen Mausoleum.jpg · Jiong Sheng from London, United Kingdom · CC BY-SA 2.0*
-
-![China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_01.jpg/1280px-China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 01.jpg · Chainwit. · CC BY 4.0*
-
-![China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 08.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg/1280px-China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 08.jpg · Chainwit. · CC BY 4.0*
-
-![Sun Yat-sen Mausoleum (中山陵）.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Sun_Yat-sen_Mausoleum_%28%E4%B8%AD%E5%B1%B1%E9%99%B5%EF%BC%89.jpg/1280px-Sun_Yat-sen_Mausoleum_%28%E4%B8%AD%E5%B1%B1%E9%99%B5%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sun Yat-sen Mausoleum (中山陵）.jpg · Lauren yeechau · CC BY-SA 4.0*
-
-![Sun Yat-sen Mausoleum - 54400562340.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sun_Yat-sen_Mausoleum_-_54400562340.jpg/1280px-Sun_Yat-sen_Mausoleum_-_54400562340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sun Yat-sen Mausoleum - 54400562340.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 

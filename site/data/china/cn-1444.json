@@ -108,47 +108,47 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "牯岭大酒店",
-   "name_en": "Gu Ling Hotel",
+   "name": "格林豪泰酒店",
+   "name_en": null,
    "stars": null,
    "brand": null,
-   "lat": 29.5700478,
-   "lon": 115.9807009,
-   "distance_km": 2.2,
-   "kind": "hotel",
+   "lat": 29.7028459,
+   "lon": 115.9930529,
+   "distance_km": 15.7,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "Yunke Hotel",
-   "name_en": "Yunke Hotel",
+   "name": "锦江之星庐山南路店",
+   "name_en": null,
    "stars": null,
    "brand": null,
-   "lat": 29.5708682,
-   "lon": 115.9794013,
-   "distance_km": 2.3,
-   "kind": "hotel",
+   "lat": 29.7111145,
+   "lon": 115.9942324,
+   "distance_km": 16.6,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "Lushan Tianjie Hotel",
-   "name_en": "Lushan Tianjie Hotel",
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
    "stars": null,
-   "brand": null,
-   "lat": 29.5705134,
-   "lon": 115.9795568,
-   "distance_km": 2.3,
-   "kind": "hotel",
+   "brand": "全季酒店",
+   "lat": 29.7168687,
+   "lon": 116.0091386,
+   "distance_km": 17.3,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "庐山和园别墅",
-   "name_en": "Heyuan Villa",
+   "name": "汉庭快捷酒店",
+   "name_en": "Hanting Hotel",
    "stars": null,
-   "brand": null,
-   "lat": 29.5639171,
-   "lon": 115.9774646,
-   "distance_km": 2.3,
-   "kind": "hotel",
+   "brand": "汉庭酒店",
+   "lat": 29.7263912,
+   "lon": 115.9828045,
+   "distance_km": 18.4,
+   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -196,9 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

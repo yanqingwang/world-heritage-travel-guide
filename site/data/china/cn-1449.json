@@ -24,48 +24,7 @@
  "intro_zh": "庐山西海风景名胜区位于江西省北部、九江市西南部，地跨武宁、永修两县，是一处集亚洲最大土坝水库、国家水利风景区、国家森林公园为一体的山岳湖泊型特大景区，由庐山西海湖区和云居山两大板块组成。",
  "intro_en": "Mount Lu or Lushan (simplified Chinese: 庐山; traditional Chinese: 廬山; pinyin: Lúshān, Gan: Lu-san) is a mountain situated in Jiujiang, Jiangxi, China. It was also known as Kuanglu (匡廬) in ancient times. The mountain and its immediate area are officially designated as the Lushan National Park, and it is one of the most renowned mountains in the country. Mount Lu is located primarily in Lushan City within Jiujiang, although its northern portions are found in Jiujiang's Lianxi District. The oval-shaped mountains are about 25 kilometers (16 mi) long and 10 kilometers (6.2 mi) wide, and neighbors Jiujiang and the Yangtze River to the north, Nanchang to the south, and Poyang Lake to the east. Its highest point is Dahanyang Peak (大汉阳峰), reaching 1,474 meters (4,836 ft) above sea level. Dahayang Peak is also one of the hundreds of steep peaks that tower above the so-called sea of clouds that can encompass the mountain for almost 200 days each year. Mount Lu is known for its grandeur, steepness, and beauty and is a prominent tourist attraction, especially during the summer months when the weather is cooler in the mountains than elsewhere. The mountain and the surrounding region is also one o",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG/1280px-%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "庐山日出.JPG",
-   "author": "No machine-readable author provided. Chenyun~commonswiki assumed (based on copyright claims).",
-   "license": "CC BY-SA 2.5",
-   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
-   "source": "https://commons.wikimedia.org/wiki/File:庐山日出.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount Lu.jpg",
-   "author": "Pauloleong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mount_Lu_16147-Lushan_%2849052568127%29.jpg/1280px-Mount_Lu_16147-Lushan_%2849052568127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount Lu 16147-Lushan (49052568127).jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "16147-Lushan",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16147-Lushan_(49052568127).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mount_Lu_16158-Lushan_%2849052568687%29.jpg/1280px-Mount_Lu_16158-Lushan_%2849052568687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount Lu 16158-Lushan (49052568687).jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "16158-Lushan",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16158-Lushan_(49052568687).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Mount_Lu_16179-Lushan_%2849051844048%29.jpg/1280px-Mount_Lu_16179-Lushan_%2849051844048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount Lu 16179-Lushan (49051844048).jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "16179-Lushan",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16179-Lushan_(49051844048).jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -138,17 +97,6 @@
  },
  "hotels": [
   {
-   "name": "九江柘林湖宾馆",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.1960078,
-   "lon": 115.467718,
-   "distance_km": 1.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "庐山西海温泉假日酒店",
    "name_en": null,
    "stars": null,
@@ -157,6 +105,17 @@
    "lon": 115.5134463,
    "distance_km": 3.6,
    "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "九江柘林湖宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1960078,
+   "lon": 115.467718,
+   "distance_km": 1.3,
+   "kind": "hotel",
    "source": "OpenStreetMap"
   },
   {
@@ -226,9 +185,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

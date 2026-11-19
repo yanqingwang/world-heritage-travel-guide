@@ -10,8 +10,8 @@
  "city_zh": "阿勒泰地区",
  "city_en": "Altay Prefecture",
  "name_zh": "阿勒泰地区喀纳斯景区",
- "name_en": "Kanas Lake",
- "name_en_source": "wikipedia",
+ "name_en": "Aleitaidiqukanasi Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "aleitaidiqukanasi-350",
  "lat": 48.513535,
  "lon": 87.138377,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "阿勒泰地区喀纳斯景区位于新疆阿尔泰山中段，地处中国与哈萨克斯坦、俄罗斯、蒙古国接壤地带。主要景点有喀纳斯湖、卧龙湾、泰加林廊道等。",
- "intro_en": "Kanas Lake (Chinese: 喀纳斯湖; pinyin: Kānàsī Hú, Xiao'erjing: كَانَاسِ خٗ; Mongolian: Ханас нуур; Uyghur: قاناس كۆلى, romanized: Qanas köli, UYY: Ⱪanas köli, USY: Қанас Көли) is a lake in Altay Prefecture, Xinjiang, China. The lake is located in a valley in the Altai Mountains, near the very northern tip of Xinjiang and the autonomous region's borders with Russia, Kazakhstan and Mongolia. The lake was formed around 200,000 years ago during the Quaternary period as a result of glacier movement. The crescent moon shaped lake has an estimated water storage capacity of 53.8 billion cubic meters, coupled with an average depth of around 120 meters. The Kanas River, flowing out of the lake, later merges with the Hemu River to form the Burqin River, which itself discharges into the Irtysh River at Burqin Town, the county seat of Burqin County. There is a large population of ethnic Tuvans and Kazakhs in the Kanas valley. While most of these people have maintained their traditional agricultural and nomadic life styles, many work in the developing tourism industry and have established facilities for orienteering, hiking, rafting, rock climbing, paragliding and camping. The scenic spot is classif",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Kanas Scenic Area in the Altay region is located in the middle section of the Altai Mountains in Xinjiang, on the border between China, Kazakhstan, Russia, and Mongolia. The main attractions include Kanas Lake, Wolong Bay, Taiga Forest Corridor, etc.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -115,11 +115,10 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -138,7 +137,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -148,17 +147,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/喀纳斯湖"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

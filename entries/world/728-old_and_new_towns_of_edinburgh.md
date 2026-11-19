@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)"
 lat: 55.95
 lon: -3.216666667
-updated_at: "2026-11-12T14:36:25Z"
+updated_at: "2026-11-16T11:41:07Z"
 ---
 
 # 爱丁堡的新镇、老镇 / Old and New Towns of Edinburgh

@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)(iv)"
 lat: 34.021111111
 lon: -6.841388888
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 拉巴特 / Rabat, Modern Capital and Historic City: a Shared Heritage

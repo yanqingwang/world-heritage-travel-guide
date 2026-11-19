@@ -13,34 +13,12 @@ province_en: "Hunan"
 city_en: "Shaoyang City"
 lat: 26.359977
 lon: 110.802193
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 邵阳市崀山景区 / Mount Langshan
 
 > 湖南省 · 邵阳市 · 地质奇观
-
-## 图片 / Images
-
-![Mount Langshan in Hunan, Picture1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mount_Langshan_in_Hunan%2C_Picture1.jpg/1280px-Mount_Langshan_in_Hunan%2C_Picture1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Langshan in Hunan, Picture1.jpg · Huangdan2060 · CC0*
-
-![Mount Langshan in Hunan, Picture10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mount_Langshan_in_Hunan%2C_Picture10.jpg/1280px-Mount_Langshan_in_Hunan%2C_Picture10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Langshan in Hunan, Picture10.jpg · Huangdan2060 · CC0*
-
-![Mount Langshan in Hunan, Picture23.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mount_Langshan_in_Hunan%2C_Picture23.jpg/1280px-Mount_Langshan_in_Hunan%2C_Picture23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Langshan in Hunan, Picture23.jpg · Huangdan2060 · CC0*
-
-![Mount Langshan in Hunan, Picture30.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mount_Langshan_in_Hunan%2C_Picture30.jpg/1280px-Mount_Langshan_in_Hunan%2C_Picture30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Langshan in Hunan, Picture30.jpg · Huangdan2060 · CC0*
-
-![Mount Langshan in Hunan, Picture65.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Mount_Langshan_in_Hunan%2C_Picture65.jpg/1280px-Mount_Langshan_in_Hunan%2C_Picture65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Langshan in Hunan, Picture65.jpg · Huangdan2060 · CC BY 3.0*
 
 ## 简介 / Introduction
 

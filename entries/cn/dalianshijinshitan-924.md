@@ -13,18 +13,12 @@ province_en: "Liaoning"
 city_en: "Dalian"
 lat: 39.103535
 lon: 122.000404
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 大连市金石滩景区 / Jinshitan Scenic Area
 
 > 辽宁省 · 大连市 · 度假休闲
-
-## 图片 / Images
-
-![金石滩2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%E9%87%91%E7%9F%B3%E6%BB%A92.jpg/1280px-%E9%87%91%E7%9F%B3%E6%BB%A92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*金石滩2.jpg · 红烧腰果 · CC BY 4.0*
 
 ## 简介 / Introduction
 

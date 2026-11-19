@@ -2,7 +2,7 @@
 id: "cn-26556"
 dataset: "china_5a"
 name_zh: "河源市万绿湖风景区"
-name_en: "Xinfengjiang Reservoir"
+name_en: "Wanlvhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Heyuan City"
 lat: 23.823781
 lon: 114.531722
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 河源市万绿湖风景区 / Xinfengjiang Reservoir
+# 河源市万绿湖风景区 / Wanlvhu Scenic Area
 
 > 广东省 · 河源市 · 自然风光
-
-## 图片 / Images
-
-![The Wanlv Lake at noon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Wanlv_Lake_at_noon.jpg/1280px-The_Wanlv_Lake_at_noon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The Wanlv Lake at noon.jpg · Boris1601050607 · CC BY-SA 3.0*
-
-![河源市国土空间总体规划（2021-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%E6%B2%B3%E6%BA%90%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B2%B3%E6%BA%90%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河源市国土空间总体规划（2021-2035年）.pdf · 河源市人民政府 · Public domain*
-
-![河源市国民经济和社会发展第十四个五年规划和2035年远景目标纲要.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%E6%B2%B3%E6%BA%90%E5%B8%82%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C2035%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E6%B2%B3%E6%BA%90%E5%B8%82%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C2035%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河源市国民经济和社会发展第十四个五年规划和2035年远景目标纲要.pdf · 河源市人民政府 · Public domain*
-
-![深圳市国土空间总体规划（2021－2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%EF%BC%8D2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%EF%BC%8D2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*深圳市国土空间总体规划（2021－2035年）.pdf · 深圳市人民政府 · Public domain*
-
-![郊区国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%E9%83%8A%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C%E4%BA%8C%E3%80%87%E4%B8%89%E4%BA%94%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E9%83%8A%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%92%8C%E4%BA%8C%E3%80%87%E4%B8%89%E4%BA%94%E5%B9%B4%E8%BF%9C%E6%99%AF%E7%9B%AE%E6%A0%87%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*郊区国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要.pdf · 铜陵市郊区人民政府 · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:45Z"
 
 ### English
 
-Xinfengjiang Reservoir (simplified Chinese: 新丰江水库; traditional Chinese: 新豐江水庫; Jyutping: san1 fung1 gong1 seoi2 fu3) or Wanlü Lake (万绿湖; 萬綠湖; maan6 luk6 wu4) is a man-made lake located in Heyuan, Guangdong, China, formed since the damming of the Xinfeng River (a tributary of Dong River) by the Xinfengjiang Dam. The dam is about 6 km away from the downtown of Heyuan and 170 km away from Guangzhou. It is the largest lake in Guangdong covering an area of 370 km2 and it has a storage capacity of 13.98 km3. Xinfengjiang Reservoir is known for its clear and almost drinkable water, such as that used to produce the renowned Nongfu Spring brand of mineral water (Generally, it is provided South China). Otherwise, the lake, which is famous for the name of "Wanlü Lake" (evergreen in Chinese), is an important tourist attraction of Guangdong.
+Wanlv Lake Scenic Area is located in Dongyuan County, Heyuan City, Guangdong Province, 200 kilometers away from Guangzhou and 180 kilometers away from Shenzhen. It is the back garden of the Guangdong-Hong Kong-Macao Greater Bay Area. It is named because it is green everywhere and is green all year round. The water quality of Wanlu Lake maintains the national first-class surface water standard all year round. It has a water area of ​​370 square kilometers, a water storage capacity of approximately 13.9 billion cubic meters, and more than 360 green islands. Wanlv Lake has been developing tourism since 1995. The currently developed attractions include Wanlv Lake, Shuiyue Bay, Longfeng Island, Jinghuayuan, Hakka Customs Museum and Wanlu Valley, covering a total area of ​​11.5 square kilometers.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,7 +53,7 @@ Xinfengjiang Reservoir (simplified Chinese: 新丰江水库; traditional Chinese
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Pingdingshan City"
 lat: 33.757305
 lon: 112.491772
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 平顶山市尧山-中原大佛景区 / Spring Temple Buddha
 
 > 河南省 · 平顶山市 · 宗教文化
-
-## 图片 / Images
-
-![Spring Temple Buddha 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Spring_Temple_Buddha_1.jpg/1280px-Spring_Temple_Buddha_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Spring Temple Buddha 1.jpg · Nyx Ning · CC BY-SA 3.0*
-
-![Spring Temple Buddha 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Spring_Temple_Buddha_01.jpg/1280px-Spring_Temple_Buddha_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Spring Temple Buddha 01.jpg · Gary Todd · CC0*
-
-![Spring Temple Buddha 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Spring_Temple_Buddha_02.jpg/1280px-Spring_Temple_Buddha_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Spring Temple Buddha 02.jpg · Gary Todd · CC0*
-
-![Spring Temple Buddha 07.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Spring_Temple_Buddha_07.jpg/1280px-Spring_Temple_Buddha_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Spring Temple Buddha 07.jpg · Gary Todd · CC0*
-
-![Spring Temple Buddha 08.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Spring_Temple_Buddha_08.jpg/1280px-Spring_Temple_Buddha_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Spring Temple Buddha 08.jpg · Gary Todd · CC0*
 
 ## 简介 / Introduction
 

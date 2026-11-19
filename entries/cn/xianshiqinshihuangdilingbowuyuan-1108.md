@@ -2,7 +2,7 @@
 id: "cn-1108"
 dataset: "china_5a"
 name_zh: "西安市秦始皇帝陵博物院景区"
-name_en: "Qinshihuangling Scenic Area"
+name_en: "Mausoleum of Qin Shi Huang"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.394463
 lon: 109.29079
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 西安市秦始皇帝陵博物院景区 / Qinshihuangling Scenic Area
+# 西安市秦始皇帝陵博物院景区 / Mausoleum of Qin Shi Huang
 
 > 陕西省 · 西安市 · 历史遗址
-
-## 图片 / Images
-
-![秦始皇帝陵·秦始皇陵·西安臨潼·（封土正北側）.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%C2%B7%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%C2%B7%E8%A5%BF%E5%AE%89%E8%87%A8%E6%BD%BC%C2%B7%EF%BC%88%E5%B0%81%E5%9C%9F%E6%AD%A3%E5%8C%97%E5%81%B4%EF%BC%89.jpg/1280px-%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%C2%B7%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%C2%B7%E8%A5%BF%E5%AE%89%E8%87%A8%E6%BD%BC%C2%B7%EF%BC%88%E5%B0%81%E5%9C%9F%E6%AD%A3%E5%8C%97%E5%81%B4%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*秦始皇帝陵·秦始皇陵·西安臨潼·（封土正北側）.jpg · Legolas1024 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-The museum is a heritage museum based on the Terracotta Warriors and Horses of Qin Shihuang and was established on the original site of the Terracotta Warriors and Horses Pit. It is also the largest ancient military museum in China. The Qin Terracotta Warriors and Horses pit was discovered between 1974 and 1976, and the Terracotta Warriors and Horses Museum of Qin Shihuang was opened to domestic and foreign visitors in 1979. The discovery of the Terracotta Warriors and Horses is hailed as the eighth wonder of the world and a great discovery in the archaeological history of the 20th century.
-
-*English introduction: machine translation.*
+The Mausoleum of Qin Shi Huang (Chinese: 秦始皇陵; pinyin: Qínshǐhuáng Líng) is a tomb complex constructed for Qin Shi Huang, the first emperor of the Chinese Qin dynasty. It is located in modern-day Lintong District in Xi'an, Shaanxi. It was constructed over 38 years from 246 to 208 BC, and is situated underneath a 76-metre-tall (249 ft) tomb mound shaped like a truncated pyramid. The layout of the mausoleum is modeled on the layout of Xianyang, the capital of the Qin dynasty, which was divided into inner and outer cities. The circumference of the inner city is 2.5 km (1.6 mi) and the outer is 6.3 km (3.9 mi). The tomb is located in the southwest of the inner city and faces east. The main tomb chamber housing the coffin and burial artifacts is the core of the architectural complex of the mausoleum. The tomb itself has not yet been excavated. Archaeological explorations currently concentrate on various sites of the extensive necropolis surrounding the tomb, including the Terracotta Army to the east of the tomb mound. The Terracotta Army served as a garrison to the mausoleum and has yet to be completely excavated.
 
 ## 交通 / Transport
 
@@ -59,7 +51,7 @@ The museum is a heritage museum based on the Terracotta Warriors and Horses of Q
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

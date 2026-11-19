@@ -13,18 +13,12 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.691304
 lon: 109.349044
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 三亚市南山大小洞天旅游区 / Daxiaodongtian Tourist Area
 
 > 海南省 · 三亚市 · 石窟艺术
-
-## 图片 / Images
-
-![Sanya Nanshan Dongtian Park.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Sanya_Nanshan_Dongtian_Park.jpg/1280px-Sanya_Nanshan_Dongtian_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sanya Nanshan Dongtian Park.jpg · Mkckim · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

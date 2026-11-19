@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jingdezhen"
 lat: 29.289262
 lon: 117.191564
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 景德镇市昌江区古窑民俗博览区 / Jingdezhenguyaominsubolanqu
@@ -43,11 +43,11 @@ Jingdezhen Ancient Kiln Folklore Expo Area covers an area of ​​83 hectares. 
 
 ## 附近酒店 / Nearby hotels
 
-- **半岛国际酒店** — 2.3 km — hotel
-- **景德镇陶溪川凯悦酒店** — 4.2 km — chain — Hyatt Place Jingdezhen Taoxichuan · Hyatt
-- **西西里民宿** — 1.0 km — hotel
-- **Jinghan** — 1.8 km — hotel
-- **文苑商务大酒店** — 2.4 km — hotel
+- **景瀚大酒店** — 1.8 km — star — 5★
+- **紫晶宾馆** — 2.2 km — star — 5★
+- **景德镇大酒店** — 0.9 km — star — 4★
+- **陶邑松园酒店(景德镇北站店)** — 7.9 km — star — 4★
+- **汉庭酒店** — 1.8 km — star — Hanting Hotel · 3★ · 汉庭酒店
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

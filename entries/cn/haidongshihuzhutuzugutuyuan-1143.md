@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Haidong Prefecture"
 lat: 36.83836
 lon: 101.953566
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 海东市互助土族故土园旅游区 / Haidongshihuzhutuzugutuyuan Tourist Area

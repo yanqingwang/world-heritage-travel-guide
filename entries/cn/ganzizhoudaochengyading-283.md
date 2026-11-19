@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Ganzi Tibetan Autonomous Prefecture"
 lat: 28.464938
 lon: 100.293273
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 甘孜州稻城亚丁旅游景区 / Yading
 
 > 四川省 · 甘孜藏族自治州 · 山地风光
-
-## 图片 / Images
-
-![Yading Jampelyang-Yangmaiyong.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Yading_Jampelyang-Yangmaiyong.jpg/1280px-Yading_Jampelyang-Yangmaiyong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yading Jampelyang-Yangmaiyong.jpg · Dcpeets · CC BY-SA 4.0*
-
-![Valley near sacred mountain Xiannairi Yading Biosphere Reserve.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Valley_near_sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg/1280px-Valley_near_sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Valley near sacred mountain Xiannairi Yading Biosphere Reserve.jpg · Toni Wöhrl · CC BY-SA 4.0*
-
-![Yading Sacred Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Yading_Sacred_Mountain.jpg/1280px-Yading_Sacred_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yading Sacred Mountain.jpg · Toni Wöhrl · CC BY-SA 4.0*
-
-![Sacred mountain Xiannairi Yading Biosphere Reserve.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg/1280px-Sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sacred mountain Xiannairi Yading Biosphere Reserve.jpg · Toni Wöhrl and Sang Cai · CC BY-SA 4.0*
-
-![Yading - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Yading_-_panoramio_%281%29.jpg/1280px-Yading_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yading - panoramio (1).jpg · Anders Johnson · CC BY 3.0*
 
 ## 简介 / Introduction
 

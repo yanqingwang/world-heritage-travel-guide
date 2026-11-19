@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Ili Kazakh Autonomous Prefecture"
 lat: 43.104481
 lon: 82.044236
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 伊犁哈萨克自治州喀拉峻景区 / Yilihasakezizhizhoukalajun Scenic Area

@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(v)"
 lat: 5.25
 lon: 37.48306
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 孔索文化景观 / Konso Cultural Landscape

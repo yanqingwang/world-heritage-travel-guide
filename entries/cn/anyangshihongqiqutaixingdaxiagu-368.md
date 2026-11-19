@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Anyang"
 lat: 36.152012
 lon: 113.826832
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 安阳市红旗渠-太行大峡谷旅游景区 / Red Flag Canal
 
 > 河南省 · 安阳市 · 历史遗址
-
-## 图片 / Images
-
-![RedFlagCanal TigersMouthCliff.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/RedFlagCanal_TigersMouthCliff.jpg/1280px-RedFlagCanal_TigersMouthCliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*RedFlagCanal TigersMouthCliff.jpg · eregli bob · CC BY-SA 3.0*
-
-![Red Flag Canal (10196876324).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Red_Flag_Canal_%2810196876324%29.jpg/1280px-Red_Flag_Canal_%2810196876324%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Red Flag Canal (10196876324).jpg · Gary Todd from Xinzheng, China · CC0*
-
-![Red Flag Canal (10196905784).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Red_Flag_Canal_%2810196905784%29.jpg/1280px-Red_Flag_Canal_%2810196905784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Red Flag Canal (10196905784).jpg · Gary Todd from Xinzheng, China · CC0*
-
-![Red Flag Canal (10196973615).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Flag_Canal_%2810196973615%29.jpg/1280px-Red_Flag_Canal_%2810196973615%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Red Flag Canal (10196973615).jpg · Gary Todd from Xinzheng, China · CC0*
-
-![Red Flag Canal (10197167543).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Red_Flag_Canal_%2810197167543%29.jpg/1280px-Red_Flag_Canal_%2810197167543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Red Flag Canal (10197167543).jpg · Gary Todd from Xinzheng, China · CC0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ix)(x)"
 lat: 44.025833333
 lon: 79.034166666
-updated_at: "2026-11-12T14:36:33Z"
+updated_at: "2026-11-16T11:41:12Z"
 ---
 
 # 图兰的冷冬沙漠 / Cold Winter Deserts of Turan

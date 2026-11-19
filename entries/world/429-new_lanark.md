@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: 55.663611111
 lon: -3.781388888
-updated_at: "2026-11-12T14:36:23Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 新拉纳克 / New Lanark

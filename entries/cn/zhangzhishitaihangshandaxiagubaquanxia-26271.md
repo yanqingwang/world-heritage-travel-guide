@@ -2,7 +2,7 @@
 id: "cn-26271"
 dataset: "china_5a"
 name_zh: "长治市太行山大峡谷八泉峡景区"
-name_en: "Tianshan Grand Canyon"
+name_en: "Longtan Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 长治市太行山大峡谷八泉峡景区 / Tianshan Grand Canyon
+# 长治市太行山大峡谷八泉峡景区 / Longtan Grand Canyon
 
 > 山西省 · 长治市 · 度假休闲
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-10T23:01:45Z"
 
 ### English
 
-Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.
+Longtan Grand Canyon is a AAAAA class tourist attraction in Luoyang, Henan, China. It is located in Xin'an County which is 70 km away from Luoyang city. The U-shaped valley with a total length of 12 kilometers, covering an area of 20 square kilometers, is famous for its high mountains, quiet valleys, waterfalls, and special purplish-red quartz sandstone formed years corrosion of flowing water. It is also the core scenic spot of Wangwushan-Daimeishan UNESCO Global Geopark. Longtan Grand Canyon has many good reputations including "First Gorge of Chinese Valleys" since its development in 2005. It is also the only spot selected in Henan Province in the "40 beautiful places to visit in China" by CNN. The peak season is from March to October.
 
 ## 交通 / Transport
 
@@ -55,5 +55,5 @@ Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天山大峡谷)
+- [Wikipedia](https://zh.wikipedia.org/wiki/洛阳龙潭大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

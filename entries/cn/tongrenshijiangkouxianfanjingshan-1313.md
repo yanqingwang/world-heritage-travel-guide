@@ -13,34 +13,12 @@ province_en: "Guizhou"
 city_en: "Tongren Prefecture"
 lat: 27.846663
 lon: 108.780961
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 铜仁市江口县梵净山旅游区 / Fanjingshan
 
 > 贵州省 · 铜仁地区 · 历史遗址
-
-## 图片 / Images
-
-![梵淨山紅雲金頂（新金頂）.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a5/%E6%A2%B5%E6%B7%A8%E5%B1%B1%E7%B4%85%E9%9B%B2%E9%87%91%E9%A0%82%EF%BC%88%E6%96%B0%E9%87%91%E9%A0%82%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*梵淨山紅雲金頂（新金頂）.jpg · Mande5255881 · CC BY-SA 3.0*
-
-![Fanjingshan-new.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fanjingshan-new.jpg/1280px-Fanjingshan-new.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fanjingshan-new.jpg · sizzhot0 · CC0*
-
-![Mount Fanjing, 31 March 2020c.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mount_Fanjing%2C_31_March_2020c.jpg/1280px-Mount_Fanjing%2C_31_March_2020c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Fanjing, 31 March 2020c.jpg · Huangdan2060 · CC BY 3.0*
-
-![Mount Fanjing, 31 March 2020p.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mount_Fanjing%2C_31_March_2020p.jpg/1280px-Mount_Fanjing%2C_31_March_2020p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Fanjing, 31 March 2020p.jpg · Huangdan2060 · CC BY 3.0*
-
-![Pool, Mount Fanjing, 31 March 2020B.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pool%2C_Mount_Fanjing%2C_31_March_2020B.jpg/1280px-Pool%2C_Mount_Fanjing%2C_31_March_2020B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pool, Mount Fanjing, 31 March 2020B.jpg · Huangdan2060 · CC BY 3.0*
 
 ## 简介 / Introduction
 

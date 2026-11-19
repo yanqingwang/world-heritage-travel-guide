@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.614936
 lon: 109.484034
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 延安市延安革命纪念地景区 / Yan'an Revolutionary Memorial Hall
 
 > 陕西省 · 延安市 · 红色旅游
-
-## 图片 / Images
-
-![延安革命紀念館 (8661439689).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%B4%80%E5%BF%B5%E9%A4%A8_%288661439689%29.jpg/1280px-%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%B4%80%E5%BF%B5%E9%A4%A8_%288661439689%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*延安革命紀念館 (8661439689).jpg · momo from Hong Kong · CC BY 2.0*
-
-![CADAL11103392 北方快覽.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/CADAL11103392_%E5%8C%97%E6%96%B9%E5%BF%AB%E8%A6%BD.djvu/page1-1280px-CADAL11103392_%E5%8C%97%E6%96%B9%E5%BF%AB%E8%A6%BD.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL11103392 北方快覽.djvu · 北平民社 · Public domain*
-
-![2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_01.jpg/1280px-2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 01.jpg · 源義信 · CC BY 4.0*
-
-![2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_02.jpg/1280px-2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 02.jpg · 源義信 · CC BY 4.0*
-
-![2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_03.jpg/1280px-2023-10-09_%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E7%BA%AA%E5%BF%B5%E9%A6%86_Yan%27an_Revolutionary_Memorial_Hall_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2023-10-09 延安革命纪念馆 Yan'an Revolutionary Memorial Hall 03.jpg · 源義信 · CC BY 4.0*
 
 ## 简介 / Introduction
 

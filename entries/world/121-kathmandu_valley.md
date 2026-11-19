@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)(iv)(vi)"
 lat: 27.703944444
 lon: 85.308583333
-updated_at: "2026-11-12T14:36:20Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 加德满都谷地 / Kathmandu Valley

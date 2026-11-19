@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Anqing"
 lat: 30.727278
 lon: 116.466126
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 安庆市天柱山风景区 / Mount Tianzhu
 
 > 安徽省 · 安庆市 · 山地风光
-
-## 图片 / Images
-
-![Tianzhu Peak (20170116142019).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tianzhu_Peak_%2820170116142019%29.jpg/1280px-Tianzhu_Peak_%2820170116142019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianzhu Peak (20170116142019).jpg · N509FZ · CC BY-SA 4.0*
-
-![General Fortress in Tianzhu Mountain (20170116150627).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/General_Fortress_in_Tianzhu_Mountain_%2820170116150627%29.jpg/1280px-General_Fortress_in_Tianzhu_Mountain_%2820170116150627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*General Fortress in Tianzhu Mountain (20170116150627).jpg · N509FZ · CC BY-SA 4.0*
-
-![General Fortress in Tianzhu Mountain (20170116150759).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/General_Fortress_in_Tianzhu_Mountain_%2820170116150759%29.jpg/1280px-General_Fortress_in_Tianzhu_Mountain_%2820170116150759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*General Fortress in Tianzhu Mountain (20170116150759).jpg · N509FZ · CC BY-SA 4.0*
-
-![Hundred-step ladder in Tianzhu Mountain (20170116150202).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hundred-step_ladder_in_Tianzhu_Mountain_%2820170116150202%29.jpg/1280px-Hundred-step_ladder_in_Tianzhu_Mountain_%2820170116150202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hundred-step ladder in Tianzhu Mountain (20170116150202).jpg · N509FZ · CC BY-SA 4.0*
-
-![Steep descent in Tianzhu Mountain (20170116145746).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Steep_descent_in_Tianzhu_Mountain_%2820170116145746%29.jpg/1280px-Steep_descent_in_Tianzhu_Mountain_%2820170116145746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Steep descent in Tianzhu Mountain (20170116145746).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

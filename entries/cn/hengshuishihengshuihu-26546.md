@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Hengshui City"
 lat: 37.610179
 lon: 115.618063
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 衡水市衡水湖旅游景区 / Hengshuihu Scenic Area
 
 > 河北省 · 衡水市 · 主题乐园
-
-## 图片 / Images
-
-![Hengshui Lake, Hebei, China3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hengshui_Lake%2C_Hebei%2C_China3.jpg/1280px-Hengshui_Lake%2C_Hebei%2C_China3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hengshui Lake, Hebei, China3.jpg · 王计 · CC BY 2.5*
-
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf/page1-500px-2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf · 全国人民代表大会常务委员会法制工作委员会 · Public domain*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
 
 ## 简介 / Introduction
 

@@ -2,7 +2,7 @@
 id: "cn-474"
 dataset: "china_5a"
 name_zh: "无锡市鼋头渚旅游风景区"
-name_en: "Yuantouzhu Scenic Area"
+name_en: "Yuantouzhu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.479468
 lon: 120.280659
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 无锡市鼋头渚旅游风景区 / Yuantouzhu Scenic Area
+# 无锡市鼋头渚旅游风景区 / Yuantouzhu
 
 > 江苏省 · 无锡市 · 皇家园林
-
-## 图片 / Images
-
-![Wuxi Taihu lake Changchun bridge.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ac/Wuxi_Taihu_lake_Changchun_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wuxi Taihu lake Changchun bridge.jpg · 2009/ Synyan ；2014/ 藍風攝影 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful mountains and clear waters and natural scenery. Yuantouzhu Scenic Area currently has more than 10 scenic spots, including Chongshan Yinxiu, Luding Yinghui, Yuanzhu Chuntao, and Hengyun Villa. Among them are natural landscape paintings with long mountains and wide rivers and dotted sail shadows; rural pastoral scenery with small bridges and flowing water, green trees and people; and elegant, delicate, simple and pure Jiangnan garden scenery.
-
-*English introduction: machine translation.*
+Yuantouzhu (Chinese: 鼋头渚; pinyin: Yuán tóu zhǔ) is a peninsula which lies on the northwestern shore of Lake Tai, near Wuxi in China's Jiangsu province. It was established as a park in 1916 and celebrated its centennial in 2016. Yuantouzhu, or "Turtle Head Isle" in English (so called because its shape resembles a turtle's head), is a popular scenic tourist region. Tourist ferries leave from Yuantouzhu to the Sanshan Islands (三山岛), which were opened to tourists in the mid-1980s. Seagulls follow the boat and like to be fed by tourists on the boat. The Yuantouzhu park is famous for its tourism, especially during the spring season from March to April, when hundreds of cherry blossom trees start to bloom. Two gates are open for tourists which are Chongshan gate and Dushan main gate. During the season, there are also at least eight ancient fishing sailboats on the lake.
 
 ## 交通 / Transport
 
@@ -61,7 +53,7 @@ Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful moun
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 

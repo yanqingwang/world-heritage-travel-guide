@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Chengde"
 lat: 40.988599
 lon: 117.953661
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 承德市承德避暑山庄及周围寺庙景区 / Chengde Mountain Resort
 
 > 河北省 · 承德市 · 皇家园林
-
-## 图片 / Images
-
-![Chengde Mountain Resort 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chengde_Mountain_Resort_1.jpg/1280px-Chengde_Mountain_Resort_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chengde Mountain Resort 1.jpg · takwing.kwong · CC BY-SA 2.0*
-
-![Chengde Mountain Resort, Pagoda.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/Chengde_Mountain_Resort%2C_Pagoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chengde Mountain Resort, Pagoda.jpg · Алексей Бондаренко · CC BY-SA 3.0*
-
-![Chengde Mountain Resort 15.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chengde_Mountain_Resort_15.jpg/1280px-Chengde_Mountain_Resort_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chengde Mountain Resort 15.jpg · takwing.kwong · CC BY-SA 2.0*
-
-![Chengde Mountain Resort 22686-Chengde (43552720970).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg/1280px-Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chengde Mountain Resort 22686-Chengde (43552720970).jpg · xiquinhosilva · CC BY 2.0*
-
-![Chengde Mountain Resort 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chengde_Mountain_Resort_3.jpg/1280px-Chengde_Mountain_Resort_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chengde Mountain Resort 3.jpg · takwing.kwong · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -64,11 +42,11 @@ Chengde Mountain Resort (Chinese: 承德避暑山庄; Manchu: ᡥᠠᠯᡥᡡᠨ
 
 ## 附近酒店 / Nearby hotels
 
-- **Hampton by Hilton** — 5.0 km — chain
 - **長承假日酒店** — 0.6 km — chain — Chang Cheng Hotel
+- **紫御国际假日酒店** — 2.1 km — chain
+- **天宝假日酒店** — 3.0 km — chain
+- **Hampton by Hilton** — 5.0 km — chain
 - **Cloud Hostel** — 0.8 km — hotel — Cloud Hostel
-- **山庄宾馆** — 1.8 km — hotel — Shanzhuang Hotel
-- **承德市丽正门宾馆(派酒店)** — 2.0 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

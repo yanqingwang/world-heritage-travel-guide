@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Linfen"
 lat: 35.745722
 lon: 111.045101
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 临汾市云丘山景区 / Linfenshiyunqiushan Scenic Area

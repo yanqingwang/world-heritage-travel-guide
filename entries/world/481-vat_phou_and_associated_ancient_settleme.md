@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: 14.83333333
 lon: 105.8
-updated_at: "2026-11-12T14:36:23Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 占巴塞文化景观内的瓦普庙和相关古民居 / Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape

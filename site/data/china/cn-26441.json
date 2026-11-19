@@ -10,8 +10,8 @@
  "city_zh": "柳州市",
  "city_en": "Liuzhou",
  "name_zh": "柳州市程阳八寨景区",
- "name_en": "Chengyangyongjiqiao Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Chengyang Bridge",
+ "name_en_source": "wikipedia",
  "slug": "liuzhoushichengyangbazhai-26441",
  "lat": 25.903032,
  "lon": 109.647973,
@@ -22,18 +22,9 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "程阳八寨景区位于广西唯一的侗族自治县——三江侗族自治县境内，由马鞍、平寨、岩寨、平坦、懂寨、大寨、平铺、吉昌八个自然村寨组成，上万侗族人世居于此，创造了丰富多彩、灿烂辉煌的侗族文化。",
- "intro_en": "Chengyang Bazhai Scenic Area is located in Sanjiang Dong Autonomous County, the only Dong autonomous county in Guangxi. It consists of eight natural villages: Ma'an, Pingzhai, Yanzhai, Pingping, Dangzhai, Dazhai, Pingpu and Jichang. Tens of thousands of Dong people have lived here, creating a rich, colorful and splendid Dong culture.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg/1280px-%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "程阳永济桥3 (cropped).jpg",
-   "author": "三猎",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg"
-  }
- ],
+ "intro_en": "The Yongji Bridge of Chengyang (simplified Chinese: 程阳永济桥; traditional Chinese: 程陽永濟橋; pinyin: Chéngyáng Yǒngjì Qiáo), also called the Chengyang Wind and Rain Bridge (simplified Chinese: 程阳风雨桥; traditional Chinese: 程陽風雨橋; pinyin: Chéngyáng Fēngyǔ Qiáo), is a bridge in Sanjiang County, of Guangxi, China. Chengyang Bridge is a special covered bridge or lángqiáo, and one of several Fengyu bridges in the local Dong Minority region. It was completed in 1912. It is also called the Panlong Bridge (simplified Chinese: 盘龙桥; traditional Chinese: 盤龍橋; pinyin: Pánlóng Qiáo).",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "",
  "booking": "http://www.sjcybz.com/Content/1896427.html",
  "transport": {
@@ -106,6 +97,28 @@
  },
  "hotels": [
   {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 25.7850054,
+   "lon": 109.6114801,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
+   "stars": null,
+   "brand": "全季酒店",
+   "lat": 25.785028,
+   "lon": 109.6118048,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "Dong Village Hotel",
    "name_en": "Dong Village Hotel",
    "stars": null,
@@ -137,37 +150,16 @@
    "distance_km": 13.4,
    "kind": "hotel",
    "source": "OpenStreetMap"
-  },
-  {
-   "name": "雅贤居商务酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 25.785935,
-   "lon": 109.6139475,
-   "distance_km": 13.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "盛利宾馆",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 25.7856983,
-   "lon": 109.612141,
-   "distance_km": 13.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
   }
  ],
  "hotels_nearby_30km": 11,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -186,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -204,9 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

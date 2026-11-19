@@ -13,18 +13,12 @@ province_en: "Liaoning"
 city_en: "Dalian"
 lat: 38.912757
 lon: 121.497166
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 大连市老虎滩海洋公园—老虎滩极地馆 / Laohutanhaiyanggongyuan
 
 > 辽宁省 · 大连市 · 主题乐园
-
-## 图片 / Images
-
-![Dalian Laohutan Ocean Park.JPG](https://upload.wikimedia.org/wikipedia/commons/8/8d/Dalian_Laohutan_Ocean_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Dalian Laohutan Ocean Park.JPG · User:Sinopitt · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

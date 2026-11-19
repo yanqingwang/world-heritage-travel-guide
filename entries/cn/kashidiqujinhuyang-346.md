@@ -2,7 +2,7 @@
 id: "cn-346"
 dataset: "china_5a"
 name_zh: "喀什地区金湖杨景区"
-name_en: "Jinhuzhen Scenic Area"
+name_en: "Jinhu, Kinmen"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 38.035954
 lon: 76.987903
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 喀什地区金湖杨景区 / Jinhuzhen Scenic Area
+# 喀什地区金湖杨景区 / Jinhu, Kinmen
 
 > 新疆维吾尔自治区 · 喀什地区 · 草原沙漠
-
-## 图片 / Images
-
-![金湖镇(山外) - Jinhu Township - 2014.05 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg/1280px-%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*金湖镇(山外) - Jinhu Township - 2014.05 - panoramio.jpg · rheins · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acres, of which the natural Populus euphratica forest area reaches 20,000 acres. The scenic area has a unique natural style with its vast natural Populus euphratica forest, the open Yarkand River and the flat, deserted Gobi Desert on both sides of the river. The four-in-one natural landscape of Populus euphratica, water, oasis and Gobi presents a picture of a frontier fortress, which can be called a rare tourist attraction on the western edge of the Tarim Basin.
-
-*English introduction: machine translation.*
+Jinhu Township (pinyin: Jīnhú Zhèn; Pe̍h-ōe-jī: Kim-ô͘-tìn; lit. 'golden lake') is an urban township of Kinmen, Fuchien, Taiwan. It is in the Taiwan Strait, on the coast of mainland China. Jinhu Township is the largest township in Kinmen County.
 
 ## 交通 / Transport
 
@@ -55,7 +47,7 @@ Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acr
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

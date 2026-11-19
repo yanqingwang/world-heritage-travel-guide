@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)"
 lat: 26.791667
 lon: 37.952778
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 瑪甸沙勒 / Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)

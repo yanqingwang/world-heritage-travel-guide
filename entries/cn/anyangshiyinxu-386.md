@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Anyang"
 lat: 36.148807
 lon: 114.31621
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 安阳市殷墟景区 / Yinxu
 
 > 河南省 · 安阳市 · 历史遗址
-
-## 图片 / Images
-
-![26120-Anyang (49086436522).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/26120-Anyang_%2849086436522%29.jpg/1280px-26120-Anyang_%2849086436522%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*26120-Anyang (49086436522).jpg · xiquinhosilva · CC BY 2.0*
-
-![26115-Anyang (49085353956).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/26115-Anyang_%2849085353956%29.jpg/1280px-26115-Anyang_%2849085353956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*26115-Anyang (49085353956).jpg · xiquinhosilva · CC BY 2.0*
-
-![26202-Anyang (49086223796).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/26202-Anyang_%2849086223796%29.jpg/1280px-26202-Anyang_%2849086223796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*26202-Anyang (49086223796).jpg · xiquinhosilva · CC BY 2.0*
-
-![Sias Foreign Faculty at Yinxu (Yin Ruins) (31997757418).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Sias_Foreign_Faculty_at_Yinxu_%28Yin_Ruins%29_%2831997757418%29.jpg/1280px-Sias_Foreign_Faculty_at_Yinxu_%28Yin_Ruins%29_%2831997757418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sias Foreign Faculty at Yinxu (Yin Ruins) (31997757418).jpg · Gary Todd from Xinzheng, China · CC0*
-
-![Yinxu Royal Tombs (53565246028).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Yinxu_Royal_Tombs_%2853565246028%29.jpg/1280px-Yinxu_Royal_Tombs_%2853565246028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yinxu Royal Tombs (53565246028).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Yinxu (Mandarin pronunciation: [ín.ɕý]; Chinese: 殷墟; lit. 'Ruins of Yin') is a Chinese archeological site corresponding to Yin, the final capital of the Shang dynasty (c. 1600 – c. 1046 BCE). Located in present-day Anyang, Henan, Yin served as the capital during the Late Shang period (c. 1250 – c. 1046 BCE) which spanned the reigns of 12 Shang kings and saw the emergence of oracle bone script, the earliest known Chinese writing. Along with oracle bone script and other material evidence for the Shang's existence, the site was forgotten for millennia. Its rediscovery in 1899 resulted from an investigation into oracle bones that were discovered being sold nearby. The rediscovery of Yinxu marked the beginning of decades of intensive excavation and study. It is one of China's oldest and largest archeological sites, and was selected by UNESCO as a World Heritage Site in 2006. Yinxu is located in northern Henan, near modern Anyang and the borders Henan shares with Hebei and Shanxi. Public access to the site is permitted.
+Yinxu (Mandarin pronunciation: [ín.ɕý]; Chinese: 殷墟; lit. 'Ruins of Yin') is a Chinese archaeological site corresponding to Yin, the final capital of the Shang dynasty (c. 1600 – c. 1046 BCE). Located in present-day Anyang, Henan, Yin served as the capital during the Late Shang period (c. 1250 – c. 1046 BCE) which spanned the reigns of 12 Shang kings and saw the emergence of oracle bone script, the earliest known Chinese writing. Along with oracle bone script and other material evidence for the Shang's existence, the site was forgotten for millennia. Its rediscovery in 1899 resulted from an investigation into oracle bones that were discovered being sold nearby. The rediscovery of Yinxu marked the beginning of decades of intensive excavation and study. It is one of China's oldest and largest archaeological sites, and was selected by UNESCO as a World Heritage Site in 2006. Yinxu is located in northern Henan, near modern Anyang and the borders Henan shares with Hebei and Shanxi. Public access to the site is permitted.
 
 ## 交通 / Transport
 

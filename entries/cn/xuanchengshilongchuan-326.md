@@ -2,7 +2,7 @@
 id: "cn-326"
 dataset: "china_5a"
 name_zh: "宣城市龙川景区"
-name_en: "Xuanchengshilongchuan Scenic Area"
+name_en: "Longchuanlu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Anhui"
 city_en: "Xuancheng"
 lat: 30.090027
 lon: 118.685058
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 宣城市龙川景区 / Xuanchengshilongchuan Scenic Area
+# 宣城市龙川景区 / Longchuanlu Scenic Area
 
 > 安徽省 · 宣城市 · 古镇村落
-
-## 图片 / Images
-
-![Longchuan Village, 2021-09-27 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Longchuan_Village%2C_2021-09-27_06.jpg/1280px-Longchuan_Village%2C_2021-09-27_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longchuan Village, 2021-09-27 06.jpg · Siyuwj · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -34,7 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Longchuan is the ancient name of Hangkou Village. The village has unique terrain and beautiful scenery. It is an ancient village where the Hu family lives together. The cultural landscape and natural landscape of Longchuan Tourist Scenic Area are a perfect combination and a perfect match. Longchuan Hu Ancestral Hall was rated as a national key cultural relic protection unit in 1988.
+Longchuan is the ancient name of Hangkou Village. The village has unique terrain and beautiful scenery. It is an ancient village where the Hu surname lives together. The cultural landscape and natural landscape of Longchuan Tourist Scenic Area are a perfect combination and a perfect match. Longchuan Hu Ancestral Hall was rated as a national key cultural relic protection unit in 1988.
 
 *English introduction: machine translation.*
 
@@ -65,5 +59,5 @@ Longchuan is the ancient name of Hangkou Village. The village has unique terrain
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/龙川胡氏宗祠)
+- [Wikipedia](https://zh.wikipedia.org/wiki/龙川路)
 - [OpenStreetMap](https://www.openstreetmap.org/)

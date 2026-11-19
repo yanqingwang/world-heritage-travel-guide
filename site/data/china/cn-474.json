@@ -10,8 +10,8 @@
  "city_zh": "无锡市",
  "city_en": "Wuxi",
  "name_zh": "无锡市鼋头渚旅游风景区",
- "name_en": "Yuantouzhu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Yuantouzhu",
+ "name_en_source": "wikipedia",
  "slug": "wuxishiyuantouzhulvyou-474",
  "lat": 31.479468,
  "lon": 120.280659,
@@ -22,18 +22,9 @@
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
  "intro_zh": "鼋头渚，独占太湖风景最美一角，山清水秀，天然胜景。鼋头渚风景区现有充山隐秀、鹿顶迎晖、鼋渚春涛、横云山庄等10多处景点。其中有山长水阔、帆影点点的自然山水画卷；有小桥流水，绿树人家的山乡田园风光；有典雅精致、古朴纯净的江南园林景致。",
- "intro_en": "Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful mountains and clear waters and natural scenery. Yuantouzhu Scenic Area currently has more than 10 scenic spots, including Chongshan Yinxiu, Luding Yinghui, Yuanzhu Chuntao, and Hengyun Villa. Among them are natural landscape paintings with long mountains and wide rivers and dotted sail shadows; rural pastoral scenery with small bridges and flowing water, green trees and people; and elegant, delicate, simple and pure Jiangnan garden scenery.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wuxi_Taihu_lake_Changchun_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Wuxi Taihu lake Changchun bridge.jpg",
-   "author": "2009/ Synyan ；2014/ 藍風攝影",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Wuxi_Taihu_lake_Changchun_bridge.jpg"
-  }
- ],
+ "intro_en": "Yuantouzhu (Chinese: 鼋头渚; pinyin: Yuán tóu zhǔ) is a peninsula which lies on the northwestern shore of Lake Tai, near Wuxi in China's Jiangsu province. It was established as a park in 1916 and celebrated its centennial in 2016. Yuantouzhu, or \"Turtle Head Isle\" in English (so called because its shape resembles a turtle's head), is a popular scenic tourist region. Tourist ferries leave from Yuantouzhu to the Sanshan Islands (三山岛), which were opened to tourists in the mid-1980s. Seagulls follow the boat and like to be fed by tourists on the boat. The Yuantouzhu park is famous for its tourism, especially during the spring season from March to April, when hundreds of cherry blossom trees start to bloom. Two gates are open for tourists which are Chongshan gate and Dushan main gate. During the season, there are also at least eight ancient fishing sailboats on the lake.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "http://www.ytz.com.cn/",
  "booking": "http://www.ytz.com.cn/tickets.html",
  "transport": {
@@ -183,10 +174,11 @@
  "hotels_nearby_30km": 110,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -205,7 +197,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -223,9 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

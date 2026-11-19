@@ -13,34 +13,12 @@ province_en: "Guizhou"
 city_en: "Qianxinanbuyizumiaozu Autonomous Prefecture"
 lat: 24.999408
 lon: 104.930256
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 黔西南州万峰林景区 / Wanfenglin Scenic Area
 
 > 贵州省 · 黔西南布依族苗族自治州 · 地质奇观
-
-## 图片 / Images
-
-![WanFengLin-ShangNaHui2025-08.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/WanFengLin-ShangNaHui2025-08.jpg/1280px-WanFengLin-ShangNaHui2025-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*WanFengLin-ShangNaHui2025-08.jpg · 名字长的让人受不了 · CC BY-SA 4.0*
-
-![CADAL09007109 平播全書·（四）.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/CADAL09007109_%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%C2%B7%EF%BC%88%E5%9B%9B%EF%BC%89.djvu/page1-1280px-CADAL09007109_%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%C2%B7%EF%BC%88%E5%9B%9B%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09007109 平播全書·（四）.djvu · 李化龙（著） · Public domain*
-
-![CADAL09007213 南漢地理志.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/CADAL09007213_%E5%8D%97%E6%BC%A2%E5%9C%B0%E7%90%86%E5%BF%97.djvu/page1-1280px-CADAL09007213_%E5%8D%97%E6%BC%A2%E5%9C%B0%E7%90%86%E5%BF%97.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09007213 南漢地理志.djvu · 南汉地理志及其他一种；（清） 吴兰修（撰） · Public domain*
-
-![CADAL09013565 文理學院院刊.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/CADAL09013565_%E6%96%87%E7%90%86%E5%AD%B8%E9%99%A2%E9%99%A2%E5%88%8A.djvu/page1-1280px-CADAL09013565_%E6%96%87%E7%90%86%E5%AD%B8%E9%99%A2%E9%99%A2%E5%88%8A.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09013565 文理學院院刊.djvu · Public domain*
-
-![Sibu Congkan Xubian286-穆彰阿-嘉慶重修一統志-200-188.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sibu_Congkan_Xubian286-%E7%A9%86%E5%BD%B0%E9%98%BF-%E5%98%89%E6%85%B6%E9%87%8D%E4%BF%AE%E4%B8%80%E7%B5%B1%E5%BF%97-200-188.djvu/page1-1280px-Sibu_Congkan_Xubian286-%E7%A9%86%E5%BD%B0%E9%98%BF-%E5%98%89%E6%85%B6%E9%87%8D%E4%BF%AE%E4%B8%80%E7%B5%B1%E5%BF%97-200-188.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sibu Congkan Xubian286-穆彰阿-嘉慶重修一統志-200-188.djvu · Mujangga · Public domain*
 
 ## 简介 / Introduction
 

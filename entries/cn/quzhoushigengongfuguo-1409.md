@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Quzhou City"
 lat: 29.139382
 lon: 118.399521
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 衢州市根宫佛国文化旅游区 / Quzhouguidaojiaotong Cultural Tourism Area

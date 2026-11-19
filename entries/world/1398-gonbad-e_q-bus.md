@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.258121354
 lon: 55.168991133
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 貢巴德·卡武斯高塔 / Gonbad-e Qābus

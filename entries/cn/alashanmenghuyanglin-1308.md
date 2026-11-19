@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Alashan League"
 lat: 41.088816
 lon: 101.071953
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 阿拉善盟胡杨林旅游区 / Populus euphratica

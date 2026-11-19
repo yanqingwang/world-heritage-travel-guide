@@ -2,7 +2,7 @@
 id: "cn-786"
 dataset: "china_5a"
 name_zh: "厦门市鼓浪屿风景名胜区"
-name_en: "Gulangyu"
+name_en: "Huanglong Scenic and Historic Interest Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.449908
 lon: 118.079275
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 厦门市鼓浪屿风景名胜区 / Gulangyu
+# 厦门市鼓浪屿风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 福建省 · 厦门市 · 海滨度假
-
-## 图片 / Images
-
-![鼓浪屿 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg/1280px-%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*鼓浪屿 - panoramio.jpg · gdczjkk · CC BY 3.0*
-
-![厦门市砂、石、土资源管理规定.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%8E%A6%E9%97%A8%E5%B8%82%E7%A0%82%E3%80%81%E7%9F%B3%E3%80%81%E5%9C%9F%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf/page1-960px-%E5%8E%A6%E9%97%A8%E5%B8%82%E7%A0%82%E3%80%81%E7%9F%B3%E3%80%81%E5%9C%9F%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*厦门市砂、石、土资源管理规定.pdf · Q106007409 · Public domain*
-
-![Gulangyu Island from Zhongshan Road, Xiamen.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Gulangyu Island from Zhongshan Road, Xiamen.jpg · Slyronit · CC BY-SA 4.0*
-
-![Gulangyu at dusk.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gulangyu_at_dusk.jpg/1280px-Gulangyu_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Gulangyu at dusk.jpg · 周流劲火 · CC BY 2.5*
-
-![Gulangyu island.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/Gulangyu_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Gulangyu island.jpg · Fuzheado · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Gulangyu, Gulang or Kulangsu is an island off the coast of Xiamen, Fujian, southeastern China. A UNESCO World Cultural Heritage Site, the island is one of China's most visited tourist attractions, attracting more than 10 million visitors per year. Gulangyu covers an area of 1.88 km2 (0.73 sq mi), with a population of 12,509 as of 2023. Administratively, the island constitutes the Gulangyu Subdistrict, part of Xiamen's Siming District. It is reachable by ferry from downtown Xiamen. Gulangyu Island is renowned for its beaches, winding lanes and rich architecture. The island is on China's list of National Scenic Spots and is classified as a 5A tourist attraction by the China National Tourism Administration (CNTA). It ranks at the top of the list of the ten most scenic areas in the province. As a pedestrian-only zone where cars and bicycles are banned, the only vehicles permitted are small electric buggies and electric government service vehicles.
+Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
 
 ## 交通 / Transport
 
@@ -78,5 +56,5 @@ Gulangyu, Gulang or Kulangsu is an island off the coast of Xiamen, Fujian, south
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/鼓浪屿)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

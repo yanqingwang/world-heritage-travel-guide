@@ -13,34 +13,12 @@ province_en: "Chongqing"
 city_en: "Nanchuan District"
 lat: 29.158193
 lon: 107.110746
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 金佛山景区 / Mount Jinfo
 
 > 重庆市 · 南川区 · 宗教文化
-
-## 图片 / Images
-
-![Mount. Jinfo 1.JPG](https://upload.wikimedia.org/wikipedia/commons/4/42/Mount._Jinfo_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Mount. Jinfo 1.JPG · Wenchi Jin · CC BY-SA 4.0*
-
-![GA 36-2014.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GA_36-2014.pdf/page1-960px-GA_36-2014.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GA 36-2014.pdf · Ministry of Public Security · Public domain*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![云南省交通运输厅 云南省发展和改革委关于印发《云南省公路网规划》的通知（云交规划〔2024〕15号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%E4%BA%91%E5%8D%97%E7%9C%81%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E5%8E%85_%E4%BA%91%E5%8D%97%E7%9C%81%E5%8F%91%E5%B1%95%E5%92%8C%E6%94%B9%E9%9D%A9%E5%A7%94%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E4%BA%91%E5%8D%97%E7%9C%81%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E4%BA%91%E4%BA%A4%E8%A7%84%E5%88%92%E3%80%942024%E3%80%9515%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E4%BA%91%E5%8D%97%E7%9C%81%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E5%8E%85_%E4%BA%91%E5%8D%97%E7%9C%81%E5%8F%91%E5%B1%95%E5%92%8C%E6%94%B9%E9%9D%A9%E5%A7%94%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E4%BA%91%E5%8D%97%E7%9C%81%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E4%BA%91%E4%BA%A4%E8%A7%84%E5%88%92%E3%80%942024%E3%80%9515%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*云南省交通运输厅 云南省发展和改革委关于印发《云南省公路网规划》的通知（云交规划〔2024〕15号）.pdf · 云南省交通运输厅、云南省发展和改革委员会 · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 37.981666666
 lon: 126.508055555
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 开城历史古迹 / Historic Monuments and Sites in Kaesong

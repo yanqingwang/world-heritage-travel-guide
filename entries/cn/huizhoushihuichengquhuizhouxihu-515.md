@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Huizhou"
 lat: 23.095461
 lon: 114.403979
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 惠州市惠城区惠州西湖旅游景区 / West Lake (Huizhou)
 
 > 广东省 · 惠州市 · 山地风光
-
-## 图片 / Images
-
-![West Lake in Huizhou.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/West_Lake_in_Huizhou.jpg/1280px-West_Lake_in_Huizhou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake in Huizhou.jpg · Chintunglee · CC BY-SA 4.0*
-
-![Huizhou West Lake.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Huizhou_West_Lake.svg/1280px-Huizhou_West_Lake.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huizhou West Lake.svg · Doctoroftcm · Public domain*
-
-![Huizhou Xihu 2013.09.20 09-16-56.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Huizhou_Xihu_2013.09.20_09-16-56.jpg/1280px-Huizhou_Xihu_2013.09.20_09-16-56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huizhou Xihu 2013.09.20 09-16-56.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Huizhou Xihu 2013.09.20 10-24-05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Huizhou_Xihu_2013.09.20_10-24-05.jpg/1280px-Huizhou_Xihu_2013.09.20_10-24-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huizhou Xihu 2013.09.20 10-24-05.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Huizhou Xihu 2013.09.20 10-24-46.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Huizhou_Xihu_2013.09.20_10-24-46.jpg/1280px-Huizhou_Xihu_2013.09.20_10-24-46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huizhou Xihu 2013.09.20 10-24-46.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

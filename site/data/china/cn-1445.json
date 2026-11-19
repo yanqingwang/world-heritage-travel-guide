@@ -24,48 +24,7 @@
  "intro_zh": "上海科技馆坐落于上海浦东新区行政文化中心的世纪广场。上海科技馆的每个展区都是一个人们关注的社会话题；每个展品，都是一个引人入胜的互动游戏。大到宇宙苍穹，小到细胞基因等科学基本原理和重大科技成果都能在这里得到生动形象的展示，让游人在休闲娱乐中得到启迪。",
  "intro_en": "Shanghai Science and Technology Museum is a large museum in Pudong, Shanghai, close to Century Park, the largest park within the inner districts of the city. It is one of China's most-visited museums. It received 1,351,000 visitors in 2020, despite a fall of attendance of 72 percent from 2019 due to restrictions and reduced tourism imposed by the COVID-19 pandemic.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shanghai_-_Shanghai_Science_and_Technology_Museum_Exterior_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Shanghai - Shanghai Science and Technology Museum Exterior Photo.jpg",
-   "author": "Greg Peterson",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/greggypetty/4879617522/",
-   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Science_and_Technology_Museum_Exterior_Photo.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/200103_Shanghai_Metro_line_2_train_passing_Shanghai_Science_and_Technology_Museum_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "200103 Shanghai Metro line 2 train passing Shanghai Science and Technology Museum station.jpg",
-   "author": "Ian BLACK from I-LAN, Taiwan",
-   "license": "CC BY 2.0",
-   "credit": "Flickr",
-   "source": "https://commons.wikimedia.org/wiki/File:200103_Shanghai_Metro_line_2_train_passing_Shanghai_Science_and_Technology_Museum_station.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg/1280px-201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "201504 Shanghai Science and Technology Museum station concourse.jpg",
-   "author": "::::=UT=::::",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161102075344/http://www.panoramio.com/photo/124276877",
-   "source": "https://commons.wikimedia.org/wiki/File:201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg/1280px-A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A newly installed LED signal at Shanghai Science and Technology Museum Station of Shanghai Metro Line 2.jpg",
-   "author": "Antigng",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shanghai_Science_and_Technology_Museum.jpg/1280px-Shanghai_Science_and_Technology_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Shanghai Science and Technology Museum.jpg",
-   "author": "Empire Du Milieu",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Science_and_Technology_Museum.jpg"
-  }
- ],
+ "images": [],
  "web": "http://group.sstm.org.cn",
  "booking": "http://group.sstm.org.cn/",
  "transport": {
@@ -170,17 +129,6 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "华尔道夫酒店",
-   "name_en": "Waldorf-Astoria Shanghai on the Bund",
-   "stars": 5,
-   "brand": null,
-   "lat": 31.2357244,
-   "lon": 121.4863051,
-   "distance_km": 6.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "上海外滩 W 酒店",
    "name_en": "W Shanghai - The Bund",
    "stars": 5,
@@ -201,9 +149,20 @@
    "distance_km": 6.6,
    "kind": "star",
    "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海五角场凯悦酒店",
+   "name_en": "Hyatt Regency Shanghai Wujiaochang",
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 31.3024915,
+   "lon": 121.5147774,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 632,
+ "hotels_nearby_30km": 639,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -247,9 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(vi)"
 lat: 40.69
 lon: -74.045
-updated_at: "2026-11-12T14:36:22Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 自由女神像 / Statue of Liberty

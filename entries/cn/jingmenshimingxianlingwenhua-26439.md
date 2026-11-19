@@ -13,18 +13,12 @@ province_en: "Hubei"
 city_en: "Jingmen City"
 lat: 31.215108
 lon: 112.644097
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 荆门市明显陵文化旅游景区 / Mingxianling Scenic Area
 
 > 湖北省 · 荆门市 · 皇家园林
-
-## 图片 / Images
-
-![Mingxianling minglou.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mingxianling_minglou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Mingxianling minglou.jpg · Kallgan · Public domain*
 
 ## 简介 / Introduction
 

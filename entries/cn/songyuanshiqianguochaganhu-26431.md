@@ -13,34 +13,12 @@ province_en: "Jilin"
 city_en: "Songyuan City"
 lat: 45.210503
 lon: 124.441599
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 松原市前郭查干湖景区 / Chagan Lake (China)
 
 > 吉林省 · 松原市 · 自然风光
-
-## 图片 / Images
-
-![Chagan Lake - 2025.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Chagan_Lake_-_2025.jpg/1280px-Chagan_Lake_-_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Chagan Lake - 2025.jpg · 纳瓦拉的亨利 · CC BY-SA 4.0*
-
-![2018年12月28日 吉林查干湖冬捕启幕 数万人围观“冰湖腾鱼”盛景.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018%E5%B9%B412%E6%9C%8828%E6%97%A5_%E5%90%89%E6%9E%97%E6%9F%A5%E5%B9%B2%E6%B9%96%E5%86%AC%E6%8D%95%E5%90%AF%E5%B9%95_%E6%95%B0%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82%E2%80%9C%E5%86%B0%E6%B9%96%E8%85%BE%E9%B1%BC%E2%80%9D%E7%9B%9B%E6%99%AF.webm/500px--2018%E5%B9%B412%E6%9C%8828%E6%97%A5_%E5%90%89%E6%9E%97%E6%9F%A5%E5%B9%B2%E6%B9%96%E5%86%AC%E6%8D%95%E5%90%AF%E5%B9%95_%E6%95%B0%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82%E2%80%9C%E5%86%B0%E6%B9%96%E8%85%BE%E9%B1%BC%E2%80%9D%E7%9B%9B%E6%99%AF.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
-
-*2018年12月28日 吉林查干湖冬捕启幕 数万人围观“冰湖腾鱼”盛景.webm · 中国新闻网 · CC BY 3.0*
-
-![Lotus in Chagan Lake-2018-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lotus_in_Chagan_Lake-2018-01.jpg/1280px-Lotus_in_Chagan_Lake-2018-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lotus in Chagan Lake-2018-01.jpg · 纳瓦拉的亨利 · CC BY-SA 4.0*
-
-![Lotus in Chagan Lake-2018-02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lotus_in_Chagan_Lake-2018-02.jpg/1280px-Lotus_in_Chagan_Lake-2018-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lotus in Chagan Lake-2018-02.jpg · 纳瓦拉的亨利 · CC BY-SA 4.0*
-
-![Lotus in Chagan Lake-2018-03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lotus_in_Chagan_Lake-2018-03.jpg/1280px-Lotus_in_Chagan_Lake-2018-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lotus in Chagan Lake-2018-03.jpg · 纳瓦拉的亨利 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

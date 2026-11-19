@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Suqian City"
 lat: 33.252125
 lon: 118.338694
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 宿迁市洪泽湖湿地景区 / Hongze Lake
 
 > 江苏省 · 宿迁市 · 度假休闲
-
-## 图片 / Images
-
-![Satellite view Hongze Lake.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Satellite_view_Hongze_Lake.png/1280px-Satellite_view_Hongze_Lake.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Satellite view Hongze Lake.png · NASA · Public domain*
-
-![PLANS Hongze Lake (AO-881) 20160127.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/PLANS_Hongze_Lake_%28AO-881%29_20160127.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PLANS Hongze Lake (AO-881) 20160127.jpg · 日本防衛省·統合幕僚監部 · CC BY 4.0*
-
-![PLANS Hongze Lake (AO-881) 20160202.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/PLANS_Hongze_Lake_%28AO-881%29_20160202.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PLANS Hongze Lake (AO-881) 20160202.jpg · 日本防衛省·統合幕僚監部 · CC BY 4.0*
-
-![PLANS Hongze Lake (AO-881) 20160216.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/PLANS_Hongze_Lake_%28AO-881%29_20160216.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PLANS Hongze Lake (AO-881) 20160216.jpg · 日本防衛省·統合幕僚監部 · CC BY 4.0*
-
-![Zh Hongze ia.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
-
-*Zh Hongze ia.ogg · EEIM · Public domain*
 
 ## 简介 / Introduction
 

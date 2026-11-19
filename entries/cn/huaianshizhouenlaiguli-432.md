@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Huai'an"
 lat: 33.541841
 lon: 119.147121
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 淮安市周恩来故里景区 / Zhou Enlai
 
 > 江苏省 · 淮安市 · 古镇村落
-
-## 图片 / Images
-
-![國共內戰時期周恩來.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f0/%E5%9C%8B%E5%85%B1%E5%85%A7%E6%88%B0%E6%99%82%E6%9C%9F%E5%91%A8%E6%81%A9%E4%BE%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*國共內戰時期周恩來.jpg · Unknown author Unknown author · Public domain*
-
-![Zhou Enlai MeiyuanXincun17 Nanjing 1946.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Zhou_Enlai_MeiyuanXincun17_Nanjing_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Zhou Enlai MeiyuanXincun17 Nanjing 1946.jpg · Unknown author Unknown author · Public domain*
-
-![FS Hussain and Zhou Enlai (1956).png](https://upload.wikimedia.org/wikipedia/commons/b/b8/FS_Hussain_and_Zhou_Enlai_%281956%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*FS Hussain and Zhou Enlai (1956).png · Pakistan Air Force Archives · Public domain*
-
-![Zhou Enlai 1927.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/Zhou_Enlai_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Zhou Enlai 1927.jpg · unknown author · Public domain*
-
-![Zhou Enlai 3.jpg](https://upload.wikimedia.org/wikipedia/commons/4/40/Zhou_Enlai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Zhou Enlai 3.jpg · Unknown author Unknown author · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-lai2; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta
+Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou¹ Ên¹-lai²; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta
 
 ## 交通 / Transport
 

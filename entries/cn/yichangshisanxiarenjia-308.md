@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.80415
 lon: 111.169942
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 宜昌市三峡人家风景区 / Three Gorges Dam

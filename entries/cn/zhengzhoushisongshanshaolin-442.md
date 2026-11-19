@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Zhengzhou"
 lat: 34.520888
 lon: 112.962116
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 郑州市嵩山少林景区 / Mount Song
 
 > 河南省 · 郑州市 · 山地风光
-
-## 图片 / Images
-
-![Songshan.JPG](https://upload.wikimedia.org/wikipedia/commons/b/bb/Songshan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Songshan.JPG · 张骐 · Public domain*
-
-![Hikers in Taishi Shan Jingqu on Song Shan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Hikers_in_Taishi_Shan_Jingqu_on_Song_Shan.jpg/1280px-Hikers_in_Taishi_Shan_Jingqu_on_Song_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hikers in Taishi Shan Jingqu on Song Shan.jpg · Woudloper · CC BY-SA 4.0*
-
-![Song Shan 01 (Song Mountain).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Song_Shan_01_%28Song_Mountain%29.jpg/1280px-Song_Shan_01_%28Song_Mountain%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Song Shan 01 (Song Mountain).jpg · Gary Todd · CC0*
-
-![Song Shan 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Song_Shan_02.jpg/1280px-Song_Shan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Song Shan 02.jpg · Gary Todd · CC0*
-
-![Song Shan 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Song_Shan_03.jpg/1280px-Song_Shan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Song Shan 03.jpg · Gary Todd · CC0*
 
 ## 简介 / Introduction
 

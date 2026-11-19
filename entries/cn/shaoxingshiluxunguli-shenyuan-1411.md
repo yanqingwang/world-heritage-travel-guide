@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Shaoxing City"
 lat: 29.998999
 lon: 120.591062
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 绍兴市鲁迅故里•沈园景区 / Lu Xun Native Place
 
 > 浙江省 · 绍兴市 · 古镇村落
-
-## 图片 / Images
-
-![绍兴鲁迅故居周家新台门.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E7%BB%8D%E5%85%B4%E9%B2%81%E8%BF%85%E6%95%85%E5%B1%85%E5%91%A8%E5%AE%B6%E6%96%B0%E5%8F%B0%E9%97%A8.JPG/1280px-%E7%BB%8D%E5%85%B4%E9%B2%81%E8%BF%85%E6%95%85%E5%B1%85%E5%91%A8%E5%AE%B6%E6%96%B0%E5%8F%B0%E9%97%A8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*绍兴鲁迅故居周家新台门.JPG · Gisling · CC BY-SA 3.0*
-
-![Luxun native place.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Luxun_native_place.JPG/1280px-Luxun_native_place.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Luxun native place.JPG · Gisling · CC BY 3.0*
-
-![“我以我血荐轩辕”-鲁迅 Lu Xun - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E2%80%9C%E6%88%91%E4%BB%A5%E6%88%91%E8%A1%80%E8%8D%90%E8%BD%A9%E8%BE%95%E2%80%9D-%E9%B2%81%E8%BF%85_Lu_Xun_-_panoramio.jpg/1280px-%E2%80%9C%E6%88%91%E4%BB%A5%E6%88%91%E8%A1%80%E8%8D%90%E8%BD%A9%E8%BE%95%E2%80%9D-%E9%B2%81%E8%BF%85_Lu_Xun_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*“我以我血荐轩辕”-鲁迅 Lu Xun - panoramio.jpg · wanghongliu · CC BY-SA 3.0*
-
-![重游鲁迅故里.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E9%87%8D%E6%B8%B8%E9%B2%81%E8%BF%85%E6%95%85%E9%87%8C.jpg/1280px-%E9%87%8D%E6%B8%B8%E9%B2%81%E8%BF%85%E6%95%85%E9%87%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*重游鲁迅故里.jpg · kjwu312000 · CC BY 2.5*
-
-![重游鲁迅故里 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E9%87%8D%E6%B8%B8%E9%B2%81%E8%BF%85%E6%95%85%E9%87%8C_2.jpg/1280px-%E9%87%8D%E6%B8%B8%E9%B2%81%E8%BF%85%E6%95%85%E9%87%8C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*重游鲁迅故里 2.jpg · kjwu312000 · CC BY 2.5*
 
 ## 简介 / Introduction
 

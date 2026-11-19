@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Zhenjiang"
 lat: 31.792289
 lon: 119.300208
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 镇江市茅山景区 / Maoshan
 
 > 江苏省 · 镇江市 · 山地风光
-
-## 图片 / Images
-
-![镇江句容茅山老子神像.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%E9%95%87%E6%B1%9F%E5%8F%A5%E5%AE%B9%E8%8C%85%E5%B1%B1%E8%80%81%E5%AD%90%E7%A5%9E%E5%83%8F.jpg/1280px-%E9%95%87%E6%B1%9F%E5%8F%A5%E5%AE%B9%E8%8C%85%E5%B1%B1%E8%80%81%E5%AD%90%E7%A5%9E%E5%83%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*镇江句容茅山老子神像.jpg · Cjsy2026 · CC BY-SA 4.0*
-
-![201806 Station Building of Shangqing Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/201806_Station_Building_of_Shangqing_Station.jpg/1280px-201806_Station_Building_of_Shangqing_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*201806 Station Building of Shangqing Station.jpg · MNXANL · CC BY-SA 4.0*
-
-![20240607 Maoshan Service Area.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20240607_Maoshan_Service_Area.jpg/1280px-20240607_Maoshan_Service_Area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20240607 Maoshan Service Area.jpg · Windmemories · CC BY-SA 4.0*
-
-![Kinmen - Maoshan Pagoda - DSCF9490.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kinmen_-_Maoshan_Pagoda_-_DSCF9490.JPG/1280px-Kinmen_-_Maoshan_Pagoda_-_DSCF9490.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kinmen - Maoshan Pagoda - DSCF9490.JPG · User:Vmenkov · CC BY-SA 3.0*
-
-![Kinmen - Maoshan Pagoda - DSCF9491.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kinmen_-_Maoshan_Pagoda_-_DSCF9491.JPG/1280px-Kinmen_-_Maoshan_Pagoda_-_DSCF9491.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kinmen - Maoshan Pagoda - DSCF9491.JPG · User:Vmenkov · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

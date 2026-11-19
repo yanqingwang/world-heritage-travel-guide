@@ -2,7 +2,7 @@
 id: "cn-670"
 dataset: "china_5a"
 name_zh: "龙岩市古田旅游区"
-name_en: "Gutian dialect"
+name_en: "Longyanshigutian Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 25.22922
 lon: 116.830373
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 龙岩市古田旅游区 / Gutian dialect
+# 龙岩市古田旅游区 / Longyanshigutian Tourist Area
 
 > 福建省 · 龙岩市 · 红色旅游
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-The Gutian dialect (Eastern Min: 古田話) is a dialect of Eastern Min spoken in Gutian, Ningde in northeastern Fujian province, China.
+Gutian Tourist Area takes the exit of Gutian Tunnel to Gutian Villa as the core area, with a total area of ​​approximately 7.6 square kilometers. Gutian Tourist Area includes Gutian Conference Site, Memorial Hall, Chairman’s Garden and other attractions.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,10 @@ The Gutian dialect (Eastern Min: 古田話) is a dialect of Eastern Min spoken i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/古田话)
+- [Wikipedia](https://zh.wikipedia.org/wiki/古田会议会址)
 - [OpenStreetMap](https://www.openstreetmap.org/)

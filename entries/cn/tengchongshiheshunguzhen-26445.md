@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 25.01266
 lon: 98.465504
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 腾冲市和顺古镇景区 / Tengchongshiheshunguzhen Scenic Area
@@ -43,11 +43,11 @@ Heshun Ancient Town is located 4 kilometers southwest of Tengchong City. It is a
 
 ## 附近酒店 / Nearby hotels
 
-- **banyan tree tengchong** — 13.5 km — hotel — banyan tree tengchong
 - **腾冲金玉堂云景度假酒店** — 0.6 km — hotel
 - **玉都大酒店** — 3.3 km — hotel
 - **洪运宾馆** — 3.4 km — hotel
 - **腾冲翡翠时光别墅酒店** — 3.7 km — hotel — Tenchong Jade Time Villa Hotel
+- **汶桥酒店** — 4.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -13,18 +13,12 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.671918
 lon: 109.526118
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 三亚市蜈支洲岛旅游区 / Wuzhizhoudao Tourist Area
 
 > 海南省 · 三亚市 · 度假休闲
-
-## 图片 / Images
-
-![Wuzhizhou-Island.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dd/Wuzhizhou-Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wuzhizhou-Island.jpg · Jarling · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

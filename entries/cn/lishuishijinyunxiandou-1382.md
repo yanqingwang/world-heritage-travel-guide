@@ -13,26 +13,12 @@ province_en: "Zhejiang"
 city_en: "Lishui City"
 lat: 28.714992
 lon: 120.076183
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 丽水市缙云仙都景区 / Xiandou Scenic Area
 
 > 浙江省 · 丽水市 · 山地风光
-
-## 图片 / Images
-
-![Jinyun Xiandu 2017.09.10 06-47-19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Jinyun_Xiandu_2017.09.10_06-47-19.jpg/1280px-Jinyun_Xiandu_2017.09.10_06-47-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinyun Xiandu 2017.09.10 06-47-19.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![浙江省人民政府公报2019年第12期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第12期.pdf · Zhejiang People's Government · Public domain*
-
-![浙江省人民政府公报2019年第3期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第3期.pdf · Zhejiang People's Government · Public domain*
 
 ## 简介 / Introduction
 

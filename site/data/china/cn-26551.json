@@ -107,6 +107,39 @@
  },
  "hotels": [
   {
+   "name": "金华世茂大饭店",
+   "name_en": "Best Western World Trade Hotel Jinhua",
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 29.1141705,
+   "lon": 119.648989,
+   "distance_km": 8.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "格林豪泰快捷酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1118235,
+   "lon": 119.631964,
+   "distance_km": 9.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "亚朵酒店",
+   "name_en": "Atour Hotel",
+   "stars": null,
+   "brand": "亚朵酒店",
+   "lat": 29.1101048,
+   "lon": 119.6584595,
+   "distance_km": 9.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "金华万豪酒店",
    "name_en": null,
    "stars": null,
@@ -118,47 +151,14 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "电站宾馆",
+   "name": "豪森假日花园大酒店",
    "name_en": null,
    "stars": null,
    "brand": null,
-   "lat": 29.2035583,
-   "lon": 119.6190014,
-   "distance_km": 1.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "隐居芥子园酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.2052346,
-   "lon": 119.6185759,
-   "distance_km": 2.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "浙师大国际交流中心",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.1367322,
-   "lon": 119.6465208,
-   "distance_km": 6.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "俏江南",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.1273702,
-   "lon": 119.6355487,
-   "distance_km": 7.2,
-   "kind": "hotel",
+   "lat": 29.0752838,
+   "lon": 119.6227765,
+   "distance_km": 13.1,
+   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -206,9 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

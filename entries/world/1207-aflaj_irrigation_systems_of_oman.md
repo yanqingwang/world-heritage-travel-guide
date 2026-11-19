@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(v)"
 lat: 22.998889
 lon: 57.536056
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 阿曼的阿夫拉贾灌溉体系 / Aflaj Irrigation Systems of Oman

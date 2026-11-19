@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 40.250956
 lon: 109.968272
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 鄂尔多斯市响沙湾旅游景区 / Eerduosishixiangshawan Scenic Area
@@ -56,5 +56,4 @@ The sand in Xiangshawan is 110 meters high, with a slope of 45 degrees and a cre
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/鄂尔多斯旅游轨道交通)
 - [OpenStreetMap](https://www.openstreetmap.org/)

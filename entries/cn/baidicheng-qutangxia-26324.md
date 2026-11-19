@@ -13,34 +13,12 @@ province_en: "Chongqing"
 city_en: "Fengjie County"
 lat: 31.047874
 lon: 109.583808
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 白帝城•瞿塘峡景区 / Qutang Gorge
 
 > 重庆市 · 奉节县 · 自然风光
-
-## 图片 / Images
-
-![1963-01 1963年 瞿塘峡.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/1963-01_1963%E5%B9%B4_%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg/1280px-1963-01_1963%E5%B9%B4_%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1963-01 1963年 瞿塘峡.jpg · 《人民画报》 · Public domain*
-
-![Qutang Gorge (43588474294).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Qutang_Gorge_%2843588474294%29.jpg/1280px-Qutang_Gorge_%2843588474294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qutang Gorge (43588474294).jpg · Hugh Llewelyn from Keynsham, UK · CC BY-SA 2.0*
-
-![Qutang Gorge 2016.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Qutang_Gorge_2016.jpg/1280px-Qutang_Gorge_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qutang Gorge 2016.jpg · Fredlyfish4 · CC BY-SA 4.0*
-
-![Qutang Gorge on Changjiang.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qutang_Gorge_on_Changjiang.jpg/1280px-Qutang_Gorge_on_Changjiang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qutang Gorge on Changjiang.jpg · Tan Wei Liang Byorn · CC BY 3.0*
-
-![Qutang Gorge 瞿塘峽 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qutang_Gorge_%E7%9E%BF%E5%A1%98%E5%B3%BD_-_panoramio.jpg/1280px-Qutang_Gorge_%E7%9E%BF%E5%A1%98%E5%B3%BD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qutang Gorge 瞿塘峽 - panoramio.jpg · lienyuan lee · CC BY 3.0*
 
 ## 简介 / Introduction
 

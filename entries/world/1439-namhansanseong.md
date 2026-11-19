@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)"
 lat: 37.47802778
 lon: 127.18419444
-updated_at: "2026-11-12T14:36:31Z"
+updated_at: "2026-11-16T11:41:11Z"
 ---
 
 # 南漢山城 / Namhansanseong

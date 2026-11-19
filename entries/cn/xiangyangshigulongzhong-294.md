@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Xiangyang City"
 lat: 32.0177
 lon: 112.041882
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 襄阳市古隆中景区 / Longzhong
 
 > 湖北省 · 襄阳市 · 山地风光
-
-## 图片 / Images
-
-![Xingyang Longzhong 2013.08.23 10-51-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Xingyang_Longzhong_2013.08.23_10-51-10.jpg/1280px-Xingyang_Longzhong_2013.08.23_10-51-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xingyang Longzhong 2013.08.23 10-51-10.jpg · Zhangzhugang · CC BY-SA 3.0*
-
-![Longzhong, Nanyang, China1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Longzhong%2C_Nanyang%2C_China1.jpg/1280px-Longzhong%2C_Nanyang%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longzhong, Nanyang, China1.jpg · Sherbet · CC BY 2.5*
-
-![Longzhong, Nanyang, China4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Longzhong%2C_Nanyang%2C_China4.jpg/1280px-Longzhong%2C_Nanyang%2C_China4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longzhong, Nanyang, China4.jpg · Sherbet · CC BY 2.5*
-
-![Longzhong, Nanyang, China5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Longzhong%2C_Nanyang%2C_China5.jpg/1280px-Longzhong%2C_Nanyang%2C_China5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longzhong, Nanyang, China5.jpg · Sherbet · CC BY 2.5*
-
-![Longzhong, Nanyang, China7.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Longzhong%2C_Nanyang%2C_China7.jpg/1280px-Longzhong%2C_Nanyang%2C_China7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longzhong, Nanyang, China7.jpg · Sherbet · CC BY 2.5*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Putian"
 lat: 25.096583
 lon: 119.154628
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 莆田市湄洲岛妈祖文化旅游区 / Meizhou Island
 
 > 福建省 · 莆田市 · 宗教文化
-
-## 图片 / Images
-
-![湄洲岛神石园风光 - panoramio (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B9%84%E6%B4%B2%E5%B2%9B%E7%A5%9E%E7%9F%B3%E5%9B%AD%E9%A3%8E%E5%85%89_-_panoramio_%282%29.jpg/1280px-%E6%B9%84%E6%B4%B2%E5%B2%9B%E7%A5%9E%E7%9F%B3%E5%9B%AD%E9%A3%8E%E5%85%89_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*湄洲岛神石园风光 - panoramio (2).jpg · 江上清风1961 · CC BY 3.0*
-
-![Boarding area of Meizhou Island Ferry Pier (20201002121937).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Boarding_area_of_Meizhou_Island_Ferry_Pier_%2820201002121937%29.jpg/1280px-Boarding_area_of_Meizhou_Island_Ferry_Pier_%2820201002121937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Boarding area of Meizhou Island Ferry Pier (20201002121937).jpg · N509FZ · CC BY-SA 4.0*
-
-![Entrance of Meizhou Island Ferry Pier (20201002121010).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Entrance_of_Meizhou_Island_Ferry_Pier_%2820201002121010%29.jpg/1280px-Entrance_of_Meizhou_Island_Ferry_Pier_%2820201002121010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Entrance of Meizhou Island Ferry Pier (20201002121010).jpg · N509FZ · CC BY-SA 4.0*
-
-![Meizhou Co-Op Store (20201002083708).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Meizhou_Co-Op_Store_%2820201002083708%29.jpg/1280px-Meizhou_Co-Op_Store_%2820201002083708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Meizhou Co-Op Store (20201002083708).jpg · N509FZ · CC BY-SA 4.0*
-
-![Meizhou Farmers Market bus stop (20201002083759).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Meizhou_Farmers_Market_bus_stop_%2820201002083759%29.jpg/1280px-Meizhou_Farmers_Market_bus_stop_%2820201002083759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Meizhou Farmers Market bus stop (20201002083759).jpg · N509FZ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

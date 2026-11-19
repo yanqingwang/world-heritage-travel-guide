@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(v)"
 lat: 40.7059
 lon: 48.8854
-updated_at: "2026-11-12T14:36:33Z"
+updated_at: "2026-11-16T11:41:12Z"
 ---
 
 # 希纳利格人文化景观和移牧路线 / Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route

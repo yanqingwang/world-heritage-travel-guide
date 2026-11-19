@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(ii)"
 lat: 19.41111111
 lon: -99.1925
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:09Z"
 ---
 
 # 路易斯•巴拉干故居和工作室 / Luis Barragán House and Studio

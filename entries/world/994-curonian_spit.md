@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(v)"
 lat: 55.274444444
 lon: 20.970833333
-updated_at: "2026-11-12T14:36:28Z"
+updated_at: "2026-11-16T11:41:09Z"
 ---
 
 # 库尔斯沙嘴 / Curonian Spit

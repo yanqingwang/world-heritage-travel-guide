@@ -2,7 +2,7 @@
 id: "cn-332"
 dataset: "china_5a"
 name_zh: "池州市九华山风景区"
-name_en: "Jiuhuashan Scenic Area"
+name_en: "Mount Jiuhua"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,18 +13,12 @@ province_en: "Anhui"
 city_en: "Chizhou"
 lat: 30.483187
 lon: 117.806842
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 池州市九华山风景区 / Jiuhuashan Scenic Area
+# 池州市九华山风景区 / Mount Jiuhua
 
 > 安徽省 · 池州市 · 宗教文化
-
-## 图片 / Images
-
-![Jiuhuashan yunhai.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jiuhuashan_yunhai.JPG/1280px-Jiuhuashan_yunhai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiuhuashan yunhai.JPG · Public domain*
 
 ## 简介 / Introduction
 
@@ -34,9 +28,7 @@ updated_at: "2026-11-10T23:01:47Z"
 
 ### English
 
-Jiuhua Mountain is a mountainous national scenic spot featuring Buddhist culture and natural and cultural scenery. In the scenic area, there are many beautiful peaks and strange rocks. The nine main peaks are like nine lotus flowers, each with its own charm, forming a fresh and natural landscape painting.
-
-*English introduction: machine translation.*
+Mount Jiuhua (simplified Chinese: 九华山; traditional Chinese: 九華山; pinyin: Jǐuhuá Shān; lit. 'Nine Glorious Mountains') located in Chizhou, Anhui Province in China is an important Buddhist site and natural scenic spot. It is one of the four famous Buddhist mountains in China, one of the first batch of 5A level scenic spots in China, one of the first batch of natural and cultural heritage sites in China, and the main scenic spot of "two mountains and one lake" (Jiuhua Mountain, Taiping Lake, Huangshan) tourism development strategy in Anhui Province. The planned area of the scenic spot is 120 square kilometers, and the protected area is 174 square kilometers, which is composed of 11 scenic spots.
 
 ## 交通 / Transport
 
@@ -59,7 +51,7 @@ Jiuhua Mountain is a mountainous national scenic spot featuring Buddhist culture
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

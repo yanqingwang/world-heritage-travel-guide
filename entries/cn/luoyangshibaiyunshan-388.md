@@ -13,22 +13,12 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 33.744304
 lon: 111.880617
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 洛阳市白云山景区 / Baiyunshan Scenic Area
 
 > 河南省 · 洛阳市 · 地质奇观
-
-## 图片 / Images
-
-![State Council Gazette - 2020 - Issue 14.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/State_Council_Gazette_-_2020_-_Issue_14.pdf/page1-960px-State_Council_Gazette_-_2020_-_Issue_14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2020 - Issue 14.pdf · General Office of the State Council · Public domain*
-
-![河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf · 河南省人民政府 People's Government of Henan Province · Public domain*
 
 ## 简介 / Introduction
 

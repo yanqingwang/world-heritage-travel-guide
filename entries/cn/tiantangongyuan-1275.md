@@ -13,34 +13,12 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.885038
 lon: 116.428525
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 天坛公园 / Temple of Heaven
 
 > 北京市 · 东城区 · 宗教文化
-
-## 图片 / Images
-
-![Temple of Heaven 20160323 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Temple_of_Heaven_20160323_01.jpg/1280px-Temple_of_Heaven_20160323_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Temple of Heaven 20160323 01.jpg · Shujianyang · CC BY-SA 4.0*
-
-![Manchu Version of the Tablet of Fasting, Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231336).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Manchu_Version_of_the_Tablet_of_Fasting%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231336%29.jpg/1280px-Manchu_Version_of_the_Tablet_of_Fasting%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Manchu Version of the Tablet of Fasting, Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231336).jpg · MiiCii · CC BY-SA 4.0*
-
-![Plaque of "Jingtian" (Revering Heaven), Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231335).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Plaque_of_%22Jingtian%22_%28Revering_Heaven%29%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231335%29.jpg/1280px-Plaque_of_%22Jingtian%22_%28Revering_Heaven%29%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Plaque of "Jingtian" (Revering Heaven), Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231335).jpg · MiiCii · CC BY-SA 4.0*
-
-![Taiyuan Gate, Temple of Heaven, Dongcheng District, Beijing (202602231430).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Taiyuan_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231430%29.jpg/1280px-Taiyuan_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231430%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Taiyuan Gate, Temple of Heaven, Dongcheng District, Beijing (202602231430).jpg · MiiCii · CC BY-SA 4.0*
-
-![Zhaoheng Gate, Temple of Heaven, Dongcheng District, Beijing (202602231405).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zhaoheng_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231405%29.jpg/1280px-Zhaoheng_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zhaoheng Gate, Temple of Heaven, Dongcheng District, Beijing (202602231405).jpg · MiiCii · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,34 +13,12 @@ province_en: "Chongqing"
 city_en: "Dazu County"
 lat: 29.718162
 lon: 105.717461
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 大足石刻景区 / Dazu Rock Carvings
 
 > 重庆市 · 大足县 · 石窟艺术
-
-## 图片 / Images
-
-![大足石刻.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB.JPG/1280px-%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*大足石刻.JPG · Gisling · CC BY-SA 3.0*
-
-![中国石窟寺考古中长期计划（2021～2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E7%AA%9F%E5%AF%BA%E8%80%83%E5%8F%A4%E4%B8%AD%E9%95%BF%E6%9C%9F%E8%AE%A1%E5%88%92%EF%BC%882021%EF%BD%9E2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E4%B8%AD%E5%9B%BD%E7%9F%B3%E7%AA%9F%E5%AF%BA%E8%80%83%E5%8F%A4%E4%B8%AD%E9%95%BF%E6%9C%9F%E8%AE%A1%E5%88%92%EF%BC%882021%EF%BD%9E2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中国石窟寺考古中长期计划（2021～2035年）.pdf · 国家文物局 · Public domain*
-
-![重庆市大足石刻保护条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E9%87%8D%E5%BA%86%E5%B8%82%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%87%8D%E5%BA%86%E5%B8%82%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*重庆市大足石刻保护条例.pdf · Chongqing Municipal People's Congress Standing Committee · Public domain*
-
-![Dazu Rock Carvings (54067326757).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dazu_Rock_Carvings_%2854067326757%29.jpg/1280px-Dazu_Rock_Carvings_%2854067326757%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Dazu Rock Carvings (54067326757).jpg · xiquinhosilva · CC BY 2.0*
-
-![Dazu Rock Carvings (54068197631).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dazu_Rock_Carvings_%2854068197631%29.jpg/1280px-Dazu_Rock_Carvings_%2854068197631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Dazu Rock Carvings (54068197631).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 

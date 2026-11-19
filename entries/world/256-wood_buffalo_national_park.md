@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(ix)(x)"
 lat: 59.3833
 lon: -112.983
-updated_at: "2026-11-12T14:36:22Z"
+updated_at: "2026-11-16T11:41:05Z"
 ---
 
 # 伍德布法罗国家公园 / Wood Buffalo National Park

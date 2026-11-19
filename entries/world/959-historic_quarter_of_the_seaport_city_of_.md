@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)"
 lat: -33.04063889
 lon: -71.628
-updated_at: "2026-11-12T14:36:27Z"
+updated_at: "2026-11-16T11:41:08Z"
 ---
 
 # 瓦尔帕莱索港口城市历史区 / Historic Quarter of the Seaport City of Valparaíso
@@ -61,10 +61,10 @@ La ciudad colonial de Valparaíso constituye un ejemplo notable del desarrollo u
 
 ## 交通 / Transport
 
-- ✈ **Comodoro Arturo Merino Benítez International Airport (SCL)** — 87.6 km
+- ✈ **Comodoro Arturo Merino Benítez International Airport (SCL)** — 86.7 km
 - ✈ **Governor Francisco Gabrielli International Airport (MDZ)** — 265.6 km
 - ✈ **Domingo Faustino Sarmiento Airport (UAQ)** — 343.0 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **19023.8 km**
+- ✈ 距北京直线距离 / great-circle from Beijing: **19023.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

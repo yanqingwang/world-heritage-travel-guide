@@ -2,7 +2,7 @@
 id: "cn-1153"
 dataset: "china_5a"
 name_zh: "西宁市塔尔寺景区"
-name_en: "Kumbum Monastery"
+name_en: "Taersi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Qinghai"
 city_en: "Xining"
 lat: 36.498621
 lon: 101.575088
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 西宁市塔尔寺景区 / Kumbum Monastery
+# 西宁市塔尔寺景区 / Taersi Scenic Area
 
 > 青海省 · 西宁市 · 石窟艺术
-
-## 图片 / Images
-
-![Kumbummonastery.jpg](https://upload.wikimedia.org/wikipedia/commons/2/29/Kumbummonastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Kumbummonastery.jpg · The original uploader was Blofeld of SPECTRE at English Wikipedia . · CC BY-SA 3.0*
-
-![A Temple in Kumbum Monastery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_Temple_in_Kumbum_Monastery.jpg/1280px-A_Temple_in_Kumbum_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*A Temple in Kumbum Monastery.jpg · Charlie fong · CC BY-SA 4.0*
-
-![Kumbum Monastery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kumbum_Monastery.jpg/1280px-Kumbum_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kumbum Monastery.jpg · xiquinhosilva · CC BY 2.0*
-
-![Kumbum monastery, small temple roof, Qinghai province, China.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kumbum_monastery%2C_small_temple_roof%2C_Qinghai_province%2C_China.png/1280px-Kumbum_monastery%2C_small_temple_roof%2C_Qinghai_province%2C_China.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kumbum monastery, small temple roof, Qinghai province, China.png · Wikiwakhan · CC0*
-
-![Kumbum monastery roof, Qinghai province, China.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Kumbum_monastery_roof%2C_Qinghai_province%2C_China.png/1280px-Kumbum_monastery_roof%2C_Qinghai_province%2C_China.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kumbum monastery roof, Qinghai province, China.png · Wikiwakhan · CC0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Kumbum Monastery (Tibetan: སྐུ་འབུམ་བྱམས་པ་གླིང་, THL Kumbum Jampa Ling), also called Ta'er Temple, is a Tibetan gompa in Lusar, Xining, Qinghai, China. It was founded in 1583 in a narrow valley close to the village of Lusar in the historical Tibetan region of Amdo. Its superior monastery is Drepung Monastery, immediately to the west of Lhasa. It is ranked in importance as second only to Lhasa.
+Kumbum Temple, also known as Pagoda Temple, was founded in the 10th year of Hongwu in the Ming Dynasty. It is one of the six major monasteries of the Gelug Sect (Yellow Sect) of Tibetan Buddhism in China and the center of Tibetan Buddhism activities in northwest China. Butter flowers, murals and embroidery are known as the "three unique arts of Kumbum Temple". The temple also houses many Buddhist classics and academic monographs on history, literature, philosophy, medicine, legislation, etc. The annual Buddhist activities "Four Dharma Assemblies" held in Kumbum Monastery are also very lively.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,7 +54,7 @@ Kumbum Monastery (Tibetan: སྐུ་འབུམ་བྱམས་པ་ག�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

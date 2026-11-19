@@ -10,8 +10,8 @@
  "city_zh": "黔东南苗族侗族自治州",
  "city_en": "Qiandongnanmiaozudongzu Autonomous Prefecture",
  "name_zh": "黔东南州镇远县镇远古城旅游景区",
- "name_en": "Tianhougong (zhenyuanxian) Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Zhenyuan railway station",
+ "name_en_source": "wikipedia",
  "slug": "qiandongnanzhouzhenyuanxianzhenyuangucheng-1300",
  "lat": 27.055783,
  "lon": 108.42516,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "镇远古镇位于舞阳河畔，北岸为旧府城，南岸为旧卫城，两城池皆为明代所建，现尚存部分城墙和城门。城内外古建筑、传统民居、历史码头数量颇多。镇远历史悠久，自秦昭王三十年(公元前277年)设县开始至今已有近2300年的历史，其元代和清代为道、府所在地达700多年之久。",
- "intro_en": "Zhenyuan Ancient Town is located on the bank of Wuyang River, with the old Fucheng on the north bank and the old Acropolis on the south bank. Both cities were built in the Ming Dynasty, and some of the city walls and gates still exist. There are a lot of ancient buildings, traditional houses, and historical docks inside and outside the city. Zhenyuan has a long history. It has a history of nearly 2,300 years since the county was established in the 30th year of King Zhao of Qin (277 BC). It has been the seat of Taoism and government for more than 700 years in the Yuan and Qing dynasties.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Zhenyuan railway station (simplified Chinese: 镇远站; traditional Chinese: 鎮遠站; pinyin: Zhènyuǎn Zhàn) is a railway station located in Zhenyuan County, Guizhou, China, on the Shanghai–Kunming railway line, which are operated by China Railway Chengdu Group.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -109,10 +109,11 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -131,7 +132,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -142,16 +143,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/天后宫 (镇远县)"
+   "url": "https://zh.wikipedia.org/wiki/镇远站"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z",
- "admission": "partial",
- "admission_note_zh": "古城免费；青龙洞、游船等另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

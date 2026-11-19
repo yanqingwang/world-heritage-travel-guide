@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)"
 lat: 34.390361111
 lon: 47.435888888
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 比索顿古迹 / Bisotun

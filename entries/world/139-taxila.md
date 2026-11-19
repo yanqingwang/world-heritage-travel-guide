@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)(vi)"
 lat: 33.745833333
 lon: 72.7875
-updated_at: "2026-11-12T14:36:21Z"
+updated_at: "2026-11-16T11:41:04Z"
 ---
 
 # 塔克希拉 / Taxila

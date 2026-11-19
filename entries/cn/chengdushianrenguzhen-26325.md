@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 30.510789
 lon: 103.63057
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 成都市安仁古镇景区 / Chengdu
@@ -37,15 +37,15 @@ Chengdu is the capital city of the Chinese province of Sichuan. With a populatio
 - ✈ **Leshan Airport (LSG)** — 119.8 km
 - 🚉 **大邑** — 11.0 km
 - 🚉 **崇州** — 12.3 km
-- 🚉 **王泗镇（预留）** — 12.4 km
+- 🚉 **羊马** — 17.1 km
 
 ## 附近酒店 / Nearby hotels
 
 - **成都安仁福朋喜来登酒店** — 1.5 km — chain — Four Points by Sheraton Chengdu, Anren · Four Points by Sheraton
-- **金桂公馆酒店** — 0.7 km — hotel — Jingui Residence Hotel
 - **新视窗假日酒店** — 13.0 km — chain
+- **成都温江戴斯温德姆酒店** — 23.9 km — chain — Days Hotel by Wyndham Chengdu Wenjiang · Days Inn
+- **金桂公馆酒店** — 0.7 km — hotel — Jingui Residence Hotel
 - **大邑塞尚·庄园酒店** — 13.9 km — hotel
-- **Umay Boutique Hotel** — 18.9 km — hotel — Umay Boutique Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

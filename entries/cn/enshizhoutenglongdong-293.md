@@ -13,26 +13,12 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 30.340149
 lon: 108.992446
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 恩施州腾龙洞景区 / Tenglong Cave
 
 > 湖北省 · 恩施土家族苗族自治州 · 地质奇观
-
-## 图片 / Images
-
-![Tenglong Cave.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tenglong_Cave.jpg/1280px-Tenglong_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tenglong Cave.jpg · Whisper of the heart · CC BY-SA 4.0*
-
-![CADAL09012255 建設.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/CADAL09012255_%E5%BB%BA%E8%A8%AD.djvu/page1-1280px-CADAL09012255_%E5%BB%BA%E8%A8%AD.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09012255 建設.djvu · Public domain*
-
-![續修四庫全書第1609冊.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%E7%BA%8C%E4%BF%AE%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%AC%AC1609%E5%86%8A.djvu/page1-1280px-%E7%BA%8C%E4%BF%AE%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%AC%AC1609%E5%86%8A.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*續修四庫全書第1609冊.djvu · various · Public domain*
 
 ## 简介 / Introduction
 

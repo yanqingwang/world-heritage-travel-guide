@@ -13,34 +13,12 @@ province_en: "Tibet"
 city_en: "Linzhi Prefecture"
 lat: 30.014093
 lon: 93.974339
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 林芝市巴松措景区 / Pagsum Lake
 
 > 西藏自治区 · 林芝地区 · 地质奇观
-
-## 图片 / Images
-
-![Basum Lake 01.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7b/Basum_Lake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Basum Lake 01.jpg · Gao from Beijing, China · CC BY 2.0*
-
-![CADAL16051024 通問報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/CADAL16051024_%E9%80%9A%E5%95%8F%E5%A0%B1.djvu/page1-1280px-CADAL16051024_%E9%80%9A%E5%95%8F%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL16051024 通問報.djvu · Public domain*
-
-![中华人民共和国全国人民代表大会常务委员会公报1988年第2号.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A51988%E5%B9%B4%E7%AC%AC2%E5%8F%B7.pdf/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A51988%E5%B9%B4%E7%AC%AC2%E5%8F%B7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中华人民共和国全国人民代表大会常务委员会公报1988年第2号.pdf · General Office of the Standing Committee of the National People's Congress · Public domain*
-
-![西藏自治区人民政府关于公布第六批自治区文物保护单位的通知（藏政发〔2013〕113号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%E8%A5%BF%E8%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%97%8F%E6%94%BF%E5%8F%91%E3%80%942013%E3%80%95113%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E8%A5%BF%E8%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%97%8F%E6%94%BF%E5%8F%91%E3%80%942013%E3%80%95113%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*西藏自治区人民政府关于公布第六批自治区文物保护单位的通知（藏政发〔2013〕113号）.pdf · 西藏自治区人民政府 · Public domain*
-
-![BasumTso-wiki.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/BasumTso-wiki.jpg/1280px-BasumTso-wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*BasumTso-wiki.jpg · Kosigrim at English Wikipedia · Public domain*
 
 ## 简介 / Introduction
 

@@ -10,8 +10,8 @@
  "city_zh": "博尔塔拉蒙古自治州",
  "city_en": "Bortala Mongol Autonomous Prefecture",
  "name_zh": "博尔塔拉蒙古自治州赛里木湖景区",
- "name_en": "Sailimuhu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Sayram Lake",
+ "name_en_source": "wikipedia",
  "slug": "boertalamengguzizhizhousailimuhu-316",
  "lat": 44.612755,
  "lon": 81.401139,
@@ -22,18 +22,9 @@
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
  "intro_zh": "赛里木湖景区是新疆海拔最高、面积最大的高山湖泊，以湖泊、湿地、草原、森林、雪山等自然生态景观为特色。景区共划分为环湖风光游览区域、草原游牧风情区域、生态景观保育区、天鹅及其他珍稀鸟类栖息地保护区、旅游综合服务区、原生态环境保持区6个游览片区，有“西来之意境，世外之灵壤”的美誉。",
- "intro_en": "Sailimu Lake Scenic Area is the highest mountain lake in Xinjiang with the highest altitude and largest area. It is characterized by natural ecological landscapes such as lakes, wetlands, grasslands, forests, and snow-capped mountains. The scenic spot is divided into six tourist areas: the lake-circuit scenic area, the grassland nomadic style area, the ecological landscape conservation area, the swan and other rare bird habitat protection area, the comprehensive tourism service area, and the original ecological environment preservation area. It has the reputation of \"the artistic conception from the West, the spiritual soil of the world\".",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Xinjiang_DSC_9301_%285303314254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Xinjiang DSC 9301 (5303314254).jpg",
-   "author": "lwtt93 from Shanghai, China",
-   "license": "CC BY 2.0",
-   "credit": "DSC_9301",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_9301_%285303314254%29.jpg"
-  }
- ],
+ "intro_en": "Sairam Lake (Chinese: 赛里木湖; pinyin: Sàilǐmù hú; Uyghur: سايرام كۆلى; Kazakh: Сайрам көлі, romanized: Sairam köli; Mongolian: Сайрам нуур, romanized: Sairam nuur), also known as Santai Haizi (Chinese: 三台海子) or historically the \"Clean Sea\" (净海), is an endorheic freshwater lake in the northern Tianshan Mountains at Börtala Mongol Autonomous Prefecture, Xinjiang, China, less than 50 km (31 mi) from the border with Kazakhstan. The name Sayram originally derives from Kazakh, meaning \"blessing\". The lake is the largest (458 km2 or 177 sq mi) and also the highest (at 2,070 m or 6,790 ft) alpine lake in Xinjiang, largely filled by glacial meltwater, residual precipitation from the Eurasian westerlies and runoffs from the surrounding mountain chains, as well as some groundwater springing and seepage. It was designated an AAAA National Scenic Area in 2010 and was upgraded to an AAAAA National Scenic Area in April 2021.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -103,10 +94,11 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -125,7 +117,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -143,9 +135,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:47Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

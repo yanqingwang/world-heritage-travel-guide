@@ -10,8 +10,8 @@
  "city_zh": "贵阳市",
  "city_en": "Guiyang City",
  "name_zh": "贵阳市花溪区青岩古镇景区",
- "name_en": "Guiyangshihuaxiquqingyanguzhen Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Qingyan",
+ "name_en_source": "wikipedia",
  "slug": "guiyangshihuaxiquqingyanguzhen-1325",
  "lat": 26.337982,
  "lon": 106.692629,
@@ -22,8 +22,8 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "青岩古镇建于明洪武十年(1378年)，原为军事要塞 。古镇内设计精巧、工艺精湛的明清古建筑交错密布。镇内有青岩教案遗址、赵状元府第、平刚先生故居、红军长征作战指挥部等景点。",
- "intro_en": "Qingyan Ancient Town was built in the 10th year of Hongwu in the Ming Dynasty (1378) and was originally a military fortress. The ancient town is densely packed with ancient buildings from the Ming and Qing dynasties with exquisite designs and exquisite craftsmanship. In the town, there are scenic spots such as Qingyan Missionary Plan Site, Zhao Zhuangyuan's Mansion, Mr. Ping Gang's Former Residence, and the Red Army's Long March Operation Headquarters.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Qingyan (Chinese: 青岩镇) is a town in Huaxi District of Guiyang, Guizhou, China. As of the 2017 census it had a population of 30,707 and an area of 92.3-square-kilometre (35.6 sq mi). It is surrounded by Yanlou Township and Maling Township on the west, Qiantao Township on the east, and Huishui County on the south. Eleven ethnic groups, including Han, Miao, Bouyei, Dong and Zhuang, live in the town.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "https://m.ly.com/scenery/scenerybddetail-2852.html?spm=5.16045.16054.2&fx=1&refid=167544761",
@@ -155,10 +155,11 @@
  "hotels_nearby_30km": 35,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -177,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -188,16 +189,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/花溪区各级文物保护单位列表"
+   "url": "https://zh.wikipedia.org/wiki/青岩镇"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

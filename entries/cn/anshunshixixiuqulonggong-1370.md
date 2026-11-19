@@ -2,7 +2,7 @@
 id: "cn-1370"
 dataset: "china_5a"
 name_zh: "安顺市西秀区龙宫景区"
-name_en: "Anshunshixixiuqulonggong Scenic Area"
+name_en: "Anshun West railway station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guizhou"
 city_en: "Anshun City"
 lat: 26.112673
 lon: 105.88403
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
-# 安顺市西秀区龙宫景区 / Anshunshixixiuqulonggong Scenic Area
+# 安顺市西秀区龙宫景区 / Anshun West railway station
 
 > 贵州省 · 安顺市 · 宗教文化
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Dragon Palace Scenic Area integrates various karst geological and landform landscapes such as caves, canyons, waterfalls, peak forests, cliffs, streams, stone forests, funnels, and underground rivers. It is one of the scenic spots with the most concentrated display of karst landforms.
-
-*English introduction: machine translation.*
+Anshun West railway station (simplified Chinese: 安顺西站; traditional Chinese: 安順西站; pinyin: Ānshùn Xīzhàn) is a railway station of Shanghai–Kunming high-speed railway in Guizhou, People's Republic of China.
 
 ## 交通 / Transport
 
@@ -54,10 +52,10 @@ Dragon Palace Scenic Area integrates various karst geological and landform lands
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西街街道 (安顺市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/安顺西站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Huzhou City"
 lat: 30.874788
 lon: 120.437508
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 湖州市南浔古镇景区 / Nanxun

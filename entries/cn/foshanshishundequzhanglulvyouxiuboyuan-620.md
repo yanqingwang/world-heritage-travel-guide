@@ -2,7 +2,7 @@
 id: "cn-620"
 dataset: "china_5a"
 name_zh: "佛山市顺德区长鹿旅游休博园"
-name_en: "Foshanshishundequdiyizhongxue"
+name_en: "AAAAA Tourist Attractions of China"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.884408
 lon: 113.295229
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 佛山市顺德区长鹿旅游休博园 / Foshanshishundequdiyizhongxue
+# 佛山市顺德区长鹿旅游休博园 / AAAAA Tourist Attractions of China
 
 > 广东省 · 佛山市 · 主题乐园
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-10T23:01:46Z"
 
 ### English
 
-Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded in 2001 and is now a national agricultural tourism demonstration site. The entire farm is mainly composed of five major parts: "Screaming Paradise", "Dynamic Water Play Area", "Farmhouse Theme Park", "Fairy Tale Animal World" and "Changlu Leisure Resort".
-
-*English introduction: machine translation.*
+AAAAA, or 5A (Chinese: 国家5A级旅游景区; pinyin: Guójiā Wǔ "A" jí Lǚyóu Jǐngqū), is the highest level in the rating categories used by the Ministry of Culture and Tourism. It is awarded to the most important and best-maintained tourist attractions in the People's Republic of China. As of 2025, there are 359 tourist attractions listed as 5A.
 
 ## 交通 / Transport
 
@@ -54,10 +52,10 @@ Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/佛山市顺德区第一中学)
+- [Wikipedia](https://zh.wikipedia.org/wiki/国家5A级旅游景区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,22 +13,12 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.004505
 lon: 115.431843
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 赣州市三百山景区 / Sanbaishan Scenic Area
 
 > 江西省 · 赣州市 · 地质奇观
-
-## 图片 / Images
-
-![CADAL16053804 福建省政府公報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/CADAL16053804_%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL16053804_%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL16053804 福建省政府公報.djvu · Public domain*
-
-![第六批江西省文物保护单位名单.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*第六批江西省文物保护单位名单.pdf · 江西省人民政府 · Public domain*
 
 ## 简介 / Introduction
 

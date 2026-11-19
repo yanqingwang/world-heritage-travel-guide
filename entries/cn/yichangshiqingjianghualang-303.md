@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.474394
 lon: 111.14602
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 宜昌市清江画廊景区 / Qing River
 
 > 湖北省 · 宜昌市 · 地质奇观
-
-## 图片 / Images
-
-![Qingjiang Gallery 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Qingjiang_Gallery_03.jpg/1280px-Qingjiang_Gallery_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qingjiang Gallery 03.jpg · Fxqf · CC BY-SA 4.0*
-
-![Along the River 7-119-3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Along_the_River_7-119-3.jpg/1280px-Along_the_River_7-119-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Along the River 7-119-3.jpg · Chen Mei (陳枚), Sun Hu (孫祜), Jin Kun (金昆), Dai Hong (戴洪) and Cheng Zhidao (程志道), five court painters under the Qianlong E · Public domain*
-
-![Along the River During the Qingming Festival (Qing Court Version).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Along the River During the Qingming Festival (Qing Court Version).jpg · Five artists from the Painting Academy and active at the Qing court: Chen Mei (陳枚) Sun Hu (孫祜) Jin Kun (金昆) Dai Hong (戴洪 · Public domain*
-
-![Along the River During the Qingming Festival (Qing Court Version) 04a.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29_04a.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29_04a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Along the River During the Qingming Festival (Qing Court Version) 04a.jpg · Five artists from the Painting Academy and active at the Qing court: Chen Mei (陳枚) Sun Hu (孫祜) Jin Kun (金昆) Dai Hong (戴洪 · CC BY-SA 4.0*
-
-![Along the River During the Qingming Festival (Qing Court Version) 08a.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29_08a.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29_08a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Along the River During the Qingming Festival (Qing Court Version) 08a.jpg · Five artists from the Painting Academy and active at the Qing court: Chen Mei (陳枚) Sun Hu (孫祜) Jin Kun (金昆) Dai Hong (戴洪 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

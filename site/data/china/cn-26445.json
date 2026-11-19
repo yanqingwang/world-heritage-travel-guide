@@ -97,17 +97,6 @@
  },
  "hotels": [
   {
-   "name": "banyan tree tengchong",
-   "name_en": "banyan tree tengchong",
-   "stars": null,
-   "brand": null,
-   "lat": 25.0835075,
-   "lon": 98.5744893,
-   "distance_km": 13.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "腾冲金玉堂云景度假酒店",
    "name_en": null,
    "stars": null,
@@ -148,6 +137,17 @@
    "lat": 25.0381414,
    "lon": 98.488996,
    "distance_km": 3.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汶桥酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0313862,
+   "lon": 98.508082,
+   "distance_km": 4.8,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -195,9 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

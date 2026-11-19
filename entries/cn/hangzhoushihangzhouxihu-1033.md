@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 30.228932
 lon: 120.12792
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 杭州市杭州西湖风景区 / West Lake
 
 > 浙江省 · 杭州市 · 山地风光
-
-## 图片 / Images
-
-![West Lake - Hangzhou, China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Lake_-_Hangzhou%2C_China.jpg/1280px-West_Lake_-_Hangzhou%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake - Hangzhou, China.jpg · Louisa Salazar · CC BY-SA 3.0*
-
-![West Lake 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/West_Lake_01.jpg/1280px-West_Lake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake 01.jpg · Cay9127 · CC0*
-
-![West Lake 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/West_Lake_02.jpg/1280px-West_Lake_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake 02.jpg · Cay9127 · CC0*
-
-![West Lake 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/West_Lake_03.jpg/1280px-West_Lake_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake 03.jpg · Cay9127 · CC0*
-
-![West Lake 20240729.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/West_Lake_20240729.jpg/1280px-West_Lake_20240729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*West Lake 20240729.jpg · HoweyYuan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

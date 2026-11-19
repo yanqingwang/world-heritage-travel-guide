@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)(iv)"
 lat: 43.899305555
 lon: 22.186166666
-updated_at: "2026-11-12T14:36:30Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 贾姆济格勒－罗慕利亚纳的加莱里乌斯宫 / Gamzigrad-Romuliana, Palace of Galerius

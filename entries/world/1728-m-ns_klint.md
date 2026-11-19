@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(viii)"
 lat: 54.964167
 lon: 12.552222
-updated_at: "2026-11-12T14:36:33Z"
+updated_at: "2026-11-16T11:41:12Z"
 ---
 
 # 默恩崖 / Møns Klint

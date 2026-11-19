@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-08T11:49:00Z",
+ "fetched_at": "2026-11-16T11:30:40Z",
  "source": "OurAirports (public domain)",
- "count": 4008,
+ "count": 4007,
  "airports": [
   {
    "name": "Utirik Airport",
@@ -3082,12 +3082,12 @@
    "type": "medium_airport"
   },
   {
-   "name": "Penticton Airport",
+   "name": "Penticton Regional Airport",
    "iata": "YYF",
    "city": "Penticton",
    "country": "CA",
-   "lat": 49.46310043334961,
-   "lon": -119.60199737548828,
+   "lat": 49.4631,
+   "lon": -119.601997,
    "type": "medium_airport"
   },
   {
@@ -24632,8 +24632,8 @@
    "iata": "SCL",
    "city": "Santiago",
    "country": "CL",
-   "lat": -33.393001556396484,
-   "lon": -70.78579711914062,
+   "lat": -33.390252,
+   "lon": -70.794697,
    "type": "large_airport"
   },
   {
@@ -25436,15 +25436,6 @@
    "lat": -17.956151,
    "lon": -67.075829,
    "type": "large_airport"
-  },
-  {
-   "name": "Puerto Rico Airport",
-   "iata": "PUR",
-   "city": "Puerto Rico/Manuripi",
-   "country": "BO",
-   "lat": -11.107663,
-   "lon": -67.551155,
-   "type": "small_airport"
   },
   {
    "name": "Capitán Av. Salvador Ogaya G. airport",

@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Chengde"
 lat: 40.840497
 lon: 117.594811
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 承德市金山岭长城景区 / Jinshanling
 
 > 河北省 · 承德市 · 历史遗址
-
-## 图片 / Images
-
-![Jinshangling2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jinshangling2.jpg/1280px-Jinshangling2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinshangling2.jpg · Georgio · CC BY-SA 3.0*
-
-![20090529 Great Wall 8185.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/1280px-20090529_Great_Wall_8185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090529 Great Wall 8185.jpg · Jakub Hałun · CC BY-SA 3.0*
-
-![20090529 Great Wall Jinshanling 0903 8233.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090529_Great_Wall_Jinshanling_0903_8233.jpg/1280px-20090529_Great_Wall_Jinshanling_0903_8233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090529 Great Wall Jinshanling 0903 8233.jpg · Jakub Hałun · CC BY-SA 4.0*
-
-![Jinshanling-facing-east-2019-Luka-Peternel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jinshanling-facing-east-2019-Luka-Peternel.jpg/1280px-Jinshanling-facing-east-2019-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinshanling-facing-east-2019-Luka-Peternel.jpg · Luka Peternel · CC BY-SA 4.0*
-
-![Jinshanling-facing-west-2019-Luka-Peternel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Jinshanling-facing-west-2019-Luka-Peternel.jpg/1280px-Jinshanling-facing-west-2019-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinshanling-facing-west-2019-Luka-Peternel.jpg · Luka Peternel · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

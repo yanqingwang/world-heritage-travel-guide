@@ -13,18 +13,12 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.868531
 lon: 125.302462
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 长春市长影世纪城景区 / Zhangyingshijichengzhan Scenic Area
 
 > 吉林省 · 长春市 · 主题乐园
-
-## 图片 / Images
-
-![长影世纪城轻轨站 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%E9%95%BF%E5%BD%B1%E4%B8%96%E7%BA%AA%E5%9F%8E%E8%BD%BB%E8%BD%A8%E7%AB%99_-_panoramio.jpg/1280px-%E9%95%BF%E5%BD%B1%E4%B8%96%E7%BA%AA%E5%9F%8E%E8%BD%BB%E8%BD%A8%E7%AB%99_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长影世纪城轻轨站 - panoramio.jpg · plump · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -59,7 +53,7 @@ Changying Movie Century City is a special effects movie theme park. The entertai
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, ja
 
 ## 来源 / Sources
 

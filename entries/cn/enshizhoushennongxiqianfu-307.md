@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 31.262986
 lon: 110.323423
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 恩施州神农溪纤夫文化旅游区 / Shennong Stream
 
 > 湖北省 · 恩施土家族苗族自治州 · 历史遗址
-
-## 图片 / Images
-
-![Shennong Xi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Shennong_Xi.JPG/1280px-Shennong_Xi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shennong Xi.JPG · Peter Tritthart · CC BY 3.0*
-
-![Sarg am Shennong Xi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sarg_am_Shennong_Xi.JPG/1280px-Sarg_am_Shennong_Xi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sarg am Shennong Xi.JPG · Peter Tritthart · CC BY 3.0*
-
-![Shennong-Stream - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Shennong-Stream_-_panoramio.jpg/1280px-Shennong-Stream_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shennong-Stream - panoramio.jpg · Georg Denda · CC BY-SA 3.0*
-
-![Shennong Bootsfahrt.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Shennong_Bootsfahrt.jpg/1280px-Shennong_Bootsfahrt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shennong Bootsfahrt.jpg · chricki · CC BY-SA 3.0*
-
-![Yangtze shennong stream tour174 April 29, 2006.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Yangtze_shennong_stream_tour174_April_29%2C_2006.jpg/1280px-Yangtze_shennong_stream_tour174_April_29%2C_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yangtze shennong stream tour174 April 29, 2006.jpg · Britrob · CC BY 2.0*
 
 ## 简介 / Introduction
 

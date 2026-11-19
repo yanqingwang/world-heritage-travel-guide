@@ -13,34 +13,12 @@ province_en: "Hunan"
 city_en: "Yueyang City"
 lat: 29.383944
 lon: 113.101191
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 岳阳市岳阳楼-君山岛景区 / Yueyang Tower
 
 > 湖南省 · 岳阳市 · 古镇村落
-
-## 图片 / Images
-
-![Frontal view of Yueyang Tower, Hunan, China1.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/Frontal_view_of_Yueyang_Tower%2C_Hunan%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Frontal view of Yueyang Tower, Hunan, China1.jpg · Huangdan2060 · CC0*
-
-![211905-1.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0a/211905-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*211905-1.jpg · CC BY-SA 3.0*
-
-![Yueyang Tower, photographed from the side.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Yueyang_Tower%2C_photographed_from_the_side.jpg/1280px-Yueyang_Tower%2C_photographed_from_the_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yueyang Tower, photographed from the side.jpg · Huangdan2060 · CC0*
-
-![Yueyang Tower in 1804.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Yueyang_Tower_in_1804.jpg/1280px-Yueyang_Tower_in_1804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yueyang Tower in 1804.jpg · 陈玉垣、庄绳武 · Public domain*
-
-![Zhanyue Gate, Yueyang Tower 2016110601.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zhanyue_Gate%2C_Yueyang_Tower_2016110601.jpg/1280px-Zhanyue_Gate%2C_Yueyang_Tower_2016110601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zhanyue Gate, Yueyang Tower 2016110601.jpg · Huangdan2060 · CC BY 3.0*
 
 ## 简介 / Introduction
 

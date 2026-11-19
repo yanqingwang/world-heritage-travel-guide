@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)"
 lat: 52.085333
 lon: 5.147597
-updated_at: "2026-11-12T14:36:28Z"
+updated_at: "2026-11-16T11:41:08Z"
 ---
 
 # 里特维德-施罗德住宅 / Rietveld Schröderhuis (Rietveld Schröder House)

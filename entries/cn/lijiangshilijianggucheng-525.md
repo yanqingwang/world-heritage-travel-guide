@@ -13,34 +13,12 @@ province_en: "Yunnan"
 city_en: "Lijiang"
 lat: 26.871365
 lon: 100.248143
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 丽江市丽江古城景区 / Old Town of Lijiang
 
 > 云南省 · 丽江市 · 古镇村落
-
-## 图片 / Images
-
-![1 lijiang old town 2012a.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1 lijiang old town 2012a.jpg · chensiyuan · CC BY-SA 4.0*
-
-![1 lijiang old town night.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_lijiang_old_town_night.jpg/1280px-1_lijiang_old_town_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1 lijiang old town night.jpg · chensiyuan · CC BY-SA 4.0*
-
-![Lijiang Yunnan China-Firefighting-Equipment-in-Old-Town-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg/1280px-Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lijiang Yunnan China-Firefighting-Equipment-in-Old-Town-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Lijiang Yunnan Doors- in-old-town-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lijiang_Yunnan_Doors-_in-old-town-01.jpg/1280px-Lijiang_Yunnan_Doors-_in-old-town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lijiang Yunnan Doors- in-old-town-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Lijiang Yunnan Heritage-shops-in-old-town-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg/1280px-Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lijiang Yunnan Heritage-shops-in-old-town-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

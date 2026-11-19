@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Taizhou City"
 lat: 32.61842
 lon: 120.092904
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 泰州市溱湖旅游景区 / Qinhu Scenic Area

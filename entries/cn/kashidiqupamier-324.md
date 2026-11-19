@@ -2,7 +2,7 @@
 id: "cn-324"
 dataset: "china_5a"
 name_zh: "喀什地区帕米尔旅游区"
-name_en: "Pamierren Tourist Area"
+name_en: "Pamierhuangjin Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 37.787016
 lon: 75.230587
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
-# 喀什地区帕米尔旅游区 / Pamierren Tourist Area
+# 喀什地区帕米尔旅游区 / Pamierhuangjin Tourist Area
 
 > 新疆维吾尔自治区 · 喀什地区 · 宗教文化
 
@@ -55,5 +55,5 @@ The Pamir Tourist Area in Kashgar Prefecture has a total area of ​​3.1 squar
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/帕米尔人)
+- [Wikipedia](https://zh.wikipedia.org/wiki/帕米尔黄堇)
 - [OpenStreetMap](https://www.openstreetmap.org/)

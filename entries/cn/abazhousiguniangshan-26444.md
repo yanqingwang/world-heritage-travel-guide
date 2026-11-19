@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 31.035123
 lon: 102.818742
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 阿坝州四姑娘山景区 / Mount Siguniang
 
 > 四川省 · 阿坝藏族羌族自治州 · 地质奇观
-
-## 图片 / Images
-
-![The Second Peak of Mt.Siguniang.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Second_Peak_of_Mt.Siguniang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*The Second Peak of Mt.Siguniang.jpg · Zhangmoon618 · CC BY-SA 3.0*
-
-![Yaomei Feng Northface.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Yaomei_Feng_Northface.JPG/1280px-Yaomei_Feng_Northface.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yaomei Feng Northface.JPG · Kogo · CC BY-SA 3.0 de*
-
-![Mount Siguniang 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mount_Siguniang_2.jpg/1280px-Mount_Siguniang_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Siguniang 2.jpg · Johannes Böckh · CC BY-SA 3.0*
-
-![Dujiangyan panorama.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dujiangyan_panorama.jpg/1280px-Dujiangyan_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Dujiangyan panorama.jpg · Thehistorianisaac · CC0*
-
-![四姑娘山景区 Mount Siguniang Scenic Area 27.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_27.jpg/1280px-%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*四姑娘山景区 Mount Siguniang Scenic Area 27.jpg · George N · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -64,8 +42,8 @@ Mount Siguniang (Chinese: 四姑娘山; pinyin: Sìgūniang Shān; lit. 'Mountai
 
 ## 附近酒店 / Nearby hotels
 
-- **悠然牧居智能酒店** — 4.9 km — hotel
 - **MT.YUE Yueshan Holiday Hotel** — 4.9 km — chain
+- **悠然牧居智能酒店** — 4.9 km — hotel
 - **夹金山庄** — 18.9 km — hotel — Jia Jin Villa
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

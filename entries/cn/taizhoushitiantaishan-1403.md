@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 29.163259
 lon: 121.042193
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 台州市天台山景区 / Tiantai Mountain
 
 > 浙江省 · 台州市 · 山地风光
-
-## 图片 / Images
-
-![Sui Dynasty Guoqing Temple Ancient Tower.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG/1280px-Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sui Dynasty Guoqing Temple Ancient Tower.JPG · Jdefriez · CC BY-SA 4.0*
-
-![浙江省人民政府公报2019年第11期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC11%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC11%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第11期.pdf · Zhejiang People's Government · Public domain*
-
-![Cliffs of Tiantai Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cliffs_of_Tiantai_Mountain.jpg/1280px-Cliffs_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cliffs of Tiantai Mountain.jpg · Huangdan2060 · CC0*
-
-![Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG/1280px-Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG · Wu Bin · Public domain*
-
-![Mountainside of Tiantai Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mountainside_of_Tiantai_Mountain.jpg/1280px-Mountainside_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mountainside of Tiantai Mountain.jpg · Huangdan2060 · CC0*
 
 ## 简介 / Introduction
 

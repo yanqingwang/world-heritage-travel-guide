@@ -13,18 +13,12 @@ province_en: "Jiangxi"
 city_en: "Fuzhou"
 lat: 27.702518
 lon: 117.150348
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 抚州市资溪县大觉山景区 / Mount Dajue
 
 > 江西省 · 抚州市 · 山地风光
-
-## 图片 / Images
-
-![第六批江西省文物保护单位名单.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*第六批江西省文物保护单位名单.pdf · 江西省人民政府 · Public domain*
 
 ## 简介 / Introduction
 
@@ -47,11 +41,11 @@ Mount Dajue, also known as Dajue Mountain or Dajueshan, is a mountainous area an
 
 ## 附近酒店 / Nearby hotels
 
+- **圣农假日酒店** — 25.6 km — chain
 - **资溪面包之家大酒店** — 7.2 km — hotel
 - **天福酒店** — 24.5 km — hotel
 - **人头马酒店** — 24.8 km — hotel
 - **温馨大酒店** — 25.2 km — hotel
-- **圣农假日酒店** — 25.6 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

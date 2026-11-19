@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Aksu Prefecture"
 lat: 41.725426
 lon: 80.558971
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 阿克苏地区天山托木尔景区 / Jengish Chokusu
 
 > 新疆维吾尔自治区 · 阿克苏地区 · 草原沙漠
-
-## 图片 / Images
-
-![Jengish Chokusu (Victory Peak, Pik Pobeda), Southern Inylchek Glacier, Tien Shan — Golden Hour.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Jengish_Chokusu_%28Victory_Peak%2C_Pik_Pobeda%29%2C_Southern_Inylchek_Glacier%2C_Tien_Shan_%E2%80%94_Golden_Hour.jpg/1280px-Jengish_Chokusu_%28Victory_Peak%2C_Pik_Pobeda%29%2C_Southern_Inylchek_Glacier%2C_Tien_Shan_%E2%80%94_Golden_Hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jengish Chokusu (Victory Peak, Pik Pobeda), Southern Inylchek Glacier, Tien Shan — Golden Hour.jpg · Maryliflower · CC BY-SA 4.0*
-
-![Jengish Chokusu from BC.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jengish_Chokusu_from_BC.jpg/1280px-Jengish_Chokusu_from_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jengish Chokusu from BC.jpg · Chen Zhao · CC BY 2.0*
-
-![Pik Pobedy and Vazha-Pshavela Peak at sunset from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pik_Pobedy_and_Vazha-Pshavela_Peak_at_sunset_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg/1280px-Pik_Pobedy_and_Vazha-Pshavela_Peak_at_sunset_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pik Pobedy and Vazha-Pshavela Peak at sunset from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg · Maryliflower · CC BY-SA 4.0*
-
-![Pik Pobedy and Vazha-Pshavela Peak in clouds from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Pik_Pobedy_and_Vazha-Pshavela_Peak_in_clouds_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg/1280px-Pik_Pobedy_and_Vazha-Pshavela_Peak_in_clouds_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pik Pobedy and Vazha-Pshavela Peak in clouds from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg · Maryliflower · CC BY-SA 4.0*
-
-![Rock cairn on the South Inylchek Glacier, with Jengish Chokusu (Victory Peak) in the background, Khan Tengri Nature Park, Tien Shan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Rock_cairn_on_the_South_Inylchek_Glacier%2C_with_Jengish_Chokusu_%28Victory_Peak%29_in_the_background%2C_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg/1280px-Rock_cairn_on_the_South_Inylchek_Glacier%2C_with_Jengish_Chokusu_%28Victory_Peak%29_in_the_background%2C_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Rock cairn on the South Inylchek Glacier, with Jengish Chokusu (Victory Peak) in the background, Khan Tengri Nature Park, Tien Shan.jpg · Maryliflower · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qiannanbuyizumiaozu Autonomous Prefecture"
 lat: 25.425822
 lon: 107.892801
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 黔南布依族苗族自治州荔波县樟江景区 / Yupingjiedao (liboxian) Scenic Area

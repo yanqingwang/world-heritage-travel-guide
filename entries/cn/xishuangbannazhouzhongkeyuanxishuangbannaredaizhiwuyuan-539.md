@@ -13,34 +13,12 @@ province_en: "Yunnan"
 city_en: "Xishuangbanna Dai Autonomous Prefecture"
 lat: 21.931604
 lon: 101.262951
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 西双版纳州中科院西双版纳热带植物园 / Xishuangbanna Tropical Botanical Garden
 
 > 云南省 · 西双版纳傣族自治州 · 主题乐园
-
-## 图片 / Images
-
-![Passiflora xishuangbannaensis1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Passiflora_xishuangbannaensis1.jpg/1280px-Passiflora_xishuangbannaensis1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Passiflora xishuangbannaensis1.jpg · Public domain*
-
-![Tropical Botanical Garden, Xishuangbanna - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio.jpg/1280px-Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tropical Botanical Garden, Xishuangbanna - panoramio.jpg · Colin W · CC BY-SA 3.0*
-
-![Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W.jpg/1280px-Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W.jpg · Colin W · CC BY-SA 3.0*
-
-![Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W_%281%29.jpg/1280px-Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W (1).jpg · Colin W · CC BY-SA 3.0*
-
-![Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W_%282%29.jpg/1280px-Tropical_Botanical_Garden%2C_Xishuangbanna_-_panoramio_-_Colin_W_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tropical Botanical Garden, Xishuangbanna - panoramio - Colin W (2).jpg · Colin W · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Xinxiang"
 lat: 35.449525
 lon: 113.518278
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 新乡市宝泉旅游区 / Baoquan Tourist Area

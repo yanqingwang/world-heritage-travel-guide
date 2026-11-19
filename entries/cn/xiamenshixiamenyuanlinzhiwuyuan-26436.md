@@ -13,34 +13,12 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.454028
 lon: 118.116413
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 厦门市厦门园林植物园景区 / Xiamen Botanical Gardens
 
 > 福建省 · 厦门市 · 主题乐园
-
-## 图片 / Images
-
-![Xiamen Botanical Garden6.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Xiamen_Botanical_Garden6.jpg/1280px-Xiamen_Botanical_Garden6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xiamen Botanical Garden6.jpg · 大禾花 · CC BY-SA 4.0*
-
-![Cactii at Botanical Garden, Xiamen.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cactii_at_Botanical_Garden%2C_Xiamen.jpg/1280px-Cactii_at_Botanical_Garden%2C_Xiamen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cactii at Botanical Garden, Xiamen.jpg · Slyronit · CC BY-SA 4.0*
-
-![Photo taken in the "Rainforest" area of Xiamen Botanical Garden, depicting artificially sprayed mist across water.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Photo_taken_in_the_%22Rainforest%22_area_of_Xiamen_Botanical_Garden%2C_depicting_artificially_sprayed_mist_across_water.jpg/1280px-Photo_taken_in_the_%22Rainforest%22_area_of_Xiamen_Botanical_Garden%2C_depicting_artificially_sprayed_mist_across_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Photo taken in the "Rainforest" area of Xiamen Botanical Garden, depicting artificially sprayed mist across water.jpg · Metacladistics · CC BY 4.0*
-
-![The view from the "Banshan viewing platform" inside Xiamen Botanical Garden, looking out over Wanshilian Temple.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_view_from_the_%22Banshan_viewing_platform%22_inside_Xiamen_Botanical_Garden%2C_looking_out_over_Wanshilian_Temple.jpg/1280px-The_view_from_the_%22Banshan_viewing_platform%22_inside_Xiamen_Botanical_Garden%2C_looking_out_over_Wanshilian_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The view from the "Banshan viewing platform" inside Xiamen Botanical Garden, looking out over Wanshilian Temple.jpg · Metacladistics · CC BY 4.0*
-
-![Xiamen Botanical Garden3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Xiamen_Botanical_Garden3.jpg/1280px-Xiamen_Botanical_Garden3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xiamen Botanical Garden3.jpg · 大禾花 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -65,9 +43,9 @@ Xiamen Botanical Garden (XMBG; Chinese: 厦门市园林植物园; pinyin: Xiàm�
 
 - **厦门康莱德酒店** — 3.7 km — star — Conrad Xiamen · 5★ · Hilton
 - **Millenium Harbour View** — 3.9 km — star — 4★
-- **厦门佳逸希尔顿格芮精选酒店** — 2.4 km — chain — Joyze Hotel Xiamen, Curio Collection By Hilton
-- **凯宾斯基大酒店** — 3.2 km — chain
-- **金色四季酒店** — 3.7 km — chain
+- **全季酒店** — 2.2 km — chain — Ji Hotel · 全季酒店
+- **如家酒店** — 2.4 km — chain — Home Inn · 如家酒店
+- **亚朵酒店** — 2.4 km — chain — Atour
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

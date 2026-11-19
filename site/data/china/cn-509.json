@@ -10,8 +10,8 @@
  "city_zh": "肇庆市",
  "city_en": "Zhaoqing City",
  "name_zh": "肇庆市端州区星湖旅游景区",
- "name_en": "Zhaoqing railway station",
- "name_en_source": "wikipedia",
+ "name_en": "Zhaoqingshibowuguan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "zhaoqingshiduanzhouquxinghu-509",
  "lat": 23.081657,
  "lon": 112.476283,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "肇庆星湖风景名胜区由七星岩和鼎湖山两大景区组成，主要景点有天溪十景、云溪十景、宝鼎园等，是全国第一批重点风景名胜区之一。景区特产花席、端州出产的端砚等驰名中外。",
- "intro_en": "Zhaoqing railway station (simplified Chinese: 肇庆站; traditional Chinese: 肇慶站) serves the city of Zhaoqing, Guangdong province, China. The station hosts train services to and from Guangzhou, Hong Kong, Kunming, Nanning, Hainan, and other parts of China. The station is an intermediate stop on the Guangzhou–Maoming railway and the western terminus of the higher-speed Guangzhou–Zhaoqing intercity railway.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Zhaoqing Xinghu Scenic Area consists of two major scenic spots, Qixing Rock and Dinghu Mountain. The main attractions are Tianxi Ten Scenes, Yunxi Ten Scenes, Baoding Garden, etc. It is one of the first batch of key scenic spots in the country. The specialty flower mats in the scenic spot and the Duan inkstone produced in Duanzhou are famous both at home and abroad.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -155,11 +155,10 @@
  "hotels_nearby_30km": 81,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -178,7 +177,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -189,16 +188,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/肇庆站"
+   "url": "https://zh.wikipedia.org/wiki/肇庆市博物馆"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:46Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:02Z"
 }

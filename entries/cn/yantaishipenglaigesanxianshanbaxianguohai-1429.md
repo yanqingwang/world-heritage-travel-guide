@@ -13,34 +13,12 @@ province_en: "Shandong"
 city_en: "Yantai"
 lat: 37.827863
 lon: 120.761698
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 烟台市蓬莱阁-三仙山-八仙过海旅游区 / Penglai Pavilion
 
 > 山东省 · 烟台市 · 山地风光
-
-## 图片 / Images
-
-![Penglaige.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Penglaige.jpg/1280px-Penglaige.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Penglaige.jpg · Fanghong · CC BY-SA 3.0*
-
-![Canon EOS 70D on wall at Penglai Pavilion.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Canon_EOS_70D_on_wall_at_Penglai_Pavilion.jpg/1280px-Canon_EOS_70D_on_wall_at_Penglai_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Canon EOS 70D on wall at Penglai Pavilion.jpg · Benlisquare · CC BY-SA 4.0*
-
-![PenglaiPavilion.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/PenglaiPavilion.jpg/1280px-PenglaiPavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PenglaiPavilion.jpg · Chrishcn · CC BY 2.0*
-
-![PenglaiPavilion (croppe).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/PenglaiPavilion_%28croppe%29.jpg/1280px-PenglaiPavilion_%28croppe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PenglaiPavilion (croppe).jpg · Chrishcn · CC BY 2.0*
-
-![PenglaiPavillion2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/PenglaiPavillion2.jpg/1280px-PenglaiPavillion2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*PenglaiPavillion2.jpg · Chrishcn · CC BY 2.0*
 
 ## 简介 / Introduction
 

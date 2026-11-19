@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Pingxiang City"
 lat: 27.495319
 lon: 114.135944
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 萍乡市芦溪县萍乡武功山景区 / Wugong Mountains
 
 > 江西省 · 萍乡市 · 山地风光
-
-## 图片 / Images
-
-![WUGONGSHAN.jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/WUGONGSHAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*WUGONGSHAN.jpg · The original uploader was Tiangong83 at Chinese Wikipedia . · CC BY-SA 3.0*
-
-![Golden Dome of Wugong Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_Dome_of_Wugong_Mountain.jpg/1280px-Golden_Dome_of_Wugong_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Golden Dome of Wugong Mountain.jpg · RoundNoName · CC BY 4.0*
-
-![Wugong Mountains, 17 June 2018, Picture10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wugong_Mountains%2C_17_June_2018%2C_Picture10.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wugong Mountains, 17 June 2018, Picture10.jpg · Huangdan2060 · CC0*
-
-![Wugong Mountains, 17 June 2018, Picture15.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Wugong_Mountains%2C_17_June_2018%2C_Picture15.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wugong Mountains, 17 June 2018, Picture15.jpg · Huangdan2060 · CC0*
-
-![Wugong Mountains, 17 June 2018, Picture4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Wugong_Mountains%2C_17_June_2018%2C_Picture4.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wugong Mountains, 17 June 2018, Picture4.jpg · Huangdan2060 · CC0*
 
 ## 简介 / Introduction
 

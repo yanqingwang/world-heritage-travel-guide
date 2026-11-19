@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Qingdao"
 lat: 36.066251
 lon: 120.39726
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 青岛市奥帆海洋文化旅游区 / Qingdaoshiaofanhaiyang Cultural Tourism Area

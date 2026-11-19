@@ -13,34 +13,12 @@ province_en: "Hainan"
 city_en: "Lingshuilizuzizhi County"
 lat: 18.895816
 lon: 109.789111
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 陵水县分界洲岛旅游区 / Boundary Island (Hainan)
 
 > 海南省 · 陵水黎族自治县 · 历史遗址
-
-## 图片 / Images
-
-![分界洲岛风光 - panoramio (7).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/%E5%88%86%E7%95%8C%E6%B4%B2%E5%B2%9B%E9%A3%8E%E5%85%89_-_panoramio_%287%29.jpg/1280px-%E5%88%86%E7%95%8C%E6%B4%B2%E5%B2%9B%E9%A3%8E%E5%85%89_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*分界洲岛风光 - panoramio (7).jpg · 江上清风1961 · CC BY 3.0*
-
-![Boundary Island Light House.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2c/Boundary_Island_Light_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Boundary Island Light House.jpg · TTNL · CC BY-SA 3.0*
-
-![Fenjiezhou in Lingshui.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fenjiezhou_in_Lingshui.jpg/1280px-Fenjiezhou_in_Lingshui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fenjiezhou in Lingshui.jpg · Zhangmoon618 · CC BY-SA 3.0*
-
-![Hainan Island Monsoon Rainforests Ecoregion - Relief Map.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Hainan_Island_Monsoon_Rainforests_Ecoregion_-_Relief_Map.png/1280px-Hainan_Island_Monsoon_Rainforests_Ecoregion_-_Relief_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hainan Island Monsoon Rainforests Ecoregion - Relief Map.png · Z3lvs · CC BY 4.0*
-
-![Hainan Island Monsoon Rainforests Ecoregion - Relief Map Angle.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Hainan_Island_Monsoon_Rainforests_Ecoregion_-_Relief_Map_Angle.png/1280px-Hainan_Island_Monsoon_Rainforests_Ecoregion_-_Relief_Map_Angle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hainan Island Monsoon Rainforests Ecoregion - Relief Map Angle.png · Z3lvs · CC BY 4.0*
 
 ## 简介 / Introduction
 

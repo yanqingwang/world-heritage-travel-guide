@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(vii)(viii)(ix)"
 lat: -25.24
 lon: 153.15
-updated_at: "2026-11-12T14:36:25Z"
+updated_at: "2026-11-16T11:41:07Z"
 ---
 
 # 弗雷泽岛 / K’gari

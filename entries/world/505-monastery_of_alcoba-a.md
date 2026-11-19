@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(i)(iv)"
 lat: 39.548594
 lon: -8.978628
-updated_at: "2026-11-12T14:36:24Z"
+updated_at: "2026-11-16T11:41:06Z"
 ---
 
 # 阿尔科巴萨修道院 / Monastery of Alcobaça

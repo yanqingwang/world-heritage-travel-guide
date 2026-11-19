@@ -13,18 +13,12 @@ province_en: "Guizhou"
 city_en: "Bijie City"
 lat: 27.209884
 lon: 105.931775
-updated_at: "2026-11-10T23:01:46Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 毕节市黔西县百里杜鹃景区 / Bailidujuan Scenic Area
 
 > 贵州省 · 毕节市 · 历史遗址
-
-## 图片 / Images
-
-![Azaleas Area.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Azaleas_Area.JPG/1280px-Azaleas_Area.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Azaleas Area.JPG · Fanghong · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

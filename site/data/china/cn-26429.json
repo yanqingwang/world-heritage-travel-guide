@@ -10,7 +10,7 @@
  "city_zh": "呼伦贝尔市",
  "city_en": "Hulunbuir",
  "name_zh": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
- "name_en": "Hulunbeiercaoyuan Scenic Area",
+ "name_en": "Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area",
  "name_en_source": "pinyin",
  "slug": "hulunbeiershihulunbeierdacaoyuanmoergeleihe-26429",
  "lat": 49.467238,
@@ -97,6 +97,17 @@
  },
  "hotels": [
   {
+   "name": "7天连锁酒店呼伦贝尔海拉尔中央桥店",
+   "name_en": "7Days Inn Hulun Buir Shengli Street",
+   "stars": null,
+   "brand": null,
+   "lat": 49.2100482,
+   "lon": 119.7504262,
+   "distance_km": 28.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "呼伦贝尔融府商务酒店",
    "name_en": null,
    "stars": null,
@@ -128,17 +139,6 @@
    "distance_km": 28.6,
    "kind": "hotel",
    "source": "OpenStreetMap"
-  },
-  {
-   "name": "7天连锁酒店呼伦贝尔海拉尔中央桥店",
-   "name_en": "7Days Inn Hulun Buir Shengli Street",
-   "stars": null,
-   "brand": null,
-   "lat": 49.2100482,
-   "lon": 119.7504262,
-   "distance_km": 28.7,
-   "kind": "chain",
-   "source": "OpenStreetMap"
   }
  ],
  "hotels_nearby_30km": 4,
@@ -148,7 +148,6 @@
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -177,17 +176,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔草原"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-10T23:01:45Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-16T11:41:01Z"
 }

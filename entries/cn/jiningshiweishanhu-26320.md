@@ -13,18 +13,12 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 34.689652
 lon: 117.28291
-updated_at: "2026-11-10T23:01:45Z"
+updated_at: "2026-11-16T11:41:01Z"
 ---
 
 # 济宁市微山湖旅游区 / Weishanhu Tourist Area
 
 > 山东省 · 济宁市 · 红色旅游
-
-## 图片 / Images
-
-![山东省人民政府关于公布第六批省级文物保护单位、第一批水下文物保护区的通知（鲁政字〔2022〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E3%80%81%E7%AC%AC%E4%B8%80%E6%89%B9%E6%B0%B4%E4%B8%8B%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942022%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E3%80%81%E7%AC%AC%E4%B8%80%E6%89%B9%E6%B0%B4%E4%B8%8B%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942022%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*山东省人民政府关于公布第六批省级文物保护单位、第一批水下文物保护区的通知（鲁政字〔2022〕18号）.pdf · 山东省人民政府 · Public domain*
 
 ## 简介 / Introduction
 
@@ -51,10 +45,10 @@ Weishan Lake is the largest freshwater lake in the north and an old red revoluti
 ## 附近酒店 / Nearby hotels
 
 - **微山岛京杭假日酒店** — 3.9 km — chain
+- **荷韵假日酒店** — 21.2 km — chain
 - **微山岛名湖度假酒店** — 6.0 km — hotel
 - **颐正园** — 12.0 km — hotel
 - **丽波大酒店** — 13.3 km — hotel
-- **金尊国际酒店** — 13.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

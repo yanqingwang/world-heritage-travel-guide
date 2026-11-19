@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)(vi)"
 lat: 40.529444444
 lon: 72.783333333
-updated_at: "2026-11-12T14:36:29Z"
+updated_at: "2026-11-16T11:41:10Z"
 ---
 
 # 苏莱曼山 / Sulaiman-Too Sacred Mountain

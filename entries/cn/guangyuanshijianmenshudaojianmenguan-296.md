@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Guangyuan"
 lat: 32.196942
 lon: 105.572042
-updated_at: "2026-11-10T23:01:47Z"
+updated_at: "2026-11-16T11:41:02Z"
 ---
 
 # 广元市剑门蜀道剑门关旅游景区 / Shudao
 
 > 四川省 · 广元市 · 古镇村落
-
-## 图片 / Images
-
-![古蜀道01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%8F%A4%E8%9C%80%E9%81%9301.jpg/1280px-%E5%8F%A4%E8%9C%80%E9%81%9301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*古蜀道01.jpg · 晾衣杆 · CC BY-SA 4.0*
-
-![Shudao.png](https://upload.wikimedia.org/wikipedia/commons/8/86/Shudao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Shudao.png · Ulamm · CC BY-SA 3.0*
-
-![Shudao ZH.png](https://upload.wikimedia.org/wikipedia/commons/7/78/Shudao_ZH.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Shudao ZH.png · Ulamm · CC BY-SA 3.0*
-
-![Syoku sando zu（Shu plank road view）by Setsuzan Adachi.png](https://upload.wikimedia.org/wikipedia/commons/7/71/Syoku_sando_zu%EF%BC%88Shu_plank_road_view%EF%BC%89by_Setsuzan_Adachi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Syoku sando zu（Shu plank road view）by Setsuzan Adachi.png · 足立雪山 Setsuzan Adachi（1845-1921） · Public domain*
-
-![Syoku sendo zu（Shu plank road view）.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4e/Syoku_sendo_zu%EF%BC%88Shu_plank_road_view%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Syoku sendo zu（Shu plank road view）.jpg · Yosa Buson · Public domain*
 
 ## 简介 / Introduction
 
