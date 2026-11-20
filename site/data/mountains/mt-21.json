@@ -1,0 +1,120 @@
+{
+ "id": "mt-21",
+ "dataset": "mountain_31",
+ "mountain_rank": 21,
+ "mountain_group": "高频名山",
+ "difficulty": "进阶",
+ "elevation_m": 2217.0,
+ "world_heritage": false,
+ "site_id": "cn-379",
+ "name_zh": "老君山",
+ "name_en": "Mount Laojun",
+ "name_local": "",
+ "province_zh": "河南·洛阳",
+ "province_en": "",
+ "province_iso": "CN-HA",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 33.789265,
+ "lon": 111.57707,
+ "images": [],
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "老君山—鸡冠洞旅游区位于豫西伏牛山腹地。老君山古号景室山，因东周道家始祖老子归隐-于此而得名；是八百里伏牛山主峰，海拔 2217米。鸡冠洞属天然石灰岩溶洞，地质学上称其为“喀斯特岩溶地貌”。",
+ "intro_en": "Laojunshan-Jiguandong tourist area is located in the hinterland of Funiu Mountain in western Henan. The ancient name of Laojun Mountain is Jingshi Mountain, which is named after Laozi, the founder of Taoism in the Eastern Zhou Dynasty, who lived in seclusion here. It is the main peak of Funiu Mountain in 800 miles away, with an altitude of 2217 meters. Jiguan Cave is a natural limestone cave, geologically called \"karst karst landform\".",
+ "tip_zh": "金顶道观群，冬季雾凇出名，索道两段。",
+ "address_zh": "洛阳市栾川县步云桥",
+ "address_en": "Buyun Bridge, Luanchuan County, Luoyang City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 129.4,
+    "name_zh": "洛阳北郊机场"
+   },
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 131.8,
+    "name_zh": "南阳姜营机场"
+   },
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 146.9,
+    "name_zh": "十堰武当山机场"
+   }
+  ],
+  "nearest_airport_km": 129.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "五里川",
+    "name_en": null,
+    "lat": 33.7632858,
+    "lon": 111.040079,
+    "distance_km": 49.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "丁河",
+    "name_en": null,
+    "lat": 33.3550678,
+    "lon": 111.3199854,
+    "distance_km": 53.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "卢氏",
+    "name_en": null,
+    "lat": 34.0296291,
+    "lon": 111.0506737,
+    "distance_km": 55.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/鸡冠洞"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

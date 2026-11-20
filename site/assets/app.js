@@ -5,7 +5,19 @@
     zh: {
       title: "世界遗产旅行指南",
       subtitle: "中国 5A 景区 · 海外 UNESCO 世界遗产",
-      tabs: { china: "中国 5A", world: "海外世界遗产" },
+      tabs: { china: "中国 5A", world: "海外世界遗产", mountains: "⛰️ 必爬名山" },
+      allGroups: "全部分类",
+      allDifficulty: "全部难度",
+      groups: { "五岳": "五岳", "三山": "三山", "佛教四大": "佛教四大", "道教四大": "道教四大", "高频名山": "高频名山" },
+      difficulty: { "入门": "入门", "进阶": "进阶", "挑战": "挑战", "雪山": "雪山" },
+      mountainsNote: "按推荐攀登顺序排列（1 最易）。名山与你标记的 5A / 世界遗产条目互通：任一边标记「去过」，另一边同时完成。",
+      mountainRank: (n) => "第 " + n + " 座",
+      mountainElevation: "海拔",
+      mountainTip: "攀登提示",
+      mountainInList: "⛰️ 必爬 31 座",
+      mountainViewSite: "查看对应的 5A 景区详情 →",
+      mountainLinked: "这条名山与 5A 景区为同一地点，标记互通。",
+      worldHeritage: "世界遗产",
       heroEyebrow: "公开数据 · 每周更新",
       heroTitle: "从 5A 景区到世界遗产，一次查清怎么去、住哪里、是否免签。",
       heroText: "官方名录、维基百科、OpenStreetMap 与 UNESCO 多语言文本合并为一份可检索的数据集。",
@@ -97,7 +109,19 @@
     en: {
       title: "World Heritage Travel Guide",
       subtitle: "China 5A scenic areas · UNESCO World Heritage overseas",
-      tabs: { china: "China 5A", world: "World Heritage" },
+      tabs: { china: "China 5A", world: "World Heritage", mountains: "⛰️ 31 Mountains" },
+      allGroups: "All groups",
+      allDifficulty: "All difficulty",
+      groups: { "五岳": "Five Great Peaks", "三山": "Three Sacred Mountains", "佛教四大": "Four Buddhist Mountains", "道教四大": "Four Taoist Mountains", "高频名山": "Popular picks" },
+      difficulty: { "入门": "Beginner", "进阶": "Intermediate", "挑战": "Challenging", "雪山": "Snow mountain" },
+      mountainsNote: "Ordered by suggested climbing difficulty (1 = easiest). Marks are shared with the matching 5A / World Heritage record: visiting either side completes both.",
+      mountainRank: (n) => "No. " + n,
+      mountainElevation: "Elevation",
+      mountainTip: "Climbing notes",
+      mountainInList: "⛰️ Must-climb 31",
+      mountainViewSite: "Open the 5A site record →",
+      mountainLinked: "This mountain is the same place as a 5A site; marks are shared.",
+      worldHeritage: "World Heritage",
       heroEyebrow: "OPEN DATA · WEEKLY UPDATES",
       heroTitle: "From China's 5A scenic areas to World Heritage sites: how to get there, where to stay, and whether you need a visa.",
       heroText: "Official lists, Wikipedia, OpenStreetMap and UNESCO's multilingual texts merged into one searchable dataset.",
@@ -198,9 +222,11 @@
     visa: "",
     tier: "",
     admission: "",
+    group: "",
+    difficulty: "",
     visitedOnly: false,
     limit: 60,
-    data: { china: null, world: null },
+    data: { china: null, world: null, mountains: null },
     details: {},
     loading: {},
     marks: {},
@@ -261,6 +287,9 @@
     return lang === "zh" ? (site.country_zh || site.country_en) : (site.country_en || site.country_zh);
   }
   function locationLine(site) {
+    if (site.dataset === "mountain_31") {
+      return site.province_zh || "";
+    }
     if (site.dataset === "china_5a") {
       return state.lang === "zh"
         ? [site.province_zh, site.city_zh].filter(Boolean).join(" · ")
@@ -316,6 +345,27 @@
   }
 
   function buildFilters() {
+    const group = $("#group-filter");
+    const difficulty = $("#difficulty-filter");
+    const mountainMode = state.tab === "mountains";
+    for (const id of ["#country-filter", "#subdivision-filter", "#category-filter",
+                      "#visa-filter", "#tier-filter", "#admission-filter"]) {
+      $(id).hidden = mountainMode;
+    }
+    group.hidden = !mountainMode;
+    difficulty.hidden = !mountainMode;
+    if (mountainMode) {
+      const rows = state.data.mountains?.sites || [];
+      const groups = [...new Set(rows.map((r) => r.mountain_group).filter(Boolean))];
+      const diffs = ["入门", "进阶", "挑战", "雪山"].filter((d) => rows.some((r) => r.difficulty === d));
+      group.innerHTML = '<option value="">' + esc(t().allGroups) + '</option>' +
+        groups.map((g) => '<option value="' + esc(g) + '">' + esc(t().groups[g] || g) + '</option>').join("");
+      difficulty.innerHTML = '<option value="">' + esc(t().allDifficulty) + '</option>' +
+        diffs.map((d) => '<option value="' + esc(d) + '">' + esc(t().difficulty[d] || d) + '</option>').join("");
+      group.value = state.group;
+      difficulty.value = state.difficulty;
+      return;
+    }
     const country = $("#country-filter");
     const subdivision = $("#subdivision-filter");
     const category = $("#category-filter");
@@ -443,6 +493,15 @@
       `<div class="stat"><b>${esc(fmtN(n))}</b><span>${esc(label)}</span></div>`).join("");
   }
 
+  // 预加载名山索引：这样中国 5A 卡片也能立刻显示「必爬」徽章，标记互通无需先切标签
+  function loadMountainsIndex() {
+    if (state.data.mountains) return Promise.resolve();
+    return fetch("./data/mountains-index.json", { cache: "no-cache" })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((json) => { if (json) { state.data.mountains = json; reconcileMountainMarks(); } })
+      .catch(() => {});
+  }
+
   function loadTab(tab) {
     state.tab = tab;
     document.querySelectorAll(".tab").forEach((el) => {
@@ -452,6 +511,7 @@
     });
     state.country = tab === "china" ? "CN" : "";
     state.subdivision = state.category = state.visa = state.tier = "";
+    state.group = state.difficulty = "";
     state.query = $("#search").value = "";
     state.limit = 60;
     $("#country-filter").value = state.country;
@@ -459,6 +519,8 @@
     $("#category-filter").value = "";
     $("#visa-filter").value = "";
     $("#tier-filter").value = "";
+    $("#group-filter").value = "";
+    $("#difficulty-filter").value = "";
     if (state.pending) {
       state.country = state.pending.country || state.country;
       state.subdivision = state.pending.subdivision || "";
@@ -506,6 +568,20 @@
   function filtered() {
     const data = state.data[state.tab];
     if (!data) return [];
+    if (state.tab === "mountains") {
+      const q = state.query.trim().toLowerCase();
+      return data.sites.filter((s) => {
+        if (q) {
+          const hay = [s.name_zh, s.name_en, s.province_zh, s.tip_zh, s.mountain_group]
+            .filter(Boolean).join(" ").toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        if (state.group && s.mountain_group !== state.group) return false;
+        if (state.difficulty && s.difficulty !== state.difficulty) return false;
+        if (state.visitedOnly && !(state.marks[s.id] || {}).v) return false;
+        return true;
+      }).sort((a, b) => a.mountain_rank - b.mountain_rank);
+    }
     const q = state.query.trim().toLowerCase();
     let list = data.sites.filter((s) => {
       if (q) {
@@ -558,6 +634,17 @@
     const badges = [];
     if (site.dataset === "china_5a") {
       badges.push(`<span class="badge">${esc(categoryLabel(site))}</span>`);
+      const mt = mountainForSite(site.id);
+      if (mt) badges.push('<span class="badge gold">⛰️ #' + esc(mt.mountain_rank) + '</span>');
+    } else if (site.dataset === "mountain_31") {
+      badges.push('<span class="badge gold">' + esc(t().mountainRank(site.mountain_rank)) + '</span>');
+      badges.push('<span class="badge">' + esc(t().groups[site.mountain_group] || site.mountain_group) + '</span>');
+      badges.push('<span class="badge' + (site.difficulty === "雪山" || site.difficulty === "挑战" ? " clay" : "") + '">' +
+        esc(t().difficulty[site.difficulty] || site.difficulty) + '</span>');
+      if (site.world_heritage) badges.push('<span class="badge clay">🏛 ' + esc(t().worldHeritage) + '</span>');
+      if ((site.admission || "unknown") !== "unknown") {
+        badges.push('<span class="badge">' + esc(t().admission[site.admission] || "") + '</span>');
+      }
     } else {
       badges.push(`<span class="badge">${esc(categoryLabel(site))}</span>`);
       if (site.tier === "full") badges.push(`<span class="badge gold">TOP ${esc(site.popularity_rank || "")}</span>`);
@@ -567,10 +654,13 @@
       badges.unshift(`<span class="badge visited">✓ ${esc(t().markVisited)}</span>`);
     }
     const media = img
-      ? `<img loading="lazy" src="${esc(img.url)}" alt="${esc(name)}" onerror="this.style.display='none';this.parentElement.querySelector('.fallback').style.display='grid'">`
+      ? '<img loading="lazy" src="' + esc(img.url) + '" alt="' + esc(name) + '" onerror="this.style.display=&#39;none&#39;;this.parentElement.querySelector(&#39;.fallback&#39;).style.display=&#39;grid&#39;">'
       : "";
     const meta = [];
-    if (site.dataset === "china_5a") {
+    if (site.dataset === "mountain_31") {
+      meta.push('⛰ ' + t().mountainElevation + ' ' + esc(String(site.elevation_m)) + ' m');
+      if (site.site_id) meta.push('🅰 5A');
+    } else if (site.dataset === "china_5a") {
       const hsr = (site.transport?.high_speed_stations || [])[0];
       if (hsr) meta.push(`🚄 ${esc(hsr.name)} · ${fmtKm(hsr.distance_km)}`);
       else {
@@ -606,7 +696,7 @@
     $("#result-count").textContent = t().result(Math.min(state.limit, list.length), total);
     $("#result-note").textContent = state.tab === "world"
       ? (state.lang === "zh" ? "按中英文维基热度排序；TOP 600 为完整资料。" : "Ranked by Chinese/English Wikipedia interest; top 600 have full records.")
-      : "";
+      : state.tab === "mountains" ? t().mountainsNote : "";
     const shown = list.slice(0, state.limit);
     $("#cards").innerHTML = shown.map(cardHTML).join("");
     $("#empty").hidden = list.length > 0;
@@ -660,7 +750,61 @@
       });
   }
 
+  function renderMountainDetail(site) {
+    const d = $("#detail");
+    d.dataset.siteId = site.id;
+    const name = localizedName(site);
+    $("#detail-kicker").textContent = [site.province_zh, site.mountain_group ? (t().groups[site.mountain_group] || site.mountain_group) : ""]
+      .filter(Boolean).join(" · ");
+    $("#detail-title").textContent = name;
+    $("#detail-sub").textContent = secondaryName(site) || "";
+
+    const body = [];
+    const imgs = site.images || [];
+    body.push('<div class="gallery">' + (imgs.length
+      ? imgs.map((img) => '<figure><img loading="lazy" src="' + esc(img.url) + '" alt="' + esc(name) + '">' +
+        '<figcaption>' + esc([img.title, img.author, img.license].filter(Boolean).join(" · ")) + '</figcaption></figure>').join("")
+      : '<div class="no-image">⛰️</div>') + '</div>');
+
+    const adm = site.admission || "unknown";
+    const chips = [
+      '<span class="chip gold">' + esc(t().mountainRank(site.mountain_rank)) + '</span>',
+      '<span class="chip green">' + esc(t().groups[site.mountain_group] || site.mountain_group) + '</span>',
+      '<span class="chip">' + esc(t().difficulty[site.difficulty] || site.difficulty) + '</span>',
+      '<span class="chip">' + esc(t().mountainElevation) + ' ' + esc(String(site.elevation_m)) + ' m</span>',
+    ];
+    if (site.world_heritage) chips.push('<span class="chip clay">🏛 ' + esc(t().worldHeritage) + '</span>');
+    if (adm !== "unknown") chips.push('<span class="chip' + (adm === "free" ? " green" : adm === "partial" ? " clay" : "") + '">' + esc(t().admission[adm]) + '</span>');
+    body.push('<div class="chips">' + chips.join("") + '</div>');
+    body.push(markRowHTML(site));
+
+    const intro = state.lang === "zh" ? site.intro_zh : site.intro_en;
+    if (intro) body.push(sectionHTML(t().sections.intro, '<p class="prose">' + esc(intro) + '</p>'));
+    if (site.tip_zh && state.lang === "zh") body.push(sectionHTML(t().mountainTip, '<p class="prose">' + esc(site.tip_zh) + '</p>'));
+
+    if (site.site_id) {
+      body.push(sectionHTML(t().mountainInList,
+        '<p class="note">' + esc(t().mountainLinked) + '</p>' +
+        '<button type="button" class="primary small" data-open-site="' + esc(site.site_id) + '">' + esc(t().mountainViewSite) + '</button>'));
+    } else {
+      body.push(sectionHTML(t().mountainInList,
+        '<p class="note">' + esc(state.lang === "zh"
+          ? "这座山暂未收录为 5A 景区的独立条目；标记仍会计入你的足迹与地球。"
+          : "This mountain is not a standalone 5A record yet; marks still count toward your footprint and globe.") + '</p>'));
+    }
+
+    const links = [];
+    if (site.lat != null && site.lon != null) {
+      links.push('<a href="https://www.openstreetmap.org/?mlat=' + site.lat + '&mlon=' + site.lon + '#map=12/' + site.lat + '/' + site.lon +
+        '" target="_blank" rel="noopener">' + t().labels.map + '</a>');
+    }
+    body.push(sectionHTML(t().sections.sources, '<div class="sources">' + links.join("") + '</div>' +
+      '<p class="note">' + esc(state.lang === "zh" ? "分类与攀登顺序依据《此生必爬的31座名山》说明文档；海拔取最高峰。" : "Order and categories follow the “31 mountains worth climbing” reference; elevation uses the highest peak.") + '</p>'));
+    $("#detail-body").innerHTML = body.join("");
+  }
+
   function renderDetail(site) {
+    if (site.dataset === "mountain_31") return renderMountainDetail(site);
     const d = $("#detail");
     d.dataset.siteId = site.id;
     const name = localizedName(site);
@@ -672,14 +816,18 @@
     $("#detail-sub").textContent = sec || "";
     const body = [];
     const imgs = site.images || [];
-    body.push(`<div class="gallery">${imgs.length ? imgs.map((img) =>
-      `<figure><img loading="lazy" src="${esc(img.url)}" alt="${esc(name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'no-image',textContent:'🏛️'}))"><figcaption>${esc([img.title, img.author, img.license].filter(Boolean).join(" · "))}</figcaption></figure>`
-    ).join("") : `<div class="no-image">🏛️</div>`}</div>`);
+    body.push(
+      '<div class="gallery">' + (imgs.length ? imgs.map((img) =>
+        "<figure><img loading=\"lazy\" src=\"" + esc(img.url) + "\" alt=\"" + esc(name) + "\" onerror=\"this.style.display='none'\">" +
+        '<figcaption>' + esc([img.title, img.author, img.license].filter(Boolean).join(" · ")) + '</figcaption></figure>'
+      ).join("") : '<div class="no-image">🏛️</div>') + '</div>');
 
     const chips = [];
     if (site.dataset === "china_5a") {
       chips.push(`<span class="chip green">${esc(categoryLabel(site))}</span>`);
       chips.push(`<span class="chip">${esc((state.lang === "zh" ? site.address_zh : site.address_en) || site.address_zh || "")}</span>`);
+      const mt = mountainForSite(site.id);
+      if (mt) chips.push('<span class="chip gold">⛰️ ' + esc(t().mountainRank(mt.mountain_rank)) + ' · ' + esc(t().groups[mt.mountain_group] || "") + '</span>');
       const adm = site.admission || "unknown";
       if (adm !== "unknown") {
         chips.push(`<span class="chip ${adm === "free" ? "green" : adm === "partial" ? "clay" : ""}">${esc(t().admission[adm])}</span>`);
@@ -868,8 +1016,56 @@
   // ---------------------------------------------------------------------
   // Personal marks (visited / liked / not for me)
   // ---------------------------------------------------------------------
+  // ---- 必爬名山 ↔ 5A / 世界遗产 标记互通 ----
+  function mountains() { return state.data.mountains?.sites || []; }
+  function mountainOf(id) { return mountains().find((m) => m.id === id) || null; }
+  function mountainForSite(id) { return mountains().find((m) => m.site_id === id) || null; }
+  function visitIds(id) {
+    const out = [id];
+    const m = mountainOf(id) || mountainForSite(id);
+    if (m) {
+      if (!out.includes(m.id)) out.push(m.id);
+      if (m.site_id && !out.includes(m.site_id)) out.push(m.site_id);
+    }
+    return out;
+  }
+  // 老标记（先标记过 5A、后上线名山）补一次，保证两边状态一致
+  function reconcileMountainMarks() {
+    let changed = false;
+    for (const m of mountains()) {
+      if (!m.site_id) continue;
+      const mv = state.marks[m.id] || {};
+      const sv = state.marks[m.site_id] || {};
+      if (sv.v && !mv.v) {
+        state.marks[m.id] = { ...mv, v: sv.v, c: "CN", p: m.province_iso || "", n: m.name_zh, t: Date.now() };
+        changed = true;
+      } else if (mv.v && !sv.v) {
+        state.marks[m.site_id] = { ...sv, v: mv.v, c: "CN", p: m.province_iso || "", n: m.name_zh, t: Date.now() };
+        changed = true;
+      }
+    }
+    if (changed && window.WHGAccount) window.WHGAccount.syncSoon(() => state.marks);
+    if (changed) saveMarks();
+    return changed;
+  }
+
+  // 取标记元信息：目标数据可能还没加载（例如在名山页标记 5A 条目），用名山记录兜底
+  function markMeta(id) {
+    const s = findSite(id);
+    if (s) return s;
+    const m = mountainOf(id) || mountainForSite(id);
+    if (m) {
+      return {
+        id: m.site_id && id !== m.id ? id : m.id,
+        name_zh: m.name_zh, name_en: m.name_en,
+        province_iso: m.province_iso, country: "CN", dataset: "china_5a",
+      };
+    }
+    return null;
+  }
+
   function findSite(id) {
-    for (const tab of ["china", "world"]) {
+    for (const tab of ["china", "world", "mountains"]) {
       const site = state.data[tab]?.sites.find((s) => s.id === id);
       if (site) return site;
     }
@@ -879,23 +1075,31 @@
   function toggleMark(id, kind) {
     const site = findSite(id);
     if (!site) return;
-    const m = { ...(state.marks[id] || {}) };
-    if (kind === "v") m.v = m.v ? 0 : 1;
-    else m.r = m.r === kind ? null : kind;
-    if (m.v || m.r) {
-      m.c = site.country || "";
-      // Only Chinese records light up a province; overseas ones light the country.
-      m.p = site.dataset === "china_5a" ? (site.province_iso || "") : "";
-      m.n = localizedName(site);
-      m.t = Date.now();          // 云同步合并用：单条标记的更新时间
-      state.marks[id] = m;
-    } else {
-      // 留墓碑 {t}：告诉其他浏览器「这条已被取消标记」，合并时按时间判定
-      state.marks[id] = { t: Date.now() };
+    const current = state.marks[id] || {};
+    const on = kind === "v" ? !current.v : current.r !== kind;
+    // 「去过」在名山与对应 5A / 世界遗产条目之间双向同步；赞/不好只作用于当前条目
+    const targets = kind === "v" ? visitIds(id) : [id];
+    for (const tid of targets) {
+      const tsite = tid === id ? site : markMeta(tid);
+      if (!tsite) continue;
+      const m = { ...(state.marks[tid] || {}) };
+      if (kind === "v") m.v = on ? 1 : 0;
+      else m.r = on ? kind : null;
+      if (m.v || m.r) {
+        m.c = tsite.country || "";
+        // 中国 5A 与世界遗产/名山都按省份点亮
+        m.p = tsite.province_iso || "";
+        m.n = localizedName(tsite);
+        m.t = Date.now();          // 云同步合并用：单条标记的更新时间
+        state.marks[tid] = m;
+      } else {
+        // 留墓碑 {t}：告诉其他浏览器「这条已被取消标记」，合并时按时间判定
+        state.marks[tid] = { t: Date.now() };
+      }
     }
     saveMarks();
     if (window.WHGAccount) window.WHGAccount.syncSoon(() => state.marks);
-    refreshMarkUI(id);
+    targets.forEach((tid) => refreshMarkUI(tid));
     updateGlobeButton();
     if (globe.open) { globe.dirty = true; updateGlobeStats(); }
     if (state.visitedOnly) render();
@@ -939,8 +1143,11 @@
     const countries = new Set();
     const provinces = new Set();
     let sites = 0;
-    for (const m of Object.values(state.marks)) {
+    for (const [id, m] of Object.entries(state.marks)) {
       if (!m.v) continue;
+      // 名山与对应 5A 是同一个地方，只计一次目的地
+      const mtn = mountainOf(id);
+      if (mtn && mtn.site_id && (state.marks[mtn.site_id] || {}).v) continue;
       sites += 1;
       if (m.p) provinces.add(m.p);
       if (m.c && m.c !== "CN") countries.add(m.c);
@@ -1312,8 +1519,11 @@
   $("#visa-filter").addEventListener("change", (e) => { state.visa = e.target.value; state.limit = 60; render(); });
   $("#tier-filter").addEventListener("change", (e) => { state.tier = e.target.value; state.limit = 60; render(); });
   $("#admission-filter").addEventListener("change", (e) => { state.admission = e.target.value; state.limit = 60; render(); });
+  $("#group-filter").addEventListener("change", (e) => { state.group = e.target.value; state.limit = 60; render(); });
+  $("#difficulty-filter").addEventListener("change", (e) => { state.difficulty = e.target.value; state.limit = 60; render(); });
   $("#reset").addEventListener("click", () => {
     state.query = state.subdivision = state.category = state.visa = state.tier = state.admission = "";
+    state.group = state.difficulty = "";
     state.country = state.tab === "china" ? "CN" : "";
     state.visitedOnly = false;
     state.limit = 60;
@@ -1324,10 +1534,23 @@
     $("#visa-filter").value = "";
     $("#tier-filter").value = "";
     $("#admission-filter").value = "";
+    $("#group-filter").value = "";
+    $("#difficulty-filter").value = "";
     syncVisitedToggle();
     render();
   });
   document.addEventListener("click", (e) => {
+    const jump = e.target.closest("[data-open-site]");
+    if (jump) {
+      e.preventDefault();
+      const sid = jump.dataset.openSite;
+      loadTab("china");
+      const wait = setInterval(() => {
+        if (state.data.china) { clearInterval(wait); openDetail(sid); }
+      }, 100);
+      setTimeout(() => clearInterval(wait), 4000);
+      return;
+    }
     const btn = e.target.closest(".mark-btn");
     if (!btn) return;
     e.preventDefault();
@@ -1408,6 +1631,7 @@
   if (window.WHGAccount) {
     const setMarks = (merged) => {
       state.marks = merged || {};
+      reconcileMountainMarks();
       saveMarks();
       render();
       updateGlobeButton();
@@ -1427,9 +1651,13 @@
 
   // Deep link: ?site=<id>&tab=world
   const params = new URLSearchParams(location.search);
-  const initialTab = params.get("tab") === "world" ? "world" : "china";
+  const tabParam = params.get("tab");
+  const initialTab = tabParam === "world" || tabParam === "mountains" ? tabParam : "china";
   setLang(state.lang);
-  loadTab(initialTab);
+  loadMountainsIndex().then(() => {
+    loadTab(initialTab);
+    if (initialTab !== "mountains") render();
+  });
   const deepSite = params.get("site");
   if (deepSite) {
     const check = setInterval(() => {

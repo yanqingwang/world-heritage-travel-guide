@@ -1,0 +1,120 @@
+{
+ "id": "mt-25",
+ "dataset": "mountain_31",
+ "mountain_rank": 25,
+ "mountain_group": "佛教四大",
+ "difficulty": "挑战",
+ "elevation_m": 3061.0,
+ "world_heritage": false,
+ "site_id": "cn-835",
+ "name_zh": "五台山",
+ "name_en": "Mount Wutai",
+ "name_local": "",
+ "province_zh": "山西·忻州",
+ "province_en": "",
+ "province_iso": "CN-SX",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 38.90908,
+ "lon": 113.65576,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "五台山是中国修建佛教建筑最早的地方之一，佛光寺和南禅寺是中国现存最早的两座木质结构建筑。主要景点有塔院寺、菩萨顶、佛光寺、五爷庙、显通寺、万佛阁等。",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "tip_zh": "台怀镇寺庙群，五台连穿需两到三天。",
+ "address_zh": "忻州市五台县台怀镇",
+ "address_en": "Taihuai Town, Wutai County, Xinzhou City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xinzhou Wutaishan Airport",
+    "iata": "WUT",
+    "city": "Xinzhou",
+    "country": "CN",
+    "lat": 38.597456,
+    "lon": 112.969173,
+    "type": "small_airport",
+    "distance_km": 68.9,
+    "name_zh": "五台山机场"
+   },
+   {
+    "name": "Shuozhou Zirun Airport",
+    "iata": "SZH",
+    "city": "Shuozhou",
+    "country": "CN",
+    "lat": 39.273241,
+    "lon": 112.691552,
+    "type": "medium_airport",
+    "distance_km": 92.5,
+    "name_zh": "朔州滋润机场"
+   },
+   {
+    "name": "Shijiazhuang Zhengding International Airport",
+    "iata": "SJW",
+    "city": "Shijiazhuang",
+    "country": "CN",
+    "lat": 38.280701,
+    "lon": 114.696999,
+    "type": "large_airport",
+    "distance_km": 114.3,
+    "name_zh": "石家庄正定国际机场"
+   }
+  ],
+  "nearest_airport_km": 68.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "五台山",
+    "name_en": null,
+    "lat": 38.8669734,
+    "lon": 113.727008,
+    "distance_km": 7.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "集义庄",
+    "name_en": null,
+    "lat": 39.225916,
+    "lon": 113.4616286,
+    "distance_km": 39.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "五台山北",
+    "name_en": "Wutaishanbei",
+    "lat": 39.2644802,
+    "lon": 113.5596012,
+    "distance_km": 40.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

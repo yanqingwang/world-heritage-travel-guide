@@ -77,6 +77,8 @@ def main() -> int:
     run("build_world.py", required=True)
     run("validate_data.py", required=True)
     run("build_site.py", required=True)
+    # 名山集合基于 build_site 之后的 5A 记录生成（不复制、只关联合并）
+    run("build_mountains.py", required=True)
     run("changelog.py")
     return 0
 

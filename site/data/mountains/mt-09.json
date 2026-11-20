@@ -1,0 +1,130 @@
+{
+ "id": "mt-09",
+ "dataset": "mountain_31",
+ "mountain_rank": 9,
+ "mountain_group": "五岳",
+ "difficulty": "进阶",
+ "elevation_m": 1300.0,
+ "world_heritage": false,
+ "site_id": "cn-1187",
+ "name_zh": "衡山",
+ "name_en": "Mount Heng",
+ "name_local": "",
+ "province_zh": "湖南·衡阳",
+ "province_en": "",
+ "province_iso": "CN-HN",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 27.252032,
+ "lon": 112.738641,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "衡山风景名胜区海拔1300.2米。气候温润，处处是茂林修竹，终年翠绿，奇花异草，四时飘香，自然景色十分秀丽。",
+ "intro_en": "Hengshan Scenic Area is 1,300.2 meters above sea level. The climate is mild and humid, with luxuriant forests and bamboos everywhere, green all year round, exotic flowers and plants, and fragrant fragrance all year round. The natural scenery is very beautiful.",
+ "tip_zh": "南岳大庙加祝融峰，可夜爬看日出。",
+ "address_zh": "湖南省衡阳市南岳区南岳镇金沙路",
+ "address_en": "Jinsha Road, Nanyue Town, Nanyue District, Hengyang City, Hunan Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hengyang Nanyue Airport",
+    "iata": "HNY",
+    "city": "Hengyang",
+    "country": "CN",
+    "lat": 26.72208,
+    "lon": 112.617958,
+    "type": "medium_airport",
+    "distance_km": 60.1,
+    "name_zh": "衡阳南岳机场"
+   },
+   {
+    "name": "Changsha Huanghua International Airport",
+    "iata": "CSX",
+    "city": "Changsha (Changsha)",
+    "country": "CN",
+    "lat": 28.189199,
+    "lon": 113.220001,
+    "type": "large_airport",
+    "distance_km": 114.5,
+    "name_zh": "长沙黄花国际机场"
+   },
+   {
+    "name": "Yongzhou Lingling Airport",
+    "iata": "LLF",
+    "city": "Yongzhou",
+    "country": "CN",
+    "lat": 26.338661,
+    "lon": 111.610043,
+    "type": "medium_airport",
+    "distance_km": 151.2,
+    "name_zh": "永州零陵机场"
+   }
+  ],
+  "nearest_airport_km": 60.1,
+  "high_speed_stations": [
+   {
+    "name": "衡山西",
+    "name_en": "Hengshan West",
+    "lat": 27.2511042,
+    "lon": 112.7837924,
+    "distance_km": 4.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "衡山",
+    "name_en": "Hengshan",
+    "lat": 27.2221644,
+    "lon": 112.882023,
+    "distance_km": 14.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "石湾",
+    "name_en": "Shiwan",
+    "lat": 27.2982775,
+    "lon": 112.9540819,
+    "distance_km": 21.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "新霞流市",
+    "name_en": "Xinxialiushi",
+    "lat": 27.0666252,
+    "lon": 112.8276037,
+    "distance_km": 22.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/衡山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

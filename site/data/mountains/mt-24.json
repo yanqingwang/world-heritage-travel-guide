@@ -1,0 +1,120 @@
+{
+ "id": "mt-24",
+ "dataset": "mountain_31",
+ "mountain_rank": 24,
+ "mountain_group": "高频名山",
+ "difficulty": "挑战",
+ "elevation_m": 2744.0,
+ "world_heritage": false,
+ "site_id": "cn-367",
+ "name_zh": "长白山",
+ "name_en": "Changbai Mountain",
+ "name_local": "",
+ "province_zh": "吉林·延边",
+ "province_en": "",
+ "province_iso": "CN-JL",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 42.03497,
+ "lon": 128.079482,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "长白山因主峰白头山多白色浮石与积雪而得名。景区是拥有“神山、圣水、奇林、仙果”等盛誉的旅游胜地，主要景点有长白山天池、白云峰、天文峰、长白温泉群 、长白山谷底林海等。",
+ "intro_en": "Mount Paektu or Mount Baekdu (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山, Chinese Korean: 장백산). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, called Janggun Peak, belongs to North Korea. The mountain notably features a caldera that contains a large crater lake called Heaven Lake, which serves as the source of the Songhua, Tumen, and Yalu rivers. Korean and Manchu people assign a mythical quality to the mountain and its lake, and consider the mountain to be their ancestral homeland. The mountain's caldera was formed by an eruption in 946 that released about 100–120 km3 (24–29 cu mi) of tephra. It was among the largest and most powerful eruptions on Earth in the last 5,000 years. The volcano last erupted in 1903, and is expected to erupt roughly once every hundred years. In the 2010s, concerns over an upcoming eruption prompted several countries to commission research into when the volcano might next erupt. The mountain is considered culturally important to multipl",
+ "tip_zh": "天池看运气，北坡与西坡路线不同，夏季最稳。",
+ "address_zh": "延边朝鲜族自治州安图县二道白河镇",
+ "address_en": "Erdaobaihe Town, Antu County, Yanbian Korean Autonomous Prefecture",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changbaishan Airport",
+    "iata": "NBS",
+    "city": "Baishan",
+    "country": "CN",
+    "lat": 42.066944,
+    "lon": 127.602222,
+    "type": "medium_airport",
+    "distance_km": 39.6,
+    "name_zh": "长白山机场"
+   },
+   {
+    "name": "Orang (Chongjin) Airport",
+    "iata": "RGO",
+    "city": "Hoemun-ri",
+    "country": "KP",
+    "lat": 41.428538,
+    "lon": 129.647555,
+    "type": "medium_airport",
+    "distance_km": 146.6,
+    "name_zh": "清津机场"
+   },
+   {
+    "name": "Yanji Chaoyangchuan Airport",
+    "iata": "YNJ",
+    "city": "Yanji",
+    "country": "CN",
+    "lat": 42.8828010559,
+    "lon": 129.451004028,
+    "type": "medium_airport",
+    "distance_km": 146.8,
+    "name_zh": "延吉朝阳川机场"
+   }
+  ],
+  "nearest_airport_km": 39.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "삼지연못가",
+    "name_en": "Samjiyon Motka",
+    "lat": 41.8287571,
+    "lon": 128.3512921,
+    "distance_km": 32.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "삼포",
+    "name_en": "Sampo",
+    "lat": 41.6770148,
+    "lon": 128.2491481,
+    "distance_km": 42.2,
+    "operator": "조선민주주의인민공화국 철도성",
+    "high_speed": false
+   },
+   {
+    "name": "독산",
+    "name_en": "Doksan",
+    "lat": 41.6441083,
+    "lon": 128.2747612,
+    "distance_km": 46.4,
+    "operator": "조선민주주의인민공화국 철도성",
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/长白山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

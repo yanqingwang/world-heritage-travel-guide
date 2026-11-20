@@ -1,0 +1,120 @@
+{
+ "id": "mt-15",
+ "dataset": "mountain_31",
+ "mountain_rank": 15,
+ "mountain_group": "道教四大",
+ "difficulty": "进阶",
+ "elevation_m": 1612.0,
+ "world_heritage": true,
+ "site_id": "cn-312",
+ "name_zh": "武当山",
+ "name_en": "Mount Wudang",
+ "name_local": "",
+ "province_zh": "湖北·十堰",
+ "province_en": "",
+ "province_iso": "CN-HB",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 32.510141,
+ "lon": 111.100659,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "武当山是著名的道教圣地、国家重点风景名胜区，古建筑群被列入世界文化遗产。武当山风光旖旎、山川秀美、众峰嵯岈，而且常年紫气氤氲、云霞迷溕，除了规模宏大的古建筑群，还有博大精深的武术和源远流长的道教文化，尽显神秘空灵气质。",
+ "intro_en": "The Wudang Mountains (simplified Chinese: 武当山; traditional Chinese: 武當山; pinyin: Wǔdāng Shān) are a mountain range in the northwestern part of Hubei, China. They are home to a famous complex of Taoist temples and monasteries associated with the Lord of the North, Xuantian Shangdi. The Wudang Mountains are renowned for the practice of tai chi and Taoism as the Taoist counterpart to the Shaolin Monastery, which is affiliated with Chan Buddhism. The Wudang Mountains are one of the \"Four Sacred Mountains of Taoism\" in China, an important destination for Taoist pilgrimages. The monasteries such as the Wudang Garden were made a UNESCO World Heritage Site in 1994 because of their religious significance and architectural achievement.",
+ "tip_zh": "金顶与南岩，景区车加索道，山上住宿有限。",
+ "address_zh": "湖北省十堰市丹江口市太和街道永乐路13号",
+ "address_en": "No. 13, Yongle Road, Taihe Street, Danjiangkou City, Shiyan City, Hubei Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 20.4,
+    "name_zh": "十堰武当山机场"
+   },
+   {
+    "name": "Xiangyang Liuji Airport",
+    "iata": "XFN",
+    "city": "Xiangyang (Xiangzhou)",
+    "country": "CN",
+    "lat": 32.152222,
+    "lon": 112.291666,
+    "type": "medium_airport",
+    "distance_km": 118.8,
+    "name_zh": "襄阳刘集机场"
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 121.7,
+    "name_zh": "神农架红坪机场"
+   }
+  ],
+  "nearest_airport_km": 20.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "武当山西",
+    "name_en": "Wudangshanxi",
+    "lat": 32.5399667,
+    "lon": 111.0086167,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "武当山",
+    "name_en": "Wudangshan",
+    "lat": 32.540419,
+    "lon": 110.960512,
+    "distance_km": 13.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "浪河",
+    "name_en": "Langhe",
+    "lat": 32.4116035,
+    "lon": 111.2626121,
+    "distance_km": 18.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/武当山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

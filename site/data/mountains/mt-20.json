@@ -1,0 +1,130 @@
+{
+ "id": "mt-20",
+ "dataset": "mountain_31",
+ "mountain_rank": 20,
+ "mountain_group": "高频名山",
+ "difficulty": "进阶",
+ "elevation_m": 2158.0,
+ "world_heritage": true,
+ "site_id": "cn-775",
+ "name_zh": "武夷山",
+ "name_en": "Mount Wuyi",
+ "name_local": "",
+ "province_zh": "福建·南平",
+ "province_en": "",
+ "province_iso": "CN-FJ",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 27.668108,
+ "lon": 117.963042,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "武夷山位于中国福建北部，素有“碧水丹山”“奇秀甲东南”之美誉，是首批国家级重点风景名胜区之一。武夷山分布着世界同纬度带现存最完整、最典型、面积最大的中亚热带原生性森林生态系统。主要景点有天游峰、桃源洞、武夷宫、大王峰、玉女峰、虎啸岩、一线天、天心寺、莲花峰、遇林亭。",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "tip_zh": "九曲溪竹筏加天游峰，茶区可顺访。",
+ "address_zh": "南平市武夷山市武夷街道",
+ "address_en": "Wuyi Street, Wuyishan City, Nanping City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 5.3,
+    "name_zh": "武夷山机场"
+   },
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 79.1,
+    "name_zh": "上饶三清山机场"
+   },
+   {
+    "name": "Sanming Shaxian Airport",
+    "iata": "SQJ",
+    "city": "Sanming (Sha)",
+    "country": "CN",
+    "lat": 26.4263,
+    "lon": 117.8336,
+    "type": "medium_airport",
+    "distance_km": 138.7,
+    "name_zh": "三明沙县机场"
+   }
+  ],
+  "nearest_airport_km": 5.3,
+  "high_speed_stations": [
+   {
+    "name": "武夷山北",
+    "name_en": "Wuyishanbei",
+    "lat": 27.7810329,
+    "lon": 118.0403584,
+    "distance_km": 14.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "武夷山",
+    "name_en": "Wuyishan",
+    "lat": 27.6287401,
+    "lon": 117.9842007,
+    "distance_km": 4.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南源岭",
+    "name_en": null,
+    "lat": 27.6112573,
+    "lon": 117.9834182,
+    "distance_km": 6.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东山埔",
+    "name_en": null,
+    "lat": 27.5972263,
+    "lon": 117.9857021,
+    "distance_km": 8.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

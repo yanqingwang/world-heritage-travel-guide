@@ -1,0 +1,120 @@
+{
+ "id": "mt-29",
+ "dataset": "mountain_31",
+ "mountain_rank": 29,
+ "mountain_group": "高频名山",
+ "difficulty": "雪山",
+ "elevation_m": 6250.0,
+ "world_heritage": false,
+ "site_id": "cn-26444",
+ "name_zh": "四姑娘山",
+ "name_en": "Mount Siguniang",
+ "name_local": "",
+ "province_zh": "四川·阿坝",
+ "province_en": "",
+ "province_iso": "CN-SC",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 31.035123,
+ "lon": 102.818742,
+ "images": [],
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "四姑娘山地处在中国地貌第一阶梯青藏高原东部边缘，属于第二阶梯四川盆地向青藏高原的过渡地带，大地构造属于中国大地地槽区的松潘—甘孜褶皱带，地貌分区属于川西高山高原区，高山峡谷亚区，大渡河中游高山峡谷地带。\n景区核心景点为三沟四峰，三沟：双桥沟、长坪沟、海子沟；四峰：幺妹峰、三姑娘山、二姑娘山、大姑娘山。幺妹峰是四姑娘山主峰，海拔6250米，是邛崃山脉的最高峰，四川第二高峰，仅次于被誉为“蜀山之王”的贡嘎山，人称“蜀山皇后”“东方圣山”。景区内海拔在5000米以上的雪峰85座，终年积雪，发育有现代山岳冰川。",
+ "intro_en": "Mount Siguniang (Chinese: 四姑娘山; pinyin: Sìgūniang Shān; lit. 'Mountain of the Four Maidens'), or Mount Skubla (Tibetan: རི་བོ་སྐུ་བླ་, Wylie: ri bo sku bla, lit. 'Mountain of the tutelary deity') is the highest mountain of Qionglai Mountains in Western China. It is located in the bordering area of Siguniangshan Town, Xiaojin County and Wenchuan County in Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Mount Siguniang is renowned for its beauty. Mount Siguniang National Park was identified as a UNESCO Heritage Site as part of Sichuan Giant Panda Sanctuaries in 2006. The park comprises Mount Siguniang and the surrounding three valleys, namely Changping Valley (长坪沟), Haizi Valley (海子沟) and Shuangqiao Valley (双桥沟), covering an area of 2,000sq km.",
+ "tip_zh": "大峰 5025 米是热门入门雪山，需向导与许可。",
+ "address_zh": "四川省阿坝藏族羌族自治州小金县四姑娘山镇",
+ "address_en": "Siguniangshan Town, Xiaojin County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chengdu Shuangliu International Airport",
+    "iata": "CTU",
+    "city": "Chengdu (Shuangliu)",
+    "country": "CN",
+    "lat": 30.558257,
+    "lon": 103.945966,
+    "type": "large_airport",
+    "distance_km": 120.0,
+    "name_zh": "成都双流国际机场"
+   },
+   {
+    "name": "Kangding Airport",
+    "iata": "KGT",
+    "city": "Garzê (Kangding)",
+    "country": "CN",
+    "lat": 30.142464,
+    "lon": 101.73872,
+    "type": "medium_airport",
+    "distance_km": 143.3,
+    "name_zh": "甘孜康定机场"
+   },
+   {
+    "name": "Chengdu Tianfu International Airport",
+    "iata": "TFU",
+    "city": "Chengdu (Jianyang)",
+    "country": "CN",
+    "lat": 30.31252,
+    "lon": 104.441284,
+    "type": "large_airport",
+    "distance_km": 174.7,
+    "name_zh": "成都天府国际机场"
+   }
+  ],
+  "nearest_airport_km": 120.0,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "四姑娘山",
+    "name_en": null,
+    "lat": 30.9924451,
+    "lon": 102.8347257,
+    "distance_km": 5.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "巴朗山",
+    "name_en": null,
+    "lat": 30.8876848,
+    "lon": 102.914016,
+    "distance_km": 18.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "邓生沟",
+    "name_en": null,
+    "lat": 30.89501,
+    "lon": 103.005878,
+    "distance_km": 23.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/四姑娘山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

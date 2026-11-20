@@ -1,0 +1,120 @@
+{
+ "id": "mt-04",
+ "dataset": "mountain_31",
+ "mountain_rank": 4,
+ "mountain_group": "高频名山",
+ "difficulty": "入门",
+ "elevation_m": 917.0,
+ "world_heritage": false,
+ "site_id": "cn-701",
+ "name_zh": "太姥山",
+ "name_en": "Mount Taimu",
+ "name_local": "",
+ "province_zh": "福建·宁德",
+ "province_en": "",
+ "province_iso": "CN-FJ",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 27.10571,
+ "lon": 120.248672,
+ "images": [],
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "世界地质公园、国家级风景名胜区、国家自然遗产——太姥山，宁德世界地质公园太姥山园区，位于闽浙边界的福鼎市境内。太姥山是一处以花岗岩峰林岩洞为特色，融山、海、川、岛和人文景观于一体的风景旅游胜地，拥有太姥山岳、九鲤溪瀑、福瑶列岛、晴川海滨四大景区和瑞云古刹、翠郊古民居两处独立景点。",
+ "intro_en": "Mount Taimu (Chinese: 太姥山) is a mountain in Ningde, Fujian, China. It is located 46km south of the county-level city of Fuding, 150km away from Wenzhou in the north, and 250km away from Fuzhou in the south. The mountain overlooks Yandang Mountain in the north and Wuyi Mountain in the west, with plenty of Taoist and Buddhist temples and sites.",
+ "tip_zh": "花岗岩峰林与洞道，穿防滑鞋，晴天看海更美。",
+ "address_zh": "宁德市福鼎市太姥山镇",
+ "address_en": "Taimushan Town, Fuding City, Ningde City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Matsu Beigan Airport",
+    "iata": "MFK",
+    "city": "Matsu (Beigan)",
+    "country": "TW",
+    "lat": 26.22414,
+    "lon": 120.002679,
+    "type": "medium_airport",
+    "distance_km": 101.0,
+    "name_zh": "马祖北竿机场"
+   },
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 107.6,
+    "name_zh": "温州龙湾国际机场"
+   },
+   {
+    "name": "Matsu Nangan Airport",
+    "iata": "LZN",
+    "city": "Matsu (Nangan)",
+    "country": "TW",
+    "lat": 26.159656,
+    "lon": 119.958376,
+    "type": "medium_airport",
+    "distance_km": 109.1,
+    "name_zh": "马祖南竿机场"
+   }
+  ],
+  "nearest_airport_km": 101.0,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "太姥山",
+    "name_en": "Taimushan",
+    "lat": 27.1298827,
+    "lon": 120.2197409,
+    "distance_km": 3.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "福鼎",
+    "name_en": "Fuding",
+    "lat": 27.2855804,
+    "lon": 120.1846007,
+    "distance_km": 21.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "福鼎西",
+    "name_en": null,
+    "lat": 27.2943274,
+    "lon": 120.1801174,
+    "distance_km": 22.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/太姥山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

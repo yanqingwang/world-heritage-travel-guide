@@ -1,0 +1,130 @@
+{
+ "id": "mt-14",
+ "dataset": "mountain_31",
+ "mountain_rank": 14,
+ "mountain_group": "五岳",
+ "difficulty": "进阶",
+ "elevation_m": 1545.0,
+ "world_heritage": true,
+ "site_id": "cn-1425",
+ "name_zh": "泰山",
+ "name_en": "Mount Tai",
+ "name_local": "",
+ "province_zh": "山东·泰安",
+ "province_en": "",
+ "province_iso": "CN-SD",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 36.210482,
+ "lon": 117.136047,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "泰山是中国著名的五岳之一，是世界自然与文化遗产、世界地质公园、国家级风景名胜区。泰山自古被视为帝王告祭的神山，自秦始皇开始到清代，先后有13代帝王依次亲登泰山封禅或祭祀。泰山上共有20余处古建筑群，2200余处碑碣石刻。",
+ "intro_en": "Mount Tai (Chinese: 泰山; pinyin: Tài Shān) or Taishan is a mountain of historical and cultural significance located north of the city of Tai'an. It is the highest point in Shandong province, China. The tallest peak is the Jade Emperor Peak (simplified Chinese: 玉皇顶; traditional Chinese: 玉皇頂; pinyin: Yùhuáng Dǐng), which is commonly reported as being 1,545 meters (5,069 ft) tall. Mount Tai is known as the eastern mountain of the Sacred Mountains of China. It is associated with sunrise, birth, and renewal, and is often regarded the foremost of the five. Mount Tai has been a place of worship for at least 3,000 years and served as one of the most important ceremonial centers of China during large portions of this period. Because of its sacred importance and dramatic landscape, it was made a UNESCO World Heritage Site in 1987. It meets 7 of the 10 evaluation standards for World Heritage sites, and is listed as a World Heritage site that meets the most of the standards, along with the Tasmanian Wilderness World Heritage Area in Australia. An earthquake or thunderstorm occurred around Mount Tai in 1831 BC or 1652 BC, also known as the Mount Tai earthquake. This event was first recorded in t",
+ "tip_zh": "红门徒步或天外村坐车到中天门，夜爬看日出。",
+ "address_zh": "山东省泰安市泰山区红门路",
+ "address_en": "Hongmen Road, Taishan District, Tai'an City, Shandong Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jining Da'an Airport",
+    "iata": "JNG",
+    "city": "Jining",
+    "country": "CN",
+    "lat": 35.647358,
+    "lon": 116.743269,
+    "type": "medium_airport",
+    "distance_km": 71.9,
+    "name_zh": "济宁大安机场"
+   },
+   {
+    "name": "Jinan Yaoqiang International Airport",
+    "iata": "TNA",
+    "city": "Jinan (Licheng)",
+    "country": "CN",
+    "lat": 36.857201,
+    "lon": 117.216003,
+    "type": "large_airport",
+    "distance_km": 72.3,
+    "name_zh": "济南遥墙国际机场"
+   },
+   {
+    "name": "Heze Mudan Airport",
+    "iata": "HZA",
+    "city": "Heze (Dingtao)",
+    "country": "CN",
+    "lat": 35.212972,
+    "lon": 115.736748,
+    "type": "medium_airport",
+    "distance_km": 168.1,
+    "name_zh": "菏泽牡丹机场"
+   }
+  ],
+  "nearest_airport_km": 71.9,
+  "high_speed_stations": [
+   {
+    "name": "泰安",
+    "name_en": "Tai'an",
+    "lat": 36.1719485,
+    "lon": 117.0292532,
+    "distance_km": 10.5,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "泰山",
+    "name_en": "Taishan",
+    "lat": 36.1865418,
+    "lon": 117.1031377,
+    "distance_km": 4.0,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "上高镇",
+    "name_en": "Shanggaozhen",
+    "lat": 36.1760652,
+    "lon": 117.1693816,
+    "distance_km": 4.9,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "大河",
+    "name_en": null,
+    "lat": 36.2074229,
+    "lon": 117.043603,
+    "distance_km": 8.3,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/泰山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

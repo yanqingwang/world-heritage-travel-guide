@@ -1,0 +1,120 @@
+{
+ "id": "mt-07",
+ "dataset": "mountain_31",
+ "mountain_rank": 7,
+ "mountain_group": "高频名山",
+ "difficulty": "入门",
+ "elevation_m": 1308.0,
+ "world_heritage": false,
+ "site_id": "cn-407",
+ "name_zh": "云台山",
+ "name_en": "Mount Yuntai",
+ "name_local": "",
+ "province_zh": "河南·焦作",
+ "province_en": "",
+ "province_iso": "CN-HA",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 35.441412,
+ "lon": 113.383373,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "风景区包含云台山、青天河、神农山三个主题景区。其中，云台山是一处以太行山岳水景为特色，以峡谷类地质地貌景观和历史文化为内涵的科普生态旅游景区；神农山相传是道教创始人老子筑炉炼丹、成道仙升之所；青天河是集江南水乡与北国田园风光于一体的旅游景区，素有“北方三峡”之荣和“豫北小桂林”之誉。",
+ "intro_en": "The scenic area includes three themed scenic areas: Yuntai Mountain, Qingtian River, and Shennong Mountain. Among them, Yuntai Mountain is a popular science and eco-tourism scenic spot featuring the waterscape of the Taihang Mountains, canyon-like geological landscapes and historical culture; Shennong Mountain is said to be the place where Laozi, the founder of Taoism, built a furnace to refine elixirs and became a Taoist; Qingtian River is a tourist attraction integrating the water towns of the south of the Yangtze River and the pastoral scenery of the North. It is known as the \"Three Gorges of the North\" and the \"Little Guilin of Northern Henan\".",
+ "tip_zh": "红石峡加茱萸峰，景区交通车串联各片区。",
+ "address_zh": "焦作市修武县、博爱县和沁阳市境内",
+ "address_en": "Within Xiuwu County, Boai County and Qinyang City, Jiaozuo City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changzhi Wangcun Airport",
+    "iata": "CIH",
+    "city": "Changzhi",
+    "country": "CN",
+    "lat": 36.247501,
+    "lon": 113.125999,
+    "type": "small_airport",
+    "distance_km": 92.6,
+    "name_zh": "长治王村机场"
+   },
+   {
+    "name": "Anyang Hongqiqu Airport",
+    "iata": "HQQ",
+    "city": "Anyang",
+    "country": "CN",
+    "lat": 35.870833,
+    "lon": 114.461944,
+    "type": "small_airport",
+    "distance_km": 108.5,
+    "name_zh": "安阳红旗渠机场"
+   },
+   {
+    "name": "Zhengzhou Xinzheng International Airport",
+    "iata": "CGO",
+    "city": "Zhengzhou",
+    "country": "CN",
+    "lat": 34.526497,
+    "lon": 113.849165,
+    "type": "large_airport",
+    "distance_km": 110.2,
+    "name_zh": "郑州新郑国际机场"
+   }
+  ],
+  "nearest_airport_km": 92.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "凤洼",
+    "name_en": null,
+    "lat": 35.3505559,
+    "lon": 113.4561861,
+    "distance_km": 12.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "安阳城",
+    "name_en": null,
+    "lat": 35.316666,
+    "lon": 113.3809394,
+    "distance_km": 13.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "小马",
+    "name_en": null,
+    "lat": 35.2866788,
+    "lon": 113.3149329,
+    "distance_km": 18.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青天河"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

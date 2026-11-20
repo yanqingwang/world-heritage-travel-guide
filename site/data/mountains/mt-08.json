@@ -1,0 +1,120 @@
+{
+ "id": "mt-08",
+ "dataset": "mountain_31",
+ "mountain_rank": 8,
+ "mountain_group": "三山",
+ "difficulty": "进阶",
+ "elevation_m": 1108.0,
+ "world_heritage": false,
+ "site_id": "cn-1023",
+ "name_zh": "雁荡山",
+ "name_en": "Mount Yandang",
+ "name_local": "",
+ "province_zh": "浙江·温州",
+ "province_en": "",
+ "province_iso": "CN-ZJ",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 28.373528,
+ "lon": 121.109514,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "雁荡山因山顶有湖，芦苇茂密，结草为荡，南归秋雁多宿于此，故名雁荡。景区以奇峰怪石、古洞石室、飞瀑流泉称胜；其中，灵峰、灵岩、大龙湫三个景区被称为“雁荡三绝”。",
+ "intro_en": "Yandang Mountains or Yandangshan (simplified Chinese: 雁荡山; traditional Chinese: 雁蕩山; pinyin: Yàndàng Shān; lit. 'Wild Goose Pond Mountain(s)') refers, in the broad sense, to a coastal mountain range in southeastern Zhejiang province in eastern China, covering much of the prefecture-level city of Wenzhou (from Pingyang County in the south to Yueqing County in the northeast) and extending to the county-level city of Wenling in Taizhou prefecture. The mountain range is divided in two by the Oujiang River, the two parts being the North Yandang and South Yandang. More narrowly, Yandangshan is also used to refer to Mount Yandang, a specific part of the North Yandang around an ancient caldera near a small town of the same name (雁荡镇; Yàndàng Zhèn). The highest peaks of North Yandang are located here, and this is also the main tourist spot. In this article, name \"Yandang Mountains\" is used to refer the mountain range and \"Mt. Yandang\" to refer to the caldera. The main peak of North Yandang, Baigangjian (百岗尖; Bǎigǎng Jiān; 'Hundred-Peak Point'), rises 1,150 m (3,770 ft) above sea level There is a radar station on the peak, which is closed to the public. In 2004, Yandangshan became National G",
+ "tip_zh": "灵峰夜景别错过，分灵峰、灵岩、大龙湫三片。",
+ "address_zh": "浙江省温州市乐清市雁荡镇响岭头村",
+ "address_en": "Xianglingtou Village, Yandang Town, Yueqing City, Wenzhou City, Zhejiang Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taizhou Luqiao Airport",
+    "iata": "HYN",
+    "city": "Taizhou (Luqiao)",
+    "country": "CN",
+    "lat": 28.562201,
+    "lon": 121.429001,
+    "type": "medium_airport",
+    "distance_km": 37.6,
+    "name_zh": "台州路桥机场"
+   },
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 57.3,
+    "name_zh": "温州龙湾国际机场"
+   },
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 150.4,
+    "name_zh": "义乌机场"
+   }
+  ],
+  "nearest_airport_km": 37.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "雁荡山",
+    "name_en": "Yandangshan",
+    "lat": 28.3444955,
+    "lon": 121.1478227,
+    "distance_km": 4.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "温岭西",
+    "name_en": null,
+    "lat": 28.3974576,
+    "lon": 121.2932326,
+    "distance_km": 18.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "乐清湾",
+    "name_en": null,
+    "lat": 28.1923382,
+    "lon": 121.1016941,
+    "distance_km": 20.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/雁荡山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

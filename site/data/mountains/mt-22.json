@@ -1,0 +1,130 @@
+{
+ "id": "mt-22",
+ "dataset": "mountain_31",
+ "mountain_rank": 22,
+ "mountain_group": "五岳",
+ "difficulty": "挑战",
+ "elevation_m": 2155.0,
+ "world_heritage": false,
+ "site_id": "cn-1067",
+ "name_zh": "华山",
+ "name_en": "Mount Hua",
+ "name_local": "",
+ "province_zh": "陕西·渭南",
+ "province_en": "",
+ "province_iso": "CN-SN",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 34.532844,
+ "lon": 110.108226,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "华山古称“西岳”，雅称“太华山”，中国五岳之一。华山雄伟奇峻，山势峻峭，壁立千仞，群峰挺秀，自古以来就有“华山天下险”“奇险天下第一山”美誉。",
+ "intro_en": "Mount Hua (simplified Chinese: 华山; traditional Chinese: 華山; pinyin: Huà Shān) is a mountain located near the city of Huayin in Shaanxi Province, about 120 kilometres (75 mi) east of Xi'an. It is the \"Western Mountain\" of the Five Great Mountains of China and has a long history of religious significance. Originally classified as having three peaks, in modern times it is classified as having five main peaks, the highest of which is the South Peak at 2,154.9 metres (7,070 ft).",
+ "tip_zh": "长空栈道需另付费，夜爬或索道上下均可。",
+ "address_zh": "陕西省渭南市华阴市华山镇",
+ "address_en": "Huashan Town, Huayin City, Weinan City, Shaanxi Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yuncheng Yanhu International Airport",
+    "iata": "YCU",
+    "city": "Yuncheng (Yanhu)",
+    "country": "CN",
+    "lat": 35.117823,
+    "lon": 111.034023,
+    "type": "large_airport",
+    "distance_km": 106.6,
+    "name_zh": "运城盐湖国际机场"
+   },
+   {
+    "name": "Xi'an Xianyang International Airport",
+    "iata": "XIY",
+    "city": "Xi'an",
+    "country": "CN",
+    "lat": 34.442207,
+    "lon": 108.762385,
+    "type": "large_airport",
+    "distance_km": 123.8,
+    "name_zh": "西安咸阳国际机场"
+   },
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 209.8,
+    "name_zh": "洛阳北郊机场"
+   }
+  ],
+  "nearest_airport_km": 106.6,
+  "high_speed_stations": [
+   {
+    "name": "华山北",
+    "name_en": "Huashan North",
+    "lat": 34.5832012,
+    "lon": 110.0930339,
+    "distance_km": 5.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "孟塬",
+    "name_en": "Mengyuan",
+    "lat": 34.5561587,
+    "lon": 110.1350056,
+    "distance_km": 3.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "华山",
+    "name_en": "Huashan",
+    "lat": 34.5225441,
+    "lon": 110.0610374,
+    "distance_km": 4.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桃下",
+    "name_en": null,
+    "lat": 34.5243273,
+    "lon": 109.9994419,
+    "distance_km": 10.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/华山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

@@ -1,0 +1,120 @@
+{
+ "id": "mt-23",
+ "dataset": "mountain_31",
+ "mountain_rank": 23,
+ "mountain_group": "高频名山",
+ "difficulty": "挑战",
+ "elevation_m": 2572.0,
+ "world_heritage": true,
+ "site_id": "cn-1313",
+ "name_zh": "梵净山",
+ "name_en": "Mount Fanjing",
+ "name_local": "",
+ "province_zh": "贵州·铜仁",
+ "province_en": "",
+ "province_iso": "CN-GZ",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 27.846663,
+ "lon": 108.780961,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "梵净山系武陵山脉主峰，是世界自然遗产、国家级自然保护区。原始洪荒是梵净山的景观特征，全境山势雄伟、层峦叠嶂，溪流纵横、飞瀑悬泻。其标志性景点有红云金顶、月镜山、万米睡佛、蘑菇石、万卷经书、九龙池、凤凰山等。",
+ "intro_en": "The Fanjingshan (Chinese: 梵净山; pinyin: Fànjìngshān) or Mount Fanjing, located in Tongren, Guizhou province, is the highest peak of the Wuling Mountains in southeastern China, at an elevation of 2,570 m (8,430 ft). The Fanjingshan National Nature Reserve was established in 1978 and designated a UNESCO Biosphere Reserve in 1986. Fanjingshan is a sacred mountain in Chinese Buddhism, considered to be the bodhimaṇḍa of the Maitreya Buddha. It became a UNESCO World Heritage Site in 2018.",
+ "tip_zh": "红云金顶需预约，索道后仍要爬一段台阶。",
+ "address_zh": "铜仁市江口县太平镇",
+ "address_en": "Taiping Town, Jiangkou County, Tongren City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tongren Fenghuang Airport",
+    "iata": "TEN",
+    "city": "Tongren (Daxing)",
+    "country": "CN",
+    "lat": 27.883333,
+    "lon": 109.308889,
+    "type": "medium_airport",
+    "distance_km": 52.1,
+    "name_zh": "铜仁凤凰机场"
+   },
+   {
+    "name": "Huaihua Zhijiang Airport",
+    "iata": "HJJ",
+    "city": "Huaihua",
+    "country": "CN",
+    "lat": 27.443087,
+    "lon": 109.704666,
+    "type": "medium_airport",
+    "distance_km": 101.5,
+    "name_zh": "怀化芷江机场"
+   },
+   {
+    "name": "Xiangxi Biancheng Airport",
+    "iata": "DXJ",
+    "city": "Xiangxi",
+    "country": "CN",
+    "lat": 28.4972,
+    "lon": 109.5218,
+    "type": "small_airport",
+    "distance_km": 102.5,
+    "name_zh": "湘西边城机场"
+   }
+  ],
+  "nearest_airport_km": 52.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "桃映",
+    "name_en": null,
+    "lat": 27.8633604,
+    "lon": 109.0164703,
+    "distance_km": 23.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "普觉",
+    "name_en": null,
+    "lat": 28.0042344,
+    "lon": 108.9594358,
+    "distance_km": 24.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "松桃",
+    "name_en": "Mengxi",
+    "lat": 28.0799947,
+    "lon": 108.9687966,
+    "distance_km": 31.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/梵净山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

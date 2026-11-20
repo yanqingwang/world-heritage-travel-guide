@@ -1,0 +1,120 @@
+{
+ "id": "mt-10",
+ "dataset": "mountain_31",
+ "mountain_rank": 10,
+ "mountain_group": "佛教四大",
+ "difficulty": "进阶",
+ "elevation_m": 1342.0,
+ "world_heritage": false,
+ "site_id": "cn-332",
+ "name_zh": "九华山",
+ "name_en": "Mount Jiuhua",
+ "name_local": "",
+ "province_zh": "安徽·池州",
+ "province_en": "",
+ "province_iso": "CN-AH",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 30.483187,
+ "lon": 117.806842,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "九华山，是以佛教文化、自然人文盛景为特色的山岳型国家级风景名胜区。景区内群峰竞秀，怪石林立，九大主峰如九朵莲花，千姿百态，各具神韵，构成了一幅幅清新自然的山水画卷。",
+ "intro_en": "Mount Jiuhua (simplified Chinese: 九华山; traditional Chinese: 九華山; pinyin: Jǐuhuá Shān; lit. 'Nine Glorious Mountains') located in Chizhou, Anhui Province in China is an important Buddhist site and natural scenic spot. It is one of the four famous Buddhist mountains in China, one of the first batch of 5A level scenic spots in China, one of the first batch of natural and cultural heritage sites in China, and the main scenic spot of \"two mountains and one lake\" (Jiuhua Mountain, Taiping Lake, Huangshan) tourism development strategy in Anhui Province. The planned area of the scenic spot is 120 square kilometers, and the protected area is 174 square kilometers, which is composed of 11 scenic spots.",
+ "tip_zh": "地藏道场，九华街住宿方便，百岁宫可索道。",
+ "address_zh": "安徽省池州市青阳县九华镇",
+ "address_en": "Jiuhua Town, Qingyang County, Chizhou City, Anhui Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chizhou Jiuhuashan Airport",
+    "iata": "JUH",
+    "city": "Chizhou",
+    "country": "CN",
+    "lat": 30.7403,
+    "lon": 117.6856,
+    "type": "small_airport",
+    "distance_km": 30.9,
+    "name_zh": "池州九华山机场"
+   },
+   {
+    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
+    "iata": "AQG",
+    "city": "Anqing",
+    "country": "CN",
+    "lat": 30.582199,
+    "lon": 117.050003,
+    "type": "medium_airport",
+    "distance_km": 73.3,
+    "name_zh": "安庆天柱山机场"
+   },
+   {
+    "name": "Huangshan Tunxi International Airport",
+    "iata": "TXN",
+    "city": "Huangshan",
+    "country": "CN",
+    "lat": 29.733299,
+    "lon": 118.255997,
+    "type": "large_airport",
+    "distance_km": 93.9,
+    "name_zh": "黄山屯溪机场"
+   }
+  ],
+  "nearest_airport_km": 30.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "九华山",
+    "name_en": null,
+    "lat": 30.5981738,
+    "lon": 117.8513647,
+    "distance_km": 13.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "茅坦",
+    "name_en": null,
+    "lat": 30.6745846,
+    "lon": 117.7425128,
+    "distance_km": 22.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "马衙",
+    "name_en": null,
+    "lat": 30.6542274,
+    "lon": 117.6543829,
+    "distance_km": 24.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/九华山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

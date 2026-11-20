@@ -1,0 +1,130 @@
+{
+ "id": "mt-13",
+ "dataset": "mountain_31",
+ "mountain_rank": 13,
+ "mountain_group": "五岳",
+ "difficulty": "进阶",
+ "elevation_m": 1512.0,
+ "world_heritage": true,
+ "site_id": "cn-442",
+ "name_zh": "嵩山",
+ "name_en": "Mount Song",
+ "name_local": "",
+ "province_zh": "河南·郑州",
+ "province_en": "",
+ "province_iso": "CN-HA",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 34.520888,
+ "lon": 112.962116,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "嵩山少林风景区位于河南省登封市境内，除了巍峨耸立的嵩山，景区还有始建于北魏的少林寺、规模宏大的中岳庙、程朱理学发源地嵩阳书院等古迹。其中，少林寺有“天下第一名刹”的美誉，现存建筑包括常住院、塔林、初祖庵、二祖庵及达摩洞等。2007年8月17日，嵩山少林风景区入选首批国家5A级景区。",
+ "intro_en": "Mount Song (Chinese: 嵩山; pinyin: Sōngshān, \"lofty mountain\") is an isolated mountain range in north central China's Henan Province, along the southern bank of the Yellow River. It is known in literary and folk tradition as the central mountain of the Five Great Mountains of China. Since at least as early as the early 1st millennium BC, Chinese astronomical mythology had acquired the idea that Mount Song is \"the centre of Heaven and Earth.\" It was respected as such by the successive dynasties of the Chinese Empire. The name Songshan also applies to a peak of the range located at 34°30′38″N 112°56′05″E, elevation 1,492 m (4,895 ft). It is the 4th highest peak, but second in prominence at 869 m (2,851 ft). Songshan National Scenic Spot is named after it. The highest peak in the range is Lian Tian Feng at 1,512 metres (4,961 ft), also most prominent at 1,221 m (4,006 ft). It is located at the coordinates shown for the article. On its upper slopes is the Sanhuangzhai Scenic Spot, further west seen from Route G1516 (Yanluo Expressway), which skirts the range on the south. The location is across the Shaoyang valley on the west side of which is Shaolin Monastery. The valley is well populat",
+ "tip_zh": "少林寺在景区内，三皇寨徒步线路较长。",
+ "address_zh": "郑州市登封市少林街道",
+ "address_en": "Shaolin Street, Dengfeng City, Zhengzhou City",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 58.0,
+    "name_zh": "洛阳北郊机场"
+   },
+   {
+    "name": "Zhengzhou Xinzheng International Airport",
+    "iata": "CGO",
+    "city": "Zhengzhou",
+    "country": "CN",
+    "lat": 34.526497,
+    "lon": 113.849165,
+    "type": "large_airport",
+    "distance_km": 81.3,
+    "name_zh": "郑州新郑国际机场"
+   },
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 174.0,
+    "name_zh": "南阳姜营机场"
+   }
+  ],
+  "nearest_airport_km": 58.0,
+  "high_speed_stations": [
+   {
+    "name": "巩义南",
+    "name_en": "Gongyi South",
+    "lat": 34.6716859,
+    "lon": 112.9105621,
+    "distance_km": 17.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "安庙",
+    "name_en": null,
+    "lat": 34.3591051,
+    "lon": 112.9818435,
+    "distance_km": 18.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "白坪",
+    "name_en": null,
+    "lat": 34.3730923,
+    "lon": 113.0760955,
+    "distance_km": 19.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阳城货场",
+    "name_en": null,
+    "lat": 34.3861893,
+    "lon": 113.1157728,
+    "distance_km": 20.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/嵩山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

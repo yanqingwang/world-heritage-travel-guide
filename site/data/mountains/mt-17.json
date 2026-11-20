@@ -1,0 +1,139 @@
+{
+ "id": "mt-17",
+ "dataset": "mountain_31",
+ "mountain_rank": 17,
+ "mountain_group": "三山",
+ "difficulty": "进阶",
+ "elevation_m": 1864.0,
+ "world_heritage": true,
+ "site_id": "cn-333",
+ "name_zh": "黄山",
+ "name_en": "Mount Huang",
+ "name_local": "",
+ "province_zh": "安徽·黄山",
+ "province_en": "",
+ "province_iso": "CN-AH",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 30.097085,
+ "lon": 118.194235,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "黄山被世人誉为“天下第一奇山”，素以奇松、怪石、云海、温泉著称于世，历来享有“五岳归来不看山，黄山归来不看岳”的美誉。",
+ "intro_en": "Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally meaning the Yellow Mountain(s), is a mountain range in southern Anhui province in eastern China. It was originally called \"Yishan\", and it was renamed because of a legend that the Yellow Emperor once made alchemy here. Vegetation on the range is thickest below 1,100 meters (3,600 ft), with trees growing up to the treeline at 1,800 meters (5,900 ft). The area is well known for its scenery, sunsets, peculiarly shaped granite peaks, Huangshan pine trees, hot springs, winter snow, and views of the clouds from above. Huangshan is a frequent subject of traditional Chinese paintings and literature, as well as modern photography. It is a UNESCO World Heritage Site and one of China's major tourist destinations.",
+ "tip_zh": "前山后山各一天，山顶住宿需提前预订。",
+ "address_zh": "安徽省黄山市黄山区205国道",
+ "address_en": "National Highway 205, Huangshan District, Huangshan City, Anhui Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Huangshan Tunxi International Airport",
+    "iata": "TXN",
+    "city": "Huangshan",
+    "country": "CN",
+    "lat": 29.733299,
+    "lon": 118.255997,
+    "type": "large_airport",
+    "distance_km": 40.9,
+    "name_zh": "黄山屯溪机场"
+   },
+   {
+    "name": "Chizhou Jiuhuashan Airport",
+    "iata": "JUH",
+    "city": "Chizhou",
+    "country": "CN",
+    "lat": 30.7403,
+    "lon": 117.6856,
+    "type": "small_airport",
+    "distance_km": 86.6,
+    "name_zh": "池州九华山机场"
+   },
+   {
+    "name": "Wuhu Xuanzhou Airport",
+    "iata": "WHA",
+    "city": "Wuhu",
+    "country": "CN",
+    "lat": 31.1045,
+    "lon": 118.66687,
+    "type": "medium_airport",
+    "distance_km": 120.8,
+    "name_zh": "芜湖宣州机场"
+   }
+  ],
+  "nearest_airport_km": 40.9,
+  "high_speed_stations": [
+   {
+    "name": "歙县北",
+    "name_en": null,
+    "lat": 29.9243518,
+    "lon": 118.4051782,
+    "distance_km": 28.0,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "黄山北",
+    "name_en": "Huangshanbei",
+    "lat": 29.8183365,
+    "lon": 118.2673395,
+    "distance_km": 31.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "黄山西",
+    "name_en": null,
+    "lat": 30.2797295,
+    "lon": 118.0846561,
+    "distance_km": 22.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "黟县东",
+    "name_en": "Yixiandong",
+    "lat": 29.8873331,
+    "lon": 118.0429002,
+    "distance_km": 27.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三昆",
+    "name_en": null,
+    "lat": 29.9355094,
+    "lon": 118.4735718,
+    "distance_km": 32.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

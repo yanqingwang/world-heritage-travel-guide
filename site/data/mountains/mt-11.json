@@ -1,0 +1,120 @@
+{
+ "id": "mt-11",
+ "dataset": "mountain_31",
+ "mountain_rank": 11,
+ "mountain_group": "三山",
+ "difficulty": "进阶",
+ "elevation_m": 1474.0,
+ "world_heritage": true,
+ "site_id": "cn-1444",
+ "name_zh": "庐山",
+ "name_en": "Mount Lu",
+ "name_local": "",
+ "province_zh": "江西·九江",
+ "province_en": "",
+ "province_iso": "CN-JX",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 29.561544,
+ "lon": 116.001082,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "庐山风景名胜区是世界文化遗产、世界地质公园、国家重点风景名胜区、全国重点文物保护单位，也是避暑疗养胜地。庐山以雄、奇、险、秀闻名，素有“匡庐奇秀甲天下”之美誉。",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "tip_zh": "牯岭镇避暑，含鄱口看日出，云雾多备雨具。",
+ "address_zh": "江西省九江市庐山市牯岭镇",
+ "address_en": "Guling Town, Lushan City, Jiujiang City, Jiangxi Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jiujiang Lushan Airport",
+    "iata": "JIU",
+    "city": "Jiujiang",
+    "country": "CN",
+    "lat": 29.476944,
+    "lon": 115.801111,
+    "type": "small_airport",
+    "distance_km": 21.5,
+    "name_zh": "九江庐山机场"
+   },
+   {
+    "name": "Nanchang Changbei International Airport",
+    "iata": "KHN",
+    "city": "Nanchang",
+    "country": "CN",
+    "lat": 28.864815,
+    "lon": 115.90271,
+    "type": "large_airport",
+    "distance_km": 78.1,
+    "name_zh": "南昌昌北国际机场"
+   },
+   {
+    "name": "Jingdezhen Luojia Airport",
+    "iata": "JDZ",
+    "city": "Jingdezhen",
+    "country": "CN",
+    "lat": 29.3386,
+    "lon": 117.176003,
+    "type": "medium_airport",
+    "distance_km": 116.4,
+    "name_zh": "景德镇罗家机场"
+   }
+  ],
+  "nearest_airport_km": 21.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "三叠泉缆车上站",
+    "name_en": null,
+    "lat": 29.559366,
+    "lon": 116.0123274,
+    "distance_km": 1.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三叠泉缆车下站",
+    "name_en": null,
+    "lat": 29.5660246,
+    "lon": 116.0252305,
+    "distance_km": 2.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "庐山",
+    "name_en": "Lushan",
+    "lat": 29.5996356,
+    "lon": 115.874339,
+    "distance_km": 13.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

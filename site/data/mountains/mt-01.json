@@ -1,0 +1,120 @@
+{
+ "id": "mt-01",
+ "dataset": "mountain_31",
+ "mountain_rank": 1,
+ "mountain_group": "佛教四大",
+ "difficulty": "入门",
+ "elevation_m": 288.0,
+ "world_heritage": false,
+ "site_id": "cn-1011",
+ "name_zh": "普陀山",
+ "name_en": "Mount Putuo",
+ "name_local": "",
+ "province_zh": "浙江·舟山",
+ "province_en": "",
+ "province_iso": "CN-ZJ",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 30.007976,
+ "lon": 122.397608,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "普陀山是浙江东海舟山群岛中的一个小岛，既有悠久的佛教文化，又有丰富的海岛风光。景区被大海怀抱，金沙绵亘，景色优美，气候宜人，积淀了深厚的佛教文化底蕴。",
+ "intro_en": "Mount Putuo (Chinese: 普陀山; pinyin: Pǔtuó Shān, from Sanskrit: \"Mount Potalaka\") is an island in Putuo District, Zhoushan, Zhejiang, China. It is a renowned site in Chinese Buddhism and is the bodhimaṇḍa of the bodhisattva Guanyin. Mount Putuo is one of the four sacred mountains in Chinese Buddhism, the others being Mount Wutai, Mount Jiuhua, and Mount Emei (bodhimaṇḍas for Manjushri, Kṣitigarbha, and Samantabhadra, respectively). Mount Putuo lies in the East China Sea and incorporates the beauty of both mountain and sea. Mountain Putuo is at 29°58′3～30°02′3 north latitude, 122°21′6～122°24′9 east longitude. Its area is approximately 12.5 square kilometres (4.8 sq mi) and there are numerous famous temples. Every year on the 19th day of the 2nd, 6th and 9th lunar months of the Chinese calendar, it welcomes millions of people for the celebration of the birth of Guanyin.",
+ "tip_zh": "乘船上岛，索道可上佛顶山；岛上住宿偏贵，建议早班船。",
+ "address_zh": "浙江省舟山市普陀区梅岑路1号",
+ "address_en": "No. 1, Meicen Road, Putuo District, Zhoushan City, Zhejiang Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhoushan Putuoshan International Airport",
+    "iata": "HSN",
+    "city": "Zhoushan",
+    "country": "CN",
+    "lat": 29.933874,
+    "lon": 122.362307,
+    "type": "large_airport",
+    "distance_km": 8.9,
+    "name_zh": "舟山普陀山国际机场"
+   },
+   {
+    "name": "Ningbo Lishe International Airport",
+    "iata": "NGB",
+    "city": "Ningbo",
+    "country": "CN",
+    "lat": 29.82670021057129,
+    "lon": 121.46199798583984,
+    "type": "large_airport",
+    "distance_km": 92.4,
+    "name_zh": "宁波栎社国际机场"
+   },
+   {
+    "name": "Shanghai Pudong International Airport",
+    "iata": "PVG",
+    "city": "Shanghai (Pudong)",
+    "country": "CN",
+    "lat": 31.1434,
+    "lon": 121.805,
+    "type": "large_airport",
+    "distance_km": 138.4,
+    "name_zh": "上海浦东国际机场"
+   }
+  ],
+  "nearest_airport_km": 8.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "中宅",
+    "name_en": null,
+    "lat": 29.8879135,
+    "lon": 122.0844877,
+    "distance_km": 33.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "穿山港",
+    "name_en": null,
+    "lat": 29.8818159,
+    "lon": 122.0304251,
+    "distance_km": 38.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "北仑港区",
+    "name_en": null,
+    "lat": 29.9271041,
+    "lon": 121.8663329,
+    "distance_km": 52.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/普陀山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

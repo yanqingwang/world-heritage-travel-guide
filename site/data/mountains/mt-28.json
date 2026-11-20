@@ -1,0 +1,120 @@
+{
+ "id": "mt-28",
+ "dataset": "mountain_31",
+ "mountain_rank": 28,
+ "mountain_group": "高频名山",
+ "difficulty": "雪山",
+ "elevation_m": 5596.0,
+ "world_heritage": false,
+ "site_id": "cn-552",
+ "name_zh": "玉龙雪山",
+ "name_en": "Jade Dragon Snow Mountain",
+ "name_local": "",
+ "province_zh": "云南·丽江",
+ "province_en": "",
+ "province_iso": "CN-YN",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 27.140138,
+ "lon": 100.210479,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "玉龙雪山由十三峰组成，由北向南呈纵向排列，延绵近50公里，东西宽约13公里。玉龙雪山不仅气势磅礴，而且秀丽挺拔，造型玲珑，皎洁如晶莹的玉石，灿烂如十三把利剑，在碧蓝天幕的映衬下，像一条银色的玉龙在作永恒的飞舞，故名玉龙山。",
+ "intro_en": "Jade Dragon Snow Mountain (simplified Chinese: 玉龙雪山; traditional Chinese: 玉龍雪山; pinyin: Yùlóng Xuěshān; Naxi: Jingv'lv or Ngv'lv bbei jjuq) is a mountain massif or small mountain range in Yulong Naxi Autonomous County, Lijiang, in Yunnan province, China. Its highest peak is named Shanzidou or Shan-Tzu-tou (扇子陡) and it is 5,596 m (18,360 ft) above sea level.",
+ "tip_zh": "索道至 4506 米，冰川公园需预约，注意高反。",
+ "address_zh": "云南省丽江市玉龙纳西族自治县",
+ "address_en": "Yulong Naxi Autonomous County, Lijiang City, Yunnan Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lijiang Sanyi International Airport",
+    "iata": "LJG",
+    "city": "Lijiang",
+    "country": "CN",
+    "lat": 26.677483,
+    "lon": 100.244944,
+    "type": "large_airport",
+    "distance_km": 51.6,
+    "name_zh": "丽江三义机场"
+   },
+   {
+    "name": "Ninglang Luguhu Airport",
+    "iata": "NLH",
+    "city": "Ninglang",
+    "country": "CN",
+    "lat": 27.5403,
+    "lon": 100.7593,
+    "type": "medium_airport",
+    "distance_km": 70.1,
+    "name_zh": "宁蒗泸沽湖机场"
+   },
+   {
+    "name": "Diqing Shangri-La Airport",
+    "iata": "DIG",
+    "city": "Diqing (Shangri-La)",
+    "country": "CN",
+    "lat": 27.7936,
+    "lon": 99.6772,
+    "type": "medium_airport",
+    "distance_km": 89.7,
+    "name_zh": "迪庆香格里拉机场"
+   }
+  ],
+  "nearest_airport_km": 51.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "玉龙雪山",
+    "name_en": "Jade Dragon Snow Mountain",
+    "lat": 27.1005015,
+    "lon": 100.2584499,
+    "distance_km": 6.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东巴谷",
+    "name_en": "Dongba Valley",
+    "lat": 27.0106098,
+    "lon": 100.2583692,
+    "distance_km": 15.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "新尚",
+    "name_en": null,
+    "lat": 27.0348579,
+    "lon": 100.1006145,
+    "distance_km": 16.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/玉龙雪山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}

@@ -28,6 +28,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **个人标记与足迹地球**：每个条目可标「去过 / 赞过 / 不好」，保存在浏览器本地存储（localStorage）；「去过」会点亮地球上的中国省份或海外国家，支持拖动旋转、滚轮缩放与点击地区筛选。
 - **账号登录与跨浏览器同步（可选，需账号服务）**：部署了 `server/app.py` 的站点支持「用户名 + 密码」注册/登录，登录后「去过 / 赞过 / 不好」同步到服务器，换浏览器登录即可恢复；忘记密码用注册时下发的恢复码重置（不依赖邮箱）。**GitHub Pages 纯静态镜像没有后端**，会自动提示改用 localStorage + 导出/导入 JSON；不登录时两种部署都完全本地优先，不发任何网络请求。
 - **筛选**： 按类型、签证状态、资料等级筛选，支持名称/城市/国家搜索，并可「只看去过的」。
+- **⛰️ 必爬 31 座名山**：独立标签页，按「五岳 / 三山 / 佛教四大 / 道教四大 / 高频名山」分类并按攀登难度排序；其中 27 座直接关联已有的 5A 记录（含 11 处世界遗产），不重复建条目。名山与对应 5A / 世界遗产条目的「去过」标记双向同步：一边标记，另一边同时完成，足迹地球只计一次。
 - **门票筛选**：中国 5A 增加「免费开放 / 部分免费 / 需购票 / 未标注」筛选（167 条已人工核验，未核验的显示「未标注」，行前请查景区公告）。
 - **数据可机读**：`data/china.json`、`data/world.json`；每个条目另有 Markdown 版本在 `entries/`。
 - **站点按需加载**：列表只取约 1.3 MB 的 `site/data/world-index.json`，点开条目时再取单条详情 `site/data/world/<id>.json`，慢网络下也能先看到列表。
@@ -104,6 +105,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **One country → province/state cascade** for both datasets: country first, then an ISO 3166-2 first-level subdivision. China is fixed to "China → province"; overseas records use the destination country's subdivision.
 - **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage first). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter. With the account server deployed, sign in to sync marks across browsers; the static GitHub Pages mirror detects the missing backend and falls back to localStorage plus JSON export/import under “📦 Marks backup”. Globe basemap: Natural Earth public-domain data; D3 Geo projects it locally.
 - **Account sign-in and cross-browser sync (optional, requires the account server)**: username/password sign-up with a one-time recovery code; signed-in marks sync to the server and restore in another browser. Without signing in, and on the static mirror, everything stays local and no network request is made.
+- **31 must-climb mountains**: a dedicated tab (Five Great Peaks / Three Sacred Mountains / Four Buddhist / Four Taoist / popular picks) ordered by climbing difficulty. 27 of them link to existing 5A records (11 are World Heritage) instead of duplicating entries; the visited mark is shared in both directions and counted once on the globe.
 - **Admission filter**: China 5A records carry a manually verified admission status (free / partly free / ticket required / not verified) and can be filtered by it.
 - **Filters**: by category, visa status, record tier, plus free-text search and "visited only".
 - **Machine-readable** `data/china.json` and `data/world.json`; every record also has a Markdown mirror in `entries/`.

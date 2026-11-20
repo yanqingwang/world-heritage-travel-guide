@@ -1,0 +1,120 @@
+{
+ "id": "mt-12",
+ "dataset": "mountain_31",
+ "mountain_rank": 12,
+ "mountain_group": "高频名山",
+ "difficulty": "进阶",
+ "elevation_m": 1489.0,
+ "world_heritage": false,
+ "site_id": "cn-329",
+ "name_zh": "天柱山",
+ "name_en": "Mount Tianzhu",
+ "name_local": "",
+ "province_zh": "安徽·安庆",
+ "province_en": "",
+ "province_iso": "CN-AH",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "category": "mountain",
+ "category_zh": "名山",
+ "category_en": "Mountain",
+ "lat": 30.727278,
+ "lon": 116.466126,
+ "images": [],
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_checked_at": "2026-11-19",
+ "intro_zh": "天柱山，因主峰高耸挺立，如擎天一柱而得名，与黄山、九华山并称安徽省三大名山，是一处以花岗岩峰丛地貌为主的山岳型景区。景区内植被繁茂，森林覆盖率高达97%。天柱山以其雄奇灵秀的山水、令人赞叹的文化、争奇斗艳的花卉和四季宜人的气候，构成了独特的自身价值，成为了旅游观光的胜地。",
+ "intro_en": "Tianzhu Mountain or Mount Tianzhu (Chinese: 天柱山; pinyin: Tiānzhù Shān; lit. 'Heaven pillar mount') is a mountain in Anhui, China. Tianzhu Mountain is also called Mount Wan (Chinese: 皖山; pinyin: Wǎn Shān), from which the provincial abbreviation for Anhui (Wan) derives. Ancient names of the mountain include Mount Huo (霍山), Mount Heng (衡山) (not to be confused with Mount Heng in Hunan Province), and Taiyue (太岳). The mountain is located in Qianshan County, Anqing. Tianzhu Mountain has 45 peaks over 1000 meters above sea level. Its highest point has an elevation of 1,760 meters (5,774 ft). There are two paths to reach the top, from the east and from the west; the western path is the easier one.",
+ "tip_zh": "花岗岩独峰，索道加步道组合，天柱峰是标志。",
+ "address_zh": "安徽省安庆市潜山市天柱山路112号",
+ "address_en": "No. 112, Tianzhushan Road, Qianshan City, Anqing City, Anhui Province",
+ "transport": {
+  "airports": [
+   {
+    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
+    "iata": "AQG",
+    "city": "Anqing",
+    "country": "CN",
+    "lat": 30.582199,
+    "lon": 117.050003,
+    "type": "medium_airport",
+    "distance_km": 58.1,
+    "name_zh": "安庆天柱山机场"
+   },
+   {
+    "name": "Chizhou Jiuhuashan Airport",
+    "iata": "JUH",
+    "city": "Chizhou",
+    "country": "CN",
+    "lat": 30.7403,
+    "lon": 117.6856,
+    "type": "small_airport",
+    "distance_km": 116.6,
+    "name_zh": "池州九华山机场"
+   },
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 143.2,
+    "name_zh": "鄂州花湖机场"
+   }
+  ],
+  "nearest_airport_km": 58.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "天柱山",
+    "name_en": null,
+    "lat": 30.6580684,
+    "lon": 116.5553257,
+    "distance_km": 11.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "瓜形",
+    "name_en": null,
+    "lat": 30.7010005,
+    "lon": 116.6842694,
+    "distance_km": 21.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "潜山",
+    "name_en": "Qianshan",
+    "lat": 30.5763052,
+    "lon": 116.6120547,
+    "distance_km": 21.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "《此生必爬的31座名山》说明文档",
+   "url": ""
+  },
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天柱山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-20T01:04:32Z"
+}
