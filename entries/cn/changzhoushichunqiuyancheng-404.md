@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.7109
 lon: 119.926847
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 常州市春秋淹城旅游区 / Chunqiu Yancheng
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Chunqiu Yancheng is the remains of an ancient city from the Spring and Autumn period. It is now rebuilt and displayed as a tourist attraction rated as an AAAAA site, the highest official tourism rating. Changzhou Spring and Autumn Yancheng site is located in Wujin, the southern suburb of Changzhou, about 15 minutes away by car. Yancheng was surrounded by three rivers inside and outside. From the inside to the outside, the city, the city river, the inner city, the inner city river, the outer city, the outer city river, three cities, and three rivers. This architectural form is unique among the ancient city ruins in China. Most ancient cities have one city and one river, and a few have two cities and one river or two cities and two rivers. The site currently consists of three concentric artificial rivers that once surrounded the village. Around 2007, construction was being finished on shops and a museum in traditional style catering to the many tourists that come to Yancheng each year. With much of the original site now covered in grass with many remaining trees, it is most popular with Changzhou locals as a historical theme amusement park. By stimulating the ancient cultural scenes,
+Chunqiu Yancheng is the remains of an ancient city from the Spring and Autumn period. It is now rebuilt and displayed as a tourist attraction rated as an AAAAA site, the highest official tourism rating. Changzhou Spring and Autumn Yancheng site is located in Wujin, the southern suburb of Changzhou, about 15 minutes away by car. Yancheng was surrounded by three rivers inside and outside. From the inside to the outside, the city, the city river, the inner city, the inner city river, the outer city, the outer city river, three cities, and three rivers. This architectural form is unique among the ancient city ruins in China. Most ancient cities have one city and one river, and a few have two cities and one river or two cities and two rivers. The site currently consists of three concentric artificial rivers that once surrounded the village. Around 2007, construction was being finished on shops and a museum in traditional style catering to the many tourists that come to Yancheng each year. With much of the original site now covered in grass with many remaining trees, it is most popular with Changzhou locals as a historical theme amusement park.
 
 ## 交通 / Transport
 

@@ -10,7 +10,7 @@
  "city_zh": "龙岩市",
  "city_en": "Longyan",
  "name_zh": "龙岩市古田旅游区",
- "name_en": "Longyanshigutian Tourist Area",
+ "name_en": "Gutianshuiku Tourist Area",
  "name_en_source": "pinyin",
  "slug": "longyanshigutian-670",
  "lat": 25.22922,
@@ -21,6 +21,10 @@
  "category": "red",
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
+ "admission": "free",
+ "admission_note_zh": "免费开放，需提前预约。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "古田旅游区以古田隧道出口处至古田山庄为核心区域，总面积约7.6平方公里。古田旅游区有古田会议旧址、纪念馆、主席园等景点。",
  "intro_en": "Gutian Tourist Area takes the exit of Gutian Tunnel to Gutian Villa as the core area, with a total area of ​​approximately 7.6 square kilometers. Gutian Tourist Area includes Gutian Conference Site, Memorial Hall, Chairman’s Garden and other attractions.",
  "intro_en_source": "machine_translation",
@@ -159,6 +163,7 @@
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -188,16 +193,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/古田会议会址"
+   "url": "https://zh.wikipedia.org/wiki/古田水库"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "免费开放，需提前预约。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

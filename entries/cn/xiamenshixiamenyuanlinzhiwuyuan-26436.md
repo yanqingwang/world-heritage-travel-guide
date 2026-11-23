@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.454028
 lon: 118.116413
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 厦门市厦门园林植物园景区 / Xiamen Botanical Gardens
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Xiamen Botanical Garden (XMBG; Chinese: 厦门市园林植物园; pinyin: Xiàmén Shì yuánlín zhíwùyuán) founded in 1960, is located in the Siming District of Xiamen Island, covering an area of 493 hectares. Over 9,000 species of plants are preserved in its living collections. The garden is a member of Botanic Gardens Conservation International. It is classified as a AAAAA scenic area by the Ministry of Culture and Tourism.
+Xiamen Garden and Botanical Garden was founded in 1960 and is located in Wanshi Mountain in the southeast corner of Xiamen Island. The whole garden covers an area of ​​4.93 square kilometers. It is a comprehensive botanical garden integrating plant species preservation, scientific research, science education, development and application, ecological protection, tourism services and other functions. More than 9,000 kinds of plants (including varieties and classification units below species) have been introduced, cultivated and conserved from all over the world, and more than ten special parks have been built, including palm plant area, succulent plant area, gymnosperm area, exotic plant area, ginger plant area, rainforest world, etc. It is a national popular science education base, China's biodiversity conservation demonstration base, and a national wildlife protection and nature reserve construction project - Palm Plant Conservation Center.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

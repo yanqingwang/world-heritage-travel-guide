@@ -21,6 +21,10 @@
  "category": "natural",
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "黄鹤楼是武汉市标志性建筑，与晴川阁、古琴台并称“武汉三大名胜”，还建筑与湖南岳阳楼、江西南昌滕王阁并称为“江南三大名楼”，整个建筑具有独特的民族风格，散发出中国传统文化的精神、气质、神韵。",
  "intro_en": "Yellow Crane Tower (simplified Chinese: 黄鹤楼; traditional Chinese: 黃鶴樓; pinyin: Huánghè Lóu) is a traditional Chinese tower located in Wuhan. The current structure was built from 1981 to 1985, but the tower has existed in various forms from as early as AD 223. The current Yellow Crane Tower is 51.4 m (169 ft) high and covers an area of 3,219 m2 (34,650 sq ft). It is situated on Snake Hill (蛇山), one kilometer away from the original site, on the banks of the Yangtze River in Wuchang District.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 26.8,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Ezhou Huahu International Airport",
@@ -206,9 +210,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

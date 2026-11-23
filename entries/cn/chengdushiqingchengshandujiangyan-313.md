@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 31.001763
 lon: 103.622111
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 成都市青城山-都江堰旅游景区 / Mount Qingcheng

@@ -2,7 +2,7 @@
 id: "cn-1448"
 dataset: "china_5a"
 name_zh: "吉安市井冈山市井冈山风景旅游区"
-name_en: "Jinggang Mountains"
+name_en: "Jianshijinggangshanshijinggangshanfengjing Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Ji'an"
 lat: 26.636167
 lon: 114.143789
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 吉安市井冈山市井冈山风景旅游区 / Jinggang Mountains
+# 吉安市井冈山市井冈山风景旅游区 / Jianshijinggangshanshijinggangshanfengjing Tourist Area
 
 > 江西省 · 吉安市 · 红色旅游
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-The Jinggang Mountains, historically rendered as Chingkang Mountains are a mountain range of the Luoxiao Mountains System, in the border region of Jiangxi and Hunan Provinces. The range lies at the junction of four counties - Ninggang, Yongxing, Suichuan and Lingxiang. The mountains cover some 670 km2 (260 sq mi), with an average elevation of 381.5 metres (1,252 ft) above sea level. The highest point is 2,120 m (6,960 ft) above sea level. The range's massif consists of a number of thickly forested parallel ridges. On the heights there is not much farmland with most settlements at the base of the mountains. The main settlement is at Ciping, which is surrounded by five villages whose literal meanings are Big Well, Little Well, Middle Well, Lower Well, and Upper Well. Henceforth came the name of the mountain, literally means "Well Ridge Mountains". Jinggang Mountains have rich reserves of porcelain clay and rare earth ore, which are two major dominant minerals. The Jinggang Mountains are also known as "the cradle of the Chinese revolution".
+Jinggangshan is a mountainous scenic tourist area integrating cultural landscape, natural scenery and alpine countryside. China's first rural revolutionary base centered on Ninggang County was created here, and a revolutionary path with Chinese characteristics of "encircling the city with the countryside and seizing power with armed force" was opened. Since then, the little-known Jinggang Mountain has been recorded in the glorious annals of Chinese revolutionary history, and is known as the "cradle of the Chinese revolution" and "the cornerstone of the People's Republic of China."
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,9 @@ The Jinggang Mountains, historically rendered as Chingkang Mountains are a mount
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/井冈山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

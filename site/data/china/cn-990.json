@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "沈阳市植物园（沈阳世博园）栽植露地木本植物、露地草本植物和温室植物2000余种。园区内汇集、展示了东北、西北、华北及内蒙古地区植物资源，是东北地区植物种类和数量最多的综合性植物展园。",
  "intro_en": "The Shenyang Botanical Garden (Chinese: 沈阳市植物园), also known as \"Shenyang World Expo Garden\" (Chinese: 沈阳世博园), is located in Qipanshan Tourism Development Zone, in the eastern suburb of Shenyang City, Liaoning, China. It was the site of the 2006 China Shenyang World Horticultural Exposition, and is a 5A Tourist Attraction of China. The Shenyang Botanical Garden was founded in February 1959.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 125.733963,
     "type": "medium_airport",
     "distance_km": 172.9,
-    "name_zh": "通化三源浦机场"
+    "name_zh": "通化三源浦機場"
    }
   ],
   "nearest_airport_km": 29.8,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

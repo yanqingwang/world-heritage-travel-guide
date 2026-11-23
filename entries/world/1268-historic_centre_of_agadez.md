@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 16.9744
 lon: 7.9896
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 阿加德兹历史中心 / Historic Centre of Agadez

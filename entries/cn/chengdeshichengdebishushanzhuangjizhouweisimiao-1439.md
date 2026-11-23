@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Chengde"
 lat: 40.988599
 lon: 117.953661
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 承德市承德避暑山庄及周围寺庙景区 / Chengde Mountain Resort

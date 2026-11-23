@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(viii)(ix)(x)"
 lat: 53.528611111
 lon: 8.556111111
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 瓦登海 / Wadden Sea

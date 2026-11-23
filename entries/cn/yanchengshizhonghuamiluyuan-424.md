@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Yancheng"
 lat: 32.989999
 lon: 120.821875
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 盐城市中华麋鹿园景区 / Père David's deer

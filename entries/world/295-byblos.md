@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(iii)(iv)(vi)"
 lat: 34.119501
 lon: 35.646846
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 比布鲁斯 / Byblos

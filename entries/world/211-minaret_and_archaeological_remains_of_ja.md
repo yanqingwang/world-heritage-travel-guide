@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(ii)(iii)(iv)"
 lat: 34.3964
 lon: 64.5159
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 查姆回教寺院尖塔和考古遗址 / Minaret and Archaeological Remains of Jam

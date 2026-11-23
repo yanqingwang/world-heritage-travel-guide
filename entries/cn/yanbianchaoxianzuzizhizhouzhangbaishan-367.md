@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 42.03497
 lon: 128.079482
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 延边朝鲜族自治州长白山景区 / Mount Paektu

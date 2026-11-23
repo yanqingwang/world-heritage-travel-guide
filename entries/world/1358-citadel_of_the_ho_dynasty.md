@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)"
 lat: 20.078055555
 lon: 105.604722222
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 胡朝时期的城堡 / Citadel of the Ho Dynasty

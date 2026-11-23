@@ -2,7 +2,7 @@
 id: "cn-354"
 dataset: "china_5a"
 name_zh: "吐鲁番市葡萄沟风景区"
-name_en: "Tulufanshiputaogoufeng Scenic Area"
+name_en: "Grape Valley"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Tulufan Prefecture"
 lat: 43.005375
 lon: 89.249626
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 吐鲁番市葡萄沟风景区 / Tulufanshiputaogoufeng Scenic Area
+# 吐鲁番市葡萄沟风景区 / Grape Valley
 
 > 新疆维吾尔自治区 · 吐鲁番地区 · 地质奇观
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-The Grape Valley Scenic Area in Turpan City is located in the Flame Mountain and is a canyon under the Flame Mountain. The Buyiruk River flows through the ditch. Its main water source is melted snow from the mountains. It is named after its abundant grapes and is a tourist attraction in Turpan, Xinjiang. In 2007, it was approved by the National Tourism Administration as a national AAAAA tourist attraction.
-
-*English introduction: machine translation.*
+Grape Valley (Chinese: 葡萄沟; pinyin: Pútáogōu) is an area of arid land in Turpan, Xinjiang, China, where grapes and other fruits are grown. The valley is 8 km long, 600-2,000 meters wide, and is located some 10 km east of Turpan's city center. Turpan has a historically long tradition of growing grape and other fruits, using the karez underground irrigation system. It is famous for growing the seedless white grape, the manaizi (Chinese: 马奶子; pinyin: mǎnǎizi, mare's nipple) grape. Raisins and other dried fruits are also sold at the Grape Valley tourists' area. Grape and raisin production in Turpan accounts for over eighty percent of China's total, making China the world's third-largest producer of raisins and the world's largest producer of green raisins.
 
 ## 交通 / Transport
 
@@ -53,9 +51,10 @@ The Grape Valley Scenic Area in Turpan City is located in the Flame Mountain and
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/葡萄沟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

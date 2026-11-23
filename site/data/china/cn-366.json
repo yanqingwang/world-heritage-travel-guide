@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "净月潭景区是国家级风景名胜区、国家森林公园。净月潭形状如弯月，含沙净水，拥有着独特风光，是山峦环绕草木茂密的水库型游览区。景区具有冬雪夏爽的特征，拥有集湖、林、山、田于一体的独特风貌。",
  "intro_en": "Jingyuetan National Forest Park is a forest park and tourist attraction in Changchun, Jilin. 18km southeast of the city, the park covers over 100 square kilometers. The park was created in 1934, approved as a forest park in 1989 and the lake was listed as a key national scenic area in 1998. According to the government of Changchun, the park is the largest man-made forest in Asia. The man-made forest had an area of 1,000 hectares in the 1930s, but by 2015 the area was around 10,000 hectares. The forest park is one of the AAAAA Tourist Attractions of China. There are more than 100 high points within the park.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 125.733963,
     "type": "medium_airport",
     "distance_km": 184.3,
-    "name_zh": "通化三源浦机场"
+    "name_zh": "通化三源浦機場"
    }
   ],
   "nearest_airport_km": 37.4,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

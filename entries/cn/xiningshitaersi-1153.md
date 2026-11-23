@@ -2,7 +2,7 @@
 id: "cn-1153"
 dataset: "china_5a"
 name_zh: "西宁市塔尔寺景区"
-name_en: "Taersi Scenic Area"
+name_en: "Kumbum Monastery"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Qinghai"
 city_en: "Xining"
 lat: 36.498621
 lon: 101.575088
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 西宁市塔尔寺景区 / Taersi Scenic Area
+# 西宁市塔尔寺景区 / Kumbum Monastery
 
 > 青海省 · 西宁市 · 石窟艺术
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Kumbum Temple, also known as Pagoda Temple, was founded in the 10th year of Hongwu in the Ming Dynasty. It is one of the six major monasteries of the Gelug Sect (Yellow Sect) of Tibetan Buddhism in China and the center of Tibetan Buddhism activities in northwest China. Butter flowers, murals and embroidery are known as the "three unique arts of Kumbum Temple". The temple also houses many Buddhist classics and academic monographs on history, literature, philosophy, medicine, legislation, etc. The annual Buddhist activities "Four Dharma Assemblies" held in Kumbum Monastery are also very lively.
-
-*English introduction: machine translation.*
+Kumbum Monastery (Tibetan: སྐུ་འབུམ་བྱམས་པ་གླིང་, THL Kumbum Jampa Ling), also called Ta'er Temple, is a Tibetan gompa in Lusar, Xining, Qinghai, China. It was founded in 1583 in a narrow valley close to the village of Lusar in the historical Tibetan region of Amdo. Its superior monastery is Drepung Monastery, immediately to the west of Lhasa. It is ranked in importance as second only to Lhasa.
 
 ## 交通 / Transport
 
@@ -54,7 +52,7 @@ Kumbum Temple, also known as Pagoda Temple, was founded in the 10th year of Hong
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

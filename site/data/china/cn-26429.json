@@ -10,7 +10,7 @@
  "city_zh": "呼伦贝尔市",
  "city_en": "Hulunbuir",
  "name_zh": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
- "name_en": "Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area",
+ "name_en": "Hulunbeiercaoyuan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "hulunbeiershihulunbeierdacaoyuanmoergeleihe-26429",
  "lat": 49.467238,
@@ -21,6 +21,10 @@
  "category": "desert",
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "呼伦贝尔大草原•莫尔格勒河景区位于内蒙古自治区呼伦贝尔市陈巴尔虎旗境内，总占地面积51.42平方公里。是依托莫尔格勒河及呼伦贝尔天然草甸草原形成的自然地貌为主要景观的景区。莫尔格勒，蒙古语音译，意为“弯弯曲曲的河”。全长319公里，流域面积4987平方公里。因河道在草原上“辗转翻折、九曲回肠”曾被著名作家老舍誉为“天下第一曲水”。",
  "intro_en": "Hulunbuir Prairie·Morgele River Scenic Area is located in Chenbalhu Banner, Hulunbuir City, Inner Mongolia Autonomous Region, covering a total area of ​​51.42 square kilometers. It is a scenic spot with the main landscape based on the natural landforms formed by the Morgele River and Hulunbuir natural meadow grassland. Morgele, Mongolian transliteration, means \"winding river\". The total length is 319 kilometers and the drainage area is 4987 square kilometers. The famous writer Lao She once praised the river as \"the most meandering water in the world\" because of its \"turns and turns\" on the grassland.",
  "intro_en_source": "machine_translation",
@@ -148,6 +152,7 @@
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -176,13 +181,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔草原"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

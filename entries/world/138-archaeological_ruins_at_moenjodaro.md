@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ii)(iii)"
 lat: 27.329166666
 lon: 68.138888888
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 摩亨佐达罗考古遗迹 / Archaeological Ruins at Moenjodaro

@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.58086
 lon: 105.97767
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 南充市阆中古城旅游景区 / Langzhong Gucheng Airport

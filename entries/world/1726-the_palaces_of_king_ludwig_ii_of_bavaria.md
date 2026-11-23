@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)"
 lat: 47.419722222
 lon: 11.1125
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 巴伐利亚国王路德维希二世的宫殿群：新天鹅堡、林德霍夫宫、夏亨行宫、海伦基姆湖宫——从梦想到现实 / The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee

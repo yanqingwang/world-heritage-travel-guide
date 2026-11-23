@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iv)(v)"
 lat: 31.71972222
 lon: 35.13055556
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 巴勒斯坦：橄榄和葡萄之乡——南耶路撒冷巴蒂尔文化景观 / Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir

@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(x)"
 lat: 14.33
 lon: 102.05
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 东巴耶延山－考爱山森林保护区 / Dong Phayayen-Khao Yai Forest Complex

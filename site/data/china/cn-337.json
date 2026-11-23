@@ -10,7 +10,7 @@
  "city_zh": "常州市",
  "city_en": "Changzhou",
  "name_zh": "常州市环球恐龙城休闲旅游区",
- "name_en": "Changzhoushihuanqiukonglongchengxiuxian Tourist Area",
+ "name_en": "Xixiakonglongyizhiyuan Tourist Area",
  "name_en_source": "pinyin",
  "slug": "changzhoushihuanqiukonglongchengxiuxian-337",
  "lat": 31.828146,
@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "环球恐龙城是恐龙主题综合旅游度假区。环球恐龙城包括:中华恐龙园、迪诺水镇、恐龙谷温泉、恐龙城大剧场、香树湾花园酒店、维景国际大酒店、恐龙主题度假酒店等。",
  "intro_en": "Universal Dinosaur City is a dinosaur-themed comprehensive tourist resort. Universal Dinosaur City includes: China Dinosaur Park, Dino Water Town, Dinosaur Valley Hot Spring, Dinosaur City Grand Theater, Xiangshuwan Garden Hotel, Metropark International Hotel, Dinosaur Theme Resort Hotel, etc.",
  "intro_en_source": "machine_translation",
@@ -187,7 +191,6 @@
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -217,16 +220,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/奥体中心站 (常州市)"
+   "url": "https://zh.wikipedia.org/wiki/西峡恐龙遗址园"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.725419
 lon: 110.421374
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 延安市延川黄河乾坤湾景区 / Qiankunwan Scenic Area

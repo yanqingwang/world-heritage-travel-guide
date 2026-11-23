@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "雁门关，是世界文化遗产万里长城的重要组成部分，全国重点文物保护单位。 景区是以雁门关军事防御体系历史遗存、遗址为主要景观资源的边塞文化、长城文化、关隘文化旅游区。主要景点有古关道、雁门关分道碑、观音殿、马公然虎处、盘古石、壮士亭、云际泉、历代碑刻、天险门及雁楼等。",
  "intro_en": "Yanmen Pass, also known by its Chinese name Yanmenguan and as Xixingguan, is a mountain pass which includes three fortified gatehouses along the Great Wall of China. The area was a strategic choke point in ancient and medieval China, controlling access between the valleys of central Shanxi and the Eurasian Steppe. This made it the scene of various important battles, extending into World War II, and the area around the gatehouses and this stretch of the Great Wall is now a AAAAA-rated tourist attraction. The scenic area is located just outside Yanmenguan Village in Yanmenguan Township in Dai County, Xinzhou City, Shanxi Province, China.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 112.969173,
     "type": "small_airport",
     "distance_km": 67.3,
-    "name_zh": "五台山机场"
+    "name_zh": "五台山機場"
    },
    {
     "name": "Datong Yungang International Airport",
@@ -140,9 +144,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

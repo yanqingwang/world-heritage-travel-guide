@@ -21,6 +21,10 @@
  "category": "coastal",
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "鼓浪屿风景区与厦门市区隔海相对，面积1.78平方公里，海岛景观秀丽多姿，享誉中外。岛上海岸线蜿蜒曲折，坡缓沙细的天然海滨浴场环布四周，鬼斧神工的礁石奇趣天成，鼓浪屿有日光岩、菽庄花园、皓月园、毓园等景点。",
  "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 118.359001,
     "type": "medium_airport",
     "distance_km": 28.4,
-    "name_zh": "金门机场"
+    "name_zh": "金門機場"
    },
    {
     "name": "Quanzhou Jinjiang International Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

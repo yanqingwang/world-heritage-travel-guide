@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iv)"
 lat: 41.363828
 lon: 2.027819
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 安东尼•高迪的建筑作品 / Works of Antoni Gaudí

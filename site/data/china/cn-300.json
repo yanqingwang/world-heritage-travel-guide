@@ -21,6 +21,10 @@
  "category": "desert",
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "黄陂木兰文化生态旅游区，由木兰山、木兰天池、木兰草原、木兰云雾山四大景区组成，是华中地区最大的城市生态旅游景区群，为华中地区及高铁游线重要的旅游目的地。",
  "intro_en": "Huangpi Mulan Cultural Ecological Tourism Area is composed of four major scenic spots: Mulan Mountain, Mulan Tianchi, Mulan Grassland, and Mulan Yunwu Mountain. It is the largest urban ecotourism scenic spot group in Central China and an important tourist destination in Central China and high-speed rail tours.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 40.3,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Ezhou Huahu International Airport",
@@ -172,9 +176,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

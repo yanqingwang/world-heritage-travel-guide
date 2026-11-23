@@ -2,7 +2,7 @@
 id: "cn-326"
 dataset: "china_5a"
 name_zh: "宣城市龙川景区"
-name_en: "Longchuanlu Scenic Area"
+name_en: "Xuanchengshilongchuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Anhui"
 city_en: "Xuancheng"
 lat: 30.090027
 lon: 118.685058
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 宣城市龙川景区 / Longchuanlu Scenic Area
+# 宣城市龙川景区 / Xuanchengshilongchuan Scenic Area
 
 > 安徽省 · 宣城市 · 古镇村落
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Longchuan is the ancient name of Hangkou Village. The village has unique terrain and beautiful scenery. It is an ancient village where the Hu surname lives together. The cultural landscape and natural landscape of Longchuan Tourist Scenic Area are a perfect combination and a perfect match. Longchuan Hu Ancestral Hall was rated as a national key cultural relic protection unit in 1988.
+Longchuan is the ancient name of Hangkou Village. The village has unique terrain and beautiful scenery. It is an ancient village where the Hu family lives together. The cultural landscape and natural landscape of Longchuan Tourist Scenic Area are a perfect combination and a perfect match. Longchuan Hu Ancestral Hall was rated as a national key cultural relic protection unit in 1988.
 
 *English introduction: machine translation.*
 
@@ -59,5 +59,5 @@ Longchuan is the ancient name of Hangkou Village. The village has unique terrain
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/龙川路)
+- [Wikipedia](https://zh.wikipedia.org/wiki/龙川胡氏宗祠)
 - [OpenStreetMap](https://www.openstreetmap.org/)

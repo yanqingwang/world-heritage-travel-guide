@@ -2,7 +2,7 @@
 id: "cn-333"
 dataset: "china_5a"
 name_zh: "黄山市黄山风景区"
-name_en: "Huangshan"
+name_en: "Huangshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 30.097085
 lon: 118.194235
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 黄山市黄山风景区 / Huangshan
+# 黄山市黄山风景区 / Huangshan Scenic Area
 
 > 安徽省 · 黄山市 · 度假休闲
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally meaning the Yellow Mountain(s), is a mountain range in southern Anhui province in eastern China. It was originally called "Yishan", and it was renamed because of a legend that the Yellow Emperor once made alchemy here. Vegetation on the range is thickest below 1,100 meters (3,600 ft), with trees growing up to the treeline at 1,800 meters (5,900 ft). The area is well known for its scenery, sunsets, peculiarly shaped granite peaks, Huangshan pine trees, hot springs, winter snow, and views of the clouds from above. Huangshan is a frequent subject of traditional Chinese paintings and literature, as well as modern photography. It is a UNESCO World Heritage Site and one of China's major tourist destinations.
+Huangshan is known as "the most amazing mountain in the world". It is famous for its strange pines, strange rocks, sea of ​​clouds and hot springs. It has always enjoyed the reputation of "when you come back from the Five Mountains, you don't see the mountains, and when you come back from Huangshan, you don't see the mountains."
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -53,7 +55,7 @@ Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally m
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

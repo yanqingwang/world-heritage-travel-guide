@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.200974
 lon: 115.479351
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 九江市永修县庐山西海景区 / Mount Lu

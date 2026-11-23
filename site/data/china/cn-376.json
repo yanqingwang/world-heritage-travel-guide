@@ -10,7 +10,7 @@
  "city_zh": "黑河市",
  "city_en": "Heihe City",
  "name_zh": "黑河市五大连池景区",
- "name_en": "Heiheshiwudalianchi Scenic Area",
+ "name_en": "Wudalianchi Scenic Area",
  "name_en_source": "pinyin",
  "slug": "heiheshiwudalianchi-376",
  "lat": 48.699183,
@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "五大连池地处小兴安岭山地向松嫩平原的转换地带，区域内火山林立、熔岩浩瀚、湖泊珠连、矿泉星布。新期火山喷发的熔岩阻塞了远古河道，形成了5个溪水相连的串珠状火山堰塞湖，五大连池由此得名。此地也被科学家喻为“天然火山博物馆”和“打开的火山教科书”。",
  "intro_en": "Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains to the Songnen Plain. The area is lined with volcanoes, vast lava, lakes, and mineral springs. The lava from the new volcanic eruption blocked ancient rivers and formed five beaded volcanic barrier lakes connected by streams, from which Wudalianchi got its name. This place is also called the \"natural volcano museum\" and \"open volcano textbook\" by scientists.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 127.308884,
     "type": "medium_airport",
     "distance_km": 183.3,
-    "name_zh": "黑河机场"
+    "name_zh": "黑河機場"
    },
    {
     "name": "Ignatyevo Airport",
@@ -60,7 +64,7 @@
     "lon": 127.415502,
     "type": "medium_airport",
     "distance_km": 212.1,
-    "name_zh": "伊格纳耶沃机场"
+    "name_zh": "伊格納耶沃機場"
    }
   ],
   "nearest_airport_km": 28.9,
@@ -134,9 +138,10 @@
  "info_languages": {
   "zh": true,
   "en": false,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -165,13 +170,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/五大连池"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

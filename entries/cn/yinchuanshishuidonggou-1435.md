@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.296135
 lon: 106.515563
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 银川市水洞沟旅游区 / Shuidonggou

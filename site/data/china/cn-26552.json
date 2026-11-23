@@ -10,8 +10,8 @@
  "city_zh": "淄博市",
  "city_en": "Zibo",
  "name_zh": "淄博市周村古商城景区",
- "name_en": "Ziboshizhoucungushangcheng Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Zhengzhou Shang City",
+ "name_en_source": "wikipedia",
  "slug": "ziboshizhoucungushangcheng-26552",
  "lat": 36.804704,
  "lon": 117.847544,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "partial",
+ "admission_note_zh": "大街免费开放；景点通票另收费。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "周村古商城景区位于山东省淄博市周村区，素有“旱码头”“金周村”“丝绸之乡”的美誉。景区总占地面积60.5公顷，主要由大街、丝市街、银子市街等古街组成，现有保存完好的明清古建筑5万余平方米。周村古商城历经数百年风雨至今仍保留完好，街区纵横，店铺林立，建筑风格迥异，被中国古建筑保护委员会的专家誉为“中国活着的古商业建筑博物馆群”，具有很高的旅游观光价值。",
- "intro_en": "Zhoucun Ancient Mall Scenic Area is located in Zhoucun District, Zibo City, Shandong Province. It is known as the \"Dry Wharf\", \"Jinzhou Village\" and \"The Hometown of Silk\". The scenic area covers a total area of ​​60.5 hectares and is mainly composed of ancient streets such as Main Street, Silk Street, and Yinzi Street. There are more than 50,000 square meters of well-preserved ancient buildings from the Ming and Qing Dynasties. After hundreds of years of ups and downs, Zhoucun Ancient Mall is still well-preserved, with criss-crossed streets, numerous shops, and different architectural styles. It is hailed by experts from the China Ancient Buildings Protection Committee as \"China's living museum group of ancient commercial buildings\" and has high tourism value.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Zhengzhou Shang City (simplified Chinese: 郑州商城; traditional Chinese: 鄭州商城; pinyin: Zhèngzhōu Shāng Chéng) is an archaeological site of the Bronze Age Erligang culture in Zhengzhou, Henan, China. Studies give it four chronological phases from 1630 to 1400 BC. The excavation of the site is of great importance in understanding the history of the dynasty. It is also one of the oldest archeological sites in China. It was probably a capital of the Shang Dynasty, but of which of the several capitals was not certain.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -165,10 +169,11 @@
  "hotels_nearby_30km": 8,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -187,7 +192,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -198,16 +203,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/青年路街道 (淄博市)"
+   "url": "https://zh.wikipedia.org/wiki/郑州商城遗址"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "partial",
- "admission_note_zh": "大街免费开放；景点通票另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

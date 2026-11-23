@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "台儿庄古城，融八种建筑风格为一体，七十二座庙宇汇于一城，南北交融、中西合璧，是大运河文化的活化石。城内有京杭大运河仅存的最后3公里古运河，还有18个汪塘和7公里的水街水巷，可以舟楫摇曳、遍游全城。",
  "intro_en": "The ancient city of Taierzhuang integrates eight architectural styles and has 72 temples in one city. It blends the north and the south and combines the Chinese and the Western. It is a living fossil of the Grand Canal culture. The city has the last 3 kilometers of ancient Beijing-Hangzhou Grand Canal, as well as 18 ponds and 7 kilometers of water streets and lanes, where you can sway around the city in a boat.",
  "intro_en_source": "machine_translation",
@@ -119,7 +123,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -162,9 +166,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

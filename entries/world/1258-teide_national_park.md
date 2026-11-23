@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(vii)(viii)"
 lat: 28.2647
 lon: -16.6181
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 泰德国家公园 / Teide National Park

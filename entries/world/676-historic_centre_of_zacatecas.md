@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 22.76666667
 lon: -102.55
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 萨卡特卡斯历史中心 / Historic Centre of Zacatecas

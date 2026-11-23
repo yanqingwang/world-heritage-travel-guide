@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Liuzhou"
 lat: 25.903032
 lon: 109.647973
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 柳州市程阳八寨景区 / Chengyang Bridge

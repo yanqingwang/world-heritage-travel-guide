@@ -10,7 +10,7 @@
  "city_zh": "广州市",
  "city_en": "Guangzhou",
  "name_zh": "广州市番禺区长隆旅游度假区",
- "name_en": "Panyu railway station",
+ "name_en": "Dashi station",
  "name_en_source": "wikipedia",
  "slug": "guangzhoushipanyuquzhanglong-715",
  "lat": 23.005809,
@@ -21,8 +21,12 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "广州市长隆旅游度假区拥有长隆欢乐世界、长隆国际大马戏、长隆水上乐园、长隆野生动物世界、长隆飞鸟乐园和长隆酒店等多家主题公园及酒店，是国内超大规模的综合性旅游度假区之一。",
- "intro_en": "Panyu railway station (Chinese: 番禺站; pinyin: Pānyú Zhàn; Cantonese Yale: Pūn'yùh Jaahm) is an underground railway station in Panyu District, Guangzhou, Guangdong, China. The station opened on 26 May 2024. It is operated by Guangdong Intercity Railway Operation Co., Ltd.",
+ "intro_en": "Dashi Station (Chinese: 大石站; Cantonese Yale: Daaihsehk Jaahm; lit. 'Big Rock Station') is a station of Line 3 of the Guangzhou Metro that started operation on 28 December 2006. It is located under the New Moon Pearl Garden (新月明珠花园) in the Dashi Subdistrict, Panyu District, which is near where the Xinguang Expressway (新光快速公路) passes over Qunxian Road (群贤路). The station has reservations to interchange with Line 7. The northern end of the concourse has structures reserved for the two side platforms for Line 7. However, Line 7 was adjusted and changed to Hanxi Changlong station and the reserved structure of this station has been left unused and covered with enamel panels.",
  "intro_en_source": "wikipedia",
  "images": [],
  "web": "https://www.chimelong.com/",
@@ -38,7 +42,7 @@
     "lon": 113.070833,
     "type": "medium_airport",
     "distance_km": 28.0,
-    "name_zh": "佛山沙堤机场"
+    "name_zh": "佛山沙堤機場"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -199,16 +203,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/番禺站"
+   "url": "https://zh.wikipedia.org/wiki/大石站 (广州市)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

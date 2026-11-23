@@ -2,7 +2,7 @@
 id: "cn-1431"
 dataset: "china_5a"
 name_zh: "邯郸市广府古城景区"
-name_en: "Handanshiguangfugucheng Scenic Area"
+name_en: "Guangfucheng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.707347
 lon: 114.736727
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 邯郸市广府古城景区 / Handanshiguangfugucheng Scenic Area
+# 邯郸市广府古城景区 / Guangfucheng Scenic Area
 
 > 河北省 · 邯郸市 · 古镇村落
 
@@ -56,4 +56,5 @@ The ancient city of Guangfu in Handan City has a history of more than 2,000 year
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/广府城)
 - [OpenStreetMap](https://www.openstreetmap.org/)

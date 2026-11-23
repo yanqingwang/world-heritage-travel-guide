@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.07529
 lon: 15.277494
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 锡拉库扎和潘塔立克石墓群 / Syracuse and the Rocky Necropolis of Pantalica

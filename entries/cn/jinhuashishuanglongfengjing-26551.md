@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jinhua City"
 lat: 29.192493
 lon: 119.63307
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 金华市双龙风景旅游区 / Shuanglong Tourist Area

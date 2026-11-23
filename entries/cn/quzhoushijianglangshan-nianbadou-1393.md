@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Quzhou City"
 lat: 28.29801
 lon: 118.489754
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 衢州市江郎山•廿八都旅游区 / Mount Jianglang

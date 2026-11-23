@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "蓬莱阁风景区总面积1.85万平方米，现存有驰名中外的国家级重点文物保护单位——蓬莱水城及蓬莱阁、戚继光故里等名胜古迹。",
  "intro_en": "Penglai Pavilion or Penglai Pagoda (simplified Chinese: 蓬莱阁; traditional Chinese: 蓬萊閣; pinyin: Pénglái Gé) is a famous tower in Penglai, Yantai, Shandong. It is noted as one of the Four Great Towers of China, although it is occasionally not listed due to lacking a famous literary piece associated with it. It is known as the landing place of the Eight Immortals and famous for its occasional mirages. The dividing line between the Yellow Sea and Bohai Sea is also marked and clearly visible from the area. The corresponding tourism area is classified as a AAAAA scenic area by the China National Tourism Administration. Many people, like poet Su Shi, general Qi Jiguang, and warlord Zhang Zongchang, all wrote poems about the pavilion's beauty.",
  "intro_en_source": "wikipedia",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 12,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

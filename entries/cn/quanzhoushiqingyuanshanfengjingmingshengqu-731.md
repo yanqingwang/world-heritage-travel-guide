@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Quanzhou"
 lat: 24.947416
 lon: 118.603989
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 泉州市清源山风景名胜区 / Huanglong Scenic and Historic Interest Area

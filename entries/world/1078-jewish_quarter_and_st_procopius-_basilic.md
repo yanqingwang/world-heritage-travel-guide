@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)"
 lat: 49.2172
 lon: 15.8789
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 特热比奇犹太社区及圣普罗科皮乌斯大教堂 / Jewish Quarter and St Procopius' Basilica in Třebíč

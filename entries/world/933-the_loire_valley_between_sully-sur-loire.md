@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)(iv)"
 lat: 47.616111111
 lon: 1.517222222
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 卢瓦尔河畔叙利与沙洛纳间的卢瓦尔河谷 / The Loire Valley between Sully-sur-Loire and Chalonnes

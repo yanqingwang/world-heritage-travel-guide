@@ -21,6 +21,10 @@
  "category": "red",
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
+ "admission": "free",
+ "admission_note_zh": "免费开放，需预约。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "西柏坡曾是中共中央所在地，是我国革命圣地之一，是国家重点文物保护单位。党中央和毛主席在此指挥了辽沈、淮海、平津三大战役，召开了具有伟大历史意义的七届二中全会和全国土地会议。主要景点有西柏坡中共中央旧址、西柏坡陈列馆、西柏坡石刻园、西柏坡纪念碑、五位书记铜铸像等。",
  "intro_en": "Xibaipo was once the seat of the Central Committee of the Communist Party of China, one of the holy places of revolution in my country, and a key national cultural relic protection unit. The Party Central Committee and Chairman Mao commanded the three major battles of Liaoshen, Huaihai, and Pingjin here, and convened the Second Plenary Session of the Seventh Central Committee of the Communist Party of China and the National Agrarian Conference, which were of great historical significance. The main attractions include the former site of the Central Committee of the Communist Party of China in Xibaipo, Xibaipo Exhibition Hall, Xibaipo Stone Carving Garden, Xibaipo Monument, and bronze statues of the five secretaries.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 112.969173,
     "type": "small_airport",
     "distance_km": 89.9,
-    "name_zh": "五台山机场"
+    "name_zh": "五台山機場"
    },
    {
     "name": "Taiyuan Wusu International Airport",
@@ -60,7 +64,7 @@
     "lon": 112.627998,
     "type": "large_airport",
     "distance_km": 133.6,
-    "name_zh": "太原武宿国际机场"
+    "name_zh": "太原武宿國際機場"
    }
   ],
   "nearest_airport_km": 65.5,
@@ -139,9 +143,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "free",
- "admission_note_zh": "免费开放，需预约。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

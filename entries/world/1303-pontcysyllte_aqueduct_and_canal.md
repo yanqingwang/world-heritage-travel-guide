@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(i)(ii)(iv)"
 lat: 52.9702
 lon: -3.08782
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 龐特卡薩魯岧水道 / Pontcysyllte Aqueduct and Canal

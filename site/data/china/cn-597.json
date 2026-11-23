@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "扎什伦布寺意为“吉祥须弥寺”，是该地区最大的寺庙。扎什伦布寺与拉萨的“三大寺”甘丹寺、色拉寺、哲蚌寺合称藏传佛教格鲁派的“四大寺”，与青海的塔尔寺和甘肃的拉卜楞寺并列为格鲁派的“六大寺”。扎什伦布寺是中国著名的六大黄教寺院之一，2017年被批准为国家AAAAA级旅游景区。",
  "intro_en": "Tashi Lhunpo Monastery (Tibetan: བཀྲ་ཤིས་ལྷུན་པོ་) is an historically and culturally important monastery in Shigatse, the second-largest city in Tibet. Founded in 1447 by the 1st Dalai Lama, it is the traditional monastic seat of the Panchen Lama. The monastery was sacked in 1791, when the Gorkha Kingdom invaded Tibet and captured Shigatse. A combined Tibetan and Chinese army drove them back as far as the outskirts of Kathmandu, when they were forced to agree to keep the peace in the future, pay tribute every five years, and return what they had looted from Tashi Lhunpo. The monastery is the traditional seat of successive Panchen Lamas, the second highest ranking tulku lineage in the Gelug tradition of Tibetan Buddhism. The \"Tashi\" or Panchen Lama had temporal power over three small districts, though not over the town of Shigatse itself, which was administered by a dzongpön (prefect) appointed from Lhasa. The monastery is located on a hill in the center of Shigatse. Pilgrims circumambulate the monastery on the lingkhor (sacred path) outside the walls. The full name in Tibetan of the monastery means \"all fortune and happiness gathered here\" or \"heap of glory\". Captain Samuel Turner,",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 89.299157,
     "type": "large_airport",
     "distance_km": 41.7,
-    "name_zh": "日喀则和平机场"
+    "name_zh": "日喀則和平機場"
    },
    {
     "name": "Lhasa Gonggar International Airport",
@@ -60,7 +64,7 @@
     "lon": 89.424599,
     "type": "large_airport",
     "distance_km": 214.3,
-    "name_zh": "帕罗机场"
+    "name_zh": "帕羅機場"
    }
   ],
   "nearest_airport_km": 41.7,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

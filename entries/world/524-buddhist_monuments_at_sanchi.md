@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 23.47944444
 lon: 77.73972222
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 桑吉佛教古迹 / Buddhist Monuments at Sanchi

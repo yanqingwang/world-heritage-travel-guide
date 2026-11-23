@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Shangqiu City"
 lat: 34.176129
 lon: 116.522746
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 商丘市芒砀山汉文化旅游景区 / Shangqiushimangdangshanhanwenhua Scenic Area

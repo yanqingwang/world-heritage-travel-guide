@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)"
 lat: 43.695555555
 lon: 25.988055555
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 伊凡诺沃岩洞教堂 / Rock-Hewn Churches of Ivanovo

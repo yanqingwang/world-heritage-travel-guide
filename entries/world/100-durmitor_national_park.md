@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(vii)(viii)(x)"
 lat: 43.250790077
 lon: 19.008466499
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 杜米托尔国家公园 / Durmitor National Park

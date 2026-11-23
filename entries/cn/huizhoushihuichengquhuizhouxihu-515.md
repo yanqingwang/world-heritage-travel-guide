@@ -2,7 +2,7 @@
 id: "cn-515"
 dataset: "china_5a"
 name_zh: "惠州市惠城区惠州西湖旅游景区"
-name_en: "West Lake (Huizhou)"
+name_en: "Huizhouxihu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Huizhou"
 lat: 23.095461
 lon: 114.403979
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 惠州市惠城区惠州西湖旅游景区 / West Lake (Huizhou)
+# 惠州市惠城区惠州西湖旅游景区 / Huizhouxihu Scenic Area
 
 > 广东省 · 惠州市 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-West Lake (Chinese: 西湖; pinyin: Xī Hú) is a man-made recreational lake in Huicheng District of Huizhou, Guangdong, China. West Lake has a combined area of 20.91 square kilometres (8.07 sq mi), of which 3.13 square kilometres (1.21 sq mi) is covered by water. It has been designated as a National AAAAA-level Scenic Spot.
+The scenic spot consists of West Lake and Honghua Lake. It is famous for its five lakes, six bridges and eight scenic spots. It has beautiful mountains and rivers, winding and winding mountains, floating islands everywhere, green mountains like black, and antique pavilions and pavilions hidden among the green trees. The scenery is so wonderful that it is known as "The West Lake of Xizi", and there is a historical record that "there are thirty-six West Lakes in China, only Huizhou is equal to Hangzhou".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,7 +53,7 @@ West Lake (Chinese: 西湖; pinyin: Xī Hú) is a man-made recreational lake in 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

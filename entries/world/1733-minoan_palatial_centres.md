@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 35.297222222
 lon: 25.1625
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 米诺斯王宫中心 / Minoan Palatial Centres

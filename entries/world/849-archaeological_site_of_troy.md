@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(vi)"
 lat: 39.9575
 lon: 26.238888888
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 特洛伊考古遗址 / Archaeological Site of Troy

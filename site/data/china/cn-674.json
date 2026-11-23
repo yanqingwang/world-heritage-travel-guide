@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区以丘陵地貌为主，主要景点和设施有果园、山水瀑布、茶田、望茶亭、茶情阁、茶艺馆、茶花大观园、美食街、生态谷、人工湖、游客中心、会议中心、围龙食府、山庄别墅等，彰显出博大精深的茶文化和客家文化主题。",
  "intro_en": "The scenic area is dominated by hilly landforms. The main attractions and facilities include orchards, landscape waterfalls, tea fields, tea pavilions, tea pavilions, tea houses, camellia grand view gardens, food streets, ecological valleys, artificial lakes, visitor centers, conference centers, Weilong Restaurant, mountain villas, etc., highlighting the profound tea culture and Hakka cultural themes.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 116.5033,
     "type": "large_airport",
     "distance_km": 93.8,
-    "name_zh": "揭阳潮汕国际机场"
+    "name_zh": "汕头外砂机场"
    },
    {
     "name": "Liancheng Guanzhishan Airport",
@@ -191,9 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

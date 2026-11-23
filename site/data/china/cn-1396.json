@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "西塘古镇地势平坦，河流密布，呈现“桥多、弄多、廊棚多”的景观特色。作为中国首批历史文化名镇、江南六大古镇之一，这里历史悠久，是古代吴越文化的发祥地之一。曾获世界遗产保护杰出成就奖，并被国家文物局列入中国世界文化遗产预备名单。",
  "intro_en": "Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāxīng; Wade–Giles: Chia-hsing), alternately romanized as Kashing, is a prefecture-level city in northern Zhejiang province, China. Lying on the Grand Canal of China, Jiaxing borders Hangzhou to the southwest, Huzhou to the west, Shanghai to the northeast, and the province of Jiangsu to the north. As of the 2020 census, its population was 5,400,868 and its built-up (or metro) area, made up of 2 urban districts was home to 1,518,654 inhabitants.",
  "intro_en_source": "wikipedia",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 181,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

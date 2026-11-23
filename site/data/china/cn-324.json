@@ -10,7 +10,7 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区帕米尔旅游区",
- "name_en": "Pamierhuangjin Tourist Area",
+ "name_en": "Pamieryanzicai Tourist Area",
  "name_en_source": "pinyin",
  "slug": "kashidiqupamier-324",
  "lat": 37.787016,
@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "喀什地区帕米尔旅游区总面积3.1平方公里，由石头城景区、金草滩，塔吉克民俗村、综合服务中心、旅游购物中心五大区域组成，是古代丝绸之路南道、中道通往西亚、南亚及欧洲的必经之地。2014年被国家旅游局授予全国“国际高原风情旅游目的地”的称号。",
  "intro_en": "The Pamir Tourist Area in Kashgar Prefecture has a total area of ​​3.1 square kilometers and consists of five major areas: Stone City Scenic Area, Golden Grass Beach, Tajik Folk Village, Comprehensive Service Center, and Tourist Shopping Center. It is the only place that the ancient Silk Road's southern and middle routes lead to West Asia, South Asia and Europe. In 2014, it was awarded the title of National \"International Plateau Style Tourism Destination\" by the National Tourism Administration.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 77.056149,
     "type": "medium_airport",
     "distance_km": 167.8,
-    "name_zh": "莎车机场"
+    "name_zh": "莎車機場"
    },
    {
     "name": "Kashgar Laining International Airport",
@@ -60,7 +64,7 @@
     "lon": 76.02023,
     "type": "large_airport",
     "distance_km": 206.9,
-    "name_zh": "喀什徕宁国际机场"
+    "name_zh": "喀什徠寧國際機場"
    }
   ],
   "nearest_airport_km": 14.9,
@@ -131,7 +135,6 @@
   "ja": true,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -161,16 +164,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/帕米尔黄堇"
+   "url": "https://zh.wikipedia.org/wiki/帕米尔眼子菜"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iv)"
 lat: -8.01333333
 lon: -34.845
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 奥林达历史中心 / Historic Centre of the Town of Olinda

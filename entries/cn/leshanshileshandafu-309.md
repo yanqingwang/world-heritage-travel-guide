@@ -2,7 +2,7 @@
 id: "cn-309"
 dataset: "china_5a"
 name_zh: "乐山市乐山大佛景区"
-name_en: "Leshanshileshandafu Scenic Area"
+name_en: "Leshan Giant Buddha"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Leshan"
 lat: 29.553048
 lon: 103.779852
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 乐山市乐山大佛景区 / Leshanshileshandafu Scenic Area
+# 乐山市乐山大佛景区 / Leshan Giant Buddha
 
 > 四川省 · 乐山市 · 历史遗址
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Leshan Giant Buddha Scenic Area is located on the outskirts of Leshan City, at the confluence of the Minjiang River, Qingyi River and Dadu River, facing Leshan City across the river. The scenic spot consists of Lingyun Mountain, Mahoyan Tomb, Wuyou Mountain, Giant Reclining Buddha, etc. The tourist area is about 8 square kilometers. The scenic spot gathers the essence of Leshan's landscape and cultural landscape. It belongs to the Emeishan National Scenic Area and is a well-known scenic tourist attraction.
-
-*English introduction: machine translation.*
+The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 712 and 804 AD (during the Tang dynasty). It is carved out of a cliff face of Cretaceous red bed sandstones that lies at the confluence of the Min River and Dadu River in the southern part of Sichuan Province in China, near the city of Leshan. The stone sculpture faces Mount Emei, with the rivers flowing below its feet. It is the largest and tallest stone Buddha statue in the world and it is by far the tallest pre-modern statue in the world. It is over 4 kilometers (2.5 mi) from the Wuyou Temple. The Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area, has been listed as a UNESCO World Heritage Site since 1996.
 
 ## 交通 / Transport
 
@@ -53,9 +51,10 @@ Leshan Giant Buddha Scenic Area is located on the outskirts of Leshan City, at t
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/乐山大佛)
 - [OpenStreetMap](https://www.openstreetmap.org/)

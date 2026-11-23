@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(x)"
 lat: 12.798888888
 lon: 99.453333333
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 岗卡章森林保护区 / Kaeng Krachan Forest Complex

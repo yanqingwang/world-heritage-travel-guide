@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Zhangye City"
 lat: 38.979327
 lon: 100.073731
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 张掖市七彩丹霞景区 / Mount Danxia
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Mount Danxia (Chinese: 丹霞山; pinyin: Dānxiá Shān) is a noted scenic mountainous area in Renhua County, in the northern part of Guangdong province. It is described on the local signage as a "world famous UNESCO geopark of China". It was inscribed as part of the China Danxia World Heritage Site in 2010 because of its unique geographical in formations and spectacular scenery. It is also an AAAAA Chinese attraction.
+Zhangye Danxia landform is widely distributed, mainly distributed in Linze and Sunan counties, covering an area of ​​more than 300 square kilometers. It is one of the areas with the richest Danxia landforms in China. Its classic features mainly include colorful screen, sea of ​​fire, colorful tower, colorful drill, colorful mushrooms, large scallops, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

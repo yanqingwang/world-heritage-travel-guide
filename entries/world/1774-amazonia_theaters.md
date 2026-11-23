@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(iv)"
 lat: -3.130280555
 lon: -60.023397222
-updated_at: "2026-11-16T11:41:13Z"
+updated_at: "2026-11-23T13:00:57Z"
 ---
 
 # 亚马孙剧院 / Amazonia Theaters

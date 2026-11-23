@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 24.659148
 lon: 116.982954
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 福建土楼（永定•南靖）旅游景区 / Fujian tulou

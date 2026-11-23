@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(viii)"
 lat: 50.70555556
 lon: -2.989888889
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 多塞特和东德文海岸 / Dorset and East Devon Coast

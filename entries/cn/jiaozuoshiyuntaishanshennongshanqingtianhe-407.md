@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Jiaozuo"
 lat: 35.441412
 lon: 113.383373
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 焦作市云台山-神农山-青天河风景区 / Qingtianhe Scenic Area

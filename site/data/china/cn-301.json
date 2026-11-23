@@ -10,8 +10,8 @@
  "city_zh": "武汉市",
  "city_en": "Wuhan",
  "name_zh": "湖北省武汉市东湖景区",
- "name_en": "Hubeishengwuhanshidonghu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Hubei Provincial Museum",
+ "name_en_source": "wikipedia",
  "slug": "hubeishengwuhanshidonghu-301",
  "lat": 30.557869,
  "lon": 114.420005,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "free",
+ "admission_note_zh": "免费开放，磨山等部分片区另收费。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "武汉东湖生态旅游风景区面积88平方公里，由听涛、磨山、落雁、吹笛、白马和珞洪六个片区组成，是全国文明风景旅游区示范点、首批国家重点风景名胜区。",
- "intro_en": "Wuhan East Lake Ecological Tourism Scenic Area covers an area of ​​88 square kilometers and consists of six areas: Tingtao, Moshan, Luoyan, Chuidi, Baima and Luohong. It is a national civilized scenic tourist area demonstration site and one of the first batch of national key scenic spots.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Hubei Provincial Museum (Chinese: 湖北省博物馆; pinyin: Húběi shěng bówùguǎn) is a first class museum in China, with a large amount of state-level historic and cultural relics. Established in 1953, the museum moved to its present location in 1960 and gained its present name in 1963. Since 1999 a number of new buildings have been added. The museum received 1,992,512 visitors in 2017. The museum is located in the Wuchang District of Wuhan, Hubei Province, not far from the west shore of Wuhan's East Lake. It has a collection of over 460,000 objects, including the Sword of Goujian, an ancient set of bronze bells (Bianzhong), extensive artifacts from the Tomb of Marquis Yi of Zeng and the tombs at Baoshan, and portions of the Guodian Chu Slips. The particular importance of several of the archaeological items in the museum's collection has been recognized by the national government by including them into the list of Chinese cultural relics forbidden to be exhibited abroad.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -38,7 +42,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 31.2,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Ezhou Huahu International Airport",
@@ -165,10 +169,11 @@
  "hotels_nearby_30km": 159,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -187,7 +192,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -198,16 +203,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/武汉市光谷汤逊湖高级中学"
+   "url": "https://zh.wikipedia.org/wiki/湖北省博物馆"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "免费开放，磨山等部分片区另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

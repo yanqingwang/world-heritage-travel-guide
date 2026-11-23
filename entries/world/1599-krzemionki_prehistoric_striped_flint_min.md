@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)"
 lat: 50.968
 lon: 21.5023
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 科舍米翁奇的史前条纹燧石矿区 / Krzemionki Prehistoric Striped Flint Mining Region

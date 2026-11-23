@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)"
 lat: 51.88861
 lon: 4.63472
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 金德代克-埃尔斯豪特的风车 / Mill Network at Kinderdijk-Elshout

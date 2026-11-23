@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Haibei Tibetan Autonomous Prefecture"
 lat: 38.105155
 lon: 100.327125
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 海北州阿咪东索景区 / Haibeizhouamidongsuo Scenic Area

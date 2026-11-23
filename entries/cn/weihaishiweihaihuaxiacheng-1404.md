@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Weihai"
 lat: 37.429984
 lon: 122.122166
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 威海市威海华夏城景区 / Weihaishiweihaihuaxiacheng Scenic Area
@@ -58,5 +58,4 @@ The scenic area mainly displays oriental classical culture. It is a large-scale 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西苑街道 (威海市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

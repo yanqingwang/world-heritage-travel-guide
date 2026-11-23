@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iii)"
 lat: 37.777741666
 lon: 69.556730555
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 古骨咄的文化遗产地 / Cultural Heritage Sites of Ancient Khuttal

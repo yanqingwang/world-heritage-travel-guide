@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 31.87171944
 lon: 35.44456389
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 古耶利哥城/苏丹台形遗址 / Ancient Jericho/Tell es-Sultan

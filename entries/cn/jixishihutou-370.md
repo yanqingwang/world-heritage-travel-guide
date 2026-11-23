@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Jixi City"
 lat: 45.991375
 lon: 133.674895
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 鸡西市虎头旅游景区 / Jixishihutou Scenic Area

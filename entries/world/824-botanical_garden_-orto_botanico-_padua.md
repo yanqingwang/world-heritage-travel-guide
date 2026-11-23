@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)"
 lat: 45.39953
 lon: 11.880682
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 帕多瓦植物园 / Botanical Garden (Orto Botanico), Padua

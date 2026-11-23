@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)(vi)"
 lat: 43.335
 lon: -6.414722
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 圣地亚哥康波斯特拉之路：法兰西之路和北西班牙之路 / Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain

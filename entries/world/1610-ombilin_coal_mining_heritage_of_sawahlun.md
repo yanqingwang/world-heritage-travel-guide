@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(iv)"
 lat: -0.683333
 lon: 100.767
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 沙哇伦多的翁比林煤矿遗产 / Ombilin Coal Mining Heritage of Sawahlunto

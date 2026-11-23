@@ -2,7 +2,7 @@
 id: "cn-337"
 dataset: "china_5a"
 name_zh: "常州市环球恐龙城休闲旅游区"
-name_en: "Changzhoushihuanqiukonglongchengxiuxian Tourist Area"
+name_en: "Xixiakonglongyizhiyuan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.828146
 lon: 120.00606
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 常州市环球恐龙城休闲旅游区 / Changzhoushihuanqiukonglongchengxiuxian Tourist Area
+# 常州市环球恐龙城休闲旅游区 / Xixiakonglongyizhiyuan Tourist Area
 
 > 江苏省 · 常州市 · 主题乐园
 
@@ -61,5 +61,5 @@ Universal Dinosaur City is a dinosaur-themed comprehensive tourist resort. Unive
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/奥体中心站 (常州市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/西峡恐龙遗址园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 30.283595
 lon: 120.076821
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 杭州市西溪湿地旅游区 / South Xixi Wetland station

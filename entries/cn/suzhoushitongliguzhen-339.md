@@ -2,7 +2,7 @@
 id: "cn-339"
 dataset: "china_5a"
 name_zh: "苏州市同里古镇景区"
-name_en: "Tongli station"
+name_en: "Suzhoushitongliguzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.156127
 lon: 120.729409
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 苏州市同里古镇景区 / Tongli station
+# 苏州市同里古镇景区 / Suzhoushitongliguzhen Scenic Area
 
 > 江苏省 · 苏州市 · 古镇村落
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Tongli (Chinese: 同里) is a station on Line 4 of the Suzhou Metro, and the southern terminus of Line 4. The station is located in the Wujiang District of Suzhou. It has been in use since April 15, 2017, the same time of the operation of Line 4.
+Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of "an authentic water town, like the south of the Yangtze River in the old days".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -56,5 +58,4 @@ Tongli (Chinese: 同里) is a station on Line 4 of the Suzhou Metro, and the sou
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/同里站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

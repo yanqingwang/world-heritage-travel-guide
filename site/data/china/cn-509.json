@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "肇庆星湖风景名胜区由七星岩和鼎湖山两大景区组成，主要景点有天溪十景、云溪十景、宝鼎园等，是全国第一批重点风景名胜区之一。景区特产花席、端州出产的端砚等驰名中外。",
  "intro_en": "Zhaoqing Xinghu Scenic Area consists of two major scenic spots, Qixing Rock and Dinghu Mountain. The main attractions are Tianxi Ten Scenes, Yunxi Ten Scenes, Baoding Garden, etc. It is one of the first batch of key scenic spots in the country. The specialty flower mats in the scenic spot and the Duan inkstone produced in Duanzhou are famous both at home and abroad.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 113.070833,
     "type": "medium_airport",
     "distance_km": 60.8,
-    "name_zh": "佛山沙堤机场"
+    "name_zh": "佛山沙堤機場"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -195,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

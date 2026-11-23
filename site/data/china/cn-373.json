@@ -21,6 +21,10 @@
  "category": "wetland",
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "林海奇石风景区是一处由人文景观和自然景观构成的生态旅游区和国家地质遗迹公园。景区可分为天然牧场、雪色松林、溪水湿地、民族风情、山水浏览、兴安石林、秋色松林、花卉观赏八大区域。",
  "intro_en": "Linhai Qishishi Scenic Area is an eco-tourism area and national geological heritage park composed of cultural landscapes and natural landscapes. The scenic spot can be divided into eight major areas: natural pasture, snow-colored pine forest, stream wetland, ethnic customs, landscape viewing, Xing'an stone forest, autumn pine forest, and flower viewing.",
  "intro_en_source": "machine_translation",
@@ -60,7 +64,7 @@
     "lon": 127.308884,
     "type": "medium_airport",
     "distance_km": 245.5,
-    "name_zh": "黑河机场"
+    "name_zh": "黑河機場"
    }
   ],
   "nearest_airport_km": 85.7,
@@ -158,9 +162,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

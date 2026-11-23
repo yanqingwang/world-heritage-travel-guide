@@ -10,8 +10,8 @@
  "city_zh": "连云港市",
  "city_en": "Lianyungang",
  "name_zh": "连云港市花果山景区",
- "name_en": "Lianyungang Huaguoshan International Airport",
- "name_en_source": "wikipedia",
+ "name_en": "Huaguoshan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "lianyungangshihuaguoshan-416",
  "lat": 34.65221,
  "lon": 119.27006,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "花果山以古典名著《西游记》所描述的“孙大圣老家”而著称于世，因美猴王的神话故事而家喻户晓，名闻海内外。花果山自然景观呈现山海相依、崎峭与开阔呼应对比的壮丽景色。山里古树参天、水流潺潺、花果飘香、猕猴嬉闹、奇峰异洞、怪石云海、景色秀丽。主要景点有阿育王塔、水帘洞、三元宫等。",
- "intro_en": "Lianyungang Huaguoshan International Airport (IATA: LYG, ICAO: ZSLG) is an airport serving the city of Lianyungang in East China's Jiangsu province. Opened on 2 December 2021, it is Lianyungang's main airport, with the existing dual-use Lianyungang Baitabu Airport becoming a dedicated military air base. Huaguoshan Airport is located in Xiaoyi Town, Guanyun County, about 21.5 kilometres (13.4 mi) from the city center of Lianyungang. It is named after Mount Huaguo (Huaguoshan), a major tourist attraction in Lianyungang. The airport has a runway that is 2,800 metres (9,200 ft) long and 45 metres (148 ft) wide (class 4D). It is projected to handle 2.5 million passengers and 20,000 tons of cargo after completion. The passenger movements of the Airport in 2023 were 1,447,802, making it the 87th busiest airport in China.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Huaguo Mountain is world-famous as the \"Hometown of Sun Dasheng\" described in the classic \"Journey to the West\". It is also well-known at home and abroad for the myth of the Monkey King. The natural landscape of Huaguo Mountain presents a magnificent scenery of mountains and seas, ruggedness and openness. In the mountains, there are towering ancient trees, gurgling water, fragrant flowers and fruits, frolicking macaques, strange peaks and caves, strange rocks and sea of ​​clouds, and beautiful scenery. The main attractions include Ashoka Tower, Water Curtain Cave, Sanyuan Palace, etc.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -49,7 +53,7 @@
     "lon": 119.324403,
     "type": "medium_airport",
     "distance_km": 83.9,
-    "name_zh": "日照机场"
+    "name_zh": "日照機場"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -155,11 +159,10 @@
  "hotels_nearby_30km": 25,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -178,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -189,16 +192,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/連雲港花果山國際機場"
+   "url": "https://zh.wikipedia.org/wiki/花果山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -21,6 +21,10 @@
  "category": "red",
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
+ "admission": "free",
+ "admission_note_zh": "孙中山故居纪念馆等免费开放，需预约。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区占地面积约500平方米，涵括孙中山故居纪念馆、翠亨村、中山城、辛亥革命纪念公园和犁头尖山五个核心景区景点，全方位呈现了孙中山从出生成长到进行革命活动的相关历史遗迹。",
  "intro_en": "The scenic area covers an area of ​​about 500 square meters and includes five core scenic spots: Sun Yat-sen’s Former Residence Memorial Hall, Cuiheng Village, Zhongshan City, Xinhai Revolution Memorial Park and Litoujianshan. It comprehensively presents the relevant historical relics of Sun Yat-sen from his birth and growth to his revolutionary activities.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 113.592003,
     "type": "large_airport",
     "distance_km": 34.2,
-    "name_zh": "澳门国际机场"
+    "name_zh": "澳門國際機場"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -60,7 +64,7 @@
     "lon": 113.914862,
     "type": "large_airport",
     "distance_km": 41.9,
-    "name_zh": "香港国际机场"
+    "name_zh": "香港國際機場"
    }
   ],
   "nearest_airport_km": 34.2,
@@ -195,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "孙中山故居纪念馆等免费开放，需预约。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

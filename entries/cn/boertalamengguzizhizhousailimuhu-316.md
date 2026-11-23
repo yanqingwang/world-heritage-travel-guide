@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bortala Mongol Autonomous Prefecture"
 lat: 44.612755
 lon: 81.401139
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 博尔塔拉蒙古自治州赛里木湖景区 / Sayram Lake

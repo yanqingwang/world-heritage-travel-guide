@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区位于湖北省襄阳市，相传为诸葛亮“躬耕陇亩”、刘备“三顾茅庐”引发《隆中对》所在地，包括古隆中、水镜庄、承恩寺、七里山、鹤子川五大景点。",
  "intro_en": "Longzhong (Chinese: 隆中; pinyin: Lóngzhōng) is a scenic area with total area of 209 square kilometres (81 sq mi) located approximately 13 kilometres (8.1 mi) away from Xiangyang, Hubei, China. It is known as the former home of the Three Kingdoms-era strategist Zhuge Liang.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 110.906296,
     "type": "medium_airport",
     "distance_km": 124.4,
-    "name_zh": "十堰武当山机场"
+    "name_zh": "十堰武當山機場"
    }
   ],
   "nearest_airport_km": 27.9,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

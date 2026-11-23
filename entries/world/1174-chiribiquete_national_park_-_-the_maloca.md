@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(ix)(x)"
 lat: 0.700607
 lon: -72.8054
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 奇里比克特国家公园，“美洲豹的居所” / Chiribiquete National Park – “The Maloca of the Jaguar”

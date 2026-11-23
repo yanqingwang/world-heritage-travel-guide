@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iv)(v)(vi)"
 lat: 24.733333
 lon: 46.575556
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 德拉伊耶遗址的阿图赖夫区 / At-Turaif District in ad-Dir'iyah

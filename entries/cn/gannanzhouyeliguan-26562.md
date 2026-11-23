@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Gannanzangzu Autonomous Prefecture"
 lat: 35.019003
 lon: 103.628622
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 甘南州冶力关旅游区 / Gannanzhouyeliguan Tourist Area

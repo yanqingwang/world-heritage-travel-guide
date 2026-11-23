@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)(v)"
 lat: 19.89
 lon: 102.134722222
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 琅勃拉邦的古城 / Town of Luang Prabang

@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qiandongnanmiaozudongzu Autonomous Prefecture"
 lat: 27.055783
 lon: 108.42516
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 黔东南州镇远县镇远古城旅游景区 / Zhenyuan railway station

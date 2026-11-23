@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "野三坡主要景点包括百里峡景区、拒马河景区、龙门天关景区、 白草畔森林游览区、鱼谷洞、 印象野三坡等，是中国北方极为罕见的融雄山碧水、奇峡怪泉、文物古迹、名树古禅于一身的风景名胜区。",
  "intro_en": "Yesanpo National Park (Chinese: 野三坡; pinyin: Yěsānpō; lit. 'Wild Three Slope') (also, Yesanpo Scenic Site, or Yesanpo Geopark, and component areas) is a national park in Laishui County, Hebei Province, China about 2 hours west of Beijing. Yesanpo consists of six main scenic sites, including the Bai Li Xia Gorge (\"hundred li gorge\", which is about 31 miles), portions of the Juma River, Baicaopan Forest, and Jinhua Mountain. The park is located where the Taihang Mountains meet the Yan Mountains. Although designated as a national park, Yesanpo is not listed as an IUCN Level II \"protected area\" in the World Database of Protected Areas (WDPA). However, \"Yesanpo Scenic Area\" is listed by the governmental China National Tourism Administration, and components are listed in the WDPA. For example, Binlixia Nature Reserve is listed as an IUCN Level V Protected Area.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 121.9,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    }
   ],
   "nearest_airport_km": 106.0,
@@ -119,7 +123,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -163,9 +167,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

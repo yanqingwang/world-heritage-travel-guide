@@ -2,7 +2,7 @@
 id: "cn-1183"
 dataset: "china_5a"
 name_zh: "张家界市武陵源-天门山旅游区"
-name_en: "Tianmen Mountain"
+name_en: "Zhangjiajieshiwulingyuan-tianmenshan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Zhangjiajie"
 lat: 29.360276
 lon: 110.402594
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 张家界市武陵源-天门山旅游区 / Tianmen Mountain
+# 张家界市武陵源-天门山旅游区 / Zhangjiajieshiwulingyuan-tianmenshan Tourist Area
 
 > 湖南省 · 张家界市 · 历史遗址
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Tianmen Mountain (simplified Chinese: 天门山; traditional Chinese: 天門山; pinyin: Tiānmén Shān; lit. 'Heaven's Gate Mountain') is a mountain located within Tianmen Mountain National Park, Zhangjiajie, in the northwestern part of Hunan Province, China.
+The scenic area includes two tourist areas, Wulingyuan and Tianmen Mountain. Among them, Wulingyuan Scenic Area is composed of Zhangjiajie Forest Park in Zhangjiajie City, Suoxiyu Nature Reserve in Cili County, and Tianzi Mountain Nature Reserve in Sangzhi County. Tianmen Mountain is a mountain-type natural scenic spot with a total area of ​​96 square kilometers and a top area of ​​2 square kilometers. The main peak of Tianmen Mountain Scenic Area is 1518.6 meters above sea level, making it the highest mountain in Zhangjiajie. It is named after the natural wonder Tianmen Cave.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,9 @@ Tianmen Mountain (simplified Chinese: 天门山; traditional Chinese: 天門山;
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天门山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

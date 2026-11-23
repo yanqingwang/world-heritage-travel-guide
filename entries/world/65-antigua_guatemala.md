@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(iv)"
 lat: 14.556504
 lon: -90.73381
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 安提瓜危地马拉 / Antigua Guatemala

@@ -21,6 +21,10 @@
  "category": "natural",
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "查干湖，蒙古语为“查干淖尔”，意为白色圣洁的湖，位于吉林省西北部的前郭尔罗斯蒙古族自治县境内，处于嫩江与霍林河交汇的水网地区，南北长37公里，东西平均宽17公里，总面积500平方公里，年均蓄水量7亿立方米，是全国十大淡水湖之一，也是吉林省最大的内陆湖泊。湖区现有鸟类16目47科239种，有国家一级保护的丹顶鹤、白头鹤、东方白鹳等9种，有国家二级保护的黑脸琵鹭、灰鹤、雀鹰等35种。",
  "intro_en": "Chagan Lake (Chinese: 查干湖; pinyin: chágān hú) is a lake in Jilin, China. The name \"Chagan\" is from Mongolian (ᠴᠠᠭᠠᠨᠨᠠᠭᠤᠷ, transliteration: Chaɣan naɣur, Cyrillic Mongolian: цагаан нуур, transliteration MNS: tsagaan nuur), meaning white / pure lake). It is often referred to as the Sacred Lake or Holy Water Lake (simplified Chinese: 圣水湖; traditional Chinese: 聖水湖; pinyin: shèngshuǐ hú) by local people. The lake is known for its traditional winter fishing, featuring a technique which dates back to prehistoric times.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 123.019722,
     "type": "medium_airport",
     "distance_km": 115.8,
-    "name_zh": "白城长安机场"
+    "name_zh": "白城長安機場"
    },
    {
     "name": "Harbin Taiping International Airport",
@@ -152,9 +156,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

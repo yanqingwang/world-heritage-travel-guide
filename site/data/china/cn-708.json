@@ -10,8 +10,8 @@
  "city_zh": "深圳市",
  "city_en": "Shenzhen",
  "name_zh": "深圳市南山区华侨城旅游度假区",
- "name_en": "Overseas Chinese Town Enterprises",
- "name_en_source": "wikipedia",
+ "name_en": "Shenzhenshinanshanquhuaqiaocheng Tourist Resort",
+ "name_en_source": "pinyin",
  "slug": "shenzhenshinanshanquhuaqiaocheng-708",
  "lat": 22.543555,
  "lon": 113.989928,
@@ -21,9 +21,13 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "华侨城以锦绣中华、中国民俗文化村、世界之窗、欢乐谷四大主题公园为核心，汇聚了中国较为集中的文化主题公园群、文化主题酒店群和文化艺术设施群，是首批全国文明风景旅游区、国家级文化产业示范园区。",
- "intro_en": "Overseas Chinese Town Enterprises Co. is a Chinese state-owned enterprise, supervised by the State-owned Assets Supervision and Administration Commission of the State Council. Overseas Chinese Town Enterprises is the parent company of publicly traded companies Overseas Chinese Town Limited (SZSE: 000069), Overseas Chinese Town (Asia) (SEHK: 3366, a subsidiary of Overseas Chinese Town Company) and Konka Group (SZSE: 000016). It is engaged in cross-sector and cross-industry operation. The company was founded on 1985 and is headquartered in Shenzhen, China. Since 1985, the company has fostered three leading major businesses in China, which are tourism and related cultural industry, real estate, hotel development, and manufacture of electronic products. As the listed subsidiary, OCT A provides a platform for capital operation of OCT group. The company is well known for its nationally famous brands, including six Happy Valley amusement parks, Konka Group, Splendid China Folk Village, Window of the World, OCT East, OCT Grand Hotel, Venice Hotel, OCT Harbour and so on.",
- "intro_en_source": "wikipedia",
+ "intro_en": "With the four major theme parks of Splendid China, China Folk Culture Village, Window of the World and Happy Valley as its core, OCT brings together a relatively concentrated group of cultural theme parks, cultural themed hotels and cultural and art facilities in China. It is one of the first batch of national civilized scenic tourist areas and national cultural industry demonstration parks.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "https://www.chinaoct.com/",
  "booking": "https://www.chinaoct.com/",
@@ -49,7 +53,7 @@
     "lon": 113.914862,
     "type": "large_airport",
     "distance_km": 26.9,
-    "name_zh": "香港国际机场"
+    "name_zh": "香港國際機場"
    },
    {
     "name": "Macau International Airport",
@@ -60,7 +64,7 @@
     "lon": 113.592003,
     "type": "large_airport",
     "distance_km": 59.9,
-    "name_zh": "澳门国际机场"
+    "name_zh": "澳門國際機場"
    }
   ],
   "nearest_airport_km": 21.9,
@@ -174,11 +178,10 @@
  "hotels_nearby_30km": 416,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -197,7 +200,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -208,16 +211,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/华侨城集团"
+   "url": "https://zh.wikipedia.org/wiki/深圳市南山实验教育集团华侨城高级中学"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

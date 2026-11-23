@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 33.789265
 lon: 111.57707
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 洛阳市老君山-鸡冠洞旅游区 / Jiguan Cave
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Laojunshan-Jiguandong tourist area is located in the hinterland of Funiu Mountain in western Henan. The ancient name of Laojun Mountain is Jingshi Mountain, which is named after Laozi, the founder of Taoism in the Eastern Zhou Dynasty, who lived in seclusion here. It is the main peak of Funiu Mountain in 800 miles away, with an altitude of 2217 meters. Jiguan Cave is a natural limestone cave, geologically called "karst karst landform".
-
-*English introduction: machine translation.*
+Jiguan Cave (鸡冠洞) is located at Luoyang city in Henan province, China. This cave is on the side of the Jiguan mountain, a branch of Funiu Mountains, at an altitude of 1201 meters. Jiguan Cave was formed about 600 million years ago and was discovered in the Qianlong period of the Qing dynasty. In August 1992, Jiguan Cave was developed, completed on March 31, 1993, and it opened up in April 1993. Jiguan Cave is a limestone cave, mainly consisting of stalactites and stalagmites. It is geologically described as a karst landform. This cave reaches a length of 5600 meters, the vertical stratification is five, and it drops 138 meters. There are 1800 meters, and 2300 square meters for travelling. The cave is naturally air conditioned to 18°C in all seasons.
 
 ## 交通 / Transport
 

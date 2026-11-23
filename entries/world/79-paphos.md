@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)(vi)"
 lat: 34.75833
 lon: 32.40556
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 帕福斯 / Paphos

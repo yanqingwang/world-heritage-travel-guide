@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 29.163259
 lon: 121.042193
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 台州市天台山景区 / Tiantai Mountain

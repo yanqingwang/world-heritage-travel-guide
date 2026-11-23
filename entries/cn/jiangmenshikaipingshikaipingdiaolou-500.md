@@ -2,7 +2,7 @@
 id: "cn-500"
 dataset: "china_5a"
 name_zh: "江门市开平市开平碉楼文化旅游区"
-name_en: "Kaipingdiaolou Cultural Tourism Area"
+name_en: "Jiangmenshikaipingshikaipingdiaolou Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Jiangmen City"
 lat: 22.378728
 lon: 112.586021
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 江门市开平市开平碉楼文化旅游区 / Kaipingdiaolou Cultural Tourism Area
+# 江门市开平市开平碉楼文化旅游区 / Jiangmenshikaipingshikaipingdiaolou Cultural Tourism Area
 
 > 广东省 · 江门市 · 古镇村落
 
@@ -53,10 +53,9 @@ Kaiping Diaolou Cultural Tourism Area is mainly composed of three major scenic s
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/开平碉楼)
 - [OpenStreetMap](https://www.openstreetmap.org/)

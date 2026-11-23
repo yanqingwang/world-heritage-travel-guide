@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Ningde"
 lat: 27.058977
 lon: 119.118059
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 宁德市（白水洋•鸳鸯溪）旅游景区 / Baishuiyang Scenic Area

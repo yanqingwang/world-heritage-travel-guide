@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "清江画廊风景区是国家地质公园，清江流域内形成386万亩亦江亦湖的奇妙自然景观，两岸独特的喀斯特地貌，峰峦叠峰，直刺苍穹，湖内数百翡翠般的岛屿星罗棋布、灿若绿珠。",
  "intro_en": "The Qing River (Chinese: 清江; pinyin: Qīng Jiāng; lit. 'Pure River') is a right (southern) tributary of the Yangtze River (Chang Jiang) in Hubei province of south-central China.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 112.44854,
     "type": "medium_airport",
     "distance_km": 126.6,
-    "name_zh": "荆州沙市机场"
+    "name_zh": "沙市机场"
    },
    {
     "name": "Shennongjia Hongping Airport",
@@ -60,7 +64,7 @@
     "lon": 110.34,
     "type": "medium_airport",
     "distance_km": 149.3,
-    "name_zh": "神农架红坪机场"
+    "name_zh": "神農架紅坪機場"
    }
   ],
   "nearest_airport_km": 33.4,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)"
 lat: 37.662777777
 lon: 62.1925
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 梅尔夫历史与文化公园 / State Historical and Cultural Park “Ancient Merv”

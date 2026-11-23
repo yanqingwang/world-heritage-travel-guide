@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "乌镇作为江南水乡六大古镇之一，拥有1300年建镇史。雕梁、画栋、石巷、老屋见证着古镇沧桑历史与斑驳光影。这里是我国现代文学巨匠茅盾的出生地，是世界互联网大会永久会址，是首批中国历史文化名镇、中国十大魅力名镇之一，有“鱼米之乡、丝绸之府”之称。",
  "intro_en": "Wuzhen (Chinese: 乌镇; pinyin: Wūzhèn, Wu: Whu-tsen lit. \"Wu Town\") is a historic scenic town, part of Tongxiang, located in the north of Zhejiang Province, China. It was primarily built in the 7th century during the Tang dynasty. It lies within the triangle formed by Hangzhou, Suzhou and Shanghai. Covering an area of 71.19 km2 (27.49 sq mi), Wuzhen has a total population of 60,000, of which 12,000 are permanent residents. Wuzhen has been the permanent host place of the annual World Internet Conference, an international Internet conference held in China, since 2014.",
  "intro_en_source": "wikipedia",
@@ -162,7 +166,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 25,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -206,9 +210,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 53.044444444
 lon: 57.063888888
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 舒利根塔什洞穴岩画 / Rock Paintings of Shulgan-Tash Cave

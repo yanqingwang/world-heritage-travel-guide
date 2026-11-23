@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 61.1975
 lon: -140.992
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 克卢恩/兰格尔-圣伊莱亚斯/冰川湾/塔琴希尼-阿尔塞克 / Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek

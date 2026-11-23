@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)(iv)"
 lat: 32.008333333
 lon: 48.520833333
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 恰高•占比尔 / Tchogha Zanbil

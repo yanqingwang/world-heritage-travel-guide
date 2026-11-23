@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "四面山风景区拥有“丹霞地貌”的特征，极具观赏价值。四面山风景区主要有望乡台、土地岩、龙潭湖、洪海、珍珠湖等核心景区，自然景观独特、生态环境优美、旅游资源丰富，是休闲度假优选的旅游目的地。",
  "intro_en": "Simian Mountain (四面山, Sìmiàn Shān), located in the north part of Jiangjin District, Chongqing, China, is a transitive zone between the Yunnan–Guizhou Plateau and the Sichuan Basin. Because of the hot, humid climate and abundant rainfall, the area is heavily forested. It is the location of several significant waterfalls. Wangxiangtai (the Balcony of Nostalgia) Waterfall, 150 meters high and 40 meters wide, is one of the well-known waterfalls in China, and consists of many small waterfalls; Shuikoushi Waterfall is noted for its grand scale. Snaking its way among the valleys on Simian Mountain, the current of Chaba River feeds a number of lakes, of which the most majestic one is known as Great Red Sea.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 106.435416,
     "type": "medium_airport",
     "distance_km": 84.5,
-    "name_zh": "仁怀茅台机场"
+    "name_zh": "仁懷茅台機場"
    },
    {
     "name": "Luzhou Yunlong Airport",
@@ -140,9 +144,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

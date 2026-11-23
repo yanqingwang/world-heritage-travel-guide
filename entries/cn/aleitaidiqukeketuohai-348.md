@@ -2,7 +2,7 @@
 id: "cn-348"
 dataset: "china_5a"
 name_zh: "阿勒泰地区可可托海景区"
-name_en: "Koktokay"
+name_en: "Fuyun Koktokay Airport"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.216809
 lon: 89.875277
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 阿勒泰地区可可托海景区 / Koktokay
+# 阿勒泰地区可可托海景区 / Fuyun Koktokay Airport
 
 > 新疆维吾尔自治区 · 阿勒泰地区 · 度假休闲
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Koktokay (Chinese: 可可托海; pinyin: Kěkětuōhǎi; Wade–Giles: Kʻo-kʻo-tʻo-hai, Kazakh: Köktoğay qalaşığı) is a town of Fuyun County, Altay Prefecture, Xinjiang, China. The Irtysh River flows through Köktokay. It has abundant mineral and touristic resources, including the Koktokay National Geopark (可可托海國家地質公園). As of 2000 it had a population of 6,014.
+Fuyun Keketuohai (Koktokay) Airport (IATA: FYN, ICAO: ZWFY) is an airport serving Fuyun County in Altay Prefecture, Xinjiang, China. The old airport of Fuyun was built in 1965, located 38 kilometres (24 mi) from the county seat. It served a single route to Ürümqi until it was canceled in 1994, after the closing of the Koktokay mine. In November 2011, the State Council of China approved the proposal to move and rebuild Fuyun Airport. The new airport is located near the intersection of the provincial highway 226 and the national highway 216, 21 kilometres (13 mi) from the county seat. It is a class 4C regional airport, and the airport was projected to cost 410 million yuan to build. The airport was opened on 1 August 2015, when the inaugural China Southern Airlines flight from Urumqi Diwopu International Airport landed at the airport.
 
 ## 交通 / Transport
 
@@ -46,10 +46,10 @@ Koktokay (Chinese: 可可托海; pinyin: Kěkětuōhǎi; Wade–Giles: Kʻo-kʻo
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/可可托海镇)
+- [Wikipedia](https://zh.wikipedia.org/wiki/富蕴可可托海机场)
 - [OpenStreetMap](https://www.openstreetmap.org/)

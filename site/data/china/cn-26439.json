@@ -21,6 +21,10 @@
  "category": "garden",
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "明显陵文化旅游景区，位于享有世界长寿之乡、国家级历史文化名城、中国优秀旅游城市等殊荣的湖北省钟祥市城东郊，景区面积3.18平方公里。景区包括世界文化遗产明显陵、华中民俗第一村莫愁村、国家级湿地公园莫愁湖和明代帝王文化展示馆，是集水域风光、园林景观、人文历史、古建筑为一体的半开放式景区，山水林陵资源组合极佳。",
  "intro_en": "Mingmingling Cultural Tourism Scenic Area is located in the eastern suburbs of Zhongxiang City, Hubei Province, which has the honor of being the hometown of longevity in the world, a national historical and cultural city, and an outstanding tourist city in China. The scenic area covers an area of ​​3.18 square kilometers. The scenic area includes the Ming Ming Mausoleum, a world cultural heritage site, Mochou Village, the first folk village in Central China, Mochou Lake, a national wetland park, and the Ming Dynasty Emperor Culture Exhibition Hall. It is a semi-open scenic area that integrates water scenery, garden landscapes, humanities, history, and ancient buildings. It has an excellent combination of mountains, rivers, forests, and tombs.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 112.44854,
     "type": "medium_airport",
     "distance_km": 104.2,
-    "name_zh": "荆州沙市机场"
+    "name_zh": "沙市机场"
    },
    {
     "name": "Xiangyang Liuji Airport",
@@ -152,9 +156,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

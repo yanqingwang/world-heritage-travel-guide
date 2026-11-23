@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 12.616666666
 lon: 80.191666666
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 默哈伯利布勒姆古迹群 / Group of Monuments at Mahabalipuram

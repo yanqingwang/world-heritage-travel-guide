@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "巫山小三峡是大宁河下游流经巫山境内的龙门峡、巴雾峡、滴翠峡的总称，峡谷全长60公里。巫山小小三峡位于大宁河滴翠峡处的支流马渡河上，是长滩峡、秦王峡、三撑峡的总称，全长15公里。巫山小三峡-小小三峡旅游风景区风景如画，一江碧水，奇峰壁立，竹木葱茏，猿声阵阵，饶有野趣。",
  "intro_en": "Wushan Little Three Gorges is the general name for the Longmen Gorge, Bawu Gorge, and Dicui Gorge that flow through Wushan on the lower reaches of the Daning River. The total length of the canyon is 60 kilometers. Wushan Small Three Gorges is located on the Madu River, a tributary of the Daning River at the Dicui Gorge. It is the general name of Changtan Gorge, Qinwang Gorge and Sanzhan Gorge, with a total length of 15 kilometers. Wushan Little Three Gorges - Little Three Gorges Tourist Scenic Area is picturesque, with a river of clear water, strange peaks on the wall, lush bamboo and trees, and the sound of apes, which is full of wild interest.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 110.34,
     "type": "medium_airport",
     "distance_km": 73.4,
-    "name_zh": "神农架红坪机场"
+    "name_zh": "神農架紅坪機場"
    },
    {
     "name": "Enshi Xujiaping Airport",
@@ -149,7 +153,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 3,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -192,9 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

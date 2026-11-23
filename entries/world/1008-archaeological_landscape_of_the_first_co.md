@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 20.03
 lon: -75.3914
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 古巴东南第一个咖啡种植园考古风景区 / Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba

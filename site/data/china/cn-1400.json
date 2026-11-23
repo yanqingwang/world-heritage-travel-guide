@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区拥有河海交汇、湿地生态、石油工业和滨海滩涂景观等黄河三角洲独具特色的生态旅游资源。区域内有各种野生动物1524多种，还有国内罕见的天然柽柳林和万亩人工刺槐林，是进行科考、度假、观鸟、猎奇、赶海、观潮、赏月、观日出的理想场所。",
  "intro_en": "The scenic area has unique eco-tourism resources in the Yellow River Delta such as the intersection of rivers and seas, wetland ecology, petroleum industry and coastal beach landscapes. There are more than 1,524 kinds of wild animals in the area, as well as the rare natural tamarisk forest and 10,000 acres of artificial black locust forest in the country. It is an ideal place for scientific research, vacation, bird watching, hunting, catching the sea, watching tides, admiring the moon and watching the sunrise.",
  "intro_en_source": "machine_translation",
@@ -121,7 +125,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 3,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -164,9 +168,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

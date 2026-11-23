@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "龟峰山景区位于鄂豫皖三省交界的大别山中段南麓，距离武汉市区120公里，距离麻城市区27公里，规划总面积为73.8平方公里，核心区域面积23.6平方公里。由神奇的龟首、雄伟的龟背和逼真的龟尾等9座山峰组成，从龟首到龟尾全长16公里、宽7公里，最高点险刀峰海拔1320米。\n景区山青水秀，环境优美，空气新鲜，森林覆盖率高达95%，负氧离子含量高达每立方厘米2万个以上，享有“绿色宝库”和“天然氧吧”的美誉，生态环境堪称全国一流，是观光、休闲和度假的理想之地。",
  "intro_en": "Guifeng Mountain Scenic Area is located at the southern foot of the middle section of the Dabie Mountains at the junction of Hubei, Henan and Anhui provinces. It is 120 kilometers away from Wuhan City and 27 kilometers away from Macheng City. The total planned area is 73.8 square kilometers, and the core area is 23.6 square kilometers. It consists of 9 peaks, including the magical turtle head, the majestic turtle back and the lifelike turtle tail. It is 16 kilometers long and 7 kilometers wide from the turtle head to the turtle tail. The highest point, Xandao Peak, is 1,320 meters above sea level.\nThe scenic area has beautiful mountains and clear waters, a beautiful environment, fresh air, a forest coverage rate of 95%, and a negative oxygen ion content of more than 20,000 per cubic centimeter. It enjoys the reputation of a \"green treasure house\" and a \"natural oxygen bar\". The ecological environment is among the best in the country, and it is an ideal place for sightseeing, leisure and vacation.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 104.6,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
@@ -172,9 +176,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

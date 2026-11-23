@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iii)"
 lat: 18.963333333
 lon: 72.931388888
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 埃勒凡塔石窟（象岛石窟） / Elephanta Caves

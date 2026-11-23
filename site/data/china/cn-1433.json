@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "镇北堡西部影城位于宁夏回族自治区银川市，是集观光、娱乐、休闲、餐饮、购物于一体的国家5A级旅游景区。镇北堡西部影城以其古朴、原始、粗犷、荒凉、民间化为特色，主要景点有明城、清城、老银川一条街等，曾被评为“中国最受欢迎旅游目的地”，是中国十大影视基地之一。电影《大话西游》、《新龙门客栈》、《红高粱》等都曾在此取景。",
  "intro_en": "Zhenbeibao Western Cinema is located in Yinchuan City, Ningxia Hui Autonomous Region. It is a national 5A tourist attraction integrating sightseeing, entertainment, leisure, catering and shopping. Zhenbeibao Western Cinema is characterized by its simplicity, primitiveness, roughness, desolation and folk culture. Its main attractions include Mingcheng, Qingcheng, Old Yinchuan Street, etc. It has been rated as \"China's most popular tourist destination\" and is one of the top ten film and television bases in China. The movies \"Westward Journey\", \"New Dragon Gate Inn\", \"Red Sorghum\", etc. have all been shot here.",
  "intro_en_source": "machine_translation",
@@ -171,7 +175,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 12,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -214,9 +218,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

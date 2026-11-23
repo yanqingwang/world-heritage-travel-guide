@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "响沙湾沙高110米，坡度45度，呈弯月状，特殊的地理构造形成一个很大的沙山回音壁。这里沙丘高大，比肩而立，浩海茫茫。顺着云梯攀援而上，当人们从沙顶向下滑动，便会听到犹如飞机掠空而过的轰鸣声，响沙湾因而得名。",
  "intro_en": "The sand in Xiangshawan is 110 meters high, with a slope of 45 degrees and a crescent shape. The special geographical structure forms a large sand mountain echo wall. The sand dunes here are tall and shoulder to shoulder, and the sea is vast. Climbing up the ladder, when people slide down from the top of the sand, they will hear the roar like an airplane passing through the sky, hence the name Xiangshawan.",
  "intro_en_source": "machine_translation",
@@ -130,7 +134,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 3,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -169,9 +173,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

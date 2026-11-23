@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)"
 lat: -8.110555555
 lon: -79.075
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 昌昌城考古地区 / Chan Chan Archaeological Zone

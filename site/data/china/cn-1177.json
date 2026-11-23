@@ -10,8 +10,8 @@
  "city_zh": "岳阳市",
  "city_en": "Yueyang City",
  "name_zh": "岳阳市岳阳楼-君山岛景区",
- "name_en": "Yueyang Tower",
- "name_en_source": "wikipedia",
+ "name_en": "Yueyanglou Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "yueyangshiyueyangloujunshandao-1177",
  "lat": 29.383944,
  "lon": 113.101191,
@@ -21,9 +21,13 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "岳阳楼位于湖南省岳阳市古城西门城墙之上，下瞰洞庭，前望君山，有“洞庭天下水，岳阳天下楼”之美誉。君山岛古称洞庭山、湘山、有缘山，是八百里洞庭湖中的一个小岛，与千古名楼岳阳楼遥遥相对。",
- "intro_en": "Yueyang Tower (simplified Chinese: 岳阳楼; traditional Chinese: 岳陽樓; pinyin: Yuèyáng Lóu) is an ancient Chinese pavilion in Yueyang, Hunan Province, on the shore of Lake Dongting. Alongside the Pavilion of Prince Teng and Yellow Crane Tower, it is one of the Three Great Towers of Jiangnan. Yueyang Tower became famous for Memorial to Yueyang Tower (岳阳楼记) written by Fan Zhongyan, an eminent scholar and statesman of the Northern Song dynasty (960–1127) in China. Located on the city wall of the west gate of the ancient city in Yueyang city, Hunan province, China, Yueyang Tower faces Junshan Island and overlooks Dongting Lake, being exquisite and imposing. Since ancient times, it has enjoyed the good reputation that Dongting Lake is the best among lakes, and Yueyang Tower is incomparable among towers. Yueyang Tower with yellow tiles and overhanging eaves set the green forest off (黄瓦飞檐). Its roof covered with yellow glazed tiles (黄色琉璃瓦) has a smooth curve, precipitous yet warped, just like a general's helmet in ancient China. It is the only ancient building with a helmet roof structure in China.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Yueyang Tower is located on the west gate wall of the ancient city of Yueyang City, Hunan Province. It overlooks the Dongting below and Junshan in front. It has the reputation of \"water is in the world in Dongting, and the tower is in the sky in Yueyang\". Junshan Island, known as Dongting Mountain, Xiang Mountain, and Youyuan Mountain in ancient times, is a small island in the 800-mile Dongting Lake, far opposite the Yueyang Tower, a famous tower through the ages.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "http://www.yyljsd.com/",
  "booking": "http://www.yyljsd.com/",
@@ -49,7 +53,7 @@
     "lon": 112.44854,
     "type": "medium_airport",
     "distance_km": 119.1,
-    "name_zh": "荆州沙市机场"
+    "name_zh": "沙市机场"
    },
    {
     "name": "Changsha Huanghua International Airport",
@@ -162,14 +166,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 7,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
+  "ja": false,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -206,9 +209,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

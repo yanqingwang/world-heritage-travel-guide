@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "华清池景区是以温泉汤池知名的中国古代离宫，周、秦、汉、隋、唐历代统治者在此砌石起宇，兴建骊山汤，周筑罗城，大兴温泉宫。1982年，华清池被列为全国第一批重点风景名胜区。",
  "intro_en": "Huaqing Pool Scenic Area is an ancient Chinese palace famous for its hot springs and hot springs. The rulers of the Zhou, Qin, Han, Sui and Tang dynasties built stone buildings here, built Lishan Hot Spring, built Luo City, and built the Daxing Hot Spring Palace. In 1982, Huaqing Pool was listed as one of the first batch of key scenic spots in the country.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 108.87338,
     "type": "small_airport",
     "distance_km": 182.3,
-    "name_zh": "安康富强机场"
+    "name_zh": "安康富強機場"
    },
    {
     "name": "Yuncheng Yanhu International Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Yichun City"
 lat: 48.465019
 lon: 129.458354
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 伊春市林海奇石景区 / Yichunshilinhaiqishi Scenic Area

@@ -2,7 +2,7 @@
 id: "cn-1154"
 dataset: "china_5a"
 name_zh: "长沙市岳麓山-橘子洲旅游区"
-name_en: "Juzizhou Tourist Area"
+name_en: "Orange Isle"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Changsha"
 lat: 28.189122
 lon: 112.943867
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 长沙市岳麓山-橘子洲旅游区 / Juzizhou Tourist Area
+# 长沙市岳麓山-橘子洲旅游区 / Orange Isle
 
 > 湖南省 · 长沙市 · 历史遗址
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Yuelu Mountain is the tail peak of Nanyue's seventy-two peaks. It has many ancient and famous trees, many cultural relics, and tombs of famous martyrs. At the foot of Yuelu Mountain is Yuelu Academy, which is listed as one of the four major academies in ancient China. On the mountainside is the ancient Lushan Temple, and at the top of the mountain is the Yunlu Taoist Palace. It is an area where Confucianism, Buddhism and Taoism blend with each other.
-
-*English introduction: machine translation.*
+Orange Isle (Chinese: 橘子洲; pinyin: Júzi Zhōu) is an isle in Xiang River, Changsha, Hunan, China. It also known by other names, such as Ju Isle (橘洲; Jú Zhōu) and Shuilu Isle (水陆洲; 水陸洲; Shuǐlù Zhōu; 'Water-and-land Isle'). It has a length of 5 kilometres (3.1 mi), a width of 40 to 140 metres (130 to 460 ft) and a total area of 370,900 square metres (91.64 acres). It was also a national AAAAA (5A) level tourist attraction and a national key scenic spot.
 
 ## 交通 / Transport
 
@@ -53,7 +51,7 @@ Yuelu Mountain is the tail peak of Nanyue's seventy-two peaks. It has many ancie
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

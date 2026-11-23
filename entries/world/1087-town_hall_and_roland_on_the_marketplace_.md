@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(iv)(vi)"
 lat: 53.0759
 lon: 8.8076
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 不来梅市市场的市政厅和罗兰城 / Town Hall and Roland on the Marketplace of Bremen

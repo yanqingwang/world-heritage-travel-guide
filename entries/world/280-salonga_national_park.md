@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(ix)"
 lat: -2.0
 lon: 21.0
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 萨隆加国家公园 / Salonga National Park

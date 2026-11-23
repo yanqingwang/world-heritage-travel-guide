@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Xuzhou"
 lat: 34.334121
 lon: 117.291025
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 徐州市云龙湖景区 / Yunlong Lake

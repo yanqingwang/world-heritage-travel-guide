@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(ii)(vi)"
 lat: 49.2434
 lon: 4.0413
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 兰斯圣母大教堂、圣雷米修道院和圣安东尼宫殿 / Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims

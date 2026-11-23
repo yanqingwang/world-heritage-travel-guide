@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iii)(iv)(v)"
 lat: 16.93389
 lon: 121.13667
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 菲律宾科迪勒拉山的水稻梯田 / Rice Terraces of the Philippine Cordilleras

@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Qingdao"
 lat: 36.066251
 lon: 120.39726
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 青岛市奥帆海洋文化旅游区 / Qingdaoshiaofanhaiyang Cultural Tourism Area
@@ -60,5 +60,4 @@ Qingdao Olympic Sailing Marine Cultural Tourism Area is located in Shinan Distri
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/青岛市A级旅游景区列表)
 - [OpenStreetMap](https://www.openstreetmap.org/)

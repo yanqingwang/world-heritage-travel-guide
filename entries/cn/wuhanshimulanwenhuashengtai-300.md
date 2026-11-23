@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 31.099165
 lon: 114.403265
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 武汉市木兰文化生态旅游区 / Mulanshan Tourist Area

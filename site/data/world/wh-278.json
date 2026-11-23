@@ -98,7 +98,8 @@
     "lat": 31.991116,
     "lon": 44.405019,
     "type": "large_airport",
-    "distance_km": 61.3
+    "distance_km": 61.3,
+    "name_zh": "納傑夫"
    },
    {
     "name": "Baghdad International Airport / New Al Muthana Air Base",
@@ -109,7 +110,7 @@
     "lon": 44.2346,
     "type": "large_airport",
     "distance_km": 82.2,
-    "name_zh": "巴格达国际机场"
+    "name_zh": "巴格達國際機場"
    },
    {
     "name": "Shahid Ashrafi Esfahani Airport",
@@ -120,7 +121,7 @@
     "lon": 47.1581001282,
     "type": "medium_airport",
     "distance_km": 322.8,
-    "name_zh": "克尔曼沙赫"
+    "name_zh": "克爾曼沙赫"
    }
   ],
   "nearest_airport_km": 61.3,
@@ -202,5 +203,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-16T11:41:05Z"
+ "updated_at": "2026-11-23T13:00:50Z"
 }

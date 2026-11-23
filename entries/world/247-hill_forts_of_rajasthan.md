@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 24.883306
 lon: 74.646111
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 拉贾斯坦邦的山地堡垒 / Hill Forts of Rajasthan

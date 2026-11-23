@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.300971
 lon: 109.354708
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 三亚市天涯海角游览区 / Tianya Haijiao

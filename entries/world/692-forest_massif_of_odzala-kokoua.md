@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ix)(x)"
 lat: 0.8
 lon: 14.9
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 奥扎拉-科科阿森林高地 / Forest Massif of Odzala-Kokoua

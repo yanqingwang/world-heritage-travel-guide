@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Ganzi Tibetan Autonomous Prefecture"
 lat: 29.652451
 lon: 102.12944
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 甘孜州海螺沟景区 / Hailuogou

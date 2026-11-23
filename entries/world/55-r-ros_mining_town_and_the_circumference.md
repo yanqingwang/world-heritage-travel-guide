@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)(iv)(v)"
 lat: 62.57388889
 lon: 11.38555556
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 勒罗斯矿城及周边地区 / Røros Mining Town and the Circumference

@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 37.217329
 lon: 112.188122
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 晋中市平遥古城景区 / Pingyao

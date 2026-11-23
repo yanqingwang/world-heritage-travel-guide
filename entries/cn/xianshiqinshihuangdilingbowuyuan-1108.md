@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.394463
 lon: 109.29079
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 西安市秦始皇帝陵博物院景区 / Mausoleum of Qin Shi Huang

@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.153166
 lon: 110.438262
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 桂林市漓江风景区 / Li River

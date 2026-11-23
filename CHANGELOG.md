@@ -130,3 +130,9 @@
 - 中国 5A：359 条；海外世界遗产：1,213 条。
 - 新增 0 条，移除 0 条，更新 972 条。
 - 变更字段：images × 843、tier × 488、hotels × 482、transport.ferry_terminals × 268、name_en × 177、intro_en × 164、intro_local × 102、intro_zh × 26
+
+## 2026-11-23
+
+- 中国 5A：359 条；海外世界遗产：1,213 条。
+- 新增 0 条，移除 0 条，更新 84 条。
+- 变更字段：name_en × 73、intro_en × 64

@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "奉化溪口-滕头旅游景区，由溪口风景区和滕头生态旅游区两大景区组成。溪口风景区，东靠武岭，南濒剡溪，北靠雪窦山，水绕山环，景色秀丽，深得旅游爱好者的青睐。滕头生态旅游区因美丽的生态景观、特色的乡村风情而闻名，是一个将国际时尚与中国经典乡村文化结合起来的生态旅游度假区。",
  "intro_en": "Xikou (simplified Chinese: 溪口镇; traditional Chinese: 溪口鎮; pinyin: Xīkǒu Zhèn; Wade–Giles: Hsi¹-k'ou³ Chen⁴) is a town of 84,000 in northeastern Zhejiang province, People's Republic of China. It is located 39 kilometers (24 mi) west of Ningbo and covers 381 square kilometers (147 sq mi). It is under the administration of Fenghua District, and is the birthplace and ancestral home of the former President of the Republic of China Chiang Kai-shek. Mao Fumei, divorced wife of ROC President Chiang Kai-shek and mother of ROC President Chiang Ching-kuo, was killed during the Japanese bombing of Xikou on December 12, 1939.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 121.46199798583984,
     "type": "large_airport",
     "distance_km": 14.9,
-    "name_zh": "宁波栎社国际机场"
+    "name_zh": "寧波櫟社國際機場"
    },
    {
     "name": "Zhoushan Putuoshan International Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 105,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "惠州市",
  "city_en": "Huizhou",
  "name_zh": "惠州市惠城区惠州西湖旅游景区",
- "name_en": "West Lake (Huizhou)",
- "name_en_source": "wikipedia",
+ "name_en": "Huizhouxihu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "huizhoushihuichengquhuizhouxihu-515",
  "lat": 23.095461,
  "lon": 114.403979,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "free",
+ "admission_note_zh": "长期免门票开放。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区由西湖和红花湖组成，素以五湖、六桥、八景而闻名，其山川秀邃、幽胜曲折、浮洲四起、青山似黛，古色古香的亭台楼阁隐现于树木葱茏之中，景域妙在天成，有“苎萝西子”之美誉，并有“大中国西湖三十六，唯惠州足并杭州”的史载。",
- "intro_en": "West Lake (Chinese: 西湖; pinyin: Xī Hú) is a man-made recreational lake in Huicheng District of Huizhou, Guangdong, China. West Lake has a combined area of 20.91 square kilometres (8.07 sq mi), of which 3.13 square kilometres (1.21 sq mi) is covered by water. It has been designated as a National AAAAA-level Scenic Spot.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic spot consists of West Lake and Honghua Lake. It is famous for its five lakes, six bridges and eight scenic spots. It has beautiful mountains and rivers, winding and winding mountains, floating islands everywhere, green mountains like black, and antique pavilions and pavilions hidden among the green trees. The scenery is so wonderful that it is known as \"The West Lake of Xizi\", and there is a historical record that \"there are thirty-six West Lakes in China, only Huizhou is equal to Hangzhou\".",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -60,7 +64,7 @@
     "lon": 113.914862,
     "type": "large_airport",
     "distance_km": 100.5,
-    "name_zh": "香港国际机场"
+    "name_zh": "香港國際機場"
    }
   ],
   "nearest_airport_km": 20.7,
@@ -155,11 +159,10 @@
  "hotels_nearby_30km": 32,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -178,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -196,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "长期免门票开放。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

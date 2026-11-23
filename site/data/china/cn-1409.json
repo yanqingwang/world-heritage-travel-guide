@@ -21,6 +21,10 @@
  "category": "garden",
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "旅游区涵盖地方景观、水域风光、遗址遗迹、建筑设施、人文活动、气候景观等六大主类。根宫佛国巧妙地以根雕艺术、盆景艺术、赏石文化与园林古建为载体，构建了一幅恬静优雅的画卷，是一处寻根探源山水文化的旅游胜地。",
  "intro_en": "The tourist area covers six main categories: local landscape, water scenery, ruins, architectural facilities, cultural activities, and climate landscape. Root Palace Buddhist Country skillfully uses root carving art, bonsai art, stone appreciation culture and ancient garden architecture as carriers to construct a quiet and elegant picture. It is a tourist attraction for exploring the roots of landscape culture.",
  "intro_en_source": "machine_translation",
@@ -162,7 +166,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 5,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -205,9 +209,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

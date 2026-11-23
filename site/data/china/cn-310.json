@@ -10,8 +10,8 @@
  "city_zh": "阿坝藏族羌族自治州",
  "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
  "name_zh": "阿坝州九寨沟景区",
- "name_en": "Abazhoujiuzhaigou Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Jiuzhaigou",
+ "name_en_source": "wikipedia",
  "slug": "abazhoujiuzhaigou-310",
  "lat": 33.163223,
  "lon": 103.921224,
@@ -21,9 +21,13 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "九寨沟位于四川省西北部岷山山脉南段的阿坝藏族羌族自治州九寨沟县漳扎镇境内，地处岷山南段弓杆岭的东北侧。九寨沟自然保护区地势南高北低，山谷深切，高差悬殊。九寨沟是世界自然遗产、国家重点风景名胜区、国家级自然保护区、国家地质公园、世界生物圈保护区网络，也是中国第一个以保护自然风景为主要目的的自然保护区。",
- "intro_en": "Jiuzhaigou Valley is located in Zhangza Town, Jiuzhaigou County, Aba Tibetan and Qiang Autonomous Prefecture, in the southern section of the Minshan Mountains in northwest Sichuan Province. It is located on the northeast side of Gonggan Ridge in the southern section of the Minshan Mountains. The terrain of Jiuzhaigou Nature Reserve is high in the south and low in the north, with deep valleys and huge height differences. Jiuzhaigou Valley is a world natural heritage, a national key scenic spot, a national nature reserve, a national geological park, and a world network of biosphere reserves. It is also China's first nature reserve with the main purpose of protecting natural scenery.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Jiuzhaigou ([tɕjòʊ.ʈʂâɪ.kóʊ] ; Chinese: 九寨沟; pinyin: Jiǔzhàigōu) is a nature reserve and national park located in the north of Sichuan Province in southwestern China. A long valley running north to south, Jiuzhaigou was inscribed by UNESCO as a World Heritage Site in 1992 and a World Biosphere Reserve in 1997. It belongs to the category V (Protected Landscape) in the IUCN system of protected area categorization. The Jiuzhaigou valley is part of the Min Mountains on the edge of the Tibetan Plateau and stretches over 72,000 hectares (180,000 acres). It has an altitude of over 4800 meters and is composed of a series of diverse forest ecosystems. It is known for its many multi-level waterfalls, colorful lakes, and snow-capped peaks. Its elevation ranges from 2,000 to 4,500 metres (6,600 to 14,800 ft). The Jiuzhaigou area borders the Minshan Garna Peak in the south, and the Huanglong Scenic Area is to Jiuzhaigou's north. It originates from the Baishui River area, one of the headwaters of the Jialing River and a part of the Yangtze River system.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "https://www.jiuzhai.com/",
  "booking": "https://www.jiuzhai.com/intelligent-service/tickets",
@@ -156,9 +160,10 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -187,13 +192,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/九寨沟"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

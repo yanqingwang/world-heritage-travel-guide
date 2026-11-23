@@ -2,7 +2,7 @@
 id: "cn-1447"
 dataset: "china_5a"
 name_zh: "上海野生动物园"
-name_en: "Wild Animal Park station"
+name_en: "Shanghaiyeshengdongwuyuan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.060553
 lon: 121.720833
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 上海野生动物园 / Wild Animal Park station
+# 上海野生动物园 / Shanghaiyeshengdongwuyuan
 
 > 上海市 · 浦东新区 · 主题乐园
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Wild Animal Park (simplified Chinese: 野生动物园; traditional Chinese: 野生動物園; pinyin: Yěshēng Dòngwùyuán) is a station on Line 16 of the Shanghai Metro. The station is near the Shanghai Wild Animal Park (zh). It opened on 29 December 2013 as part of the first section of Line 16 from Luoshan Road to Dishui Lake. The station has 4 platforms, but only the 2 outer platforms are in regular service. Express trains usually pass through the middle 2 tracks.
+Shanghai Wildlife Park is a warm home for wild animals and a natural oxygen bar in the metropolis. There are more than 200 species of rare wild animals from home and abroad, totaling tens of thousands of animals, living here happily and thriving. The park is divided into three parts: pedestrian area, vehicle entry area and "water exploration".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,9 @@ Wild Animal Park (simplified Chinese: 野生动物园; traditional Chinese: 野�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/野生动物园站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iii)(iv)"
 lat: 59.335
 lon: 17.5425
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 比尔卡和霍夫加登 / Birka and Hovgården

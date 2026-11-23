@@ -21,6 +21,10 @@
  "category": "natural",
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "每当夏至前后极昼发生时，在漠河北极村有可能看到气势恢弘、绚丽多彩的北极光。北极村民风纯朴，乡土气息浓郁，静溢清新，植被和生态环境保存完好。",
  "intro_en": "Whenever the polar day occurs before and after the summer solstice, it is possible to see the magnificent and colorful Northern Lights in Mohe Arctic Village. The villagers in the Arctic have simple customs, strong local flavor, tranquility and freshness, and the vegetation and ecological environment are well preserved.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 122.422759,
     "type": "medium_airport",
     "distance_km": 63.5,
-    "name_zh": "漠河机场"
+    "name_zh": "漠河機場"
    }
   ],
   "nearest_airport_km": 63.5,
@@ -130,9 +134,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

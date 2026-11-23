@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "清西陵是清朝最后一处帝王陵墓群。清西陵以14座陵寝为主，行宫、永福寺、营房、衙署为辅的83平方公里的广袤陵区，是现存规模宏大、保存最完整、陵寝建筑类型最齐全的古代皇家陵墓群。景点主要有泰陵、昌西陵、慕陵、崇陵、永福寺。2000年被列入《世界文化遗产名录》。",
  "intro_en": "The Western Qing tombs (Chinese: 清西陵; pinyin: Qīng Xī líng; Manchu: ᠸᠠᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ, romanized: wargi ergi munggan) are located some 140 km (87 mi) southwest of Beijing in Yi County, Hebei Province. They constitute a necropolis that incorporates four royal mausoleums where seventy-eight royal members are buried. These include four emperors of the Qing dynasty and their empresses, imperial concubines, princes and princesses, as well as other royal servants.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 131.6,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Shijiazhuang Zhengding International Airport",
@@ -119,7 +123,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -163,9 +167,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

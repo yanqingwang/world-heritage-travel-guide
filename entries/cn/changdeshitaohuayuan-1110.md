@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Changde City"
 lat: 28.79315
 lon: 111.442847
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 常德市桃花源旅游区 / Tao Hua Yuan

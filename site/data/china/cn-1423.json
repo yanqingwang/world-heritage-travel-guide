@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "崂山景区耸立在黄海之滨，山上奇石怪洞，清泉流瀑，峰回路转。海上看山，群峰攒簇，云雾缭绕；登山观海，烟波浩渺，水天一色。每当风疾波涌之时，惊涛裂岸，浊浪排空，迸珠溅玉，咆哮轰鸣。",
  "intro_en": "Mount Lao, or Laoshan (German: Lauschan; simplified Chinese: 崂山; traditional Chinese: 嶗山; pinyin: Láo Shān), is a mountain located near the East China Sea on the southeastern coastline of the Shandong Peninsula in China. The mountain is culturally significant due to its long affiliation with Taoism and is often regarded as one of the \"cradles of Taoism\". It is the highest coastal mountain in China and the second highest mountain in Shandong, with the highest peak (Jufeng) reaching 1,132.7 metres (3,716 ft). The mountain lies about 30 kilometres (19 mi) to the northeast of the downtown area of the city of Qingdao and is protected by the Qingdao Laoshan National Park that covers an area of 446 square kilometres.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 119.324403,
     "type": "medium_airport",
     "distance_km": 141.2,
-    "name_zh": "日照机场"
+    "name_zh": "日照機場"
    }
   ],
   "nearest_airport_km": 39.1,
@@ -180,7 +184,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 206,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -224,9 +228,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

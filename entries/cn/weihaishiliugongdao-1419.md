@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Weihai"
 lat: 37.499936
 lon: 122.148033
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 威海市刘公岛景区 / Liugong Island

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 39.483206
 lon: 76.001757
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 喀什地区喀什古城景区 / Kashgar railway station

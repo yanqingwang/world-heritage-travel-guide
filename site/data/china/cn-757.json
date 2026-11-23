@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "洪洞大槐树寻根祭祖园是是全球华人寻根祭祖的重要地点。景区由移民古迹区、祭祖活动区、民俗游览区、汾河生态区、根祖文化广场五大主题板块组成，共60余处自然和人文景观。",
  "intro_en": "The Locust Tree of Hongtong is an old Styphnolobium japonicum-tree and important historical site and tourist attraction in Hongtong County, Shanxi in China.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 111.641236,
     "type": "medium_airport",
     "distance_km": 16.5,
-    "name_zh": "临汾乔李机场"
+    "name_zh": "臨汾喬李機場"
    },
    {
     "name": "Changzhi Wangcun Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

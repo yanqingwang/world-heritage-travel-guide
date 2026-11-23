@@ -21,6 +21,10 @@
  "category": "red",
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
+ "admission": "free",
+ "admission_note_zh": "核心景区免费开放，需预约换乘。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "韶山是伟大领袖毛泽东的故乡，也是毛泽东青少年时期生活、学习、劳动和早期从事革命活动的地方。韶山历史源远流长，古属荆楚，因舜帝南巡至此演奏韶乐而得名，区内钟灵毓秀，风光旖旎，人文景观和自然景观交相辉映。",
  "intro_en": "Shaoshan is the hometown of the great leader Mao Zedong. It is also the place where Mao Zedong lived, studied, worked and engaged in revolutionary activities in his early youth. Shaoshan has a long history. It belonged to Jingchu in ancient times. It got its name because Emperor Shun came here to perform Shao music during his tour to the south. The area has beautiful bells, beautiful scenery, and the cultural and natural landscapes complement each other.",
  "intro_en_source": "machine_translation",
@@ -162,14 +166,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 6,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
-  "ja": true,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -206,9 +209,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "核心景区免费开放，需预约换乘。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

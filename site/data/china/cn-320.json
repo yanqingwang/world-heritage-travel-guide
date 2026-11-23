@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "芜湖市方特旅游区内包含方特欢乐世界、方特梦幻王国、方特水上乐园、方特东方神画四个主题乐园。景区始于2007年，是包含主题乐园、主题演艺、度假酒店等相关配套设施在内的综合性休闲旅游度假区。",
  "intro_en": "Fantawild Tourism Area in Wuhu City includes four theme parks: Fantawild Adventure World, Fantawild Dream Kingdom, Fantawild Water Park, and Fantawild Oriental Painting. The scenic spot started in 2007 and is a comprehensive leisure tourism resort including theme parks, themed performances, resort hotels and other related supporting facilities.",
  "intro_en_source": "machine_translation",
@@ -159,6 +163,7 @@
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -187,13 +192,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/湾里街道 (芜湖市)"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

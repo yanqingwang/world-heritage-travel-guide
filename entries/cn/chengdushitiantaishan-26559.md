@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 30.283941
 lon: 103.132781
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 成都市天台山景区 / Tiantaishan Scenic Area

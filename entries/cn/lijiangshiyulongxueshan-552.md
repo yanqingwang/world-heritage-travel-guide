@@ -2,7 +2,7 @@
 id: "cn-552"
 dataset: "china_5a"
 name_zh: "丽江市玉龙雪山景区"
-name_en: "Jade Dragon Snow Mountain"
+name_en: "Yulongxueshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Yunnan"
 city_en: "Lijiang"
 lat: 27.140138
 lon: 100.210479
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 丽江市玉龙雪山景区 / Jade Dragon Snow Mountain
+# 丽江市玉龙雪山景区 / Yulongxueshan Scenic Area
 
 > 云南省 · 丽江市 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Jade Dragon Snow Mountain (simplified Chinese: 玉龙雪山; traditional Chinese: 玉龍雪山; pinyin: Yùlóng Xuěshān; Naxi: Jingv'lv or Ngv'lv bbei jjuq) is a mountain massif or small mountain range in Yulong Naxi Autonomous County, Lijiang, in Yunnan province, China. Its highest peak is named Shanzidou or Shan-Tzu-tou (扇子陡) and it is 5,596 m (18,360 ft) above sea level.
+Jade Dragon Snow Mountain is composed of thirteen peaks, arranged longitudinally from north to south, stretching for nearly 50 kilometers and about 13 kilometers wide from east to west. The Jade Dragon Snow Mountain is not only majestic, but also tall and beautiful, with an exquisite shape, as bright as crystal jade, and as brilliant as thirteen sharp swords. Against the blue sky, it looks like a silver jade dragon dancing forever, hence the name Jade Dragon Mountain.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,7 +53,7 @@ Jade Dragon Snow Mountain (simplified Chinese: 玉龙雪山; traditional Chinese
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

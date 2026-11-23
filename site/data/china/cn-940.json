@@ -10,7 +10,7 @@
  "city_zh": "西安市",
  "city_en": "Xi'an",
  "name_zh": "西安市城墙•碑林历史文化景区",
- "name_en": "Xianshichengqiang•beilinlishiwenhua Scenic Area",
+ "name_en": "Xianshidiershiliuzhongxue Scenic Area",
  "name_en_source": "pinyin",
  "slug": "xianshichengqiang-beilinlishiwenhua-940",
  "lat": 34.265569,
@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "西安城墙·碑林历史文化景区由西安市最有影响力的碑林博物馆和城墙景区组成，西安碑林博物馆紧邻书院门文化街，以收藏、陈列和研究历代碑刻、墓志和石刻闻名。西安城墙延续了整个古都长安的历史文脉，并以其独特的魅力向世人绽放着她的恢弘、壮丽和博大，展示着古都的深邃、智慧和兼容并蓄。",
  "intro_en": "Xi'an City Wall and Forest of Steles Historical and Cultural Scenic Area consists of Xi'an's most influential Forest of Steles Museum and City Wall Scenic Area. The Xi'an Forest of Steles Museum is adjacent to the Academy Gate Cultural Street and is famous for its collection, display and research of inscriptions, epitaphs and stone carvings from past dynasties. The Xi'an City Wall continues the historical context of the entire ancient capital of Chang'an, and with its unique charm, it blooms its magnificence, magnificence and breadth to the world, demonstrating the depth, wisdom and inclusiveness of the ancient capital.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 108.87338,
     "type": "small_airport",
     "distance_km": 168.0,
-    "name_zh": "安康富强机场"
+    "name_zh": "安康富強機場"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -187,13 +191,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/西安市第二十六中学"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

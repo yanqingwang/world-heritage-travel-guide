@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 5.4312
 lon: -54.9823
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 尤登萨瓦内考古遗址：尤登萨瓦内定居地与卡西波拉溪墓地 / Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery

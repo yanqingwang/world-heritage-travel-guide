@@ -10,7 +10,7 @@
  "city_zh": "石嘴山市",
  "city_en": "Shizuishan City",
  "name_zh": "石嘴山市沙湖旅游景区",
- "name_en": "Shahu Scenic Area",
+ "name_en": "Shizuishanshishahu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "shizuishanshishahu-1437",
  "lat": 38.830852,
@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区以自然景观为主体，沙、水、苇、鸟、山五大景源有机结合，是一处融江南秀色与塞外壮景于一体的“塞上明珠”，既有大漠戈壁之雄浑，又有江南水乡之秀美。主要景点有沙湖国际沙雕园、鸟岛、湖东湿地、新门区广场、沙湖题字石等。",
  "intro_en": "The scenic area is dominated by natural landscape, with the five major scenic sources of sand, water, reeds, birds and mountains organically combined. It is a \"Pearl on the Fortress\" that combines the beauty of the south of the Yangtze River with the magnificent scenery beyond the Great Wall. It has the majesty of the Gobi Desert and the beauty of the water towns in the south of the Yangtze River. The main attractions include Shahu International Sand Sculpture Garden, Bird Island, Hudong Wetland, Xinmen District Square, Shahu Inscription Stone, etc.",
  "intro_en_source": "machine_translation",
@@ -150,17 +154,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/沙湖"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

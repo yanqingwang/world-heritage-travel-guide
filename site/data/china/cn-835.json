@@ -10,8 +10,8 @@
  "city_zh": "忻州市",
  "city_en": "Xinzhou",
  "name_zh": "忻州市五台山风景名胜区",
- "name_en": "Huanglong Scenic and Historic Interest Area",
- "name_en_source": "wikipedia",
+ "name_en": "Xinzhoushiwutaishan Scenic and Historic Area",
+ "name_en_source": "pinyin",
  "slug": "xinzhoushiwutaishanfengjingmingshengqu-835",
  "lat": 38.90908,
  "lon": 113.65576,
@@ -21,9 +21,13 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "五台山是中国修建佛教建筑最早的地方之一，佛光寺和南禅寺是中国现存最早的两座木质结构建筑。主要景点有塔院寺、菩萨顶、佛光寺、五爷庙、显通寺、万佛阁等。",
- "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Mount Wutai is one of the earliest places to build Buddhist buildings in China. Foguang Temple and Nanchan Temple are the two earliest existing wooden structures in China. The main attractions include Tayuan Temple, Bodhisattva Peak, Foguang Temple, Wuye Temple, Xiantong Temple, Wanfo Pavilion, etc.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -38,7 +42,7 @@
     "lon": 112.969173,
     "type": "small_airport",
     "distance_km": 68.9,
-    "name_zh": "五台山机场"
+    "name_zh": "五台山機場"
    },
    {
     "name": "Shuozhou Zirun Airport",
@@ -133,11 +137,10 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -156,7 +159,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -166,17 +169,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

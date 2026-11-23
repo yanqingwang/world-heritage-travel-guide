@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "天坛是明清两代皇帝“祭天”“祈谷”的场所。坛域北呈圆形，南为方形，寓意“天圆地方”，主要建筑有祈年殿、圜丘坛等。1998年，天坛公园被联合国教科文组织确认为世界文化遗产。",
  "intro_en": "The Temple of Heaven (simplified Chinese: 天坛; traditional Chinese: 天壇; pinyin: Tiāntán) is a complex of imperial religious Confucian buildings situated in the southeastern part of central Beijing. The complex was visited by the Emperors of the Ming and then later restored by the Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest and other seasonal rites. The Temple of Heaven was inscribed as a World Heritage site in 1998 and was described as \"a masterpiece of architecture and landscape design which simply and graphically illustrates a cosmogony of great importance for the evolution of one of the world's great civilizations...\" as the \"symbolic layout and design of the Temple of Heaven had a profound influence on architecture and planning in the Far East over many centuries.\"",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 25.7,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -206,9 +210,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

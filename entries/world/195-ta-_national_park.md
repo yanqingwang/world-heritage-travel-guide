@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(vii)(x)"
 lat: 5.75
 lon: -7.12
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 塔伊国家公园 / Taï National Park

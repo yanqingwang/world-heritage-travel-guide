@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(iv)"
 lat: 41.380833333
 lon: 1.0825
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 波夫莱特修道院 / Poblet Monastery

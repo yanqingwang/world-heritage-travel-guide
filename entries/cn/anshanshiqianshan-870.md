@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Anshan City"
 lat: 41.035262
 lon: 123.148632
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 鞍山市千山景区 / Qianshan
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Qianshan Scenic Area is famous for its beautiful peaks, steep rocks, secluded valleys, ancient temples, tall Buddhas, strange pines and abundant flowers. It has rich history, religion and culture, and its natural scenery is magical and magnificent. Qianshan is divided into five tourist areas: Tianshangtian, Big Buddha, Five Buddha Summit, Peach Blossom Valley and National Forest Park Xianren Terrace.
-
-*English introduction: machine translation.*
+Qianshan is the atonal pinyin romanization of various Chinese placenames related to mountains or islands. It may refer to: Qian Mountains (千山, Qiānshān), a northeastern mountain range Qianshan District (千山区, Qiānshānqū) in Anshan, Liaoning Qianshan County (潜山县, Qianshanxian), Anhui Yanshan County (铅山; Yánshān), Jiangxi (the characters in its name are usually pronounced as Qianshan in standard Mandarin) Qianshan (千山镇, Qianshanzhen), a town within Qianshan District, Anshan, Liaoning Qianshan (钤山镇, Qianshanzhen), a town in Fenyi County, Jiangxi Qianshan Subdistrict (前山街道, Qiánshān Jiēdào), a subdistrict (formerly a separate town) of Xiangzhou District, Zhuhai, Guangdong Qianshan National Park (千山国家公园, Qianshan Guojia Gongyuan) in Anshan, Liaoning
 
 ## 交通 / Transport
 

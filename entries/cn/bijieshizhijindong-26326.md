@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Bijie City"
 lat: 26.774257
 lon: 105.908362
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 毕节市织金洞景区 / Zhijin Cave

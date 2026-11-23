@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Pingdingshan City"
 lat: 33.757305
 lon: 112.491772
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 平顶山市尧山-中原大佛景区 / Spring Temple Buddha

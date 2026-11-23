@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "黄果树风景名胜区以黄果树瀑布景区为中心，分布有天星桥景区、陡坡塘景区、滴水滩瀑布景区、霸陵河峡谷三国古驿道景区、郎宫景区、布依族十大村寨等景区。黄果树瀑布宽30米(夏季可达40米)，落差66米，流量达每秒2000多立方米，以水势浩大著称，也是世界著名大瀑布之一。",
  "intro_en": "Huangguoshu Scenic Area is centered on Huangguoshu Waterfall Scenic Area and includes Tianxing Bridge Scenic Area, Doupotang Scenic Area, Dishuitan Waterfall Scenic Area, Baling River Gorge Ancient Post Road Scenic Area of ​​the Three Kingdoms, Langgong Scenic Area, and the Ten Major Buyi Villages. Huangguoshu Waterfall is 30 meters wide (up to 40 meters in summer), has a drop of 66 meters, and has a flow rate of more than 2,000 cubic meters per second. It is famous for its huge water force and is also one of the world's famous waterfalls.",
  "intro_en_source": "machine_translation",
@@ -138,7 +142,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -182,9 +186,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-1336"
 dataset: "china_5a"
 name_zh: "黔南布依族苗族自治州荔波县樟江景区"
-name_en: "Yupingjiedao (liboxian) Scenic Area"
+name_en: "Qianxinan Buyei and Miao Autonomous Prefecture"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guizhou"
 city_en: "Qiannanbuyizumiaozu Autonomous Prefecture"
 lat: 25.425822
 lon: 107.892801
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 黔南布依族苗族自治州荔波县樟江景区 / Yupingjiedao (liboxian) Scenic Area
+# 黔南布依族苗族自治州荔波县樟江景区 / Qianxinan Buyei and Miao Autonomous Prefecture
 
 > 贵州省 · 黔南布依族苗族自治州 · 地质奇观
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Libo Zhangjiang Scenic Area consists of the Big and Small Qikong Scenic Area, Shuichun River Scenic Area and Zhangjiang Scenic Area. The scenic area is characterized by rich and diverse karst landforms, the beautiful and unique Zhangjiang River waterscape, prosperous and dense virgin forests, and various rare species of animals and plants. It combines the unique natural landscape of mountains and rivers with the characteristics of the local Buyi, Shui, Yao and other ethnic groups. In 2007, Libo Karst became part of the "Southern China Karst" World Natural Heritage.
-
-*English introduction: machine translation.*
+Qianxinan Buyei and Miao Autonomous Prefecture (Chinese: 黔西南布依族苗族自治州; pinyin: Qiánxīnán Bùyīzú Miáozú Zìzhìzhōu; Buyei: Qianfxiynanf Buxqyaix Buxyeeuz Ziqziqzouy; Hmu: Qeef Xib Naif Dol Yat Dol Hmub Zid Zid Zeb) is an autonomous prefecture of Guizhou province, People's Republic of China, bordering Guangxi to the south and Yunnan to the west. The name, "黔西南" derives from the prefecture's southwest location in the province; "黔" is the official abbreviation for Guizhou, while "西南" means "southwest".
 
 ## 交通 / Transport
 
@@ -50,10 +48,10 @@ Libo Zhangjiang Scenic Area consists of the Big and Small Qikong Scenic Area, Sh
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/玉屏街道 (荔波县))
+- [Wikipedia](https://zh.wikipedia.org/wiki/黔西南布依族苗族自治州)
 - [OpenStreetMap](https://www.openstreetmap.org/)

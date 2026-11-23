@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Sanya"
 lat: 18.691304
 lon: 109.349044
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 三亚市南山大小洞天旅游区 / Daxiaodongtian Tourist Area

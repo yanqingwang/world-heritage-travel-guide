@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(viii)"
 lat: 45.916666666
 lon: 8.95
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 圣乔治山 / Monte San Giorgio

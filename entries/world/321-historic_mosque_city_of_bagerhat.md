@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iv)"
 lat: 22.66097
 lon: 89.75855
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 巴凯尔哈特清真寺历史名城 / Historic Mosque City of Bagerhat

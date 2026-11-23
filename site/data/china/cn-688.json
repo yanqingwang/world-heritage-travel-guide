@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "旅游区集运动休闲、商务休闲、养生休闲、会议旅游、文化娱乐、美食购物、长居短憩七大功能为一体，其中包括观澜湖高尔夫球会、网球乡村俱乐部、多家酒店、国际会议中心、生态休憩园，以及丰富的运动、餐饮、文娱、游乐等设施。",
  "intro_en": "Shenzhen railway station (Chinese: 深圳站; pinyin: Shēnzhèn zhàn, formerly Shum Chun station), also unofficially known as Luohu railway station (Chinese: 罗湖站; pinyin: Luóhú zhàn), is located across from Luohu Commercial City in Nanhu Subdistrict, Luohu District of Shenzhen, Guangdong. It is the southern terminus of the Guangzhou-Shenzhen Railway. It is one of the two stations with high-speed rail service in Luohu District. The other station is Luohu North railway station, which is currently under construction on Shenzhen–Shanwei high-speed railway.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 113.914862,
     "type": "large_airport",
     "distance_km": 44.3,
-    "name_zh": "香港国际机场"
+    "name_zh": "香港國際機場"
    },
    {
     "name": "Huizhou Pingtan Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

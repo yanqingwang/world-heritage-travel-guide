@@ -10,8 +10,8 @@
  "city_zh": "扬州市",
  "city_en": "Yangzhou",
  "name_zh": "扬州市瘦西湖风景区",
- "name_en": "Slender West Lake",
- "name_en_source": "wikipedia",
+ "name_en": "Yangzhoushishouxihufeng Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "yangzhoushishouxihu-341",
  "lat": 32.408155,
  "lon": 119.432817,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "瘦西湖风景区是世界文化遗产大运河的重要组成部分、国家级风景名胜区蜀冈-瘦西湖风景名胜区的核心和精华部分。窈窕曲折的一湖碧水，串以徐园、小金山、五亭桥、白塔、二十四桥、万花园、双峰云栈等名园胜迹，风韵独具而蜚声海内外。",
- "intro_en": "Slender West Lake, also known by its Chinese name Shouxihu and by other names, is a scenic lake in Hanjiang District in central Yangzhou, China. The lake developed from the city moats of Tang-era Yangzhou. During the Qing dynasty, its banks were the site of numerous estates for the area's wealthy officials and salt merchants. The lake and some of its attractions have been restored as a national park and AAAAA tourist attraction, requiring a ticket for admission and open only from 7 am to 6 pm.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Slender West Lake Scenic Area is an important part of the Grand Canal, a world cultural heritage, and the core and essence of the national scenic area Shugang-Slender West Lake Scenic Area. The graceful and winding lake is surrounded by famous gardens and scenic spots such as Xu Garden, Xiaojin Mountain, Wuting Bridge, White Tower, Twenty-four Bridges, Wanhua Garden, Shuangfeng Cloud Stack, etc. It has a unique charm and is famous at home and abroad.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -165,11 +169,10 @@
  "hotels_nearby_30km": 76,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -188,7 +191,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -198,17 +201,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/瘦西湖"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

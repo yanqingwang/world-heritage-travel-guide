@@ -2,7 +2,7 @@
 id: "cn-301"
 dataset: "china_5a"
 name_zh: "湖北省武汉市东湖景区"
-name_en: "Hubeishengwuhanshidonghu Scenic Area"
+name_en: "Hubei Provincial Museum"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.557869
 lon: 114.420005
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 湖北省武汉市东湖景区 / Hubeishengwuhanshidonghu Scenic Area
+# 湖北省武汉市东湖景区 / Hubei Provincial Museum
 
 > 湖北省 · 武汉市 · 山地风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Wuhan East Lake Ecological Tourism Scenic Area covers an area of ​​88 square kilometers and consists of six areas: Tingtao, Moshan, Luoyan, Chuidi, Baima and Luohong. It is a national civilized scenic tourist area demonstration site and one of the first batch of national key scenic spots.
-
-*English introduction: machine translation.*
+The Hubei Provincial Museum (Chinese: 湖北省博物馆; pinyin: Húběi shěng bówùguǎn) is a first class museum in China, with a large amount of state-level historic and cultural relics. Established in 1953, the museum moved to its present location in 1960 and gained its present name in 1963. Since 1999 a number of new buildings have been added. The museum received 1,992,512 visitors in 2017. The museum is located in the Wuchang District of Wuhan, Hubei Province, not far from the west shore of Wuhan's East Lake. It has a collection of over 460,000 objects, including the Sword of Goujian, an ancient set of bronze bells (Bianzhong), extensive artifacts from the Tomb of Marquis Yi of Zeng and the tombs at Baoshan, and portions of the Guodian Chu Slips. The particular importance of several of the archaeological items in the museum's collection has been recognized by the national government by including them into the list of Chinese cultural relics forbidden to be exhibited abroad.
 
 ## 交通 / Transport
 
@@ -54,10 +52,10 @@ Wuhan East Lake Ecological Tourism Scenic Area covers an area of ​​88 square
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/武汉市光谷汤逊湖高级中学)
+- [Wikipedia](https://zh.wikipedia.org/wiki/湖北省博物馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

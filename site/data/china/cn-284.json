@@ -21,6 +21,10 @@
  "category": "garden",
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区由两江（漓江、桃花江）四湖（桂湖、榕湖、杉湖、木龙湖），三山（象山、叠彩山、伏波山）组成。乘船夜游两江四湖·象山景区，山水、园林、城市在璀璨灯光的笼罩下，更彰显出如梦似幻的高雅意境。",
  "intro_en": "The scenic spot consists of two rivers (Lijiang River and Taohua River), four lakes (Gui Lake, Rong Lake, Shan Lake, and Mulong Lake), and three mountains (Xiang Mountain, Diecai Mountain, and Fubo Mountain). Take a night boat trip to the Xiangshan Scenic Area of ​​Two Rivers and Four Lakes. The landscapes, gardens, and cities are shrouded in bright lights, which further demonstrates the dreamlike and elegant artistic conception.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 110.039553,
     "type": "large_airport",
     "distance_km": 27.1,
-    "name_zh": "桂林两江国际机场"
+    "name_zh": "桂林兩江國際機場"
    },
    {
     "name": "Liuzhou Bailian Airport / Bailian Air Base",
@@ -195,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

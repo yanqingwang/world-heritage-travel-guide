@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 43.329782
 lon: 128.251207
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 延边州六鼎山文化旅游区 / Ding (vessel)

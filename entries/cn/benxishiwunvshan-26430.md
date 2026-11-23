@@ -2,7 +2,7 @@
 id: "cn-26430"
 dataset: "china_5a"
 name_zh: "本溪市五女山景区"
-name_en: "Wunü Mountain"
+name_en: "Wunvshanzhan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.332991
 lon: 125.419948
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 本溪市五女山景区 / Wunü Mountain
+# 本溪市五女山景区 / Wunvshanzhan Scenic Area
 
 > 辽宁省 · 本溪市 · 主题乐园
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Wunü Shan (Chinese: 五女山; pinyin: Wǔnǚ Shān; Korean: 오녀산 Onyeosan), which means "mountain of Five Women", is a mountain of historical and cultural significance located in the north of the Huanren Town, in Huanren Manchu Autonomous County, Liaoning province, China. It is located northwest of the Hun Jiang River. The tallest peak is the 821 metre-high Main Peak, measuring 1,500 metres long and 300 metres wide. Wunü Mountain is the location of Jolbon, the birthplace of the ancient Korean kingdom of Goguryeo and its capital from 37 BC to 3 AD. Because of its historical significance to the Goguryeo Kingdom and the exceptional architecture and city planning of Jolbon, Wunü Shan was inscribed on the UNESCO World Heritage List as the site "Capital Cities and Tombs of the Ancient Koguryo Kingdom", along with the nearby ancient cities of Gungnae and Hwando.
+Wunvshan Scenic Area is located on the right bank of the Hun River, 8 kilometers northeast of Huanren Manchu Autonomous County, Benxi City, Liaoning Province. It covers an area of ​​10.8 square kilometers and includes three parts: the Wunvshan Mountain City Ruins Exhibition Area, the Natural Landscape Area and the Wunvshan Museum. The scenic spot is based on the scenery of mountains and lakes, with the Wunvshan Mountain City as the core, and the theme of reproducing historical culture, forming a comprehensive tourist attraction that integrates mountain sightseeing, site tours, cultural experience, lakeside roaming, science education and other functions.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -47,10 +49,10 @@ Wunü Shan (Chinese: 五女山; pinyin: Wǔnǚ Shān; Korean: 오녀산 Onyeosan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/五女山城)
+- [Wikipedia](https://zh.wikipedia.org/wiki/五女山站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

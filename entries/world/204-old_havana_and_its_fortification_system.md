@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iv)(v)"
 lat: 23.133333
 lon: -82.35
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 哈瓦那旧城及其工事体系 / Old Havana and its Fortification System

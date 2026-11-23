@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "博物馆是以秦始皇兵马俑为基础在兵马俑坑原址上建立的遗址类博物馆，也是中国较大的古代军事博物馆。秦兵马俑坑发现于1974-1976年，秦始皇兵马俑博物馆1979年向国内外开放。兵马俑的发现被誉为世界第八大奇迹、二十世纪考古史上的伟大发现。",
  "intro_en": "The Mausoleum of Qin Shi Huang (Chinese: 秦始皇陵; pinyin: Qínshǐhuáng Líng) is a tomb complex constructed for Qin Shi Huang, the first emperor of the Chinese Qin dynasty. It is located in modern-day Lintong District in Xi'an, Shaanxi. It was constructed over 38 years from 246 to 208 BC, and is situated underneath a 76-metre-tall (249 ft) tomb mound shaped like a truncated pyramid. The layout of the mausoleum is modeled on the layout of Xianyang, the capital of the Qin dynasty, which was divided into inner and outer cities. The circumference of the inner city is 2.5 km (1.6 mi) and the outer is 6.3 km (3.9 mi). The tomb is located in the southwest of the inner city and faces east. The main tomb chamber housing the coffin and burial artifacts is the core of the architectural complex of the mausoleum. The tomb itself has not yet been excavated. Archaeological explorations currently concentrate on various sites of the extensive necropolis surrounding the tomb, including the Terracotta Army to the east of the tomb mound. The Terracotta Army served as a garrison to the mausoleum and has yet to be completely excavated.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 108.87338,
     "type": "small_airport",
     "distance_km": 186.1,
-    "name_zh": "安康富强机场"
+    "name_zh": "安康富強機場"
    }
   ],
   "nearest_airport_km": 48.8,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-26564"
 dataset: "china_5a"
 name_zh: "阿克苏地区天山托木尔景区"
-name_en: "Jengish Chokusu"
+name_en: "Akesudiqutianshantuomuer Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Aksu Prefecture"
 lat: 41.725426
 lon: 80.558971
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 阿克苏地区天山托木尔景区 / Jengish Chokusu
+# 阿克苏地区天山托木尔景区 / Akesudiqutianshantuomuer Scenic Area
 
 > 新疆维吾尔自治区 · 阿克苏地区 · 草原沙漠
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-The Jengish Chokusu is the highest mountain in the Tian Shan mountain system in Central Asia at 7,439 metres (24,406 ft). It lies on the China–Kyrgyzstan border between the Ak-Suu District in the Issyk-Kul Region of far eastern Kyrgyzstan and Wensu County, Xinjiang, China. It is part of the Kakshaal Too, the highest part of the Tian Shan, and is southeast of lake Issyk-Kul. Jengish Chokusu is the 16th most prominent peak on Earth.
+The Aksu region, with its magnificent natural scenery, has the highest peak in the Tianshan Mountains - Tomur Peak; the world's second largest mobile desert - the Taklamakan Desert; the country's longest inland river - the Tarim River; the world's largest and best-preserved primitive Populus euphratica forest; the national nature reserve - Tomur Peak Nature Reserve; and natural scenic spots such as the Yadan Landform, Wensu Grand Canyon, and the Tianshan Sacred Wood Garden. The natural scenery embodies the culmination of northern and southern Xinjiang.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -45,10 +47,10 @@ The Jengish Chokusu is the highest mountain in the Tian Shan mountain system in 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/托木尔峰)
+- [Wikipedia](https://zh.wikipedia.org/wiki/阿克苏地区柯柯牙纪念馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

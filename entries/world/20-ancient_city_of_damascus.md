@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 33.51111222
 lon: 36.30639
-updated_at: "2026-11-16T11:41:03Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 大马士革古城 / Ancient City of Damascus

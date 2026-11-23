@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "南山是中国最南端的山，是中国佛教名山胜地，属热带海洋季风性气候，森林覆盖率为97%。南山文化旅游区是国家重点风景名胜区，是一座展示中国佛教传统文化的大型园区。",
  "intro_en": "南山, literally \"south mountain(s)\", may refer to: Nanshan (disambiguation) (pinyin: Nánshān) for Chinese places Nanzan (disambiguation) for Japanese places Namsan (disambiguation) for Korean places Minamiyama, a Japanese surname",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 109.412003,
     "type": "large_airport",
     "distance_km": 39.3,
-    "name_zh": "三亚凤凰国际机场"
+    "name_zh": "三亞鳳凰國際機場"
    },
    {
     "name": "Qionghai Bo'ao Airport",
@@ -163,9 +167,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

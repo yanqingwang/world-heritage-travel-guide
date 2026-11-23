@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.223141
 lon: 108.978798
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 西安市大雁塔-大唐芙蓉园景区 / Giant Wild Goose Pagoda

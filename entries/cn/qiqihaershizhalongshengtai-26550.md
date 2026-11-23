@@ -2,7 +2,7 @@
 id: "cn-26550"
 dataset: "china_5a"
 name_zh: "齐齐哈尔市扎龙生态旅游区"
-name_en: "Zhalongzhen Tourist Area"
+name_en: "Zhalong Nature Reserve"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Heilongjiang"
 city_en: "Qiqihaer City"
 lat: 47.209125
 lon: 124.242091
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 齐齐哈尔市扎龙生态旅游区 / Zhalongzhen Tourist Area
+# 齐齐哈尔市扎龙生态旅游区 / Zhalong Nature Reserve
 
 > 黑龙江省 · 齐齐哈尔市 · 生态湿地
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Zhalong Ecological Tourism Zone is located in Tiefeng District, Qiqihar City, with a total area of ​​4.7 square kilometers. The Zhalong Ecological Tourism Zone has beautiful wetland scenery, including Zhalong Lake, Hexian Pond, Cranes in the Sky, Deer and Cranes in Spring, and Crane Shadows in Lulin. It has created a variety of tourist attractions such as Wanghe Tower, Waterfowl Island, Minghe Garden, Zhalong Wetland Museum, and Red-crowned Crane Rewilding and Flying Area.
-
-*English introduction: machine translation.*
+Zhalong Nature Preserve (simplified Chinese: 扎龙国家级自然保护区; traditional Chinese: 扎龍國家級自然保護區; pinyin: zhālóng guójiā jízìránbǎohùqū) is a wetland reserve in Heilongjiang province, China.
 
 ## 交通 / Transport
 
@@ -60,5 +58,5 @@ Zhalong Ecological Tourism Zone is located in Tiefeng District, Qiqihar City, wi
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/扎龙镇)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黑龙江扎龙国家级自然保护区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

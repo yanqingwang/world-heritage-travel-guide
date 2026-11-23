@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Yichun"
 lat: 27.60543
 lon: 114.299102
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 宜春市袁州区明月山旅游区 / Mingyueshan (jiangxi) Tourist Area

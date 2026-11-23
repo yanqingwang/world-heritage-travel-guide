@@ -10,7 +10,7 @@
  "city_zh": "邯郸市",
  "city_en": "Handan",
  "name_zh": "邯郸市广府古城景区",
- "name_en": "Handanshiguangfugucheng Scenic Area",
+ "name_en": "Guangfucheng Scenic Area",
  "name_en_source": "pinyin",
  "slug": "handanshiguangfugucheng-1431",
  "lat": 36.707347,
@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "邯郸市广府古城距今已有2000多年的历史。隋末农民起义领袖窦建德曾在此创建大夏国，使其具备了城池规模。广府有很多历史遗存，如清晖书院、文庙大殿（遗址）、毛遂墓、黑龙潭，武氏故居、状元楼、太和堂等等。",
  "intro_en": "The ancient city of Guangfu in Handan City has a history of more than 2,000 years. Dou Jiande, the leader of the peasant uprising in the late Sui Dynasty, founded the Daxia Kingdom here, giving it the size of a city. Guangfu has many historical relics, such as Qinghui Academy, Confucian Temple Hall (site), Mao Sui's Tomb, Black Dragon Pond, Wu's former residence, Zhuangyuan Tower, Taihe Hall, etc.",
  "intro_en_source": "machine_translation",
@@ -129,7 +133,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -164,13 +168,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/广府城"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

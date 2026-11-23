@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Qingdao"
 lat: 36.244381
 lon: 120.49977
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 青岛市崂山景区 / Mount Lao

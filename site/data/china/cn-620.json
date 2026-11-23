@@ -10,8 +10,8 @@
  "city_zh": "佛山市",
  "city_en": "Foshan",
  "name_zh": "佛山市顺德区长鹿旅游休博园",
- "name_en": "AAAAA Tourist Attractions of China",
- "name_en_source": "wikipedia",
+ "name_en": "Foshanshishundequzhanglulvyouxiuboyuan",
+ "name_en_source": "pinyin",
  "slug": "foshanshishundequzhanglulvyouxiuboyuan-620",
  "lat": 22.884408,
  "lon": 113.295229,
@@ -21,9 +21,13 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "长鹿旅游休博园又名长鹿农庄，始建于2001年，现为全国农业旅游示范点。整个农庄主要由“尖叫乐园”“动感玩水区”“农家乐主题公园”“童话动物世界”和“长鹿休闲度假村”等五大块组成。",
- "intro_en": "AAAAA, or 5A (Chinese: 国家5A级旅游景区; pinyin: Guójiā Wǔ \"A\" jí Lǚyóu Jǐngqū), is the highest level in the rating categories used by the Ministry of Culture and Tourism. It is awarded to the most important and best-maintained tourist attractions in the People's Republic of China. As of 2025, there are 359 tourist attractions listed as 5A.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded in 2001 and is now a national agricultural tourism demonstration site. The entire farm is mainly composed of five major parts: \"Screaming Paradise\", \"Dynamic Water Play Area\", \"Farmhouse Theme Park\", \"Fairy Tale Animal World\" and \"Changlu Leisure Resort\".",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "https://www.chuanloo.com/web/tpl/index.html",
  "booking": "https://www.chuanloo.com/web/tpl/index.html",
@@ -38,7 +42,7 @@
     "lon": 113.070833,
     "type": "medium_airport",
     "distance_km": 31.8,
-    "name_zh": "佛山沙堤机场"
+    "name_zh": "佛山沙堤機場"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -165,11 +169,10 @@
  "hotels_nearby_30km": 336,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -188,7 +191,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -198,17 +201,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/国家5A级旅游景区"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

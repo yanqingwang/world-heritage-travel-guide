@@ -2,7 +2,7 @@
 id: "cn-1208"
 dataset: "china_5a"
 name_zh: "圆明园遗址公园景区"
-name_en: "Yuanmingyuanyizhigongyuan Scenic Area"
+name_en: "Old Summer Palace"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.018514
 lon: 116.324617
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 圆明园遗址公园景区 / Yuanmingyuanyizhigongyuan Scenic Area
+# 圆明园遗址公园景区 / Old Summer Palace
 
 > 北京市 · 海淀区 · 皇家园林
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-The Old Summer Palace is one of the famous royal gardens of the Qing Dynasty. It covers an area of ​​more than 5,200 acres and has more than 150 sceneries. It is known as the "Garden of Ten Thousand Gardens". The Old Summer Palace was burned down by the British and French forces in 1860. In 1988, the ruins of the Old Summer Palace were opened to the public.
-
-*English introduction: machine translation.*
+The Old Summer Palace, also known as Yuanmingyuan (traditional Chinese: 圓明園; simplified Chinese: 圆明园; pinyin: Yuánmíng Yuán; lit. 'Gardens of Perfect Brightness') or Yuanmingyuan Park, originally called the Imperial Gardens (traditional Chinese: 御園; simplified Chinese: 御园; pinyin: Yù Yuán), and sometimes called the Winter Palace, was a complex of palaces and gardens in present-day Haidian District, Beijing, China. It is 8 kilometres (5 mi) north-west of the walls of the former Imperial City section of Beijing. Widely perceived as the pinnacle work of Chinese imperial garden and palace design, the Old Summer Palace was known for its extensive collection of gardens, its building architecture and numerous art and historical treasures. Constructed throughout the 18th and early 19th centuries, the Old Summer Palace was the main imperial residence of the Qianlong Emperor of the Qing dynasty and his successors, and where they handled state affairs; the Forbidden City was used for formal ceremonies. The Garden was reputed as the "Garden of Gardens" (simplified Chinese: 万园之园; traditional Chinese: 萬園之園; pinyin: wàn yuán zhī yuán) in its heyday was "arguably the greatest concentration of hist
 
 ## 交通 / Transport
 
@@ -55,9 +53,10 @@ The Old Summer Palace is one of the famous royal gardens of the Qing Dynasty. It
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/圆明园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

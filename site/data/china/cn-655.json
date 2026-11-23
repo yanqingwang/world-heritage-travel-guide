@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "湄洲岛是福建莆田市秀屿区湄洲镇辖岛，是莆田市第二大岛，是妈祖的成神地。湄洲岛有扣人心弦的湄屿潮音、湄洲祖庙、九宝澜黄金沙滩、鹅尾怪石等30多处景点。",
  "intro_en": "Meizhou Island (simplified Chinese: 湄洲岛; traditional Chinese: 湄洲島; pinyin: Méizhōu Dǎo; Pu-Xian Min: Mî-ciu-doh), Meichow; Meichou, is a small island close to the coast of China. Meizhou Town (湄洲镇) is an administrative unit of Xiuyu District, Putian, Fujian, China. It is known for being the birthplace of the goddess Mazu. Meizhou has 38,000 inhabitants, most of whom are involved in the fishing industry. The local language spoken is Pu-Xian Min.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 118.359001,
     "type": "medium_airport",
     "distance_km": 109.5,
-    "name_zh": "金门机场"
+    "name_zh": "金門機場"
    }
   ],
   "nearest_airport_km": 66.1,
@@ -140,9 +144,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

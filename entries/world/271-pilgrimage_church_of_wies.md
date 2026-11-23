@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(iii)"
 lat: 47.6806
 lon: 10.900445
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 维斯教堂 / Pilgrimage Church of Wies

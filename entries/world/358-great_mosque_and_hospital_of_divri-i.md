@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iv)"
 lat: 39.371222222
 lon: 38.121583333
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 迪夫里伊的大清真寺和医院 / Great Mosque and Hospital of Divriği

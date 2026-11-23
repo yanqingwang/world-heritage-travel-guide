@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(iii)"
 lat: 52.15278
 lon: 9.94389
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 希尔德斯海姆的圣玛丽大教堂和圣米迦尔教堂 / St Mary's Cathedral and St Michael's Church at Hildesheim

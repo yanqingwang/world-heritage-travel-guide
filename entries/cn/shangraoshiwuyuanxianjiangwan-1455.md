@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.374196
 lon: 118.058013
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 上饶市婺源县江湾景区 / Shangraoshiwuyuanxianjiangwan Scenic Area

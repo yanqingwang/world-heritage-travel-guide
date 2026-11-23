@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)"
 lat: 61.5971
 lon: -125.852
-updated_at: "2026-11-16T11:41:03Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 纳汉尼国家公园 / Nahanni National Park

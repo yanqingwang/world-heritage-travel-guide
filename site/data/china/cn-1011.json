@@ -21,6 +21,10 @@
  "category": "coastal",
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "普陀山是浙江东海舟山群岛中的一个小岛，既有悠久的佛教文化，又有丰富的海岛风光。景区被大海怀抱，金沙绵亘，景色优美，气候宜人，积淀了深厚的佛教文化底蕴。",
  "intro_en": "Mount Putuo (Chinese: 普陀山; pinyin: Pǔtuó Shān, from Sanskrit: \"Mount Potalaka\") is an island in Putuo District, Zhoushan, Zhejiang, China. It is a renowned site in Chinese Buddhism and is the bodhimaṇḍa of the bodhisattva Guanyin. Mount Putuo is one of the four sacred mountains in Chinese Buddhism, the others being Mount Wutai, Mount Jiuhua, and Mount Emei (bodhimaṇḍas for Manjushri, Kṣitigarbha, and Samantabhadra, respectively). Mount Putuo lies in the East China Sea and incorporates the beauty of both mountain and sea. Mountain Putuo is at 29°58′3～30°02′3 north latitude, 122°21′6～122°24′9 east longitude. Its area is approximately 12.5 square kilometres (4.8 sq mi) and there are numerous famous temples. Every year on the 19th day of the 2nd, 6th and 9th lunar months of the Chinese calendar, it welcomes millions of people for the celebration of the birth of Guanyin.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 121.46199798583984,
     "type": "large_airport",
     "distance_km": 92.4,
-    "name_zh": "宁波栎社国际机场"
+    "name_zh": "寧波櫟社國際機場"
    },
    {
     "name": "Shanghai Pudong International Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

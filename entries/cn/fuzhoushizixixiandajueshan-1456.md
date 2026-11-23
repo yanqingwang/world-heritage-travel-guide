@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Fuzhou"
 lat: 27.702518
 lon: 117.150348
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 抚州市资溪县大觉山景区 / Mount Dajue

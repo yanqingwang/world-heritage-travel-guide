@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 55.754166666
 lon: 37.62
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 莫斯科克里姆林宫和红场 / Kremlin and Red Square, Moscow

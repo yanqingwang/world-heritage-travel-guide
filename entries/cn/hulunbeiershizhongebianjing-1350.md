@@ -2,7 +2,7 @@
 id: "cn-1350"
 dataset: "china_5a"
 name_zh: "呼伦贝尔市中俄边境旅游区"
-name_en: "Hulunbeiercaoyuan Tourist Area"
+name_en: "Hulunbeiershizhongebianjing Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.619437
 lon: 117.401013
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 呼伦贝尔市中俄边境旅游区 / Hulunbeiercaoyuan Tourist Area
+# 呼伦贝尔市中俄边境旅游区 / Hulunbeiershizhongebianjing Tourist Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 度假休闲
 
@@ -57,5 +57,4 @@ Taking advantage of Manzhouli's unique geographical environment, the tourist are
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

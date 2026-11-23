@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iv)"
 lat: -17.68337778
 lon: 178.8345333
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 莱武卡历史港口镇 / Levuka Historical Port Town

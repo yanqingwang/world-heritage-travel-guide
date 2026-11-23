@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iii)"
 lat: 51.178888888
 lon: -1.826111111
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # “巨石阵”、埃夫伯里及周围的巨石遗迹 / Stonehenge, Avebury and Associated Sites

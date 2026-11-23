@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 9.3091
 lon: 42.1372
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 历史要塞城市哈勒尔 / Harar Jugol, the Fortified Historic Town

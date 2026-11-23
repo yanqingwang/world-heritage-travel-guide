@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)"
 lat: 21.203888888
 lon: -99.463888888
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 克雷塔罗的谢拉戈达圣方济会修道院 / Franciscan Missions in the Sierra Gorda of Querétaro

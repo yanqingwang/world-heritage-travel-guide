@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 21.017777777
 lon: -101.256666666
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 瓜纳托历史名城及周围矿藏 / Historic Town of Guanajuato and Adjacent Mines

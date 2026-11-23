@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Fuyang City"
 lat: 32.567479
 lon: 116.321721
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 阜阳市八里河风景区 / Balihefengjingqu Scenic Area

@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "partial",
+ "admission_note_zh": "进城免费；古城通票及景点另收费。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "平遥古城位于山西省中部平遥县内，1997年被列入世界文化遗产名录。平遥古城是中国汉民族城市在明清时期的杰出范例，在中国历史的发展中，为人们展示了一幅文化、社会、经济及宗教发展的完整画卷。",
  "intro_en": "Pingyao, officially Pingyao Ancient City, is a walled city in central Shanxi, China, famed for its importance in Chinese economic history and for its well-preserved Ming and Qing urban planning and architecture. It is the only walled city seat in China to survive with both its historic street plan and its original building fabric substantially intact. The greater part of the city's courtyard dwellings, shopfronts and temples are ancient structures surviving in situ rather than modern reconstructions. Administratively, it comprises the town of Gutao in Pingyao County, Jinzhong. The town was founded in the 14th century AD and has been the seat of local government since at least the Qin. By the 16th century, it was a regional financial hub; it had been the financial centre of the Qing Empire in the late 19th century. Pingyao Ancient City is located in Pingyao County, Shanxi Province. The ancient city was built during the reign of King Xuan of Zhou (827-782 BC) and has a history of more than 2800 years. In and around the ancient city there are 1,075 registered immovable cultural relics, 143 of which are designated protection units at the national, provincial, municipal, or county level",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 112.627998,
     "type": "large_airport",
     "distance_km": 70.5,
-    "name_zh": "太原武宿国际机场"
+    "name_zh": "太原武宿國際機場"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -49,7 +53,7 @@
     "lon": 111.142778,
     "type": "medium_airport",
     "distance_km": 105.8,
-    "name_zh": "吕梁机场"
+    "name_zh": "呂梁機場"
    },
    {
     "name": "Linfen Yaodu Airport",
@@ -60,7 +64,7 @@
     "lon": 111.641236,
     "type": "medium_airport",
     "distance_km": 130.1,
-    "name_zh": "临汾乔李机场"
+    "name_zh": "臨汾喬李機場"
    }
   ],
   "nearest_airport_km": 70.5,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "partial",
- "admission_note_zh": "进城免费；古城通票及景点另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.58758
 lon: 120.280765
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 无锡市惠山古镇景区 / Huishanguzhenzhan Scenic Area

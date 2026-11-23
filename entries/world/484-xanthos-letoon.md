@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ii)(iii)"
 lat: 36.335
 lon: 29.32028
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 桑索斯和莱顿 / Xanthos-Letoon

@@ -2,7 +2,7 @@
 id: "cn-285"
 dataset: "china_5a"
 name_zh: "巴中市光雾山旅游景区"
-name_en: "Odorrana kuangwuensis"
+name_en: "Bazhongdongzhan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Bazhong City"
 lat: 32.720751
 lon: 106.866943
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 巴中市光雾山旅游景区 / Odorrana kuangwuensis
+# 巴中市光雾山旅游景区 / Bazhongdongzhan Scenic Area
 
 > 四川省 · 巴中市 · 地质奇观
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Odorrana kuangwuensis (common names: Kuang-wu Shan frog, Kuangwu odorous frog) is a species of frog in the family Ranidae that is endemic to China. It is found in northeastern Sichuan and northwestern Hubei. Its name refers to the type locality, Mount Guangwu (="Kuang-wu" in older romanization) in Nanjiang County, northern Sichuan. Its natural habitats are large streams in hill forests. It is threatened by habitat loss. Male Odorrana kuangwuensis grow to a snout–vent length of about 57 mm (2.2 in) and females to 69 mm (2.7 in).
+The tourist area is located in the northern part of Nanjiang County, Bazhong City, Sichuan Province, at the heart of Micang Mountain, at the junction of Sichuan and Shaanxi. It is located in the geometric center of the three major cities of Chengdu, Chongqing and Xi'an, covering an area of 830 square kilometers. Ecological vegetation, charming waterfalls and pools, beautiful canyon scenery and unique Cuban culture, Micang ancient road culture, and the culture of the Three Kingdoms complement each other. You can enjoy azaleas in spring, enjoy the coolness in the summer, enjoy red leaves in autumn, and see rime in winter. It was approved as a national scenic spot in 2004 and listed as a World Geopark in 2018.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -48,10 +50,10 @@ Odorrana kuangwuensis (common names: Kuang-wu Shan frog, Kuangwu odorous frog) i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/光雾臭蛙)
+- [Wikipedia](https://zh.wikipedia.org/wiki/巴中东站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

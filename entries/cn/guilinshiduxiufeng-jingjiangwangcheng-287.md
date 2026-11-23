@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.287727
 lon: 110.305667
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 桂林市独秀峰•靖江王城景区 / Duxiufeng Scenic Area

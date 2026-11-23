@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "天台山以佛教天台宗祖庭、道教南宗祖庭所在地和济公“活佛”的故乡而闻名于世。景区气候温和、历史悠久，自然景观和人文景观相互渗透，山、岩、洞、瀑各具神韵，形成了古、幽、清、奇的独特风格。",
  "intro_en": "Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 121.46199798583984,
     "type": "large_airport",
     "distance_km": 84.2,
-    "name_zh": "宁波栎社国际机场"
+    "name_zh": "寧波櫟社國際機場"
    },
    {
     "name": "Yiwu Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 6,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 10.91666667
 lon: 13.83333333
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 曼达拉山脉的迪吉比文化景观 / Diy-Gid-Biy Cultural Landscape of the Mandara Mountains

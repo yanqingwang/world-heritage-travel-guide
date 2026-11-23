@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Nantong City"
 lat: 32.028014
 lon: 120.863679
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 南通市濠河风景区 / Haohe Scenic Area

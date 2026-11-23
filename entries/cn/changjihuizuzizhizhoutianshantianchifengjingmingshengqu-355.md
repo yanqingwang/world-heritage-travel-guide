@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Changji Hui Autonomous Prefecture"
 lat: 44.108996
 lon: 88.073918
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 昌吉回族自治州天山天池风景名胜区 / Wuyishanfengjingmingshengqu Scenic and Historic Area

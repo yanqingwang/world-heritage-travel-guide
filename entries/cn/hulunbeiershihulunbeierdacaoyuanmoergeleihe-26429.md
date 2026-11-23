@@ -2,7 +2,7 @@
 id: "cn-26429"
 dataset: "china_5a"
 name_zh: "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区"
-name_en: "Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area"
+name_en: "Hulunbeiercaoyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.467238
 lon: 119.716673
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area
+# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiercaoyuan Scenic Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 草原沙漠
 
@@ -57,4 +57,5 @@ Hulunbuir Prairie·Morgele River Scenic Area is located in Chenbalhu Banner, Hul
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

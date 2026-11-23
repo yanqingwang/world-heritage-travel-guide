@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 33.466666666
 lon: 48.316666666
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 霍拉马巴德谷地的史前遗址 / Prehistoric Sites of the Khorramabad Valley

@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "桂林漓江风景区，是世界上规模较大、风景优美的岩溶山水游览区。景区既有“山清、水秀、洞奇、石美”四绝，又有“洲绿、滩险、潭深、瀑飞”之胜，人称“百里漓江、百里画廊”。漓江两岸山峰挺拔，形态万千，江堤竹林摇曳，婀娜多姿，江中碧水萦回，奇峰倒影，每一处景致都旖旎如画。",
  "intro_en": "The Li River or Li Jiang (simplified Chinese: 漓江; traditional Chinese: 灕江; pinyin: Lí Jiāng) is the name for the upper reaches of the Gui River in northeastern Guangxi, China. It is part of the Xijiang River system in the Pearl River basin, flowing 164 kilometres (102 mi) from Xing'an County to Pingle County.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 110.039553,
     "type": "large_airport",
     "distance_km": 40.8,
-    "name_zh": "桂林两江国际机场"
+    "name_zh": "桂林兩江國際機場"
    },
    {
     "name": "Liuzhou Bailian Airport / Bailian Air Base",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

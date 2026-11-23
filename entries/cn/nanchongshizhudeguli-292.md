@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.468248
 lon: 106.608353
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 南充市朱德故里景区 / Former Residence of Zhu De

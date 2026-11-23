@@ -13,7 +13,7 @@ province_en: "Tianjin"
 city_en: "Nankai District"
 lat: 39.148444
 lon: 117.182192
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 天津古文化街旅游区（津门故里） / Guwenhua Jie

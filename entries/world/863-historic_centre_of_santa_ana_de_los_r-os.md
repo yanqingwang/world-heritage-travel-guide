@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)(v)"
 lat: -2.8979
 lon: -79.0049
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 昆卡的洛斯－里奥斯的圣安娜历史中心 / Historic Centre of Santa Ana de los Ríos de Cuenca

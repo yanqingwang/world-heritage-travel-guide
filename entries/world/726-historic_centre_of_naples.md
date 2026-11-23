@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)"
 lat: 40.85139
 lon: 14.26278
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 那不勒斯历史中心 / Historic Centre of Naples

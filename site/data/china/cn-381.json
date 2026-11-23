@@ -10,8 +10,8 @@
  "city_zh": "保亭黎族苗族自治县",
  "city_en": "Baotinglizumiaozuzizhi County",
  "name_zh": "保亭县海南槟榔谷黎苗文化旅游区",
- "name_en": "Wuzhi Mountain",
- "name_en_source": "wikipedia",
+ "name_en": "Baotingxianhainanbinglanggulimiao Cultural Tourism Area",
+ "name_en_source": "pinyin",
  "slug": "baotingxianhainanbinglanggulimiao-381",
  "lat": 18.882055,
  "lon": 109.67537,
@@ -21,9 +21,13 @@
  "category": "folk",
  "category_zh": "民俗文化",
  "category_en": "Folk culture",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区由非遗村、甘什黎村、谷银苗家、田野黎家、《槟榔·古韵》大型实景演出、兰花小木屋、黎苗风味美食街七大文化体验区构成，风景秀丽，是海南黎、苗族传统“三月三”及“七夕嬉水节”的主要活动举办地之一。",
- "intro_en": "Wuzhi Mountain (Chinese: 五指山; pinyin: Wǔzhǐ Shān; lit. 'Five Finger Mountain') is the highest mountain in Hainan, China, towering 1,840 metres (6,040 ft) above the center of Hainan Island. The surrounding areas of Wuzhi Mountain are inhabited mainly by the Li ethnic group. It is located adjacent to Wuzhishan City but is not part of that city's administrative area. Various Li myths concern the name for the mountain (Five Finger Mountain) and its formation. One legend has it that the five mountain peaks are the fossilized fingers of a dead Li clan chief. Another tale is that the five peaks are dedicated to the five most powerful Li gods. Numerous historical poems have also been written about the mountain, the most famous of all by the Hainan writer, Qiujun.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic spot consists of seven cultural experience areas including the Intangible Cultural Heritage Village, Ganshili Village, Guyin Miao Family, Tianyi Li Family, the large-scale live performance of \"Betel Nut·Ancient Rhythm\", the Orchid Cabin, and the Limiao and Miao flavor food street. It has beautiful scenery and is one of the main venues for the traditional \"March 3rd\" and \"Qixi Festival\" activities of the Hainan Li and Miao people.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "http://www.binglanggu.com/",
@@ -38,7 +42,7 @@
     "lon": 109.412003,
     "type": "large_airport",
     "distance_km": 70.1,
-    "name_zh": "三亚凤凰国际机场"
+    "name_zh": "三亞鳳凰國際機場"
    },
    {
     "name": "Qionghai Bo'ao Airport",
@@ -104,11 +108,10 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -127,7 +130,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -137,17 +140,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/五指山 (海南)"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

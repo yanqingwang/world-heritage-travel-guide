@@ -10,7 +10,7 @@
  "city_zh": "阳江市",
  "city_en": "Yangjiang City",
  "name_zh": "阳江市江城区海陵岛大角湾海上丝路旅游区",
- "name_en": "Yangjiangshijiangchengquhailingdaodajiaowanhaishangsilu Tourist Area",
+ "name_en": "Hailingdao Tourist Area",
  "name_en_source": "pinyin",
  "slug": "yangjiangshijiangchengquhailingdaodajiaowanhaishangsilu-1194",
  "lat": 21.760659,
@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "海陵岛大角湾海上丝路旅游区的主要景点有大角湾、马尾岛、闸坡海市，属亚热带季风气候，是集海泳、度假、食海鲜、购海味等于一体的综合型滨海旅游区。",
  "intro_en": "The main attractions of Hailing Island Dajiao Bay Maritime Silk Road Tourist Area include Dajiao Bay, Mawei Island, and Zhapohai City. It has a subtropical monsoon climate and is a comprehensive coastal tourist area integrating sea swimming, vacation, seafood eating, and seafood shopping.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 113.375999,
     "type": "large_airport",
     "distance_km": 156.0,
-    "name_zh": "珠海机场"
+    "name_zh": "珠海機場"
    },
    {
     "name": "Macau International Airport",
@@ -60,7 +64,7 @@
     "lon": 113.592003,
     "type": "large_airport",
     "distance_km": 181.1,
-    "name_zh": "澳门国际机场"
+    "name_zh": "澳門國際機場"
    }
   ],
   "nearest_airport_km": 137.6,
@@ -141,13 +145,14 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 4,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -176,13 +181,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/海陵岛"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

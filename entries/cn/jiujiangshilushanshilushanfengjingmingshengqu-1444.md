@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.561544
 lon: 116.001082
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 九江市庐山市庐山风景名胜区 / Huanglong Scenic and Historic Interest Area

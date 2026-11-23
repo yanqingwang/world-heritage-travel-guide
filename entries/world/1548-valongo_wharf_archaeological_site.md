@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(vi)"
 lat: -22.897111
 lon: -43.187394
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 瓦隆古码头 / Valongo Wharf Archaeological Site

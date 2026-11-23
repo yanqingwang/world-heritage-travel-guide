@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 43.014194444
 lon: -7.559888888
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 卢戈的罗马城墙 / Roman Walls of Lugo

@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Ningde"
 lat: 27.10571
 lon: 120.248672
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 宁德市太姥山旅游区 / Mount Taimu

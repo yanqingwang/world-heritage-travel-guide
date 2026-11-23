@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(ii)"
 lat: 45.465833333
 lon: 9.171111111
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 绘有达•芬奇《最后的晚餐》的圣玛丽亚感恩教堂和多明各会修道院 / Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci

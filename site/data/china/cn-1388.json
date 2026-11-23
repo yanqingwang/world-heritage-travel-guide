@@ -21,6 +21,10 @@
  "category": "natural",
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
+ "admission": "partial",
+ "admission_note_zh": "月湖免费开放；天一阁博物馆另收门票。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区由天一阁博物馆与月湖两大核心景区组成，区域内历史资源丰富，文化底蕴深厚，有各级文物保护单位50余处，国家级重点文物保护单位3个。月湖古称西湖，亦曾称鉴湖，历为文人雅士荟萃之地。天一阁位于月湖西岸，建于明嘉靖年间，已有400多年的历史。",
  "intro_en": "The Tianyi Ge (Chinese: 天一閣; pinyin: Tiān Yī Gé; lit. 'One Sky Pavilion'), translated as Tianyi Pavilion or Tianyi Chamber, is a library and garden located in Ningbo, Zhejiang Province, China.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 121.46199798583984,
     "type": "large_airport",
     "distance_km": 9.8,
-    "name_zh": "宁波栎社国际机场"
+    "name_zh": "寧波櫟社國際機場"
    },
    {
     "name": "Zhoushan Putuoshan International Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 120,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "partial",
- "admission_note_zh": "月湖免费开放；天一阁博物馆另收门票。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

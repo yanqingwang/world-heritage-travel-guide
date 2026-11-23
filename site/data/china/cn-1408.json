@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "free",
+ "admission_note_zh": "古城免费开放，偶园等景点另收费。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "青州古城城建格局完整，历史脉络清晰，是国内外罕见、至今保存完好、山水城一体的明清古城。漫步古城青石板古道，可以欣赏大量衙署建筑遗存、西洋建筑群、遍布古街的牌坊、明清古街道及众多传统民居。",
  "intro_en": "The ancient city of Qingzhou has a complete urban construction pattern and a clear historical context. It is a rare Ming and Qing ancient city at home and abroad that is well preserved and integrates landscape and city. Walking along the bluestone ancient road in the ancient city, you can admire a large number of government building remains, Western buildings, archways throughout the ancient streets, ancient streets of the Ming and Qing Dynasties and many traditional houses.",
  "intro_en_source": "machine_translation",
@@ -162,7 +166,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 16,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -205,9 +209,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "free",
- "admission_note_zh": "古城免费开放，偶园等景点另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-1187"
 dataset: "china_5a"
 name_zh: "衡阳市衡山旅游区"
-name_en: "Hengshan Tourist Area"
+name_en: "Mount Heng (Hunan)"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Hengyang City"
 lat: 27.252032
 lon: 112.738641
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 衡阳市衡山旅游区 / Hengshan Tourist Area
+# 衡阳市衡山旅游区 / Mount Heng (Hunan)
 
 > 湖南省 · 衡阳市 · 山地风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Hengshan Scenic Area is 1,300.2 meters above sea level. The climate is mild and humid, with luxuriant forests and bamboos everywhere, green all year round, exotic flowers and plants, and fragrant fragrance all year round. The natural scenery is very beautiful.
-
-*English introduction: machine translation.*
+Hengshan (Chinese: 衡山; pinyin: Héng Shān), also known as Mount Heng, is a mountain in southcentral China's Hunan Province known as the southern mountain (Chinese: 南岳; pinyin: Nányuè) of the Five Great Mountains of China. Heng Shan is a mountain range 150 kilometres (93 mi) long with 72 peaks and lies at 27°18′06″N 112°41′05″E. The Huiyan Peak is the south end of the peaks, Yuelu Mountain in Changsha City is the north end, and the Zhurong Peak is the highest at 1,300 metres (4,300 ft) above sea level. At the foot of the mountain stands the largest temple in southern China, the Grand Temple of Mount Heng (Nanyue Damiao), which is the largest group of ancient buildings in Hunan Province. Other notable sites in the area include Shangfeng Temple, Fuyan Temple, Zhusheng Temple (8th-century Buddhist monastery) and Zhurong Gong, a small stone temple.
 
 ## 交通 / Transport
 
@@ -53,7 +51,7 @@ Hengshan Scenic Area is 1,300.2 meters above sea level. The climate is mild and 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

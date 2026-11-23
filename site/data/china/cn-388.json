@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "洛阳白云山风景区位于河南省洛阳市嵩县南部伏牛山腹地，是世界地质公园 、国家级森林公园、国家级自然保护区。目前已开发白云峰、玉皇顶、鸡角曼、九龙瀑布、原始森林五大观光区和白云湖、高山森林氧吧、高山牡丹园、留侯祠、芦花谷五大休闲区。",
  "intro_en": "Luoyang Baiyun Mountain Scenic Area is located in the hinterland of Funiu Mountain in the south of Song County, Luoyang City, Henan Province. It is a world geological park, a national forest park, and a national nature reserve. At present, five major tourist areas have been developed: Baiyun Peak, Yuhuangding, Jijiaoman, Jiulong Waterfall, and virgin forest, and five major leisure areas: Baiyun Lake, Alpine Forest Oxygen Bar, Alpine Peony Garden, Liuhou Temple, and Luhua Valley.",
  "intro_en_source": "machine_translation",
@@ -60,7 +64,7 @@
     "lon": 110.906296,
     "type": "medium_airport",
     "distance_km": 156.9,
-    "name_zh": "十堰武当山机场"
+    "name_zh": "十堰武當山機場"
    }
   ],
   "nearest_airport_km": 108.9,
@@ -124,9 +128,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

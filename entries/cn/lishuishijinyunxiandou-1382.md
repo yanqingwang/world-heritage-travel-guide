@@ -2,7 +2,7 @@
 id: "cn-1382"
 dataset: "china_5a"
 name_zh: "丽水市缙云仙都景区"
-name_en: "Xiandou Scenic Area"
+name_en: "Lishuishijinyunxiandou Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Lishui City"
 lat: 28.714992
 lon: 120.076183
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 丽水市缙云仙都景区 / Xiandou Scenic Area
+# 丽水市缙云仙都景区 / Lishuishijinyunxiandou Scenic Area
 
 > 浙江省 · 丽水市 · 山地风光
 
@@ -55,5 +55,4 @@ Lishui Jinyun Xiandu Scenic Area is a tourist resort with beautiful mountains an
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/仙都)
 - [OpenStreetMap](https://www.openstreetmap.org/)

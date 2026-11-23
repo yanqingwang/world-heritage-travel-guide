@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.479468
 lon: 120.280659
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 无锡市鼋头渚旅游风景区 / Yuantouzhu

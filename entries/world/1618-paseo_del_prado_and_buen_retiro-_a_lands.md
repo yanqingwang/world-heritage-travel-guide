@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)(vi)"
 lat: 40.414139
 lon: -3.686528
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 普拉多大道和丽池公园，艺术与科学的景观之地 / Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences

@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Yingtan City"
 lat: 28.125406
 lon: 116.987892
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 鹰潭市贵溪市龙虎山风景名胜区 / Huanglong Scenic and Historic Interest Area

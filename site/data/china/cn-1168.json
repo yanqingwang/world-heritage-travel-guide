@@ -10,7 +10,7 @@
  "city_zh": "海南藏族自治州",
  "city_en": "Hainan Tibetan Autonomous Prefecture",
  "name_zh": "青海湖风景区",
- "name_en": "Qinghaihufeng Scenic Area",
+ "name_en": "Qinghaihu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "qinghaihu-1168",
  "lat": 36.562486,
@@ -21,6 +21,10 @@
  "category": "desert",
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "青海湖，藏语名为“措温布”（意为“青色的海”），是中国较大的内陆湖、咸水湖，由祁连山脉的大通山、日月山与青海南山之间的断层陷落形成。景区地域辽阔，草原广袤，河流众多，水草丰美；区内碧波连天的湖水被四周的高山环抱，好似一盏巨大的翡翠玉盘平嵌在高山、草原之间，构成了一幅山、湖、草原相映成趣的壮美风光和绮丽景色。",
  "intro_en": "Qinghai Lake, whose Tibetan name is \"Cowenbu\" (meaning \"blue sea\"), is China's largest inland lake and saltwater lake. It was formed by the collapse of the fault between Datong Mountain, Riyue Mountain and Qinghai Nanshan in the Qilian Mountains. The scenic area is vast, with vast grasslands, numerous rivers, and rich water and grass. The clear blue lake in the area is surrounded by the surrounding mountains, like a huge emerald jade plate embedded between the mountains and grasslands, forming a magnificent and beautiful scenery where mountains, lakes, and grasslands complement each other.",
  "intro_en_source": "machine_translation",
@@ -119,7 +123,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -154,13 +158,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青海湖"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

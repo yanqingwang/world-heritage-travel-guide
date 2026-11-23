@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ix)(x)"
 lat: 50.433333333
 lon: 69.188888888
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 萨里亚尔卡——哈萨克斯坦北部的草原和湖泊 / Saryarka – Steppe and Lakes of Northern Kazakhstan

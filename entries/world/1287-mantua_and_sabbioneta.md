@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)"
 lat: 45.15944444
 lon: 10.79444444
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 曼托瓦和萨比奥内塔 / Mantua and Sabbioneta

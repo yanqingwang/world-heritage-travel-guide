@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "陕西西安大雁塔·大唐芙蓉园景区包含大雁塔、大唐芙蓉园两个旅游区。大唐芙蓉园是一个全方位展示盛唐风貌的大型皇家园林式文化主题公园。大雁塔又名“慈恩寺塔”，由玄奘于唐永徽三年（652年）主持修建，目的在于保存从天竺带回长安的经卷佛像。大雁塔作为现存最早、规模最大的唐代四方楼阁式砖塔，是古印度佛塔建筑形式传入中国并融入中国传统文化的典型物证。",
  "intro_en": "The Giant Wild Goose Pagoda or Big Wild Goose Pagoda (Chinese: 大雁塔, Dàyàn tǎ) is a seven-storey Buddhist pagoda in the Daci'en Temple complex in southern Xi'an, Shaanxi, China. It was first built in 652, when Xi'an was the Tang capital Chang'an, under the direction of the monk and translator Xuanzang. The original five-storey structure was rebuilt during the reign of Wu Zetian and repaired in later dynasties; the present brick exterior reflects major work carried out during the Ming dynasty. The pagoda was built to store Buddhist scriptures and images that Xuanzang brought from India. Its association with Xuanzang and the translation work at Daci'en Temple makes it evidence of the transmission of Buddhism and texts between South, Central, and East Asia during the Tang period. Stone tablets by the south entrance bear texts composed by Emperor Taizong and Emperor Gaozong and written by the calligrapher Chu Suiliang. The Tang custom of successful examination candidates inscribing their names at the temple also produced the phrase \"inscription at the Wild Goose Pagoda\" for success in the imperial examinations. The pagoda was inscribed in 2014 as a component of the UNESCO World Heritage",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 108.87338,
     "type": "small_airport",
     "distance_km": 163.3,
-    "name_zh": "安康富强机场"
+    "name_zh": "安康富強機場"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "苏州市",
  "city_en": "Suzhou",
  "name_zh": "苏州市同里古镇景区",
- "name_en": "Tongli station",
- "name_en_source": "wikipedia",
+ "name_en": "Suzhoushitongliguzhen Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "suzhoushitongliguzhen-339",
  "lat": 31.156127,
  "lon": 120.729409,
@@ -21,9 +21,13 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "同里镇是一个具有悠久历史和典型水乡风格的古镇。镇内由15条河流纵横分割为7个小岛，由49座桥连接。同里以“醇正水乡，旧时江南”的特色闻名于海内外。",
- "intro_en": "Tongli (Chinese: 同里) is a station on Line 4 of the Suzhou Metro, and the southern terminus of Line 4. The station is located in the Wujiang District of Suzhou. It has been in use since April 15, 2017, the same time of the operation of Line 4.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of \"an authentic water town, like the south of the Yangtze River in the old days\".",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "http://www.tongli.net/index.php?m=Index&a=indexcn",
  "booking": "http://www.tongli.net/",
@@ -159,7 +163,6 @@
   "ja": false,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -188,17 +191,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/同里站"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

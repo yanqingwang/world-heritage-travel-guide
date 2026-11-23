@@ -2,7 +2,7 @@
 id: "cn-1437"
 dataset: "china_5a"
 name_zh: "石嘴山市沙湖旅游景区"
-name_en: "Shahu Scenic Area"
+name_en: "Shizuishanshishahu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Shizuishan City"
 lat: 38.830852
 lon: 106.397047
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 石嘴山市沙湖旅游景区 / Shahu Scenic Area
+# 石嘴山市沙湖旅游景区 / Shizuishanshishahu Scenic Area
 
 > 宁夏回族自治区 · 石嘴山市 · 古镇村落
 
@@ -56,5 +56,4 @@ The scenic area is dominated by natural landscape, with the five major scenic so
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/沙湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

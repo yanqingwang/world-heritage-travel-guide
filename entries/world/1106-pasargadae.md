@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 30.2
 lon: 53.179444444
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 帕萨尔加德 / Pasargadae

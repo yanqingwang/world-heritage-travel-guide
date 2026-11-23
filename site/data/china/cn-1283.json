@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "北京故宫博物院建立于1925年10月10日，位于北京故宫紫禁城内，是在明朝、清朝两代皇宫及其收藏的基础上建立起来的综合性博物馆，也是中国最大的古代文化艺术博物馆，其文物收藏主要来源于清代宫中旧藏，是第一批全国爱国主义教育示范基地。1987年被列入《世界文化遗产名录》。",
  "intro_en": "The Palace Museum in Beijing was established on October 10, 1925. It is located in the Forbidden City of the Forbidden City in Beijing. It is a comprehensive museum based on the imperial palaces of the Ming and Qing dynasties and their collections. It is also the largest museum of ancient culture and art in China. Its cultural relics collection mainly comes from the old collections of the Qing Dynasty palace. It is the first batch of national patriotism education demonstration bases. It was included in the \"World Cultural Heritage List\" in 1987.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 23.7,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -223,9 +227,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

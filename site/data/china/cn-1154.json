@@ -10,8 +10,8 @@
  "city_zh": "长沙市",
  "city_en": "Changsha",
  "name_zh": "长沙市岳麓山-橘子洲旅游区",
- "name_en": "Juzizhou Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Orange Isle",
+ "name_en_source": "wikipedia",
  "slug": "changshashiyuelushanjuzizhou-1154",
  "lat": 28.189122,
  "lon": 112.943867,
@@ -21,9 +21,13 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "free",
+ "admission_note_zh": "免费开放，需提前预约。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "岳麓山，是南岳七十二峰的尾峰，古树名木较多，有多处文物古迹、烈士名人墓葬等。岳麓山山下有被列为中国古代四大书院之一的岳麓书院，山腰有古麓山寺，山顶有云麓道宫，是儒、佛、道三教相互交融的地区。",
- "intro_en": "Yuelu Mountain is the tail peak of Nanyue's seventy-two peaks. It has many ancient and famous trees, many cultural relics, and tombs of famous martyrs. At the foot of Yuelu Mountain is Yuelu Academy, which is listed as one of the four major academies in ancient China. On the mountainside is the ancient Lushan Temple, and at the top of the mountain is the Yunlu Taoist Palace. It is an area where Confucianism, Buddhism and Taoism blend with each other.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Orange Isle (Chinese: 橘子洲; pinyin: Júzi Zhōu) is an isle in Xiang River, Changsha, Hunan, China. It also known by other names, such as Ju Isle (橘洲; Jú Zhōu) and Shuilu Isle (水陆洲; 水陸洲; Shuǐlù Zhōu; 'Water-and-land Isle'). It has a length of 5 kilometres (3.1 mi), a width of 40 to 140 metres (130 to 460 ft) and a total area of 370,900 square metres (91.64 acres). It was also a national AAAAA (5A) level tourist attraction and a national key scenic spot.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -152,13 +156,14 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 138,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -177,7 +182,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -195,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "免费开放，需提前预约。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

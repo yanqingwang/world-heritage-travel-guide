@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "阿勒泰地区喀纳斯景区位于新疆阿尔泰山中段，地处中国与哈萨克斯坦、俄罗斯、蒙古国接壤地带。主要景点有喀纳斯湖、卧龙湾、泰加林廊道等。",
  "intro_en": "The Kanas Scenic Area in the Altay region is located in the middle section of the Altai Mountains in Xinjiang, on the border between China, Kazakhstan, Russia, and Mongolia. The main attractions include Kanas Lake, Wolong Bay, Taiga Forest Corridor, etc.",
  "intro_en_source": "machine_translation",
@@ -147,13 +151,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/阿勒泰—乌鲁木齐高速公路"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

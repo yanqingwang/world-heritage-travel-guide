@@ -2,7 +2,7 @@
 id: "cn-459"
 dataset: "china_5a"
 name_zh: "苏州市太湖旅游区"
-name_en: "Lake Tai"
+name_en: "Taihu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.24342
 lon: 120.43027
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 苏州市太湖旅游区 / Lake Tai
+# 苏州市太湖旅游区 / Taihu
 
 > 江苏省 · 苏州市 · 古镇村落
 

@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Putian"
 lat: 25.096583
 lon: 119.154628
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 莆田市湄洲岛妈祖文化旅游区 / Meizhou Island

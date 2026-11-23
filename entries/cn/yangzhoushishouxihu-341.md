@@ -2,7 +2,7 @@
 id: "cn-341"
 dataset: "china_5a"
 name_zh: "扬州市瘦西湖风景区"
-name_en: "Slender West Lake"
+name_en: "Yangzhoushishouxihufeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Yangzhou"
 lat: 32.408155
 lon: 119.432817
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 扬州市瘦西湖风景区 / Slender West Lake
+# 扬州市瘦西湖风景区 / Yangzhoushishouxihufeng Scenic Area
 
 > 江苏省 · 扬州市 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Slender West Lake, also known by its Chinese name Shouxihu and by other names, is a scenic lake in Hanjiang District in central Yangzhou, China. The lake developed from the city moats of Tang-era Yangzhou. During the Qing dynasty, its banks were the site of numerous estates for the area's wealthy officials and salt merchants. The lake and some of its attractions have been restored as a national park and AAAAA tourist attraction, requiring a ticket for admission and open only from 7 am to 6 pm.
+The Slender West Lake Scenic Area is an important part of the Grand Canal, a world cultural heritage, and the core and essence of the national scenic area Shugang-Slender West Lake Scenic Area. The graceful and winding lake is surrounded by famous gardens and scenic spots such as Xu Garden, Xiaojin Mountain, Wuting Bridge, White Tower, Twenty-four Bridges, Wanhua Garden, Shuangfeng Cloud Stack, etc. It has a unique charm and is famous at home and abroad.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -52,10 +54,9 @@ Slender West Lake, also known by its Chinese name Shouxihu and by other names, i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/瘦西湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

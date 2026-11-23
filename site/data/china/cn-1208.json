@@ -10,8 +10,8 @@
  "city_zh": "海淀区",
  "city_en": "Haidian District",
  "name_zh": "圆明园遗址公园景区",
- "name_en": "Yuanmingyuanyizhigongyuan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Old Summer Palace",
+ "name_en_source": "wikipedia",
  "slug": "yuanmingyuanyizhigongyuan-1208",
  "lat": 40.018514,
  "lon": 116.324617,
@@ -21,9 +21,13 @@
  "category": "garden",
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "圆明园是清朝著名的皇家园林之一，面积五千二百余亩，一百五十余景，有“万园之园”之称。圆明园于1860年遭英法联军焚毁。1988年，圆明园遗址向社会开放。",
- "intro_en": "The Old Summer Palace is one of the famous royal gardens of the Qing Dynasty. It covers an area of ​​more than 5,200 acres and has more than 150 sceneries. It is known as the \"Garden of Ten Thousand Gardens\". The Old Summer Palace was burned down by the British and French forces in 1860. In 1988, the ruins of the Old Summer Palace were opened to the public.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Old Summer Palace, also known as Yuanmingyuan (traditional Chinese: 圓明園; simplified Chinese: 圆明园; pinyin: Yuánmíng Yuán; lit. 'Gardens of Perfect Brightness') or Yuanmingyuan Park, originally called the Imperial Gardens (traditional Chinese: 御園; simplified Chinese: 御园; pinyin: Yù Yuán), and sometimes called the Winter Palace, was a complex of palaces and gardens in present-day Haidian District, Beijing, China. It is 8 kilometres (5 mi) north-west of the walls of the former Imperial City section of Beijing. Widely perceived as the pinnacle work of Chinese imperial garden and palace design, the Old Summer Palace was known for its extensive collection of gardens, its building architecture and numerous art and historical treasures. Constructed throughout the 18th and early 19th centuries, the Old Summer Palace was the main imperial residence of the Qianlong Emperor of the Qing dynasty and his successors, and where they handled state affairs; the Forbidden City was used for formal ceremonies. The Garden was reputed as the \"Garden of Gardens\" (simplified Chinese: 万园之园; traditional Chinese: 萬園之園; pinyin: wàn yuán zhī yuán) in its heyday was \"arguably the greatest concentration of hist",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.yuanmingyuanpark.cn",
  "booking": "http://www.yuanmingyuanpark.cn/pw/mmp/",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 24.1,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -171,13 +175,14 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 672,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -206,13 +211,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/圆明园"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

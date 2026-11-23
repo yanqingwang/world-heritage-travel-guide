@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(iii)(vii)(ix)(x)"
 lat: -7.75
 lon: -77.25
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 里奥阿比塞奥国家公园 / Río Abiseo National Park

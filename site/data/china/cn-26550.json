@@ -10,8 +10,8 @@
  "city_zh": "齐齐哈尔市",
  "city_en": "Qiqihaer City",
  "name_zh": "齐齐哈尔市扎龙生态旅游区",
- "name_en": "Zhalongzhen Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Zhalong Nature Reserve",
+ "name_en_source": "wikipedia",
  "slug": "qiqihaershizhalongshengtai-26550",
  "lat": 47.209125,
  "lon": 124.242091,
@@ -21,9 +21,13 @@
  "category": "wetland",
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "扎龙生态旅游区位于齐齐哈尔市铁锋区，总面积4.7平方公里。扎龙生态旅游区湿地风光秀美，拥有扎龙湖、荷仙池鹤唳云天、鹿鹤同春、芦林鹤影等游览景区，打造了望鹤楼、水禽岛、名鹤苑、扎龙湿地博物馆、丹顶鹤野化训飞区等丰富多样的旅游景点。",
- "intro_en": "Zhalong Ecological Tourism Zone is located in Tiefeng District, Qiqihar City, with a total area of ​​4.7 square kilometers. The Zhalong Ecological Tourism Zone has beautiful wetland scenery, including Zhalong Lake, Hexian Pond, Cranes in the Sky, Deer and Cranes in Spring, and Crane Shadows in Lulin. It has created a variety of tourist attractions such as Wanghe Tower, Waterfowl Island, Minghe Garden, Zhalong Wetland Museum, and Red-crowned Crane Rewilding and Flying Area.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Zhalong Nature Preserve (simplified Chinese: 扎龙国家级自然保护区; traditional Chinese: 扎龍國家級自然保護區; pinyin: zhālóng guójiā jízìránbǎohùqū) is a wetland reserve in Heilongjiang province, China.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.chinazhalong.com/showindex.jsp",
  "booking": "",
@@ -208,16 +212,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/扎龙镇"
+   "url": "https://zh.wikipedia.org/wiki/黑龙江扎龙国家级自然保护区"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

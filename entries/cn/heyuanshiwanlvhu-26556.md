@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Heyuan City"
 lat: 23.823781
 lon: 114.531722
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 河源市万绿湖风景区 / Wanlvhu Scenic Area

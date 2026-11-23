@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Zhongwei"
 lat: 37.478011
 lon: 105.005776
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 中卫市沙坡头旅游景区 / Shapotou Scenic Area

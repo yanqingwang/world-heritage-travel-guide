@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区总面积3.1平方公里，由“一河（护城河）一湖（大明湖）三泉（趵突泉、黑虎泉、五龙潭三大泉群）四园（趵突泉公园、环城公园、五龙潭公园、大明湖风景区）”组成，是集独特的自然山水景观和深厚的历史文化底蕴于一体的旅游景区。",
  "intro_en": "The scenic area has a total area of ​​3.1 square kilometers and is composed of \"one river (moat), one lake (Daming Lake), three springs (the three major spring groups of Baotu Spring, Black Tiger Spring, and Wulongtan) and four parks (Baotu Spring Park, Huancheng Park, Wulongtan Park, and Daming Lake Scenic Area)\". It is a tourist attraction integrating unique natural landscapes and profound historical and cultural heritage.",
  "intro_en_source": "machine_translation",
@@ -180,7 +184,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 131,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -223,9 +227,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

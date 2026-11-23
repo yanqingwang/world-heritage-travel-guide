@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iii)(v)(vii)(ix)(x)"
 lat: 57.815
 lon: -8.5875
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 圣基尔达岛 / St Kilda

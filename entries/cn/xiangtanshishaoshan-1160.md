@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 湘潭市韶山旅游区 / Shaoshanzhan Tourist Area
@@ -54,7 +54,7 @@ Shaoshan is the hometown of the great leader Mao Zedong. It is also the place wh
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

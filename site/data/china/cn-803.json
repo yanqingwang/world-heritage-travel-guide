@@ -21,6 +21,10 @@
  "category": "garden",
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "绵山风景名胜区，跨介休、灵石、沁源三市县地界，是太岳山的一条支脉。景区建筑群体中宗教建筑有殿庙、宫观，园林建筑有亭、台、楼、阁、轩、廊、榭、牌楼，古留遗迹建筑有古营门、城池、营寨等。",
  "intro_en": "Mianshan Scenic Area, spanning the boundaries of Jiexiu, Lingshi and Qinyuan cities and counties, is a branch of Taiyue Mountain. Among the architectural groups in the scenic area, religious buildings include temples and palaces, garden buildings include pavilions, terraces, towers, pavilions, pavilions, corridors, pavilions, and archways, and ancient relic buildings include ancient camp gates, cities, camps, etc.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 111.641236,
     "type": "medium_airport",
     "distance_km": 91.4,
-    "name_zh": "临汾乔李机场"
+    "name_zh": "臨汾喬李機場"
    },
    {
     "name": "Taiyuan Wusu International Airport",
@@ -49,7 +53,7 @@
     "lon": 112.627998,
     "type": "large_airport",
     "distance_km": 109.7,
-    "name_zh": "太原武宿国际机场"
+    "name_zh": "太原武宿國際機場"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -60,7 +64,7 @@
     "lon": 111.142778,
     "type": "medium_airport",
     "distance_km": 112.5,
-    "name_zh": "吕梁机场"
+    "name_zh": "呂梁機場"
    }
   ],
   "nearest_airport_km": 91.4,
@@ -180,9 +184,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

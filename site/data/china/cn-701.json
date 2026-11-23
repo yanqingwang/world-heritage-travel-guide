@@ -21,6 +21,10 @@
  "category": "coastal",
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "世界地质公园、国家级风景名胜区、国家自然遗产——太姥山，宁德世界地质公园太姥山园区，位于闽浙边界的福鼎市境内。太姥山是一处以花岗岩峰林岩洞为特色，融山、海、川、岛和人文景观于一体的风景旅游胜地，拥有太姥山岳、九鲤溪瀑、福瑶列岛、晴川海滨四大景区和瑞云古刹、翠郊古民居两处独立景点。",
  "intro_en": "Mount Taimu (Chinese: 太姥山) is a mountain in Ningde, Fujian, China. It is located 46km south of the county-level city of Fuding, 150km away from Wenzhou in the north, and 250km away from Fuzhou in the south. The mountain overlooks Yandang Mountain in the north and Wuyi Mountain in the west, with plenty of Taoist and Buddhist temples and sites.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 120.002679,
     "type": "medium_airport",
     "distance_km": 101.0,
-    "name_zh": "马祖北竿机场"
+    "name_zh": "馬祖北竿機場"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -60,7 +64,7 @@
     "lon": 119.958376,
     "type": "medium_airport",
     "distance_km": 109.1,
-    "name_zh": "马祖南竿机场"
+    "name_zh": "馬祖南竿機場"
    }
   ],
   "nearest_airport_km": 101.0,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "九曲黄河，裂地而来，在秦晋峡谷延川段蜿蜒曲折，形成了闻名遐迩的世界地质奇观——黄河蛇曲地貌群，被国土资源部命名为“黄河蛇曲国家地质公园”。其中，以乾坤湾、清水湾为主体打造的延川黄河乾坤湾景区，是黄河蛇曲国家地质公园的核心片区。",
  "intro_en": "The Nine-Meander Yellow River splits from the earth and meanders along the Yanchuan section of the Qinjin Gorge, forming a world-famous geological wonder - the Yellow River Snake Bend Landform Group, which was named the \"Yellow River Snake Bend National Geopark\" by the Ministry of Land and Resources. Among them, the Yanchuan Yellow River Qiankun Bay Scenic Area, which is mainly built with Qiankun Bay and Qingshui Bay, is the core area of ​​the Yellow River Snake Bend National Geopark.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 111.142778,
     "type": "medium_airport",
     "distance_km": 124.2,
-    "name_zh": "吕梁机场"
+    "name_zh": "呂梁機場"
    },
    {
     "name": "Linfen Yaodu Airport",
@@ -60,7 +64,7 @@
     "lon": 111.641236,
     "type": "medium_airport",
     "distance_km": 127.5,
-    "name_zh": "临汾乔李机场"
+    "name_zh": "臨汾喬李機場"
    }
   ],
   "nearest_airport_km": 89.7,
@@ -139,9 +143,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

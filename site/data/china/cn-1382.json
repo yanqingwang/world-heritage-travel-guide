@@ -10,7 +10,7 @@
  "city_zh": "丽水市",
  "city_en": "Lishui City",
  "name_zh": "丽水市缙云仙都景区",
- "name_en": "Xiandou Scenic Area",
+ "name_en": "Lishuishijinyunxiandou Scenic Area",
  "name_en_source": "pinyin",
  "slug": "lishuishijinyunxiandou-1382",
  "lat": 28.714992,
@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "丽水缙云仙都景区是一个山明水秀、景物优美、气候宜人的游览胜地，境内九曲练溪，十里画廊，山水飘逸，云雾缭绕。仙都风景名胜区由仙都、黄龙、岩门、大洋四大景区组成，包括鼎湖峰、倪翁洞、小赤壁、芙蓉峡、黄帝祠宇等三百多个景点，总面积166.2平方公里。",
  "intro_en": "Lishui Jinyun Xiandu Scenic Area is a tourist resort with beautiful mountains and rivers, beautiful scenery and pleasant climate. It has Jiuqu Lianxi, Shili Gallery, elegant mountains and rivers, and shrouded clouds and mist. Xiandu Scenic Area consists of four major scenic spots: Xiandu, Huanglong, Yanmen and Dayang, including more than 300 scenic spots such as Dinghu Peak, Niweng Cave, Xiaochibi, Furong Gorge, and Huangdi Temple, with a total area of ​​166.2 square kilometers.",
  "intro_en_source": "machine_translation",
@@ -119,7 +123,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -154,17 +158,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/仙都"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

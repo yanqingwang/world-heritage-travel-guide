@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Anqing"
 lat: 30.727278
 lon: 116.466126
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 安庆市天柱山风景区 / Mount Tianzhu

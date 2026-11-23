@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "山海关是明长城的东北关隘之一，素有“天下第一关”之称。主要景点有天下第一关、老龙头、迎恩楼、钟鼓楼、望洋楼、王家大院、山海行宫、闯关东。山海关是全国第一批重点文物保护单位，并于1987年被列入世界文化遗产名录。",
  "intro_en": "The Shanhai Pass (simplified Chinese: 山海关; traditional Chinese: 山海關; pinyin: Shānhǎi Guān; lit. 'Mountain Sea Pass') is a major fortified gateway at the eastern end of the Great Wall of China and one of its most crucial fortifications, as the pass commands the narrowest choke point in the strategic Liaoxi Corridor, an elongated coastal plain between the Yan Mountains foothills and the Bohai Sea, which is the only easily traversable landway between North and Northeast China. It is located in present-day Shanhaiguan District, Qinhuangdao, Hebei, on the east bank of the Shi River, with defensive walls stretching from the Yan Mountains all the way to the shores of the Liaodong Bay. Throughout Chinese history, garrisons around the pass served as frontline defensive outposts against raids and incursions into the North China Plain by various non-Sinitic ethnic groups from the Northeast (also known as Manchuria since the 19th century), including the Dongyi, Donghu (Xianbei and Wuhuan), Khitan and Jurchen (Manchus). The current Shanhai Pass was built during the early Ming dynasty as the easternmost fortification of the Ming Great Wall, and was extensively reinforced after Yongle Emperor mov",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 119.061384,
     "type": "medium_airport",
     "distance_km": 72.2,
-    "name_zh": "秦皇岛北戴河机场"
+    "name_zh": "秦皇島北戴河機場"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 30,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

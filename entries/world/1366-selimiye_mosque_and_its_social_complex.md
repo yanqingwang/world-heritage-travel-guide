@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(i)(iv)"
 lat: 41.678056
 lon: 26.559444
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 赛利米耶清真寺 / Selimiye Mosque and its Social Complex

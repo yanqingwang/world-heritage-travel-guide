@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(vii)(viii)"
 lat: -54.63
 lon: 158.86
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 麦夸里岛 / Macquarie Island

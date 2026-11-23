@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Anshun City"
 lat: 26.112673
 lon: 105.88403
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 安顺市西秀区龙宫景区 / Anshun West railway station

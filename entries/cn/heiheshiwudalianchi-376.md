@@ -2,7 +2,7 @@
 id: "cn-376"
 dataset: "china_5a"
 name_zh: "黑河市五大连池景区"
-name_en: "Heiheshiwudalianchi Scenic Area"
+name_en: "Wudalianchi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Heilongjiang"
 city_en: "Heihe City"
 lat: 48.699183
 lon: 126.168957
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 黑河市五大连池景区 / Heiheshiwudalianchi Scenic Area
+# 黑河市五大连池景区 / Wudalianchi Scenic Area
 
 > 黑龙江省 · 黑河市 · 山地风光
 
@@ -51,9 +51,10 @@ Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/五大连池)
 - [OpenStreetMap](https://www.openstreetmap.org/)

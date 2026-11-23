@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(v)"
 lat: 36.7990274
 lon: 10.1700595
-updated_at: "2026-11-16T11:41:03Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 突尼斯的阿拉伯人聚居区 / Medina of Tunis

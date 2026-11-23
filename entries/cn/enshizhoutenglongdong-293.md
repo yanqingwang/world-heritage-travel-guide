@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 30.340149
 lon: 108.992446
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 恩施州腾龙洞景区 / Tenglong Cave

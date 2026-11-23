@@ -10,8 +10,8 @@
  "city_zh": "张家界市",
  "city_en": "Zhangjiajie",
  "name_zh": "张家界市武陵源-天门山旅游区",
- "name_en": "Tianmen Mountain",
- "name_en_source": "wikipedia",
+ "name_en": "Zhangjiajieshiwulingyuan-tianmenshan Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "zhangjiajieshiwulingyuantianmenshan-1183",
  "lat": 29.360276,
  "lon": 110.402594,
@@ -21,9 +21,13 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区共包含武陵源、天门山两个旅游区。其中，武陵源风景名胜区由张家界市的张家界森林公园、慈利县的索溪峪自然保护区和桑植县的天子山自然保护区组合而成。天门山是山岳型自然景区，总面积96平方公里，山顶面积达2平方公里。天门山景区主峰海拔 1518.6米，是张家界海拔最高的山。因自然奇观天门洞而得名。",
- "intro_en": "Tianmen Mountain (simplified Chinese: 天门山; traditional Chinese: 天門山; pinyin: Tiānmén Shān; lit. 'Heaven's Gate Mountain') is a mountain located within Tianmen Mountain National Park, Zhangjiajie, in the northwestern part of Hunan Province, China.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic area includes two tourist areas, Wulingyuan and Tianmen Mountain. Among them, Wulingyuan Scenic Area is composed of Zhangjiajie Forest Park in Zhangjiajie City, Suoxiyu Nature Reserve in Cili County, and Tianzi Mountain Nature Reserve in Sangzhi County. Tianmen Mountain is a mountain-type natural scenic spot with a total area of ​​96 square kilometers and a top area of ​​2 square kilometers. The main peak of Tianmen Mountain Scenic Area is 1518.6 meters above sea level, making it the highest mountain in Zhangjiajie. It is named after the natural wonder Tianmen Cave.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "http://www.hnzjj.com/",
  "booking": "http://www.hnzjj.com/",
@@ -152,14 +156,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 66,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -178,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -188,17 +191,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/天门山"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

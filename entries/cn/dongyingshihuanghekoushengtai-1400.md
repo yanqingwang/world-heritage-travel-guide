@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Dongying"
 lat: 37.809776
 lon: 119.082774
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 东营市黄河口生态旅游区 / Dongyingshihuanghekoushengtai Tourist Area

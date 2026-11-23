@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.304274
 lon: 119.44574
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 常州市天目湖景区 / Changzhoushitianmuhu Scenic Area

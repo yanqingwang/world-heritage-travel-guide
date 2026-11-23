@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Wuhu"
 lat: 31.38341
 lon: 118.382539
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 芜湖市方特旅游区 / Wuhushifangte Tourist Area
@@ -58,4 +58,5 @@ Fantawild Tourism Area in Wuhu City includes four theme parks: Fantawild Adventu
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/湾里街道 (芜湖市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

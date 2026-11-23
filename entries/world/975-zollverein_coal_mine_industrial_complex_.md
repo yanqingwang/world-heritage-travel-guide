@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)"
 lat: 51.4865
 lon: 7.04408
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 埃森的关税同盟煤矿工业区 / Zollverein Coal Mine Industrial Complex in Essen

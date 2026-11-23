@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ii)(iv)"
 lat: 51.5082
 lon: -0.076198055
-updated_at: "2026-11-16T11:41:06Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 伦敦塔 / Tower of London

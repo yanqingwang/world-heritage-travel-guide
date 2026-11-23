@@ -10,8 +10,8 @@
  "city_zh": "洛阳市",
  "city_en": "Luoyang",
  "name_zh": "洛阳市龙潭大峡谷景区",
- "name_en": "Luoyangshilongtandaxiagu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Longtan Grand Canyon",
+ "name_en_source": "wikipedia",
  "slug": "luoyangshilongtandaxiagu-377",
  "lat": 34.978651,
  "lon": 112.022649,
@@ -21,9 +21,13 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "龙潭大峡谷全长12公里，谷内嶂谷、隘谷呈串珠状分布，云蒸霞蔚，激流飞溅，红壁绿荫，悬崖绝壁，不同时期的流水切割、旋蚀，磨痕十分清晰，巨型崩塌岩块形成的波痕大绝壁国内外罕见。",
- "intro_en": "The Longtan Grand Canyon has a total length of 12 kilometers. The valleys and narrow valleys in the valley are distributed in a bead shape, with steaming clouds, splashing rapids, red walls and green shades, and cliffs. The water cutting and swirling erosion in different periods have very clear wear marks. The ripple-marked cliffs formed by giant collapsed rock blocks are rare at home and abroad.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Longtan Grand Canyon is a AAAAA class tourist attraction in Luoyang, Henan, China. It is located in Xin'an County which is 70 km away from Luoyang city. The U-shaped valley with a total length of 12 kilometers, covering an area of 20 square kilometers, is famous for its high mountains, quiet valleys, waterfalls, and special purplish-red quartz sandstone formed years corrosion of flowing water. It is also the core scenic spot of Wangwushan-Daimeishan UNESCO Global Geopark. Longtan Grand Canyon has many good reputations including \"First Gorge of Chinese Valleys\" since its development in 2005. It is also the only spot selected in Henan Province in the \"40 beautiful places to visit in China\" by CNN. The peak season is from March to October.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -60,7 +64,7 @@
     "lon": 111.641236,
     "type": "medium_airport",
     "distance_km": 132.9,
-    "name_zh": "临汾乔李机场"
+    "name_zh": "臨汾喬李機場"
    }
   ],
   "nearest_airport_km": 42.5,
@@ -109,10 +113,11 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -131,7 +136,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -141,13 +146,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/洛阳龙潭大峡谷"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

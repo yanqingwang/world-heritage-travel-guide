@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Zunyi City"
 lat: 28.542853
 lon: 105.739586
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 遵义市赤水市赤水丹霞旅游区 / Chishuidanxiadimao Tourist Area

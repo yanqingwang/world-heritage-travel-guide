@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "山东地下大峡谷是一座风貌奇特的溶洞王国，沂蒙地下奇观核心景区。峡谷洞体长度6100米，目前开发3100米，由巨大的喀斯特裂隙发育而成，是中国著名特大型溶洞之一。",
  "intro_en": "Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic spot of Yimeng underground wonders. The length of the canyon cave is 6,100 meters, of which 3,100 meters are currently under development. It is developed from huge karst fissures and is one of the famous extra-large karst caves in China.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 119.324403,
     "type": "medium_airport",
     "distance_km": 85.6,
-    "name_zh": "日照机场"
+    "name_zh": "日照機場"
    },
    {
     "name": "Weifang Nanyuan Airport",
@@ -141,7 +145,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 4,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -184,9 +188,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

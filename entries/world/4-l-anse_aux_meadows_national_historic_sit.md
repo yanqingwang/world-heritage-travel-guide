@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vi)"
 lat: 51.595266666
 lon: -55.531222222
-updated_at: "2026-11-16T11:41:03Z"
+updated_at: "2026-11-23T13:00:49Z"
 ---
 
 # 拉安斯欧克斯梅多国家历史遗址 / L’Anse aux Meadows National Historic Site

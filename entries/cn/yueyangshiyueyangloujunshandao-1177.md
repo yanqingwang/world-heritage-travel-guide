@@ -2,7 +2,7 @@
 id: "cn-1177"
 dataset: "china_5a"
 name_zh: "岳阳市岳阳楼-君山岛景区"
-name_en: "Yueyang Tower"
+name_en: "Yueyanglou Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Yueyang City"
 lat: 29.383944
 lon: 113.101191
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 岳阳市岳阳楼-君山岛景区 / Yueyang Tower
+# 岳阳市岳阳楼-君山岛景区 / Yueyanglou Scenic Area
 
 > 湖南省 · 岳阳市 · 古镇村落
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Yueyang Tower (simplified Chinese: 岳阳楼; traditional Chinese: 岳陽樓; pinyin: Yuèyáng Lóu) is an ancient Chinese pavilion in Yueyang, Hunan Province, on the shore of Lake Dongting. Alongside the Pavilion of Prince Teng and Yellow Crane Tower, it is one of the Three Great Towers of Jiangnan. Yueyang Tower became famous for Memorial to Yueyang Tower (岳阳楼记) written by Fan Zhongyan, an eminent scholar and statesman of the Northern Song dynasty (960–1127) in China. Located on the city wall of the west gate of the ancient city in Yueyang city, Hunan province, China, Yueyang Tower faces Junshan Island and overlooks Dongting Lake, being exquisite and imposing. Since ancient times, it has enjoyed the good reputation that Dongting Lake is the best among lakes, and Yueyang Tower is incomparable among towers. Yueyang Tower with yellow tiles and overhanging eaves set the green forest off (黄瓦飞檐). Its roof covered with yellow glazed tiles (黄色琉璃瓦) has a smooth curve, precipitous yet warped, just like a general's helmet in ancient China. It is the only ancient building with a helmet roof structure in China.
+The Yueyang Tower is located on the west gate wall of the ancient city of Yueyang City, Hunan Province. It overlooks the Dongting below and Junshan in front. It has the reputation of "water is in the world in Dongting, and the tower is in the sky in Yueyang". Junshan Island, known as Dongting Mountain, Xiang Mountain, and Youyuan Mountain in ancient times, is a small island in the 800-mile Dongting Lake, far opposite the Yueyang Tower, a famous tower through the ages.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -52,7 +54,7 @@ Yueyang Tower (simplified Chinese: 岳阳楼; traditional Chinese: 岳陽樓; pi
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 

@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "八达岭长城位于北京市延庆区军都山关沟古道北口，是中国古代伟大的防御工程万里长城的重要组成部分，是明长城的一个隘口。八达岭长城为居庸关的重要前哨，古称\"居庸之险不在关而在八达岭\"。\n慕田峪长城由明初大将徐达在北齐长城遗址上督建而成，是明朝万里长城的精华所在。此段长城东连古北口，西接居庸关，自古以来就是拱卫京畿的军事要冲。慕田峪长城墙体保持完整，较好地体现了长城古韵。",
  "intro_en": "The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644). To aid in defense, the Great Wall utilized watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and its status as a transportation corridor. Other purposes of the Great Wall have included border controls (allowing control of immigration and emigration, and the imposition of duties on goods transported along the Silk Road), and the regulation of trade. The collective fortifications constituting the Great Wall stretch from Liaodong in the east to Lop Lake in the west, and from the present-day Sino-Russian border in the north to Tao River in the south: an arc that roughly delineates the edge of the Mongolian steppe, spanning 21,196.18 km (13,170.70 mi) in total. It is a UNESCO World Heritage Site, a",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 61.2,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Zhangjiakou Ningyuan Airport",
@@ -162,7 +166,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 35,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -206,9 +210,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

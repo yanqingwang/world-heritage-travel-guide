@@ -2,7 +2,7 @@
 id: "cn-416"
 dataset: "china_5a"
 name_zh: "连云港市花果山景区"
-name_en: "Lianyungang Huaguoshan International Airport"
+name_en: "Huaguoshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.65221
 lon: 119.27006
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 连云港市花果山景区 / Lianyungang Huaguoshan International Airport
+# 连云港市花果山景区 / Huaguoshan Scenic Area
 
 > 江苏省 · 连云港市 · 山地风光
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Lianyungang Huaguoshan International Airport (IATA: LYG, ICAO: ZSLG) is an airport serving the city of Lianyungang in East China's Jiangsu province. Opened on 2 December 2021, it is Lianyungang's main airport, with the existing dual-use Lianyungang Baitabu Airport becoming a dedicated military air base. Huaguoshan Airport is located in Xiaoyi Town, Guanyun County, about 21.5 kilometres (13.4 mi) from the city center of Lianyungang. It is named after Mount Huaguo (Huaguoshan), a major tourist attraction in Lianyungang. The airport has a runway that is 2,800 metres (9,200 ft) long and 45 metres (148 ft) wide (class 4D). It is projected to handle 2.5 million passengers and 20,000 tons of cargo after completion. The passenger movements of the Airport in 2023 were 1,447,802, making it the 87th busiest airport in China.
+Huaguo Mountain is world-famous as the "Hometown of Sun Dasheng" described in the classic "Journey to the West". It is also well-known at home and abroad for the myth of the Monkey King. The natural landscape of Huaguo Mountain presents a magnificent scenery of mountains and seas, ruggedness and openness. In the mountains, there are towering ancient trees, gurgling water, fragrant flowers and fruits, frolicking macaques, strange peaks and caves, strange rocks and sea of ​​clouds, and beautiful scenery. The main attractions include Ashoka Tower, Water Curtain Cave, Sanyuan Palace, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,10 @@ Lianyungang Huaguoshan International Airport (IATA: LYG, ICAO: ZSLG) is an airpo
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/連雲港花果山國際機場)
+- [Wikipedia](https://zh.wikipedia.org/wiki/花果山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

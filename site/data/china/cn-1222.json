@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "金佛山景区因喀斯特世界自然遗产、生物多样性、佛教文化三大奇观闻名于世。景区具有原始独特的自然风貌，雄险怪奇的岩体造型，神秘幽深的洞宫地府，变幻莫测的气象景观，惊险刺激的绝壁栈道，历史悠久的唐寺庙群，融山、水、林、泉、洞为一体，集雄、奇、险、秀于一身。",
  "intro_en": "Jinfo Shan (Golden Buddha Mountain, Jinfoshan, Chin Shan, Jinfushan, Chin fu shan, chin fo shan, Chinese: 金佛山), the highest peak of Dalou Mountains, located in the upper reach of the Yangtze River, is situated in Nanchuan District, the Municipality of Chongqing. Jinfo Shan is an isolated mountain with cliffs up to 300 m surrounding its relatively flat top. Its major vegetation types include subtropical broadleaf forest, coniferous forests and subalpine meadow. Besides typical karst topography of gorges, stone forests and cave systems, Jinfo Shan is well known for its exceptional plant diversity of 4768 seed plants. The area may also be home to some of the few naturally occurring populations of Ginkgo biloba. It is also a refuge to endangered animals confined to karst regions such as Francois' Langur (Trachypithecus francoisi). With its outstanding karst features and superb biodiversity, Jinfo Shan was listed as a tentative World Heritage Site in 2001, and in 2014, the site was added as an extension to the South China Karst World Heritage Site.",
  "intro_en_source": "wikipedia",
@@ -60,7 +64,7 @@
     "lon": 106.435416,
     "type": "medium_airport",
     "distance_km": 148.5,
-    "name_zh": "仁怀茅台机场"
+    "name_zh": "仁懷茅台機場"
    }
   ],
   "nearest_airport_km": 66.1,
@@ -108,7 +112,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 1,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -152,9 +156,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

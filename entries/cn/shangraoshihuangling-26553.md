@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.324639
 lon: 118.126786
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 上饶市篁岭景区 / Huangling, Wuyuan County

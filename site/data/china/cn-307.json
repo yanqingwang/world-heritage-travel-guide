@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "神农溪位于长江三峡西陵峡与巫峡之间，因发源于原始森林神农架南坡而得名。两岸群山耸立、逶迤绵延、层峦叠障，以雄、秀、险、奇不同风格形成了龙昌、鹦鹉、绵竹、神农四个各具特色的峡谷。峡中深潭碧水、飞瀑遍布、悬棺栈道、原始扁舟、土家风情、石笋溶洞无不令人惊叹。",
  "intro_en": "Shennong Stream (Chinese: 神农溪; pinyin: Shénnóng Xī) is a left tributary of the Yangtze River, located in the Hubei Province of central China. Fed by tributaries some of which come from the Shennongjia Forestry District, the stream flows south, falling into the Yangtze opposite the County of Badong. Originally the Shennong Stream watercourse consisted of a wild river traversing a tortuous alignment flanked by almost vertical limestone cliffs; however, since the beginning of the construction of the Three Gorges Dam downstream on the Yangtze, the water level has risen approximately 155 metres at the mouth of Shennong Stream (Jin, 2006). The lower reaches of the Shennong Stream are presently a torpidly flowing river, most of whose previously scenic vertical gorge is now submerged. By the completion of the dam construction in 2009, a further 20 metres of gorge will be inundated. Measuring a length of 60 kilometers, the Shennong Stream flows through three gorges with different charming scenery. The three gorges are Mianzhu Gorge, Parrot Gorge and Longcangdong Gorge.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 110.34,
     "type": "medium_airport",
     "distance_km": 40.4,
-    "name_zh": "神农架红坪机场"
+    "name_zh": "神農架紅坪機場"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

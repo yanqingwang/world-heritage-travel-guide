@@ -10,7 +10,7 @@
  "city_zh": "伊犁哈萨克自治州",
  "city_en": "Ili Kazakh Autonomous Prefecture",
  "name_zh": "伊犁哈萨克自治州那拉提旅游风景区",
- "name_en": "Yilihasakezizhizhounalatilvyoufeng Scenic Area",
+ "name_en": "Nalaticaoyuan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "yilihasakezizhizhounalatilvyou-349",
  "lat": 43.325552,
@@ -21,6 +21,10 @@
  "category": "desert",
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "伊犁那拉提旅游风景区地处天山腹地，景区自南向北由高山草原观光区、哈萨克民俗风情区、旅游生活区组成，拥有夏牧场、柯孜拉霞瀑布、望天洞等著名景点。它以独特的自然景观、悠久的历史文化和浓郁的民族风情构成了独具特色的边塞风光。",
  "intro_en": "Ili Nalati Tourist Scenic Area is located in the hinterland of the Tianshan Mountains. From south to north, the scenic area consists of an alpine grassland tourist area, a Kazakh folk customs area, and a tourist life area. It has famous attractions such as Summer Ranch, Kezilashia Waterfall, and Wangtian Cave. It forms a unique frontier fortress scenery with its unique natural landscape, long history and culture and rich ethnic customs.",
  "intro_en_source": "machine_translation",
@@ -95,9 +99,10 @@
  "info_languages": {
   "zh": true,
   "en": false,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -126,13 +131,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/那拉提草原"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Dazu County"
 lat: 29.718162
 lon: 105.717461
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 大足石刻景区 / Dazu Rock Carvings

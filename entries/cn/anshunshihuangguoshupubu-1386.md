@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Anshun City"
 lat: 25.985778
 lon: 105.679142
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 安顺市黄果树瀑布景区 / Huangguoshu Waterfall

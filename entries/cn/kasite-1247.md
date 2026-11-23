@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Wulong County"
 lat: 29.460274
 lon: 107.74164
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 喀斯特旅游区 / Wulong Karst

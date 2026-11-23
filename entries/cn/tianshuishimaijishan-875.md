@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Tianshui City"
 lat: 34.371083
 lon: 106.008607
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 天水市麦积山景区 / Maijishan Grottoes
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Maiji Mountain Scenic Area is rich in natural resources and beautiful scenery, forming its own unique landscape. The cultural landscape includes the Maijishan Grottoes, one of the four major grottoes in China, and the Immortal Cliff. Maijishan is a famous art treasure house, and the Immortal Cliff is a place where Buddhism, Taoism and Confucianism coexist.
-
-*English introduction: machine translation.*
+The Maijishan Grottoes (simplified Chinese: 麦积山石窟; traditional Chinese: 麥積山石窟; pinyin: Màijīshān Shíkū), formerly romanized as Maichishan, are a series of 194 rock-cut caves cut into the Maijishan hill in Tianshui, Gansu Province, northwest China. They contain over 7,200 Buddhist sculptures and over 1,000 square meters of murals. The name Maijishan consists of three Chinese words (麦积山): mai (麦) is the generic term for most grains, ji (积) means "stack" or "mound", and shan (山) means "mountain". Maijishan is often translated as "wheatstack mountain" or "corn rick mountain". The mountain is formed of purplish red sandstone. Construction of the grottoes began in the Later Qin era (384–417 CE). A team of Chinese archeologists from Beijing conducted the first modern exploration in 1952–53. They devised the numbering system still in use today. Caves #1–50 are on the western cliff face, while caves #51–191 on the eastern cliff face. The grottoes were later photographed by Michael Sullivan and Dominique Darbois, who subsequently published the primary English-language work on the caves noted in the footnotes below. The Maijishan Grottoes are just one of the string of Buddhist grottoes that c
 
 ## 交通 / Transport
 

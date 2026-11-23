@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "鸡公山景区位于河南省信阳市境内，桐柏山以东，大别山最西端，被誉为避暑胜地。鸡公山是国家级自然保护区，区内森林茂密、生物资源丰富，“佛光、云海、雾凇、雨淞、霞光、异国花草、奇峰怪石、瀑布流泉”被称为八大自然景观。",
  "intro_en": "Mount Jigong (simplified Chinese: 鸡公山; traditional Chinese: 雞公山; pinyin: Jīgōng Shān) is a mountain in Shihe District, Xinyang, Henan Province, China, located near the border with Hubei Province to the south. The name, which means Rooster Mountain or Cockerel Mountain, is derived from its shape. It used to be a summer retreat for Western missionaries and, later, for Communist officials. From 1898 to 1936, over 300 villas of various styles were built on the mountain by foreign missionaries of different countries, and the area became a famed summer resort. It is 38 km from downtown Xinyang.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 116.8,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Xiangyang Liuji Airport",
@@ -140,9 +144,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "蜈支洲岛坐落在三亚市北部的海棠湾内，是海南岛周围为数不多的有淡水资源和丰富植被的小岛，岛上有两千多种植物。蜈支洲岛是世界上为数不多的没有礁石或者鹅卵石混杂的海岛，是国内较佳潜水基地，全年温和气爽，四季怡人，是度假、休闲、避寒、冬泳、娱乐的理想去处。",
  "intro_en": "Wuzhizhou Island is located in Haitang Bay in the north of Sanya City. It is one of the few islands around Hainan Island with fresh water resources and rich vegetation. There are more than 2,000 kinds of plants on the island. Wuzhizhou Island is one of the few islands in the world without reefs or pebbles. It is a good diving base in China. It has mild and cool air all year round and is pleasant all year round. It is an ideal place for vacation, leisure, cold shelter, winter swimming and entertainment.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 109.412003,
     "type": "large_airport",
     "distance_km": 42.8,
-    "name_zh": "三亚凤凰国际机场"
+    "name_zh": "三亞鳳凰國際機場"
    },
    {
     "name": "Qionghai Bo'ao Airport",
@@ -163,9 +167,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

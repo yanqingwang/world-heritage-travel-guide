@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Fengjie County"
 lat: 31.047874
 lon: 109.583808
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 白帝城•瞿塘峡景区 / Qutang Gorge

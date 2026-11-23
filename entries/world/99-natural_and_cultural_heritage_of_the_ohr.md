@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(iv)(vii)"
 lat: 40.900702777
 lon: 20.664016666
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 奥赫里德地区自然与文化遗产 / Natural and Cultural Heritage of the Ohrid region

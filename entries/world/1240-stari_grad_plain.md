@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)(v)"
 lat: 43.181666666
 lon: 16.638611111
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 斯塔里格勒平原 / Stari Grad Plain

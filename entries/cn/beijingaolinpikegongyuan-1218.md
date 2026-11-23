@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Zhaoyang District"
 lat: 39.999245
 lon: 116.399206
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 北京奥林匹克公园 / Aolinpike Gongyuan (Olympic Park) station

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 10.64191
 lon: 122.23549
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 菲律宾的巴洛克教堂 / Baroque Churches of the Philippines

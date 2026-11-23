@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.85245
 lon: 121.12379
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 台州市台州府城文化旅游区 / Walled City of Taizhou Fu

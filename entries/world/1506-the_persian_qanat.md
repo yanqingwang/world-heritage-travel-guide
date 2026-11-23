@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(iv)"
 lat: 34.29
 lon: 58.654444444
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 波斯坎儿井 / The Persian Qanat

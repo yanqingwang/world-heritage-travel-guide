@@ -2,7 +2,7 @@
 id: "cn-442"
 dataset: "china_5a"
 name_zh: "郑州市嵩山少林景区"
-name_en: "Mount Song"
+name_en: "Shaolin Monastery"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Zhengzhou"
 lat: 34.520888
 lon: 112.962116
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 郑州市嵩山少林景区 / Mount Song
+# 郑州市嵩山少林景区 / Shaolin Monastery
 
 > 河南省 · 郑州市 · 山地风光
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Mount Song (Chinese: 嵩山; pinyin: Sōngshān, "lofty mountain") is an isolated mountain range in north central China's Henan Province, along the southern bank of the Yellow River. It is known in literary and folk tradition as the central mountain of the Five Great Mountains of China. Since at least as early as the early 1st millennium BC, Chinese astronomical mythology had acquired the idea that Mount Song is "the centre of Heaven and Earth." It was respected as such by the successive dynasties of the Chinese Empire. The name Songshan also applies to a peak of the range located at 34°30′38″N 112°56′05″E, elevation 1,492 m (4,895 ft). It is the 4th highest peak, but second in prominence at 869 m (2,851 ft). Songshan National Scenic Spot is named after it. The highest peak in the range is Lian Tian Feng at 1,512 metres (4,961 ft), also most prominent at 1,221 m (4,006 ft). It is located at the coordinates shown for the article. On its upper slopes is the Sanhuangzhai Scenic Spot, further west seen from Route G1516 (Yanluo Expressway), which skirts the range on the south. The location is across the Shaoyang valley on the west side of which is Shaolin Monastery. The valley is well populat
+Shaolin Monastery (少林寺; shàolín-sì), also known as Shaolin Temple, is a Mahayana Buddhist monastic institution associated with the development of Chan Buddhism and Shaolin kung fu. It is located at the foot of Wuru Peak of the Mount Song mountain range in Dengfeng, Zhengzhou prefecture, in Henan, China. The name reflects its location in the ancient grove (林; lín) of Mount Shaoshi, in the hinterland of the Mount Song range. Mount Song occupied was recognized as one of China's sacred mountains as early as the 1st century BC, when it was proclaimed one of the Five Holy Peaks. It is located some 48 km (30 mi) southeast of Luoyang, the former capital of the Northern Wei Dynasty (386–534), and 72 km (45 mi) southwest of Zhengzhou, the modern capital of Henan Province. The first Shaolin abbot, Batuo, translated Buddhist texts and taught Buddhist doctrines to hundreds of his followers. According to legend, Bodhidharma, the 28th patriarch of Mahayana Buddhism, arrived at the Shaolin Temple in 527 from India. He spent nine years meditating in a cave of the Wuru Peak and initiated the Chan tradition at the Shaolin Temple. Thereafter, Bodhidharma was honored as the first patriarch of Chan Budd
 
 ## 交通 / Transport
 
@@ -56,5 +56,5 @@ Mount Song (Chinese: 嵩山; pinyin: Sōngshān, "lofty mountain") is an isolate
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/嵩山)
+- [Wikipedia](https://zh.wikipedia.org/wiki/少林寺)
 - [OpenStreetMap](https://www.openstreetmap.org/)

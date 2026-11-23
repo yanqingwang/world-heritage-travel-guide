@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(viii)(x)"
 lat: 3.051305555
 lon: 36.503666666
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 图尔卡纳湖国家公园 / Lake Turkana National Parks

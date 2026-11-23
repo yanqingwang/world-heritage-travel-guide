@@ -77,7 +77,8 @@
     "lat": 46.894246,
     "lon": 75.004533,
     "type": "medium_airport",
-    "distance_km": 227.3
+    "distance_km": 227.3,
+    "name_zh": "巴爾喀什機場"
    },
    {
     "name": "Manas International Airport",
@@ -98,7 +99,8 @@
     "lat": 42.8536,
     "lon": 71.303596,
     "type": "large_airport",
-    "distance_km": 313.1
+    "distance_km": 313.1,
+    "name_zh": "塔拉茲機場"
    }
   ],
   "nearest_airport_km": 227.3,
@@ -179,5 +181,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-16T11:41:13Z"
+ "updated_at": "2026-11-23T13:00:56Z"
 }

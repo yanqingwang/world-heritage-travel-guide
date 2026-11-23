@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chizhou"
 lat: 30.483187
 lon: 117.806842
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 池州市九华山风景区 / Mount Jiuhua

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)(v)"
 lat: 60.604722222
 lon: 15.630833333
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 法伦的大铜山采矿区 / Mining Area of the Great Copper Mountain in Falun

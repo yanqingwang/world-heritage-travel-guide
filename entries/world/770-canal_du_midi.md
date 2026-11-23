@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.61111111
 lon: 1.41833333
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 米迪运河 / Canal du Midi

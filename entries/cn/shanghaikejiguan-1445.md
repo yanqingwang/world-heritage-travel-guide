@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.224806
 lon: 121.551321
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 上海科技馆 / Shanghai Science and Technology Museum

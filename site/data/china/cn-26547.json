@@ -21,6 +21,10 @@
  "category": "grotto",
  "category_zh": "石窟艺术",
  "category_en": "Grotto art",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "晋祠天龙山景区位于太原西南部，占地面积3.86平方公里，北魏郦道元的《水经注》记载：“于晋川之中，最为胜处”，可见早在1500年前已是闻名遐迩的旅游胜地。晋祠是我国现存最早、规模最大、跨越时间最悠久的唐宋古典园林；晋祠的古建筑时代序列完整、建筑类型齐全，是唯一集宋、金、元、明、清古建筑精华为一体的建筑群，被誉为中国古建筑博物馆；现存有古建筑136座，彩塑219尊，铸造艺术品33件，楹联匾额265幅，石窟29座，造像506尊，碑碣457通，馆藏文物10036件。",
  "intro_en": "The Jinci or Jin Temple (晉祠) is the most prominent temple complex in Shanxi, China. It is located 16 miles (25 km) southwest of Taiyuan at the foot of Xuanweng Mountain at the Jin Springs. It was founded about 1,400 years ago and expanded during the following centuries, resulting in a diverse collection of more than 100 sculptures, buildings, terraces, and bridges. The best known structure at Jinci is the Hall of the Holy Mother (圣母殿, Shèngmǔdiàn), which was constructed from 1023 to 1032 during the Song dynasty. It has carved wooden dragons coiled around the eight pillars that support its upward-curving double-eave roof. Inside the Hall of the Holy Mother are 43 Song-dynasty clay sculptures, including a seated central goddess and 42 life-sized female attendants arranged in realistic poses. The complex includes a classical garden with a 3,000-year-old cypress dating from the Zhou Dynasty. To the west of Hall of the Holy Mother is a temple dedicated to the deity Shuimu. Next to Jinci is the Wang Family Hall, a private villa built in 1532 for Wang Qiong, a high-ranking official during the Ming Dynasty.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 112.627998,
     "type": "large_airport",
     "distance_km": 16.4,
-    "name_zh": "太原武宿国际机场"
+    "name_zh": "太原武宿國際機場"
    },
    {
     "name": "Xinzhou Wutaishan Airport",
@@ -49,7 +53,7 @@
     "lon": 112.969173,
     "type": "small_airport",
     "distance_km": 109.1,
-    "name_zh": "五台山机场"
+    "name_zh": "五台山機場"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -60,7 +64,7 @@
     "lon": 111.142778,
     "type": "medium_airport",
     "distance_km": 115.0,
-    "name_zh": "吕梁机场"
+    "name_zh": "呂梁機場"
    }
   ],
   "nearest_airport_km": 16.4,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

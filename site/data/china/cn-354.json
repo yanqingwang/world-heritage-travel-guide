@@ -10,8 +10,8 @@
  "city_zh": "吐鲁番地区",
  "city_en": "Tulufan Prefecture",
  "name_zh": "吐鲁番市葡萄沟风景区",
- "name_en": "Tulufanshiputaogoufeng Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Grape Valley",
+ "name_en_source": "wikipedia",
  "slug": "tulufanshiputaogou-354",
  "lat": 43.005375,
  "lon": 89.249626,
@@ -21,9 +21,13 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "吐鲁番市葡萄沟风景区位于火焰山中，是火焰山下的一处峡谷。沟内有布依鲁克河流过，主要水源为高山融雪，因盛产葡萄而得名，是新疆吐鲁番地区的旅游胜地。2007年被国家旅游局批准为国家AAAAA级旅游景区。",
- "intro_en": "The Grape Valley Scenic Area in Turpan City is located in the Flame Mountain and is a canyon under the Flame Mountain. The Buyiruk River flows through the ditch. Its main water source is melted snow from the mountains. It is named after its abundant grapes and is a tourist attraction in Turpan, Xinjiang. In 2007, it was approved by the National Tourism Administration as a national AAAAA tourist attraction.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Grape Valley (Chinese: 葡萄沟; pinyin: Pútáogōu) is an area of arid land in Turpan, Xinjiang, China, where grapes and other fruits are grown. The valley is 8 km long, 600-2,000 meters wide, and is located some 10 km east of Turpan's city center. Turpan has a historically long tradition of growing grape and other fruits, using the karez underground irrigation system. It is famous for growing the seedless white grape, the manaizi (Chinese: 马奶子; pinyin: mǎnǎizi, mare's nipple) grape. Raisins and other dried fruits are also sold at the Grape Valley tourists' area. Grape and raisin production in Turpan accounts for over eighty percent of China's total, making China the world's third-largest producer of raisins and the world's largest producer of green raisins.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -38,7 +42,7 @@
     "lon": 89.0987,
     "type": "medium_airport",
     "distance_km": 12.6,
-    "name_zh": "吐鲁番交河机场"
+    "name_zh": "吐魯番交河機場"
    },
    {
     "name": "Qitai Jiangbulake Airport",
@@ -155,10 +159,11 @@
  "hotels_nearby_30km": 12,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -177,7 +182,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -187,13 +192,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/葡萄沟"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

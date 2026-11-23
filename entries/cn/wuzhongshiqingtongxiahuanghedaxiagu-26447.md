@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Wuzhong City"
 lat: 37.895592
 lon: 106.006717
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 吴忠市青铜峡黄河大峡谷旅游区 / Enshi Grand Canyon

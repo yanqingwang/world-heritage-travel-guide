@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Fuling District"
 lat: 29.495731
 lon: 107.585789
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 武陵山大裂谷景区 / Wuling Mountains

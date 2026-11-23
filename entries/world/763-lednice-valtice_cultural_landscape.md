@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)"
 lat: 48.7758
 lon: 16.775
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 莱德尼采－瓦尔季采文化景观 / Lednice-Valtice Cultural Landscape

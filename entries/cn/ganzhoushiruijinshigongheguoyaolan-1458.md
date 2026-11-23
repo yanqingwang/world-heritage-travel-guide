@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.88996
 lon: 116.018882
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 赣州市瑞金市共和国摇篮景区 / Chinese Soviet Republic

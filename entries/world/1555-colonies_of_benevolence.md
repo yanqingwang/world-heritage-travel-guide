@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 53.042222
 lon: 6.391589
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 慈善定居点 / Colonies of Benevolence

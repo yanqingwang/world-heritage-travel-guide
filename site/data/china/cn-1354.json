@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "毕节市百里杜鹃景区主要景点有杜鹃林带、百里杜鹃大草原、米底河、杜鹃花王、千年一吻、黄家坝阻击战遗址等。该景区拥有迄今为止中国已查明的面积最大的原生杜鹃林，素有“杜鹃王国”的称号。",
  "intro_en": "The main attractions of Baili Azalea Scenic Area in Bijie City include Rhododendron Forest Belt, Baili Rhododendron Prairie, Midi River, Rhododendron King, Millennium Kiss, Huangjiaba Blockade Battle Site, etc. This scenic spot has the largest native rhododendron forest identified in China so far, and is known as the \"Rhododendron Kingdom\".",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 105.472097,
     "type": "medium_airport",
     "distance_km": 45.9,
-    "name_zh": "毕节飞雄机场"
+    "name_zh": "畢節飛雄機場"
    },
    {
     "name": "Zunyi Maotai Airport",
@@ -49,7 +53,7 @@
     "lon": 106.435416,
     "type": "medium_airport",
     "distance_km": 97.2,
-    "name_zh": "仁怀茅台机场"
+    "name_zh": "仁懷茅台機場"
    },
    {
     "name": "Anshun Huangguoshu Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 5,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -195,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

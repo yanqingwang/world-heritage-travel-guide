@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(i)(iv)"
 lat: 44.994386111
 lon: -75.765125
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 丽都运河 / Rideau Canal

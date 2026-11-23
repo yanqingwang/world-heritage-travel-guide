@@ -21,6 +21,10 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "互助土族故土园景区是以“土族文化”为主题，集游览观光、休闲度假、民俗体验、宗教朝觐为一体的综合性旅游景区，是国内外游客集中了解土族民俗文化的首选之地。",
  "intro_en": "The Huzhu Tu Nationality Hometown Park Scenic Area is a comprehensive tourist attraction with the theme of \"Tu Nationality Culture\" and integrates sightseeing, leisure vacations, folk experience, and religious pilgrimage. It is the first choice for domestic and foreign tourists to learn about Tu Nationality folk culture.",
  "intro_en_source": "machine_translation",
@@ -171,7 +175,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 23,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -214,9 +218,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "丽江市",
  "city_en": "Lijiang",
  "name_zh": "丽江市玉龙雪山景区",
- "name_en": "Jade Dragon Snow Mountain",
- "name_en_source": "wikipedia",
+ "name_en": "Yulongxueshan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "lijiangshiyulongxueshan-552",
  "lat": 27.140138,
  "lon": 100.210479,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "玉龙雪山由十三峰组成，由北向南呈纵向排列，延绵近50公里，东西宽约13公里。玉龙雪山不仅气势磅礴，而且秀丽挺拔，造型玲珑，皎洁如晶莹的玉石，灿烂如十三把利剑，在碧蓝天幕的映衬下，像一条银色的玉龙在作永恒的飞舞，故名玉龙山。",
- "intro_en": "Jade Dragon Snow Mountain (simplified Chinese: 玉龙雪山; traditional Chinese: 玉龍雪山; pinyin: Yùlóng Xuěshān; Naxi: Jingv'lv or Ngv'lv bbei jjuq) is a mountain massif or small mountain range in Yulong Naxi Autonomous County, Lijiang, in Yunnan province, China. Its highest peak is named Shanzidou or Shan-Tzu-tou (扇子陡) and it is 5,596 m (18,360 ft) above sea level.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Jade Dragon Snow Mountain is composed of thirteen peaks, arranged longitudinally from north to south, stretching for nearly 50 kilometers and about 13 kilometers wide from east to west. The Jade Dragon Snow Mountain is not only majestic, but also tall and beautiful, with an exquisite shape, as bright as crystal jade, and as brilliant as thirteen sharp swords. Against the blue sky, it looks like a silver jade dragon dancing forever, hence the name Jade Dragon Mountain.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -155,11 +159,10 @@
  "hotels_nearby_30km": 105,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -178,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -196,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

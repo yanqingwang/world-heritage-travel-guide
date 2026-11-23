@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)"
 lat: 51.771111111
 lon: -10.540555555
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 斯凯利格•迈克尔岛 / Sceilg Mhichíl
@@ -64,7 +64,7 @@ Sceilg Mhichíl is an outstanding, and in many respects unique, example of an ea
 
 **visa_required**
 
-Visa required[6] National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021.[63] Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.[64]
+Visa required[6] National visa may be substituted with a valid C visa (until December 2026) or visas endorsed with BIVS issued by the United Kingdom.[63] Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.[64]
 
 *签证政策会变化，出行前请核实。*
 

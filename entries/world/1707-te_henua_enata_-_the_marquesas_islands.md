@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(vi)(vii)(ix)(x)"
 lat: -8.9
 lon: -139.6
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 人类之地——马克萨斯群岛 / Te Henua Enata – The Marquesas Islands
@@ -63,7 +63,7 @@ Situé dans l’océan Pacifique Sud, ce bien mixte en série constitue un témo
 
 - ✈ **Ua Huka Airport (UAH)** — 6.5 km
 - ✈ **Nuku Hiva Airport (NHV)** — 70.1 km
-- ✈ **Ua Pou Airport (UAP)** — 72.6 km
+- ✈ **Ua Pou Airport (UAP)** — 72.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11822.9 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

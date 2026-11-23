@@ -2,7 +2,7 @@
 id: "cn-708"
 dataset: "china_5a"
 name_zh: "深圳市南山区华侨城旅游度假区"
-name_en: "Overseas Chinese Town Enterprises"
+name_en: "Shenzhenshinanshanquhuaqiaocheng Tourist Resort"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.543555
 lon: 113.989928
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 深圳市南山区华侨城旅游度假区 / Overseas Chinese Town Enterprises
+# 深圳市南山区华侨城旅游度假区 / Shenzhenshinanshanquhuaqiaocheng Tourist Resort
 
 > 广东省 · 深圳市 · 主题乐园
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Overseas Chinese Town Enterprises Co. is a Chinese state-owned enterprise, supervised by the State-owned Assets Supervision and Administration Commission of the State Council. Overseas Chinese Town Enterprises is the parent company of publicly traded companies Overseas Chinese Town Limited (SZSE: 000069), Overseas Chinese Town (Asia) (SEHK: 3366, a subsidiary of Overseas Chinese Town Company) and Konka Group (SZSE: 000016). It is engaged in cross-sector and cross-industry operation. The company was founded on 1985 and is headquartered in Shenzhen, China. Since 1985, the company has fostered three leading major businesses in China, which are tourism and related cultural industry, real estate, hotel development, and manufacture of electronic products. As the listed subsidiary, OCT A provides a platform for capital operation of OCT group. The company is well known for its nationally famous brands, including six Happy Valley amusement parks, Konka Group, Splendid China Folk Village, Window of the World, OCT East, OCT Grand Hotel, Venice Hotel, OCT Harbour and so on.
+With the four major theme parks of Splendid China, China Folk Culture Village, Window of the World and Happy Valley as its core, OCT brings together a relatively concentrated group of cultural theme parks, cultural themed hotels and cultural and art facilities in China. It is one of the first batch of national civilized scenic tourist areas and national cultural industry demonstration parks.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -53,10 +55,10 @@ Overseas Chinese Town Enterprises Co. is a Chinese state-owned enterprise, super
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/华侨城集团)
+- [Wikipedia](https://zh.wikipedia.org/wiki/深圳市南山实验教育集团华侨城高级中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

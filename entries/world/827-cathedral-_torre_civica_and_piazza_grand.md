@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 44.64624
 lon: 10.92568
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 摩德纳的大教堂、市民塔和大广场 / Cathedral, Torre Civica and Piazza Grande, Modena

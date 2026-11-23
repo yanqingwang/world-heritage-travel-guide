@@ -10,8 +10,8 @@
  "city_zh": "衡阳市",
  "city_en": "Hengyang City",
  "name_zh": "衡阳市衡山旅游区",
- "name_en": "Hengshan Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Heng (Hunan)",
+ "name_en_source": "wikipedia",
  "slug": "hengyangshihengshan-1187",
  "lat": 27.252032,
  "lon": 112.738641,
@@ -21,9 +21,13 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "衡山风景名胜区海拔1300.2米。气候温润，处处是茂林修竹，终年翠绿，奇花异草，四时飘香，自然景色十分秀丽。",
- "intro_en": "Hengshan Scenic Area is 1,300.2 meters above sea level. The climate is mild and humid, with luxuriant forests and bamboos everywhere, green all year round, exotic flowers and plants, and fragrant fragrance all year round. The natural scenery is very beautiful.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Hengshan (Chinese: 衡山; pinyin: Héng Shān), also known as Mount Heng, is a mountain in southcentral China's Hunan Province known as the southern mountain (Chinese: 南岳; pinyin: Nányuè) of the Five Great Mountains of China. Heng Shan is a mountain range 150 kilometres (93 mi) long with 72 peaks and lies at 27°18′06″N 112°41′05″E. The Huiyan Peak is the south end of the peaks, Yuelu Mountain in Changsha City is the north end, and the Zhurong Peak is the highest at 1,300 metres (4,300 ft) above sea level. At the foot of the mountain stands the largest temple in southern China, the Grand Temple of Mount Heng (Nanyue Damiao), which is the largest group of ancient buildings in Hunan Province. Other notable sites in the area include Shangfeng Temple, Fuyan Temple, Zhusheng Temple (8th-century Buddhist monastery) and Zhurong Gong, a small stone temple.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -151,13 +155,14 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 4,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -176,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -194,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

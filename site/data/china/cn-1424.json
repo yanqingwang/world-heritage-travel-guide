@@ -21,6 +21,10 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "金山岭长城西起龙峪口，东至望京楼，全长10.5公里，有关隘5处，敌楼67座，烽燧3座。金山岭长城以视野开阔、敌楼密集、景观奇特、建筑艺术精美。军事防御体系健全、保存完好而著称。",
  "intro_en": "Jinshanling (simplified Chinese: 金山岭; traditional Chinese: 金山嶺; pinyin: Jīnshānlǐng) is a section of the Great Wall of China located in the mountainous area in Luanping County, Chengde, Hebei Province, 125 km (78 miles) northeast of Beijing. This section of the wall is connected with the Simatai section to the east. Some distance to the west lies the Mutianyu section. Jinshanling was built from 1570 CE during the Ming dynasty.",
  "intro_en_source": "wikipedia",
@@ -49,7 +53,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 119.7,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -162,7 +166,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 9,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -206,9 +210,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

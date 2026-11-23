@@ -2,7 +2,7 @@
 id: "cn-940"
 dataset: "china_5a"
 name_zh: "西安市城墙•碑林历史文化景区"
-name_en: "Xianshichengqiang•beilinlishiwenhua Scenic Area"
+name_en: "Xianshidiershiliuzhongxue Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.265569
 lon: 108.977354
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 西安市城墙•碑林历史文化景区 / Xianshichengqiang•beilinlishiwenhua Scenic Area
+# 西安市城墙•碑林历史文化景区 / Xianshidiershiliuzhongxue Scenic Area
 
 > 陕西省 · 西安市 · 历史遗址
 
@@ -58,4 +58,5 @@ Xi'an City Wall and Forest of Steles Historical and Cultural Scenic Area consist
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西安市第二十六中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

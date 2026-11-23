@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T11:30:40Z",
+ "fetched_at": "2026-11-23T12:54:44Z",
  "source": "OurAirports (public domain)",
  "count": 4007,
  "airports": [
@@ -5154,7 +5154,7 @@
   {
    "name": "Benbecula Airport",
    "iata": "BEB",
-   "city": "Balivanich",
+   "city": "Balivanich, Eilean Siar",
    "country": "GB",
    "lat": 57.481098,
    "lon": -7.36278,
@@ -5181,7 +5181,7 @@
   {
    "name": "Barra Airport",
    "iata": "BRR",
-   "city": "Eoligarry",
+   "city": "Eoligarry, Eilean Siar",
    "country": "GB",
    "lat": 57.0228,
    "lon": -7.44306,
@@ -14957,8 +14957,8 @@
    "iata": "MBX",
    "city": "Maribor",
    "country": "SI",
-   "lat": 46.4799,
-   "lon": 15.6861,
+   "lat": 46.479861,
+   "lon": 15.686131,
    "type": "medium_airport"
   },
   {
@@ -14977,7 +14977,7 @@
    "country": "CZ",
    "lat": 50.202999,
    "lon": 12.915,
-   "type": "large_airport"
+   "type": "medium_airport"
   },
   {
    "name": "Leoš Janáček Airport Ostrava",
@@ -17504,8 +17504,8 @@
    "iata": "TCB",
    "city": "Treasure Cay",
    "country": "BS",
-   "lat": 26.745300293,
-   "lon": -77.3912963867,
+   "lat": 26.7453,
+   "lon": -77.391296,
    "type": "medium_airport"
   },
   {
@@ -17630,8 +17630,8 @@
    "iata": "SML",
    "city": "Stella Maris",
    "country": "BS",
-   "lat": 23.582317,
-   "lon": -75.268621,
+   "lat": 23.58303,
+   "lon": -75.268873,
    "type": "medium_airport"
   },
   {
@@ -18080,8 +18080,8 @@
    "iata": "RUR",
    "city": "",
    "country": "PF",
-   "lat": -22.434099197387695,
-   "lon": -151.36099243164062,
+   "lat": -22.433593,
+   "lon": -151.36073,
    "type": "medium_airport"
   },
   {
@@ -18089,8 +18089,8 @@
    "iata": "TUB",
    "city": "",
    "country": "PF",
-   "lat": -23.365400314331055,
-   "lon": -149.5240020751953,
+   "lat": -23.3654,
+   "lon": -149.524002,
    "type": "medium_airport"
   },
   {
@@ -18134,8 +18134,8 @@
    "iata": "APK",
    "city": "Apataki",
    "country": "PF",
-   "lat": -15.5736,
-   "lon": -146.414993,
+   "lat": -15.57544,
+   "lon": -146.41313,
    "type": "small_airport"
   },
   {
@@ -18143,8 +18143,8 @@
    "iata": "FAV",
    "city": "",
    "country": "PF",
-   "lat": -16.054100036621094,
-   "lon": -145.65699768066406,
+   "lat": -16.054697,
+   "lon": -145.657934,
    "type": "medium_airport"
   },
   {
@@ -18161,8 +18161,8 @@
    "iata": "XMH",
    "city": "",
    "country": "PF",
-   "lat": -14.436800003051758,
-   "lon": -146.07000732421875,
+   "lat": -14.43536,
+   "lon": -146.068433,
    "type": "medium_airport"
   },
   {
@@ -18170,8 +18170,8 @@
    "iata": "GMR",
    "city": "",
    "country": "PF",
-   "lat": -23.07990074157715,
-   "lon": -134.88999938964844,
+   "lat": -23.079901,
+   "lon": -134.889999,
    "type": "medium_airport"
   },
   {
@@ -18224,8 +18224,8 @@
    "iata": "TKP",
    "city": "",
    "country": "PF",
-   "lat": -14.709500312805176,
-   "lon": -145.24600219726562,
+   "lat": -14.7095,
+   "lon": -145.246002,
    "type": "medium_airport"
   },
   {
@@ -18233,8 +18233,8 @@
    "iata": "AXR",
    "city": "",
    "country": "PF",
-   "lat": -15.248299598693848,
-   "lon": -146.61700439453125,
+   "lat": -15.2483,
+   "lon": -146.617004,
    "type": "medium_airport"
   },
   {
@@ -18242,8 +18242,8 @@
    "iata": "MVT",
    "city": "",
    "country": "PF",
-   "lat": -14.8681001663208,
-   "lon": -148.7169952392578,
+   "lat": -14.872721,
+   "lon": -148.713997,
    "type": "medium_airport"
   },
   {
@@ -18251,8 +18251,8 @@
    "iata": "AHE",
    "city": "Ahe Atoll",
    "country": "PF",
-   "lat": -14.428099632263184,
-   "lon": -146.2570037841797,
+   "lat": -14.4281,
+   "lon": -146.257004,
    "type": "medium_airport"
   },
   {
@@ -18269,8 +18269,8 @@
    "iata": "FHZ",
    "city": "Fakahina",
    "country": "PF",
-   "lat": -15.992259,
-   "lon": -140.164246,
+   "lat": -15.992087,
+   "lon": -140.164789,
    "type": "small_airport"
   },
   {
@@ -18296,8 +18296,8 @@
    "iata": "TKX",
    "city": "",
    "country": "PF",
-   "lat": -14.45580005645752,
-   "lon": -145.02499389648438,
+   "lat": -14.4558,
+   "lon": -145.024994,
    "type": "medium_airport"
   },
   {
@@ -18314,8 +18314,8 @@
    "iata": "AUQ",
    "city": "Hiva Oa Island",
    "country": "PF",
-   "lat": -9.76879024506,
-   "lon": -139.011001587,
+   "lat": -9.765939,
+   "lon": -139.009715,
    "type": "medium_airport"
   },
   {
@@ -18323,8 +18323,8 @@
    "iata": "UAP",
    "city": "Ua Pou",
    "country": "PF",
-   "lat": -9.35167,
-   "lon": -140.078003,
+   "lat": -9.347152,
+   "lon": -140.07986,
    "type": "small_airport"
   },
   {
@@ -18341,8 +18341,8 @@
    "iata": "BOB",
    "city": "Motu Mute",
    "country": "PF",
-   "lat": -16.444400787353516,
-   "lon": -151.75100708007812,
+   "lat": -16.444401,
+   "lon": -151.751007,
    "type": "medium_airport"
   },
   {
@@ -18350,8 +18350,8 @@
    "iata": "RGI",
    "city": "",
    "country": "PF",
-   "lat": -14.954299926757812,
-   "lon": -147.66099548339844,
+   "lat": -14.9543,
+   "lon": -147.660995,
    "type": "medium_airport"
   },
   {
@@ -18386,8 +18386,8 @@
    "iata": "MAU",
    "city": "",
    "country": "PF",
-   "lat": -16.42650032043457,
-   "lon": -152.24400329589844,
+   "lat": -16.4265,
+   "lon": -152.244003,
    "type": "medium_airport"
   },
   {

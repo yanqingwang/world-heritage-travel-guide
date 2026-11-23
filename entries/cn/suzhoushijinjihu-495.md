@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.31043
 lon: 120.707796
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 苏州市金鸡湖旅游区 / Jinji Lake
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Jinji Lake (Chinese: 金鸡湖; pinyin: Jīnjī Hú) is a fresh water lake located in the central part of Suzhou Industrial Park, Jiangsu, China. It occupies an area of 7.18 square kilometers (2.77 sq mi) and its average depth is about 2.5–3 meters (8 ft 2 in – 9 ft 10 in). There are two man-made islands in the lake.
+Jinji Lake (Chinese: 金鸡湖; pinyin: Jīnjī Hú) is a fresh water lake located in the central part of Suzhou Industrial Park, Jiangsu, China. It occupies an area of 7.18 square kilometers (2.77 sq mi) and its average depth is about 2.5–3 meters (8 ft 2 in – 9 ft 10 in). There are two man-made islands in the lake. The Suzhou Culture and Arts Centre, which houses the Jinji Lake Art Museum, is located prominently on the shore of the lake.
 
 ## 交通 / Transport
 

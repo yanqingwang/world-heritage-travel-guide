@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "partial",
+ "admission_note_zh": "三峡大坝免费但需预约换乘；屈原故里另收门票。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区包含三峡大坝和屈原故里两个旅游区。三峡大坝，是当今世界大的水利发电工程——三峡水电站的主体工程、三峡大坝旅游区的核心景观；屈原故里是以屈原祠、屈原衣冠冢为主要内容的屈原文化旅游园区；同时，旅游区也是巫术表演、船工号子为主要内容的非物质文化展示园区。",
  "intro_en": "The scenic area includes two tourist areas: the Three Gorges Dam and Qu Yuan's hometown. The Three Gorges Dam is the main project of the Three Gorges Hydropower Station, the world's largest hydropower project, and the core landscape of the Three Gorges Dam tourist area; Qu Yuan's hometown is the Qu Yuan Cultural Tourism Park with Qu Yuan Temple and Qu Yuan's Tomb as its main contents; at the same time, the tourist area is also an intangible cultural display park with witchcraft performances and boatman's chants as its main contents.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 110.34,
     "type": "medium_airport",
     "distance_km": 108.0,
-    "name_zh": "神农架红坪机场"
+    "name_zh": "神農架紅坪機場"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "partial",
- "admission_note_zh": "三峡大坝免费但需预约换乘；屈原故里另收门票。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-26552"
 dataset: "china_5a"
 name_zh: "淄博市周村古商城景区"
-name_en: "Ziboshizhoucungushangcheng Scenic Area"
+name_en: "Zhengzhou Shang City"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shandong"
 city_en: "Zibo"
 lat: 36.804704
 lon: 117.847544
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 淄博市周村古商城景区 / Ziboshizhoucungushangcheng Scenic Area
+# 淄博市周村古商城景区 / Zhengzhou Shang City
 
 > 山东省 · 淄博市 · 山地风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Zhoucun Ancient Mall Scenic Area is located in Zhoucun District, Zibo City, Shandong Province. It is known as the "Dry Wharf", "Jinzhou Village" and "The Hometown of Silk". The scenic area covers a total area of ​​60.5 hectares and is mainly composed of ancient streets such as Main Street, Silk Street, and Yinzi Street. There are more than 50,000 square meters of well-preserved ancient buildings from the Ming and Qing Dynasties. After hundreds of years of ups and downs, Zhoucun Ancient Mall is still well-preserved, with criss-crossed streets, numerous shops, and different architectural styles. It is hailed by experts from the China Ancient Buildings Protection Committee as "China's living museum group of ancient commercial buildings" and has high tourism value.
-
-*English introduction: machine translation.*
+The Zhengzhou Shang City (simplified Chinese: 郑州商城; traditional Chinese: 鄭州商城; pinyin: Zhèngzhōu Shāng Chéng) is an archaeological site of the Bronze Age Erligang culture in Zhengzhou, Henan, China. Studies give it four chronological phases from 1630 to 1400 BC. The excavation of the site is of great importance in understanding the history of the dynasty. It is also one of the oldest archeological sites in China. It was probably a capital of the Shang Dynasty, but of which of the several capitals was not certain.
 
 ## 交通 / Transport
 
@@ -54,10 +52,10 @@ Zhoucun Ancient Mall Scenic Area is located in Zhoucun District, Zibo City, Shan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/青年路街道 (淄博市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/郑州商城遗址)
 - [OpenStreetMap](https://www.openstreetmap.org/)

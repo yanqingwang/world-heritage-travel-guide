@@ -2,7 +2,7 @@
 id: "cn-670"
 dataset: "china_5a"
 name_zh: "龙岩市古田旅游区"
-name_en: "Longyanshigutian Tourist Area"
+name_en: "Gutianshuiku Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 25.22922
 lon: 116.830373
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 龙岩市古田旅游区 / Longyanshigutian Tourist Area
+# 龙岩市古田旅游区 / Gutianshuiku Tourist Area
 
 > 福建省 · 龙岩市 · 红色旅游
 
@@ -58,5 +58,5 @@ Gutian Tourist Area takes the exit of Gutian Tunnel to Gutian Villa as the core 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/古田会议会址)
+- [Wikipedia](https://zh.wikipedia.org/wiki/古田水库)
 - [OpenStreetMap](https://www.openstreetmap.org/)

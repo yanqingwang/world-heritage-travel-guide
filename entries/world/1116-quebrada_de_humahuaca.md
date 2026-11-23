@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iv)(v)"
 lat: -23.199861111
 lon: -65.348861111
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 塔夫拉达•德乌玛瓦卡 / Quebrada de Humahuaca

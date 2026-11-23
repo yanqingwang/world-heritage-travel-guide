@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Huangpu District"
 lat: 31.210884
 lon: 121.445075
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 中国共产党一大•二大•四大纪念馆景区 / Zhongguogongchandangyida•erda•sidajinianguan Scenic Area

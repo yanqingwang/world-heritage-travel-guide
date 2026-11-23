@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "partial",
+ "admission_note_zh": "沂山片区 2025 年起试点免票（限时/限区域）；蒙山片区仍收费。",
+ "admission_source": "人民网/央广网/中新网 2025 报道（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "沂蒙山旅游区面积148平方公里，主要由沂山风景区、云蒙景区、龟蒙景区三大景区组成，区域内自然风光秀丽，兼有泰山之雄壮、黄山之秀美、华山之险峻、雁荡山之奇绝。",
  "intro_en": "The Yimeng Mountain Tourist Area covers an area of ​​148 square kilometers and is mainly composed of three major scenic areas: Yishan Scenic Area, Yunmeng Scenic Area, and Guimeng Scenic Area. The natural scenery in the area is beautiful, including the majesty of Mount Tai, the beauty of Mount Huang, the steepness of Mount Huashan, and the wonder of Yandang Mountain.",
  "intro_en_source": "machine_translation",
@@ -60,7 +64,7 @@
     "lon": 119.324403,
     "type": "medium_airport",
     "distance_km": 122.7,
-    "name_zh": "日照机场"
+    "name_zh": "日照機場"
    }
   ],
   "nearest_airport_km": 69.1,
@@ -140,9 +144,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "partial",
- "admission_note_zh": "沂山片区 2025 年起试点免票（限时/限区域）；蒙山片区仍收费。",
- "admission_source": "人民网/央广网/中新网 2025 报道（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

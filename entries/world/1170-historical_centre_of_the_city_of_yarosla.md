@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)"
 lat: 57.623611
 lon: 39.8875
-updated_at: "2026-11-16T11:41:09Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 雅罗斯拉夫尔城的历史中心 / Historical Centre of the City of Yaroslavl

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 48.513535
 lon: 87.138377
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 阿勒泰地区喀纳斯景区 / Aleitaidiqukanasi Scenic Area
@@ -54,4 +54,5 @@ The Kanas Scenic Area in the Altay region is located in the middle section of th
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/阿勒泰—乌鲁木齐高速公路)
 - [OpenStreetMap](https://www.openstreetmap.org/)

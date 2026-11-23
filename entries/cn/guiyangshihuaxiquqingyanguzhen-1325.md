@@ -2,7 +2,7 @@
 id: "cn-1325"
 dataset: "china_5a"
 name_zh: "贵阳市花溪区青岩古镇景区"
-name_en: "Qingyan"
+name_en: "Guiyangshihuaxiquqingyanguzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guizhou"
 city_en: "Guiyang City"
 lat: 26.337982
 lon: 106.692629
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 贵阳市花溪区青岩古镇景区 / Qingyan
+# 贵阳市花溪区青岩古镇景区 / Guiyangshihuaxiquqingyanguzhen Scenic Area
 
 > 贵州省 · 贵阳市 · 红色旅游
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Qingyan (Chinese: 青岩镇) is a town in Huaxi District of Guiyang, Guizhou, China. As of the 2017 census it had a population of 30,707 and an area of 92.3-square-kilometre (35.6 sq mi). It is surrounded by Yanlou Township and Maling Township on the west, Qiantao Township on the east, and Huishui County on the south. Eleven ethnic groups, including Han, Miao, Bouyei, Dong and Zhuang, live in the town.
+Qingyan Ancient Town was built in the 10th year of Hongwu in the Ming Dynasty (1378) and was originally a military fortress. The ancient town is densely packed with ancient buildings from the Ming and Qing dynasties with exquisite designs and exquisite craftsmanship. In the town, there are scenic spots such as Qingyan Missionary Plan Site, Zhao Zhuangyuan's Mansion, Mr. Ping Gang's Former Residence, and the Red Army's Long March Operation Headquarters.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,10 @@ Qingyan (Chinese: 青岩镇) is a town in Huaxi District of Guiyang, Guizhou, Ch
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/青岩镇)
+- [Wikipedia](https://zh.wikipedia.org/wiki/花溪区各级文物保护单位列表)
 - [OpenStreetMap](https://www.openstreetmap.org/)

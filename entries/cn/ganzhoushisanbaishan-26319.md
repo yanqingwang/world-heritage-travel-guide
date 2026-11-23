@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.004505
 lon: 115.431843
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 赣州市三百山景区 / Sanbaishan Scenic Area

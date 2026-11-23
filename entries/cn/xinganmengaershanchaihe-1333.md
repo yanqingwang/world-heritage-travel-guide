@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 47.548408
 lon: 121.409598
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 兴安盟阿尔山-柴河旅游景区 / Aershanlinyeju Scenic Area

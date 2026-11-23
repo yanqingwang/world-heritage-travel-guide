@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Lingshuilizuzizhi County"
 lat: 18.895816
 lon: 109.789111
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 陵水县分界洲岛旅游区 / Boundary Island (Hainan)

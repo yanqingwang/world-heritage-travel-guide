@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)"
 lat: 49.0819
 lon: -111.617
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 阿伊斯奈皮石刻 / Writing-on-Stone / Áísínai’pi

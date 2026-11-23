@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Shaoguan"
 lat: 25.027559
 lon: 113.727658
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 韶关市仁化县丹霞山景区 / Mount Danxia

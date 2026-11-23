@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.694969
 lon: 125.476531
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 长春市净月潭景区 / Jingyuetan National Forest Park

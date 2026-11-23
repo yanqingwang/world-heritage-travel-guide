@@ -21,6 +21,10 @@
  "category": "wetland",
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "神农架是国家森林公园、国家湿地公园、国家地质公园、世界地质公园、世界自然遗产地，拥有源自地球上最完整的前寒武纪地层，燕山、喜马拉雅冰川运动造就的地质奇观，形成了以“华中屋脊”为中心，集自然奇观、科考探秘、天人和谐于一体的原生态旅游区。",
  "intro_en": "Shennongjia is a national forest park, a national wetland park, a national geological park, a world geological park, and a world natural heritage site. It has the most complete Precambrian strata on the earth, geological wonders created by the Yanshan Mountains and Himalayan glaciers, forming an original ecological tourist area with the \"Roof of Central China\" as the center, integrating natural wonders, scientific research and exploration, and harmony between nature and man.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 110.34,
     "type": "medium_airport",
     "distance_km": 37.1,
-    "name_zh": "神农架红坪机场"
+    "name_zh": "神農架紅坪機場"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -195,9 +199,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -21,9 +21,13 @@
  "category": "theme",
  "category_zh": "主题乐园",
  "category_en": "Theme park",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "厦门市园林植物园始建于1960年，坐落于厦门岛东南隅的万石山。全园占地4.93平方公里，是一个集植物物种保存、科学研究、科普教育、开发应用、生态保护、旅游服务等多功能于一体的综合性植物园。现已从世界各地引种栽培保育植物9000多种（含品种和种以下分类单位），建成棕榈植物区、多肉植物区、裸子植物区、奇趣植物区、姜目植物区、雨林世界等十几个专类园区，是全国科普教育基地、中国生物多样性保护示范基地、全国野生动植物保护及自然保护区建设工程——棕榈植物保育中心。",
- "intro_en": "Xiamen Botanical Garden (XMBG; Chinese: 厦门市园林植物园; pinyin: Xiàmén Shì yuánlín zhíwùyuán) founded in 1960, is located in the Siming District of Xiamen Island, covering an area of 493 hectares. Over 9,000 species of plants are preserved in its living collections. The garden is a member of Botanic Gardens Conservation International. It is classified as a AAAAA scenic area by the Ministry of Culture and Tourism.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Xiamen Garden and Botanical Garden was founded in 1960 and is located in Wanshi Mountain in the southeast corner of Xiamen Island. The whole garden covers an area of ​​4.93 square kilometers. It is a comprehensive botanical garden integrating plant species preservation, scientific research, science education, development and application, ecological protection, tourism services and other functions. More than 9,000 kinds of plants (including varieties and classification units below species) have been introduced, cultivated and conserved from all over the world, and more than ten special parks have been built, including palm plant area, succulent plant area, gymnosperm area, exotic plant area, ginger plant area, rainforest world, etc. It is a national popular science education base, China's biodiversity conservation demonstration base, and a national wildlife protection and nature reserve construction project - Palm Plant Conservation Center.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "https://book.xiamenbg.com/#/index",
@@ -49,7 +53,7 @@
     "lon": 118.359001,
     "type": "medium_airport",
     "distance_km": 24.7,
-    "name_zh": "金门机场"
+    "name_zh": "金門機場"
    },
    {
     "name": "Quanzhou Jinjiang International Airport",
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

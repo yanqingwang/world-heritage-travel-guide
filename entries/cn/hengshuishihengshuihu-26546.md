@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Hengshui City"
 lat: 37.610179
 lon: 115.618063
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 衡水市衡水湖旅游景区 / Hengshuihu Scenic Area

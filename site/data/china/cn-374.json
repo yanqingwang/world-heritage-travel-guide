@@ -10,8 +10,8 @@
  "city_zh": "南阳市",
  "city_en": "Nanyang",
  "name_zh": "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区",
- "name_en": "Yangchengzhen (xixiaxian) Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Funiu Mountains",
+ "name_en_source": "wikipedia",
  "slug": "nanyangshixixiakonglongyijiyuanfuniushanlaojieling-374",
  "lat": 33.234916,
  "lon": 111.691965,
@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区位于河南省南阳市西峡县，主要有老界岭和恐龙遗迹园两大主景区，是中国南阳伏牛山世界地质公园的精髓和核心，是国家级自然保护区，位于中国南北气候的分界线，是长江流域和黄河流域的分水岭，是一个集观光体验、科普科考、休闲度假于一体的综合性旅游目的地。",
  "intro_en": "The scenic spot is located in Xixia County, Nanyang City, Henan Province. It mainly has two main scenic spots, Laojie Ridge and Dinosaur Relics Park. It is the essence and core of the Funiu Mountain Global Geopark in Nanyang, China. It is a national nature reserve. It is located on the dividing line between the climate of north and south China. It is the watershed of the Yangtze River Basin and the Yellow River Basin. It is a comprehensive tourist destination integrating sightseeing experience, popular science and research, and leisure vacation.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 110.906296,
     "type": "medium_airport",
     "distance_km": 102.3,
-    "name_zh": "十堰武当山机场"
+    "name_zh": "十堰武當山機場"
    },
    {
     "name": "Xiangyang Liuji Airport",
@@ -122,10 +126,11 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -144,7 +149,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -155,16 +160,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/阳城镇 (西峡县)"
+   "url": "https://zh.wikipedia.org/wiki/伏牛山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-346"
 dataset: "china_5a"
 name_zh: "喀什地区金湖杨景区"
-name_en: "Jinhu, Kinmen"
+name_en: "Kashidiqujinhuyang Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 38.035954
 lon: 76.987903
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 喀什地区金湖杨景区 / Jinhu, Kinmen
+# 喀什地区金湖杨景区 / Kashidiqujinhuyang Scenic Area
 
 > 新疆维吾尔自治区 · 喀什地区 · 草原沙漠
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Jinhu Township (pinyin: Jīnhú Zhèn; Pe̍h-ōe-jī: Kim-ô͘-tìn; lit. 'golden lake') is an urban township of Kinmen, Fuchien, Taiwan. It is in the Taiwan Strait, on the coast of mainland China. Jinhu Township is the largest township in Kinmen County.
+Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acres, of which the natural Populus euphratica forest area reaches 20,000 acres. The scenic area has a unique natural style with its vast natural Populus euphratica forest, the open Yarkand River and the flat, deserted Gobi Desert on both sides of the river. The four-in-one natural landscape of Populus euphratica, water, oasis and Gobi presents a picture of a frontier fortress, which can be called a rare tourist attraction on the western edge of the Tarim Basin.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -47,10 +49,9 @@ Jinhu Township (pinyin: Jīnhú Zhèn; Pe̍h-ōe-jī: Kim-ô͘-tìn; lit. 'golde
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/金湖鎮)
 - [OpenStreetMap](https://www.openstreetmap.org/)

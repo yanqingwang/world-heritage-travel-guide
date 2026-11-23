@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 27.956867
 lon: 109.599454
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 湘西州凤凰古城旅游区 / Fenghuanggucheng Tourist Area

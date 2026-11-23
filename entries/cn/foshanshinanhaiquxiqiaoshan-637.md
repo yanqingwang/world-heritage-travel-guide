@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.930245
 lon: 112.983731
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 佛山市南海区西樵山景区 / Foshanshinanhaiquxiqiaoshan Scenic Area
@@ -58,5 +58,5 @@ Xiqiao Mountain is one of the four famous mountains in Guangdong. It is a China 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/佛山市南海区南海中学)
+- [Wikipedia](https://zh.wikipedia.org/wiki/佛山市南海区艺术高级中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

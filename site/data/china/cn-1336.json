@@ -10,8 +10,8 @@
  "city_zh": "黔南布依族苗族自治州",
  "city_en": "Qiannanbuyizumiaozu Autonomous Prefecture",
  "name_zh": "黔南布依族苗族自治州荔波县樟江景区",
- "name_en": "Yupingjiedao (liboxian) Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Qianxinan Buyei and Miao Autonomous Prefecture",
+ "name_en_source": "wikipedia",
  "slug": "qiannanbuyizumiaozuzizhizhouliboxianzhangjiang-1336",
  "lat": 25.425822,
  "lon": 107.892801,
@@ -21,9 +21,13 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "荔波樟江风景名胜区由大小七孔景区、水春河景区和樟江风光带组成。景区内以丰富多样的喀斯特地貌、秀丽奇特的樟江水景和繁盛茂密的原始森林、各类珍稀品种动植物为特色，集奇特的山水自然风光与当地布依族、水族、瑶族等民族特色于一身。2007年，荔波喀斯特成为“中国南方喀斯特”世界自然遗产的组成部分。",
- "intro_en": "Libo Zhangjiang Scenic Area consists of the Big and Small Qikong Scenic Area, Shuichun River Scenic Area and Zhangjiang Scenic Area. The scenic area is characterized by rich and diverse karst landforms, the beautiful and unique Zhangjiang River waterscape, prosperous and dense virgin forests, and various rare species of animals and plants. It combines the unique natural landscape of mountains and rivers with the characteristics of the local Buyi, Shui, Yao and other ethnic groups. In 2007, Libo Karst became part of the \"Southern China Karst\" World Natural Heritage.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Qianxinan Buyei and Miao Autonomous Prefecture (Chinese: 黔西南布依族苗族自治州; pinyin: Qiánxīnán Bùyīzú Miáozú Zìzhìzhōu; Buyei: Qianfxiynanf Buxqyaix Buxyeeuz Ziqziqzouy; Hmu: Qeef Xib Naif Dol Yat Dol Hmub Zid Zid Zeb) is an autonomous prefecture of Guizhou province, People's Republic of China, bordering Guangxi to the south and Yunnan to the west. The name, \"黔西南\" derives from the prefecture's southwest location in the province; \"黔\" is the official abbreviation for Guizhou, while \"西南\" means \"southwest\".",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -119,12 +123,12 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 2,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -145,7 +149,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -156,16 +160,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/玉屏街道 (荔波县)"
+   "url": "https://zh.wikipedia.org/wiki/黔西南布依族苗族自治州"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

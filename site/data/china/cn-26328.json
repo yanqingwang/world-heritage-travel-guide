@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "江布拉克景区位于天山北麓，准噶尔盆地东南缘，总面积48平方公里，是典型温带干旱区山地垂直综合景观和特有的山地麦田版画的完美结合，是新疆天山世界自然遗产地延续景观，主要景点有天山麦海、疏勒古城（石城子遗址）、麻沟梁村、天山怪坡、花海子、江布拉克大峡谷、断桥、三道扁子、新户河。",
  "intro_en": "The Jiangbulake Scenic Area is located at the northern foot of the Tianshan Mountains and the southeastern edge of the Junggar Basin, with a total area of ​​48 square kilometers. It is a perfect combination of the typical temperate arid mountainous vertical comprehensive landscape and the unique mountain wheat field prints. It is the continuation of the Xinjiang Tianshan World Natural Heritage Site. The main attractions include Tianshan Maihai, Shule Ancient City (Shichengzi ruins), Magouliang Village, Tianshan Strange Slope, Huahaizi, Jiangbulake Grand Canyon, Broken Bridge, Sandao Bianzi, and Xinhu River.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 89.0987,
     "type": "medium_airport",
     "distance_km": 86.2,
-    "name_zh": "吐鲁番交河机场"
+    "name_zh": "吐魯番交河機場"
    },
    {
     "name": "Ürümqi Tianshan International Airport",
@@ -123,9 +127,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

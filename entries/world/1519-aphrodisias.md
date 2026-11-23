@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.708333333
 lon: 28.723611111
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 阿弗罗狄西亚 / Aphrodisias

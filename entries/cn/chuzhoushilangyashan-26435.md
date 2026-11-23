@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chuzhou City"
 lat: 32.28648
 lon: 118.293741
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 滁州市琅琊山景区 / Mount Langya (Anhui)
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Mount Langya (Chinese: 琅琊山; pinyin: Lángyá shān) is a mountain located south west of Chuzhou City, Anhui Province, People's Republic of China. A National Forest Park, National Scenic Area and 5A Tourism Attraction, the mountain is one of Anhui's five biggest scenic attractions. Along with mountain scenery, rivers and forest, the area also contains the Zuiweng Pavilion, named after the Northern Song dynasty poet Ouyang Xiu (1007–1072 CE)). During the early Eastern Jin dynasty (317–420 CE), Emperor Yuan of Jin, gave the area to King Langya (琅琊王), from which it takes its name.
+Langya Mountain Scenic Area is located in the Zuiweng Pavilion area of ​​Langya Mountain Scenic Area, covering an area of ​​4.98 square kilometers. It is a rich area of ​​historical and cultural resources and ecological landscape resources of Langya Mountain. It includes five major tourism areas: Zuiweng Pavilion Cultural Theme Area, Tongyuan Study and Tourism Area, Langya Secret Area Exploration Area, Nantianmen Sightseeing Area, and Shenxiu Lake Leisure and Sports Area.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

@@ -2,7 +2,7 @@
 id: "cn-347"
 dataset: "china_5a"
 name_zh: "苏州市周庄古镇景区"
-name_en: "Zhouzhuang"
+name_en: "Suzhou"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.119926
 lon: 120.858268
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 苏州市周庄古镇景区 / Zhouzhuang
+# 苏州市周庄古镇景区 / Suzhou
 
 > 江苏省 · 苏州市 · 度假休闲
 
@@ -28,7 +28,7 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-Zhouzhuang (Chinese: 周庄; pinyin: Zhōuzhuāng; Wu: Tseu1-tsaon1) is a water town known for its canals in Jiangsu province, China. It is located within the administrative area of Kunshan, 30 km southeast of the city centre of Suzhou. Zhouzhuang is a popular tourist destination, classified as a AAAAA scenic area by the China National Tourism Administration. It is noted for its profound cultural background, well preserved ancient residential houses, and elegant watery views. A 2017 article in the Smithsonian Magazine described Zhouzhuang as "the most famous and most commercialized ancient water town in China," noting that its architecture "dates back more than 900 years, with about 60 original brick archways and 100 original courtyards." It has also been called "Venice of the East". CNN ranked Zhouzhuang the third most beautiful water town in China in 2017 and included it in its 2019 collection of Asia's 13 most picturesque towns.
+Suzhou is a prefecture-level city in Jiangsu province, Eastern China. Suzhou is a major tourist destination and industrial hub of Eastern China, specializing in high-end manufacturing. Renowned as the cradle of Wu culture, Suzhou flourished as a hub of trade, arts, and intellectual life along the Grand Canal, helping shape China's economic and cultural development for centuries. The city is internationally famous for its classical gardens, which harmonize architecture, water, rocks, and plants into poetic expressions of nature. Long admired for its silk production, refined cuisine, and lyrical Kunqu opera, Suzhou has been praised in Chinese poetry, along with Hangzhou, as "paradise on earth," a reputation that endures today as the city blends its timeless canals, whitewashed lanes, and scholarly heritage with modern industries. Suzhou is part of the Yangtze Delta megalopolis. Founded in 514 BC, Suzhou rapidly grew in size by the Eastern Han dynasty, mostly due to emigration from northern China. From the 10th century onwards, it has been an important economic, cultural, and commercial center, as well as the largest non-capital city in the world, until it was overtaken by Shanghai in
 
 ## 交通 / Transport
 
@@ -56,5 +56,5 @@ Zhouzhuang (Chinese: 周庄; pinyin: Zhōuzhuāng; Wu: Tseu1-tsaon1) is a water 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/周庄镇 (昆山市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/苏州市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

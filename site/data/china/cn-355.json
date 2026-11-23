@@ -21,6 +21,10 @@
  "category": "desert",
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "天山天池风景区以天池为中心，以完整的4个垂直自然景观带和雪山冰川、高山湖泊为主要特征，以远古瑶池西王母神话以及宗教和独特的民族民俗风情为文化内涵，融森林、草原、雪山、人文景观为一体，风光别具一格。天山天池风景区是世界自然遗产、国家5A级旅游景区、国家地质公园、国家重点风景名胜区。",
  "intro_en": "The Tianshan Tianchi Scenic Area is centered on Tianchi, with four complete vertical natural landscape zones, snow-capped mountains, glaciers, and alpine lakes as its main features. It takes the myth of the Queen Mother of the West of Yaochi in ancient times as its cultural connotation, as well as religion and unique ethnic folk customs. It integrates forests, grasslands, snow-capped mountains, and cultural landscapes, and the scenery is unique. Tianshan Tianchi Scenic Area is a world natural heritage, a national 5A tourist attraction, a national geological park, and a national key scenic spot.",
  "intro_en_source": "machine_translation",
@@ -60,7 +64,7 @@
     "lon": 89.0987,
     "type": "medium_airport",
     "distance_km": 145.6,
-    "name_zh": "吐鲁番交河机场"
+    "name_zh": "吐魯番交河機場"
    }
   ],
   "nearest_airport_km": 52.3,
@@ -163,9 +167,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

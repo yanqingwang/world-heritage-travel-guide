@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Suqian City"
 lat: 33.252125
 lon: 118.338694
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 宿迁市洪泽湖湿地景区 / Hongze Lake

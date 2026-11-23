@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Nanchang"
 lat: 28.687376
 lon: 115.887675
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 南昌市东湖区滕王阁旅游区 / Pavilion of Prince Teng

@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)(vi)"
 lat: 52.289444444
 lon: 25.649444444
-updated_at: "2026-11-16T11:41:10Z"
+updated_at: "2026-11-23T13:00:54Z"
 ---
 
 # 斯特鲁维地理探测弧线 / Struve Geodetic Arc

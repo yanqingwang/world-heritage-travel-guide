@@ -10,7 +10,7 @@
  "city_zh": "呼伦贝尔市",
  "city_en": "Hulunbuir",
  "name_zh": "呼伦贝尔市中俄边境旅游区",
- "name_en": "Hulunbeiercaoyuan Tourist Area",
+ "name_en": "Hulunbeiershizhongebianjing Tourist Area",
  "name_en_source": "pinyin",
  "slug": "hulunbeiershizhongebianjing-1350",
  "lat": 49.619437,
@@ -21,6 +21,10 @@
  "category": "resort",
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "旅游区借助满洲里得天独厚的地理环境，汇集中国红色文化、俄罗斯风情文化精粹，打造出独具北疆特色的旅游观光休闲度假基地。旅游区由国门景区和套娃景区组成，其中国门景区是满洲里市标志性旅游景区，也是重要的爱国主义教育基地。",
  "intro_en": "Taking advantage of Manzhouli's unique geographical environment, the tourist area brings together the essence of Chinese red culture and Russian style culture to create a tourism, leisure and vacation base with unique northern Xinjiang characteristics. The tourist area consists of the National Gate Scenic Area and the Matryoshka Doll Scenic Area. The Chinese Gate Scenic Area is a landmark tourist attraction in Manzhouli City and an important patriotism education base.",
  "intro_en_source": "machine_translation",
@@ -141,14 +145,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 25,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -177,17 +180,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔草原"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

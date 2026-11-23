@@ -10,7 +10,7 @@
  "city_zh": "百色市",
  "city_en": "Baise City",
  "name_zh": "百色市百色起义纪念园景区",
- "name_en": "Baiseshibaiseqiyijinianyuan Scenic Area",
+ "name_en": "Baiseshidierrenminyiyuan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "baiseshibaiseqiyijinianyuan-390",
  "lat": 23.907336,
@@ -21,6 +21,10 @@
  "category": "red",
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
+ "admission": "free",
+ "admission_note_zh": "免费开放，需预约。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "百色起义纪念馆位于广西百色市迎龙山公园内，始建于1961年。纪念馆共有七个展厅，分百色风雷、革命英杰、邓小平与百色、建设新百色四个部分，陈列革命文物和图片资料1400多件（幅）。",
  "intro_en": "The Baise Uprising Memorial Hall is located in Yinglongshan Park, Baise City, Guangxi. It was built in 1961. The memorial hall has seven exhibition halls, divided into four sections: Baise Fenglei, Revolutionary Heroes, Deng Xiaoping and Baise, and Construction of New Baise. More than 1,400 pieces of revolutionary cultural relics and pictures are displayed.",
  "intro_en_source": "machine_translation",
@@ -187,13 +191,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/百色市第二人民医院"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "free",
- "admission_note_zh": "免费开放，需预约。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

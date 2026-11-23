@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.879194444
 lon: -4.779722222
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 科尔多瓦历史中心 / Historic Centre of Cordoba

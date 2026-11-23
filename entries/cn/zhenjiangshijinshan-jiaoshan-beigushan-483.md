@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Zhenjiang"
 lat: 32.227994
 lon: 119.4198
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 镇江市金山•焦山•北固山风景区 / Jinshanjiedao (zhenjiangshi) Scenic Area

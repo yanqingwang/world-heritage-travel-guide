@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Shenyang"
 lat: 41.874927
 lon: 123.655984
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 沈阳市沈阳植物园 / Shenyang Botanical Garden

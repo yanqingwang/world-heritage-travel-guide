@@ -10,8 +10,8 @@
  "city_zh": "乐山市",
  "city_en": "Leshan",
  "name_zh": "乐山市乐山大佛景区",
- "name_en": "Leshanshileshandafu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Leshan Giant Buddha",
+ "name_en_source": "wikipedia",
  "slug": "leshanshileshandafu-309",
  "lat": 29.553048,
  "lon": 103.779852,
@@ -21,9 +21,13 @@
  "category": "historic",
  "category_zh": "历史遗址",
  "category_en": "Historic site",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "乐山大佛景区位于乐山市郊，岷江、青衣江、大渡河三江汇流处，与乐山城隔江相望。景区由凌云山、麻浩岩墓、乌尤山、巨形卧佛等组成，游览面积约8平方公里。景区集聚了乐山山水人文景观的精华，属峨眉山国家级风景区范围，是闻名遐迩的风景旅游胜地。",
- "intro_en": "Leshan Giant Buddha Scenic Area is located on the outskirts of Leshan City, at the confluence of the Minjiang River, Qingyi River and Dadu River, facing Leshan City across the river. The scenic spot consists of Lingyun Mountain, Mahoyan Tomb, Wuyou Mountain, Giant Reclining Buddha, etc. The tourist area is about 8 square kilometers. The scenic spot gathers the essence of Leshan's landscape and cultural landscape. It belongs to the Emeishan National Scenic Area and is a well-known scenic tourist attraction.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 712 and 804 AD (during the Tang dynasty). It is carved out of a cliff face of Cretaceous red bed sandstones that lies at the confluence of the Min River and Dadu River in the southern part of Sichuan Province in China, near the city of Leshan. The stone sculpture faces Mount Emei, with the rivers flowing below its feet. It is the largest and tallest stone Buddha statue in the world and it is by far the tallest pre-modern statue in the world. It is over 4 kilometers (2.5 mi) from the Wuyou Temple. The Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area, has been listed as a UNESCO World Heritage Site since 1996.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.leshandafo.com/",
  "booking": "http://www.leshandafo.com/",
@@ -59,7 +63,7 @@
     "lon": 104.526157,
     "type": "medium_airport",
     "distance_km": 105.9,
-    "name_zh": "宜宾五粮液机场"
+    "name_zh": "宜賓五糧液機場"
    }
   ],
   "nearest_airport_km": 13.1,
@@ -154,10 +158,11 @@
  "hotels_nearby_30km": 17,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -176,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -186,13 +191,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/乐山大佛"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

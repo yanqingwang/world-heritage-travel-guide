@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Shijiazhuang"
 lat: 38.345935
 lon: 113.950648
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 石家庄市西柏坡景区 / Xibaipojinianguan Scenic Area

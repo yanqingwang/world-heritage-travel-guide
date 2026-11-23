@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Baicheng City"
 lat: 45.534909
 lon: 124.301536
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 白城市大安嫩江湾旅游区 / Baichengshidaannenjiangwan Tourist Area
@@ -54,5 +54,4 @@ Nenjiang Bay Tourist Area is located in Da'an City, Jilin Province, only 1 km aw
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/长虹街道 (大安市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

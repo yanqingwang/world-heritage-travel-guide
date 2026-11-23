@@ -2,7 +2,7 @@
 id: "cn-26271"
 dataset: "china_5a"
 name_zh: "长治市太行山大峡谷八泉峡景区"
-name_en: "Longtan Grand Canyon"
+name_en: "Zhangzhishitaihangshandaxiagubaquanxia Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 长治市太行山大峡谷八泉峡景区 / Longtan Grand Canyon
+# 长治市太行山大峡谷八泉峡景区 / Zhangzhishitaihangshandaxiagubaquanxia Scenic Area
 
 > 山西省 · 长治市 · 度假休闲
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-Longtan Grand Canyon is a AAAAA class tourist attraction in Luoyang, Henan, China. It is located in Xin'an County which is 70 km away from Luoyang city. The U-shaped valley with a total length of 12 kilometers, covering an area of 20 square kilometers, is famous for its high mountains, quiet valleys, waterfalls, and special purplish-red quartz sandstone formed years corrosion of flowing water. It is also the core scenic spot of Wangwushan-Daimeishan UNESCO Global Geopark. Longtan Grand Canyon has many good reputations including "First Gorge of Chinese Valleys" since its development in 2005. It is also the only spot selected in Henan Province in the "40 beautiful places to visit in China" by CNN. The peak season is from March to October.
+Baquan Gorge is a national 5A-level tourist attraction, known as the "Taihang No. 1 Grand Canyon". It is located in the middle section of the Taihang Mountain Grand Canyon in Huguan, Changzhi, Shanxi. It covers an area of ​​24.11 square kilometers, with a minimum altitude of more than 600 meters and a maximum altitude of more than 1,400 meters. It is the most complete facility, the most beautiful route, and the most representative essence scenic spot in the canyon. Baquan Gorge integrates river canyons, dry canyons in limestone areas and stream canyons. The canyon has a humid climate, luxuriant vegetation and a superior geographical location. It has four major tourist areas: gatehouse landscape, canyon landscape, cableway landscape and trail landscape. It is an ideal place for natural sightseeing, eco-tourism and leisure vacation.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -55,5 +57,5 @@ Longtan Grand Canyon is a AAAAA class tourist attraction in Luoyang, Henan, Chin
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/洛阳龙潭大峡谷)
+- [Wikipedia](https://zh.wikipedia.org/wiki/矮寨·十八洞·德夯大峡谷景区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

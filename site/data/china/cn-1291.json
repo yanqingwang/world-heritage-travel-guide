@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "赤水丹霞旅游区由赤水大瀑布、佛光岩、燕子岩三大景区组成，区内瀑布成群、丹霞奇丽、竹林似海、桫椤繁茂、森林壮阔，是一个集山、谷、瀑、河、珍稀动植物为一体的丹霞地貌旅游区。",
  "intro_en": "Chishui Danxia Tourist Area is composed of three major scenic spots: Chishui Waterfall, Foguang Rock, and Swallow Rock. The area has clusters of waterfalls, beautiful Danxia, ​​sea-like bamboo forests, luxuriant algae, and magnificent forests. It is a Danxia landform tourist area integrating mountains, valleys, waterfalls, rivers, and rare animals and plants.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 106.435416,
     "type": "medium_airport",
     "distance_km": 93.9,
-    "name_zh": "仁怀茅台机场"
+    "name_zh": "仁懷茅台機場"
    },
    {
     "name": "Yibin Wuliangye Airport",
@@ -60,7 +64,7 @@
     "lon": 104.526157,
     "type": "medium_airport",
     "distance_km": 123.4,
-    "name_zh": "宜宾五粮液机场"
+    "name_zh": "宜賓五糧液機場"
    }
   ],
   "nearest_airport_km": 60.3,
@@ -141,7 +145,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 4,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
@@ -184,9 +188,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

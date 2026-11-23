@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iv)"
 lat: 34.839444444
 lon: 134.693611111
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 姬路城 / Himeji-jo

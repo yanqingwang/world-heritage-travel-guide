@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bayinguolengmenggu Autonomous Prefecture"
 lat: 42.769767
 lon: 84.439264
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 巴音郭楞蒙古自治州巴音布鲁克景区 / Bayanbulak Grassland National Nature Reserve

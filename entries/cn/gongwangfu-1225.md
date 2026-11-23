@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Xicheng District"
 lat: 39.942003
 lon: 116.392385
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 恭王府景区 / Prince Gong's Mansion

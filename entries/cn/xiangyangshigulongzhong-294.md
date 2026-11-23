@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Xiangyang City"
 lat: 32.0177
 lon: 112.041882
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 襄阳市古隆中景区 / Longzhong

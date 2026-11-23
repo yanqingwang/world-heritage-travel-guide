@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 18.9398
 lon: 72.8355
-updated_at: "2026-11-16T11:41:08Z"
+updated_at: "2026-11-23T13:00:53Z"
 ---
 
 # 贾特拉帕蒂•希瓦吉终点站（前维多利亚终点站） / Chhatrapati Shivaji Terminus (formerly Victoria Terminus)

@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Tongren Prefecture"
 lat: 27.846663
 lon: 108.780961
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 铜仁市江口县梵净山旅游区 / Fanjingshan

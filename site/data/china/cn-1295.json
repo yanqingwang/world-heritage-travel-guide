@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "盘山位于天津市蓟州区，始记于汉，兴于唐，极盛于清，是自然山水与名胜古迹并著，佛家文化与皇家文化共融的旅游休闲胜地。历史上众多帝王将相、文人墨客来到此地。相传清乾隆皇帝先后巡幸盘山32次，留下了大量歌咏盘山的诗作，并发出“早知有盘山，何必下江南”的感叹。",
  "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 59.6,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -152,7 +156,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 7,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -196,9 +200,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

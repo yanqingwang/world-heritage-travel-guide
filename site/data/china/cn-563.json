@@ -10,7 +10,7 @@
  "city_zh": "昆明市",
  "city_en": "Kunming",
  "name_zh": "昆明市石林风景区",
- "name_en": "Shilin Scenic Area",
+ "name_en": "Kunmingshishilinfeng Scenic Area",
  "name_en_source": "pinyin",
  "slug": "kunmingshishilin-563",
  "lat": 24.817625,
@@ -21,6 +21,10 @@
  "category": "geology",
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "景区内喀斯特地貌面积达1100多平方公里，保护区面积350平方公里，主要景点有石林风景区、乃古石林风景区、大叠水风景区、长湖风景区、圭山国家森林公园等。石林在自然景观上融雄、奇、险、秀、幽、奥、旷为一体，奇山怪石，惟妙惟肖，气势恢宏。",
  "intro_en": "The karst landform area in the scenic area reaches more than 1,100 square kilometers, and the protected area covers an area of ​​350 square kilometers. The main attractions include Stone Forest Scenic Area, Naigu Stone Forest Scenic Area, Dadieshui Scenic Area, Changhu Scenic Area, Guishan National Forest Park, etc. The stone forest integrates majestic, strange, dangerous, graceful, secluded, mysterious and vast in the natural landscape. The strange mountains and rocks are lifelike and magnificent.",
  "intro_en_source": "machine_translation",
@@ -187,17 +191,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/石林"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

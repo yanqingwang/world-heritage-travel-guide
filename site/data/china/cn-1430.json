@@ -10,7 +10,7 @@
  "city_zh": "保定市",
  "city_en": "Baoding",
  "name_zh": "保定市白石山景区",
- "name_en": "Baishishan Scenic Area",
+ "name_en": "Baodingshibaishishan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "baodingshibaishishan-1430",
  "lat": 39.242194,
@@ -21,6 +21,10 @@
  "category": "mountain",
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
+ "admission": "paid",
+ "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "白石山风景区位于河北省保定市涞源县城南15公里处，因山多白色大理石而得名。主要景点有玻璃栈道和峰林。白石山山体高大，有“三顶、六台、九谷、八十一峰”，主脊线长7000 余米，白石山主峰最高峰海拔2096米，是华北平原西北隆起之龙首。",
  "intro_en": "Baishi Mountain Scenic Area is located 15 kilometers south of Laiyuan County, Baoding City, Hebei Province. It is named after the mountains with many white marbles. The main attractions are the glass plank road and the peak forest. Baishi Mountain is a tall mountain with \"three tops, six platforms, nine valleys and eighty-one peaks\". The main ridge line is more than 7,000 meters long. The highest peak of Baishi Mountain is 2,096 meters above sea level. It is the leader of the northwest uplift of the North China Plain.",
  "intro_en_source": "machine_translation",
@@ -108,14 +112,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 1,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
+  "ja": false,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -145,16 +148,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/白石山"
+   "url": "https://zh.wikipedia.org/wiki/白石山镇 (涞源县)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "paid",
- "admission_note_zh": "进景区需购票，价格与优惠政策以景区公告为准。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:47Z"
 }

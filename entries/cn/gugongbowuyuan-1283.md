@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.924091
 lon: 116.403414
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 故宫博物院 / Gugong Museum

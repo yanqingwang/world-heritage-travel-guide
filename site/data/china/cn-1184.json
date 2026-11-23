@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "濯水景区地处乌江第一大支流——阿蓬江畔，为阿蓬江国家湿地公园的重要组成部分。景区内江河交汇，濯水古镇风华悠远，风雨廊桥跨江河、连两岸、通三地，蒲花暗河蜿蜒曲折，婀娜多姿，水上三桥犹如鬼斧神工。",
  "intro_en": "Zhuoshui Scenic Area is located on the banks of the Apeng River, the largest tributary of the Wujiang River, and is an important part of the Apeng River National Wetland Park. The rivers in the scenic area meet, and the Zhuoshui Ancient Town has a long history. The Wind and Rain Corridor Bridge spans the river, connects two banks, and connects three places. The Puhua Underwater River is winding and graceful, and the three bridges on the water are like miraculous craftsmanship.",
  "intro_en_source": "machine_translation",
@@ -108,14 +112,13 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 1,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -144,17 +147,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/濯水镇 (重庆市)"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jincheng"
 lat: 35.522279
 lon: 112.585095
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 晋城市皇城相府生态文化旅游区 / House of the Huangcheng Chancellor
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:02Z"
 
 ### English
 
-The House of the Huangcheng Chancellor, also known by its Chinese name, Huangcheng Xiangfu, is a 10-hectare (25-acre) walled estate on Phoenix Hill (Fenghuangshan) comprising Huangcheng, a village occupying a hollow above the Changhe Valley between Yangcheng and Jincheng in southeastern Shanxi, China. It is composed of numerous siheyuan-style courtyards built into the side of a hill, overlooked by defensive towers and enclosed by high crenellated walls that divide it into two sections. The fortifications were built in the seventeenth and eighteenth centuries, during the late Ming and early Qing dynasties. It has been called the "greatest cultural residence in North China". China's National Tourism Administration gave it a AAAAA rating in 2011.
+The Imperial City Prime Minister's Mansion is the former residence of Chen Tingjing, a bachelor of the Wenyuan Pavilion of the Qing Dynasty, a third-level minister of the Ministry of Civil Affairs, the chief reader of the Kangxi Dictionary, a banquet lecturer for Emperor Kangxi, and a famous prime minister of the generation, with a total area of ​​100,000 square meters. The Royal Book Building is magnificent, the Zhongdaozhuang is majestic, the Douzhu Palace is continuous, the Heshan Tower is majestic and precipitous, and the Tibetan Soldier Cave is layered with wonders. It is a rare castle-style official residence and residential complex from the Ming and Qing dynasties.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

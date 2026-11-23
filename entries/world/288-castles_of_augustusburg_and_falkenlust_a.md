@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(ii)(iv)"
 lat: 50.8275
 lon: 6.908055555
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 布吕尔的奥古斯塔斯堡古堡和法尔肯拉斯特古堡 / Castles of Augustusburg and Falkenlust at Brühl

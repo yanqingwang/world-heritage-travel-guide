@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.307454
 lon: 124.088332
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 本溪市本溪水洞景区 / Benxi Water Caves

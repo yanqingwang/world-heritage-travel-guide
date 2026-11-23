@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 29.869137
 lon: 118.442534
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 黄山市古徽州文化旅游区 / Huangshan

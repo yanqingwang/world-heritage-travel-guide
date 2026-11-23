@@ -2,7 +2,7 @@
 id: "cn-1446"
 dataset: "china_5a"
 name_zh: "东方明珠广播电视塔"
-name_en: "Tianjin Radio and Television Tower"
+name_en: "Dongfangmingzhuguangbodianshita"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.244613
 lon: 121.506046
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
-# 东方明珠广播电视塔 / Tianjin Radio and Television Tower
+# 东方明珠广播电视塔 / Dongfangmingzhuguangbodianshita
 
 > 上海市 · 浦东新区 · 宗教文化
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-16T11:41:01Z"
 
 ### English
 
-The Tianjin Radio and Television Tower is a 415.2-meter-tall (1,362 ft) tower in Tianjin, China, used primarily for communication. It is the 8th tallest freestanding tower in the world. It was built in 1991 at a cost of $45 million. Approximately two-thirds of the way up the tower is an observation pod with 253 square meters (2,720 sq ft) of floor space (used mostly for communication equipment). It is a member of the World Federation of Great Towers.
+The Oriental Pearl Radio and Television Tower is one of Shanghai's iconic cultural landscapes. It is located in Lujiazui, Pudong New Area. The tower is about 468 meters high. The building was constructed in July 1991 and put into use in May 1995. It is responsible for the transmission business of 6 wireless TV sets in Shanghai, with an area coverage radius of 80 kilometers. There are landscapes and facilities in the tower such as a space capsule, a revolving restaurant, and the Shanghai Urban Historical Development Exhibition Hall.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -53,10 +55,9 @@ The Tianjin Radio and Television Tower is a 415.2-meter-tall (1,362 ft) tower in
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天津广播电视塔)
 - [OpenStreetMap](https://www.openstreetmap.org/)

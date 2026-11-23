@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(viii)"
 lat: 56.895649
 lon: 8.751962
-updated_at: "2026-11-16T11:41:13Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 利姆水道西段硬骨鱼化石——始新世最早期的演化和气候适应 / The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene

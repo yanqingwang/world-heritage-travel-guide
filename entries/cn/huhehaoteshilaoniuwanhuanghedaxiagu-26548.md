@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hohhot"
 lat: 39.694348
 lon: 111.435569
-updated_at: "2026-11-16T11:41:01Z"
+updated_at: "2026-11-23T13:00:47Z"
 ---
 
 # 呼和浩特市老牛湾黄河大峡谷旅游区 / Yarlung Tsangpo Grand Canyon

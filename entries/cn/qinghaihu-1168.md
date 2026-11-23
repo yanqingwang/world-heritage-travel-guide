@@ -2,7 +2,7 @@
 id: "cn-1168"
 dataset: "china_5a"
 name_zh: "青海湖风景区"
-name_en: "Qinghaihufeng Scenic Area"
+name_en: "Qinghaihu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Qinghai"
 city_en: "Hainan Tibetan Autonomous Prefecture"
 lat: 36.562486
 lon: 100.620492
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 青海湖风景区 / Qinghaihufeng Scenic Area
+# 青海湖风景区 / Qinghaihu Scenic Area
 
 > 青海省 · 海南藏族自治州 · 草原沙漠
 
@@ -55,4 +55,5 @@ Qinghai Lake, whose Tibetan name is "Cowenbu" (meaning "blue sea"), is China's l
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/青海湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

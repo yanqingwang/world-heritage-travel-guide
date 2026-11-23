@@ -2,7 +2,7 @@
 id: "cn-390"
 dataset: "china_5a"
 name_zh: "百色市百色起义纪念园景区"
-name_en: "Baiseshibaiseqiyijinianyuan Scenic Area"
+name_en: "Baiseshidierrenminyiyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Baise City"
 lat: 23.907336
 lon: 106.646025
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 百色市百色起义纪念园景区 / Baiseshibaiseqiyijinianyuan Scenic Area
+# 百色市百色起义纪念园景区 / Baiseshidierrenminyiyuan Scenic Area
 
 > 广西壮族自治区 · 百色市 · 红色旅游
 
@@ -58,4 +58,5 @@ The Baise Uprising Memorial Hall is located in Yinglongshan Park, Baise City, Gu
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/百色市第二人民医院)
 - [OpenStreetMap](https://www.openstreetmap.org/)

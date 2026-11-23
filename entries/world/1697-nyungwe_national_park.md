@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(x)"
 lat: -2.5282157
 lon: 29.2758463
-updated_at: "2026-11-16T11:41:12Z"
+updated_at: "2026-11-23T13:00:56Z"
 ---
 
 # 纽恩威国家公园 / Nyungwe National Park
@@ -51,7 +51,7 @@ updated_at: "2026-11-16T11:41:12Z"
 
 ### English
 
-This serial property represents an important area for rainforest conservation in Central Africa. The property is home to intact forests and peat bogs, moors, thickets and grasslands, providing habitats to a highly diverse flora and fauna. The Park also contains the most significant natural habitats for a number of species found nowhere else in the world, including the globally threatened Eastern Chimpanzee (Pan troglodytes schweinfurthii), Golden Monkey ( Cercopithecus mitis ssp. kandti ) and the Critically Endangered Hills Horseshoe Bat ( Rhinolophus hillorum ). There are also 12 mammal and seven bird species that are globally threatened, and with 317 species of birds recorded, Nyungwe National Park is one of the most important sites for bird conservation in Africa.
+This serial property represents an important area for rainforest conservation in Central Africa. The property is home to intact forests and peat bogs, moors, thickets and grasslands, providing habitats to a highly diverse flora and fauna. The Park also contains the most significant natural habitats for a number of species found nowhere else in the world, including the globally threatened Eastern Chimpanzee (Pan troglodytes schweinfurthii), Golden Monkey ( Cercopithecus mitis ssp. kandti ) and the Critically Endangered Hills Horseshoe Bat ( Rhinolophus hilli ). There are also 12 mammal and seven bird species that are globally threatened, and with 317 species of birds recorded, Nyungwe National Park is one of the most important sites for bird conservation in Africa.
 
 ## 本地语言 / Local language (French)
 

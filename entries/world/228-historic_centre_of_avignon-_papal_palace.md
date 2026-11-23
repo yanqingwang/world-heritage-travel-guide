@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(i)(ii)(iv)"
 lat: 43.95277778
 lon: 4.806111111
-updated_at: "2026-11-16T11:41:04Z"
+updated_at: "2026-11-23T13:00:50Z"
 ---
 
 # 阿维尼翁历史中心：教皇宫、主教圣堂和阿维尼翁桥 / Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge

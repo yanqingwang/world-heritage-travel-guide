@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(vii)(x)"
 lat: 10.166666666
 lon: 118.916666666
-updated_at: "2026-11-16T11:41:07Z"
+updated_at: "2026-11-23T13:00:52Z"
 ---
 
 # 普林塞萨港地下河国家公园 / Puerto-Princesa Subterranean River National Park

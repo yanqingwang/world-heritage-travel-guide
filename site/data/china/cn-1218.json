@@ -21,6 +21,10 @@
  "category": "religious",
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
+ "admission": "free",
+ "admission_note_zh": "园区免费开放，鸟巢、水立方等场馆参观另收费。",
+ "admission_source": "景区公告/政府发布（2026-11 核验）",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "奥林匹克公园地处城市中轴线北端，总中心区是主要场馆和配套设施建设区。奥林匹克公园中心区是举办北京2008年奥运会的主要场地，拥有亚洲最大的城区人工水系和城市绿化景观、亚洲最长的地下交通环廊和世界最开阔的步行广场。",
  "intro_en": "Aolinpike Gongyuan (Olympic Park) station (simplified Chinese: 奥林匹克公园站; traditional Chinese: 奧林匹克公園站; pinyin: Àolínpǐkè Gōngyuán zhàn) is an interchange station on Line 8 and Line 15 of the Beijing Subway. The station was named Olympic Green. It was renamed on December 31, 2021, to use Pinyin, though the English translation are still displayed in brackets underneath.",
  "intro_en_source": "wikipedia",
@@ -38,7 +42,7 @@
     "lon": 116.596702,
     "type": "large_airport",
     "distance_km": 18.9,
-    "name_zh": "北京首都国际机场"
+    "name_zh": "北京首都國際機場"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -180,7 +184,7 @@
    "source": "OpenStreetMap"
   }
  ],
- "hotels_nearby_30km": 691,
+ "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
   "en": true,
@@ -224,9 +228,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:01Z",
- "admission": "free",
- "admission_note_zh": "园区免费开放，鸟巢、水立方等场馆参观另收费。",
- "admission_source": "景区公告/政府发布（2026-11 核验）",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

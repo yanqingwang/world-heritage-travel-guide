@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 34.43055556
 lon: 131.4122222
-updated_at: "2026-11-16T11:41:11Z"
+updated_at: "2026-11-23T13:00:55Z"
 ---
 
 # 明治工业革命遗迹：钢铁、造船和煤矿 / Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining

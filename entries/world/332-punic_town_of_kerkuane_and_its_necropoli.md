@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)"
 lat: 36.9464
 lon: 11.0992
-updated_at: "2026-11-16T11:41:05Z"
+updated_at: "2026-11-23T13:00:51Z"
 ---
 
 # 科克瓦尼布尼城及其陵园 / Punic Town of Kerkuane and its Necropolis

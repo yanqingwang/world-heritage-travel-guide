@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Wenshan Zhuang and Miao Autonomous Prefecture"
 lat: 24.12162
 lon: 104.138715
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 文山州普者黑旅游景区 / Puzheheihu Scenic Area

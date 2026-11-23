@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Weinan"
 lat: 34.532844
 lon: 110.108226
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 渭南市华山风景区 / Mount Hua

@@ -10,7 +10,7 @@
  "city_zh": "江门市",
  "city_en": "Jiangmen City",
  "name_zh": "江门市开平市开平碉楼文化旅游区",
- "name_en": "Kaipingdiaolou Cultural Tourism Area",
+ "name_en": "Jiangmenshikaipingshikaipingdiaolou Cultural Tourism Area",
  "name_en_source": "pinyin",
  "slug": "jiangmenshikaipingshikaipingdiaolou-500",
  "lat": 22.378728,
@@ -21,6 +21,10 @@
  "category": "town",
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "开平碉楼文化旅游区主要由立园、自力村碉楼群、马降龙古村落三大景区有机组成。区域内高雅独特的园林、传统古朴的民居、中西合璧的碉楼与周边的山水、池塘、田野、稻田完美结合、和谐共融，构建出了一道别具特色的人文景观。2007年，“开平碉楼与村落”被列入《世界文化遗产名录》。",
  "intro_en": "Kaiping Diaolou Cultural Tourism Area is mainly composed of three major scenic spots: Liyuan, Zili Village Diaolou Group, and Majianglong Ancient Village. The elegant and unique gardens, traditional and simple houses, and Chinese and Western watchtowers in the area are perfectly integrated and harmonious with the surrounding mountains, rivers, ponds, fields, and rice fields, creating a unique cultural landscape. In 2007, \"Kaiping Diaolou and Villages\" were included in the World Cultural Heritage List.",
  "intro_en_source": "machine_translation",
@@ -38,7 +42,7 @@
     "lon": 113.375999,
     "type": "large_airport",
     "distance_km": 91.3,
-    "name_zh": "珠海机场"
+    "name_zh": "珠海機場"
    },
    {
     "name": "Foshan Shadi Airport",
@@ -49,7 +53,7 @@
     "lon": 113.070833,
     "type": "medium_airport",
     "distance_km": 92.7,
-    "name_zh": "佛山沙堤机场"
+    "name_zh": "佛山沙堤機場"
    },
    {
     "name": "Macau International Airport",
@@ -60,7 +64,7 @@
     "lon": 113.592003,
     "type": "large_airport",
     "distance_km": 106.6,
-    "name_zh": "澳门国际机场"
+    "name_zh": "澳門國際機場"
    }
   ],
   "nearest_airport_km": 91.3,
@@ -156,10 +160,9 @@
  "info_languages": {
   "zh": true,
   "en": false,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -188,17 +191,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/开平碉楼"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

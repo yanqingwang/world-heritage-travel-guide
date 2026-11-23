@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 35.58673
 lon: 109.281748
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 延安市黄帝陵景区 / Mausoleum of the Yellow Emperor

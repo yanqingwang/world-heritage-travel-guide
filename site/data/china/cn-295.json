@@ -21,6 +21,10 @@
  "category": "grotto",
  "category_zh": "石窟艺术",
  "category_en": "Grotto art",
+ "admission": "unknown",
+ "admission_note_zh": "",
+ "admission_source": "",
+ "admission_checked_at": "2026-11-19",
  "intro_zh": "三国赤壁古战场，相传是赤壁之战发生地。主要景观有赤壁摩崖石刻、周瑜塑像、拜风台、凤雏庵、翼江亭、赤壁大战陈列馆、赤壁碑廊、千年银杏、三国雕塑园等。",
  "intro_en": "The ancient battlefield of Chibi in the Three Kingdoms is said to be the place where the Battle of Chibi took place. The main landscapes include Chibi Cliff Carvings, Statue of Zhou Yu, Wind Worship Platform, Fengchu Nunnery, Yijiang Pavilion, Chibi War Exhibition Hall, Chibi Stele Gallery, Millennium Ginkgo, Three Kingdoms Sculpture Garden, etc.",
  "intro_en_source": "machine_translation",
@@ -49,7 +53,7 @@
     "lon": 114.213723,
     "type": "large_airport",
     "distance_km": 113.4,
-    "name_zh": "武汉天河国际机场"
+    "name_zh": "武漢天河國際機場"
    },
    {
     "name": "Jingzhou Shashi Airport",
@@ -60,7 +64,7 @@
     "lon": 112.44854,
     "type": "medium_airport",
     "distance_km": 123.0,
-    "name_zh": "荆州沙市机场"
+    "name_zh": "沙市机场"
    }
   ],
   "nearest_airport_km": 72.4,
@@ -150,9 +154,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-16T11:41:02Z",
- "admission": "unknown",
- "admission_note_zh": "",
- "admission_source": "",
- "admission_checked_at": "2026-11-19"
+ "updated_at": "2026-11-23T13:00:48Z"
 }

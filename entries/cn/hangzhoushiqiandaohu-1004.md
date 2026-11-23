@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 29.552987
 lon: 119.060105
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
 # 杭州市千岛湖风景区 / Qiandao Lake

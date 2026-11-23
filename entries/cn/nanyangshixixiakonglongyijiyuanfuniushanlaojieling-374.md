@@ -2,7 +2,7 @@
 id: "cn-374"
 dataset: "china_5a"
 name_zh: "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区"
-name_en: "Yangchengzhen (xixiaxian) Tourist Area"
+name_en: "Funiu Mountains"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Nanyang"
 lat: 33.234916
 lon: 111.691965
-updated_at: "2026-11-16T11:41:02Z"
+updated_at: "2026-11-23T13:00:48Z"
 ---
 
-# 南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区 / Yangchengzhen (xixiaxian) Tourist Area
+# 南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区 / Funiu Mountains
 
 > 河南省 · 南阳市 · 度假休闲
 
@@ -50,10 +50,10 @@ The scenic spot is located in Xixia County, Nanyang City, Henan Province. It mai
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阳城镇 (西峡县))
+- [Wikipedia](https://zh.wikipedia.org/wiki/伏牛山)
 - [OpenStreetMap](https://www.openstreetmap.org/)
